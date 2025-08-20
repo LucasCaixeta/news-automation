@@ -1,26 +1,40 @@
+name: Daily Newsletter Update
+
+on:
+  schedule:
+    # Run every day at 08:00 UTC
+    - cron: '0 8 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+permissions:
+  contents: write  # needed to push using GITHUB_TOKEN
+
 jobs:
   update-newsletter:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
-
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          node-version: 20
+          fetch-depth: 0  # full history for diffs/commits
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
           cache: 'npm'
-          # mapeie seu escopo para GitHub Packages
-          registry-url: 'https://npm.pkg.github.com'
-          scope: '@SEU-ESCOPO'   # ex.: @lucascaixeta ou @sua-org
+          registry-url: 'https://registry.npmjs.org'
+          always-auth: false
 
-      - name: Auth for GitHub Packages (no PAT needed)
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Force ONLY the public npm registry and remove any leftover auth/overrides
+      - name: Force public npm registry only (no tokens)
         run: |
-          echo "@SEU-ESCOPO:registry=https://npm.pkg.github.com/" > .npmrc
-          echo "//npm.pkg.github.com/:_authToken=${NODE_AUTH_TOKEN}" >> .npmrc
+          rm -f ~/.npmrc .npmrc || true
+          printf "registry=https://registry.npmjs.org/\nalways-auth=false\n" > .npmrc
+          echo "Effective registry: $(npm config get registry)"
 
-      - name: Install
+      - name: Install dependencies
         run: npm ci
 
       - name: Update newsletter
