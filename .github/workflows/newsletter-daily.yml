@@ -1,4 +1,4 @@
-name: Daily Newsletter Update
+name: Daily Newsletter (Actions)
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write  # needed to push using GITHUB_TOKEN
 
 jobs:
-  update-newsletter:
+  run-newsletter:
     runs-on: ubuntu-latest
 
     steps:
@@ -40,7 +40,7 @@ jobs:
         run: |
           if [ -f package-lock.json ]; then
             echo "=== URLs found in package-lock.json ==="
-            URLS=$(grep -Eo '"resolved":\s*"https?://[^"]+' package-lock.json | sed -E 's/^"resolved":\s*"//' | sort -u || true)
+            URLS=$(grep -EO '"resolved":\s*"https?://[^"]+' package-lock.json | sed -E 's/^"resolved":\s*"//' | sort -u || true)
             if [ -n "$URLS" ]; then
               echo "$URLS"
             else
@@ -57,18 +57,20 @@ jobs:
             echo "No package-lock.json found."
           fi
 
-      # Optional: list private scopes that might need auth (heuristic)
-      - name: Heuristic check for private scopes in package.json
+      - name: Configure npm registry
+        run: npm config set registry https://registry.npmjs.org/
+
+      - name: Clean install dependencies
         run: |
-          node -e "try{const p=require('./package.json');const deps={...p.dependencies,...p.devDependencies};const scopes=[...new Set(Object.keys(deps||{}).filter(n=>n.startsWith('@')&&n.includes('/')).map(n=>n.split('/')[0]))];console.log('Detected scopes:', scopes);}catch(e){console.log('No package.json or parse error', e?.message)}"
+          rm -f package-lock.json
+          npm install --loglevel=verbose
 
-      - name: Install dependencies
-        run: npm ci --loglevel=verbose
-
-      - name: Update newsletter
+      - name: Run newsletter update script
         run: node src/updateNewsletter.js
 
       - name: Commit and push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
@@ -79,3 +81,5 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
+
