@@ -4,7 +4,6 @@ on:
   schedule:
     # Run every day at 08:00 UTC
     - cron: '0 8 * * *'
-  # Allow manual triggering
   workflow_dispatch:
 
 permissions:
@@ -13,29 +12,58 @@ permissions:
 jobs:
   update-newsletter:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # full history for diffs/commits
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 20
           cache: 'npm'
           registry-url: 'https://registry.npmjs.org'
           always-auth: false
 
-      # Force ONLY the public npm registry and remove any leftover auth/overrides
+      # Force only public registry, remove any leftover auth files
       - name: Force public npm registry only (no tokens)
         run: |
           rm -f ~/.npmrc .npmrc || true
           printf "registry=https://registry.npmjs.org/\nalways-auth=false\n" > .npmrc
           echo "Effective registry: $(npm config get registry)"
+          npm ping
+
+      # 🔎 Detect non-public registries/tarballs in package-lock.json
+      - name: Inspect lockfile registries and tarballs
+        run: |
+          if [ -f package-lock.json ]; then
+            echo "=== URLs found in package-lock.json ==="
+            URLS=$(grep -Eo '"resolved":\s*"https?://[^"]+' package-lock.json | sed -E 's/^"resolved":\s*"//' | sort -u || true)
+            if [ -n "$URLS" ]; then
+              echo "$URLS"
+            else
+              echo "(no resolved URLs found)"
+            fi
+            echo "=== Non-npmjs URLs (should be empty) ==="
+            NON_NPM=$(echo "$URLS" | grep -v 'registry\.npmjs\.org' || true)
+            if [ -n "$NON_NPM" ]; then
+              echo "$NON_NPM"
+              echo "::error::Your lockfile references non-public registries or private tarballs above. Remove/replace those deps or regenerate the lockfile to use the public npm registry only."
+              exit 1
+            fi
+          else
+            echo "No package-lock.json found."
+          fi
+
+      # Optional: list private scopes that might need auth (heuristic)
+      - name: Heuristic check for private scopes in package.json
+        run: |
+          node -e "try{const p=require('./package.json');const deps={...p.dependencies,...p.devDependencies};const scopes=[...new Set(Object.keys(deps||{}).filter(n=>n.startsWith('@')&&n.includes('/')).map(n=>n.split('/')[0]))];console.log('Detected scopes:', scopes);}catch(e){console.log('No package.json or parse error', e?.message)}"
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --loglevel=verbose
 
       - name: Update newsletter
         run: node src/updateNewsletter.js
