@@ -2,34 +2,43 @@ name: Daily Newsletter Update
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # 08:00 UTC, todos os dias
-  workflow_dispatch:
+    # Run every day at 08:00 UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
 
 permissions:
-  contents: write   # necessário para push com GITHUB_TOKEN
+  contents: write   # Required for committing/pushing changes
 
 jobs:
   update-newsletter:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository so workflow has access to the files
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # precisamos do histórico para diffs/commits
+          fetch-depth: 0   # Get full history for diffs/commits
 
+      # Set up Node.js environment with npm caching
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 20
           cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'  # Use npmjs registry
 
-      - name: Install
+      # Install project dependencies using private npm token
+      - name: Install dependencies (with private npm token)
         run: npm ci
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}  # NPM automation token stored in repo secrets
 
+      # Run custom script to update the newsletter
       - name: Update newsletter
         run: node src/updateNewsletter.js
 
+      # Commit and push updated README.md if changes exist
       - name: Commit and push if changed
         run: |
           git config user.email "action@github.com"
