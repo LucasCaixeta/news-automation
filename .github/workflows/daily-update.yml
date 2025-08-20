@@ -2,41 +2,42 @@ name: Daily Newsletter Update
 
 on:
   schedule:
-    # Run every day at 8:00 UTC
-    - cron: '0 8 * * *'
-  # Allow manual triggering
+    - cron: '0 8 * * *'   # 08:00 UTC, todos os dias
   workflow_dispatch:
+
+permissions:
+  contents: write   # necessário para push com GITHUB_TOKEN
 
 jobs:
   update-newsletter:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          fetch-depth: 0   # precisamos do histórico para diffs/commits
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'npm'
-          registry-url: 'https://registry.npmjs.org'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install
+        run: npm ci
 
       - name: Update newsletter
         run: node src/updateNewsletter.js
 
       - name: Commit and push if changed
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Update newsletter for $(date +'%Y-%m-%d')"
-            git remote set-url origin https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+          if ! git diff --quiet --cached; then
+            git commit -m "Update newsletter for $(date -u +'%Y-%m-%d')"
             git push
-          )
+          else
+            echo "No changes to commit."
+          fi
