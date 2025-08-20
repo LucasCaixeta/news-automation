@@ -9,20 +9,18 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-          registry-url: 'https://registry.npmjs.org'
-          always-auth: false
+          # mapeie seu escopo para GitHub Packages
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@SEU-ESCOPO'   # ex.: @lucascaixeta ou @sua-org
 
-      # Sanitize: remove qualquer .npmrc do runner/projeto e force registry público
-      - name: Force public registry only
+      - name: Auth for GitHub Packages (no PAT needed)
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          rm -f ~/.npmrc .npmrc || true
-          echo "registry=https://registry.npmjs.org/" > .npmrc
-          echo "always-auth=false" >> .npmrc
-          echo "Effective npm registry: $(npm config get registry)"
-          echo "Lockfile registries:"
-          (grep -Eo 'https?://[^"]+' package-lock.json | sort -u) || echo "no lockfile or no urls"
+          echo "@SEU-ESCOPO:registry=https://npm.pkg.github.com/" > .npmrc
+          echo "//npm.pkg.github.com/:_authToken=${NODE_AUTH_TOKEN}" >> .npmrc
 
-      - name: Install dependencies
+      - name: Install
         run: npm ci
 
       - name: Update newsletter
