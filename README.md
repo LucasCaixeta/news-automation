@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 20, 2025)
+### Today's Updates (August 21, 2025)
+
+#### Dev.to JavaScript
+
+- [How to create an App service application in Azure.](https://dev.to/onyemuche/how-to-create-an-app-service-application-in-azure-431m)
+- [Natural Sticky: Tiny Hide-on-Scroll Library for Smooth Headers & Footers](https://dev.to/jqueryscript/natural-sticky-tiny-hide-on-scroll-library-for-smooth-headers-footers-5do4)
+- [WebAssembly 基础（一）](https://dev.to/yangholmes/webassembly-ji-chu--32kb)
+
+#### Dev.to React
+
+- [🚀 My npm package just hit 400 downloads in 3 days!](https://dev.to/asad_rafi1221/my-npm-package-just-hit-400-downloads-in-3-days-47pj)
+- [GitHub PR Stats - Visualization Tool for Creating Beautiful SVG Cards](https://dev.to/f14xuanlv/github-pr-stats-visualization-tool-for-creating-beautiful-svg-cards-1opp)
+- [AI Elements: Pre-Built React Components for AI Applications](https://dev.to/jqueryscript/ai-elements-pre-built-react-components-for-ai-applications-48gp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 20, 2025)
+### 2 Days Ago (August 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -65,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-21",
+    "formattedDate": "August 21, 2025",
+    "news": [
+      {
+        "title": "How to create an App service application in Azure.",
+        "link": "https://dev.to/onyemuche/how-to-create-an-app-service-application-in-azure-431m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Natural Sticky: Tiny Hide-on-Scroll Library for Smooth Headers & Footers",
+        "link": "https://dev.to/jqueryscript/natural-sticky-tiny-hide-on-scroll-library-for-smooth-headers-footers-5do4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "WebAssembly 基础（一）",
+        "link": "https://dev.to/yangholmes/webassembly-ji-chu--32kb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 My npm package just hit 400 downloads in 3 days!",
+        "link": "https://dev.to/asad_rafi1221/my-npm-package-just-hit-400-downloads-in-3-days-47pj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "GitHub PR Stats - Visualization Tool for Creating Beautiful SVG Cards",
+        "link": "https://dev.to/f14xuanlv/github-pr-stats-visualization-tool-for-creating-beautiful-svg-cards-1opp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "AI Elements: Pre-Built React Components for AI Applications",
+        "link": "https://dev.to/jqueryscript/ai-elements-pre-built-react-components-for-ai-applications-48gp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-20",
     "formattedDate": "August 20, 2025",
