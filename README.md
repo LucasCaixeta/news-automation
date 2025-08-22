@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 21, 2025)
+### Today's Updates (August 22, 2025)
+
+#### Dev.to JavaScript
+
+- [🔥 Simulating Course Schedules 600x Faster with Web Workers in CourseCast](https://dev.to/somedood/simulating-course-schedules-600x-faster-with-web-workers-in-coursecast-41ma)
+- [Gating entrances with Stripe and NFC passes](https://dev.to/joshnuss/gating-entrances-with-stripe-and-nfc-passes-43na)
+- [HOW TO CREATE AZURE APP SERVICE BY PUBLISHING A GAME WEB APP](https://dev.to/ajayid10/how-to-create-azure-app-service-by-publishing-a-web-app-2mki)
+
+#### Dev.to React
+
+- [Closure em React na prática: criando um useDebounce em 15 linhas](https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo)
+- [Master React State: When to Use useState vs useReducer (No More Confusion)](https://dev.to/werliton/master-react-state-when-to-use-usestate-vs-usereducer-no-more-confusion-4c1k)
+- [Self-Hosting Next.js: What You Gain (and Lose) vs Vercel](https://dev.to/rbobr/self-hosting-nextjs-what-you-gain-and-lose-vs-vercel-4g8c)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 20, 2025)
+### 2 Days Ago (August 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [From enterprise backend to shipping a full‑stack app: the parts I had to learn the hard way](https://dev.to/wl0182/from-enterprise-backend-to-shipping-a-full-stack-app-the-parts-i-had-to-learn-the-hard-way-5ch4)
 - [Day 10–12 of My React Journey – Context API](https://dev.to/usman_butt_dev/day-10-12-of-my-react-journey-context-api-14g1)
 - [⚡ Understanding React Keys and Why They Matter](https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 20, 2025)
-
-#### Dev.to JavaScript
-
-- [Optimizing React The Right Way For Blazing Fast Apps](https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np)
-- [Dos and Don’ts of Building a Tracking Script in Vanilla JS](https://dev.to/juggernautmain/dos-and-donts-of-building-a-tracking-script-in-vanilla-js-5cn2)
-- [Understanding JavaScript Closures](https://dev.to/brendon_oneill__/understanding-javascript-closures-54ci)
-
-#### Dev.to React
-
-- [Optimizing React The Right Way For Blazing Fast Apps](https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np)
-- [3 TanStack Query Features That Transform Production React Apps](https://dev.to/martinrojas/3-tanstack-query-features-that-transform-production-react-apps-196b)
-- [🚀 Goodbye Backend? Build Full-Powered Web Apps with Only Supabase + React!](https://dev.to/ekwoster/goodbye-backend-build-full-powered-web-apps-with-only-supabase-react-4cip)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-22",
+    "formattedDate": "August 22, 2025",
+    "news": [
+      {
+        "title": "🔥 Simulating Course Schedules 600x Faster with Web Workers in CourseCast",
+        "link": "https://dev.to/somedood/simulating-course-schedules-600x-faster-with-web-workers-in-coursecast-41ma",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Gating entrances with Stripe and NFC passes",
+        "link": "https://dev.to/joshnuss/gating-entrances-with-stripe-and-nfc-passes-43na",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "HOW TO CREATE AZURE APP SERVICE BY PUBLISHING A GAME WEB APP",
+        "link": "https://dev.to/ajayid10/how-to-create-azure-app-service-by-publishing-a-web-app-2mki",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Closure em React na prática: criando um useDebounce em 15 linhas",
+        "link": "https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Master React State: When to Use useState vs useReducer (No More Confusion)",
+        "link": "https://dev.to/werliton/master-react-state-when-to-use-usestate-vs-usereducer-no-more-confusion-4c1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Self-Hosting Next.js: What You Gain (and Lose) vs Vercel",
+        "link": "https://dev.to/rbobr/self-hosting-nextjs-what-you-gain-and-lose-vs-vercel-4g8c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-21",
     "formattedDate": "August 21, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "⚡ Understanding React Keys and Why They Matter",
         "link": "https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-20",
-    "formattedDate": "August 20, 2025",
-    "news": [
-      {
-        "title": "Optimizing React The Right Way For Blazing Fast Apps",
-        "link": "https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Dos and Don’ts of Building a Tracking Script in Vanilla JS",
-        "link": "https://dev.to/juggernautmain/dos-and-donts-of-building-a-tracking-script-in-vanilla-js-5cn2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Understanding JavaScript Closures",
-        "link": "https://dev.to/brendon_oneill__/understanding-javascript-closures-54ci",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Optimizing React The Right Way For Blazing Fast Apps",
-        "link": "https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "3 TanStack Query Features That Transform Production React Apps",
-        "link": "https://dev.to/martinrojas/3-tanstack-query-features-that-transform-production-react-apps-196b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 Goodbye Backend? Build Full-Powered Web Apps with Only Supabase + React!",
-        "link": "https://dev.to/ekwoster/goodbye-backend-build-full-powered-web-apps-with-only-supabase-react-4cip",
         "source": "Dev.to React"
       },
       {
