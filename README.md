@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 22, 2025)
+### Today's Updates (August 23, 2025)
+
+#### Dev.to JavaScript
+
+- [🌟💻 Welcome to DEV Community – WhatsApp Channel Revolution](https://dev.to/hanzla-baig/welcome-to-dev-community-whatsapp-channel-revolution-14h4)
+- [🌟📱 Introducing the Official DEV Community WhatsApp Channel](https://dev.to/hanzla-baig/introducing-the-official-dev-community-whatsapp-channel-4lgo)
+- [🌟🔥 The Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf)
+
+#### Dev.to React
+
+- [⚡ Understanding React Keys: Why They Matter in Lists](https://dev.to/aman_kureshi_/understanding-react-keys-why-they-matter-in-lists-4en4)
+- [Closure em React na prática: criando um useDebounce em 15 linhas](https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo)
+- [Master React State: When to Use useState vs useReducer (No More Confusion)](https://dev.to/werliton/master-react-state-when-to-use-usestate-vs-usereducer-no-more-confusion-4c1k)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 22, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 21, 2025)
+### 2 Days Ago (August 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 My npm package just hit 400 downloads in 3 days!](https://dev.to/asad_rafi1221/my-npm-package-just-hit-400-downloads-in-3-days-47pj)
 - [GitHub PR Stats - Visualization Tool for Creating Beautiful SVG Cards](https://dev.to/f14xuanlv/github-pr-stats-visualization-tool-for-creating-beautiful-svg-cards-1opp)
 - [AI Elements: Pre-Built React Components for AI Applications](https://dev.to/jqueryscript/ai-elements-pre-built-react-components-for-ai-applications-48gp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 20, 2025)
-
-#### Dev.to JavaScript
-
-- [Testing Kafka Workflows Without Kafka — With Playwright & Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-kafka-workflows-without-kafka-with-playwright-mokapi-29l1)
-- [🔑 Build a Simple Password Generator with HTML, CSS & JavaScript](https://dev.to/giftintech/build-a-simple-password-generator-with-html-css-javascript-4429)
-- [⚡ Understanding React Keys and Why They Matter](https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl)
-
-#### Dev.to React
-
-- [From enterprise backend to shipping a full‑stack app: the parts I had to learn the hard way](https://dev.to/wl0182/from-enterprise-backend-to-shipping-a-full-stack-app-the-parts-i-had-to-learn-the-hard-way-5ch4)
-- [Day 10–12 of My React Journey – Context API](https://dev.to/usman_butt_dev/day-10-12-of-my-react-journey-context-api-14g1)
-- [⚡ Understanding React Keys and Why They Matter](https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-23",
+    "formattedDate": "August 23, 2025",
+    "news": [
+      {
+        "title": "🌟💻 Welcome to DEV Community – WhatsApp Channel Revolution",
+        "link": "https://dev.to/hanzla-baig/welcome-to-dev-community-whatsapp-channel-revolution-14h4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🌟📱 Introducing the Official DEV Community WhatsApp Channel",
+        "link": "https://dev.to/hanzla-baig/introducing-the-official-dev-community-whatsapp-channel-4lgo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🌟🔥 The Ultimate DEV Community on WhatsApp",
+        "link": "https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "⚡ Understanding React Keys: Why They Matter in Lists",
+        "link": "https://dev.to/aman_kureshi_/understanding-react-keys-why-they-matter-in-lists-4en4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Closure em React na prática: criando um useDebounce em 15 linhas",
+        "link": "https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Master React State: When to Use useState vs useReducer (No More Confusion)",
+        "link": "https://dev.to/werliton/master-react-state-when-to-use-usestate-vs-usereducer-no-more-confusion-4c1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-22",
     "formattedDate": "August 22, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "AI Elements: Pre-Built React Components for AI Applications",
         "link": "https://dev.to/jqueryscript/ai-elements-pre-built-react-components-for-ai-applications-48gp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-20",
-    "formattedDate": "August 20, 2025",
-    "news": [
-      {
-        "title": "Testing Kafka Workflows Without Kafka — With Playwright & Mokapi",
-        "link": "https://dev.to/marcel_lehmann_31109127df/testing-kafka-workflows-without-kafka-with-playwright-mokapi-29l1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🔑 Build a Simple Password Generator with HTML, CSS & JavaScript",
-        "link": "https://dev.to/giftintech/build-a-simple-password-generator-with-html-css-javascript-4429",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "⚡ Understanding React Keys and Why They Matter",
-        "link": "https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "From enterprise backend to shipping a full‑stack app: the parts I had to learn the hard way",
-        "link": "https://dev.to/wl0182/from-enterprise-backend-to-shipping-a-full-stack-app-the-parts-i-had-to-learn-the-hard-way-5ch4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Day 10–12 of My React Journey – Context API",
-        "link": "https://dev.to/usman_butt_dev/day-10-12-of-my-react-journey-context-api-14g1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "⚡ Understanding React Keys and Why They Matter",
-        "link": "https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl",
         "source": "Dev.to React"
       },
       {
