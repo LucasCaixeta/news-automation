@@ -1,94 +1,25 @@
 name: Daily Newsletter (Actions)
 
 on:
-  # Check every 15 minutes; a gate below decides whether to actually run
   schedule:
-    - cron: "*/15 * * * *"
+    # Run every day at 08:00 UTC
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write  # needed to push using GITHUB_TOKEN
 
-# Prevent overlaps; a new tick cancels the previous one
-concurrency:
-  group: newsletter-${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   run-newsletter:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-    env:
-      SLOTS_PER_DAY: "96"  # 96 quarter-hour slots in a day
 
     steps:
-      - name: Decide if this slot should run (1–5 random runs/day)
-        id: gate
-        shell: bash
-        run: |
-          set -euo pipefail
-          TODAY_UTC="$(date -u +'%Y-%m-%d')"
-          HOUR="$(date -u +'%H')"
-          MIN="$(date -u +'%M')"
-
-          # Current 15-min slot index (0..95)
-          CUR_SLOT=$((10#$HOUR * 4 + (10#$MIN / 15)))
-
-          # Deterministic daily seed from date + repo (gives per-day "random")
-          SEED_HEX="$(printf '%s|%s' "$TODAY_UTC" "${GITHUB_REPOSITORY}" | sha256sum | cut -c1-8)"
-          SEED=$((16#$SEED_HEX))
-
-          # 1..5 runs per day
-          TARGET_RUNS=$(( SEED % 5 + 1 ))
-
-          # Simple LCG PRNG
-          lcg_next () {
-            SEED=$(( (1103515245 * SEED + 12345) % 2147483647 ))
-            echo $SEED
-          }
-
-          # Pick unique 15-min slots for today
-          declare -A PICKED=()
-          SELECTED_SLOTS=()
-          while [ ${#SELECTED_SLOTS[@]} -lt $TARGET_RUNS ]; do
-            R=$(lcg_next)
-            SLOT=$(( R % ${SLOTS_PER_DAY} ))
-            if [ -z "${PICKED[$SLOT]+x}" ]; then
-              PICKED[$SLOT]=1
-              SELECTED_SLOTS+=("$SLOT")
-            fi
-          done
-
-          # Sort to know earliest slot (for heartbeat)
-          IFS=$'\n' SORTED=($(printf '%s\n' "${SELECTED_SLOTS[@]}" | sort -n))
-          FIRST_SLOT="${SORTED[0]}"
-
-          SHOULD_RUN="false"
-          for s in "${SELECTED_SLOTS[@]}"; do
-            if [ "$s" = "$CUR_SLOT" ]; then
-              SHOULD_RUN="true"
-              break
-            fi
-          done
-
-          echo "TODAY_UTC=$TODAY_UTC"       >> "$GITHUB_ENV"
-          echo "FIRST_SLOT=$FIRST_SLOT"     >> "$GITHUB_ENV"
-          echo "CUR_SLOT=$CUR_SLOT"         >> "$GITHUB_ENV"
-          echo "SHOULD_RUN=$SHOULD_RUN"     >> "$GITHUB_ENV"
-
-          echo "Today (UTC): $TODAY_UTC"
-          echo "Target runs: $TARGET_RUNS"
-          echo "Selected slots: ${SELECTED_SLOTS[*]}"
-          echo "Current slot: $CUR_SLOT | First slot: $FIRST_SLOT | Run now? $SHOULD_RUN"
-
       - name: Checkout repository
-        if: env.SHOULD_RUN == 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Set up Node.js
-        if: env.SHOULD_RUN == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -98,17 +29,14 @@ jobs:
 
       # Force only public registry, remove any leftover auth files
       - name: Force public npm registry only (no tokens)
-        if: env.SHOULD_RUN == 'true'
         run: |
           rm -f ~/.npmrc .npmrc || true
           printf "registry=https://registry.npmjs.org/\nalways-auth=false\n" > .npmrc
           echo "Effective registry: $(npm config get registry)"
-          # Bound ping so it can't hang forever
-          timeout 20s npm ping || echo "npm ping timed out (continuing)"
+          npm ping
 
       # 🔎 Detect non-public registries/tarballs in package-lock.json
       - name: Inspect lockfile registries and tarballs
-        if: env.SHOULD_RUN == 'true'
         run: |
           if [ -f package-lock.json ]; then
             echo "=== URLs found in package-lock.json ==="
@@ -130,43 +58,26 @@ jobs:
           fi
 
       - name: Configure npm registry
-        if: env.SHOULD_RUN == 'true'
         run: npm config set registry https://registry.npmjs.org/
 
       - name: Clean install dependencies
-        if: env.SHOULD_RUN == 'true'
         run: |
           rm -f package-lock.json
-          npm install --loglevel=verbose --no-audit --no-fund
+          npm install --loglevel=verbose
 
       - name: Run newsletter update script
-        if: env.SHOULD_RUN == 'true'
         run: node src/updateNewsletter.js
 
-      - name: Commit and push if changed (with daily heartbeat)
-        if: env.SHOULD_RUN == 'true'
+      - name: Commit and push if changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -euo pipefail
           git config user.email "contato@lucascaixeta.com"
           git config user.name "Lucas Caixeta"
-          git add README.md || true
-
+          git add README.md
           if ! git diff --quiet --cached; then
-            git commit -m "Update newsletter for ${TODAY_UTC}"
+            git commit -m "Update newsletter for $(date -u +'%Y-%m-%d')"
             git push
-            exit 0
-          fi
-
-          # If no changes, create a once-per-day heartbeat commit at earliest slot
-          if [ "${CUR_SLOT}" = "${FIRST_SLOT}" ]; then
-            mkdir -p .github
-            printf "Heartbeat: %s %s UTC\n" "${TODAY_UTC}" "$(date -u +'%H:%M')" > .github/daily-heartbeat.txt
-            git add .github/daily-heartbeat.txt
-            git commit -m "Daily heartbeat for ${TODAY_UTC}"
-            git push
-            echo "Heartbeat commit created."
           else
-            echo "No changes to commit and not earliest slot — skipping commit."
+            echo "No changes to commit."
           fi
