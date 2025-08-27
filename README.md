@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 26, 2025)
+### Today's Updates (August 27, 2025)
+
+#### Dev.to JavaScript
+
+- [i made a searchable table of 200+ startup ideas with monetisation and difficulty scores + analysis](https://dev.to/vulcanwm/i-made-a-searchable-table-of-200-startup-ideas-with-monetisation-and-difficulty-scores-analysis-5hnf)
+- [Mapstronaut: A Flexible Object-Mapping Library for JS/TS](https://dev.to/jprevo/introducing-mapstronaut-a-flexible-object-mapping-library-for-jsts-3470)
+- [YAGNI: Why You Shouldn’t Build What You Don’t Need](https://dev.to/lovestaco/yagni-why-you-shouldnt-build-what-you-dont-need-3p9j)
+
+#### Dev.to React
+
+- [N+1 Hydra: A Senior Engineer's Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
+- [Implement the useStateWithReset custom hook in React](https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3)
+- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 25, 2025)
+### 2 Days Ago (August 25, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🧑‍🏫 Tutorial: How to Build a Searchable Dropdown Component in React](https://dev.to/shahjalalbu/tutorial-how-to-build-a-searchable-dropdown-component-in-react-3fi4)
 - [Create Custom Themes in Tailwind CSS v4 – @custom-variant (1/2)](https://dev.to/vrauuss_softwares/-create-custom-themes-in-tailwind-css-v4-custom-variant-12-2nf0)
 - [Deploy a React App on Ubuntu Web Server in AWS CLoud [week-1]](https://dev.to/suvrajeet/deploy-a-react-app-on-ubuntu-web-server-in-aws-cloud-week-1-1me1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 24, 2025)
-
-#### Dev.to JavaScript
-
-- [I built a bundle-saving UI tool and open-sourced it 🔥](https://dev.to/anthonymax/i-built-a-bundle-saving-ui-tool-and-open-sourced-it-3e2e)
-- [Why JSON-Serializable Rules Changed Everything: From Code Chaos to Configuration Clarity](https://dev.to/crafts69guy/why-json-serializable-rules-changed-everything-from-code-chaos-to-configuration-clarity-2c9)
-- [Running n8n Locally Without Regrets.](https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55)
-
-#### Dev.to React
-
-- [⚡ Understanding React Keys: Why They Matter in Lists](https://dev.to/aman_kureshi_/understanding-react-keys-why-they-matter-in-lists-4en4)
-- [Closure em React na prática: criando um useDebounce em 15 linhas](https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo)
-- [Master React State: When to Use useState vs useReducer (No More Confusion)](https://dev.to/werliton/master-react-state-when-to-use-usestate-vs-usereducer-no-more-confusion-4c1k)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-27",
+    "formattedDate": "August 27, 2025",
+    "news": [
+      {
+        "title": "i made a searchable table of 200+ startup ideas with monetisation and difficulty scores + analysis",
+        "link": "https://dev.to/vulcanwm/i-made-a-searchable-table-of-200-startup-ideas-with-monetisation-and-difficulty-scores-analysis-5hnf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mapstronaut: A Flexible Object-Mapping Library for JS/TS",
+        "link": "https://dev.to/jprevo/introducing-mapstronaut-a-flexible-object-mapping-library-for-jsts-3470",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "YAGNI: Why You Shouldn’t Build What You Don’t Need",
+        "link": "https://dev.to/lovestaco/yagni-why-you-shouldnt-build-what-you-dont-need-3p9j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "N+1 Hydra: A Senior Engineer's Guide to strict_loading",
+        "link": "https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Implement the useStateWithReset custom hook in React",
+        "link": "https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why We’re Moving on From Nix",
+        "link": "https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-26",
     "formattedDate": "August 26, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Deploy a React App on Ubuntu Web Server in AWS CLoud [week-1]",
         "link": "https://dev.to/suvrajeet/deploy-a-react-app-on-ubuntu-web-server-in-aws-cloud-week-1-1me1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-24",
-    "formattedDate": "August 24, 2025",
-    "news": [
-      {
-        "title": "I built a bundle-saving UI tool and open-sourced it 🔥",
-        "link": "https://dev.to/anthonymax/i-built-a-bundle-saving-ui-tool-and-open-sourced-it-3e2e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why JSON-Serializable Rules Changed Everything: From Code Chaos to Configuration Clarity",
-        "link": "https://dev.to/crafts69guy/why-json-serializable-rules-changed-everything-from-code-chaos-to-configuration-clarity-2c9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Running n8n Locally Without Regrets.",
-        "link": "https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "⚡ Understanding React Keys: Why They Matter in Lists",
-        "link": "https://dev.to/aman_kureshi_/understanding-react-keys-why-they-matter-in-lists-4en4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Closure em React na prática: criando um useDebounce em 15 linhas",
-        "link": "https://dev.to/rogeriorioli/closure-em-react-na-pratica-criando-um-usedebounce-em-15-linhas-2bjo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Master React State: When to Use useState vs useReducer (No More Confusion)",
-        "link": "https://dev.to/werliton/master-react-state-when-to-use-usestate-vs-usereducer-no-more-confusion-4c1k",
         "source": "Dev.to React"
       },
       {
