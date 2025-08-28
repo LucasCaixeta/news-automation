@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 27, 2025)
+### Today's Updates (August 28, 2025)
+
+#### Dev.to JavaScript
+
+- [3D Earn Grid – Tracking My £100k Before Uni Challenge](https://dev.to/vulcanwm/3d-earn-grid-tracking-my-ps100k-before-uni-challenge-b8h)
+- [Top 10 Free Dev Tools to Boost Productivity in 2025](https://dev.to/therealmrmumba/top-10-free-dev-tools-to-boost-productivity-in-2025-1i9o)
+- [Learning JS](https://dev.to/raielly/learning-js-4eec)
+
+#### Dev.to React
+
+- [🚀 Building Viral Hunts: AI Scavenger App with Expo & NFTs – Dev Feedback Needed! 💻🎮](https://dev.to/jcloud/building-viral-hunts-ai-scavenger-app-with-expo-nfts-dev-feedback-needed-ode)
+- [Why Your React App Feels Slow — Even When It Isn’t: The Hidden Cost of Unoptimized Renders 🔍⚡️](https://dev.to/ekwoster/why-your-react-app-feels-slow-even-when-it-isnt-the-hidden-cost-of-unoptimized-renders-3m63)
+- [Custom Bezier Tool in Konva.js with React + Redux](https://dev.to/da_faq/custom-bezier-tool-in-konvajs-with-react-redux-43p5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 26, 2025)
+### 2 Days Ago (August 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
 - [Everything React: From Basics to Advanced - Introduction to the Series](https://dev.to/mendoncamaria/everything-react-from-basics-to-advanced-introduction-to-the-series-279n)
 - [I built Kostudy - An AI-first, fully-featured, open source, universal education web app](https://dev.to/youssefimlyhen/i-built-kostudy-an-ai-first-fully-featured-open-source-universal-education-web-app-lc5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 25, 2025)
-
-#### Dev.to JavaScript
-
-- [10 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-dkk)
-- [At 33, Baby on the Way, No Plan: How I Became a Developer](https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3)
-- [19 JavaScript One-Liners That’ll Blow Your Mind](https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn)
-
-#### Dev.to React
-
-- [🧑‍🏫 Tutorial: How to Build a Searchable Dropdown Component in React](https://dev.to/shahjalalbu/tutorial-how-to-build-a-searchable-dropdown-component-in-react-3fi4)
-- [Create Custom Themes in Tailwind CSS v4 – @custom-variant (1/2)](https://dev.to/vrauuss_softwares/-create-custom-themes-in-tailwind-css-v4-custom-variant-12-2nf0)
-- [Deploy a React App on Ubuntu Web Server in AWS CLoud [week-1]](https://dev.to/suvrajeet/deploy-a-react-app-on-ubuntu-web-server-in-aws-cloud-week-1-1me1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-28",
+    "formattedDate": "August 28, 2025",
+    "news": [
+      {
+        "title": "3D Earn Grid – Tracking My £100k Before Uni Challenge",
+        "link": "https://dev.to/vulcanwm/3d-earn-grid-tracking-my-ps100k-before-uni-challenge-b8h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Top 10 Free Dev Tools to Boost Productivity in 2025",
+        "link": "https://dev.to/therealmrmumba/top-10-free-dev-tools-to-boost-productivity-in-2025-1i9o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Learning JS",
+        "link": "https://dev.to/raielly/learning-js-4eec",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Building Viral Hunts: AI Scavenger App with Expo & NFTs – Dev Feedback Needed! 💻🎮",
+        "link": "https://dev.to/jcloud/building-viral-hunts-ai-scavenger-app-with-expo-nfts-dev-feedback-needed-ode",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Your React App Feels Slow — Even When It Isn’t: The Hidden Cost of Unoptimized Renders 🔍⚡️",
+        "link": "https://dev.to/ekwoster/why-your-react-app-feels-slow-even-when-it-isnt-the-hidden-cost-of-unoptimized-renders-3m63",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Custom Bezier Tool in Konva.js with React + Redux",
+        "link": "https://dev.to/da_faq/custom-bezier-tool-in-konvajs-with-react-redux-43p5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-27",
     "formattedDate": "August 27, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I built Kostudy - An AI-first, fully-featured, open source, universal education web app",
         "link": "https://dev.to/youssefimlyhen/i-built-kostudy-an-ai-first-fully-featured-open-source-universal-education-web-app-lc5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-25",
-    "formattedDate": "August 25, 2025",
-    "news": [
-      {
-        "title": "10 Open Source Gems To Become The Ultimate Developer 🔥",
-        "link": "https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-dkk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "At 33, Baby on the Way, No Plan: How I Became a Developer",
-        "link": "https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "19 JavaScript One-Liners That’ll Blow Your Mind",
-        "link": "https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧑‍🏫 Tutorial: How to Build a Searchable Dropdown Component in React",
-        "link": "https://dev.to/shahjalalbu/tutorial-how-to-build-a-searchable-dropdown-component-in-react-3fi4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Create Custom Themes in Tailwind CSS v4 – @custom-variant (1/2)",
-        "link": "https://dev.to/vrauuss_softwares/-create-custom-themes-in-tailwind-css-v4-custom-variant-12-2nf0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Deploy a React App on Ubuntu Web Server in AWS CLoud [week-1]",
-        "link": "https://dev.to/suvrajeet/deploy-a-react-app-on-ubuntu-web-server-in-aws-cloud-week-1-1me1",
         "source": "Dev.to React"
       },
       {
