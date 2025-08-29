@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 28, 2025)
+### Today's Updates (August 29, 2025)
+
+#### Dev.to JavaScript
+
+- [CAP Theorem 101: Balancing Consistency, Availability & Partition Tolerance](https://dev.to/manas_tole_039/cap-theorem-101-balancing-consistency-availability-partition-tolerance-2c7f)
+- [The Many Personalities of Angular’s viewChild (the Read Parameter)](https://dev.to/brianmtreese/the-multiple-personalities-of-angulars-viewchild-the-read-parameter-2c2j)
+- [Beyond CAP: Understanding the PACELC Theorem in Distributed Systems](https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3)
+
+#### Dev.to React
+
+- [Creating a Review Analyser Using the Vercel AI SDK and React 19](https://dev.to/carlrippon/creating-a-review-analyser-using-the-vercel-ai-sdk-and-react-19-cg8)
+- [♟️ Building a Chess App with React, Node.js, Kafka, and AWS (Part 1)](https://dev.to/raviv_gilady/building-a-chess-app-with-react-nodejs-kafka-and-aws-part-1-4bph)
+- [Next Stop, Nuxt: A React Engineer’s Journey into Vue](https://dev.to/graemegeorge/react-vue-a-senior-devs-self-study-bootcamp-2k38)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 27, 2025)
+### 2 Days Ago (August 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [N+1 Hydra: A Senior Engineer's Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
 - [Implement the useStateWithReset custom hook in React](https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3)
 - [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 26, 2025)
-
-#### Dev.to JavaScript
-
-- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
-- [Everything React: From Basics to Advanced - Introduction to the Series](https://dev.to/mendoncamaria/everything-react-from-basics-to-advanced-introduction-to-the-series-279n)
-- [At 33, Baby on the Way, No Plan: How I Became a Developer](https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3)
-
-#### Dev.to React
-
-- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
-- [Everything React: From Basics to Advanced - Introduction to the Series](https://dev.to/mendoncamaria/everything-react-from-basics-to-advanced-introduction-to-the-series-279n)
-- [I built Kostudy - An AI-first, fully-featured, open source, universal education web app](https://dev.to/youssefimlyhen/i-built-kostudy-an-ai-first-fully-featured-open-source-universal-education-web-app-lc5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-29",
+    "formattedDate": "August 29, 2025",
+    "news": [
+      {
+        "title": "CAP Theorem 101: Balancing Consistency, Availability & Partition Tolerance",
+        "link": "https://dev.to/manas_tole_039/cap-theorem-101-balancing-consistency-availability-partition-tolerance-2c7f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Many Personalities of Angular’s viewChild (the Read Parameter)",
+        "link": "https://dev.to/brianmtreese/the-multiple-personalities-of-angulars-viewchild-the-read-parameter-2c2j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond CAP: Understanding the PACELC Theorem in Distributed Systems",
+        "link": "https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Creating a Review Analyser Using the Vercel AI SDK and React 19",
+        "link": "https://dev.to/carlrippon/creating-a-review-analyser-using-the-vercel-ai-sdk-and-react-19-cg8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "♟️ Building a Chess App with React, Node.js, Kafka, and AWS (Part 1)",
+        "link": "https://dev.to/raviv_gilady/building-a-chess-app-with-react-nodejs-kafka-and-aws-part-1-4bph",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next Stop, Nuxt: A React Engineer’s Journey into Vue",
+        "link": "https://dev.to/graemegeorge/react-vue-a-senior-devs-self-study-bootcamp-2k38",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-28",
     "formattedDate": "August 28, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why We’re Moving on From Nix",
         "link": "https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-26",
-    "formattedDate": "August 26, 2025",
-    "news": [
-      {
-        "title": "Why We’re Moving on From Nix",
-        "link": "https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Everything React: From Basics to Advanced - Introduction to the Series",
-        "link": "https://dev.to/mendoncamaria/everything-react-from-basics-to-advanced-introduction-to-the-series-279n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "At 33, Baby on the Way, No Plan: How I Became a Developer",
-        "link": "https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why We’re Moving on From Nix",
-        "link": "https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Everything React: From Basics to Advanced - Introduction to the Series",
-        "link": "https://dev.to/mendoncamaria/everything-react-from-basics-to-advanced-introduction-to-the-series-279n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built Kostudy - An AI-first, fully-featured, open source, universal education web app",
-        "link": "https://dev.to/youssefimlyhen/i-built-kostudy-an-ai-first-fully-featured-open-source-universal-education-web-app-lc5",
         "source": "Dev.to React"
       },
       {
