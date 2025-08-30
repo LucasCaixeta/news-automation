@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 29, 2025)
+### Today's Updates (August 30, 2025)
+
+#### Dev.to JavaScript
+
+- [How to Set Up a GitLab CI/CD Pipeline](https://dev.to/therealmrmumba/how-to-set-up-a-gitlab-cicd-pipeline-4bf3)
+- [Create Awesome Link Effect](https://dev.to/masterdevsabith/create-awesome-link-effect-4o92)
+- [Daily JavaScript Challenge #JS-267: Transform a String into a Numeric Code](https://dev.to/dpc/daily-javascript-challenge-js-267-transform-a-string-into-a-numeric-code-53bo)
+
+#### Dev.to React
+
+- [Day 17: Building Topology Visualization with AI-Assisted Health Monitoring](https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id)
+- [Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React & Next.js](https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8)
+- [🤯 Ditch Redux: Meet redux-lite — the Lightweight, Type-Safe, High-Performance, and Super Easy-to-Use/test State Manager](https://dev.to/old_big_06ee00ac2bb68f727/ditch-redux-meet-redux-lite-the-lightweight-type-safe-high-performance-and-super-2l2a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 28, 2025)
+### 2 Days Ago (August 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 Building Viral Hunts: AI Scavenger App with Expo & NFTs – Dev Feedback Needed! 💻🎮](https://dev.to/jcloud/building-viral-hunts-ai-scavenger-app-with-expo-nfts-dev-feedback-needed-ode)
 - [Why Your React App Feels Slow — Even When It Isn’t: The Hidden Cost of Unoptimized Renders 🔍⚡️](https://dev.to/ekwoster/why-your-react-app-feels-slow-even-when-it-isnt-the-hidden-cost-of-unoptimized-renders-3m63)
 - [Custom Bezier Tool in Konva.js with React + Redux](https://dev.to/da_faq/custom-bezier-tool-in-konvajs-with-react-redux-43p5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 27, 2025)
-
-#### Dev.to JavaScript
-
-- [i made a searchable table of 200+ startup ideas with monetisation and difficulty scores + analysis](https://dev.to/vulcanwm/i-made-a-searchable-table-of-200-startup-ideas-with-monetisation-and-difficulty-scores-analysis-5hnf)
-- [Mapstronaut: A Flexible Object-Mapping Library for JS/TS](https://dev.to/jprevo/introducing-mapstronaut-a-flexible-object-mapping-library-for-jsts-3470)
-- [YAGNI: Why You Shouldn’t Build What You Don’t Need](https://dev.to/lovestaco/yagni-why-you-shouldnt-build-what-you-dont-need-3p9j)
-
-#### Dev.to React
-
-- [N+1 Hydra: A Senior Engineer's Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
-- [Implement the useStateWithReset custom hook in React](https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3)
-- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-08-30",
+    "formattedDate": "August 30, 2025",
+    "news": [
+      {
+        "title": "How to Set Up a GitLab CI/CD Pipeline",
+        "link": "https://dev.to/therealmrmumba/how-to-set-up-a-gitlab-cicd-pipeline-4bf3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Create Awesome Link Effect",
+        "link": "https://dev.to/masterdevsabith/create-awesome-link-effect-4o92",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Daily JavaScript Challenge #JS-267: Transform a String into a Numeric Code",
+        "link": "https://dev.to/dpc/daily-javascript-challenge-js-267-transform-a-string-into-a-numeric-code-53bo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Day 17: Building Topology Visualization with AI-Assisted Health Monitoring",
+        "link": "https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React & Next.js",
+        "link": "https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🤯 Ditch Redux: Meet redux-lite — the Lightweight, Type-Safe, High-Performance, and Super Easy-to-Use/test State Manager",
+        "link": "https://dev.to/old_big_06ee00ac2bb68f727/ditch-redux-meet-redux-lite-the-lightweight-type-safe-high-performance-and-super-2l2a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-08-29",
     "formattedDate": "August 29, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Custom Bezier Tool in Konva.js with React + Redux",
         "link": "https://dev.to/da_faq/custom-bezier-tool-in-konvajs-with-react-redux-43p5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-27",
-    "formattedDate": "August 27, 2025",
-    "news": [
-      {
-        "title": "i made a searchable table of 200+ startup ideas with monetisation and difficulty scores + analysis",
-        "link": "https://dev.to/vulcanwm/i-made-a-searchable-table-of-200-startup-ideas-with-monetisation-and-difficulty-scores-analysis-5hnf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mapstronaut: A Flexible Object-Mapping Library for JS/TS",
-        "link": "https://dev.to/jprevo/introducing-mapstronaut-a-flexible-object-mapping-library-for-jsts-3470",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "YAGNI: Why You Shouldn’t Build What You Don’t Need",
-        "link": "https://dev.to/lovestaco/yagni-why-you-shouldnt-build-what-you-dont-need-3p9j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "N+1 Hydra: A Senior Engineer's Guide to strict_loading",
-        "link": "https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Implement the useStateWithReset custom hook in React",
-        "link": "https://dev.to/debajit13/implement-the-usestatewithreset-custom-hook-in-react-3fh3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why We’re Moving on From Nix",
-        "link": "https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1",
         "source": "Dev.to React"
       },
       {
