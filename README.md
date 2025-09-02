@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 1, 2025)
+### Today's Updates (September 2, 2025)
+
+#### Dev.to JavaScript
+
+- [Mastering Access Tokens & Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
+- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
+- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode & Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
+
+#### Dev.to React
+
+- [A Complete User Authentication System Using Django REST framework and ReactJS](https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml)
+- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
+- [Advanced React Refs: Mastering the Callback Pattern](https://dev.to/maximlogunov/advanced-react-refs-mastering-the-callback-pattern-4jpm)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 31, 2025)
+### 2 Days Ago (August 31, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
 - [【React Supabase】Improving My Study Log App: Persisting Daily Study Content and Hours](https://dev.to/kazutora_hattori_66972c88/reactxsupabase-improving-my-study-log-app-persisting-daily-study-content-and-hours-26g2)
 - [useMemo, useCallback, React.memo — What Optimizations Actually Work](https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 30, 2025)
-
-#### Dev.to JavaScript
-
-- [How to Set Up a GitLab CI/CD Pipeline](https://dev.to/therealmrmumba/how-to-set-up-a-gitlab-cicd-pipeline-4bf3)
-- [Create Awesome Link Effect](https://dev.to/masterdevsabith/create-awesome-link-effect-4o92)
-- [Daily JavaScript Challenge #JS-267: Transform a String into a Numeric Code](https://dev.to/dpc/daily-javascript-challenge-js-267-transform-a-string-into-a-numeric-code-53bo)
-
-#### Dev.to React
-
-- [Day 17: Building Topology Visualization with AI-Assisted Health Monitoring](https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id)
-- [Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React & Next.js](https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8)
-- [🤯 Ditch Redux: Meet redux-lite — the Lightweight, Type-Safe, High-Performance, and Super Easy-to-Use/test State Manager](https://dev.to/old_big_06ee00ac2bb68f727/ditch-redux-meet-redux-lite-the-lightweight-type-safe-high-performance-and-super-2l2a)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-02",
+    "formattedDate": "September 2, 2025",
+    "news": [
+      {
+        "title": "Mastering Access Tokens & Refresh Tokens: From Origins to Modern Authentication",
+        "link": "https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization",
+        "link": "https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Create a Fully Functional JavaScript Calculator with Dark/Light Mode & Scientific Function",
+        "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A Complete User Authentication System Using Django REST framework and ReactJS",
+        "link": "https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Chrome DevTools: The Complete Use Case Guide for Developers",
+        "link": "https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Advanced React Refs: Mastering the Callback Pattern",
+        "link": "https://dev.to/maximlogunov/advanced-react-refs-mastering-the-callback-pattern-4jpm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-01",
     "formattedDate": "September 1, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "useMemo, useCallback, React.memo — What Optimizations Actually Work",
         "link": "https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-30",
-    "formattedDate": "August 30, 2025",
-    "news": [
-      {
-        "title": "How to Set Up a GitLab CI/CD Pipeline",
-        "link": "https://dev.to/therealmrmumba/how-to-set-up-a-gitlab-cicd-pipeline-4bf3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Create Awesome Link Effect",
-        "link": "https://dev.to/masterdevsabith/create-awesome-link-effect-4o92",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Daily JavaScript Challenge #JS-267: Transform a String into a Numeric Code",
-        "link": "https://dev.to/dpc/daily-javascript-challenge-js-267-transform-a-string-into-a-numeric-code-53bo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Day 17: Building Topology Visualization with AI-Assisted Health Monitoring",
-        "link": "https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React & Next.js",
-        "link": "https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🤯 Ditch Redux: Meet redux-lite — the Lightweight, Type-Safe, High-Performance, and Super Easy-to-Use/test State Manager",
-        "link": "https://dev.to/old_big_06ee00ac2bb68f727/ditch-redux-meet-redux-lite-the-lightweight-type-safe-high-performance-and-super-2l2a",
         "source": "Dev.to React"
       },
       {
