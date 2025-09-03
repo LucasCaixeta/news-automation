@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 2, 2025)
+### Today's Updates (September 3, 2025)
+
+#### Dev.to JavaScript
+
+- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
+- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
+- [Migration Experience: 60 000 Users from MongoDB to SQL](https://dev.to/marek_kregiel_d6361c8268f/migrating-60000-users-from-mongodb-to-sql-safe-quick-and-easy-4mp9)
+
+#### Dev.to React
+
+- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
+- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
+- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 1, 2025)
+### 2 Days Ago (September 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Auto-Deploy React App with GitHub Actions + AWS](https://dev.to/manujb25/auto-deploy-react-app-with-github-actions-aws-1f59)
 - [React: How to Test useState (with Examples)](https://dev.to/lico/react-testing-usestate-with-examples-34mm)
 - [React Design Pattern /Client-side Rendering](https://dev.to/kkr0423/react-design-pattern-client-side-rendering-c3b)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 31, 2025)
-
-#### Dev.to JavaScript
-
-- [Unearth Your Code’s Hidden TODOs & Supercharge Your Workflow with comment-todo!](https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8)
-- [Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management](https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0)
-- [The Art of the Meta: Weaving JavaScript's Runtime Tapestry with Proxies, Reflect, and Decorators](https://dev.to/alex_aslam/the-art-of-the-meta-weaving-javascripts-runtime-tapestry-with-proxies-reflect-and-decorators-5km)
-
-#### Dev.to React
-
-- [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
-- [【React Supabase】Improving My Study Log App: Persisting Daily Study Content and Hours](https://dev.to/kazutora_hattori_66972c88/reactxsupabase-improving-my-study-log-app-persisting-daily-study-content-and-hours-26g2)
-- [useMemo, useCallback, React.memo — What Optimizations Actually Work](https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-03",
+    "formattedDate": "September 3, 2025",
+    "news": [
+      {
+        "title": "Introducing: @traversable/zod",
+        "link": "https://dev.to/ahrjarrett/introducing-traversablezod-5dd4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Hate Dark Mode !!!!!!!",
+        "link": "https://dev.to/masterdevsabith/i-hate-dark-mode--jn7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Migration Experience: 60 000 Users from MongoDB to SQL",
+        "link": "https://dev.to/marek_kregiel_d6361c8268f/migrating-60000-users-from-mongodb-to-sql-safe-quick-and-easy-4mp9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Use Lazy Routing with React Suspense to Optimize Performance",
+        "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Deploy a React SPA using AWS S3 and CloudFront",
+        "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ArtistAssistApp Improvements – August 2025",
+        "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-02",
     "formattedDate": "September 2, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Design Pattern /Client-side Rendering",
         "link": "https://dev.to/kkr0423/react-design-pattern-client-side-rendering-c3b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-08-31",
-    "formattedDate": "August 31, 2025",
-    "news": [
-      {
-        "title": "Unearth Your Code’s Hidden TODOs & Supercharge Your Workflow with comment-todo!",
-        "link": "https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management",
-        "link": "https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Art of the Meta: Weaving JavaScript's Runtime Tapestry with Proxies, Reflect, and Decorators",
-        "link": "https://dev.to/alex_aslam/the-art-of-the-meta-weaving-javascripts-runtime-tapestry-with-proxies-reflect-and-decorators-5km",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Hello everybody out there using React",
-        "link": "https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "【React Supabase】Improving My Study Log App: Persisting Daily Study Content and Hours",
-        "link": "https://dev.to/kazutora_hattori_66972c88/reactxsupabase-improving-my-study-log-app-persisting-daily-study-content-and-hours-26g2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "useMemo, useCallback, React.memo — What Optimizations Actually Work",
-        "link": "https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp",
         "source": "Dev.to React"
       },
       {
