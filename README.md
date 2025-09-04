@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 3, 2025)
+### Today's Updates (September 4, 2025)
+
+#### Dev.to JavaScript
+
+- [The Boring SaaS Playbook That Actually Works](https://dev.to/shayy/the-boring-saas-playbook-that-actually-works-5dce)
+- [10 Cool CodePen Demos (July 2025)](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265)
+- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
+
+#### Dev.to React
+
+- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
+- [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
+- [React Performance Trick: Updating Large Lists with Generators](https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 2, 2025)
+### 2 Days Ago (September 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [A Complete User Authentication System Using Django REST framework and ReactJS](https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml)
 - [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
 - [Advanced React Refs: Mastering the Callback Pattern](https://dev.to/maximlogunov/advanced-react-refs-mastering-the-callback-pattern-4jpm)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 1, 2025)
-
-#### Dev.to JavaScript
-
-- [AI Job Matching Agent That Reads Your Resume (n8n + Bright Data Challenge)](https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf)
-- [Optimized Videos in Vue with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-vue-with-cloudinary-1g5j)
-- [Building a Kubernetes Cluster on Raspberry Pi for Home Lab Learning](https://dev.to/caffinecoder54/building-a-kubernetes-cluster-on-raspberry-pi-for-home-lab-learning-39n3)
-
-#### Dev.to React
-
-- [Auto-Deploy React App with GitHub Actions + AWS](https://dev.to/manujb25/auto-deploy-react-app-with-github-actions-aws-1f59)
-- [React: How to Test useState (with Examples)](https://dev.to/lico/react-testing-usestate-with-examples-34mm)
-- [React Design Pattern /Client-side Rendering](https://dev.to/kkr0423/react-design-pattern-client-side-rendering-c3b)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-04",
+    "formattedDate": "September 4, 2025",
+    "news": [
+      {
+        "title": "The Boring SaaS Playbook That Actually Works",
+        "link": "https://dev.to/shayy/the-boring-saas-playbook-that-actually-works-5dce",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "10 Cool CodePen Demos (July 2025)",
+        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "wabt 使用小记",
+        "link": "https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Recap, years later, thanks to Astro",
+        "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
+        "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Performance Trick: Updating Large Lists with Generators",
+        "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-03",
     "formattedDate": "September 3, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Advanced React Refs: Mastering the Callback Pattern",
         "link": "https://dev.to/maximlogunov/advanced-react-refs-mastering-the-callback-pattern-4jpm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-01",
-    "formattedDate": "September 1, 2025",
-    "news": [
-      {
-        "title": "AI Job Matching Agent That Reads Your Resume (n8n + Bright Data Challenge)",
-        "link": "https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Optimized Videos in Vue with Cloudinary",
-        "link": "https://dev.to/jacobandrewsky/optimized-videos-in-vue-with-cloudinary-1g5j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Kubernetes Cluster on Raspberry Pi for Home Lab Learning",
-        "link": "https://dev.to/caffinecoder54/building-a-kubernetes-cluster-on-raspberry-pi-for-home-lab-learning-39n3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Auto-Deploy React App with GitHub Actions + AWS",
-        "link": "https://dev.to/manujb25/auto-deploy-react-app-with-github-actions-aws-1f59",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React: How to Test useState (with Examples)",
-        "link": "https://dev.to/lico/react-testing-usestate-with-examples-34mm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Design Pattern /Client-side Rendering",
-        "link": "https://dev.to/kkr0423/react-design-pattern-client-side-rendering-c3b",
         "source": "Dev.to React"
       },
       {
