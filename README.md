@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 4, 2025)
+### Today's Updates (September 5, 2025)
+
+#### Dev.to JavaScript
+
+- [Your First React Component: JSX, Components, and the "Hello, World" Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
+- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
+- [Day 85: When Motivation Posts Miss the Point](https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff)
+
+#### Dev.to React
+
+- [Your First React Component: JSX, Components, and the "Hello, World" Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
+- [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
+- [My Recent Debugging Adventure: The Case of the Disappearing Stylesheets](https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 3, 2025)
+### 2 Days Ago (September 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
 - [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
 - [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 2, 2025)
-
-#### Dev.to JavaScript
-
-- [Mastering Access Tokens & Refresh Tokens: From Origins to Modern Authentication](https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i)
-- [Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization](https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7)
-- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode & Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
-
-#### Dev.to React
-
-- [A Complete User Authentication System Using Django REST framework and ReactJS](https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml)
-- [Chrome DevTools: The Complete Use Case Guide for Developers](https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la)
-- [Advanced React Refs: Mastering the Callback Pattern](https://dev.to/maximlogunov/advanced-react-refs-mastering-the-callback-pattern-4jpm)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-05",
+    "formattedDate": "September 5, 2025",
+    "news": [
+      {
+        "title": "Your First React Component: JSX, Components, and the \"Hello, World\" Program",
+        "link": "https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]",
+        "link": "https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Day 85: When Motivation Posts Miss the Point",
+        "link": "https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your First React Component: JSX, Components, and the \"Hello, World\" Program",
+        "link": "https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Server Side React.js with node.js",
+        "link": "https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My Recent Debugging Adventure: The Case of the Disappearing Stylesheets",
+        "link": "https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-04",
     "formattedDate": "September 4, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "ArtistAssistApp Improvements – August 2025",
         "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-02",
-    "formattedDate": "September 2, 2025",
-    "news": [
-      {
-        "title": "Mastering Access Tokens & Refresh Tokens: From Origins to Modern Authentication",
-        "link": "https://dev.to/yuktisays/mastering-access-tokens-refresh-tokens-from-origins-to-modern-authentication-5e3i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building BlazeDiff: How I Made The Fastest Image Diff up-to 60% Faster with Block-Level Optimization",
-        "link": "https://dev.to/teimurjan/building-blazediff-how-i-made-the-fastest-image-diff-up-to-60-faster-with-block-level-optimization-ok7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Create a Fully Functional JavaScript Calculator with Dark/Light Mode & Scientific Function",
-        "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A Complete User Authentication System Using Django REST framework and ReactJS",
-        "link": "https://dev.to/deveshpandey/a-complete-user-authentication-system-using-django-rest-framework-and-reactjs-9ml",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Chrome DevTools: The Complete Use Case Guide for Developers",
-        "link": "https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Advanced React Refs: Mastering the Callback Pattern",
-        "link": "https://dev.to/maximlogunov/advanced-react-refs-mastering-the-callback-pattern-4jpm",
         "source": "Dev.to React"
       },
       {
