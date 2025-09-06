@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 5, 2025)
+### Today's Updates (September 6, 2025)
+
+#### Dev.to JavaScript
+
+- [How to Set Up a Jenkins CI/CD Pipeline (Step-by-Step Guide)](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
+- [Built a CLI tool to help manage code review feedback - thoughts?](https://dev.to/kroro1208/built-a-cli-tool-to-help-manage-code-review-feedback-thoughts-3i5o)
+- [ReUniteME – Using MERN to Help Families Reconnect with Missing Persons](https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe)
+
+#### Dev.to React
+
+- [What's the Difference Between localStorage and NonLocalStorage? A Developer's Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim)
+- [Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200)
+- [How I Built a Retro Terminal Panel in React](https://dev.to/cbms26/how-i-built-a-retro-terminal-panel-in-react-1gjp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 4, 2025)
+### 2 Days Ago (September 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
 - [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
 - [React Performance Trick: Updating Large Lists with Generators](https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 3, 2025)
-
-#### Dev.to JavaScript
-
-- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
-- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
-- [Migration Experience: 60 000 Users from MongoDB to SQL](https://dev.to/marek_kregiel_d6361c8268f/migrating-60000-users-from-mongodb-to-sql-safe-quick-and-easy-4mp9)
-
-#### Dev.to React
-
-- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
-- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
-- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-06",
+    "formattedDate": "September 6, 2025",
+    "news": [
+      {
+        "title": "How to Set Up a Jenkins CI/CD Pipeline (Step-by-Step Guide)",
+        "link": "https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Built a CLI tool to help manage code review feedback - thoughts?",
+        "link": "https://dev.to/kroro1208/built-a-cli-tool-to-help-manage-code-review-feedback-thoughts-3i5o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ReUniteME – Using MERN to Help Families Reconnect with Missing Persons",
+        "link": "https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What's the Difference Between localStorage and NonLocalStorage? A Developer's Guide",
+        "link": "https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻",
+        "link": "https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a Retro Terminal Panel in React",
+        "link": "https://dev.to/cbms26/how-i-built-a-retro-terminal-panel-in-react-1gjp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-05",
     "formattedDate": "September 5, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Performance Trick: Updating Large Lists with Generators",
         "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-03",
-    "formattedDate": "September 3, 2025",
-    "news": [
-      {
-        "title": "Introducing: @traversable/zod",
-        "link": "https://dev.to/ahrjarrett/introducing-traversablezod-5dd4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Hate Dark Mode !!!!!!!",
-        "link": "https://dev.to/masterdevsabith/i-hate-dark-mode--jn7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Migration Experience: 60 000 Users from MongoDB to SQL",
-        "link": "https://dev.to/marek_kregiel_d6361c8268f/migrating-60000-users-from-mongodb-to-sql-safe-quick-and-easy-4mp9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Use Lazy Routing with React Suspense to Optimize Performance",
-        "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Deploy a React SPA using AWS S3 and CloudFront",
-        "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "ArtistAssistApp Improvements – August 2025",
-        "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
         "source": "Dev.to React"
       },
       {
