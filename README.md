@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 6, 2025)
+### Today's Updates (September 7, 2025)
+
+#### Dev.to JavaScript
+
+- [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
+- [Building Selectorless Components: Angular's Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
+- [5 Tiny Developer Productivity Hacks That Saved Me Hours](https://dev.to/javediqbal8381/5-tiny-developer-productivity-hacks-that-saved-me-hours-1fed)
+
+#### Dev.to React
+
+- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
+- [Lazy Loading: Do you really know what it is?](https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g)
+- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 5, 2025)
+### 2 Days Ago (September 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your First React Component: JSX, Components, and the "Hello, World" Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
 - [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
 - [My Recent Debugging Adventure: The Case of the Disappearing Stylesheets](https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 4, 2025)
-
-#### Dev.to JavaScript
-
-- [The Boring SaaS Playbook That Actually Works](https://dev.to/shayy/the-boring-saas-playbook-that-actually-works-5dce)
-- [10 Cool CodePen Demos (July 2025)](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265)
-- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
-
-#### Dev.to React
-
-- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
-- [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
-- [React Performance Trick: Updating Large Lists with Generators](https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-07",
+    "formattedDate": "September 7, 2025",
+    "news": [
+      {
+        "title": "Conditionals in Svelte — {#if}, {:else}, and Nesting Explained",
+        "link": "https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Selectorless Components: Angular's Approach to Boilerplate-Free UIs",
+        "link": "https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "5 Tiny Developer Productivity Hacks That Saved Me Hours",
+        "link": "https://dev.to/javediqbal8381/5-tiny-developer-productivity-hacks-that-saved-me-hours-1fed",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Part 4: Migration to RsBuild",
+        "link": "https://dev.to/verthon/part-4-migration-to-rsbuild-5368",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Lazy Loading: Do you really know what it is?",
+        "link": "https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget",
+        "link": "https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-06",
     "formattedDate": "September 6, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "My Recent Debugging Adventure: The Case of the Disappearing Stylesheets",
         "link": "https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-04",
-    "formattedDate": "September 4, 2025",
-    "news": [
-      {
-        "title": "The Boring SaaS Playbook That Actually Works",
-        "link": "https://dev.to/shayy/the-boring-saas-playbook-that-actually-works-5dce",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "10 Cool CodePen Demos (July 2025)",
-        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "wabt 使用小记",
-        "link": "https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Recap, years later, thanks to Astro",
-        "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
-        "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Performance Trick: Updating Large Lists with Generators",
-        "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
         "source": "Dev.to React"
       },
       {
