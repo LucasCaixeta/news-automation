@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 7, 2025)
+### Today's Updates (September 8, 2025)
+
+#### Dev.to JavaScript
+
+- [Practical JavaScript Math Problems to Master Before DSA](https://dev.to/abhishek-nexgen-dev/practical-javascript-math-problems-to-master-before-dsa-2b6k)
+- [How React Native Talks to Your iPhone and Android… And How It’s Changed](https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1)
+- [Mastering JavaScript Objects](https://dev.to/adrahi/mastering-javascript-objects-1ai3)
+
+#### Dev.to React
+
+- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
+- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
+- ["useMemoization" in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 6, 2025)
+### 2 Days Ago (September 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [What's the Difference Between localStorage and NonLocalStorage? A Developer's Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim)
 - [Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200)
 - [How I Built a Retro Terminal Panel in React](https://dev.to/cbms26/how-i-built-a-retro-terminal-panel-in-react-1gjp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 5, 2025)
-
-#### Dev.to JavaScript
-
-- [Your First React Component: JSX, Components, and the "Hello, World" Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
-- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
-- [Day 85: When Motivation Posts Miss the Point](https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff)
-
-#### Dev.to React
-
-- [Your First React Component: JSX, Components, and the "Hello, World" Program](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl)
-- [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
-- [My Recent Debugging Adventure: The Case of the Disappearing Stylesheets](https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-08",
+    "formattedDate": "September 8, 2025",
+    "news": [
+      {
+        "title": "Practical JavaScript Math Problems to Master Before DSA",
+        "link": "https://dev.to/abhishek-nexgen-dev/practical-javascript-math-problems-to-master-before-dsa-2b6k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How React Native Talks to Your iPhone and Android… And How It’s Changed",
+        "link": "https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering JavaScript Objects",
+        "link": "https://dev.to/adrahi/mastering-javascript-objects-1ai3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet",
+        "link": "https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Part 4: Migration to RsBuild",
+        "link": "https://dev.to/verthon/part-4-migration-to-rsbuild-5368",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "\"useMemoization\" in reactjs",
+        "link": "https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-07",
     "formattedDate": "September 7, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built a Retro Terminal Panel in React",
         "link": "https://dev.to/cbms26/how-i-built-a-retro-terminal-panel-in-react-1gjp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-05",
-    "formattedDate": "September 5, 2025",
-    "news": [
-      {
-        "title": "Your First React Component: JSX, Components, and the \"Hello, World\" Program",
-        "link": "https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]",
-        "link": "https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Day 85: When Motivation Posts Miss the Point",
-        "link": "https://dev.to/casperday11/day-85-when-motivation-posts-miss-the-point-5gff",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your First React Component: JSX, Components, and the \"Hello, World\" Program",
-        "link": "https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program-2fkl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Server Side React.js with node.js",
-        "link": "https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My Recent Debugging Adventure: The Case of the Disappearing Stylesheets",
-        "link": "https://dev.to/sibasishm/my-recent-debugging-adventure-the-case-of-the-disappearing-stylesheets-5dbb",
         "source": "Dev.to React"
       },
       {
