@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 8, 2025)
+### Today's Updates (September 9, 2025)
+
+#### Dev.to JavaScript
+
+- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
+- [Test Frontend Changes with Browser (Using Chromium Overrides)](https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c)
+- [Mastering Context and Async Data in Svelte (with Examples)](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8)
+
+#### Dev.to React
+
+- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
+- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
+- [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 7, 2025)
+### 2 Days Ago (September 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
 - [Lazy Loading: Do you really know what it is?](https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g)
 - [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 6, 2025)
-
-#### Dev.to JavaScript
-
-- [How to Set Up a Jenkins CI/CD Pipeline (Step-by-Step Guide)](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
-- [Built a CLI tool to help manage code review feedback - thoughts?](https://dev.to/kroro1208/built-a-cli-tool-to-help-manage-code-review-feedback-thoughts-3i5o)
-- [ReUniteME – Using MERN to Help Families Reconnect with Missing Persons](https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe)
-
-#### Dev.to React
-
-- [What's the Difference Between localStorage and NonLocalStorage? A Developer's Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim)
-- [Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200)
-- [How I Built a Retro Terminal Panel in React](https://dev.to/cbms26/how-i-built-a-retro-terminal-panel-in-react-1gjp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-09",
+    "formattedDate": "September 9, 2025",
+    "news": [
+      {
+        "title": "Passing Data with Props: Building Parent-Child Components",
+        "link": "https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Test Frontend Changes with Browser (Using Chromium Overrides)",
+        "link": "https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering Context and Async Data in Svelte (with Examples)",
+        "link": "https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Passing Data with Props: Building Parent-Child Components",
+        "link": "https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications",
+        "link": "https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From Simplicity to Complexity: My Love-Hate Journey with Next.js",
+        "link": "https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-08",
     "formattedDate": "September 8, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget",
         "link": "https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-06",
-    "formattedDate": "September 6, 2025",
-    "news": [
-      {
-        "title": "How to Set Up a Jenkins CI/CD Pipeline (Step-by-Step Guide)",
-        "link": "https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Built a CLI tool to help manage code review feedback - thoughts?",
-        "link": "https://dev.to/kroro1208/built-a-cli-tool-to-help-manage-code-review-feedback-thoughts-3i5o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ReUniteME – Using MERN to Help Families Reconnect with Missing Persons",
-        "link": "https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What's the Difference Between localStorage and NonLocalStorage? A Developer's Guide",
-        "link": "https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻",
-        "link": "https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Retro Terminal Panel in React",
-        "link": "https://dev.to/cbms26/how-i-built-a-retro-terminal-panel-in-react-1gjp",
         "source": "Dev.to React"
       },
       {
