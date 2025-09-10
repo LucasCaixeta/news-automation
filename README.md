@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 9, 2025)
+### Today's Updates (September 10, 2025)
+
+#### Dev.to JavaScript
+
+- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
+- [Forms in SvelteKit — Actions, Validation & Progressive Enhancement](https://dev.to/a1guy/forms-in-sveltekit-actions-validation-progressive-enhancement-3leh)
+- [I Built 50+ Free Font & Color Tools—And Here's the Code](https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3)
+
+#### Dev.to React
+
+- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
+- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
+- [React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages](https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 8, 2025)
+### 2 Days Ago (September 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
 - [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
 - ["useMemoization" in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 7, 2025)
-
-#### Dev.to JavaScript
-
-- [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
-- [Building Selectorless Components: Angular's Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
-- [5 Tiny Developer Productivity Hacks That Saved Me Hours](https://dev.to/javediqbal8381/5-tiny-developer-productivity-hacks-that-saved-me-hours-1fed)
-
-#### Dev.to React
-
-- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
-- [Lazy Loading: Do you really know what it is?](https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g)
-- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-10",
+    "formattedDate": "September 10, 2025",
+    "news": [
+      {
+        "title": "Why I built Wuchale: Protobuf-like i18n from plain code",
+        "link": "https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Forms in SvelteKit — Actions, Validation & Progressive Enhancement",
+        "link": "https://dev.to/a1guy/forms-in-sveltekit-actions-validation-progressive-enhancement-3leh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built 50+ Free Font & Color Tools—And Here's the Code",
+        "link": "https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cursor pagination con Redux Toolkit",
+        "link": "https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Relay: State Management and Intelligent Caching",
+        "link": "https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages",
+        "link": "https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-09",
     "formattedDate": "September 9, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "\"useMemoization\" in reactjs",
         "link": "https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-07",
-    "formattedDate": "September 7, 2025",
-    "news": [
-      {
-        "title": "Conditionals in Svelte — {#if}, {:else}, and Nesting Explained",
-        "link": "https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Selectorless Components: Angular's Approach to Boilerplate-Free UIs",
-        "link": "https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "5 Tiny Developer Productivity Hacks That Saved Me Hours",
-        "link": "https://dev.to/javediqbal8381/5-tiny-developer-productivity-hacks-that-saved-me-hours-1fed",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 4: Migration to RsBuild",
-        "link": "https://dev.to/verthon/part-4-migration-to-rsbuild-5368",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Lazy Loading: Do you really know what it is?",
-        "link": "https://dev.to/sunil12738/lazy-loading-do-you-really-know-what-it-is-3l7g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget",
-        "link": "https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo",
         "source": "Dev.to React"
       },
       {
