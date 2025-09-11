@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 10, 2025)
+### Today's Updates (September 11, 2025)
+
+#### Dev.to JavaScript
+
+- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
+- [Ng-News 25/36: Q&A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
+- [Compile-Time vs Runtime Safety in React (TSX): The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
+
+#### Dev.to React
+
+- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
+- [React Server Components: They're Not What You Think (And They Change Everything)](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
+- [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 10, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 9, 2025)
+### 2 Days Ago (September 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
 - [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
 - [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 8, 2025)
-
-#### Dev.to JavaScript
-
-- [Practical JavaScript Math Problems to Master Before DSA](https://dev.to/abhishek-nexgen-dev/practical-javascript-math-problems-to-master-before-dsa-2b6k)
-- [How React Native Talks to Your iPhone and Android… And How It’s Changed](https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1)
-- [Mastering JavaScript Objects](https://dev.to/adrahi/mastering-javascript-objects-1ai3)
-
-#### Dev.to React
-
-- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
-- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
-- ["useMemoization" in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-11",
+    "formattedDate": "September 11, 2025",
+    "news": [
+      {
+        "title": "From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development",
+        "link": "https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Ng-News 25/36: Q&A with Angular Team, Mutations in ngrx-toolkit",
+        "link": "https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Compile-Time vs Runtime Safety in React (TSX): The Power of never in TypeScript",
+        "link": "https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!",
+        "link": "https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Server Components: They're Not What You Think (And They Change Everything)",
+        "link": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building an AI Store Generator with Tambo",
+        "link": "https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-10",
     "formattedDate": "September 10, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "From Simplicity to Complexity: My Love-Hate Journey with Next.js",
         "link": "https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-08",
-    "formattedDate": "September 8, 2025",
-    "news": [
-      {
-        "title": "Practical JavaScript Math Problems to Master Before DSA",
-        "link": "https://dev.to/abhishek-nexgen-dev/practical-javascript-math-problems-to-master-before-dsa-2b6k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How React Native Talks to Your iPhone and Android… And How It’s Changed",
-        "link": "https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering JavaScript Objects",
-        "link": "https://dev.to/adrahi/mastering-javascript-objects-1ai3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet",
-        "link": "https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Part 4: Migration to RsBuild",
-        "link": "https://dev.to/verthon/part-4-migration-to-rsbuild-5368",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "\"useMemoization\" in reactjs",
-        "link": "https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n",
         "source": "Dev.to React"
       },
       {
