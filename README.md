@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 11, 2025)
+### Today's Updates (September 12, 2025)
+
+#### Dev.to JavaScript
+
+- [Can You Even Use Jump Links in Angular? (Yes… Here’s How)](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
+- [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
+- [Implementing Security in Front-End Applications (React)](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
+
+#### Dev.to React
+
+- [Implementing Security in Front-End Applications (React)](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
+- [BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React](https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4)
+- [FieldCraft](https://dev.to/nadinev/fieldcraft-1e65)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 10, 2025)
+### 2 Days Ago (September 10, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
 - [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
 - [React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages](https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 9, 2025)
-
-#### Dev.to JavaScript
-
-- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
-- [Test Frontend Changes with Browser (Using Chromium Overrides)](https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c)
-- [Mastering Context and Async Data in Svelte (with Examples)](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8)
-
-#### Dev.to React
-
-- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
-- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
-- [From Simplicity to Complexity: My Love-Hate Journey with Next.js](https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-12",
+    "formattedDate": "September 12, 2025",
+    "news": [
+      {
+        "title": "Can You Even Use Jump Links in Angular? (Yes… Here’s How)",
+        "link": "https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Got frustrated with the docs, so I made a Playwright Cheatsheet",
+        "link": "https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Implementing Security in Front-End Applications (React)",
+        "link": "https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Implementing Security in Front-End Applications (React)",
+        "link": "https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React",
+        "link": "https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "FieldCraft",
+        "link": "https://dev.to/nadinev/fieldcraft-1e65",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-11",
     "formattedDate": "September 11, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages",
         "link": "https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-09",
-    "formattedDate": "September 9, 2025",
-    "news": [
-      {
-        "title": "Passing Data with Props: Building Parent-Child Components",
-        "link": "https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Test Frontend Changes with Browser (Using Chromium Overrides)",
-        "link": "https://dev.to/rasyidf/test-frontend-changes-with-browser-using-chromium-overrides-41c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering Context and Async Data in Svelte (with Examples)",
-        "link": "https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Passing Data with Props: Building Parent-Child Components",
-        "link": "https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications",
-        "link": "https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Simplicity to Complexity: My Love-Hate Journey with Next.js",
-        "link": "https://dev.to/sibasishm/from-simplicity-to-complexity-my-love-hate-journey-with-nextjs-3do0",
         "source": "Dev.to React"
       },
       {
