@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 12, 2025)
+### Today's Updates (September 13, 2025)
+
+#### Dev.to JavaScript
+
+- [Understanding Queues in JavaScript](https://dev.to/giftintech/understanding-queues-in-javascript-2ho4)
+- [Why Good Products Fail: A Reality Check on Marketing](https://dev.to/shayy/why-good-products-fail-a-reality-check-on-marketing-1nd)
+- [Mastering Svelte Lifecycle Hooks & Accessibility: Essential Tips for Building Dynamic, Accessible Apps](https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio)
+
+#### Dev.to React
+
+- [React Introduction](https://dev.to/dharshinieswaran/react-introduction-5bge)
+- [Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
+- [Mastering React Imports: Relative vs Aliases (`../` vs `@/`)](https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 12, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 11, 2025)
+### 2 Days Ago (September 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
 - [React Server Components: They're Not What You Think (And They Change Everything)](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
 - [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 10, 2025)
-
-#### Dev.to JavaScript
-
-- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
-- [Forms in SvelteKit — Actions, Validation & Progressive Enhancement](https://dev.to/a1guy/forms-in-sveltekit-actions-validation-progressive-enhancement-3leh)
-- [I Built 50+ Free Font & Color Tools—And Here's the Code](https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3)
-
-#### Dev.to React
-
-- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
-- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
-- [React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages](https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-13",
+    "formattedDate": "September 13, 2025",
+    "news": [
+      {
+        "title": "Understanding Queues in JavaScript",
+        "link": "https://dev.to/giftintech/understanding-queues-in-javascript-2ho4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Good Products Fail: A Reality Check on Marketing",
+        "link": "https://dev.to/shayy/why-good-products-fail-a-reality-check-on-marketing-1nd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering Svelte Lifecycle Hooks & Accessibility: Essential Tips for Building Dynamic, Accessible Apps",
+        "link": "https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Introduction",
+        "link": "https://dev.to/dharshinieswaran/react-introduction-5bge",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
+        "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
+        "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-12",
     "formattedDate": "September 12, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building an AI Store Generator with Tambo",
         "link": "https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-10",
-    "formattedDate": "September 10, 2025",
-    "news": [
-      {
-        "title": "Why I built Wuchale: Protobuf-like i18n from plain code",
-        "link": "https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Forms in SvelteKit — Actions, Validation & Progressive Enhancement",
-        "link": "https://dev.to/a1guy/forms-in-sveltekit-actions-validation-progressive-enhancement-3leh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built 50+ Free Font & Color Tools—And Here's the Code",
-        "link": "https://dev.to/prosun/i-built-50-free-font-color-tools-and-heres-the-code-19l3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Cursor pagination con Redux Toolkit",
-        "link": "https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Relay: State Management and Intelligent Caching",
-        "link": "https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages",
-        "link": "https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa",
         "source": "Dev.to React"
       },
       {
