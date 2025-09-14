@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 13, 2025)
+### Today's Updates (September 14, 2025)
+
+#### Dev.to JavaScript
+
+- [Qwen Code Just Got Smarter: Key Features in v0.0.10 & v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
+- [How We Built a Private, On-Device AI That Runs Entirely in Your Browser](https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30)
+- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
+
+#### Dev.to React
+
+- [Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion](https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4)
+- [How I Built My Portfolio as a Web Developer in Kochi](https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e)
+- [Learning Nginx as a MERN developer. [Part 1]](https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 13, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 12, 2025)
+### 2 Days Ago (September 12, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Implementing Security in Front-End Applications (React)](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
 - [BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React](https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4)
 - [FieldCraft](https://dev.to/nadinev/fieldcraft-1e65)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 11, 2025)
-
-#### Dev.to JavaScript
-
-- [From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development](https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl)
-- [Ng-News 25/36: Q&A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
-- [Compile-Time vs Runtime Safety in React (TSX): The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
-
-#### Dev.to React
-
-- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
-- [React Server Components: They're Not What You Think (And They Change Everything)](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
-- [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-14",
+    "formattedDate": "September 14, 2025",
+    "news": [
+      {
+        "title": "Qwen Code Just Got Smarter: Key Features in v0.0.10 & v0.0.11",
+        "link": "https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How We Built a Private, On-Device AI That Runs Entirely in Your Browser",
+        "link": "https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Harnessing Zoneless Change Detection in Angular 20+",
+        "link": "https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
+        "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built My Portfolio as a Web Developer in Kochi",
+        "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Learning Nginx as a MERN developer. [Part 1]",
+        "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-13",
     "formattedDate": "September 13, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "FieldCraft",
         "link": "https://dev.to/nadinev/fieldcraft-1e65",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-11",
-    "formattedDate": "September 11, 2025",
-    "news": [
-      {
-        "title": "From StackOverflow to Vibe Coding: The Evolution of Copy-Paste Development",
-        "link": "https://dev.to/trackjs/from-stackoverflow-to-vibe-coding-the-evolution-of-copy-paste-development-4ngl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Ng-News 25/36: Q&A with Angular Team, Mutations in ngrx-toolkit",
-        "link": "https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Compile-Time vs Runtime Safety in React (TSX): The Power of never in TypeScript",
-        "link": "https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!",
-        "link": "https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Server Components: They're Not What You Think (And They Change Everything)",
-        "link": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building an AI Store Generator with Tambo",
-        "link": "https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l",
         "source": "Dev.to React"
       },
       {
