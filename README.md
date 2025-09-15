@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 14, 2025)
+### Today's Updates (September 15, 2025)
+
+#### Dev.to JavaScript
+
+- [Build Your Own Infinite Carousel in React (with a Custom Hook)❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
+- [How npm run dev Updates Your Site Instantly (and How It Differs from Build)](https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5)
+- [[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams](https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo)
+
+#### Dev.to React
+
+- [Build Your Own Infinite Carousel in React (with a Custom Hook)❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
+- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
+- [An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.](https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 13, 2025)
+### 2 Days Ago (September 13, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Introduction](https://dev.to/dharshinieswaran/react-introduction-5bge)
 - [Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
 - [Mastering React Imports: Relative vs Aliases (`../` vs `@/`)](https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 12, 2025)
-
-#### Dev.to JavaScript
-
-- [Can You Even Use Jump Links in Angular? (Yes… Here’s How)](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
-- [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
-- [Implementing Security in Front-End Applications (React)](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
-
-#### Dev.to React
-
-- [Implementing Security in Front-End Applications (React)](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
-- [BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React](https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4)
-- [FieldCraft](https://dev.to/nadinev/fieldcraft-1e65)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-15",
+    "formattedDate": "September 15, 2025",
+    "news": [
+      {
+        "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+        "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How npm run dev Updates Your Site Instantly (and How It Differs from Build)",
+        "link": "https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams",
+        "link": "https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+        "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built LexKit: A Modern, Type-Safe Rich Text Editor for React",
+        "link": "https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
+        "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-14",
     "formattedDate": "September 14, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
         "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-12",
-    "formattedDate": "September 12, 2025",
-    "news": [
-      {
-        "title": "Can You Even Use Jump Links in Angular? (Yes… Here’s How)",
-        "link": "https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Got frustrated with the docs, so I made a Playwright Cheatsheet",
-        "link": "https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Implementing Security in Front-End Applications (React)",
-        "link": "https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Implementing Security in Front-End Applications (React)",
-        "link": "https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "BulkActionsBar - Part 2 - Engineering a Robust and Accessible Bulk Actions Bar in React",
-        "link": "https://dev.to/talissoncosta/bulkactionsbar-part-2-engineering-a-robust-and-accessible-bulk-actions-bar-in-react-ac4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "FieldCraft",
-        "link": "https://dev.to/nadinev/fieldcraft-1e65",
         "source": "Dev.to React"
       },
       {
