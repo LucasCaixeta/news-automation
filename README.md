@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 15, 2025)
+### Today's Updates (September 16, 2025)
+
+#### Dev.to JavaScript
+
+- [Introducing: @traversable/valibot](https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d)
+- [The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells](https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209)
+- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
+
+#### Dev.to React
+
+- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
+- [Use React.useEffect Like a Pro With AbortSignal](https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69)
+- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 14, 2025)
+### 2 Days Ago (September 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion](https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4)
 - [How I Built My Portfolio as a Web Developer in Kochi](https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e)
 - [Learning Nginx as a MERN developer. [Part 1]](https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 13, 2025)
-
-#### Dev.to JavaScript
-
-- [Understanding Queues in JavaScript](https://dev.to/giftintech/understanding-queues-in-javascript-2ho4)
-- [Why Good Products Fail: A Reality Check on Marketing](https://dev.to/shayy/why-good-products-fail-a-reality-check-on-marketing-1nd)
-- [Mastering Svelte Lifecycle Hooks & Accessibility: Essential Tips for Building Dynamic, Accessible Apps](https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio)
-
-#### Dev.to React
-
-- [React Introduction](https://dev.to/dharshinieswaran/react-introduction-5bge)
-- [Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
-- [Mastering React Imports: Relative vs Aliases (`../` vs `@/`)](https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-16",
+    "formattedDate": "September 16, 2025",
+    "news": [
+      {
+        "title": "Introducing: @traversable/valibot",
+        "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
+        "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React + TypeScript: async functions",
+        "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React + TypeScript: async functions",
+        "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Use React.useEffect Like a Pro With AbortSignal",
+        "link": "https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever",
+        "link": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-15",
     "formattedDate": "September 15, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Learning Nginx as a MERN developer. [Part 1]",
         "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-13",
-    "formattedDate": "September 13, 2025",
-    "news": [
-      {
-        "title": "Understanding Queues in JavaScript",
-        "link": "https://dev.to/giftintech/understanding-queues-in-javascript-2ho4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Good Products Fail: A Reality Check on Marketing",
-        "link": "https://dev.to/shayy/why-good-products-fail-a-reality-check-on-marketing-1nd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering Svelte Lifecycle Hooks & Accessibility: Essential Tips for Building Dynamic, Accessible Apps",
-        "link": "https://dev.to/a1guy/mastering-svelte-lifecycle-hooks-accessibility-essential-tips-for-building-dynamic-accessible-4hio",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Introduction",
-        "link": "https://dev.to/dharshinieswaran/react-introduction-5bge",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
-        "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
-        "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
         "source": "Dev.to React"
       },
       {
