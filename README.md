@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 16, 2025)
+### Today's Updates (September 17, 2025)
+
+#### Dev.to JavaScript
+
+- [Meow Mountain - postmortem of a 13KB game](https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6)
+- [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
+- [Global state management in React apps](https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg)
+
+#### Dev.to React
+
+- [TanStack Router: Go to Previous page after Sign In](https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp)
+- [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
+- ["Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App"](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 15, 2025)
+### 2 Days Ago (September 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Build Your Own Infinite Carousel in React (with a Custom Hook)❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
 - [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
 - [An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.](https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 14, 2025)
-
-#### Dev.to JavaScript
-
-- [Qwen Code Just Got Smarter: Key Features in v0.0.10 & v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
-- [How We Built a Private, On-Device AI That Runs Entirely in Your Browser](https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30)
-- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
-
-#### Dev.to React
-
-- [Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion](https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4)
-- [How I Built My Portfolio as a Web Developer in Kochi](https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e)
-- [Learning Nginx as a MERN developer. [Part 1]](https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-17",
+    "formattedDate": "September 17, 2025",
+    "news": [
+      {
+        "title": "Meow Mountain - postmortem of a 13KB game",
+        "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Using Apollo in Svelte 5",
+        "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Global state management in React apps",
+        "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TanStack Router: Go to Previous page after Sign In",
+        "link": "https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
+        "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "\"Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App\"",
+        "link": "https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-16",
     "formattedDate": "September 16, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
         "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-14",
-    "formattedDate": "September 14, 2025",
-    "news": [
-      {
-        "title": "Qwen Code Just Got Smarter: Key Features in v0.0.10 & v0.0.11",
-        "link": "https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How We Built a Private, On-Device AI That Runs Entirely in Your Browser",
-        "link": "https://dev.to/gemma_322a35bf7fa2afab/how-we-built-a-private-on-device-ai-that-runs-entirely-in-your-browser-30",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Harnessing Zoneless Change Detection in Angular 20+",
-        "link": "https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
-        "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built My Portfolio as a Web Developer in Kochi",
-        "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Learning Nginx as a MERN developer. [Part 1]",
-        "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
         "source": "Dev.to React"
       },
       {
