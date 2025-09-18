@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 17, 2025)
+### Today's Updates (September 18, 2025)
+
+#### Dev.to JavaScript
+
+- [💡 Drop your craziest, simplest web app idea](https://dev.to/navin_kumar_r/drop-your-craziest-simplest-web-app-idea-3651)
+- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
+- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
+
+#### Dev.to React
+
+- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
+- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
+- [React Data Grid Lite v1.2.4: Now with RTL Support + Full Virtualization!](https://dev.to/sharmaricky/react-data-grid-lite-v124-now-with-rtl-support-full-virtualization-4351)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 16, 2025)
+### 2 Days Ago (September 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
 - [Use React.useEffect Like a Pro With AbortSignal](https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69)
 - [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 15, 2025)
-
-#### Dev.to JavaScript
-
-- [Build Your Own Infinite Carousel in React (with a Custom Hook)❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
-- [How npm run dev Updates Your Site Instantly (and How It Differs from Build)](https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5)
-- [[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams](https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo)
-
-#### Dev.to React
-
-- [Build Your Own Infinite Carousel in React (with a Custom Hook)❗](https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29)
-- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc)
-- [An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.](https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-18",
+    "formattedDate": "September 18, 2025",
+    "news": [
+      {
+        "title": "💡 Drop your craziest, simplest web app idea",
+        "link": "https://dev.to/navin_kumar_r/drop-your-craziest-simplest-web-app-idea-3651",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Can Simple Calculator Projects Be Turned Into Real-World Tools?",
+        "link": "https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Using Effects Effectively in React: Stop Misusing useEffect Once and For All",
+        "link": "https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Applied an Higher Order Array Method In a Project",
+        "link": "https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Using Effects Effectively in React: Stop Misusing useEffect Once and For All",
+        "link": "https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Data Grid Lite v1.2.4: Now with RTL Support + Full Virtualization!",
+        "link": "https://dev.to/sharmaricky/react-data-grid-lite-v124-now-with-rtl-support-full-virtualization-4351",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-17",
     "formattedDate": "September 17, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever",
         "link": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-15",
-    "formattedDate": "September 15, 2025",
-    "news": [
-      {
-        "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
-        "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How npm run dev Updates Your Site Instantly (and How It Differs from Build)",
-        "link": "https://dev.to/rijultp/how-npm-run-dev-updates-your-site-instantly-and-how-it-differs-from-build-17c5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams",
-        "link": "https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
-        "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built LexKit: A Modern, Type-Safe Rich Text Editor for React",
-        "link": "https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
-        "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
         "source": "Dev.to React"
       },
       {
