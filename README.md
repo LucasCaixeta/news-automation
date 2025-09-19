@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 18, 2025)
+### Today's Updates (September 19, 2025)
+
+#### Dev.to JavaScript
+
+- [Performance Tuning for Node.js APIs with Redis Caching and CDN Edge](https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nodejs-apis-with-redis-caching-and-cdn-edge-5be9)
+- [Teleport a Component in Angular (and Keep Its State)](https://dev.to/brianmtreese/teleport-a-component-in-angular-and-keep-its-state-590e)
+- [Zero-Trust Encrypted Chat, seeking feedback](https://dev.to/dailker/zero-trust-encrypted-chat-seeking-feedback-47ob)
+
+#### Dev.to React
+
+- [Weather & Wonder: A Weather Dashboard with KendoReact](https://dev.to/shaq_attack/weather-wonder-a-weather-dashboard-with-kendoreact-291n)
+- [How I Solved the Flooded Icons Crisis in Our React Codebase](https://dev.to/rajeshrenato/how-i-solved-the-flooded-icons-crisis-in-our-react-codebase-1oh7)
+- [I made Lexical Easy! ( Lexkit: Rich Text Editor story )](https://dev.to/codeideal/i-made-lexical-easy-lexkit-rich-text-editor-story--3j3p)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 17, 2025)
+### 2 Days Ago (September 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TanStack Router: Go to Previous page after Sign In](https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp)
 - [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
 - ["Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App"](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 16, 2025)
-
-#### Dev.to JavaScript
-
-- [Introducing: @traversable/valibot](https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d)
-- [The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells](https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209)
-- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
-
-#### Dev.to React
-
-- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
-- [Use React.useEffect Like a Pro With AbortSignal](https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69)
-- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-19",
+    "formattedDate": "September 19, 2025",
+    "news": [
+      {
+        "title": "Performance Tuning for Node.js APIs with Redis Caching and CDN Edge",
+        "link": "https://dev.to/ramer_lacida_2b58cbe46bc8/performance-tuning-for-nodejs-apis-with-redis-caching-and-cdn-edge-5be9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Teleport a Component in Angular (and Keep Its State)",
+        "link": "https://dev.to/brianmtreese/teleport-a-component-in-angular-and-keep-its-state-590e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Zero-Trust Encrypted Chat, seeking feedback",
+        "link": "https://dev.to/dailker/zero-trust-encrypted-chat-seeking-feedback-47ob",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Weather & Wonder: A Weather Dashboard with KendoReact",
+        "link": "https://dev.to/shaq_attack/weather-wonder-a-weather-dashboard-with-kendoreact-291n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Solved the Flooded Icons Crisis in Our React Codebase",
+        "link": "https://dev.to/rajeshrenato/how-i-solved-the-flooded-icons-crisis-in-our-react-codebase-1oh7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I made Lexical Easy! ( Lexkit: Rich Text Editor story )",
+        "link": "https://dev.to/codeideal/i-made-lexical-easy-lexkit-rich-text-editor-story--3j3p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-18",
     "formattedDate": "September 18, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "\"Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App\"",
         "link": "https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-16",
-    "formattedDate": "September 16, 2025",
-    "news": [
-      {
-        "title": "Introducing: @traversable/valibot",
-        "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
-        "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React + TypeScript: async functions",
-        "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React + TypeScript: async functions",
-        "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Use React.useEffect Like a Pro With AbortSignal",
-        "link": "https://dev.to/framemuse/use-reactuseeffect-like-a-pro-with-abortsignal-4l69",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever",
-        "link": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i",
         "source": "Dev.to React"
       },
       {
