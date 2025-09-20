@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 19, 2025)
+### Today's Updates (September 20, 2025)
+
+#### Dev.to JavaScript
+
+- [I created a small 2D game about an ant :)](https://dev.to/anthonymax/i-created-a-small-2d-game-about-an-ant--9nc)
+- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
+- [How Node.js Achieves High Performance & Scalability](https://dev.to/im-shafiqurehman/how-nodejs-achieves-high-performance-scalability-3lad)
+
+#### Dev.to React
+
+- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
+- [Common Stale Closure Bugs in React](https://dev.to/cathylai/common-stale-closure-bugs-in-react-57l6)
+- [I built MineSafety: A Powerful Incident & Safety Tracker for Mines](https://dev.to/alphonsekazadi/minesafety-a-modern-incident-safety-tracker-for-mines-580o)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 18, 2025)
+### 2 Days Ago (September 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
 - [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
 - [React Data Grid Lite v1.2.4: Now with RTL Support + Full Virtualization!](https://dev.to/sharmaricky/react-data-grid-lite-v124-now-with-rtl-support-full-virtualization-4351)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 17, 2025)
-
-#### Dev.to JavaScript
-
-- [Meow Mountain - postmortem of a 13KB game](https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6)
-- [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
-- [Global state management in React apps](https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg)
-
-#### Dev.to React
-
-- [TanStack Router: Go to Previous page after Sign In](https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp)
-- [Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model](https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc)
-- ["Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App"](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-20",
+    "formattedDate": "September 20, 2025",
+    "news": [
+      {
+        "title": "I created a small 2D game about an ant :)",
+        "link": "https://dev.to/anthonymax/i-created-a-small-2d-game-about-an-ant--9nc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Component Testing: Best Practices for 2025 🧪",
+        "link": "https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How Node.js Achieves High Performance & Scalability",
+        "link": "https://dev.to/im-shafiqurehman/how-nodejs-achieves-high-performance-scalability-3lad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Component Testing: Best Practices for 2025 🧪",
+        "link": "https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Common Stale Closure Bugs in React",
+        "link": "https://dev.to/cathylai/common-stale-closure-bugs-in-react-57l6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built MineSafety: A Powerful Incident & Safety Tracker for Mines",
+        "link": "https://dev.to/alphonsekazadi/minesafety-a-modern-incident-safety-tracker-for-mines-580o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-19",
     "formattedDate": "September 19, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Data Grid Lite v1.2.4: Now with RTL Support + Full Virtualization!",
         "link": "https://dev.to/sharmaricky/react-data-grid-lite-v124-now-with-rtl-support-full-virtualization-4351",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-17",
-    "formattedDate": "September 17, 2025",
-    "news": [
-      {
-        "title": "Meow Mountain - postmortem of a 13KB game",
-        "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Using Apollo in Svelte 5",
-        "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Global state management in React apps",
-        "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TanStack Router: Go to Previous page after Sign In",
-        "link": "https://dev.to/this-is-learning/tanstack-router-go-to-previous-page-after-sign-in-51fp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
-        "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "\"Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App\"",
-        "link": "https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg",
         "source": "Dev.to React"
       },
       {
