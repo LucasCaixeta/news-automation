@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 20, 2025)
+### Today's Updates (September 21, 2025)
+
+#### Dev.to JavaScript
+
+- [State Management in Vanilla JS](https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg)
+- [Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks](https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh)
+- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
+
+#### Dev.to React
+
+- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
+- [React 18 vs React 19: A Complete Comparison Guide](https://dev.to/jay_sarvaiya_f85e7148bb57/react-18-vs-react-19-a-complete-comparison-guide-k49)
+- [Building a Collapsible Admin Sidebar with React Router + useLocation (Pro Patterns)](https://dev.to/cristiansifuentes/building-a-collapsible-admin-sidebar-with-react-router-uselocation-pro-patterns-7im)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 19, 2025)
+### 2 Days Ago (September 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Weather & Wonder: A Weather Dashboard with KendoReact](https://dev.to/shaq_attack/weather-wonder-a-weather-dashboard-with-kendoreact-291n)
 - [How I Solved the Flooded Icons Crisis in Our React Codebase](https://dev.to/rajeshrenato/how-i-solved-the-flooded-icons-crisis-in-our-react-codebase-1oh7)
 - [I made Lexical Easy! ( Lexkit: Rich Text Editor story )](https://dev.to/codeideal/i-made-lexical-easy-lexkit-rich-text-editor-story--3j3p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 18, 2025)
-
-#### Dev.to JavaScript
-
-- [💡 Drop your craziest, simplest web app idea](https://dev.to/navin_kumar_r/drop-your-craziest-simplest-web-app-idea-3651)
-- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
-- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
-
-#### Dev.to React
-
-- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
-- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
-- [React Data Grid Lite v1.2.4: Now with RTL Support + Full Virtualization!](https://dev.to/sharmaricky/react-data-grid-lite-v124-now-with-rtl-support-full-virtualization-4351)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-21",
+    "formattedDate": "September 21, 2025",
+    "news": [
+      {
+        "title": "State Management in Vanilla JS",
+        "link": "https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks",
+        "link": "https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Security Patterns Every Developer Should Know",
+        "link": "https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Security Patterns Every Developer Should Know",
+        "link": "https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 18 vs React 19: A Complete Comparison Guide",
+        "link": "https://dev.to/jay_sarvaiya_f85e7148bb57/react-18-vs-react-19-a-complete-comparison-guide-k49",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Collapsible Admin Sidebar with React Router + useLocation (Pro Patterns)",
+        "link": "https://dev.to/cristiansifuentes/building-a-collapsible-admin-sidebar-with-react-router-uselocation-pro-patterns-7im",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-20",
     "formattedDate": "September 20, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I made Lexical Easy! ( Lexkit: Rich Text Editor story )",
         "link": "https://dev.to/codeideal/i-made-lexical-easy-lexkit-rich-text-editor-story--3j3p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-18",
-    "formattedDate": "September 18, 2025",
-    "news": [
-      {
-        "title": "💡 Drop your craziest, simplest web app idea",
-        "link": "https://dev.to/navin_kumar_r/drop-your-craziest-simplest-web-app-idea-3651",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Can Simple Calculator Projects Be Turned Into Real-World Tools?",
-        "link": "https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Using Effects Effectively in React: Stop Misusing useEffect Once and For All",
-        "link": "https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Applied an Higher Order Array Method In a Project",
-        "link": "https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Using Effects Effectively in React: Stop Misusing useEffect Once and For All",
-        "link": "https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Data Grid Lite v1.2.4: Now with RTL Support + Full Virtualization!",
-        "link": "https://dev.to/sharmaricky/react-data-grid-lite-v124-now-with-rtl-support-full-virtualization-4351",
         "source": "Dev.to React"
       },
       {
