@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 23, 2025)
+### Today's Updates (September 24, 2025)
+
+#### Dev.to JavaScript
+
+- [How to Make Coding Fun in JavaScript (Almost Like in Clojure)](https://dev.to/stan_somov/how-to-make-coding-fun-in-javascript-almost-like-in-clojure-1lja)
+- [TCJSGame Component Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-component-class-complete-reference-guide-3e3p)
+- [🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress](https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0)
+
+#### Dev.to React
+
+- [Progress Team Update: KendoReact Challenge and Nuclia Trial Issues](https://dev.to/kathryngrayson/progress-team-update-kendoreact-challenge-and-nuclia-trial-issues-3540)
+- [⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained](https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-5an5)
+- [How useSyncExternalStore Transformed My React State Management](https://dev.to/ashishxcode/how-usesyncexternalstore-transformed-my-react-state-management-i31)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 23, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 22, 2025)
+### 2 Days Ago (September 22, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [EduBox - AI Student Hub](https://dev.to/aryprogrammer/edubox-ai-student-hub-21il)
 - [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
 - [useEffect() detail explanation](https://dev.to/cathylai/useeffect-detail-explanation-4ocg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 21, 2025)
-
-#### Dev.to JavaScript
-
-- [State Management in Vanilla JS](https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg)
-- [Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks](https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh)
-- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
-
-#### Dev.to React
-
-- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
-- [React 18 vs React 19: A Complete Comparison Guide](https://dev.to/jay_sarvaiya_f85e7148bb57/react-18-vs-react-19-a-complete-comparison-guide-k49)
-- [Building a Collapsible Admin Sidebar with React Router + useLocation (Pro Patterns)](https://dev.to/cristiansifuentes/building-a-collapsible-admin-sidebar-with-react-router-uselocation-pro-patterns-7im)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-24",
+    "formattedDate": "September 24, 2025",
+    "news": [
+      {
+        "title": "How to Make Coding Fun in JavaScript (Almost Like in Clojure)",
+        "link": "https://dev.to/stan_somov/how-to-make-coding-fun-in-javascript-almost-like-in-clojure-1lja",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TCJSGame Component Class: Complete Reference Guide",
+        "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-component-class-complete-reference-guide-3e3p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress",
+        "link": "https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Progress Team Update: KendoReact Challenge and Nuclia Trial Issues",
+        "link": "https://dev.to/kathryngrayson/progress-team-update-kendoreact-challenge-and-nuclia-trial-issues-3540",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained",
+        "link": "https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-5an5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How useSyncExternalStore Transformed My React State Management",
+        "link": "https://dev.to/ashishxcode/how-usesyncexternalstore-transformed-my-react-state-management-i31",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-23",
     "formattedDate": "September 23, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "useEffect() detail explanation",
         "link": "https://dev.to/cathylai/useeffect-detail-explanation-4ocg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-21",
-    "formattedDate": "September 21, 2025",
-    "news": [
-      {
-        "title": "State Management in Vanilla JS",
-        "link": "https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Skip JSON, Use Blade: A Simpler Way to Build Dynamic Laravel UIs Without JS Frameworks",
-        "link": "https://dev.to/raheelshan/skip-json-use-blade-a-simpler-way-to-build-dynamic-laravel-uis-without-js-frameworks-ceh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Security Patterns Every Developer Should Know",
-        "link": "https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Security Patterns Every Developer Should Know",
-        "link": "https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React 18 vs React 19: A Complete Comparison Guide",
-        "link": "https://dev.to/jay_sarvaiya_f85e7148bb57/react-18-vs-react-19-a-complete-comparison-guide-k49",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Collapsible Admin Sidebar with React Router + useLocation (Pro Patterns)",
-        "link": "https://dev.to/cristiansifuentes/building-a-collapsible-admin-sidebar-with-react-router-uselocation-pro-patterns-7im",
         "source": "Dev.to React"
       },
       {
