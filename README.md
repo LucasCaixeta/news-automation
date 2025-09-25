@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 24, 2025)
+### Today's Updates (September 25, 2025)
+
+#### Dev.to JavaScript
+
+- [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
+- [Cara Membuat Plagiarism Checker (Bahasa Indonesia) — step-by-step (Postgres + Qdrant + sentence-transformers + Nuxt)](https://dev.to/kamilersz/cara-membuat-plagiarism-checker-bahasa-indonesia-step-by-step-postgres-qdrant--hfj)
+- [10 Web Design Hacks UX Pros Don’t Want You to Know](https://dev.to/0x7b_official/10-web-design-hacks-ux-pros-dont-want-you-to-know-559)
+
+#### Dev.to React
+
+- [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
+- [Why React Alone Won’t Save Your UI/UX](https://dev.to/snappy_tuts/why-react-alone-wont-save-your-uiux-23hm)
+- [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 24, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 23, 2025)
+### 2 Days Ago (September 23, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Progress Team Update: KendoReact Challenge and Nuclia Trial Issues](https://dev.to/kathryngrayson/progress-team-update-kendoreact-challenge-and-nuclia-trial-issues-3540)
 - [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm)
 - [Simplifying API Communication with the BFF Pattern in NextJS](https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 22, 2025)
-
-#### Dev.to JavaScript
-
-- [Enforce Module Imports in FSD (using eslint-plugin-import)](https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72)
-- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/refactory/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
-- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl)
-
-#### Dev.to React
-
-- [EduBox - AI Student Hub](https://dev.to/aryprogrammer/edubox-ai-student-hub-21il)
-- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
-- [useEffect() detail explanation](https://dev.to/cathylai/useeffect-detail-explanation-4ocg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-25",
+    "formattedDate": "September 25, 2025",
+    "news": [
+      {
+        "title": "The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms",
+        "link": "https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cara Membuat Plagiarism Checker (Bahasa Indonesia) — step-by-step (Postgres + Qdrant + sentence-transformers + Nuxt)",
+        "link": "https://dev.to/kamilersz/cara-membuat-plagiarism-checker-bahasa-indonesia-step-by-step-postgres-qdrant--hfj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "10 Web Design Hacks UX Pros Don’t Want You to Know",
+        "link": "https://dev.to/0x7b_official/10-web-design-hacks-ux-pros-dont-want-you-to-know-559",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms",
+        "link": "https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why React Alone Won’t Save Your UI/UX",
+        "link": "https://dev.to/snappy_tuts/why-react-alone-wont-save-your-uiux-23hm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Error Boundaries in React with TypeScript: Going Beyond the Basics",
+        "link": "https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-24",
     "formattedDate": "September 24, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Simplifying API Communication with the BFF Pattern in NextJS",
         "link": "https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-22",
-    "formattedDate": "September 22, 2025",
-    "news": [
-      {
-        "title": "Enforce Module Imports in FSD (using eslint-plugin-import)",
-        "link": "https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Native Version Matrix: The Hidden Upgrade Path",
-        "link": "https://dev.to/refactory/react-native-version-matrix-the-hidden-upgrade-path-1p3m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Global Event Bus in Vue",
-        "link": "https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "EduBox - AI Student Hub",
-        "link": "https://dev.to/aryprogrammer/edubox-ai-student-hub-21il",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🏃‍♂️State management with Zustand!",
-        "link": "https://dev.to/gustavoisensee/state-management-with-zustand-14h3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "useEffect() detail explanation",
-        "link": "https://dev.to/cathylai/useeffect-detail-explanation-4ocg",
         "source": "Dev.to React"
       },
       {
