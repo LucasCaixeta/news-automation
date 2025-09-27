@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 26, 2025)
+### Today's Updates (September 27, 2025)
+
+#### Dev.to JavaScript
+
+- [Introducing StableError: A TypeScript Library for Consistent Error Tracking](https://dev.to/maximeshr/introducing-stableerror-a-typescript-library-for-consistent-error-tracking-2l9h)
+- [Essential JWT Security Best Practices for Developers](https://dev.to/rahuls24/essential-jwt-security-best-practices-for-developers-7k5)
+- [My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js](https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n)
+
+#### Dev.to React
+
+- [How I connected a React frontend to an ink! smart contract using Polkadot-API (PAPI)](https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl)
+- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
+- [Talking to My Code: React Compiler Saves the Day](https://dev.to/sagi0312/building-a-voice-driven-page-builder-part-1-how-react-compiler-solved-my-performance-crisis-3cpg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 25, 2025)
+### 2 Days Ago (September 25, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
 - [Why React Alone Won’t Save Your UI/UX](https://dev.to/snappy_tuts/why-react-alone-wont-save-your-uiux-23hm)
 - [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 24, 2025)
-
-#### Dev.to JavaScript
-
-- [How to Make Coding Fun in JavaScript (Almost Like in Clojure)](https://dev.to/stan_somov/how-to-make-coding-fun-in-javascript-almost-like-in-clojure-1lja)
-- [TCJSGame Component Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-component-class-complete-reference-guide-3e3p)
-- [🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress](https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0)
-
-#### Dev.to React
-
-- [Progress Team Update: KendoReact Challenge and Nuclia Trial Issues](https://dev.to/kathryngrayson/progress-team-update-kendoreact-challenge-and-nuclia-trial-issues-3540)
-- [⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained](https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-5an5)
-- [How useSyncExternalStore Transformed My React State Management](https://dev.to/ashishxcode/how-usesyncexternalstore-transformed-my-react-state-management-i31)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-27",
+    "formattedDate": "September 27, 2025",
+    "news": [
+      {
+        "title": "Introducing StableError: A TypeScript Library for Consistent Error Tracking",
+        "link": "https://dev.to/maximeshr/introducing-stableerror-a-typescript-library-for-consistent-error-tracking-2l9h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Essential JWT Security Best Practices for Developers",
+        "link": "https://dev.to/rahuls24/essential-jwt-security-best-practices-for-developers-7k5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js",
+        "link": "https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I connected a React frontend to an ink! smart contract using Polkadot-API (PAPI)",
+        "link": "https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "JupyterLab Kendo Grid Extension for Pandas DataFrames",
+        "link": "https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Talking to My Code: React Compiler Saves the Day",
+        "link": "https://dev.to/sagi0312/building-a-voice-driven-page-builder-part-1-how-react-compiler-solved-my-performance-crisis-3cpg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-26",
     "formattedDate": "September 26, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Error Boundaries in React with TypeScript: Going Beyond the Basics",
         "link": "https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-24",
-    "formattedDate": "September 24, 2025",
-    "news": [
-      {
-        "title": "How to Make Coding Fun in JavaScript (Almost Like in Clojure)",
-        "link": "https://dev.to/stan_somov/how-to-make-coding-fun-in-javascript-almost-like-in-clojure-1lja",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TCJSGame Component Class: Complete Reference Guide",
-        "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-component-class-complete-reference-guide-3e3p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress",
-        "link": "https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Progress Team Update: KendoReact Challenge and Nuclia Trial Issues",
-        "link": "https://dev.to/kathryngrayson/progress-team-update-kendoreact-challenge-and-nuclia-trial-issues-3540",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "⚡ React Internals: Virtual DOM 🖼️ vs Fiber Node 🔗 for Performance Explained",
-        "link": "https://dev.to/yorgie7/react-internals-virtual-dom-vs-fiber-node-for-performance-explained-5an5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How useSyncExternalStore Transformed My React State Management",
-        "link": "https://dev.to/ashishxcode/how-usesyncexternalstore-transformed-my-react-state-management-i31",
         "source": "Dev.to React"
       },
       {
