@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 27, 2025)
+### Today's Updates (September 28, 2025)
+
+#### Dev.to JavaScript
+
+- [Understanding Valibot: How it Works and When to Use it](https://dev.to/oluwawunmiadesewa/understanding-valibot-how-it-works-and-when-to-use-it-3j0a)
+- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
+- [🚀 Do You Know These World-Famous Apps Are Built with Electron?](https://dev.to/dmsmenula/do-you-know-these-world-famous-apps-are-built-with-electron-4le5)
+
+#### Dev.to React
+
+- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
+- [How I Added Apple’s “Liquid Glass” Effect to My Portfolio (React + CSS Tricks)](https://dev.to/jerophin_be9c10e686b76186/how-i-added-apples-liquid-glass-effect-to-my-portfolio-react-css-tricks-3gbk)
+- [Devfolio: The Ultimate Resume/Portfolio Builder in Seconds!](https://dev.to/popcorn150/devfolio-the-ultimate-resumeportfolio-builder-in-seconds-58hg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 26, 2025)
+### 2 Days Ago (September 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [That Weird Font Size Bug: A Deep Dive into Browser Settings and Front-End Font Strategies](https://dev.to/aoda-zhang/that-weird-font-size-bug-a-deep-dive-into-browser-settings-and-front-end-font-strategies-7kp)
 - [SOC-CERT: Enterprise Cybersecurity Dashboard with Real AI & 15+ KendoReact Components](https://dev.to/joupify/soc-cert-enterprise-cybersecurity-dashboard-with-real-ai-15-kendoreact-components-3743)
 - [Common React Anti-Patterns and How to Fix Them](https://dev.to/learcise_health/common-react-anti-patterns-and-how-to-fix-them-4734)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 25, 2025)
-
-#### Dev.to JavaScript
-
-- [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
-- [Cara Membuat Plagiarism Checker (Bahasa Indonesia) — step-by-step (Postgres + Qdrant + sentence-transformers + Nuxt)](https://dev.to/kamilersz/cara-membuat-plagiarism-checker-bahasa-indonesia-step-by-step-postgres-qdrant--hfj)
-- [10 Web Design Hacks UX Pros Don’t Want You to Know](https://dev.to/0x7b_official/10-web-design-hacks-ux-pros-dont-want-you-to-know-559)
-
-#### Dev.to React
-
-- [The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms](https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l)
-- [Why React Alone Won’t Save Your UI/UX](https://dev.to/snappy_tuts/why-react-alone-wont-save-your-uiux-23hm)
-- [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-28",
+    "formattedDate": "September 28, 2025",
+    "news": [
+      {
+        "title": "Understanding Valibot: How it Works and When to Use it",
+        "link": "https://dev.to/oluwawunmiadesewa/understanding-valibot-how-it-works-and-when-to-use-it-3j0a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering React Hooks Rules: From Basics to Expert-Level",
+        "link": "https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Do You Know These World-Famous Apps Are Built with Electron?",
+        "link": "https://dev.to/dmsmenula/do-you-know-these-world-famous-apps-are-built-with-electron-4le5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering React Hooks Rules: From Basics to Expert-Level",
+        "link": "https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Added Apple’s “Liquid Glass” Effect to My Portfolio (React + CSS Tricks)",
+        "link": "https://dev.to/jerophin_be9c10e686b76186/how-i-added-apples-liquid-glass-effect-to-my-portfolio-react-css-tricks-3gbk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Devfolio: The Ultimate Resume/Portfolio Builder in Seconds!",
+        "link": "https://dev.to/popcorn150/devfolio-the-ultimate-resumeportfolio-builder-in-seconds-58hg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-27",
     "formattedDate": "September 27, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Common React Anti-Patterns and How to Fix Them",
         "link": "https://dev.to/learcise_health/common-react-anti-patterns-and-how-to-fix-them-4734",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-25",
-    "formattedDate": "September 25, 2025",
-    "news": [
-      {
-        "title": "The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms",
-        "link": "https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Cara Membuat Plagiarism Checker (Bahasa Indonesia) — step-by-step (Postgres + Qdrant + sentence-transformers + Nuxt)",
-        "link": "https://dev.to/kamilersz/cara-membuat-plagiarism-checker-bahasa-indonesia-step-by-step-postgres-qdrant--hfj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "10 Web Design Hacks UX Pros Don’t Want You to Know",
-        "link": "https://dev.to/0x7b_official/10-web-design-hacks-ux-pros-dont-want-you-to-know-559",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Ultimate React Hook Form + Zod Pattern for Reusable Create and Edit Forms",
-        "link": "https://dev.to/ashishxcode/the-ultimate-react-hook-form-zod-pattern-for-reusable-create-and-edit-forms-38l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why React Alone Won’t Save Your UI/UX",
-        "link": "https://dev.to/snappy_tuts/why-react-alone-wont-save-your-uiux-23hm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Error Boundaries in React with TypeScript: Going Beyond the Basics",
-        "link": "https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn",
         "source": "Dev.to React"
       },
       {
