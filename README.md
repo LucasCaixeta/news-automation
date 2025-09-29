@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 28, 2025)
+### Today's Updates (September 29, 2025)
+
+#### Dev.to JavaScript
+
+- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
+- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik)
+- [Building Dynamic Skeleton Loaders in React the Easy Way](https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae)
+
+#### Dev.to React
+
+- [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
+- [Tangible India - A journey through numbers](https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761)
+- [Image Flow Editor](https://dev.to/mohessaid/image-flow-editor-133)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 27, 2025)
+### 2 Days Ago (September 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I connected a React frontend to an ink! smart contract using Polkadot-API (PAPI)](https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl)
 - [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
 - [Talking to My Code: React Compiler Saves the Day](https://dev.to/sagi0312/building-a-voice-driven-page-builder-part-1-how-react-compiler-solved-my-performance-crisis-3cpg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 26, 2025)
-
-#### Dev.to JavaScript
-
-- [How to Calculate Pixel Width and Height of a Bounding Box at Different Map Zoom Levels](https://dev.to/geoapify-maps-api/how-to-calculate-pixel-width-and-height-of-a-bounding-box-at-different-map-zoom-levels-1o34)
-- [Introducing globalprice: A Smart Pricing Engine for 160+ Currencies](https://dev.to/dmsmenula/introducing-globalprice-a-smart-pricing-engine-for-160-currencies-5cjh)
-- [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
-
-#### Dev.to React
-
-- [That Weird Font Size Bug: A Deep Dive into Browser Settings and Front-End Font Strategies](https://dev.to/aoda-zhang/that-weird-font-size-bug-a-deep-dive-into-browser-settings-and-front-end-font-strategies-7kp)
-- [SOC-CERT: Enterprise Cybersecurity Dashboard with Real AI & 15+ KendoReact Components](https://dev.to/joupify/soc-cert-enterprise-cybersecurity-dashboard-with-real-ai-15-kendoreact-components-3743)
-- [Common React Anti-Patterns and How to Fix Them](https://dev.to/learcise_health/common-react-anti-patterns-and-how-to-fix-them-4734)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-29",
+    "formattedDate": "September 29, 2025",
+    "news": [
+      {
+        "title": "5 Things I Wish I Knew When I Started Freelancing as a Web Developer",
+        "link": "https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Efficient script loading strategy",
+        "link": "https://dev.to/yoriiis/efficient-script-loading-strategy-12ik",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Dynamic Skeleton Loaders in React the Easy Way",
+        "link": "https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Find peer tutors fast and easy",
+        "link": "https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Tangible India - A journey through numbers",
+        "link": "https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Image Flow Editor",
+        "link": "https://dev.to/mohessaid/image-flow-editor-133",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-28",
     "formattedDate": "September 28, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Talking to My Code: React Compiler Saves the Day",
         "link": "https://dev.to/sagi0312/building-a-voice-driven-page-builder-part-1-how-react-compiler-solved-my-performance-crisis-3cpg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-26",
-    "formattedDate": "September 26, 2025",
-    "news": [
-      {
-        "title": "How to Calculate Pixel Width and Height of a Bounding Box at Different Map Zoom Levels",
-        "link": "https://dev.to/geoapify-maps-api/how-to-calculate-pixel-width-and-height-of-a-bounding-box-at-different-map-zoom-levels-1o34",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introducing globalprice: A Smart Pricing Engine for 160+ Currencies",
-        "link": "https://dev.to/dmsmenula/introducing-globalprice-a-smart-pricing-engine-for-160-currencies-5cjh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Make Any List Keyboard-Friendly in Minutes",
-        "link": "https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "That Weird Font Size Bug: A Deep Dive into Browser Settings and Front-End Font Strategies",
-        "link": "https://dev.to/aoda-zhang/that-weird-font-size-bug-a-deep-dive-into-browser-settings-and-front-end-font-strategies-7kp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "SOC-CERT: Enterprise Cybersecurity Dashboard with Real AI & 15+ KendoReact Components",
-        "link": "https://dev.to/joupify/soc-cert-enterprise-cybersecurity-dashboard-with-real-ai-15-kendoreact-components-3743",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Common React Anti-Patterns and How to Fix Them",
-        "link": "https://dev.to/learcise_health/common-react-anti-patterns-and-how-to-fix-them-4734",
         "source": "Dev.to React"
       },
       {
