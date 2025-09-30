@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 29, 2025)
+### Today's Updates (September 30, 2025)
+
+#### Dev.to JavaScript
+
+- [DOM-based XSS in-depth](https://dev.to/godofgeeks/dom-based-xss-in-depth-493f)
+- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
+- [Exploring Fresh (Deno Framework) for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
+
+#### Dev.to React
+
+- [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
+- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
+- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 28, 2025)
+### 2 Days Ago (September 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
 - [How I Added Apple’s “Liquid Glass” Effect to My Portfolio (React + CSS Tricks)](https://dev.to/jerophin_be9c10e686b76186/how-i-added-apples-liquid-glass-effect-to-my-portfolio-react-css-tricks-3gbk)
 - [Devfolio: The Ultimate Resume/Portfolio Builder in Seconds!](https://dev.to/popcorn150/devfolio-the-ultimate-resumeportfolio-builder-in-seconds-58hg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 27, 2025)
-
-#### Dev.to JavaScript
-
-- [Introducing StableError: A TypeScript Library for Consistent Error Tracking](https://dev.to/maximeshr/introducing-stableerror-a-typescript-library-for-consistent-error-tracking-2l9h)
-- [Essential JWT Security Best Practices for Developers](https://dev.to/rahuls24/essential-jwt-security-best-practices-for-developers-7k5)
-- [My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js](https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n)
-
-#### Dev.to React
-
-- [How I connected a React frontend to an ink! smart contract using Polkadot-API (PAPI)](https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl)
-- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
-- [Talking to My Code: React Compiler Saves the Day](https://dev.to/sagi0312/building-a-voice-driven-page-builder-part-1-how-react-compiler-solved-my-performance-crisis-3cpg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-09-30",
+    "formattedDate": "September 30, 2025",
+    "news": [
+      {
+        "title": "DOM-based XSS in-depth",
+        "link": "https://dev.to/godofgeeks/dom-based-xss-in-depth-493f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Accessible Web Applications with Next.js",
+        "link": "https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Exploring Fresh (Deno Framework) for the First Time: My Beginner’s Journey",
+        "link": "https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Find peer tutors fast and easy",
+        "link": "https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Accessible Web Applications with Next.js",
+        "link": "https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "An Experiment with AI Assisted Web Development",
+        "link": "https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-29",
     "formattedDate": "September 29, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Devfolio: The Ultimate Resume/Portfolio Builder in Seconds!",
         "link": "https://dev.to/popcorn150/devfolio-the-ultimate-resumeportfolio-builder-in-seconds-58hg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-27",
-    "formattedDate": "September 27, 2025",
-    "news": [
-      {
-        "title": "Introducing StableError: A TypeScript Library for Consistent Error Tracking",
-        "link": "https://dev.to/maximeshr/introducing-stableerror-a-typescript-library-for-consistent-error-tracking-2l9h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Essential JWT Security Best Practices for Developers",
-        "link": "https://dev.to/rahuls24/essential-jwt-security-best-practices-for-developers-7k5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js",
-        "link": "https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I connected a React frontend to an ink! smart contract using Polkadot-API (PAPI)",
-        "link": "https://dev.to/githaiga22/how-i-connected-a-react-frontend-to-an-ink-smart-contract-using-polkadot-api-papi-4lgl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "JupyterLab Kendo Grid Extension for Pandas DataFrames",
-        "link": "https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Talking to My Code: React Compiler Saves the Day",
-        "link": "https://dev.to/sagi0312/building-a-voice-driven-page-builder-part-1-how-react-compiler-solved-my-performance-crisis-3cpg",
         "source": "Dev.to React"
       },
       {
