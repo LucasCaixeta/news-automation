@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 30, 2025)
+### Today's Updates (October 1, 2025)
+
+#### Dev.to JavaScript
+
+- [What's new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
+- [Intl CSS & JS: the comedy of pain](https://dev.to/pixelperfect_pro/intl-css-js-the-comedy-of-pain-4l4e)
+- [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
+
+#### Dev.to React
+
+- [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
+- [React Concurrent Mode Deep Dive - Complete Series, (You Do Not Know React Yet)](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h)
+- [Time Slicing in React - How Your UI Stays Butter Smooth (The Frame Budget Secret)](https://dev.to/mohamad_msalme_38f2508ea2/time-slicing-in-react-how-your-ui-stays-butter-smooth-the-frame-budget-secret-59lf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 29, 2025)
+### 2 Days Ago (September 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
 - [Tangible India - A journey through numbers](https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761)
 - [Image Flow Editor](https://dev.to/mohessaid/image-flow-editor-133)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 28, 2025)
-
-#### Dev.to JavaScript
-
-- [Understanding Valibot: How it Works and When to Use it](https://dev.to/oluwawunmiadesewa/understanding-valibot-how-it-works-and-when-to-use-it-3j0a)
-- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
-- [🚀 Do You Know These World-Famous Apps Are Built with Electron?](https://dev.to/dmsmenula/do-you-know-these-world-famous-apps-are-built-with-electron-4le5)
-
-#### Dev.to React
-
-- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
-- [How I Added Apple’s “Liquid Glass” Effect to My Portfolio (React + CSS Tricks)](https://dev.to/jerophin_be9c10e686b76186/how-i-added-apples-liquid-glass-effect-to-my-portfolio-react-css-tricks-3gbk)
-- [Devfolio: The Ultimate Resume/Portfolio Builder in Seconds!](https://dev.to/popcorn150/devfolio-the-ultimate-resumeportfolio-builder-in-seconds-58hg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-01",
+    "formattedDate": "October 1, 2025",
+    "news": [
+      {
+        "title": "What's new in the 2025 State of JavaScript survey",
+        "link": "https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Intl CSS & JS: the comedy of pain",
+        "link": "https://dev.to/pixelperfect_pro/intl-css-js-the-comedy-of-pain-4l4e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven",
+        "link": "https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven",
+        "link": "https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Concurrent Mode Deep Dive - Complete Series, (You Do Not Know React Yet)",
+        "link": "https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Time Slicing in React - How Your UI Stays Butter Smooth (The Frame Budget Secret)",
+        "link": "https://dev.to/mohamad_msalme_38f2508ea2/time-slicing-in-react-how-your-ui-stays-butter-smooth-the-frame-budget-secret-59lf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-09-30",
     "formattedDate": "September 30, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Image Flow Editor",
         "link": "https://dev.to/mohessaid/image-flow-editor-133",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-28",
-    "formattedDate": "September 28, 2025",
-    "news": [
-      {
-        "title": "Understanding Valibot: How it Works and When to Use it",
-        "link": "https://dev.to/oluwawunmiadesewa/understanding-valibot-how-it-works-and-when-to-use-it-3j0a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering React Hooks Rules: From Basics to Expert-Level",
-        "link": "https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Do You Know These World-Famous Apps Are Built with Electron?",
-        "link": "https://dev.to/dmsmenula/do-you-know-these-world-famous-apps-are-built-with-electron-4le5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering React Hooks Rules: From Basics to Expert-Level",
-        "link": "https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Added Apple’s “Liquid Glass” Effect to My Portfolio (React + CSS Tricks)",
-        "link": "https://dev.to/jerophin_be9c10e686b76186/how-i-added-apples-liquid-glass-effect-to-my-portfolio-react-css-tricks-3gbk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Devfolio: The Ultimate Resume/Portfolio Builder in Seconds!",
-        "link": "https://dev.to/popcorn150/devfolio-the-ultimate-resumeportfolio-builder-in-seconds-58hg",
         "source": "Dev.to React"
       },
       {
