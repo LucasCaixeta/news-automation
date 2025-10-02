@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 1, 2025)
+### Today's Updates (October 2, 2025)
+
+#### Dev.to JavaScript
+
+- [What's new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
+- [How to serve Markdown to AI agents: Making your docs more AI-friendly](https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn)
+- [Arquitetura Modular com Nuxt Layers em Projetos Vue](https://dev.to/gabrielcaiana/arquitetura-modular-com-nuxt-layers-em-projetos-vue-586k)
+
+#### Dev.to React
+
+- [🌍 Quote.Vote | An Open-Source Public Square for Respectful Dialogue (Hacktoberfest 2025)](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-38b6)
+- [I Built Shadcn Builder – A Form Builder for Shadcn/UI](https://dev.to/iduspara/i-built-shadcn-builder-a-form-builder-for-shadcnui-131a)
+- [How to programmatically insert text into a Slate.js contenteditable so it registers as user input?](https://dev.to/hirehawk_devops/how-to-programmatically-insert-text-into-a-slatejs-contenteditable-so-it-registers-as-user-input-52h6)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 30, 2025)
+### 2 Days Ago (September 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
 - [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
 - [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 29, 2025)
-
-#### Dev.to JavaScript
-
-- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
-- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik)
-- [Building Dynamic Skeleton Loaders in React the Easy Way](https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae)
-
-#### Dev.to React
-
-- [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
-- [Tangible India - A journey through numbers](https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761)
-- [Image Flow Editor](https://dev.to/mohessaid/image-flow-editor-133)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-02",
+    "formattedDate": "October 2, 2025",
+    "news": [
+      {
+        "title": "What's new in the 2025 State of JavaScript survey",
+        "link": "https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to serve Markdown to AI agents: Making your docs more AI-friendly",
+        "link": "https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Arquitetura Modular com Nuxt Layers em Projetos Vue",
+        "link": "https://dev.to/gabrielcaiana/arquitetura-modular-com-nuxt-layers-em-projetos-vue-586k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🌍 Quote.Vote | An Open-Source Public Square for Respectful Dialogue (Hacktoberfest 2025)",
+        "link": "https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-38b6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built Shadcn Builder – A Form Builder for Shadcn/UI",
+        "link": "https://dev.to/iduspara/i-built-shadcn-builder-a-form-builder-for-shadcnui-131a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to programmatically insert text into a Slate.js contenteditable so it registers as user input?",
+        "link": "https://dev.to/hirehawk_devops/how-to-programmatically-insert-text-into-a-slatejs-contenteditable-so-it-registers-as-user-input-52h6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-01",
     "formattedDate": "October 1, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "An Experiment with AI Assisted Web Development",
         "link": "https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-29",
-    "formattedDate": "September 29, 2025",
-    "news": [
-      {
-        "title": "5 Things I Wish I Knew When I Started Freelancing as a Web Developer",
-        "link": "https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Efficient script loading strategy",
-        "link": "https://dev.to/yoriiis/efficient-script-loading-strategy-12ik",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Dynamic Skeleton Loaders in React the Easy Way",
-        "link": "https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Find peer tutors fast and easy",
-        "link": "https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Tangible India - A journey through numbers",
-        "link": "https://dev.to/himanshuc3/tangible-india-a-journey-through-numbers-3761",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Image Flow Editor",
-        "link": "https://dev.to/mohessaid/image-flow-editor-133",
         "source": "Dev.to React"
       },
       {
