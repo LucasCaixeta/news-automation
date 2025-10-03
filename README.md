@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 2, 2025)
+### Today's Updates (October 3, 2025)
+
+#### Dev.to JavaScript
+
+- [🧐 Do You Really Need Redux?](https://dev.to/mourya_modugula/do-you-really-need-redux-nig)
+- [Why Use FlatList Instead of Traditional Map in React Native?](https://dev.to/aman_hussain_shaikh/why-use-flatlist-instead-of-traditional-map-in-react-native-2k9o)
+- [Building a Custom Key Binding Recorder in React](https://dev.to/louis7/building-a-custom-key-binding-recorder-in-react-3478)
+
+#### Dev.to React
+
+- [What’s New in React 19.2?](https://dev.to/ashishxcode/whats-new-in-react-192-1b52)
+- [Building a Custom Key Binding Recorder in React](https://dev.to/louis7/building-a-custom-key-binding-recorder-in-react-3478)
+- [Dynamic Feature Management with Firebase Remote Config in React](https://dev.to/debajit13/dynamic-feature-management-with-firebase-remote-config-in-react-4n49)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 1, 2025)
+### 2 Days Ago (October 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
 - [React Concurrent Mode Deep Dive - Complete Series, (You Do Not Know React Yet)](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h)
 - [Time Slicing in React - How Your UI Stays Butter Smooth (The Frame Budget Secret)](https://dev.to/mohamad_msalme_38f2508ea2/time-slicing-in-react-how-your-ui-stays-butter-smooth-the-frame-budget-secret-59lf)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 30, 2025)
-
-#### Dev.to JavaScript
-
-- [DOM-based XSS in-depth](https://dev.to/godofgeeks/dom-based-xss-in-depth-493f)
-- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
-- [Exploring Fresh (Deno Framework) for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
-
-#### Dev.to React
-
-- [Find peer tutors fast and easy](https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42)
-- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
-- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-03",
+    "formattedDate": "October 3, 2025",
+    "news": [
+      {
+        "title": "🧐 Do You Really Need Redux?",
+        "link": "https://dev.to/mourya_modugula/do-you-really-need-redux-nig",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Use FlatList Instead of Traditional Map in React Native?",
+        "link": "https://dev.to/aman_hussain_shaikh/why-use-flatlist-instead-of-traditional-map-in-react-native-2k9o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Custom Key Binding Recorder in React",
+        "link": "https://dev.to/louis7/building-a-custom-key-binding-recorder-in-react-3478",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What’s New in React 19.2?",
+        "link": "https://dev.to/ashishxcode/whats-new-in-react-192-1b52",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Custom Key Binding Recorder in React",
+        "link": "https://dev.to/louis7/building-a-custom-key-binding-recorder-in-react-3478",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Dynamic Feature Management with Firebase Remote Config in React",
+        "link": "https://dev.to/debajit13/dynamic-feature-management-with-firebase-remote-config-in-react-4n49",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-02",
     "formattedDate": "October 2, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Time Slicing in React - How Your UI Stays Butter Smooth (The Frame Budget Secret)",
         "link": "https://dev.to/mohamad_msalme_38f2508ea2/time-slicing-in-react-how-your-ui-stays-butter-smooth-the-frame-budget-secret-59lf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-09-30",
-    "formattedDate": "September 30, 2025",
-    "news": [
-      {
-        "title": "DOM-based XSS in-depth",
-        "link": "https://dev.to/godofgeeks/dom-based-xss-in-depth-493f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Accessible Web Applications with Next.js",
-        "link": "https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Exploring Fresh (Deno Framework) for the First Time: My Beginner’s Journey",
-        "link": "https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Find peer tutors fast and easy",
-        "link": "https://dev.to/bridget_amana/find-peer-tutors-fast-and-easy-2p42",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Accessible Web Applications with Next.js",
-        "link": "https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "An Experiment with AI Assisted Web Development",
-        "link": "https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk",
         "source": "Dev.to React"
       },
       {
