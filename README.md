@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 3, 2025)
+### Today's Updates (October 4, 2025)
+
+#### Dev.to JavaScript
+
+- [How to prevent duplicate charges, orders, and form submissions in Node.js/Express using express-idempotency-middleware.](https://dev.to/yevhen_mykhailenko/how-to-prevent-duplicate-charges-orders-and-form-submissions-in-nodejsexpress-using-1j49)
+- [圖片壓縮：用 Compressor.js 自動調整品質壓縮至指定大小](https://dev.to/letswrite/tu-pian-ya-suo-yong-compressorjs-zi-dong-diao-zheng-pin-zhi-ya-suo-zhi-zhi-ding-da-xiao-2j18)
+- [WebForms Core 1.9 and CodeBehind 4.3 have been Released](https://dev.to/elanatframework/webforms-core-19-and-codebehind-43-have-been-released-5epl)
+
+#### Dev.to React
+
+- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
+- [BOMs, But Make It Visual: Level Up Your Product Game](https://dev.to/i_abhiseka/boms-but-make-it-visual-level-up-your-product-game-1php)
+- [A financial management dashboard with React, Tailwind CSS, Ui.shadcn, Django and PostgreSQL](https://dev.to/hery_niainatahinarakoto/a-financial-management-dashboard-with-react-tailwind-css-uishadcn-django-and-postgresql-3l6a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 2, 2025)
+### 2 Days Ago (October 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🌍 Quote.Vote | An Open-Source Public Square for Respectful Dialogue (Hacktoberfest 2025)](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-38b6)
 - [I Built Shadcn Builder – A Form Builder for Shadcn/UI](https://dev.to/iduspara/i-built-shadcn-builder-a-form-builder-for-shadcnui-131a)
 - [How to programmatically insert text into a Slate.js contenteditable so it registers as user input?](https://dev.to/hirehawk_devops/how-to-programmatically-insert-text-into-a-slatejs-contenteditable-so-it-registers-as-user-input-52h6)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 1, 2025)
-
-#### Dev.to JavaScript
-
-- [What's new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
-- [Intl CSS & JS: the comedy of pain](https://dev.to/pixelperfect_pro/intl-css-js-the-comedy-of-pain-4l4e)
-- [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
-
-#### Dev.to React
-
-- [Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven](https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n)
-- [React Concurrent Mode Deep Dive - Complete Series, (You Do Not Know React Yet)](https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h)
-- [Time Slicing in React - How Your UI Stays Butter Smooth (The Frame Budget Secret)](https://dev.to/mohamad_msalme_38f2508ea2/time-slicing-in-react-how-your-ui-stays-butter-smooth-the-frame-budget-secret-59lf)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-04",
+    "formattedDate": "October 4, 2025",
+    "news": [
+      {
+        "title": "How to prevent duplicate charges, orders, and form submissions in Node.js/Express using express-idempotency-middleware.",
+        "link": "https://dev.to/yevhen_mykhailenko/how-to-prevent-duplicate-charges-orders-and-form-submissions-in-nodejsexpress-using-1j49",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "圖片壓縮：用 Compressor.js 自動調整品質壓縮至指定大小",
+        "link": "https://dev.to/letswrite/tu-pian-ya-suo-yong-compressorjs-zi-dong-diao-zheng-pin-zhi-ya-suo-zhi-zhi-ding-da-xiao-2j18",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "WebForms Core 1.9 and CodeBehind 4.3 have been Released",
+        "link": "https://dev.to/elanatframework/webforms-core-19-and-codebehind-43-have-been-released-5epl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "50 Most Useful React Snippets",
+        "link": "https://dev.to/jsdev01/50-most-useful-react-snippets-20oc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "BOMs, But Make It Visual: Level Up Your Product Game",
+        "link": "https://dev.to/i_abhiseka/boms-but-make-it-visual-level-up-your-product-game-1php",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A financial management dashboard with React, Tailwind CSS, Ui.shadcn, Django and PostgreSQL",
+        "link": "https://dev.to/hery_niainatahinarakoto/a-financial-management-dashboard-with-react-tailwind-css-uishadcn-django-and-postgresql-3l6a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-03",
     "formattedDate": "October 3, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to programmatically insert text into a Slate.js contenteditable so it registers as user input?",
         "link": "https://dev.to/hirehawk_devops/how-to-programmatically-insert-text-into-a-slatejs-contenteditable-so-it-registers-as-user-input-52h6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-01",
-    "formattedDate": "October 1, 2025",
-    "news": [
-      {
-        "title": "What's new in the 2025 State of JavaScript survey",
-        "link": "https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Intl CSS & JS: the comedy of pain",
-        "link": "https://dev.to/pixelperfect_pro/intl-css-js-the-comedy-of-pain-4l4e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven",
-        "link": "https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Thoughts and Practices on Enterprise-Level Project Architecture — A Case Study of PawHaven",
-        "link": "https://dev.to/aoda-zhang/thoughts-and-practices-on-enterprise-level-project-architecture-a-case-study-of-pawhaven-1a4n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Concurrent Mode Deep Dive - Complete Series, (You Do Not Know React Yet)",
-        "link": "https://dev.to/mohamad_msalme_38f2508ea2/react-concurrent-mode-deep-dive-complete-series-you-do-not-know-react-yet-4a6h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Time Slicing in React - How Your UI Stays Butter Smooth (The Frame Budget Secret)",
-        "link": "https://dev.to/mohamad_msalme_38f2508ea2/time-slicing-in-react-how-your-ui-stays-butter-smooth-the-frame-budget-secret-59lf",
         "source": "Dev.to React"
       },
       {
