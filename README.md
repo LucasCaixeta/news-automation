@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 4, 2025)
+### Today's Updates (October 5, 2025)
+
+#### Dev.to JavaScript
+
+- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
+- [How I implemented Picture-in-Picture in React (with full code + tips)](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
+- [Let's Play with Lit](https://dev.to/roblevintennis/lets-play-with-lit-4hjp)
+
+#### Dev.to React
+
+- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
+- [How I implemented Picture-in-Picture in React (with full code + tips)](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
+- [React Keep-Alive: The Complete Guide Every Developer Needs 🚀](https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 3, 2025)
+### 2 Days Ago (October 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [What’s New in React 19.2?](https://dev.to/ashishxcode/whats-new-in-react-192-1b52)
 - [Building a Custom Key Binding Recorder in React](https://dev.to/louis7/building-a-custom-key-binding-recorder-in-react-3478)
 - [Dynamic Feature Management with Firebase Remote Config in React](https://dev.to/debajit13/dynamic-feature-management-with-firebase-remote-config-in-react-4n49)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 2, 2025)
-
-#### Dev.to JavaScript
-
-- [What's new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
-- [How to serve Markdown to AI agents: Making your docs more AI-friendly](https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn)
-- [Arquitetura Modular com Nuxt Layers em Projetos Vue](https://dev.to/gabrielcaiana/arquitetura-modular-com-nuxt-layers-em-projetos-vue-586k)
-
-#### Dev.to React
-
-- [🌍 Quote.Vote | An Open-Source Public Square for Respectful Dialogue (Hacktoberfest 2025)](https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-38b6)
-- [I Built Shadcn Builder – A Form Builder for Shadcn/UI](https://dev.to/iduspara/i-built-shadcn-builder-a-form-builder-for-shadcnui-131a)
-- [How to programmatically insert text into a Slate.js contenteditable so it registers as user input?](https://dev.to/hirehawk_devops/how-to-programmatically-insert-text-into-a-slatejs-contenteditable-so-it-registers-as-user-input-52h6)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-05",
+    "formattedDate": "October 5, 2025",
+    "news": [
+      {
+        "title": "Stop Using useEffect for Data Fetching",
+        "link": "https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I implemented Picture-in-Picture in React (with full code + tips)",
+        "link": "https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Let's Play with Lit",
+        "link": "https://dev.to/roblevintennis/lets-play-with-lit-4hjp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Using useEffect for Data Fetching",
+        "link": "https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I implemented Picture-in-Picture in React (with full code + tips)",
+        "link": "https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Keep-Alive: The Complete Guide Every Developer Needs 🚀",
+        "link": "https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-04",
     "formattedDate": "October 4, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Dynamic Feature Management with Firebase Remote Config in React",
         "link": "https://dev.to/debajit13/dynamic-feature-management-with-firebase-remote-config-in-react-4n49",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-02",
-    "formattedDate": "October 2, 2025",
-    "news": [
-      {
-        "title": "What's new in the 2025 State of JavaScript survey",
-        "link": "https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to serve Markdown to AI agents: Making your docs more AI-friendly",
-        "link": "https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Arquitetura Modular com Nuxt Layers em Projetos Vue",
-        "link": "https://dev.to/gabrielcaiana/arquitetura-modular-com-nuxt-layers-em-projetos-vue-586k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🌍 Quote.Vote | An Open-Source Public Square for Respectful Dialogue (Hacktoberfest 2025)",
-        "link": "https://dev.to/quotevote/quotevote-an-open-source-public-square-for-respectful-dialogue-hacktoberfest-2025-38b6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built Shadcn Builder – A Form Builder for Shadcn/UI",
-        "link": "https://dev.to/iduspara/i-built-shadcn-builder-a-form-builder-for-shadcnui-131a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to programmatically insert text into a Slate.js contenteditable so it registers as user input?",
-        "link": "https://dev.to/hirehawk_devops/how-to-programmatically-insert-text-into-a-slatejs-contenteditable-so-it-registers-as-user-input-52h6",
         "source": "Dev.to React"
       },
       {
