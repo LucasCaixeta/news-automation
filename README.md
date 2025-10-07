@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 6, 2025)
+### Today's Updates (October 7, 2025)
+
+#### Dev.to JavaScript
+
+- [Discord Webhook Manager: The Smarter Way to Handle Discord Announcements](https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g)
+- [💻 Doing Something Good with Code](https://dev.to/aoda-zhang/doing-something-good-with-code-13fj)
+- [🚀 11 Years of Code: Kicking Off a 30-Day Frontend Content Challenge](https://dev.to/devhabib/11-years-of-code-kicking-off-a-30-day-frontend-content-challenge-57j)
+
+#### Dev.to React
+
+- [The Redux Mystery: Why Does It Feel So Hard?](https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do)
+- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
+- [React Question & Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 5, 2025)
+### 2 Days Ago (October 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
 - [How I implemented Picture-in-Picture in React (with full code + tips)](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
 - [React Keep-Alive: The Complete Guide Every Developer Needs 🚀](https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 4, 2025)
-
-#### Dev.to JavaScript
-
-- [How to prevent duplicate charges, orders, and form submissions in Node.js/Express using express-idempotency-middleware.](https://dev.to/yevhen_mykhailenko/how-to-prevent-duplicate-charges-orders-and-form-submissions-in-nodejsexpress-using-1j49)
-- [圖片壓縮：用 Compressor.js 自動調整品質壓縮至指定大小](https://dev.to/letswrite/tu-pian-ya-suo-yong-compressorjs-zi-dong-diao-zheng-pin-zhi-ya-suo-zhi-zhi-ding-da-xiao-2j18)
-- [WebForms Core 1.9 and CodeBehind 4.3 have been Released](https://dev.to/elanatframework/webforms-core-19-and-codebehind-43-have-been-released-5epl)
-
-#### Dev.to React
-
-- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
-- [BOMs, But Make It Visual: Level Up Your Product Game](https://dev.to/i_abhiseka/boms-but-make-it-visual-level-up-your-product-game-1php)
-- [A financial management dashboard with React, Tailwind CSS, Ui.shadcn, Django and PostgreSQL](https://dev.to/hery_niainatahinarakoto/a-financial-management-dashboard-with-react-tailwind-css-uishadcn-django-and-postgresql-3l6a)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-07",
+    "formattedDate": "October 7, 2025",
+    "news": [
+      {
+        "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
+        "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "💻 Doing Something Good with Code",
+        "link": "https://dev.to/aoda-zhang/doing-something-good-with-code-13fj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 11 Years of Code: Kicking Off a 30-Day Frontend Content Challenge",
+        "link": "https://dev.to/devhabib/11-years-of-code-kicking-off-a-30-day-frontend-content-challenge-57j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Redux Mystery: Why Does It Feel So Hard?",
+        "link": "https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles",
+        "link": "https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Question & Answer",
+        "link": "https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-06",
     "formattedDate": "October 6, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Keep-Alive: The Complete Guide Every Developer Needs 🚀",
         "link": "https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-04",
-    "formattedDate": "October 4, 2025",
-    "news": [
-      {
-        "title": "How to prevent duplicate charges, orders, and form submissions in Node.js/Express using express-idempotency-middleware.",
-        "link": "https://dev.to/yevhen_mykhailenko/how-to-prevent-duplicate-charges-orders-and-form-submissions-in-nodejsexpress-using-1j49",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "圖片壓縮：用 Compressor.js 自動調整品質壓縮至指定大小",
-        "link": "https://dev.to/letswrite/tu-pian-ya-suo-yong-compressorjs-zi-dong-diao-zheng-pin-zhi-ya-suo-zhi-zhi-ding-da-xiao-2j18",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "WebForms Core 1.9 and CodeBehind 4.3 have been Released",
-        "link": "https://dev.to/elanatframework/webforms-core-19-and-codebehind-43-have-been-released-5epl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "50 Most Useful React Snippets",
-        "link": "https://dev.to/jsdev01/50-most-useful-react-snippets-20oc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "BOMs, But Make It Visual: Level Up Your Product Game",
-        "link": "https://dev.to/i_abhiseka/boms-but-make-it-visual-level-up-your-product-game-1php",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A financial management dashboard with React, Tailwind CSS, Ui.shadcn, Django and PostgreSQL",
-        "link": "https://dev.to/hery_niainatahinarakoto/a-financial-management-dashboard-with-react-tailwind-css-uishadcn-django-and-postgresql-3l6a",
         "source": "Dev.to React"
       },
       {
