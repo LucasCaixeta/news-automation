@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 7, 2025)
+### Today's Updates (October 8, 2025)
+
+#### Dev.to JavaScript
+
+- [Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)](https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk)
+- [Jest Cheatsheets](https://dev.to/cathylai/jest-101-404g)
+- [The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler](https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i)
+
+#### Dev.to React
+
+- [We Fixed React's Context API: Introducing react-signal-context](https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh)
+- [I state "You will love it - React Query".](https://dev.to/golam_mostafa/react-query-i-state-you-will-love-it-3oka)
+- [🔍 SVAR React Filter: Open-Source Query Builder for React](https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 6, 2025)
+### 2 Days Ago (October 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
 - [From Pills to Programming: My Journey from Pharmacy to Software Development](https://dev.to/henry_messiahtmt_099ca84/from-pills-to-programming-my-journey-from-pharmacy-to-software-development-3pae)
 - [Data Table From Scratch. Part 9: Delete Rows](https://dev.to/morewings/data-table-from-scratch-part-9-delete-rows-3a93)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 5, 2025)
-
-#### Dev.to JavaScript
-
-- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
-- [How I implemented Picture-in-Picture in React (with full code + tips)](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
-- [Let's Play with Lit](https://dev.to/roblevintennis/lets-play-with-lit-4hjp)
-
-#### Dev.to React
-
-- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
-- [How I implemented Picture-in-Picture in React (with full code + tips)](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
-- [React Keep-Alive: The Complete Guide Every Developer Needs 🚀](https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-08",
+    "formattedDate": "October 8, 2025",
+    "news": [
+      {
+        "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
+        "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Jest Cheatsheets",
+        "link": "https://dev.to/cathylai/jest-101-404g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
+        "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We Fixed React's Context API: Introducing react-signal-context",
+        "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I state \"You will love it - React Query\".",
+        "link": "https://dev.to/golam_mostafa/react-query-i-state-you-will-love-it-3oka",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🔍 SVAR React Filter: Open-Source Query Builder for React",
+        "link": "https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-07",
     "formattedDate": "October 7, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Data Table From Scratch. Part 9: Delete Rows",
         "link": "https://dev.to/morewings/data-table-from-scratch-part-9-delete-rows-3a93",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-05",
-    "formattedDate": "October 5, 2025",
-    "news": [
-      {
-        "title": "Stop Using useEffect for Data Fetching",
-        "link": "https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I implemented Picture-in-Picture in React (with full code + tips)",
-        "link": "https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Let's Play with Lit",
-        "link": "https://dev.to/roblevintennis/lets-play-with-lit-4hjp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Using useEffect for Data Fetching",
-        "link": "https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I implemented Picture-in-Picture in React (with full code + tips)",
-        "link": "https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Keep-Alive: The Complete Guide Every Developer Needs 🚀",
-        "link": "https://dev.to/serifcolakel/react-keep-alive-the-complete-guide-every-developer-needs-1c2m",
         "source": "Dev.to React"
       },
       {
