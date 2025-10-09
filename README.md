@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 8, 2025)
+### Today's Updates (October 9, 2025)
+
+#### Dev.to JavaScript
+
+- [A Custom Reusable Delete Confirmation Modal Hook in ReactJS.](https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic)
+- [The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong](https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p)
+- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
+
+#### Dev.to React
+
+- [Building a High-Performance Booking Platform: Reducing API Calls by 66%](https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic)
+- [React Explained: Mount vs Render (and Why It Matters in React Native)](https://dev.to/cathylai/react-explained-mount-vs-render-and-why-it-matters-in-react-native-2ak5)
+- [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 7, 2025)
+### 2 Days Ago (October 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Redux Mystery: Why Does It Feel So Hard?](https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do)
 - [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
 - [React Question & Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 6, 2025)
-
-#### Dev.to JavaScript
-
-- [Building Better Dev Habits with devKataCLI: A Terminal-Based Practice Routin](https://dev.to/fern_d3v/building-better-dev-habits-with-devkatacli-a-terminal-based-practice-routin-4ojc)
-- [🛠️ Hacktoberfest 2025 — 17 Pull Requests in One Day, for the Love of Clean Code 😅🤖🧠](https://dev.to/boly38/hacktoberfest-2025-17-pull-requests-en-une-journee-par-amour-du-code-propre-1hp4)
-- [How Smart AI Prompts Supercharge Your Code](https://dev.to/sanjaynaker/how-smart-ai-prompts-supercharge-your-code-2kno)
-
-#### Dev.to React
-
-- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
-- [From Pills to Programming: My Journey from Pharmacy to Software Development](https://dev.to/henry_messiahtmt_099ca84/from-pills-to-programming-my-journey-from-pharmacy-to-software-development-3pae)
-- [Data Table From Scratch. Part 9: Delete Rows](https://dev.to/morewings/data-table-from-scratch-part-9-delete-rows-3a93)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-09",
+    "formattedDate": "October 9, 2025",
+    "news": [
+      {
+        "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
+        "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
+        "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Abandonware of the web: did you know that there is an HTML tables API?",
+        "link": "https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a High-Performance Booking Platform: Reducing API Calls by 66%",
+        "link": "https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Explained: Mount vs Render (and Why It Matters in React Native)",
+        "link": "https://dev.to/cathylai/react-explained-mount-vs-render-and-why-it-matters-in-react-native-2ak5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
+        "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-08",
     "formattedDate": "October 8, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Question & Answer",
         "link": "https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-06",
-    "formattedDate": "October 6, 2025",
-    "news": [
-      {
-        "title": "Building Better Dev Habits with devKataCLI: A Terminal-Based Practice Routin",
-        "link": "https://dev.to/fern_d3v/building-better-dev-habits-with-devkatacli-a-terminal-based-practice-routin-4ojc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🛠️ Hacktoberfest 2025 — 17 Pull Requests in One Day, for the Love of Clean Code 😅🤖🧠",
-        "link": "https://dev.to/boly38/hacktoberfest-2025-17-pull-requests-en-une-journee-par-amour-du-code-propre-1hp4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How Smart AI Prompts Supercharge Your Code",
-        "link": "https://dev.to/sanjaynaker/how-smart-ai-prompts-supercharge-your-code-2kno",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps",
-        "link": "https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Pills to Programming: My Journey from Pharmacy to Software Development",
-        "link": "https://dev.to/henry_messiahtmt_099ca84/from-pills-to-programming-my-journey-from-pharmacy-to-software-development-3pae",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Data Table From Scratch. Part 9: Delete Rows",
-        "link": "https://dev.to/morewings/data-table-from-scratch-part-9-delete-rows-3a93",
         "source": "Dev.to React"
       },
       {
