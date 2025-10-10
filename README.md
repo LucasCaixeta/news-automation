@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 9, 2025)
+### Today's Updates (October 10, 2025)
+
+#### Dev.to JavaScript
+
+- [Implementing Astro Pagination for Large Data](https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk)
+- [Ng-News 25/40: Q&A on Zoneless, @angular/aria (???)](https://dev.to/this-is-angular/ng-news-2540-qa-on-zoneless-angulararia--1ocm)
+- [The Missing Bridge: Running Java Seamlessly Inside Your Node.js App](https://dev.to/mauro_mazzocchetti_300073/the-missing-bridge-running-java-seamlessly-inside-your-nodejs-app-43oc)
+
+#### Dev.to React
+
+- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
+- [Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management](https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0)
+- [🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler & Priority Lanes Explained](https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 8, 2025)
+### 2 Days Ago (October 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [We Fixed React's Context API: Introducing react-signal-context](https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh)
 - [I state "You will love it - React Query".](https://dev.to/golam_mostafa/react-query-i-state-you-will-love-it-3oka)
 - [🔍 SVAR React Filter: Open-Source Query Builder for React](https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 7, 2025)
-
-#### Dev.to JavaScript
-
-- [Discord Webhook Manager: The Smarter Way to Handle Discord Announcements](https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g)
-- [💻 Doing Something Good with Code](https://dev.to/aoda-zhang/doing-something-good-with-code-13fj)
-- [🚀 11 Years of Code: Kicking Off a 30-Day Frontend Content Challenge](https://dev.to/devhabib/11-years-of-code-kicking-off-a-30-day-frontend-content-challenge-57j)
-
-#### Dev.to React
-
-- [The Redux Mystery: Why Does It Feel So Hard?](https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do)
-- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
-- [React Question & Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-10",
+    "formattedDate": "October 10, 2025",
+    "news": [
+      {
+        "title": "Implementing Astro Pagination for Large Data",
+        "link": "https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Ng-News 25/40: Q&A on Zoneless, @angular/aria (???)",
+        "link": "https://dev.to/this-is-angular/ng-news-2540-qa-on-zoneless-angulararia--1ocm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Missing Bridge: Running Java Seamlessly Inside Your Node.js App",
+        "link": "https://dev.to/mauro_mazzocchetti_300073/the-missing-bridge-running-java-seamlessly-inside-your-nodejs-app-43oc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Congrats to the latest KendoReact Free Components Challenge Winners!",
+        "link": "https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management",
+        "link": "https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler & Priority Lanes Explained",
+        "link": "https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-09",
     "formattedDate": "October 9, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "🔍 SVAR React Filter: Open-Source Query Builder for React",
         "link": "https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-07",
-    "formattedDate": "October 7, 2025",
-    "news": [
-      {
-        "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
-        "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "💻 Doing Something Good with Code",
-        "link": "https://dev.to/aoda-zhang/doing-something-good-with-code-13fj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 11 Years of Code: Kicking Off a 30-Day Frontend Content Challenge",
-        "link": "https://dev.to/devhabib/11-years-of-code-kicking-off-a-30-day-frontend-content-challenge-57j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Redux Mystery: Why Does It Feel So Hard?",
-        "link": "https://dev.to/salehahmedmahin/the-redux-mystery-why-does-it-feel-so-hard-31do",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles",
-        "link": "https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Question & Answer",
-        "link": "https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-352m",
         "source": "Dev.to React"
       },
       {
