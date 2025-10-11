@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 10, 2025)
+### Today's Updates (October 11, 2025)
+
+#### Dev.to JavaScript
+
+- [How I Handle JWT Authentication in Express.js (Without the Headaches)](https://dev.to/realcw_bishop/how-i-handle-jwt-authentication-in-expressjs-without-the-headaches-2np3)
+- [Hemi the Cat Concierge: Building a Personality-Driven AI for Formant](https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago)
+- [Implementing Astro Pagination for Large Data](https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk)
+
+#### Dev.to React
+
+- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
+- [Managing Global Settings in React Native: A Clean Context API Approach](https://dev.to/cathylai/managing-global-settings-in-react-native-a-clean-context-api-approach-4b20)
+- [Rebuild #1.2: Just use F***ing use HTML](https://dev.to/raworiginal/rebuild-12-just-use-fing-use-html-3jld)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 10, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 9, 2025)
+### 2 Days Ago (October 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a High-Performance Booking Platform: Reducing API Calls by 66%](https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic)
 - [React Explained: Mount vs Render (and Why It Matters in React Native)](https://dev.to/cathylai/react-explained-mount-vs-render-and-why-it-matters-in-react-native-2ak5)
 - [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 8, 2025)
-
-#### Dev.to JavaScript
-
-- [Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)](https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk)
-- [Jest Cheatsheets](https://dev.to/cathylai/jest-101-404g)
-- [The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler](https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i)
-
-#### Dev.to React
-
-- [We Fixed React's Context API: Introducing react-signal-context](https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh)
-- [I state "You will love it - React Query".](https://dev.to/golam_mostafa/react-query-i-state-you-will-love-it-3oka)
-- [🔍 SVAR React Filter: Open-Source Query Builder for React](https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-11",
+    "formattedDate": "October 11, 2025",
+    "news": [
+      {
+        "title": "How I Handle JWT Authentication in Express.js (Without the Headaches)",
+        "link": "https://dev.to/realcw_bishop/how-i-handle-jwt-authentication-in-expressjs-without-the-headaches-2np3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
+        "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Implementing Astro Pagination for Large Data",
+        "link": "https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Congrats to the latest KendoReact Free Components Challenge Winners!",
+        "link": "https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Managing Global Settings in React Native: A Clean Context API Approach",
+        "link": "https://dev.to/cathylai/managing-global-settings-in-react-native-a-clean-context-api-approach-4b20",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Rebuild #1.2: Just use F***ing use HTML",
+        "link": "https://dev.to/raworiginal/rebuild-12-just-use-fing-use-html-3jld",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-10",
     "formattedDate": "October 10, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
         "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-08",
-    "formattedDate": "October 8, 2025",
-    "news": [
-      {
-        "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
-        "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Jest Cheatsheets",
-        "link": "https://dev.to/cathylai/jest-101-404g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
-        "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "We Fixed React's Context API: Introducing react-signal-context",
-        "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I state \"You will love it - React Query\".",
-        "link": "https://dev.to/golam_mostafa/react-query-i-state-you-will-love-it-3oka",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🔍 SVAR React Filter: Open-Source Query Builder for React",
-        "link": "https://dev.to/olga_tash/svar-react-filter-open-source-query-builder-for-react-1fd0",
         "source": "Dev.to React"
       },
       {
