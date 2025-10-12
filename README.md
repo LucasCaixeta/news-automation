@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 11, 2025)
+### Today's Updates (October 12, 2025)
+
+#### Dev.to JavaScript
+
+- [Hemi the Cat Concierge: Building a Personality-Driven AI for Formant](https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago)
+- [Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)](https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k)
+- [Pusher Composables - حل شامل للمحادثات والإشعارات الفورية](https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j)
+
+#### Dev.to React
+
+- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh)
+- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f)
+- [The Complete Guide to React ViewTransition (Just Released!)](https://dev.to/caisere/the-complete-guide-to-react-viewtransition-just-released-4k0n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 10, 2025)
+### 2 Days Ago (October 10, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
 - [Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management](https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0)
 - [🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler & Priority Lanes Explained](https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 9, 2025)
-
-#### Dev.to JavaScript
-
-- [A Custom Reusable Delete Confirmation Modal Hook in ReactJS.](https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic)
-- [The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong](https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p)
-- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
-
-#### Dev.to React
-
-- [Building a High-Performance Booking Platform: Reducing API Calls by 66%](https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic)
-- [React Explained: Mount vs Render (and Why It Matters in React Native)](https://dev.to/cathylai/react-explained-mount-vs-render-and-why-it-matters-in-react-native-2ak5)
-- [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-12",
+    "formattedDate": "October 12, 2025",
+    "news": [
+      {
+        "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
+        "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
+        "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
+        "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead",
+        "link": "https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Introducing Varkit: Dynamic CSS Variables for React with TypeScript",
+        "link": "https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Complete Guide to React ViewTransition (Just Released!)",
+        "link": "https://dev.to/caisere/the-complete-guide-to-react-viewtransition-just-released-4k0n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-11",
     "formattedDate": "October 11, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler & Priority Lanes Explained",
         "link": "https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-09",
-    "formattedDate": "October 9, 2025",
-    "news": [
-      {
-        "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
-        "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
-        "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Abandonware of the web: did you know that there is an HTML tables API?",
-        "link": "https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a High-Performance Booking Platform: Reducing API Calls by 66%",
-        "link": "https://dev.to/blocool/building-a-high-performance-booking-platform-reducing-api-calls-by-66-5eic",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Explained: Mount vs Render (and Why It Matters in React Native)",
-        "link": "https://dev.to/cathylai/react-explained-mount-vs-render-and-why-it-matters-in-react-native-2ak5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
-        "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
         "source": "Dev.to React"
       },
       {
