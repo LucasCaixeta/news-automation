@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 12, 2025)
+### Today's Updates (October 13, 2025)
+
+#### Dev.to JavaScript
+
+- [The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`](https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23)
+- [The <template> Tag: A core HTML Feature That Simplified My JS](https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o)
+- [Magic: The Gathering Explained With JavaScript Classes](https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2)
+
+#### Dev.to React
+
+- [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
+- [MonoUI – A Tailwind CSS Component Library](https://dev.to/zukey/monoui-a-tailwind-css-component-library-g4e)
+- [The React Suspense Composable Streaming Trick For Improved User Experience](https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 12, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 11, 2025)
+### 2 Days Ago (October 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
 - [Managing Global Settings in React Native: A Clean Context API Approach](https://dev.to/cathylai/managing-global-settings-in-react-native-a-clean-context-api-approach-4b20)
 - [Rebuild #1.2: Just use F***ing use HTML](https://dev.to/raworiginal/rebuild-12-just-use-fing-use-html-3jld)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 10, 2025)
-
-#### Dev.to JavaScript
-
-- [Implementing Astro Pagination for Large Data](https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk)
-- [Ng-News 25/40: Q&A on Zoneless, @angular/aria (???)](https://dev.to/this-is-angular/ng-news-2540-qa-on-zoneless-angulararia--1ocm)
-- [The Missing Bridge: Running Java Seamlessly Inside Your Node.js App](https://dev.to/mauro_mazzocchetti_300073/the-missing-bridge-running-java-seamlessly-inside-your-nodejs-app-43oc)
-
-#### Dev.to React
-
-- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
-- [Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management](https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0)
-- [🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler & Priority Lanes Explained](https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-13",
+    "formattedDate": "October 13, 2025",
+    "news": [
+      {
+        "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
+        "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
+        "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Magic: The Gathering Explained With JavaScript Classes",
+        "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚦 What is Throttling in JavaScript?",
+        "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "MonoUI – A Tailwind CSS Component Library",
+        "link": "https://dev.to/zukey/monoui-a-tailwind-css-component-library-g4e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
+        "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-12",
     "formattedDate": "October 12, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Rebuild #1.2: Just use F***ing use HTML",
         "link": "https://dev.to/raworiginal/rebuild-12-just-use-fing-use-html-3jld",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-10",
-    "formattedDate": "October 10, 2025",
-    "news": [
-      {
-        "title": "Implementing Astro Pagination for Large Data",
-        "link": "https://dev.to/lovestaco/implementing-astro-pagination-for-large-data-2jmk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Ng-News 25/40: Q&A on Zoneless, @angular/aria (???)",
-        "link": "https://dev.to/this-is-angular/ng-news-2540-qa-on-zoneless-angulararia--1ocm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Missing Bridge: Running Java Seamlessly Inside Your Node.js App",
-        "link": "https://dev.to/mauro_mazzocchetti_300073/the-missing-bridge-running-java-seamlessly-inside-your-nodejs-app-43oc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Congrats to the latest KendoReact Free Components Challenge Winners!",
-        "link": "https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js ⚡ + Zustand 🐻: A Production-Grade File Structure for Scalable State Management",
-        "link": "https://dev.to/harish_kumar_20cdaccf4610/nextjs-zustand-a-production-grade-file-structure-for-scalable-state-management-4pk0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler & Priority Lanes Explained",
-        "link": "https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk",
         "source": "Dev.to React"
       },
       {
