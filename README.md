@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 14, 2025)
+### Today's Updates (October 15, 2025)
+
+#### Dev.to JavaScript
+
+- [Sentry Errors Are Unreadable by Default. Here's How to Fix It with Source Maps](https://dev.to/gethopp/sentry-errors-are-unreadable-by-default-heres-how-to-fix-it-with-source-maps-435n)
+- [Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)](https://dev.to/yosolita1978/bulls-cows-bringing-a-pen-and-paper-classic-to-the-browser-no-ai-no-frameworks-just-js-iop)
+- [The Subtle but Critical Difference: `process.nextTick()` vs. `setImmediate()`](https://dev.to/alex_aslam/the-subtle-but-critical-difference-processnexttick-vs-setimmediate-28c1)
+
+#### Dev.to React
+
+- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
+- [How to Build a Secure React Native Chat App with End-to-End Encryption](https://dev.to/getstreamhq/how-to-build-a-secure-react-native-chat-app-with-end-to-end-encryption-24gl)
+- [ZenBox - React State Management That Feels Like Vue Vibes in React](https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 13, 2025)
+### 2 Days Ago (October 13, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
 - [MonoUI – A Tailwind CSS Component Library](https://dev.to/zukey/monoui-a-tailwind-css-component-library-g4e)
 - [The React Suspense Composable Streaming Trick For Improved User Experience](https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 12, 2025)
-
-#### Dev.to JavaScript
-
-- [Hemi the Cat Concierge: Building a Personality-Driven AI for Formant](https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago)
-- [Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)](https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k)
-- [Pusher Composables - حل شامل للمحادثات والإشعارات الفورية](https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j)
-
-#### Dev.to React
-
-- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh)
-- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f)
-- [The Complete Guide to React ViewTransition (Just Released!)](https://dev.to/caisere/the-complete-guide-to-react-viewtransition-just-released-4k0n)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-15",
+    "formattedDate": "October 15, 2025",
+    "news": [
+      {
+        "title": "Sentry Errors Are Unreadable by Default. Here's How to Fix It with Source Maps",
+        "link": "https://dev.to/gethopp/sentry-errors-are-unreadable-by-default-heres-how-to-fix-it-with-source-maps-435n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)",
+        "link": "https://dev.to/yosolita1978/bulls-cows-bringing-a-pen-and-paper-classic-to-the-browser-no-ai-no-frameworks-just-js-iop",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Subtle but Critical Difference: `process.nextTick()` vs. `setImmediate()`",
+        "link": "https://dev.to/alex_aslam/the-subtle-but-critical-difference-processnexttick-vs-setimmediate-28c1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js in Modern Frontend Technology with Tailwind CSS",
+        "link": "https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Build a Secure React Native Chat App with End-to-End Encryption",
+        "link": "https://dev.to/getstreamhq/how-to-build-a-secure-react-native-chat-app-with-end-to-end-encryption-24gl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ZenBox - React State Management That Feels Like Vue Vibes in React",
+        "link": "https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-14",
     "formattedDate": "October 14, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
         "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-12",
-    "formattedDate": "October 12, 2025",
-    "news": [
-      {
-        "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
-        "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
-        "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
-        "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead",
-        "link": "https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Introducing Varkit: Dynamic CSS Variables for React with TypeScript",
-        "link": "https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Complete Guide to React ViewTransition (Just Released!)",
-        "link": "https://dev.to/caisere/the-complete-guide-to-react-viewtransition-just-released-4k0n",
         "source": "Dev.to React"
       },
       {
