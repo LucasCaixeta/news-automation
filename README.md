@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 15, 2025)
+### Today's Updates (October 16, 2025)
+
+#### Dev.to JavaScript
+
+- [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
+- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
+- [How to Choose a Deployment Platform for a Next.js Project?](https://dev.to/c1avie_60b7853948e3d4/how-to-choose-a-deployment-platform-for-a-nextjs-project-3bbl)
+
+#### Dev.to React
+
+- [Building FirstTx: A Different Approach to CSR Performance](https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel)
+- [How React’s useState Really Works — A Simple Explanation from First Principles](https://dev.to/safal_bhandari/how-reacts-usestate-really-works-a-simple-explanation-from-first-principles-17nh)
+- [Secret Productivity Hack On VS Code](https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 14, 2025)
+### 2 Days Ago (October 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built an Oreo Generator with 1.1 Sextillion Combinations](https://dev.to/codypearce/how-i-built-an-oreo-generator-with-11-sextillion-combinations-de7)
 - [Humans still win: why frontend basics matter — even with Gemini, GPT, and Claude](https://dev.to/rajibola/humans-still-win-why-frontend-basics-matter-even-with-gemini-gpt-and-claude-1efl)
 - [The React Foundation — A New Era for Open Collaboration](https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 13, 2025)
-
-#### Dev.to JavaScript
-
-- [The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`](https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23)
-- [The <template> Tag: A core HTML Feature That Simplified My JS](https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o)
-- [Magic: The Gathering Explained With JavaScript Classes](https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2)
-
-#### Dev.to React
-
-- [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
-- [MonoUI – A Tailwind CSS Component Library](https://dev.to/zukey/monoui-a-tailwind-css-component-library-g4e)
-- [The React Suspense Composable Streaming Trick For Improved User Experience](https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-16",
+    "formattedDate": "October 16, 2025",
+    "news": [
+      {
+        "title": "Join our latest Frontend Challenge: Halloween Edition 🦇",
+        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You’re a Real JavaScript Developer Only If...",
+        "link": "https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Choose a Deployment Platform for a Next.js Project?",
+        "link": "https://dev.to/c1avie_60b7853948e3d4/how-to-choose-a-deployment-platform-for-a-nextjs-project-3bbl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building FirstTx: A Different Approach to CSR Performance",
+        "link": "https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How React’s useState Really Works — A Simple Explanation from First Principles",
+        "link": "https://dev.to/safal_bhandari/how-reacts-usestate-really-works-a-simple-explanation-from-first-principles-17nh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Secret Productivity Hack On VS Code",
+        "link": "https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-15",
     "formattedDate": "October 15, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The React Foundation — A New Era for Open Collaboration",
         "link": "https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-13",
-    "formattedDate": "October 13, 2025",
-    "news": [
-      {
-        "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
-        "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
-        "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Magic: The Gathering Explained With JavaScript Classes",
-        "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚦 What is Throttling in JavaScript?",
-        "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MonoUI – A Tailwind CSS Component Library",
-        "link": "https://dev.to/zukey/monoui-a-tailwind-css-component-library-g4e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
-        "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
         "source": "Dev.to React"
       },
       {
