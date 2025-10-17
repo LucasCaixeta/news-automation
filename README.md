@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 16, 2025)
+### Today's Updates (October 17, 2025)
+
+#### Dev.to JavaScript
+
+- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
+- [9 Open Source Tools to Boost Your Productivity 🔥](https://dev.to/anthonymax/9-open-source-tools-to-boost-your-productivity-433p)
+- [Creating a Text Extension for TCJSGame: Tctxt - Complete Documentation & Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-text-extension-for-tcjsgame-tctxt-complete-documentation-tutorial-5c9e)
+
+#### Dev.to React
+
+- [The Financial Command Center I Built After Years of Failed Budgeting Attempts](https://dev.to/hariharen/the-financial-command-center-i-built-after-years-of-failed-budgeting-attempts-3d6a)
+- [Seeking Advice: Next.js vs Vite for HR SaaS (10K+ Users)](https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn)
+- [Cause and solution for "Too many re-renders" in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 15, 2025)
+### 2 Days Ago (October 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
 - [How to Build a Secure React Native Chat App with End-to-End Encryption](https://dev.to/getstreamhq/how-to-build-a-secure-react-native-chat-app-with-end-to-end-encryption-24gl)
 - [ZenBox - React State Management That Feels Like Vue Vibes in React](https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 14, 2025)
-
-#### Dev.to JavaScript
-
-- [Migrating to <template> tag](https://dev.to/ijlee2/migrating-to-tag-39on)
-- [Modals and accessibility](https://dev.to/miasalazar/modals-and-accessibility-111e)
-- [Node CLI for any server](https://dev.to/kjue/node-cli-for-any-server-2cb5)
-
-#### Dev.to React
-
-- [How I Built an Oreo Generator with 1.1 Sextillion Combinations](https://dev.to/codypearce/how-i-built-an-oreo-generator-with-11-sextillion-combinations-de7)
-- [Humans still win: why frontend basics matter — even with Gemini, GPT, and Claude](https://dev.to/rajibola/humans-still-win-why-frontend-basics-matter-even-with-gemini-gpt-and-claude-1efl)
-- [The React Foundation — A New Era for Open Collaboration](https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-17",
+    "formattedDate": "October 17, 2025",
+    "news": [
+      {
+        "title": "You’re a Real JavaScript Developer Only If...",
+        "link": "https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "9 Open Source Tools to Boost Your Productivity 🔥",
+        "link": "https://dev.to/anthonymax/9-open-source-tools-to-boost-your-productivity-433p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Creating a Text Extension for TCJSGame: Tctxt - Complete Documentation & Tutorial",
+        "link": "https://dev.to/kehinde_owolabi_e2e54567a/creating-a-text-extension-for-tcjsgame-tctxt-complete-documentation-tutorial-5c9e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Financial Command Center I Built After Years of Failed Budgeting Attempts",
+        "link": "https://dev.to/hariharen/the-financial-command-center-i-built-after-years-of-failed-budgeting-attempts-3d6a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Seeking Advice: Next.js vs Vite for HR SaaS (10K+ Users)",
+        "link": "https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cause and solution for \"Too many re-renders\" in useEffect",
+        "link": "https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-16",
     "formattedDate": "October 16, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "ZenBox - React State Management That Feels Like Vue Vibes in React",
         "link": "https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-14",
-    "formattedDate": "October 14, 2025",
-    "news": [
-      {
-        "title": "Migrating to <template> tag",
-        "link": "https://dev.to/ijlee2/migrating-to-tag-39on",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Modals and accessibility",
-        "link": "https://dev.to/miasalazar/modals-and-accessibility-111e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Node CLI for any server",
-        "link": "https://dev.to/kjue/node-cli-for-any-server-2cb5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built an Oreo Generator with 1.1 Sextillion Combinations",
-        "link": "https://dev.to/codypearce/how-i-built-an-oreo-generator-with-11-sextillion-combinations-de7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Humans still win: why frontend basics matter — even with Gemini, GPT, and Claude",
-        "link": "https://dev.to/rajibola/humans-still-win-why-frontend-basics-matter-even-with-gemini-gpt-and-claude-1efl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The React Foundation — A New Era for Open Collaboration",
-        "link": "https://dev.to/cristiansifuentes/the-react-foundation-a-new-era-for-open-collaboration-5fjh",
         "source": "Dev.to React"
       },
       {
