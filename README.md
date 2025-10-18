@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 17, 2025)
+### Today's Updates (October 18, 2025)
+
+#### Dev.to JavaScript
+
+- [Pagination — Architecture Series: Part 1](https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b)
+- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
+- [Say Goodbye to console.time() and Hello to performance.mark()!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
+
+#### Dev.to React
+
+- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
+- [I Built an Epic Staircase Page Transition in Next.js—Here's the Code, the Z-Index Nightmare, and the A11Y Fix](https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn)
+- [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 16, 2025)
+### 2 Days Ago (October 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building FirstTx: A Different Approach to CSR Performance](https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel)
 - [How React’s useState Really Works — A Simple Explanation from First Principles](https://dev.to/safal_bhandari/how-reacts-usestate-really-works-a-simple-explanation-from-first-principles-17nh)
 - [Secret Productivity Hack On VS Code](https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 15, 2025)
-
-#### Dev.to JavaScript
-
-- [Sentry Errors Are Unreadable by Default. Here's How to Fix It with Source Maps](https://dev.to/gethopp/sentry-errors-are-unreadable-by-default-heres-how-to-fix-it-with-source-maps-435n)
-- [Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)](https://dev.to/yosolita1978/bulls-cows-bringing-a-pen-and-paper-classic-to-the-browser-no-ai-no-frameworks-just-js-iop)
-- [The Subtle but Critical Difference: `process.nextTick()` vs. `setImmediate()`](https://dev.to/alex_aslam/the-subtle-but-critical-difference-processnexttick-vs-setimmediate-28c1)
-
-#### Dev.to React
-
-- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
-- [How to Build a Secure React Native Chat App with End-to-End Encryption](https://dev.to/getstreamhq/how-to-build-a-secure-react-native-chat-app-with-end-to-end-encryption-24gl)
-- [ZenBox - React State Management That Feels Like Vue Vibes in React](https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-18",
+    "formattedDate": "October 18, 2025",
+    "news": [
+      {
+        "title": "Pagination — Architecture Series: Part 1",
+        "link": "https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud",
+        "link": "https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Say Goodbye to console.time() and Hello to performance.mark()!",
+        "link": "https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud",
+        "link": "https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an Epic Staircase Page Transition in Next.js—Here's the Code, the Z-Index Nightmare, and the A11Y Fix",
+        "link": "https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
+        "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-17",
     "formattedDate": "October 17, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Secret Productivity Hack On VS Code",
         "link": "https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-15",
-    "formattedDate": "October 15, 2025",
-    "news": [
-      {
-        "title": "Sentry Errors Are Unreadable by Default. Here's How to Fix It with Source Maps",
-        "link": "https://dev.to/gethopp/sentry-errors-are-unreadable-by-default-heres-how-to-fix-it-with-source-maps-435n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)",
-        "link": "https://dev.to/yosolita1978/bulls-cows-bringing-a-pen-and-paper-classic-to-the-browser-no-ai-no-frameworks-just-js-iop",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Subtle but Critical Difference: `process.nextTick()` vs. `setImmediate()`",
-        "link": "https://dev.to/alex_aslam/the-subtle-but-critical-difference-processnexttick-vs-setimmediate-28c1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js in Modern Frontend Technology with Tailwind CSS",
-        "link": "https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Build a Secure React Native Chat App with End-to-End Encryption",
-        "link": "https://dev.to/getstreamhq/how-to-build-a-secure-react-native-chat-app-with-end-to-end-encryption-24gl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "ZenBox - React State Management That Feels Like Vue Vibes in React",
-        "link": "https://dev.to/del-wang/zenbox-react-state-management-that-feels-like-vue-vibes-in-react-mip",
         "source": "Dev.to React"
       },
       {
