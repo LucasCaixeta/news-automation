@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 18, 2025)
+### Today's Updates (October 19, 2025)
+
+#### Dev.to JavaScript
+
+- [“Debugging 101: How to Read and Understand Python Error Messages”](https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon)
+- [Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰](https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2)
+- [Creare una PWA con Laravel e Bootstrap | Building a PWA with Laravel and Bootstrap](https://dev.to/roberto_celano/creare-una-pwa-con-laravel-e-bootstrap-building-a-pwa-with-laravel-and-bootstrap-5epe)
+
+#### Dev.to React
+
+- [🧩 Diseñar un Design System (y no morir en el intento... o si)](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
+- [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
+- [Why I Rewrote Nocta CLI in Rust (Even Though I Didn't Need To)](https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 17, 2025)
+### 2 Days Ago (October 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Financial Command Center I Built After Years of Failed Budgeting Attempts](https://dev.to/hariharen/the-financial-command-center-i-built-after-years-of-failed-budgeting-attempts-3d6a)
 - [Seeking Advice: Next.js vs Vite for HR SaaS (10K+ Users)](https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn)
 - [Cause and solution for "Too many re-renders" in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 16, 2025)
-
-#### Dev.to JavaScript
-
-- [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
-- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
-- [How to Choose a Deployment Platform for a Next.js Project?](https://dev.to/c1avie_60b7853948e3d4/how-to-choose-a-deployment-platform-for-a-nextjs-project-3bbl)
-
-#### Dev.to React
-
-- [Building FirstTx: A Different Approach to CSR Performance](https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel)
-- [How React’s useState Really Works — A Simple Explanation from First Principles](https://dev.to/safal_bhandari/how-reacts-usestate-really-works-a-simple-explanation-from-first-principles-17nh)
-- [Secret Productivity Hack On VS Code](https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-19",
+    "formattedDate": "October 19, 2025",
+    "news": [
+      {
+        "title": "“Debugging 101: How to Read and Understand Python Error Messages”",
+        "link": "https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰",
+        "link": "https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Creare una PWA con Laravel e Bootstrap | Building a PWA with Laravel and Bootstrap",
+        "link": "https://dev.to/roberto_celano/creare-una-pwa-con-laravel-e-bootstrap-building-a-pwa-with-laravel-and-bootstrap-5epe",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧩 Diseñar un Design System (y no morir en el intento... o si)",
+        "link": "https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
+        "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Rewrote Nocta CLI in Rust (Even Though I Didn't Need To)",
+        "link": "https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-18",
     "formattedDate": "October 18, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Cause and solution for \"Too many re-renders\" in useEffect",
         "link": "https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-16",
-    "formattedDate": "October 16, 2025",
-    "news": [
-      {
-        "title": "Join our latest Frontend Challenge: Halloween Edition 🦇",
-        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You’re a Real JavaScript Developer Only If...",
-        "link": "https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Choose a Deployment Platform for a Next.js Project?",
-        "link": "https://dev.to/c1avie_60b7853948e3d4/how-to-choose-a-deployment-platform-for-a-nextjs-project-3bbl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building FirstTx: A Different Approach to CSR Performance",
-        "link": "https://dev.to/joseph0926/building-firsttx-a-different-approach-to-csr-performance-1eel",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How React’s useState Really Works — A Simple Explanation from First Principles",
-        "link": "https://dev.to/safal_bhandari/how-reacts-usestate-really-works-a-simple-explanation-from-first-principles-17nh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Secret Productivity Hack On VS Code",
-        "link": "https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna",
         "source": "Dev.to React"
       },
       {
