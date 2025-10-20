@@ -6,7 +6,21 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 19, 2025)
+### Today's Updates (October 20, 2025)
+
+#### Dev.to JavaScript
+
+- [Migrating from Remix to React Router v7](https://dev.to/kahwee/migrating-from-remix-to-react-router-v7-4gfo)
+- [100+ AJAX / fetch / HTTP code snippets](https://dev.to/softwaredeveloper01/100-ajax-fetch-http-code-snippets-4311)
+- [Why Doesn’t My API Call Wait? — Understanding Promises & Async/Await in JavaScript](https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf)
+
+#### Dev.to React
+
+- [Gbit Framework](https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa)
+- [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
+- [You probably don‘t need controlled forms](https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi)
+
+### Yesterday's Updates (October 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +39,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 18, 2025)
+### 2 Days Ago (October 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +52,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
 - [I Built an Epic Staircase Page Transition in Next.js—Here's the Code, the Z-Index Nightmare, and the A11Y Fix](https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn)
 - [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 17, 2025)
-
-#### Dev.to JavaScript
-
-- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
-- [9 Open Source Tools to Boost Your Productivity 🔥](https://dev.to/anthonymax/9-open-source-tools-to-boost-your-productivity-433p)
-- [Creating a Text Extension for TCJSGame: Tctxt - Complete Documentation & Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-text-extension-for-tcjsgame-tctxt-complete-documentation-tutorial-5c9e)
-
-#### Dev.to React
-
-- [The Financial Command Center I Built After Years of Failed Budgeting Attempts](https://dev.to/hariharen/the-financial-command-center-i-built-after-years-of-failed-budgeting-attempts-3d6a)
-- [Seeking Advice: Next.js vs Vite for HR SaaS (10K+ Users)](https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn)
-- [Cause and solution for "Too many re-renders" in useEffect](https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl)
 
 #### React Blog
 
@@ -84,6 +79,42 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-20",
+    "formattedDate": "October 20, 2025",
+    "news": [
+      {
+        "title": "Migrating from Remix to React Router v7",
+        "link": "https://dev.to/kahwee/migrating-from-remix-to-react-router-v7-4gfo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "100+ AJAX / fetch / HTTP code snippets",
+        "link": "https://dev.to/softwaredeveloper01/100-ajax-fetch-http-code-snippets-4311",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Doesn’t My API Call Wait? — Understanding Promises & Async/Await in JavaScript",
+        "link": "https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Gbit Framework",
+        "link": "https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This was a feature not a bug🐞",
+        "link": "https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "You probably don‘t need controlled forms",
+        "link": "https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi",
+        "source": "Dev.to React"
+      }
+    ]
+  },
   {
     "date": "2025-10-19",
     "formattedDate": "October 19, 2025",
@@ -162,52 +193,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
         "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-17",
-    "formattedDate": "October 17, 2025",
-    "news": [
-      {
-        "title": "You’re a Real JavaScript Developer Only If...",
-        "link": "https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "9 Open Source Tools to Boost Your Productivity 🔥",
-        "link": "https://dev.to/anthonymax/9-open-source-tools-to-boost-your-productivity-433p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Creating a Text Extension for TCJSGame: Tctxt - Complete Documentation & Tutorial",
-        "link": "https://dev.to/kehinde_owolabi_e2e54567a/creating-a-text-extension-for-tcjsgame-tctxt-complete-documentation-tutorial-5c9e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Financial Command Center I Built After Years of Failed Budgeting Attempts",
-        "link": "https://dev.to/hariharen/the-financial-command-center-i-built-after-years-of-failed-budgeting-attempts-3d6a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Seeking Advice: Next.js vs Vite for HR SaaS (10K+ Users)",
-        "link": "https://dev.to/abhinandan-r/seeking-advice-nextjs-vs-vite-for-hr-saas-10k-users-ifn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Cause and solution for \"Too many re-renders\" in useEffect",
-        "link": "https://dev.to/kazutora_hattori_66972c88/cause-and-solution-for-too-many-re-renders-in-useeffect-5hcl",
         "source": "Dev.to React"
       },
       {
