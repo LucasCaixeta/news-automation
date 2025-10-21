@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 20, 2025)
+### Today's Updates (October 21, 2025)
+
+#### Dev.to JavaScript
+
+- [The Code Review That Changed Everything](https://dev.to/elvissautet/the-code-review-that-changed-everything-1dp2)
+- [⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)](https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb)
+- [Filtering Duplicates by ID (and Keeping the Rest!) in JavaScript](https://dev.to/philrez/filtering-duplicates-by-id-and-keeping-the-rest-in-javascript-26gf)
+
+#### Dev.to React
+
+- [Finding and Updating Items in React Arrays](https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa)
+- [React Query, Part 1 — The Mental Model (with running JS examples)](https://dev.to/picciniuscodes/react-query-part-1-the-mental-model-with-running-js-examples-32e2)
+- [ReactJS Day 2025: TanStack Start & Real World Experiences](https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -20,7 +39,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
 - [You probably don‘t need controlled forms](https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi)
 
-### Yesterday's Updates (October 19, 2025)
+### 2 Days Ago (October 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -33,25 +52,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🧩 Diseñar un Design System (y no morir en el intento... o si)](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
 - [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
 - [Why I Rewrote Nocta CLI in Rust (Even Though I Didn't Need To)](https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 18, 2025)
-
-#### Dev.to JavaScript
-
-- [Pagination — Architecture Series: Part 1](https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b)
-- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
-- [Say Goodbye to console.time() and Hello to performance.mark()!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
-
-#### Dev.to React
-
-- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
-- [I Built an Epic Staircase Page Transition in Next.js—Here's the Code, the Z-Index Nightmare, and the A11Y Fix](https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn)
-- [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
 
 #### React Blog
 
@@ -79,6 +79,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-21",
+    "formattedDate": "October 21, 2025",
+    "news": [
+      {
+        "title": "The Code Review That Changed Everything",
+        "link": "https://dev.to/elvissautet/the-code-review-that-changed-everything-1dp2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "⚡10 JavaScript Concepts You Thought You Knew (But Didn’t)",
+        "link": "https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Filtering Duplicates by ID (and Keeping the Rest!) in JavaScript",
+        "link": "https://dev.to/philrez/filtering-duplicates-by-id-and-keeping-the-rest-in-javascript-26gf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Finding and Updating Items in React Arrays",
+        "link": "https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Query, Part 1 — The Mental Model (with running JS examples)",
+        "link": "https://dev.to/picciniuscodes/react-query-part-1-the-mental-model-with-running-js-examples-32e2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ReactJS Day 2025: TanStack Start & Real World Experiences",
+        "link": "https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-20",
     "formattedDate": "October 20, 2025",
@@ -147,52 +193,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why I Rewrote Nocta CLI in Rust (Even Though I Didn't Need To)",
         "link": "https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-18",
-    "formattedDate": "October 18, 2025",
-    "news": [
-      {
-        "title": "Pagination — Architecture Series: Part 1",
-        "link": "https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud",
-        "link": "https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Say Goodbye to console.time() and Hello to performance.mark()!",
-        "link": "https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud",
-        "link": "https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an Epic Staircase Page Transition in Next.js—Here's the Code, the Z-Index Nightmare, and the A11Y Fix",
-        "link": "https://dev.to/braimer/i-built-an-epic-staircase-page-transition-in-nextjs-heres-the-code-the-z-index-nightmare-and-1jfn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
-        "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
         "source": "Dev.to React"
       },
       {
