@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 21, 2025)
+### Today's Updates (October 22, 2025)
+
+#### Dev.to JavaScript
+
+- [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
+- [Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔](https://dev.to/azure/serverless-mcp-agent-with-langchainjs-v1-burgers-tools-and-traces-25oo)
+- [Building Robust Offline Functionality in React Native: A Complete Guide](https://dev.to/oghenetega_adiri/building-robust-offline-functionality-in-react-native-a-complete-guide-4174)
+
+#### Dev.to React
+
+- [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
+- [The Complete Guide to React Server Components: Mental Models for 2025](https://dev.to/eva_clari_289d85ecc68da48/the-complete-guide-to-react-server-components-mental-models-for-2025-390d)
+- [Implementing Dark Mode in a React App](https://dev.to/samanthalaine/implementing-dark-mode-in-a-react-app-3k1a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 20, 2025)
+### 2 Days Ago (October 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Gbit Framework](https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa)
 - [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
 - [You probably don‘t need controlled forms](https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi)
-
-### 2 Days Ago (October 19, 2025)
-
-#### Dev.to JavaScript
-
-- [“Debugging 101: How to Read and Understand Python Error Messages”](https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon)
-- [Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰](https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2)
-- [Creare una PWA con Laravel e Bootstrap | Building a PWA with Laravel and Bootstrap](https://dev.to/roberto_celano/creare-una-pwa-con-laravel-e-bootstrap-building-a-pwa-with-laravel-and-bootstrap-5epe)
-
-#### Dev.to React
-
-- [🧩 Diseñar un Design System (y no morir en el intento... o si)](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
-- [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
-- [Why I Rewrote Nocta CLI in Rust (Even Though I Didn't Need To)](https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
 
 ## How It Works
 
@@ -79,6 +79,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-22",
+    "formattedDate": "October 22, 2025",
+    "news": [
+      {
+        "title": "Closing the Gap: Adding Drag-and-Drop for Bookmarks",
+        "link": "https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔",
+        "link": "https://dev.to/azure/serverless-mcp-agent-with-langchainjs-v1-burgers-tools-and-traces-25oo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Robust Offline Functionality in React Native: A Complete Guide",
+        "link": "https://dev.to/oghenetega_adiri/building-robust-offline-functionality-in-react-native-a-complete-guide-4174",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Closing the Gap: Adding Drag-and-Drop for Bookmarks",
+        "link": "https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Complete Guide to React Server Components: Mental Models for 2025",
+        "link": "https://dev.to/eva_clari_289d85ecc68da48/the-complete-guide-to-react-server-components-mental-models-for-2025-390d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Implementing Dark Mode in a React App",
+        "link": "https://dev.to/samanthalaine/implementing-dark-mode-in-a-react-app-3k1a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-21",
     "formattedDate": "October 21, 2025",
@@ -158,52 +204,6 @@ Contributions to improve the newsletter format or sources are welcome!
         "title": "You probably don‘t need controlled forms",
         "link": "https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi",
         "source": "Dev.to React"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-19",
-    "formattedDate": "October 19, 2025",
-    "news": [
-      {
-        "title": "“Debugging 101: How to Read and Understand Python Error Messages”",
-        "link": "https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰",
-        "link": "https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Creare una PWA con Laravel e Bootstrap | Building a PWA with Laravel and Bootstrap",
-        "link": "https://dev.to/roberto_celano/creare-una-pwa-con-laravel-e-bootstrap-building-a-pwa-with-laravel-and-bootstrap-5epe",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧩 Diseñar un Design System (y no morir en el intento... o si)",
-        "link": "https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
-        "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I Rewrote Nocta CLI in Rust (Even Though I Didn't Need To)",
-        "link": "https://dev.to/66hex/why-i-rewrote-nocta-cli-in-rust-even-though-i-didnt-need-to-1hmd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
       }
     ]
   }
