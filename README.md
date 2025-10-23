@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 22, 2025)
+### Today's Updates (October 23, 2025)
+
+#### Dev.to JavaScript
+
+- [I'm a Senior Developer and I Still Google Everything (And That's Perfectly Normal)](https://dev.to/elvissautet/im-a-senior-developer-and-i-still-google-everything-and-thats-perfectly-normal-21a2)
+- [Polyfills and Browser Compatibility](https://dev.to/godofgeeks/polyfills-and-browser-compatibility-270b)
+- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
+
+#### Dev.to React
+
+- [React, Git[Hub], and VS Code for Beginners - Video 1](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9)
+- [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
+- [How I Improved My Form Handling, Validation, and EmailJS in React](https://dev.to/minoosh/how-i-improved-my-form-handling-validation-and-emailjs-in-react-55e9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 22, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 21, 2025)
+### 2 Days Ago (October 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -43,20 +62,6 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 20, 2025)
-
-#### Dev.to JavaScript
-
-- [Migrating from Remix to React Router v7](https://dev.to/kahwee/migrating-from-remix-to-react-router-v7-4gfo)
-- [100+ AJAX / fetch / HTTP code snippets](https://dev.to/softwaredeveloper01/100-ajax-fetch-http-code-snippets-4311)
-- [Why Doesn’t My API Call Wait? — Understanding Promises & Async/Await in JavaScript](https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf)
-
-#### Dev.to React
-
-- [Gbit Framework](https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa)
-- [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
-- [You probably don‘t need controlled forms](https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi)
 
 ## How It Works
 
@@ -79,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-23",
+    "formattedDate": "October 23, 2025",
+    "news": [
+      {
+        "title": "I'm a Senior Developer and I Still Google Everything (And That's Perfectly Normal)",
+        "link": "https://dev.to/elvissautet/im-a-senior-developer-and-i-still-google-everything-and-thats-perfectly-normal-21a2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Polyfills and Browser Compatibility",
+        "link": "https://dev.to/godofgeeks/polyfills-and-browser-compatibility-270b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Remember2Pack",
+        "link": "https://dev.to/kuljit_aujla/remember2pack-1dk4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React, Git[Hub], and VS Code for Beginners - Video 1",
+        "link": "https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Closing the Gap: Adding Drag-and-Drop for Bookmarks",
+        "link": "https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Improved My Form Handling, Validation, and EmailJS in React",
+        "link": "https://dev.to/minoosh/how-i-improved-my-form-handling-validation-and-emailjs-in-react-55e9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-22",
     "formattedDate": "October 22, 2025",
@@ -168,42 +219,6 @@ Contributions to improve the newsletter format or sources are welcome!
         "title": "@react.dev",
         "link": "https://bsky.app/profile/react.dev",
         "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-20",
-    "formattedDate": "October 20, 2025",
-    "news": [
-      {
-        "title": "Migrating from Remix to React Router v7",
-        "link": "https://dev.to/kahwee/migrating-from-remix-to-react-router-v7-4gfo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "100+ AJAX / fetch / HTTP code snippets",
-        "link": "https://dev.to/softwaredeveloper01/100-ajax-fetch-http-code-snippets-4311",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Doesn’t My API Call Wait? — Understanding Promises & Async/Await in JavaScript",
-        "link": "https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Gbit Framework",
-        "link": "https://dev.to/gislaine_cristinalopes_1/gbit-framework-5aoa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "This was a feature not a bug🐞",
-        "link": "https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "You probably don‘t need controlled forms",
-        "link": "https://dev.to/michaelwarren1106/you-probably-dont-need-controlled-forms-29mi",
-        "source": "Dev.to React"
       }
     ]
   }
