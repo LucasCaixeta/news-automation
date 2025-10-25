@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 24, 2025)
+### Today's Updates (October 25, 2025)
+
+#### Dev.to JavaScript
+
+- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg)
+- [Auth Series #4: Understanding Cookies and Sessions.](https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg)
+- [Auth Series Index: Building Authentication and Authorization in Express.js](https://dev.to/shreelaxmihegde/auth-series-index-building-authentication-and-authorization-in-expressjs-5hfm)
+
+#### Dev.to React
+
+- [React 19.2 Just Dropped: What Actually Matters (My 3-Week Production Test)](https://dev.to/elvissautet/react-192-just-dropped-what-actually-matters-my-3-week-production-test-5387)
+- [🚀 AI Social Media Manager with Auth0 Security](https://dev.to/simranshaikh20_50/-ai-social-media-manager-with-auth0-security-2e5k)
+- [Single-Port SPA: React and Express using Vite. Same Port in Dev or Prod.](https://dev.to/herudi/single-port-spa-react-and-express-using-vite-same-port-in-dev-or-prod-2od4)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 24, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 23, 2025)
+### 2 Days Ago (October 23, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React, Git[Hub], and VS Code for Beginners - Video 1](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9)
 - [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
 - [How I Improved My Form Handling, Validation, and EmailJS in React](https://dev.to/minoosh/how-i-improved-my-form-handling-validation-and-emailjs-in-react-55e9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 22, 2025)
-
-#### Dev.to JavaScript
-
-- [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
-- [Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔](https://dev.to/azure/serverless-mcp-agent-with-langchainjs-v1-burgers-tools-and-traces-25oo)
-- [Building Robust Offline Functionality in React Native: A Complete Guide](https://dev.to/oghenetega_adiri/building-robust-offline-functionality-in-react-native-a-complete-guide-4174)
-
-#### Dev.to React
-
-- [Closing the Gap: Adding Drag-and-Drop for Bookmarks](https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb)
-- [The Complete Guide to React Server Components: Mental Models for 2025](https://dev.to/eva_clari_289d85ecc68da48/the-complete-guide-to-react-server-components-mental-models-for-2025-390d)
-- [Implementing Dark Mode in a React App](https://dev.to/samanthalaine/implementing-dark-mode-in-a-react-app-3k1a)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-25",
+    "formattedDate": "October 25, 2025",
+    "news": [
+      {
+        "title": "If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today",
+        "link": "https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Auth Series #4: Understanding Cookies and Sessions.",
+        "link": "https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Auth Series Index: Building Authentication and Authorization in Express.js",
+        "link": "https://dev.to/shreelaxmihegde/auth-series-index-building-authentication-and-authorization-in-expressjs-5hfm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React 19.2 Just Dropped: What Actually Matters (My 3-Week Production Test)",
+        "link": "https://dev.to/elvissautet/react-192-just-dropped-what-actually-matters-my-3-week-production-test-5387",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 AI Social Media Manager with Auth0 Security",
+        "link": "https://dev.to/simranshaikh20_50/-ai-social-media-manager-with-auth0-security-2e5k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Single-Port SPA: React and Express using Vite. Same Port in Dev or Prod.",
+        "link": "https://dev.to/herudi/single-port-spa-react-and-express-using-vite-same-port-in-dev-or-prod-2od4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-24",
     "formattedDate": "October 24, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Improved My Form Handling, Validation, and EmailJS in React",
         "link": "https://dev.to/minoosh/how-i-improved-my-form-handling-validation-and-emailjs-in-react-55e9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-22",
-    "formattedDate": "October 22, 2025",
-    "news": [
-      {
-        "title": "Closing the Gap: Adding Drag-and-Drop for Bookmarks",
-        "link": "https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔",
-        "link": "https://dev.to/azure/serverless-mcp-agent-with-langchainjs-v1-burgers-tools-and-traces-25oo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Robust Offline Functionality in React Native: A Complete Guide",
-        "link": "https://dev.to/oghenetega_adiri/building-robust-offline-functionality-in-react-native-a-complete-guide-4174",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Closing the Gap: Adding Drag-and-Drop for Bookmarks",
-        "link": "https://dev.to/sheep_/closing-the-gap-adding-drag-and-drop-for-bookmarks-53jb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Complete Guide to React Server Components: Mental Models for 2025",
-        "link": "https://dev.to/eva_clari_289d85ecc68da48/the-complete-guide-to-react-server-components-mental-models-for-2025-390d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Implementing Dark Mode in a React App",
-        "link": "https://dev.to/samanthalaine/implementing-dark-mode-in-a-react-app-3k1a",
         "source": "Dev.to React"
       },
       {
