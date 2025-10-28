@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 27, 2025)
+### Today's Updates (October 28, 2025)
+
+#### Dev.to JavaScript
+
+- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
+- [Mastering JavaScript's URL() and URLSearchParams: A Complete Guide](https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5)
+- [Angular 20: Going Zoneless — The Future Without ZoneJS](https://dev.to/cristiansifuentes/angular-20-going-zoneless-the-future-without-zonejs-3m38)
+
+#### Dev.to React
+
+- [Mastering JavaScript's URL() and URLSearchParams: A Complete Guide](https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5)
+- [🧠 Thinking in React — The Core Skill Every Developer Needs](https://dev.to/usama_dev/thinking-in-react-the-core-skill-every-developer-needs-ddc)
+- [Is it still worth building an invoice generator SaaS in 2025?](https://dev.to/sudarshan_s_hosalli/is-it-still-worth-building-an-invoice-generator-saas-in-2025-3ho7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 26, 2025)
+### 2 Days Ago (October 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Build a React + TailwindCSS component library with tsdown](https://dev.to/boshcode/build-a-react-tailwindcss-component-library-with-tsdown-1mg7)
 - [🚀 Why React and Next.js Remain the Top Choice for Web Apps in 2025](https://dev.to/priyanshu_buley/why-react-and-nextjs-remain-the-top-choice-for-web-apps-in-2025-e85)
 - [Hands-On with React Compiler — Can It Replace React.memo, useMemo & useCallback?](https://dev.to/hamza4600/hands-on-with-react-compiler-can-it-replace-reactmemo-usememo-usecallback-77n)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 25, 2025)
-
-#### Dev.to JavaScript
-
-- [If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today](https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg)
-- [Auth Series #4: Understanding Cookies and Sessions.](https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg)
-- [Auth Series Index: Building Authentication and Authorization in Express.js](https://dev.to/shreelaxmihegde/auth-series-index-building-authentication-and-authorization-in-expressjs-5hfm)
-
-#### Dev.to React
-
-- [React 19.2 Just Dropped: What Actually Matters (My 3-Week Production Test)](https://dev.to/elvissautet/react-192-just-dropped-what-actually-matters-my-3-week-production-test-5387)
-- [🚀 AI Social Media Manager with Auth0 Security](https://dev.to/simranshaikh20_50/-ai-social-media-manager-with-auth0-security-2e5k)
-- [Single-Port SPA: React and Express using Vite. Same Port in Dev or Prod.](https://dev.to/herudi/single-port-spa-react-and-express-using-vite-same-port-in-dev-or-prod-2od4)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-28",
+    "formattedDate": "October 28, 2025",
+    "news": [
+      {
+        "title": "A quiet rewrite of the Web: PureScript on the rooftops of JavaScript",
+        "link": "https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering JavaScript's URL() and URLSearchParams: A Complete Guide",
+        "link": "https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Angular 20: Going Zoneless — The Future Without ZoneJS",
+        "link": "https://dev.to/cristiansifuentes/angular-20-going-zoneless-the-future-without-zonejs-3m38",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering JavaScript's URL() and URLSearchParams: A Complete Guide",
+        "link": "https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🧠 Thinking in React — The Core Skill Every Developer Needs",
+        "link": "https://dev.to/usama_dev/thinking-in-react-the-core-skill-every-developer-needs-ddc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Is it still worth building an invoice generator SaaS in 2025?",
+        "link": "https://dev.to/sudarshan_s_hosalli/is-it-still-worth-building-an-invoice-generator-saas-in-2025-3ho7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-27",
     "formattedDate": "October 27, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Hands-On with React Compiler — Can It Replace React.memo, useMemo & useCallback?",
         "link": "https://dev.to/hamza4600/hands-on-with-react-compiler-can-it-replace-reactmemo-usememo-usecallback-77n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-25",
-    "formattedDate": "October 25, 2025",
-    "news": [
-      {
-        "title": "If I Had to Learn JavaScript Again: The Real Journey From 2017 to Today",
-        "link": "https://dev.to/elvissautet/if-i-had-to-learn-javascript-again-the-real-journey-from-2017-to-today-28fg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Auth Series #4: Understanding Cookies and Sessions.",
-        "link": "https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Auth Series Index: Building Authentication and Authorization in Express.js",
-        "link": "https://dev.to/shreelaxmihegde/auth-series-index-building-authentication-and-authorization-in-expressjs-5hfm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19.2 Just Dropped: What Actually Matters (My 3-Week Production Test)",
-        "link": "https://dev.to/elvissautet/react-192-just-dropped-what-actually-matters-my-3-week-production-test-5387",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 AI Social Media Manager with Auth0 Security",
-        "link": "https://dev.to/simranshaikh20_50/-ai-social-media-manager-with-auth0-security-2e5k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Single-Port SPA: React and Express using Vite. Same Port in Dev or Prod.",
-        "link": "https://dev.to/herudi/single-port-spa-react-and-express-using-vite-same-port-in-dev-or-prod-2od4",
         "source": "Dev.to React"
       },
       {
