@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 28, 2025)
+### Today's Updates (October 29, 2025)
+
+#### Dev.to JavaScript
+
+- [Self-paced Learning End-to-End Testing with Claude AI](https://dev.to/cathylai/self-paced-learning-end-to-end-testing-with-claude-ai-1c31)
+- [🚀 Introducing lara-fetch - Laravel Sanctum made SIMPLE (no tears 😭)](https://dev.to/bright_agyemang_d609f542f/introducing-lara-fetch-laravel-sanctum-made-simple-no-tears--4n15)
+- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
+
+#### Dev.to React
+
+- [[Template] ChatGPT Apps starter kit (Vite + React + HMR)](https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj)
+- [[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase](https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4)
+- [Measuring the Real Impact of a Performance Refactor (Not Just Lighthouse)](https://dev.to/rbobr/measuring-the-real-impact-of-a-performance-refactor-not-just-lighthouse-3lg0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 27, 2025)
+### 2 Days Ago (October 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🧾 Building “Listo” — My Grocery List App (Work in Progress)](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
 - [Fixing the BouncingBall “trail” background bug](https://dev.to/oleksandrakordonets/fixing-the-bouncingball-trail-background-bug-4p9f)
 - [Como construí meu próprio sistema OTA (Over-the-Air Updates) para o Nutrilow com ExpressJS e Expo](https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 26, 2025)
-
-#### Dev.to JavaScript
-
-- [GHOSTFIELD: Pure HTML5 Canvas Game (8-Day Build Log)](https://dev.to/web_dev-usman/ghostfield-pure-html5-canvas-game-8-day-build-log-44f8)
-- [📢 HMPL v3.1: New major update!](https://dev.to/hmpljs/hmpl-v31-new-major-update-124p)
-- [Lazy Loading Like a Pro: Angular's Secrets to Blazing Performance](https://dev.to/karol_modelski/lazy-loading-like-a-pro-angulars-secrets-to-blazing-performance-423m)
-
-#### Dev.to React
-
-- [Build a React + TailwindCSS component library with tsdown](https://dev.to/boshcode/build-a-react-tailwindcss-component-library-with-tsdown-1mg7)
-- [🚀 Why React and Next.js Remain the Top Choice for Web Apps in 2025](https://dev.to/priyanshu_buley/why-react-and-nextjs-remain-the-top-choice-for-web-apps-in-2025-e85)
-- [Hands-On with React Compiler — Can It Replace React.memo, useMemo & useCallback?](https://dev.to/hamza4600/hands-on-with-react-compiler-can-it-replace-reactmemo-usememo-usecallback-77n)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-29",
+    "formattedDate": "October 29, 2025",
+    "news": [
+      {
+        "title": "Self-paced Learning End-to-End Testing with Claude AI",
+        "link": "https://dev.to/cathylai/self-paced-learning-end-to-end-testing-with-claude-ai-1c31",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Introducing lara-fetch - Laravel Sanctum made SIMPLE (no tears 😭)",
+        "link": "https://dev.to/bright_agyemang_d609f542f/introducing-lara-fetch-laravel-sanctum-made-simple-no-tears--4n15",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Before You Learn Closures, Understand Context",
+        "link": "https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "[Template] ChatGPT Apps starter kit (Vite + React + HMR)",
+        "link": "https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase",
+        "link": "https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Measuring the Real Impact of a Performance Refactor (Not Just Lighthouse)",
+        "link": "https://dev.to/rbobr/measuring-the-real-impact-of-a-performance-refactor-not-just-lighthouse-3lg0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-28",
     "formattedDate": "October 28, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Como construí meu próprio sistema OTA (Over-the-Air Updates) para o Nutrilow com ExpressJS e Expo",
         "link": "https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-26",
-    "formattedDate": "October 26, 2025",
-    "news": [
-      {
-        "title": "GHOSTFIELD: Pure HTML5 Canvas Game (8-Day Build Log)",
-        "link": "https://dev.to/web_dev-usman/ghostfield-pure-html5-canvas-game-8-day-build-log-44f8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "📢 HMPL v3.1: New major update!",
-        "link": "https://dev.to/hmpljs/hmpl-v31-new-major-update-124p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Lazy Loading Like a Pro: Angular's Secrets to Blazing Performance",
-        "link": "https://dev.to/karol_modelski/lazy-loading-like-a-pro-angulars-secrets-to-blazing-performance-423m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build a React + TailwindCSS component library with tsdown",
-        "link": "https://dev.to/boshcode/build-a-react-tailwindcss-component-library-with-tsdown-1mg7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 Why React and Next.js Remain the Top Choice for Web Apps in 2025",
-        "link": "https://dev.to/priyanshu_buley/why-react-and-nextjs-remain-the-top-choice-for-web-apps-in-2025-e85",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Hands-On with React Compiler — Can It Replace React.memo, useMemo & useCallback?",
-        "link": "https://dev.to/hamza4600/hands-on-with-react-compiler-can-it-replace-reactmemo-usememo-usecallback-77n",
         "source": "Dev.to React"
       },
       {
