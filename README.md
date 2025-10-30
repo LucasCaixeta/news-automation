@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 29, 2025)
+### Today's Updates (October 30, 2025)
+
+#### Dev.to JavaScript
+
+- [Bun vs Node for Astro Static Site Builds](https://dev.to/lovestaco/bun-vs-node-for-astro-static-site-builds-4okk)
+- [A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript](https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o)
+- [🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)](https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80)
+
+#### Dev.to React
+
+- [🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)](https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80)
+- [🧠 Understanding `!==` and Toggling Logic in React (Simplified Explanation for Beginners)](https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1)
+- [Understanding the prepare Callback In Redux Toolkit](https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 28, 2025)
+### 2 Days Ago (October 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Mastering JavaScript's URL() and URLSearchParams: A Complete Guide](https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5)
 - [🧠 Thinking in React — The Core Skill Every Developer Needs](https://dev.to/usama_dev/thinking-in-react-the-core-skill-every-developer-needs-ddc)
 - [Is it still worth building an invoice generator SaaS in 2025?](https://dev.to/sudarshan_s_hosalli/is-it-still-worth-building-an-invoice-generator-saas-in-2025-3ho7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 27, 2025)
-
-#### Dev.to JavaScript
-
-- [🚀 Introducing @mcabreradev/filter: SQL-like Array Filtering for TypeScript](https://dev.to/mcabreradev/introducing-mcabreradevfilter-sql-like-array-filtering-for-typescript-2j15)
-- [JS + DSA Roadmap (3–4 Months)](https://dev.to/nitinmalviy/js-dsa-roadmap-3-4-months-4c1)
-- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
-
-#### Dev.to React
-
-- [🧾 Building “Listo” — My Grocery List App (Work in Progress)](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
-- [Fixing the BouncingBall “trail” background bug](https://dev.to/oleksandrakordonets/fixing-the-bouncingball-trail-background-bug-4p9f)
-- [Como construí meu próprio sistema OTA (Over-the-Air Updates) para o Nutrilow com ExpressJS e Expo](https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-30",
+    "formattedDate": "October 30, 2025",
+    "news": [
+      {
+        "title": "Bun vs Node for Astro Static Site Builds",
+        "link": "https://dev.to/lovestaco/bun-vs-node-for-astro-static-site-builds-4okk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript",
+        "link": "https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)",
+        "link": "https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)",
+        "link": "https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🧠 Understanding `!==` and Toggling Logic in React (Simplified Explanation for Beginners)",
+        "link": "https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Understanding the prepare Callback In Redux Toolkit",
+        "link": "https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-29",
     "formattedDate": "October 29, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Is it still worth building an invoice generator SaaS in 2025?",
         "link": "https://dev.to/sudarshan_s_hosalli/is-it-still-worth-building-an-invoice-generator-saas-in-2025-3ho7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-27",
-    "formattedDate": "October 27, 2025",
-    "news": [
-      {
-        "title": "🚀 Introducing @mcabreradev/filter: SQL-like Array Filtering for TypeScript",
-        "link": "https://dev.to/mcabreradev/introducing-mcabreradevfilter-sql-like-array-filtering-for-typescript-2j15",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JS + DSA Roadmap (3–4 Months)",
-        "link": "https://dev.to/nitinmalviy/js-dsa-roadmap-3-4-months-4c1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway",
-        "link": "https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧾 Building “Listo” — My Grocery List App (Work in Progress)",
-        "link": "https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Fixing the BouncingBall “trail” background bug",
-        "link": "https://dev.to/oleksandrakordonets/fixing-the-bouncingball-trail-background-bug-4p9f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Como construí meu próprio sistema OTA (Over-the-Air Updates) para o Nutrilow com ExpressJS e Expo",
-        "link": "https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi",
         "source": "Dev.to React"
       },
       {
