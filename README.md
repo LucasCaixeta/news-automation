@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 30, 2025)
+### Today's Updates (October 31, 2025)
+
+#### Dev.to JavaScript
+
+- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
+- [How to Build Real-Time Video Chat Applications with WebRTC](https://dev.to/softheartengineer/how-to-build-real-time-video-chat-applications-with-webrtc-471n)
+- [⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025](https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn)
+
+#### Dev.to React
+
+- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
+- [From Zero to Production: Building a Scalable QR Code Generator with React](https://dev.to/richardlau/from-zero-to-production-building-a-scalable-qr-code-generator-with-react-p6f)
+- [🚀 CF Ladder – Smarter Way to Practice Codeforces Problems](https://dev.to/jubayer_ahmed_d082891971b/cf-ladder-smarter-way-to-practice-codeforces-problems-39nd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 29, 2025)
+### 2 Days Ago (October 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [[Template] ChatGPT Apps starter kit (Vite + React + HMR)](https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj)
 - [[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase](https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4)
 - [Measuring the Real Impact of a Performance Refactor (Not Just Lighthouse)](https://dev.to/rbobr/measuring-the-real-impact-of-a-performance-refactor-not-just-lighthouse-3lg0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 28, 2025)
-
-#### Dev.to JavaScript
-
-- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
-- [Mastering JavaScript's URL() and URLSearchParams: A Complete Guide](https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5)
-- [Angular 20: Going Zoneless — The Future Without ZoneJS](https://dev.to/cristiansifuentes/angular-20-going-zoneless-the-future-without-zonejs-3m38)
-
-#### Dev.to React
-
-- [Mastering JavaScript's URL() and URLSearchParams: A Complete Guide](https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5)
-- [🧠 Thinking in React — The Core Skill Every Developer Needs](https://dev.to/usama_dev/thinking-in-react-the-core-skill-every-developer-needs-ddc)
-- [Is it still worth building an invoice generator SaaS in 2025?](https://dev.to/sudarshan_s_hosalli/is-it-still-worth-building-an-invoice-generator-saas-in-2025-3ho7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-10-31",
+    "formattedDate": "October 31, 2025",
+    "news": [
+      {
+        "title": "🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻",
+        "link": "https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Build Real-Time Video Chat Applications with WebRTC",
+        "link": "https://dev.to/softheartengineer/how-to-build-real-time-video-chat-applications-with-webrtc-471n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025",
+        "link": "https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beat Me If You Can",
+        "link": "https://dev.to/liquidcode/beat-me-if-you-can-31ab",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From Zero to Production: Building a Scalable QR Code Generator with React",
+        "link": "https://dev.to/richardlau/from-zero-to-production-building-a-scalable-qr-code-generator-with-react-p6f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 CF Ladder – Smarter Way to Practice Codeforces Problems",
+        "link": "https://dev.to/jubayer_ahmed_d082891971b/cf-ladder-smarter-way-to-practice-codeforces-problems-39nd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-30",
     "formattedDate": "October 30, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Measuring the Real Impact of a Performance Refactor (Not Just Lighthouse)",
         "link": "https://dev.to/rbobr/measuring-the-real-impact-of-a-performance-refactor-not-just-lighthouse-3lg0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-28",
-    "formattedDate": "October 28, 2025",
-    "news": [
-      {
-        "title": "A quiet rewrite of the Web: PureScript on the rooftops of JavaScript",
-        "link": "https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering JavaScript's URL() and URLSearchParams: A Complete Guide",
-        "link": "https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Angular 20: Going Zoneless — The Future Without ZoneJS",
-        "link": "https://dev.to/cristiansifuentes/angular-20-going-zoneless-the-future-without-zonejs-3m38",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering JavaScript's URL() and URLSearchParams: A Complete Guide",
-        "link": "https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🧠 Thinking in React — The Core Skill Every Developer Needs",
-        "link": "https://dev.to/usama_dev/thinking-in-react-the-core-skill-every-developer-needs-ddc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Is it still worth building an invoice generator SaaS in 2025?",
-        "link": "https://dev.to/sudarshan_s_hosalli/is-it-still-worth-building-an-invoice-generator-saas-in-2025-3ho7",
         "source": "Dev.to React"
       },
       {
