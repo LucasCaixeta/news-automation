@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 31, 2025)
+### Today's Updates (November 1, 2025)
+
+#### Dev.to JavaScript
+
+- [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
+- [I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed (an ORM-Agnostic Seeding Tool)](https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh)
+- [Extending NGINX with JavaScript (NJS)](https://dev.to/larry_kipkemoi_022d39085b/extending-nginx-with-javascript-njs-3mnp)
+
+#### Dev.to React
+
+- [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
+- [🧱 I built a customizable Ratings & Reviews dashboard for React](https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j)
+- [✨ Add Sorting Feature to Your React Packing List App](https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 31, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 30, 2025)
+### 2 Days Ago (October 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)](https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80)
 - [🧠 Understanding `!==` and Toggling Logic in React (Simplified Explanation for Beginners)](https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1)
 - [Understanding the prepare Callback In Redux Toolkit](https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 29, 2025)
-
-#### Dev.to JavaScript
-
-- [Self-paced Learning End-to-End Testing with Claude AI](https://dev.to/cathylai/self-paced-learning-end-to-end-testing-with-claude-ai-1c31)
-- [🚀 Introducing lara-fetch - Laravel Sanctum made SIMPLE (no tears 😭)](https://dev.to/bright_agyemang_d609f542f/introducing-lara-fetch-laravel-sanctum-made-simple-no-tears--4n15)
-- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
-
-#### Dev.to React
-
-- [[Template] ChatGPT Apps starter kit (Vite + React + HMR)](https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj)
-- [[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase](https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4)
-- [Measuring the Real Impact of a Performance Refactor (Not Just Lighthouse)](https://dev.to/rbobr/measuring-the-real-impact-of-a-performance-refactor-not-just-lighthouse-3lg0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-01",
+    "formattedDate": "November 1, 2025",
+    "news": [
+      {
+        "title": "Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping",
+        "link": "https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed (an ORM-Agnostic Seeding Tool)",
+        "link": "https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Extending NGINX with JavaScript (NJS)",
+        "link": "https://dev.to/larry_kipkemoi_022d39085b/extending-nginx-with-javascript-njs-3mnp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping",
+        "link": "https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🧱 I built a customizable Ratings & Reviews dashboard for React",
+        "link": "https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "✨ Add Sorting Feature to Your React Packing List App",
+        "link": "https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-10-31",
     "formattedDate": "October 31, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Understanding the prepare Callback In Redux Toolkit",
         "link": "https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-29",
-    "formattedDate": "October 29, 2025",
-    "news": [
-      {
-        "title": "Self-paced Learning End-to-End Testing with Claude AI",
-        "link": "https://dev.to/cathylai/self-paced-learning-end-to-end-testing-with-claude-ai-1c31",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Introducing lara-fetch - Laravel Sanctum made SIMPLE (no tears 😭)",
-        "link": "https://dev.to/bright_agyemang_d609f542f/introducing-lara-fetch-laravel-sanctum-made-simple-no-tears--4n15",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Before You Learn Closures, Understand Context",
-        "link": "https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "[Template] ChatGPT Apps starter kit (Vite + React + HMR)",
-        "link": "https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "[Solo Development] Finding a place to study in Vancouver! Creating a map app with React and Supabase",
-        "link": "https://dev.to/kazutora_hattori_66972c88/solo-development-finding-a-place-to-study-in-vancouver-creating-a-map-app-with-react-and-supabase-3ka4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Measuring the Real Impact of a Performance Refactor (Not Just Lighthouse)",
-        "link": "https://dev.to/rbobr/measuring-the-real-impact-of-a-performance-refactor-not-just-lighthouse-3lg0",
         "source": "Dev.to React"
       },
       {
