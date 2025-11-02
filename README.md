@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 1, 2025)
+### Today's Updates (November 2, 2025)
+
+#### Dev.to JavaScript
+
+- [iPlusCode - a small Chrome extension to make Codeforces a bit nicer](https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme)
+- [🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
+- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
+
+#### Dev.to React
+
+- [650+ Frontend Interview Questions (JavaScript, React, Next.js & More) — My Complete Prep Journey](https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in)
+- [🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
+- [Modal closing on refresh (React + Zustand + sessionStorage)](https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 31, 2025)
+### 2 Days Ago (October 31, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
 - [From Zero to Production: Building a Scalable QR Code Generator with React](https://dev.to/richardlau/from-zero-to-production-building-a-scalable-qr-code-generator-with-react-p6f)
 - [🚀 CF Ladder – Smarter Way to Practice Codeforces Problems](https://dev.to/jubayer_ahmed_d082891971b/cf-ladder-smarter-way-to-practice-codeforces-problems-39nd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 30, 2025)
-
-#### Dev.to JavaScript
-
-- [Bun vs Node for Astro Static Site Builds](https://dev.to/lovestaco/bun-vs-node-for-astro-static-site-builds-4okk)
-- [A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript](https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o)
-- [🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)](https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80)
-
-#### Dev.to React
-
-- [🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)](https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80)
-- [🧠 Understanding `!==` and Toggling Logic in React (Simplified Explanation for Beginners)](https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1)
-- [Understanding the prepare Callback In Redux Toolkit](https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-02",
+    "formattedDate": "November 2, 2025",
+    "news": [
+      {
+        "title": "iPlusCode - a small Chrome extension to make Codeforces a bit nicer",
+        "link": "https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨",
+        "link": "https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript",
+        "link": "https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "650+ Frontend Interview Questions (JavaScript, React, Next.js & More) — My Complete Prep Journey",
+        "link": "https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨",
+        "link": "https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Modal closing on refresh (React + Zustand + sessionStorage)",
+        "link": "https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-01",
     "formattedDate": "November 1, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "🚀 CF Ladder – Smarter Way to Practice Codeforces Problems",
         "link": "https://dev.to/jubayer_ahmed_d082891971b/cf-ladder-smarter-way-to-practice-codeforces-problems-39nd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-30",
-    "formattedDate": "October 30, 2025",
-    "news": [
-      {
-        "title": "Bun vs Node for Astro Static Site Builds",
-        "link": "https://dev.to/lovestaco/bun-vs-node-for-astro-static-site-builds-4okk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript",
-        "link": "https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)",
-        "link": "https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Mastering Child-to-Parent Communication in React (with Add, Delete & Toggle Example)",
-        "link": "https://dev.to/usama_dev/mastering-child-to-parent-communication-in-react-with-add-delete-toggle-example-5a80",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🧠 Understanding `!==` and Toggling Logic in React (Simplified Explanation for Beginners)",
-        "link": "https://dev.to/usama_dev/understanding-and-toggling-logic-in-react-simplified-explanation-for-beginners-4ke1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Understanding the prepare Callback In Redux Toolkit",
-        "link": "https://dev.to/lawrenceagles/understanding-the-prepare-callback-in-redux-toolkit-1ofh",
         "source": "Dev.to React"
       },
       {
