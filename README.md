@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 2, 2025)
+### Today's Updates (November 3, 2025)
+
+#### Dev.to JavaScript
+
+- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
+- [The Siren's Call of Async/Await: A Journey Beyond `try/catch`](https://dev.to/alex_aslam/the-sirens-call-of-asyncawait-a-journey-beyond-trycatch-4mbk)
+- [Adding Metrics as You Write Your Logs in Node.js](https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0)
+
+#### Dev.to React
+
+- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
+- [Compartilhando props em Compound Components sem usar Context API](https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp)
+- [Your Web App Keeps Running in Hidden Tabs — Here’s the Fix](https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 1, 2025)
+### 2 Days Ago (November 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
 - [🧱 I built a customizable Ratings & Reviews dashboard for React](https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j)
 - [✨ Add Sorting Feature to Your React Packing List App](https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 31, 2025)
-
-#### Dev.to JavaScript
-
-- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
-- [How to Build Real-Time Video Chat Applications with WebRTC](https://dev.to/softheartengineer/how-to-build-real-time-video-chat-applications-with-webrtc-471n)
-- [⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025](https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn)
-
-#### Dev.to React
-
-- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
-- [From Zero to Production: Building a Scalable QR Code Generator with React](https://dev.to/richardlau/from-zero-to-production-building-a-scalable-qr-code-generator-with-react-p6f)
-- [🚀 CF Ladder – Smarter Way to Practice Codeforces Problems](https://dev.to/jubayer_ahmed_d082891971b/cf-ladder-smarter-way-to-practice-codeforces-problems-39nd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-03",
+    "formattedDate": "November 3, 2025",
+    "news": [
+      {
+        "title": "Breaking Code, Building Skills: Lessons from My Early JavaScript Errors",
+        "link": "https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Siren's Call of Async/Await: A Journey Beyond `try/catch`",
+        "link": "https://dev.to/alex_aslam/the-sirens-call-of-asyncawait-a-journey-beyond-trycatch-4mbk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Adding Metrics as You Write Your Logs in Node.js",
+        "link": "https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Breaking Code, Building Skills: Lessons from My Early JavaScript Errors",
+        "link": "https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Compartilhando props em Compound Components sem usar Context API",
+        "link": "https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your Web App Keeps Running in Hidden Tabs — Here’s the Fix",
+        "link": "https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-02",
     "formattedDate": "November 2, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "✨ Add Sorting Feature to Your React Packing List App",
         "link": "https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-31",
-    "formattedDate": "October 31, 2025",
-    "news": [
-      {
-        "title": "🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻",
-        "link": "https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Build Real-Time Video Chat Applications with WebRTC",
-        "link": "https://dev.to/softheartengineer/how-to-build-real-time-video-chat-applications-with-webrtc-471n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025",
-        "link": "https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beat Me If You Can",
-        "link": "https://dev.to/liquidcode/beat-me-if-you-can-31ab",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Zero to Production: Building a Scalable QR Code Generator with React",
-        "link": "https://dev.to/richardlau/from-zero-to-production-building-a-scalable-qr-code-generator-with-react-p6f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 CF Ladder – Smarter Way to Practice Codeforces Problems",
-        "link": "https://dev.to/jubayer_ahmed_d082891971b/cf-ladder-smarter-way-to-practice-codeforces-problems-39nd",
         "source": "Dev.to React"
       },
       {
