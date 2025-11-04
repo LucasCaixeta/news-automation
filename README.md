@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 3, 2025)
+### Today's Updates (November 4, 2025)
+
+#### Dev.to JavaScript
+
+- [Being a JavaScript Dev vs. a Framework Dev](https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh)
+- [Mastering Web Internationalization](https://dev.to/xfq/mastering-web-internationalization-i7m)
+- [Building jsTinker: A Free Desktop JavaScript Playground (And Why I Built It)](https://dev.to/boadusamuel/building-jstinker-a-free-desktop-javascript-playground-and-why-i-built-it-4109)
+
+#### Dev.to React
+
+- [Mastering Feature-Sliced Design: Lessons from Real Projects](https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida)
+- [You Don't Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
+- [5 Library That You Must Install in Your React Application 2026](https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 2, 2025)
+### 2 Days Ago (November 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [650+ Frontend Interview Questions (JavaScript, React, Next.js & More) — My Complete Prep Journey](https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in)
 - [🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
 - [Modal closing on refresh (React + Zustand + sessionStorage)](https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 1, 2025)
-
-#### Dev.to JavaScript
-
-- [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
-- [I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed (an ORM-Agnostic Seeding Tool)](https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh)
-- [Extending NGINX with JavaScript (NJS)](https://dev.to/larry_kipkemoi_022d39085b/extending-nginx-with-javascript-njs-3mnp)
-
-#### Dev.to React
-
-- [Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping](https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8)
-- [🧱 I built a customizable Ratings & Reviews dashboard for React](https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j)
-- [✨ Add Sorting Feature to Your React Packing List App](https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-04",
+    "formattedDate": "November 4, 2025",
+    "news": [
+      {
+        "title": "Being a JavaScript Dev vs. a Framework Dev",
+        "link": "https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering Web Internationalization",
+        "link": "https://dev.to/xfq/mastering-web-internationalization-i7m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building jsTinker: A Free Desktop JavaScript Playground (And Why I Built It)",
+        "link": "https://dev.to/boadusamuel/building-jstinker-a-free-desktop-javascript-playground-and-why-i-built-it-4109",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering Feature-Sliced Design: Lessons from Real Projects",
+        "link": "https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "You Don't Always Need useCallback and useMemo",
+        "link": "https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "5 Library That You Must Install in Your React Application 2026",
+        "link": "https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-03",
     "formattedDate": "November 3, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Modal closing on refresh (React + Zustand + sessionStorage)",
         "link": "https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-01",
-    "formattedDate": "November 1, 2025",
-    "news": [
-      {
-        "title": "Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping",
-        "link": "https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed (an ORM-Agnostic Seeding Tool)",
-        "link": "https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Extending NGINX with JavaScript (NJS)",
-        "link": "https://dev.to/larry_kipkemoi_022d39085b/extending-nginx-with-javascript-njs-3mnp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Our Own `create-app` CLI — A Custom NPX Script for Fast Project Bootstrapping",
-        "link": "https://dev.to/arjunsanthosh/building-our-own-create-app-cli-a-custom-npx-script-for-fast-project-bootstrapping-18l8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🧱 I built a customizable Ratings & Reviews dashboard for React",
-        "link": "https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "✨ Add Sorting Feature to Your React Packing List App",
-        "link": "https://dev.to/usama_dev/add-sorting-feature-to-your-react-packing-list-app-27h2",
         "source": "Dev.to React"
       },
       {
