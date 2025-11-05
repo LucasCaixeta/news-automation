@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 4, 2025)
+### Today's Updates (November 5, 2025)
+
+#### Dev.to JavaScript
+
+- [Configuring Vite for Development Over VPN 🚀](https://dev.to/danielle_hayes_ad529ec488/configuring-vite-for-development-over-vpn-47d8)
+- [🧠 How Do Closures Work in JavaScript?](https://dev.to/saurav_dev_2022/how-do-closures-work-in-javascript-38l3)
+- [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences (with Stytch & OpenAI)](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
+
+#### Dev.to React
+
+- [Headless Adventures: From CMS to Frontend Without Losing Your Mind (2)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o)
+- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
+- [Mastering Custom Hooks in React: A Developer's Guide](https://dev.to/ctrix/mastering-custom-hooks-in-react-a-developers-guide-55f1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 3, 2025)
+### 2 Days Ago (November 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
 - [Compartilhando props em Compound Components sem usar Context API](https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp)
 - [Your Web App Keeps Running in Hidden Tabs — Here’s the Fix](https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 2, 2025)
-
-#### Dev.to JavaScript
-
-- [iPlusCode - a small Chrome extension to make Codeforces a bit nicer](https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme)
-- [🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
-- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
-
-#### Dev.to React
-
-- [650+ Frontend Interview Questions (JavaScript, React, Next.js & More) — My Complete Prep Journey](https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in)
-- [🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨](https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d)
-- [Modal closing on refresh (React + Zustand + sessionStorage)](https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-05",
+    "formattedDate": "November 5, 2025",
+    "news": [
+      {
+        "title": "Configuring Vite for Development Over VPN 🚀",
+        "link": "https://dev.to/danielle_hayes_ad529ec488/configuring-vite-for-development-over-vpn-47d8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧠 How Do Closures Work in JavaScript?",
+        "link": "https://dev.to/saurav_dev_2022/how-do-closures-work-in-javascript-38l3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences (with Stytch & OpenAI)",
+        "link": "https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Headless Adventures: From CMS to Frontend Without Losing Your Mind (2)",
+        "link": "https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building an AI-Powered E-Commerce Platform with Rich UI Rendering",
+        "link": "https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering Custom Hooks in React: A Developer's Guide",
+        "link": "https://dev.to/ctrix/mastering-custom-hooks-in-react-a-developers-guide-55f1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-04",
     "formattedDate": "November 4, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Your Web App Keeps Running in Hidden Tabs — Here’s the Fix",
         "link": "https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-02",
-    "formattedDate": "November 2, 2025",
-    "news": [
-      {
-        "title": "iPlusCode - a small Chrome extension to make Codeforces a bit nicer",
-        "link": "https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨",
-        "link": "https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript",
-        "link": "https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "650+ Frontend Interview Questions (JavaScript, React, Next.js & More) — My Complete Prep Journey",
-        "link": "https://dev.to/maurya-sachin/650-frontend-interview-questions-javascript-react-nextjs-more-my-complete-prep-journey-12in",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🎛️ Meet polyfront slider — The Enterprise-Grade Web Component Slider for Any Framework ✨",
-        "link": "https://dev.to/nirmalsamaranayaka/meet-polyfront-slider-enterprise-grade-web-component-slider-1a1d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Modal closing on refresh (React + Zustand + sessionStorage)",
-        "link": "https://dev.to/sudarshan_s_hosalli/modal-closing-on-refresh-react-zustand-sessionstorage-28ef",
         "source": "Dev.to React"
       },
       {
