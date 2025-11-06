@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 5, 2025)
+### Today's Updates (November 6, 2025)
+
+#### Dev.to JavaScript
+
+- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
+- [The Hidden Power of TypeScript in Large-Scale React Projects](https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d)
+- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
+
+#### Dev.to React
+
+- [A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração](https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk)
+- [Comment j'ai arrêté de redessiner l'univers : une histoire d'abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
+- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 4, 2025)
+### 2 Days Ago (November 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Mastering Feature-Sliced Design: Lessons from Real Projects](https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida)
 - [You Don't Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
 - [5 Library That You Must Install in Your React Application 2026](https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 3, 2025)
-
-#### Dev.to JavaScript
-
-- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
-- [The Siren's Call of Async/Await: A Journey Beyond `try/catch`](https://dev.to/alex_aslam/the-sirens-call-of-asyncawait-a-journey-beyond-trycatch-4mbk)
-- [Adding Metrics as You Write Your Logs in Node.js](https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0)
-
-#### Dev.to React
-
-- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
-- [Compartilhando props em Compound Components sem usar Context API](https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp)
-- [Your Web App Keeps Running in Hidden Tabs — Here’s the Fix](https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-06",
+    "formattedDate": "November 6, 2025",
+    "news": [
+      {
+        "title": "Conditional logic for jQuery formBuilder in 5 minutes",
+        "link": "https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Hidden Power of TypeScript in Large-Scale React Projects",
+        "link": "https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Tip: Pass a Function to useState, Don’t Call It",
+        "link": "https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração",
+        "link": "https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Comment j'ai arrêté de redessiner l'univers : une histoire d'abonnements atomiques dans React",
+        "link": "https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Tip: Pass a Function to useState, Don’t Call It",
+        "link": "https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-05",
     "formattedDate": "November 5, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "5 Library That You Must Install in Your React Application 2026",
         "link": "https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-03",
-    "formattedDate": "November 3, 2025",
-    "news": [
-      {
-        "title": "Breaking Code, Building Skills: Lessons from My Early JavaScript Errors",
-        "link": "https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Siren's Call of Async/Await: A Journey Beyond `try/catch`",
-        "link": "https://dev.to/alex_aslam/the-sirens-call-of-asyncawait-a-journey-beyond-trycatch-4mbk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Adding Metrics as You Write Your Logs in Node.js",
-        "link": "https://dev.to/theogravity/adding-metrics-as-you-write-your-logs-in-nodejs-3ag0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Breaking Code, Building Skills: Lessons from My Early JavaScript Errors",
-        "link": "https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Compartilhando props em Compound Components sem usar Context API",
-        "link": "https://dev.to/lucaspanizio/compartilhando-props-em-compound-components-sem-usar-context-api-gnp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Your Web App Keeps Running in Hidden Tabs — Here’s the Fix",
-        "link": "https://dev.to/thealkeshgupta/your-web-app-keeps-running-in-hidden-tabs-heres-the-fix-4k8h",
         "source": "Dev.to React"
       },
       {
