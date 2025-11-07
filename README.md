@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 6, 2025)
+### Today's Updates (November 7, 2025)
+
+#### Dev.to JavaScript
+
+- [Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4)
+- [Why I'm Still Using jQuery in 2025 (Never gonna give you up)](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
+- [Use Cache In Nextjs](https://dev.to/dev_khaled/use-cache-in-nextjs-5eab)
+
+#### Dev.to React
+
+- [Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4)
+- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
+- [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 5, 2025)
+### 2 Days Ago (November 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Headless Adventures: From CMS to Frontend Without Losing Your Mind (2)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-2-4k0o)
 - [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
 - [Mastering Custom Hooks in React: A Developer's Guide](https://dev.to/ctrix/mastering-custom-hooks-in-react-a-developers-guide-55f1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 4, 2025)
-
-#### Dev.to JavaScript
-
-- [Being a JavaScript Dev vs. a Framework Dev](https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh)
-- [Mastering Web Internationalization](https://dev.to/xfq/mastering-web-internationalization-i7m)
-- [Building jsTinker: A Free Desktop JavaScript Playground (And Why I Built It)](https://dev.to/boadusamuel/building-jstinker-a-free-desktop-javascript-playground-and-why-i-built-it-4109)
-
-#### Dev.to React
-
-- [Mastering Feature-Sliced Design: Lessons from Real Projects](https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida)
-- [You Don't Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
-- [5 Library That You Must Install in Your React Application 2026](https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-07",
+    "formattedDate": "November 7, 2025",
+    "news": [
+      {
+        "title": "Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)",
+        "link": "https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I'm Still Using jQuery in 2025 (Never gonna give you up)",
+        "link": "https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Use Cache In Nextjs",
+        "link": "https://dev.to/dev_khaled/use-cache-in-nextjs-5eab",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)",
+        "link": "https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A Practical Guide to React Suspense and Lazy Loading",
+        "link": "https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why We Ditched Next.js for TanStack Start",
+        "link": "https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-06",
     "formattedDate": "November 6, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering Custom Hooks in React: A Developer's Guide",
         "link": "https://dev.to/ctrix/mastering-custom-hooks-in-react-a-developers-guide-55f1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-04",
-    "formattedDate": "November 4, 2025",
-    "news": [
-      {
-        "title": "Being a JavaScript Dev vs. a Framework Dev",
-        "link": "https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering Web Internationalization",
-        "link": "https://dev.to/xfq/mastering-web-internationalization-i7m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building jsTinker: A Free Desktop JavaScript Playground (And Why I Built It)",
-        "link": "https://dev.to/boadusamuel/building-jstinker-a-free-desktop-javascript-playground-and-why-i-built-it-4109",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering Feature-Sliced Design: Lessons from Real Projects",
-        "link": "https://dev.to/arjunsanthosh/mastering-feature-sliced-design-lessons-from-real-projects-2ida",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "You Don't Always Need useCallback and useMemo",
-        "link": "https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "5 Library That You Must Install in Your React Application 2026",
-        "link": "https://dev.to/ihda06/5-library-that-you-must-install-on-your-react-application-2026-4eg0",
         "source": "Dev.to React"
       },
       {
