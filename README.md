@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 8, 2025)
+### Today's Updates (November 9, 2025)
+
+#### Dev.to JavaScript
+
+- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
+- [Understanding Async Functions: Why You Don't Need `Promise.resolve()` in `async` Functions](https://dev.to/cathylai/understanding-async-functions-why-you-dont-need-promiseresolve-in-async-functions-210f)
+- [“Night of Code & Vibes”: My Techy Halloween Landing Page](https://dev.to/the_duchess_of_hackers/night-of-code-vibes-my-techy-halloween-landing-page-2gd4)
+
+#### Dev.to React
+
+- [Meet bestax-bulma: Modern React Components for Bulma CSS v1](https://dev.to/allxsmith/meet-bestax-bulma-modern-react-components-for-bulma-css-v1-4bf2)
+- [Building Reddit Game with Devvit and TypeScript (starter included)](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp)
+- [How I Utilized AI to Refactor a 2000-Line Monolithic Component](https://dev.to/eladn/how-i-utilized-ai-to-refactor-a-2000-line-monolithic-component-3h7o)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 7, 2025)
+### 2 Days Ago (November 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4)
 - [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
 - [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 6, 2025)
-
-#### Dev.to JavaScript
-
-- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
-- [The Hidden Power of TypeScript in Large-Scale React Projects](https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d)
-- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
-
-#### Dev.to React
-
-- [A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração](https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk)
-- [Comment j'ai arrêté de redessiner l'univers : une histoire d'abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
-- [React Tip: Pass a Function to useState, Don’t Call It](https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-09",
+    "formattedDate": "November 9, 2025",
+    "news": [
+      {
+        "title": "Meet SkillHunt - a Career Platform for Developers",
+        "link": "https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Understanding Async Functions: Why You Don't Need `Promise.resolve()` in `async` Functions",
+        "link": "https://dev.to/cathylai/understanding-async-functions-why-you-dont-need-promiseresolve-in-async-functions-210f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "“Night of Code & Vibes”: My Techy Halloween Landing Page",
+        "link": "https://dev.to/the_duchess_of_hackers/night-of-code-vibes-my-techy-halloween-landing-page-2gd4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Meet bestax-bulma: Modern React Components for Bulma CSS v1",
+        "link": "https://dev.to/allxsmith/meet-bestax-bulma-modern-react-components-for-bulma-css-v1-4bf2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Reddit Game with Devvit and TypeScript (starter included)",
+        "link": "https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Utilized AI to Refactor a 2000-Line Monolithic Component",
+        "link": "https://dev.to/eladn/how-i-utilized-ai-to-refactor-a-2000-line-monolithic-component-3h7o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-08",
     "formattedDate": "November 8, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why We Ditched Next.js for TanStack Start",
         "link": "https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-06",
-    "formattedDate": "November 6, 2025",
-    "news": [
-      {
-        "title": "Conditional logic for jQuery formBuilder in 5 minutes",
-        "link": "https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Hidden Power of TypeScript in Large-Scale React Projects",
-        "link": "https://dev.to/mehrdadkhodaverdi/the-hidden-power-of-typescript-in-large-scale-react-projects-453d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Tip: Pass a Function to useState, Don’t Call It",
-        "link": "https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A Treta do Module Federation e Next.js: Uma História de Falta de Colaboração",
-        "link": "https://dev.to/albornozrodrigo/a-treta-do-module-federation-e-nextjs-uma-historia-de-falta-de-colaboracao-12dk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Comment j'ai arrêté de redessiner l'univers : une histoire d'abonnements atomiques dans React",
-        "link": "https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Tip: Pass a Function to useState, Don’t Call It",
-        "link": "https://dev.to/shahab65/eact-tip-pass-a-function-to-usestate-dont-call-it-2ch5",
         "source": "Dev.to React"
       },
       {
