@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 9, 2025)
+### Today's Updates (November 10, 2025)
+
+#### Dev.to JavaScript
+
+- [React PDF Libraries: Free & Paid Tools Comparison (Developer Guide)](https://dev.to/tayyabcodes/react-pdf-libraries-free-paid-tools-comparison-developer-guide-hcp)
+- [Step Into Mystic Falls: A Halloween Story Telling Game](https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb)
+- [The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters](https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l)
+
+#### Dev.to React
+
+- [Computed and Watchers in Vue: A Deep Dive](https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd)
+- [Testing While Developing (Part 5): Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
+- [Testing While Developing (Part 3): Mocking API Requests](https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 8, 2025)
+### 2 Days Ago (November 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Introducing Web3-Hooks](https://dev.to/lucascosta1996/introducing-web3-hooks-k5p)
 - [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
 - [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 7, 2025)
-
-#### Dev.to JavaScript
-
-- [Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4)
-- [Why I'm Still Using jQuery in 2025 (Never gonna give you up)](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
-- [Use Cache In Nextjs](https://dev.to/dev_khaled/use-cache-in-nextjs-5eab)
-
-#### Dev.to React
-
-- [Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)](https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4)
-- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
-- [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-10",
+    "formattedDate": "November 10, 2025",
+    "news": [
+      {
+        "title": "React PDF Libraries: Free & Paid Tools Comparison (Developer Guide)",
+        "link": "https://dev.to/tayyabcodes/react-pdf-libraries-free-paid-tools-comparison-developer-guide-hcp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Step Into Mystic Falls: A Halloween Story Telling Game",
+        "link": "https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters",
+        "link": "https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Computed and Watchers in Vue: A Deep Dive",
+        "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Testing While Developing (Part 5): Collecting Coverage",
+        "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Testing While Developing (Part 3): Mocking API Requests",
+        "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-09",
     "formattedDate": "November 9, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "A Practical Guide to React Suspense and Lazy Loading",
         "link": "https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-07",
-    "formattedDate": "November 7, 2025",
-    "news": [
-      {
-        "title": "Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)",
-        "link": "https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why I'm Still Using jQuery in 2025 (Never gonna give you up)",
-        "link": "https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Use Cache In Nextjs",
-        "link": "https://dev.to/dev_khaled/use-cache-in-nextjs-5eab",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Headless Adventures: From CMS to Frontend Without Losing Your Mind (3)",
-        "link": "https://dev.to/lucasbrdt268/headless-adventures-from-cms-to-frontend-without-losing-your-mind-3-1od4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A Practical Guide to React Suspense and Lazy Loading",
-        "link": "https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why We Ditched Next.js for TanStack Start",
-        "link": "https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7",
         "source": "Dev.to React"
       },
       {
