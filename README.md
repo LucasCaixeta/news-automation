@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 10, 2025)
+### Today's Updates (November 11, 2025)
+
+#### Dev.to JavaScript
+
+- [Como Eliminamos 4.041 Erros de TypeScript em 6 Meses](https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a)
+- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
+- [The Closure Trap: A JavaScript Bug That Shows Why Fundamentals Still Matter in the AI Era](https://dev.to/samuel_ochaba_eb9c875fa89/the-closure-trap-a-javascript-bug-that-shows-why-fundamentals-still-matter-in-the-ai-era-1po6)
+
+#### Dev.to React
+
+- [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7)
+- [AI Studio - 100% Vide Coded React app](https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08)
+- [How I Built a Real-Time Stock Suggestion App with the MERN Stack, WebSockets, and Algorithmic Trading Logic ?](https://dev.to/aashutosh_bairagi_31/how-i-built-a-real-time-stock-suggestion-app-with-the-mern-stack-websockets-and-algorithmic-1mk7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 10, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 9, 2025)
+### 2 Days Ago (November 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Meet bestax-bulma: Modern React Components for Bulma CSS v1](https://dev.to/allxsmith/meet-bestax-bulma-modern-react-components-for-bulma-css-v1-4bf2)
 - [Building Reddit Game with Devvit and TypeScript (starter included)](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp)
 - [How I Utilized AI to Refactor a 2000-Line Monolithic Component](https://dev.to/eladn/how-i-utilized-ai-to-refactor-a-2000-line-monolithic-component-3h7o)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 8, 2025)
-
-#### Dev.to JavaScript
-
-- [The CarnEvil of Horrors](https://dev.to/afkjr/the-carnevil-of-horrors-118o)
-- [Werewolf? There Wolf.](https://dev.to/jarvisscript/werewolf-there-wolf-2e17)
-- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
-
-#### Dev.to React
-
-- [Introducing Web3-Hooks](https://dev.to/lucascosta1996/introducing-web3-hooks-k5p)
-- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
-- [A Practical Guide to React Suspense and Lazy Loading](https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-11",
+    "formattedDate": "November 11, 2025",
+    "news": [
+      {
+        "title": "Como Eliminamos 4.041 Erros de TypeScript em 6 Meses",
+        "link": "https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive",
+        "link": "https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Closure Trap: A JavaScript Bug That Shows Why Fundamentals Still Matter in the AI Era",
+        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/the-closure-trap-a-javascript-bug-that-shows-why-fundamentals-still-matter-in-the-ai-era-1po6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
+        "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "AI Studio - 100% Vide Coded React app",
+        "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a Real-Time Stock Suggestion App with the MERN Stack, WebSockets, and Algorithmic Trading Logic ?",
+        "link": "https://dev.to/aashutosh_bairagi_31/how-i-built-a-real-time-stock-suggestion-app-with-the-mern-stack-websockets-and-algorithmic-1mk7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-10",
     "formattedDate": "November 10, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Utilized AI to Refactor a 2000-Line Monolithic Component",
         "link": "https://dev.to/eladn/how-i-utilized-ai-to-refactor-a-2000-line-monolithic-component-3h7o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-08",
-    "formattedDate": "November 8, 2025",
-    "news": [
-      {
-        "title": "The CarnEvil of Horrors",
-        "link": "https://dev.to/afkjr/the-carnevil-of-horrors-118o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Werewolf? There Wolf.",
-        "link": "https://dev.to/jarvisscript/werewolf-there-wolf-2e17",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Setting Up Testing for My CLI Tool",
-        "link": "https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introducing Web3-Hooks",
-        "link": "https://dev.to/lucascosta1996/introducing-web3-hooks-k5p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "SSLCommerz works with frontend, backend, and database",
-        "link": "https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A Practical Guide to React Suspense and Lazy Loading",
-        "link": "https://dev.to/ctrix/a-practical-guide-to-react-suspense-and-lazy-loading-27km",
         "source": "Dev.to React"
       },
       {
