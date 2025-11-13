@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 12, 2025)
+### Today's Updates (November 13, 2025)
+
+#### Dev.to JavaScript
+
+- [How I Built a "Community Prayer Quilt" in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
+- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
+- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
+
+#### Dev.to React
+
+- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
+- [🚀 Exploring Microfrontends with Webpack Module Federation](https://dev.to/joel2011140/exploring-microfrontends-with-webpack-module-federation-1g63)
+- [Fighting Framework Jank (What's Not in the Docs)](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 12, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 11, 2025)
+### 2 Days Ago (November 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7)
 - [AI Studio - 100% Vide Coded React app](https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08)
 - [How I Built a Real-Time Stock Suggestion App with the MERN Stack, WebSockets, and Algorithmic Trading Logic ?](https://dev.to/aashutosh_bairagi_31/how-i-built-a-real-time-stock-suggestion-app-with-the-mern-stack-websockets-and-algorithmic-1mk7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 10, 2025)
-
-#### Dev.to JavaScript
-
-- [React PDF Libraries: Free & Paid Tools Comparison (Developer Guide)](https://dev.to/tayyabcodes/react-pdf-libraries-free-paid-tools-comparison-developer-guide-hcp)
-- [Step Into Mystic Falls: A Halloween Story Telling Game](https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb)
-- [The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters](https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l)
-
-#### Dev.to React
-
-- [Computed and Watchers in Vue: A Deep Dive](https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd)
-- [Testing While Developing (Part 5): Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
-- [Testing While Developing (Part 3): Mocking API Requests](https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-13",
+    "formattedDate": "November 13, 2025",
+    "news": [
+      {
+        "title": "How I Built a \"Community Prayer Quilt\" in 5 Minutes",
+        "link": "https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Masonry Grid Goes CSS-Only: An Experimental Approach",
+        "link": "https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a Tiny Tool That Makes Responsive Design Feel Effortless",
+        "link": "https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Masonry Grid Goes CSS-Only: An Experimental Approach",
+        "link": "https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 Exploring Microfrontends with Webpack Module Federation",
+        "link": "https://dev.to/joel2011140/exploring-microfrontends-with-webpack-module-federation-1g63",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Fighting Framework Jank (What's Not in the Docs)",
+        "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-12",
     "formattedDate": "November 12, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built a Real-Time Stock Suggestion App with the MERN Stack, WebSockets, and Algorithmic Trading Logic ?",
         "link": "https://dev.to/aashutosh_bairagi_31/how-i-built-a-real-time-stock-suggestion-app-with-the-mern-stack-websockets-and-algorithmic-1mk7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-10",
-    "formattedDate": "November 10, 2025",
-    "news": [
-      {
-        "title": "React PDF Libraries: Free & Paid Tools Comparison (Developer Guide)",
-        "link": "https://dev.to/tayyabcodes/react-pdf-libraries-free-paid-tools-comparison-developer-guide-hcp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Step Into Mystic Falls: A Halloween Story Telling Game",
-        "link": "https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters",
-        "link": "https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Computed and Watchers in Vue: A Deep Dive",
-        "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Testing While Developing (Part 5): Collecting Coverage",
-        "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Testing While Developing (Part 3): Mocking API Requests",
-        "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
         "source": "Dev.to React"
       },
       {
