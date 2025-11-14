@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 13, 2025)
+### Today's Updates (November 14, 2025)
+
+#### Dev.to JavaScript
+
+- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
+- [An ADHD-Friendly Task & Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
+- [MongoDB Drivers and Network Compression](https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7)
+
+#### Dev.to React
+
+- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
+- [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
+- [How I Built Symphony.js: Turning Bugs Into Music With Kiro](https://dev.to/akashsahu54/how-i-built-symphonyjs-turning-bugs-into-music-with-kiro-49mm)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 13, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 12, 2025)
+### 2 Days Ago (November 12, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)](https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f)
 - [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
 - [React Hooks for Library Authors](https://dev.to/ctrix/react-hooks-for-library-authors-7ko)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 11, 2025)
-
-#### Dev.to JavaScript
-
-- [Como Eliminamos 4.041 Erros de TypeScript em 6 Meses](https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a)
-- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
-- [The Closure Trap: A JavaScript Bug That Shows Why Fundamentals Still Matter in the AI Era](https://dev.to/samuel_ochaba_eb9c875fa89/the-closure-trap-a-javascript-bug-that-shows-why-fundamentals-still-matter-in-the-ai-era-1po6)
-
-#### Dev.to React
-
-- [I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards](https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7)
-- [AI Studio - 100% Vide Coded React app](https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08)
-- [How I Built a Real-Time Stock Suggestion App with the MERN Stack, WebSockets, and Algorithmic Trading Logic ?](https://dev.to/aashutosh_bairagi_31/how-i-built-a-real-time-stock-suggestion-app-with-the-mern-stack-websockets-and-algorithmic-1mk7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-14",
+    "formattedDate": "November 14, 2025",
+    "news": [
+      {
+        "title": "Inline editing with custom elements in Rails",
+        "link": "https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "An ADHD-Friendly Task & Focus Timer Built in PHP.",
+        "link": "https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "MongoDB Drivers and Network Compression",
+        "link": "https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Masonry Grid Goes CSS-Only: An Experimental Approach",
+        "link": "https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Optimizing In-Browser PDF Rendering/Viewing",
+        "link": "https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built Symphony.js: Turning Bugs Into Music With Kiro",
+        "link": "https://dev.to/akashsahu54/how-i-built-symphonyjs-turning-bugs-into-music-with-kiro-49mm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-13",
     "formattedDate": "November 13, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Hooks for Library Authors",
         "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-11",
-    "formattedDate": "November 11, 2025",
-    "news": [
-      {
-        "title": "Como Eliminamos 4.041 Erros de TypeScript em 6 Meses",
-        "link": "https://dev.to/monest/como-eliminamos-4041-erros-de-typescript-em-6-meses-320a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive",
-        "link": "https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Closure Trap: A JavaScript Bug That Shows Why Fundamentals Still Matter in the AI Era",
-        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/the-closure-trap-a-javascript-bug-that-shows-why-fundamentals-still-matter-in-the-ai-era-1po6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
-        "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "AI Studio - 100% Vide Coded React app",
-        "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Real-Time Stock Suggestion App with the MERN Stack, WebSockets, and Algorithmic Trading Logic ?",
-        "link": "https://dev.to/aashutosh_bairagi_31/how-i-built-a-real-time-stock-suggestion-app-with-the-mern-stack-websockets-and-algorithmic-1mk7",
         "source": "Dev.to React"
       },
       {
