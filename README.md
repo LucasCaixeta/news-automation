@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 14, 2025)
+### Today's Updates (November 15, 2025)
+
+#### Dev.to JavaScript
+
+- [What happens when you type console.log()?](https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p)
+- [GroupBy no JavaScript: a forma fácil de indexar e organizar dados](https://dev.to/sucodelarangela/groupby-no-javascript-a-forma-moderna-de-indexar-e-organizar-dados-48f3)
+- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
+
+#### Dev.to React
+
+- [How to Decide When to Use "use client"](https://dev.to/tjcoding/how-to-decide-when-to-use-use-client-2dci)
+- [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
+- [Process Mapping Tool](https://dev.to/rverwey/process-mapping-tool-5eh4)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 13, 2025)
+### 2 Days Ago (November 13, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
 - [🚀 Exploring Microfrontends with Webpack Module Federation](https://dev.to/joel2011140/exploring-microfrontends-with-webpack-module-federation-1g63)
 - [Fighting Framework Jank (What's Not in the Docs)](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 12, 2025)
-
-#### Dev.to JavaScript
-
-- [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
-- [Angular vs React vs Vue: My Indie-Stack Developer Journey](https://dev.to/huynhnhanquoc/angular-vs-react-vs-vue-my-indie-stack-developer-journey-3ke7)
-- [How I Built My Own JS Framework: A Dreamy Indie-Stack Journey](https://dev.to/huynhnhanquoc/how-i-built-my-own-js-framework-a-dreamy-indie-stack-journey-560c)
-
-#### Dev.to React
-
-- [How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)](https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f)
-- [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
-- [React Hooks for Library Authors](https://dev.to/ctrix/react-hooks-for-library-authors-7ko)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-15",
+    "formattedDate": "November 15, 2025",
+    "news": [
+      {
+        "title": "What happens when you type console.log()?",
+        "link": "https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "GroupBy no JavaScript: a forma fácil de indexar e organizar dados",
+        "link": "https://dev.to/sucodelarangela/groupby-no-javascript-a-forma-moderna-de-indexar-e-organizar-dados-48f3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Inline editing with custom elements in Rails",
+        "link": "https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Decide When to Use \"use client\"",
+        "link": "https://dev.to/tjcoding/how-to-decide-when-to-use-use-client-2dci",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Learned React + Next.js in Three Months Without Watching a Single Tutorial.",
+        "link": "https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Process Mapping Tool",
+        "link": "https://dev.to/rverwey/process-mapping-tool-5eh4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-14",
     "formattedDate": "November 14, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Fighting Framework Jank (What's Not in the Docs)",
         "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-12",
-    "formattedDate": "November 12, 2025",
-    "news": [
-      {
-        "title": "React 19.2: React in its sigma era",
-        "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Angular vs React vs Vue: My Indie-Stack Developer Journey",
-        "link": "https://dev.to/huynhnhanquoc/angular-vs-react-vs-vue-my-indie-stack-developer-journey-3ke7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built My Own JS Framework: A Dreamy Indie-Stack Journey",
-        "link": "https://dev.to/huynhnhanquoc/how-i-built-my-own-js-framework-a-dreamy-indie-stack-journey-560c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)",
-        "link": "https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React 19.2: React in its sigma era",
-        "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Hooks for Library Authors",
-        "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
         "source": "Dev.to React"
       },
       {
