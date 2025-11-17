@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 16, 2025)
+### Today's Updates (November 17, 2025)
+
+#### Dev.to JavaScript
+
+- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
+- [When Static Sites Stop Scaling: Migrating FreeDevTools (125K+ Pages) from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
+- [SPARC Quality Gates and AI Infused Web App development](https://dev.to/nick_porter_0cfcbc03e871f/what-is-sparc-and-how-do-i-use-it-in-ai-infused-web-app-development-1p6o)
+
+#### Dev.to React
+
+- [How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL](https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516)
+- [React Router v7 Transition Future Flag — The Complete Guide for 2025](https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3)
+- [🚀 Parallel Routes & Intercepting Routes in Next.js — Complete Beginner-Friendly Guide](https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 15, 2025)
+### 2 Days Ago (November 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Decide When to Use "use client"](https://dev.to/tjcoding/how-to-decide-when-to-use-use-client-2dci)
 - [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
 - [Process Mapping Tool](https://dev.to/rverwey/process-mapping-tool-5eh4)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 14, 2025)
-
-#### Dev.to JavaScript
-
-- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
-- [An ADHD-Friendly Task & Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
-- [MongoDB Drivers and Network Compression](https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7)
-
-#### Dev.to React
-
-- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
-- [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
-- [How I Built Symphony.js: Turning Bugs Into Music With Kiro](https://dev.to/akashsahu54/how-i-built-symphonyjs-turning-bugs-into-music-with-kiro-49mm)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-17",
+    "formattedDate": "November 17, 2025",
+    "news": [
+      {
+        "title": "The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports",
+        "link": "https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "When Static Sites Stop Scaling: Migrating FreeDevTools (125K+ Pages) from Static Astro to SSR",
+        "link": "https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "SPARC Quality Gates and AI Infused Web App development",
+        "link": "https://dev.to/nick_porter_0cfcbc03e871f/what-is-sparc-and-how-do-i-use-it-in-ai-infused-web-app-development-1p6o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL",
+        "link": "https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Router v7 Transition Future Flag — The Complete Guide for 2025",
+        "link": "https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 Parallel Routes & Intercepting Routes in Next.js — Complete Beginner-Friendly Guide",
+        "link": "https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-16",
     "formattedDate": "November 16, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Process Mapping Tool",
         "link": "https://dev.to/rverwey/process-mapping-tool-5eh4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-14",
-    "formattedDate": "November 14, 2025",
-    "news": [
-      {
-        "title": "Inline editing with custom elements in Rails",
-        "link": "https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "An ADHD-Friendly Task & Focus Timer Built in PHP.",
-        "link": "https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "MongoDB Drivers and Network Compression",
-        "link": "https://dev.to/alexbevi/mongodb-drivers-and-network-compression-4b7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Masonry Grid Goes CSS-Only: An Experimental Approach",
-        "link": "https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Optimizing In-Browser PDF Rendering/Viewing",
-        "link": "https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built Symphony.js: Turning Bugs Into Music With Kiro",
-        "link": "https://dev.to/akashsahu54/how-i-built-symphonyjs-turning-bugs-into-music-with-kiro-49mm",
         "source": "Dev.to React"
       },
       {
