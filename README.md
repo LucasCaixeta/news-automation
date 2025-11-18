@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 17, 2025)
+### Today's Updates (November 18, 2025)
+
+#### Dev.to JavaScript
+
+- [I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1](https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp)
+- [Understanding Prototypal Inheritance in JavaScript: A Deep Dive](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-prototypal-inheritance-in-javascript-a-deep-dive-443c)
+- [Context API vs. Zustand: Why Your E-Commerce App Needs a Bear (Not a Provider)](https://dev.to/cathylai/context-api-vs-zustand-why-your-e-commerce-app-needs-a-bear-not-a-provider-dg2)
+
+#### Dev.to React
+
+- [frameit.dev - fast and free video thumbs, title cards and OG images](https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m)
+- [Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16](https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj)
+- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 16, 2025)
+### 2 Days Ago (November 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
 - [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
 - [Why We Ditched React and Built Financial Calculators in Vanilla JavaScript (And How It Made Everything Better)](https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 15, 2025)
-
-#### Dev.to JavaScript
-
-- [What happens when you type console.log()?](https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p)
-- [GroupBy no JavaScript: a forma fácil de indexar e organizar dados](https://dev.to/sucodelarangela/groupby-no-javascript-a-forma-moderna-de-indexar-e-organizar-dados-48f3)
-- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
-
-#### Dev.to React
-
-- [How to Decide When to Use "use client"](https://dev.to/tjcoding/how-to-decide-when-to-use-use-client-2dci)
-- [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
-- [Process Mapping Tool](https://dev.to/rverwey/process-mapping-tool-5eh4)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-18",
+    "formattedDate": "November 18, 2025",
+    "news": [
+      {
+        "title": "I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1",
+        "link": "https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Understanding Prototypal Inheritance in JavaScript: A Deep Dive",
+        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/understanding-prototypal-inheritance-in-javascript-a-deep-dive-443c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Context API vs. Zustand: Why Your E-Commerce App Needs a Bear (Not a Provider)",
+        "link": "https://dev.to/cathylai/context-api-vs-zustand-why-your-e-commerce-app-needs-a-bear-not-a-provider-dg2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "frameit.dev - fast and free video thumbs, title cards and OG images",
+        "link": "https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16",
+        "link": "https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🛒 Understand Redux State Management: The Department Store analogy",
+        "link": "https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-17",
     "formattedDate": "November 17, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why We Ditched React and Built Financial Calculators in Vanilla JavaScript (And How It Made Everything Better)",
         "link": "https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-15",
-    "formattedDate": "November 15, 2025",
-    "news": [
-      {
-        "title": "What happens when you type console.log()?",
-        "link": "https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "GroupBy no JavaScript: a forma fácil de indexar e organizar dados",
-        "link": "https://dev.to/sucodelarangela/groupby-no-javascript-a-forma-moderna-de-indexar-e-organizar-dados-48f3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Inline editing with custom elements in Rails",
-        "link": "https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Decide When to Use \"use client\"",
-        "link": "https://dev.to/tjcoding/how-to-decide-when-to-use-use-client-2dci",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Learned React + Next.js in Three Months Without Watching a Single Tutorial.",
-        "link": "https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Process Mapping Tool",
-        "link": "https://dev.to/rverwey/process-mapping-tool-5eh4",
         "source": "Dev.to React"
       },
       {
