@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 18, 2025)
+### Today's Updates (November 19, 2025)
+
+#### Dev.to JavaScript
+
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
+- [ES6 {Destructuring} Deep Dive](https://dev.to/senken18/es6-destructuring-deep-dive-7ch)
+- [Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.](https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6)
+
+#### Dev.to React
+
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
+- [Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.](https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6)
+- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 17, 2025)
+### 2 Days Ago (November 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL](https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516)
 - [React Router v7 Transition Future Flag — The Complete Guide for 2025](https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3)
 - [🚀 Parallel Routes & Intercepting Routes in Next.js — Complete Beginner-Friendly Guide](https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 16, 2025)
-
-#### Dev.to JavaScript
-
-- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
-- [How to use unsupported macbooks for modern software development](https://dev.to/chamal1120/how-to-use-unsupported-macbooks-for-modern-software-development-4nol)
-- [Async JS Explained Using Swiggy, Zomato & Food Orders 😋🍴](https://dev.to/applexity_ox/async-js-explained-using-swiggy-zomato-food-orders-4k4p)
-
-#### Dev.to React
-
-- [I Learned React + Next.js in Three Months Without Watching a Single Tutorial.](https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01)
-- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
-- [Why We Ditched React and Built Financial Calculators in Vanilla JavaScript (And How It Made Everything Better)](https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-19",
+    "formattedDate": "November 19, 2025",
+    "news": [
+      {
+        "title": "Build Your Own Magic Atomic State",
+        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ES6 {Destructuring} Deep Dive",
+        "link": "https://dev.to/senken18/es6-destructuring-deep-dive-7ch",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.",
+        "link": "https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build Your Own Magic Atomic State",
+        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.",
+        "link": "https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Component life cycle",
+        "link": "https://dev.to/ark7/react-component-life-cycle-1448",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-18",
     "formattedDate": "November 18, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "🚀 Parallel Routes & Intercepting Routes in Next.js — Complete Beginner-Friendly Guide",
         "link": "https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-16",
-    "formattedDate": "November 16, 2025",
-    "news": [
-      {
-        "title": "The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports",
-        "link": "https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to use unsupported macbooks for modern software development",
-        "link": "https://dev.to/chamal1120/how-to-use-unsupported-macbooks-for-modern-software-development-4nol",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Async JS Explained Using Swiggy, Zomato & Food Orders 😋🍴",
-        "link": "https://dev.to/applexity_ox/async-js-explained-using-swiggy-zomato-food-orders-4k4p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Learned React + Next.js in Three Months Without Watching a Single Tutorial.",
-        "link": "https://dev.to/toboreeee/i-learned-react-nextjs-in-three-months-without-watching-a-single-tutorial-3m01",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns",
-        "link": "https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why We Ditched React and Built Financial Calculators in Vanilla JavaScript (And How It Made Everything Better)",
-        "link": "https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl",
         "source": "Dev.to React"
       },
       {
