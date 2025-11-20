@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 19, 2025)
+### Today's Updates (November 20, 2025)
+
+#### Dev.to JavaScript
+
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
+- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
+- [The REAL Difference Between React Context & Global State Managers (Redux / Zustand) — And Why Most Developers Explain It Wrong](https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc)
+
+#### Dev.to React
+
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
+- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
+- [The REAL Difference Between React Context & Global State Managers (Redux / Zustand) — And Why Most Developers Explain It Wrong](https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 18, 2025)
+### 2 Days Ago (November 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [frameit.dev - fast and free video thumbs, title cards and OG images](https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m)
 - [Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16](https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj)
 - [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 17, 2025)
-
-#### Dev.to JavaScript
-
-- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
-- [When Static Sites Stop Scaling: Migrating FreeDevTools (125K+ Pages) from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
-- [SPARC Quality Gates and AI Infused Web App development](https://dev.to/nick_porter_0cfcbc03e871f/what-is-sparc-and-how-do-i-use-it-in-ai-infused-web-app-development-1p6o)
-
-#### Dev.to React
-
-- [How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL](https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516)
-- [React Router v7 Transition Future Flag — The Complete Guide for 2025](https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3)
-- [🚀 Parallel Routes & Intercepting Routes in Next.js — Complete Beginner-Friendly Guide](https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-20",
+    "formattedDate": "November 20, 2025",
+    "news": [
+      {
+        "title": "Build Your Own Magic Atomic State",
+        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Free Developer Tools: How I Built a Complete Toolkit for the Community",
+        "link": "https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The REAL Difference Between React Context & Global State Managers (Redux / Zustand) — And Why Most Developers Explain It Wrong",
+        "link": "https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build Your Own Magic Atomic State",
+        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure",
+        "link": "https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The REAL Difference Between React Context & Global State Managers (Redux / Zustand) — And Why Most Developers Explain It Wrong",
+        "link": "https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-19",
     "formattedDate": "November 19, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "🛒 Understand Redux State Management: The Department Store analogy",
         "link": "https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-17",
-    "formattedDate": "November 17, 2025",
-    "news": [
-      {
-        "title": "The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports",
-        "link": "https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "When Static Sites Stop Scaling: Migrating FreeDevTools (125K+ Pages) from Static Astro to SSR",
-        "link": "https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "SPARC Quality Gates and AI Infused Web App development",
-        "link": "https://dev.to/nick_porter_0cfcbc03e871f/what-is-sparc-and-how-do-i-use-it-in-ai-infused-web-app-development-1p6o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL",
-        "link": "https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Router v7 Transition Future Flag — The Complete Guide for 2025",
-        "link": "https://dev.to/cristiansifuentes/react-router-v7-transition-future-flag-the-complete-guide-for-2025-5dk3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 Parallel Routes & Intercepting Routes in Next.js — Complete Beginner-Friendly Guide",
-        "link": "https://dev.to/vishwark/parallel-routes-intercepting-routes-in-nextjs-complete-beginner-friendly-guid-54ao",
         "source": "Dev.to React"
       },
       {
