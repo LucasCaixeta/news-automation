@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 20, 2025)
+### Today's Updates (November 21, 2025)
+
+#### Dev.to JavaScript
+
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
+- [📢 We're opening a list of community projects! You can participate.](https://dev.to/hmpljs/were-opening-a-list-of-community-projects-you-can-participate-31ge)
+- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
+
+#### Dev.to React
+
+- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
+- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
+- [Build an award Winning 3D Website with scroll-based animations | Next.js, three.js & GSAP](https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 19, 2025)
+### 2 Days Ago (November 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
 - [Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.](https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6)
 - [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 18, 2025)
-
-#### Dev.to JavaScript
-
-- [I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1](https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp)
-- [Understanding Prototypal Inheritance in JavaScript: A Deep Dive](https://dev.to/samuel_ochaba_eb9c875fa89/understanding-prototypal-inheritance-in-javascript-a-deep-dive-443c)
-- [Context API vs. Zustand: Why Your E-Commerce App Needs a Bear (Not a Provider)](https://dev.to/cathylai/context-api-vs-zustand-why-your-e-commerce-app-needs-a-bear-not-a-provider-dg2)
-
-#### Dev.to React
-
-- [frameit.dev - fast and free video thumbs, title cards and OG images](https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m)
-- [Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16](https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj)
-- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-21",
+    "formattedDate": "November 21, 2025",
+    "news": [
+      {
+        "title": "Build Your Own Magic Atomic State",
+        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "📢 We're opening a list of community projects! You can participate.",
+        "link": "https://dev.to/hmpljs/were-opening-a-list-of-community-projects-you-can-participate-31ge",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How useEffect Works Behind the Scenes in React",
+        "link": "https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build Your Own Magic Atomic State",
+        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How useEffect Works Behind the Scenes in React",
+        "link": "https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Build an award Winning 3D Website with scroll-based animations | Next.js, three.js & GSAP",
+        "link": "https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-20",
     "formattedDate": "November 20, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Component life cycle",
         "link": "https://dev.to/ark7/react-component-life-cycle-1448",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-18",
-    "formattedDate": "November 18, 2025",
-    "news": [
-      {
-        "title": "I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1",
-        "link": "https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Understanding Prototypal Inheritance in JavaScript: A Deep Dive",
-        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/understanding-prototypal-inheritance-in-javascript-a-deep-dive-443c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Context API vs. Zustand: Why Your E-Commerce App Needs a Bear (Not a Provider)",
-        "link": "https://dev.to/cathylai/context-api-vs-zustand-why-your-e-commerce-app-needs-a-bear-not-a-provider-dg2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "frameit.dev - fast and free video thumbs, title cards and OG images",
-        "link": "https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16",
-        "link": "https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🛒 Understand Redux State Management: The Department Store analogy",
-        "link": "https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p",
         "source": "Dev.to React"
       },
       {
