@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 21, 2025)
+### Today's Updates (November 22, 2025)
+
+#### Dev.to JavaScript
+
+- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
+- [useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban](https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj)
+- [The 7 Mistakes I Made as a Junior Frontend Developer (and the Engineering Fixes That Helped Me Grow Faster)](https://dev.to/maurya-sachin/the-7-mistakes-i-made-as-a-junior-frontend-developer-and-the-engineering-fixes-that-helped-me-grow-26ii)
+
+#### Dev.to React
+
+- [useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban](https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj)
+- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
+- [Building forms using React Hook Form](https://dev.to/rinidh/building-forms-using-react-hook-form-d48)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 20, 2025)
+### 2 Days Ago (November 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
 - [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
 - [The REAL Difference Between React Context & Global State Managers (Redux / Zustand) — And Why Most Developers Explain It Wrong](https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 19, 2025)
-
-#### Dev.to JavaScript
-
-- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
-- [ES6 {Destructuring} Deep Dive](https://dev.to/senken18/es6-destructuring-deep-dive-7ch)
-- [Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.](https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6)
-
-#### Dev.to React
-
-- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
-- [Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.](https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6)
-- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-22",
+    "formattedDate": "November 22, 2025",
+    "news": [
+      {
+        "title": "Tiny Games, Big Feelings",
+        "link": "https://dev.to/diegodotta/tiny-games-big-feelings-4oke",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban",
+        "link": "https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The 7 Mistakes I Made as a Junior Frontend Developer (and the Engineering Fixes That Helped Me Grow Faster)",
+        "link": "https://dev.to/maurya-sachin/the-7-mistakes-i-made-as-a-junior-frontend-developer-and-the-engineering-fixes-that-helped-me-grow-26ii",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban",
+        "link": "https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Suite v6: A Steady Step Toward Modernization",
+        "link": "https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building forms using React Hook Form",
+        "link": "https://dev.to/rinidh/building-forms-using-react-hook-form-d48",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-21",
     "formattedDate": "November 21, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The REAL Difference Between React Context & Global State Managers (Redux / Zustand) — And Why Most Developers Explain It Wrong",
         "link": "https://dev.to/khaledmsalem/the-real-difference-between-react-context-global-state-managers-redux-zustand-and-why-most-2dlc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-19",
-    "formattedDate": "November 19, 2025",
-    "news": [
-      {
-        "title": "Build Your Own Magic Atomic State",
-        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ES6 {Destructuring} Deep Dive",
-        "link": "https://dev.to/senken18/es6-destructuring-deep-dive-7ch",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.",
-        "link": "https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build Your Own Magic Atomic State",
-        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Answer: React-PDF Slow Performance with large PDF, reneders unneccessarily.",
-        "link": "https://dev.to/hossain45/answer-react-pdf-slow-performance-with-large-pdf-reneders-unneccessarily-5f6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Component life cycle",
-        "link": "https://dev.to/ark7/react-component-life-cycle-1448",
         "source": "Dev.to React"
       },
       {
