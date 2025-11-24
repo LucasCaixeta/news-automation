@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 23, 2025)
+### Today's Updates (November 24, 2025)
+
+#### Dev.to JavaScript
+
+- [Building a Password Strength Analyzer with Entropy and Crack Time for Beginners](https://dev.to/malarkondappan/building-a-password-strength-analyzer-with-entropy-and-crack-time-for-beginners-3i6o)
+- [JavaScript Clean Code Mastery: Part 4 - Async/Await and Error Handling That Actually Works](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-4-asyncawait-and-error-handling-that-actually-works-26b9)
+- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
+
+#### Dev.to React
+
+- [I built a generative UI Guitar Tutor app](https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1)
+- [Next.js Weekly #109: Next Analyze, Prisma 7, use-nemo, State of React 2025, Error Boundaries, UI Framework Guide](https://dev.to/erfanebrahimnia/nextjs-weekly-109-next-analyze-prisma-7-use-nemo-state-of-react-2025-error-boundaries-ui-3n30)
+- [Is React.memo Still Useful in React 19? A Practical Guide for 2025](https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 23, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 22, 2025)
+### 2 Days Ago (November 22, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban](https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj)
 - [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
 - [Building forms using React Hook Form](https://dev.to/rinidh/building-forms-using-react-hook-form-d48)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 21, 2025)
-
-#### Dev.to JavaScript
-
-- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
-- [📢 We're opening a list of community projects! You can participate.](https://dev.to/hmpljs/were-opening-a-list-of-community-projects-you-can-participate-31ge)
-- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
-
-#### Dev.to React
-
-- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
-- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
-- [Build an award Winning 3D Website with scroll-based animations | Next.js, three.js & GSAP](https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-24",
+    "formattedDate": "November 24, 2025",
+    "news": [
+      {
+        "title": "Building a Password Strength Analyzer with Entropy and Crack Time for Beginners",
+        "link": "https://dev.to/malarkondappan/building-a-password-strength-analyzer-with-entropy-and-crack-time-for-beginners-3i6o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Clean Code Mastery: Part 4 - Async/Await and Error Handling That Actually Works",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-4-asyncawait-and-error-handling-that-actually-works-26b9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a generative UI Guitar Tutor app",
+        "link": "https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js Weekly #109: Next Analyze, Prisma 7, use-nemo, State of React 2025, Error Boundaries, UI Framework Guide",
+        "link": "https://dev.to/erfanebrahimnia/nextjs-weekly-109-next-analyze-prisma-7-use-nemo-state-of-react-2025-error-boundaries-ui-3n30",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Is React.memo Still Useful in React 19? A Practical Guide for 2025",
+        "link": "https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-23",
     "formattedDate": "November 23, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building forms using React Hook Form",
         "link": "https://dev.to/rinidh/building-forms-using-react-hook-form-d48",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-21",
-    "formattedDate": "November 21, 2025",
-    "news": [
-      {
-        "title": "Build Your Own Magic Atomic State",
-        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "📢 We're opening a list of community projects! You can participate.",
-        "link": "https://dev.to/hmpljs/were-opening-a-list-of-community-projects-you-can-participate-31ge",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How useEffect Works Behind the Scenes in React",
-        "link": "https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build Your Own Magic Atomic State",
-        "link": "https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How useEffect Works Behind the Scenes in React",
-        "link": "https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Build an award Winning 3D Website with scroll-based animations | Next.js, three.js & GSAP",
-        "link": "https://dev.to/robinzon100/build-an-award-winning-3d-website-with-scroll-based-animations-nextjs-threejs-gsap-3630",
         "source": "Dev.to React"
       },
       {
