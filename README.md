@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 24, 2025)
+### Today's Updates (November 25, 2025)
+
+#### Dev.to JavaScript
+
+- [Building a Comprehensive E2E Test Suite with Playwright: Lessons from 100+ Test Cases](https://dev.to/bugslayer/building-a-comprehensive-e2e-test-suite-with-playwright-lessons-from-100-test-cases-171k)
+- [React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together](https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0)
+- [JavaScript Clean Code Mastery: Part 5 - Array Methods and Immutability That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-5-array-methods-and-immutability-that-transform-your-code-34mb)
+
+#### Dev.to React
+
+- [React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together](https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0)
+- [Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
+- [Teaching Feature Flags to a Junior Changed How I Think About Architecture](https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 24, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 23, 2025)
+### 2 Days Ago (November 23, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
 - [Mintlify Ignored This Feature Request for 6 Months. Here's Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
 - [dev diary 20251122](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251122-aed)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 22, 2025)
-
-#### Dev.to JavaScript
-
-- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
-- [useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban](https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj)
-- [The 7 Mistakes I Made as a Junior Frontend Developer (and the Engineering Fixes That Helped Me Grow Faster)](https://dev.to/maurya-sachin/the-7-mistakes-i-made-as-a-junior-frontend-developer-and-the-engineering-fixes-that-helped-me-grow-26ii)
-
-#### Dev.to React
-
-- [useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban](https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj)
-- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
-- [Building forms using React Hook Form](https://dev.to/rinidh/building-forms-using-react-hook-form-d48)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-25",
+    "formattedDate": "November 25, 2025",
+    "news": [
+      {
+        "title": "Building a Comprehensive E2E Test Suite with Playwright: Lessons from 100+ Test Cases",
+        "link": "https://dev.to/bugslayer/building-a-comprehensive-e2e-test-suite-with-playwright-lessons-from-100-test-cases-171k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together",
+        "link": "https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Clean Code Mastery: Part 5 - Array Methods and Immutability That Transform Your Code",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-5-array-methods-and-immutability-that-transform-your-code-34mb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together",
+        "link": "https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer",
+        "link": "https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Teaching Feature Flags to a Junior Changed How I Think About Architecture",
+        "link": "https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-24",
     "formattedDate": "November 24, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "dev diary 20251122",
         "link": "https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251122-aed",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-22",
-    "formattedDate": "November 22, 2025",
-    "news": [
-      {
-        "title": "Tiny Games, Big Feelings",
-        "link": "https://dev.to/diegodotta/tiny-games-big-feelings-4oke",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban",
-        "link": "https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The 7 Mistakes I Made as a Junior Frontend Developer (and the Engineering Fixes That Helped Me Grow Faster)",
-        "link": "https://dev.to/maurya-sachin/the-7-mistakes-i-made-as-a-junior-frontend-developer-and-the-engineering-fixes-that-helped-me-grow-26ii",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "useMemo y useCallback: cuándo sí sirven… y cuándo solo estorban",
-        "link": "https://dev.to/hileodev/usememo-y-usecallback-cuando-si-sirven-y-cuando-solo-estorban-3hnj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Suite v6: A Steady Step Toward Modernization",
-        "link": "https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building forms using React Hook Form",
-        "link": "https://dev.to/rinidh/building-forms-using-react-hook-form-d48",
         "source": "Dev.to React"
       },
       {
