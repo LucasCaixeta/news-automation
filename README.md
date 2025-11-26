@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 25, 2025)
+### Today's Updates (November 26, 2025)
+
+#### Dev.to JavaScript
+
+- [createElementNS、setAttribute()、SVG 的 viewBox 属性、`<svg>`](https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg)
+- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
+- [Introducing Redenv - A Zero-Knowledge, End-to-End Encrypted Secret Manager Built for the Serverless Era](https://dev.to/prassamin/introducing-redenv-a-zero-knowledge-end-to-end-encrypted-secret-manager-built-for-the-serverless-48me)
+
+#### Dev.to React
+
+- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
+- [Why I Built a useDebounce Custom Hook in Next.js (and Why You Should Too)](https://dev.to/yosolita1978/why-i-built-a-usedebounce-custom-hook-in-nextjs-and-why-you-should-too-54d0)
+- [Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 25, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 24, 2025)
+### 2 Days Ago (November 24, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a generative UI Guitar Tutor app](https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1)
 - [Next.js Weekly #109: Next Analyze, Prisma 7, use-nemo, State of React 2025, Error Boundaries, UI Framework Guide](https://dev.to/erfanebrahimnia/nextjs-weekly-109-next-analyze-prisma-7-use-nemo-state-of-react-2025-error-boundaries-ui-3n30)
 - [Is React.memo Still Useful in React 19? A Practical Guide for 2025](https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 23, 2025)
-
-#### Dev.to JavaScript
-
-- [I Built an "Ethical" GitHub Streak Guardian (And How I Survived API Rate Limits)](https://dev.to/krdevanshu06/i-built-an-ethical-github-streak-guardian-and-how-i-survived-api-rate-limits-4po)
-- [Stop Blocking AI Bots. Charge Them. (I built a Payment Protocol in Node.js)](https://dev.to/ankitx1357boop/stop-blocking-ai-bots-charge-them-i-built-a-payment-protocol-in-nodejs-lhc)
-- [Stop Building Indie SaaS the Hard Way](https://dev.to/brandonkylebailey/stop-building-indie-saas-the-hard-way-26o2)
-
-#### Dev.to React
-
-- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
-- [Mintlify Ignored This Feature Request for 6 Months. Here's Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
-- [dev diary 20251122](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251122-aed)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-26",
+    "formattedDate": "November 26, 2025",
+    "news": [
+      {
+        "title": "createElementNS、setAttribute()、SVG 的 viewBox 属性、`<svg>`",
+        "link": "https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Detecting User Frustration: Understanding rage clicks and session replay",
+        "link": "https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Introducing Redenv - A Zero-Knowledge, End-to-End Encrypted Secret Manager Built for the Serverless Era",
+        "link": "https://dev.to/prassamin/introducing-redenv-a-zero-knowledge-end-to-end-encrypted-secret-manager-built-for-the-serverless-48me",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We had enough of brainrot. We built a terminal app for Instagram to stop that.",
+        "link": "https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Built a useDebounce Custom Hook in Next.js (and Why You Should Too)",
+        "link": "https://dev.to/yosolita1978/why-i-built-a-usedebounce-custom-hook-in-nextjs-and-why-you-should-too-54d0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer",
+        "link": "https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-25",
     "formattedDate": "November 25, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Is React.memo Still Useful in React 19? A Practical Guide for 2025",
         "link": "https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-23",
-    "formattedDate": "November 23, 2025",
-    "news": [
-      {
-        "title": "I Built an \"Ethical\" GitHub Streak Guardian (And How I Survived API Rate Limits)",
-        "link": "https://dev.to/krdevanshu06/i-built-an-ethical-github-streak-guardian-and-how-i-survived-api-rate-limits-4po",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Blocking AI Bots. Charge Them. (I built a Payment Protocol in Node.js)",
-        "link": "https://dev.to/ankitx1357boop/stop-blocking-ai-bots-charge-them-i-built-a-payment-protocol-in-nodejs-lhc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Building Indie SaaS the Hard Way",
-        "link": "https://dev.to/brandonkylebailey/stop-building-indie-saas-the-hard-way-26o2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Curl Command Generator App with React",
-        "link": "https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mintlify Ignored This Feature Request for 6 Months. Here's Our Solution.",
-        "link": "https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "dev diary 20251122",
-        "link": "https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251122-aed",
         "source": "Dev.to React"
       },
       {
