@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 26, 2025)
+### Today's Updates (November 27, 2025)
+
+#### Dev.to JavaScript
+
+- [Faster SQLite Lookups in Node.js Using Hash Keys & Indexing](https://dev.to/lovestaco/faster-sqlite-lookups-in-nodejs-using-hash-keys-indexing-npc)
+- [🚀 Build Your First Remote MCP Server on Azure Using TypeScript — and Supercharge Your AI Workflows](https://dev.to/spboyer/build-your-first-remote-mcp-server-on-azure-using-typescript-and-supercharge-your-ai-workflows-4aib)
+- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9)
+
+#### Dev.to React
+
+- [Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow](https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i)
+- [Building a Real-time Fantasy Football Trade Analyzer with Python & React](https://dev.to/ffteamnames/building-a-real-time-fantasy-football-trade-analyzer-with-python-react-3349)
+- [How to Handle Multiple Environments in React the Right Way](https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 25, 2025)
+### 2 Days Ago (November 25, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React vs ReactDOM: What’s the Difference? A Deep Dive Into How They Actually Work Together](https://dev.to/imsushant12/react-vs-reactdom-whats-the-difference-a-deep-dive-into-how-they-actually-work-together-1gg0)
 - [Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
 - [Teaching Feature Flags to a Junior Changed How I Think About Architecture](https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 24, 2025)
-
-#### Dev.to JavaScript
-
-- [Building a Password Strength Analyzer with Entropy and Crack Time for Beginners](https://dev.to/malarkondappan/building-a-password-strength-analyzer-with-entropy-and-crack-time-for-beginners-3i6o)
-- [JavaScript Clean Code Mastery: Part 4 - Async/Await and Error Handling That Actually Works](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-4-asyncawait-and-error-handling-that-actually-works-26b9)
-- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
-
-#### Dev.to React
-
-- [I built a generative UI Guitar Tutor app](https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1)
-- [Next.js Weekly #109: Next Analyze, Prisma 7, use-nemo, State of React 2025, Error Boundaries, UI Framework Guide](https://dev.to/erfanebrahimnia/nextjs-weekly-109-next-analyze-prisma-7-use-nemo-state-of-react-2025-error-boundaries-ui-3n30)
-- [Is React.memo Still Useful in React 19? A Practical Guide for 2025](https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-27",
+    "formattedDate": "November 27, 2025",
+    "news": [
+      {
+        "title": "Faster SQLite Lookups in Node.js Using Hash Keys & Indexing",
+        "link": "https://dev.to/lovestaco/faster-sqlite-lookups-in-nodejs-using-hash-keys-indexing-npc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Build Your First Remote MCP Server on Azure Using TypeScript — and Supercharge Your AI Workflows",
+        "link": "https://dev.to/spboyer/build-your-first-remote-mcp-server-on-azure-using-typescript-and-supercharge-your-ai-workflows-4aib",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension",
+        "link": "https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow",
+        "link": "https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Real-time Fantasy Football Trade Analyzer with Python & React",
+        "link": "https://dev.to/ffteamnames/building-a-real-time-fantasy-football-trade-analyzer-with-python-react-3349",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Handle Multiple Environments in React the Right Way",
+        "link": "https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-26",
     "formattedDate": "November 26, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Teaching Feature Flags to a Junior Changed How I Think About Architecture",
         "link": "https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-24",
-    "formattedDate": "November 24, 2025",
-    "news": [
-      {
-        "title": "Building a Password Strength Analyzer with Entropy and Crack Time for Beginners",
-        "link": "https://dev.to/malarkondappan/building-a-password-strength-analyzer-with-entropy-and-crack-time-for-beginners-3i6o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript Clean Code Mastery: Part 4 - Async/Await and Error Handling That Actually Works",
-        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-4-asyncawait-and-error-handling-that-actually-works-26b9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code",
-        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a generative UI Guitar Tutor app",
-        "link": "https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js Weekly #109: Next Analyze, Prisma 7, use-nemo, State of React 2025, Error Boundaries, UI Framework Guide",
-        "link": "https://dev.to/erfanebrahimnia/nextjs-weekly-109-next-analyze-prisma-7-use-nemo-state-of-react-2025-error-boundaries-ui-3n30",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Is React.memo Still Useful in React 19? A Practical Guide for 2025",
-        "link": "https://dev.to/shantih_palani/is-reactmemo-still-useful-in-react-19-a-practical-guide-for-2025-4lj5",
         "source": "Dev.to React"
       },
       {
