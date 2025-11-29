@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 28, 2025)
+### Today's Updates (November 29, 2025)
+
+#### Dev.to JavaScript
+
+- [How JavaScript Handles Memory Under the Hood — A Complete Deep Dive](https://dev.to/ahmed_niazy/how-javascript-handles-memory-under-the-hood-a-complete-deep-dive-39l5)
+- [Remove Image Backgrounds in the Browser - No Backend Needed 🚀](https://dev.to/gallaouimaher/remove-image-backgrounds-in-the-browser-no-backend-needed-4o10)
+- [Stop paying for databases: I built a Type-safe Google Sheets ORM (Prisma-style)](https://dev.to/phatysddev/stop-paying-for-databases-i-built-a-type-safe-google-sheets-orm-prisma-style-3b2l)
+
+#### Dev.to React
+
+- [Cómo usar el Profiler de React para medir renders de verdad (y dejar de adivinar)](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
+- [This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun](https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36)
+- [Zustand: A Lightweight State Management Library (No Boilerplate Needed)](https://dev.to/salsadsid/zustand-a-lightweight-state-management-library-no-boilerplate-needed-4b3g)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 27, 2025)
+### 2 Days Ago (November 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow](https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i)
 - [Building a Real-time Fantasy Football Trade Analyzer with Python & React](https://dev.to/ffteamnames/building-a-real-time-fantasy-football-trade-analyzer-with-python-react-3349)
 - [How to Handle Multiple Environments in React the Right Way](https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 26, 2025)
-
-#### Dev.to JavaScript
-
-- [createElementNS、setAttribute()、SVG 的 viewBox 属性、`<svg>`](https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg)
-- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
-- [Introducing Redenv - A Zero-Knowledge, End-to-End Encrypted Secret Manager Built for the Serverless Era](https://dev.to/prassamin/introducing-redenv-a-zero-knowledge-end-to-end-encrypted-secret-manager-built-for-the-serverless-48me)
-
-#### Dev.to React
-
-- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
-- [Why I Built a useDebounce Custom Hook in Next.js (and Why You Should Too)](https://dev.to/yosolita1978/why-i-built-a-usedebounce-custom-hook-in-nextjs-and-why-you-should-too-54d0)
-- [Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer](https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-29",
+    "formattedDate": "November 29, 2025",
+    "news": [
+      {
+        "title": "How JavaScript Handles Memory Under the Hood — A Complete Deep Dive",
+        "link": "https://dev.to/ahmed_niazy/how-javascript-handles-memory-under-the-hood-a-complete-deep-dive-39l5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Remove Image Backgrounds in the Browser - No Backend Needed 🚀",
+        "link": "https://dev.to/gallaouimaher/remove-image-backgrounds-in-the-browser-no-backend-needed-4o10",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop paying for databases: I built a Type-safe Google Sheets ORM (Prisma-style)",
+        "link": "https://dev.to/phatysddev/stop-paying-for-databases-i-built-a-type-safe-google-sheets-orm-prisma-style-3b2l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cómo usar el Profiler de React para medir renders de verdad (y dejar de adivinar)",
+        "link": "https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Zustand: A Lightweight State Management Library (No Boilerplate Needed)",
+        "link": "https://dev.to/salsadsid/zustand-a-lightweight-state-management-library-no-boilerplate-needed-4b3g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-28",
     "formattedDate": "November 28, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Handle Multiple Environments in React the Right Way",
         "link": "https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-26",
-    "formattedDate": "November 26, 2025",
-    "news": [
-      {
-        "title": "createElementNS、setAttribute()、SVG 的 viewBox 属性、`<svg>`",
-        "link": "https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Detecting User Frustration: Understanding rage clicks and session replay",
-        "link": "https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introducing Redenv - A Zero-Knowledge, End-to-End Encrypted Secret Manager Built for the Serverless Era",
-        "link": "https://dev.to/prassamin/introducing-redenv-a-zero-knowledge-end-to-end-encrypted-secret-manager-built-for-the-serverless-48me",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "We had enough of brainrot. We built a terminal app for Instagram to stop that.",
-        "link": "https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I Built a useDebounce Custom Hook in Next.js (and Why You Should Too)",
-        "link": "https://dev.to/yosolita1978/why-i-built-a-usedebounce-custom-hook-in-nextjs-and-why-you-should-too-54d0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Hello DEV Community 👋 — I'm Sebastien, a Full-Stack & iOS Developer",
-        "link": "https://dev.to/sebastienlato/hello-dev-community-im-sebastien-a-full-stack-ios-developer-dc4",
         "source": "Dev.to React"
       },
       {
