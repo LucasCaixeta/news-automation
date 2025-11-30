@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 29, 2025)
+### Today's Updates (November 30, 2025)
+
+#### Dev.to JavaScript
+
+- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
+- [404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥](https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b)
+- [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
+
+#### Dev.to React
+
+- [50+ React Pro Tips You Must Know For Better Coding](https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp)
+- [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
+- [Struggling with Next.js 16 App Router? Migrate Faster & Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 28, 2025)
+### 2 Days Ago (November 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp)
 - [Integrate Cloudflare Turnstile into Astro and React Application](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
 - [Lina: Adaptive Scroll Area for React with Native Touch Support](https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 27, 2025)
-
-#### Dev.to JavaScript
-
-- [Faster SQLite Lookups in Node.js Using Hash Keys & Indexing](https://dev.to/lovestaco/faster-sqlite-lookups-in-nodejs-using-hash-keys-indexing-npc)
-- [🚀 Build Your First Remote MCP Server on Azure Using TypeScript — and Supercharge Your AI Workflows](https://dev.to/spboyer/build-your-first-remote-mcp-server-on-azure-using-typescript-and-supercharge-your-ai-workflows-4aib)
-- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9)
-
-#### Dev.to React
-
-- [Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow](https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i)
-- [Building a Real-time Fantasy Football Trade Analyzer with Python & React](https://dev.to/ffteamnames/building-a-real-time-fantasy-football-trade-analyzer-with-python-react-3349)
-- [How to Handle Multiple Environments in React the Right Way](https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-11-30",
+    "formattedDate": "November 30, 2025",
+    "news": [
+      {
+        "title": "How to Upgrade to Prisma v7?",
+        "link": "https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥",
+        "link": "https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a 2KB React Alternative That Uses Zero Custom Syntax",
+        "link": "https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "50+ React Pro Tips You Must Know For Better Coding",
+        "link": "https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a 2KB React Alternative That Uses Zero Custom Syntax",
+        "link": "https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Struggling with Next.js 16 App Router? Migrate Faster & Smarter",
+        "link": "https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-29",
     "formattedDate": "November 29, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Lina: Adaptive Scroll Area for React with Native Touch Support",
         "link": "https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-27",
-    "formattedDate": "November 27, 2025",
-    "news": [
-      {
-        "title": "Faster SQLite Lookups in Node.js Using Hash Keys & Indexing",
-        "link": "https://dev.to/lovestaco/faster-sqlite-lookups-in-nodejs-using-hash-keys-indexing-npc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Build Your First Remote MCP Server on Azure Using TypeScript — and Supercharge Your AI Workflows",
-        "link": "https://dev.to/spboyer/build-your-first-remote-mcp-server-on-azure-using-typescript-and-supercharge-your-ai-workflows-4aib",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension",
-        "link": "https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Wrestling with React Icons - Meet Iconx: Your New Icon Workflow",
-        "link": "https://dev.to/eelcodotdev/stop-wrestling-with-react-icons-meet-iconx-your-new-icon-workflow-2b8i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Real-time Fantasy Football Trade Analyzer with Python & React",
-        "link": "https://dev.to/ffteamnames/building-a-real-time-fantasy-football-trade-analyzer-with-python-react-3349",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Handle Multiple Environments in React the Right Way",
-        "link": "https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id",
         "source": "Dev.to React"
       },
       {
