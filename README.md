@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 30, 2025)
+### Today's Updates (December 1, 2025)
+
+#### Dev.to JavaScript
+
+- [I built an Advanced Python & JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
+- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
+- [Essential npm Security Tools to Protect Against Supply Chain Attacks in 2025](https://dev.to/m1tsumi/essential-npm-security-tools-to-protect-against-supply-chain-attacks-in-2025-4ni6)
+
+#### Dev.to React
+
+- [Building a Production Design System with Tailwind CSS v4](https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e)
+- [AI Keeps Reinventing Your Components. Here's How to Stop It.](https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a)
+- ["THIS Is Not My Child" - Integrating PIXI.js in Tauri Vite React](https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 29, 2025)
+### 2 Days Ago (November 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Cómo usar el Profiler de React para medir renders de verdad (y dejar de adivinar)](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
 - [This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun](https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36)
 - [Zustand: A Lightweight State Management Library (No Boilerplate Needed)](https://dev.to/salsadsid/zustand-a-lightweight-state-management-library-no-boilerplate-needed-4b3g)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 28, 2025)
-
-#### Dev.to JavaScript
-
-- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
-- [⚡ Dartalyst: A New Full-Stack SSR Framework That Just Hit 30,937 Requests Per Second](https://dev.to/shaquelkothari/dartalyst-a-new-full-stack-ssr-framework-that-just-hit-30937-requests-per-second-3m2d)
-- [I just shipped v3.0 of Frontend Master Prep Series — Study Paths, 374+ Q&A, 65 Coding Problems & 500+ Flashcards](https://dev.to/maurya-sachin/i-just-shipped-v30-of-frontend-master-prep-series-study-paths-374-qa-65-coding-problems--44mi)
-
-#### Dev.to React
-
-- [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp)
-- [Integrate Cloudflare Turnstile into Astro and React Application](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
-- [Lina: Adaptive Scroll Area for React with Native Touch Support](https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-01",
+    "formattedDate": "December 1, 2025",
+    "news": [
+      {
+        "title": "I built an Advanced Python & JS Obfuscator with AI Auto-Decryption 🛡️",
+        "link": "https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Upgrade to Prisma v7?",
+        "link": "https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Essential npm Security Tools to Protect Against Supply Chain Attacks in 2025",
+        "link": "https://dev.to/m1tsumi/essential-npm-security-tools-to-protect-against-supply-chain-attacks-in-2025-4ni6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Production Design System with Tailwind CSS v4",
+        "link": "https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "AI Keeps Reinventing Your Components. Here's How to Stop It.",
+        "link": "https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "\"THIS Is Not My Child\" - Integrating PIXI.js in Tauri Vite React",
+        "link": "https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-11-30",
     "formattedDate": "November 30, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Zustand: A Lightweight State Management Library (No Boilerplate Needed)",
         "link": "https://dev.to/salsadsid/zustand-a-lightweight-state-management-library-no-boilerplate-needed-4b3g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-28",
-    "formattedDate": "November 28, 2025",
-    "news": [
-      {
-        "title": "What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥",
-        "link": "https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "⚡ Dartalyst: A New Full-Stack SSR Framework That Just Hit 30,937 Requests Per Second",
-        "link": "https://dev.to/shaquelkothari/dartalyst-a-new-full-stack-ssr-framework-that-just-hit-30937-requests-per-second-3m2d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I just shipped v3.0 of Frontend Master Prep Series — Study Paths, 374+ Q&A, 65 Coding Problems & 500+ Flashcards",
-        "link": "https://dev.to/maurya-sachin/i-just-shipped-v30-of-frontend-master-prep-series-study-paths-374-qa-65-coding-problems--44mi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces",
-        "link": "https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Integrate Cloudflare Turnstile into Astro and React Application",
-        "link": "https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Lina: Adaptive Scroll Area for React with Native Touch Support",
-        "link": "https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh",
         "source": "Dev.to React"
       },
       {
