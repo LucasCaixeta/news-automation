@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 1, 2025)
+### Today's Updates (December 2, 2025)
+
+#### Dev.to JavaScript
+
+- [10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
+- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
+- [JavaScript Generators: The "Pause" Button for Your Code](https://dev.to/samuel_ochaba_eb9c875fa89/javascript-generators-the-pause-button-for-your-code-37ep)
+
+#### Dev.to React
+
+- [Modernizing Cephalometric Analysis: Building a Web App for Orthodontic Diagnostics](https://dev.to/tj1609/modernizing-cephalometric-analysis-building-a-web-app-for-orthodontic-diagnostics-3lp7)
+- [Angular vs React: My Developer Showdown (With Real Bumps, Bruises & Breakpoints)](https://dev.to/sahilcingh/angular-vs-react-my-developer-showdown-with-real-bumps-bruises-breakpoints-3h21)
+- [expo-morphing-text: Animated Character Transitions for React Native](https://dev.to/jqueryscript/expo-morphing-text-animated-character-transitions-for-react-native-13dc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 30, 2025)
+### 2 Days Ago (November 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [50+ React Pro Tips You Must Know For Better Coding](https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp)
 - [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
 - [Struggling with Next.js 16 App Router? Migrate Faster & Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 29, 2025)
-
-#### Dev.to JavaScript
-
-- [How JavaScript Handles Memory Under the Hood — A Complete Deep Dive](https://dev.to/ahmed_niazy/how-javascript-handles-memory-under-the-hood-a-complete-deep-dive-39l5)
-- [Remove Image Backgrounds in the Browser - No Backend Needed 🚀](https://dev.to/gallaouimaher/remove-image-backgrounds-in-the-browser-no-backend-needed-4o10)
-- [Stop paying for databases: I built a Type-safe Google Sheets ORM (Prisma-style)](https://dev.to/phatysddev/stop-paying-for-databases-i-built-a-type-safe-google-sheets-orm-prisma-style-3b2l)
-
-#### Dev.to React
-
-- [Cómo usar el Profiler de React para medir renders de verdad (y dejar de adivinar)](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
-- [This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun](https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36)
-- [Zustand: A Lightweight State Management Library (No Boilerplate Needed)](https://dev.to/salsadsid/zustand-a-lightweight-state-management-library-no-boilerplate-needed-4b3g)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-02",
+    "formattedDate": "December 2, 2025",
+    "news": [
+      {
+        "title": "10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)",
+        "link": "https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Working with the DOM, Click Events, and Web APIs",
+        "link": "https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Generators: The \"Pause\" Button for Your Code",
+        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/javascript-generators-the-pause-button-for-your-code-37ep",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Modernizing Cephalometric Analysis: Building a Web App for Orthodontic Diagnostics",
+        "link": "https://dev.to/tj1609/modernizing-cephalometric-analysis-building-a-web-app-for-orthodontic-diagnostics-3lp7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Angular vs React: My Developer Showdown (With Real Bumps, Bruises & Breakpoints)",
+        "link": "https://dev.to/sahilcingh/angular-vs-react-my-developer-showdown-with-real-bumps-bruises-breakpoints-3h21",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "expo-morphing-text: Animated Character Transitions for React Native",
+        "link": "https://dev.to/jqueryscript/expo-morphing-text-animated-character-transitions-for-react-native-13dc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-01",
     "formattedDate": "December 1, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Struggling with Next.js 16 App Router? Migrate Faster & Smarter",
         "link": "https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-29",
-    "formattedDate": "November 29, 2025",
-    "news": [
-      {
-        "title": "How JavaScript Handles Memory Under the Hood — A Complete Deep Dive",
-        "link": "https://dev.to/ahmed_niazy/how-javascript-handles-memory-under-the-hood-a-complete-deep-dive-39l5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Remove Image Backgrounds in the Browser - No Backend Needed 🚀",
-        "link": "https://dev.to/gallaouimaher/remove-image-backgrounds-in-the-browser-no-backend-needed-4o10",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop paying for databases: I built a Type-safe Google Sheets ORM (Prisma-style)",
-        "link": "https://dev.to/phatysddev/stop-paying-for-databases-i-built-a-type-safe-google-sheets-orm-prisma-style-3b2l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Cómo usar el Profiler de React para medir renders de verdad (y dejar de adivinar)",
-        "link": "https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "This Week In React #260: TanStack, Actions, Immer, RTK | Vercel v0, Worklets, Skia | TC39, Playwright, Bun",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-260-tanstack-actions-immer-rtk-vercel-v0-worklets-skia-tc39-3f36",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Zustand: A Lightweight State Management Library (No Boilerplate Needed)",
-        "link": "https://dev.to/salsadsid/zustand-a-lightweight-state-management-library-no-boilerplate-needed-4b3g",
         "source": "Dev.to React"
       },
       {
