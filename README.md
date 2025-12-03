@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 2, 2025)
+### Today's Updates (December 3, 2025)
+
+#### Dev.to JavaScript
+
+- [Optimizing "GitHub-as-a-Database": Solving Rate Limits with Server-Side Caching](https://dev.to/uche_wendy_9f87dcb3b339d0/optimizing-github-as-a-database-solving-rate-limits-with-server-side-caching-2aa5)
+- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g)
+- [BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS & JavaScript](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj)
+
+#### Dev.to React
+
+- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
+- [How I Built a 90-Day Cash Flow Intelligence Engine](https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l)
+- [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 1, 2025)
+### 2 Days Ago (December 1, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Production Design System with Tailwind CSS v4](https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e)
 - [AI Keeps Reinventing Your Components. Here's How to Stop It.](https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a)
 - ["THIS Is Not My Child" - Integrating PIXI.js in Tauri Vite React](https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 30, 2025)
-
-#### Dev.to JavaScript
-
-- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
-- [404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥](https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b)
-- [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
-
-#### Dev.to React
-
-- [50+ React Pro Tips You Must Know For Better Coding](https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp)
-- [I Built a 2KB React Alternative That Uses Zero Custom Syntax](https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl)
-- [Struggling with Next.js 16 App Router? Migrate Faster & Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-03",
+    "formattedDate": "December 3, 2025",
+    "news": [
+      {
+        "title": "Optimizing \"GitHub-as-a-Database\": Solving Rate Limits with Server-Side Caching",
+        "link": "https://dev.to/uche_wendy_9f87dcb3b339d0/optimizing-github-as-a-database-solving-rate-limits-with-server-side-caching-2aa5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Tool That Detects AI Training — And I Need Your Help.",
+        "link": "https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS & JavaScript",
+        "link": "https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration",
+        "link": "https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a 90-Day Cash Flow Intelligence Engine",
+        "link": "https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a React Next.js converter that handles 80–90 percent of the migration",
+        "link": "https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-02",
     "formattedDate": "December 2, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "\"THIS Is Not My Child\" - Integrating PIXI.js in Tauri Vite React",
         "link": "https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-11-30",
-    "formattedDate": "November 30, 2025",
-    "news": [
-      {
-        "title": "How to Upgrade to Prisma v7?",
-        "link": "https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥",
-        "link": "https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a 2KB React Alternative That Uses Zero Custom Syntax",
-        "link": "https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "50+ React Pro Tips You Must Know For Better Coding",
-        "link": "https://dev.to/myogeshchavan97/50-react-pro-tips-you-must-know-for-better-coding-2okp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a 2KB React Alternative That Uses Zero Custom Syntax",
-        "link": "https://dev.to/sathvikcheela/i-built-a-2kb-react-alternative-that-uses-zero-custom-syntax-mpl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Struggling with Next.js 16 App Router? Migrate Faster & Smarter",
-        "link": "https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p",
         "source": "Dev.to React"
       },
       {
