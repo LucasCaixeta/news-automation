@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 3, 2025)
+### Today's Updates (December 4, 2025)
+
+#### Dev.to JavaScript
+
+- [Anthropic just acquired Bun.js. Here's why.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
+- [Don't let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
+- [PrinceJS – The Bun Framework Built by a 13-Year-Old Dev. Ranked #3 in Performance.](https://dev.to/thelittleprince1218/princejs-the-bun-framework-built-by-a-13-year-old-dev-ranked-3-in-performance-8o)
+
+#### Dev.to React
+
+- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 1)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol)
+- [My Learning Journey & Reflections](https://dev.to/anam_malik_d85ef97f437a7a/my-learning-journey-reflections-19gi)
+- [Built a React component that encrypts copied text while keeping it readable on screen](https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 2, 2025)
+### 2 Days Ago (December 2, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Modernizing Cephalometric Analysis: Building a Web App for Orthodontic Diagnostics](https://dev.to/tj1609/modernizing-cephalometric-analysis-building-a-web-app-for-orthodontic-diagnostics-3lp7)
 - [Angular vs React: My Developer Showdown (With Real Bumps, Bruises & Breakpoints)](https://dev.to/sahilcingh/angular-vs-react-my-developer-showdown-with-real-bumps-bruises-breakpoints-3h21)
 - [expo-morphing-text: Animated Character Transitions for React Native](https://dev.to/jqueryscript/expo-morphing-text-animated-character-transitions-for-react-native-13dc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 1, 2025)
-
-#### Dev.to JavaScript
-
-- [I built an Advanced Python & JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
-- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
-- [Essential npm Security Tools to Protect Against Supply Chain Attacks in 2025](https://dev.to/m1tsumi/essential-npm-security-tools-to-protect-against-supply-chain-attacks-in-2025-4ni6)
-
-#### Dev.to React
-
-- [Building a Production Design System with Tailwind CSS v4](https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e)
-- [AI Keeps Reinventing Your Components. Here's How to Stop It.](https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a)
-- ["THIS Is Not My Child" - Integrating PIXI.js in Tauri Vite React](https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-04",
+    "formattedDate": "December 4, 2025",
+    "news": [
+      {
+        "title": "Anthropic just acquired Bun.js. Here's why.",
+        "link": "https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Don't let your bundles go Overweight",
+        "link": "https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "PrinceJS – The Bun Framework Built by a 13-Year-Old Dev. Ranked #3 in Performance.",
+        "link": "https://dev.to/thelittleprince1218/princejs-the-bun-framework-built-by-a-13-year-old-dev-ranked-3-in-performance-8o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 1)",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My Learning Journey & Reflections",
+        "link": "https://dev.to/anam_malik_d85ef97f437a7a/my-learning-journey-reflections-19gi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Built a React component that encrypts copied text while keeping it readable on screen",
+        "link": "https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-03",
     "formattedDate": "December 3, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "expo-morphing-text: Animated Character Transitions for React Native",
         "link": "https://dev.to/jqueryscript/expo-morphing-text-animated-character-transitions-for-react-native-13dc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-01",
-    "formattedDate": "December 1, 2025",
-    "news": [
-      {
-        "title": "I built an Advanced Python & JS Obfuscator with AI Auto-Decryption 🛡️",
-        "link": "https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Upgrade to Prisma v7?",
-        "link": "https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Essential npm Security Tools to Protect Against Supply Chain Attacks in 2025",
-        "link": "https://dev.to/m1tsumi/essential-npm-security-tools-to-protect-against-supply-chain-attacks-in-2025-4ni6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Production Design System with Tailwind CSS v4",
-        "link": "https://dev.to/saswatapal/building-a-production-design-system-with-tailwind-css-v4-1d9e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "AI Keeps Reinventing Your Components. Here's How to Stop It.",
-        "link": "https://dev.to/vuong_ngo/ai-keeps-reinventing-your-components-heres-how-to-stop-it-580a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "\"THIS Is Not My Child\" - Integrating PIXI.js in Tauri Vite React",
-        "link": "https://dev.to/etekinalp/this-is-not-my-child-integrating-pixijs-in-tauri-vite-react-4j0b",
         "source": "Dev.to React"
       },
       {
