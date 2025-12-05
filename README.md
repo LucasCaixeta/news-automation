@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 4, 2025)
+### Today's Updates (December 5, 2025)
+
+#### Dev.to JavaScript
+
+- [Boosting My NextJS Blog’s Visibility with RSS](https://dev.to/andymagill/boosting-my-nextjs-blogs-visibility-with-rss-3n95)
+- [How to Send Email with JavaScript: Complete Guide with SendLayer API](https://dev.to/davecodes/how-to-send-email-with-javascript-complete-guide-with-sendlayer-api-40ia)
+- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
+
+#### Dev.to React
+
+- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
+- [FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻](https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6)
+- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 3, 2025)
+### 2 Days Ago (December 3, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
 - [How I Built a 90-Day Cash Flow Intelligence Engine](https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l)
 - [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 2, 2025)
-
-#### Dev.to JavaScript
-
-- [10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
-- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
-- [JavaScript Generators: The "Pause" Button for Your Code](https://dev.to/samuel_ochaba_eb9c875fa89/javascript-generators-the-pause-button-for-your-code-37ep)
-
-#### Dev.to React
-
-- [Modernizing Cephalometric Analysis: Building a Web App for Orthodontic Diagnostics](https://dev.to/tj1609/modernizing-cephalometric-analysis-building-a-web-app-for-orthodontic-diagnostics-3lp7)
-- [Angular vs React: My Developer Showdown (With Real Bumps, Bruises & Breakpoints)](https://dev.to/sahilcingh/angular-vs-react-my-developer-showdown-with-real-bumps-bruises-breakpoints-3h21)
-- [expo-morphing-text: Animated Character Transitions for React Native](https://dev.to/jqueryscript/expo-morphing-text-animated-character-transitions-for-react-native-13dc)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-05",
+    "formattedDate": "December 5, 2025",
+    "news": [
+      {
+        "title": "Boosting My NextJS Blog’s Visibility with RSS",
+        "link": "https://dev.to/andymagill/boosting-my-nextjs-blogs-visibility-with-rss-3n95",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Send Email with JavaScript: Complete Guide with SendLayer API",
+        "link": "https://dev.to/davecodes/how-to-send-email-with-javascript-complete-guide-with-sendlayer-api-40ia",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Workspaces, react and vite. A real-world case study for managing duplicate libraries.",
+        "link": "https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025",
+        "link": "https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻",
+        "link": "https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Workspaces, react and vite. A real-world case study for managing duplicate libraries.",
+        "link": "https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-04",
     "formattedDate": "December 4, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I built a React Next.js converter that handles 80–90 percent of the migration",
         "link": "https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-02",
-    "formattedDate": "December 2, 2025",
-    "news": [
-      {
-        "title": "10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)",
-        "link": "https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Working with the DOM, Click Events, and Web APIs",
-        "link": "https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript Generators: The \"Pause\" Button for Your Code",
-        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/javascript-generators-the-pause-button-for-your-code-37ep",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Modernizing Cephalometric Analysis: Building a Web App for Orthodontic Diagnostics",
-        "link": "https://dev.to/tj1609/modernizing-cephalometric-analysis-building-a-web-app-for-orthodontic-diagnostics-3lp7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Angular vs React: My Developer Showdown (With Real Bumps, Bruises & Breakpoints)",
-        "link": "https://dev.to/sahilcingh/angular-vs-react-my-developer-showdown-with-real-bumps-bruises-breakpoints-3h21",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "expo-morphing-text: Animated Character Transitions for React Native",
-        "link": "https://dev.to/jqueryscript/expo-morphing-text-animated-character-transitions-for-react-native-13dc",
         "source": "Dev.to React"
       },
       {
