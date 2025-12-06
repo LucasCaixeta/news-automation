@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 5, 2025)
+### Today's Updates (December 6, 2025)
+
+#### Dev.to JavaScript
+
+- [Hidden Gems in TypeScript - Short Hands, Aliases, and Underutilized Built-ins That Save You Time](https://dev.to/akashjeedigunta/hidden-gems-in-typescript-short-hands-aliases-and-underutilized-built-ins-that-save-you-time-4jmg)
+- [Functions And Arrow Functions](https://dev.to/joorch/functions-and-arrow-functions-4pc9)
+- [🧟‍♂️ Stitching the Spirit: Engineering a "Frankenstein" AI Agent with Kiro & MCP](https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb)
+
+#### Dev.to React
+
+- [Upgrade Your React Apps!!!](https://dev.to/drprime01/upgrade-your-react-apps-5092)
+- [Understanding the React Testing Pipeline (for Beginners)](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
+- [Why Unit Tests in React Catch Bugs the UI Never Shows (Jest Real-World Example)](https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 4, 2025)
+### 2 Days Ago (December 4, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 1)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol)
 - [My Learning Journey & Reflections](https://dev.to/anam_malik_d85ef97f437a7a/my-learning-journey-reflections-19gi)
 - [Built a React component that encrypts copied text while keeping it readable on screen](https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 3, 2025)
-
-#### Dev.to JavaScript
-
-- [Optimizing "GitHub-as-a-Database": Solving Rate Limits with Server-Side Caching](https://dev.to/uche_wendy_9f87dcb3b339d0/optimizing-github-as-a-database-solving-rate-limits-with-server-side-caching-2aa5)
-- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g)
-- [BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS & JavaScript](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj)
-
-#### Dev.to React
-
-- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
-- [How I Built a 90-Day Cash Flow Intelligence Engine](https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l)
-- [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-06",
+    "formattedDate": "December 6, 2025",
+    "news": [
+      {
+        "title": "Hidden Gems in TypeScript - Short Hands, Aliases, and Underutilized Built-ins That Save You Time",
+        "link": "https://dev.to/akashjeedigunta/hidden-gems-in-typescript-short-hands-aliases-and-underutilized-built-ins-that-save-you-time-4jmg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Functions And Arrow Functions",
+        "link": "https://dev.to/joorch/functions-and-arrow-functions-4pc9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧟‍♂️ Stitching the Spirit: Engineering a \"Frankenstein\" AI Agent with Kiro & MCP",
+        "link": "https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Upgrade Your React Apps!!!",
+        "link": "https://dev.to/drprime01/upgrade-your-react-apps-5092",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Understanding the React Testing Pipeline (for Beginners)",
+        "link": "https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Unit Tests in React Catch Bugs the UI Never Shows (Jest Real-World Example)",
+        "link": "https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-05",
     "formattedDate": "December 5, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Built a React component that encrypts copied text while keeping it readable on screen",
         "link": "https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-03",
-    "formattedDate": "December 3, 2025",
-    "news": [
-      {
-        "title": "Optimizing \"GitHub-as-a-Database\": Solving Rate Limits with Server-Side Caching",
-        "link": "https://dev.to/uche_wendy_9f87dcb3b339d0/optimizing-github-as-a-database-solving-rate-limits-with-server-side-caching-2aa5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Tool That Detects AI Training — And I Need Your Help.",
-        "link": "https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS & JavaScript",
-        "link": "https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration",
-        "link": "https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a 90-Day Cash Flow Intelligence Engine",
-        "link": "https://dev.to/etherlabsdev/how-i-built-a-90-day-cash-flow-intelligence-engine-541l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a React Next.js converter that handles 80–90 percent of the migration",
-        "link": "https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7",
         "source": "Dev.to React"
       },
       {
