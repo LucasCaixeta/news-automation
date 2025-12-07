@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 6, 2025)
+### Today's Updates (December 7, 2025)
+
+#### Dev.to JavaScript
+
+- [12 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-8cc)
+- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d)
+- [JavaScript From Zero to Hero: A Complete Guide for Beginners & Intermediates](https://dev.to/farhadrahimiklie/javascript-from-zero-to-hero-a-complete-guide-for-beginners-intermediates-6i1)
+
+#### Dev.to React
+
+- [Building a VFR Flight Weather App with Next.js and Aviation APIs](https://dev.to/mateenali66/building-a-vfr-flight-weather-app-with-nextjs-and-aviation-apis-4m38)
+- [How I built a Search Engine with Next.js and MongoDB in one weekend](https://dev.to/manthan_bhosle_73dff88f77/how-i-built-a-search-engine-with-nextjs-and-mongodb-in-one-weekend-3hdd)
+- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 2)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 5, 2025)
+### 2 Days Ago (December 5, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
 - [FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻](https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6)
 - [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 4, 2025)
-
-#### Dev.to JavaScript
-
-- [Anthropic just acquired Bun.js. Here's why.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
-- [Don't let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
-- [PrinceJS – The Bun Framework Built by a 13-Year-Old Dev. Ranked #3 in Performance.](https://dev.to/thelittleprince1218/princejs-the-bun-framework-built-by-a-13-year-old-dev-ranked-3-in-performance-8o)
-
-#### Dev.to React
-
-- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 1)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol)
-- [My Learning Journey & Reflections](https://dev.to/anam_malik_d85ef97f437a7a/my-learning-journey-reflections-19gi)
-- [Built a React component that encrypts copied text while keeping it readable on screen](https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-07",
+    "formattedDate": "December 7, 2025",
+    "news": [
+      {
+        "title": "12 Open Source Gems To Become The Ultimate Developer 🔥",
+        "link": "https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-8cc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Is Tailwind actually slow?",
+        "link": "https://dev.to/yoskutik/is-tailwind-actually-slow-533d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript From Zero to Hero: A Complete Guide for Beginners & Intermediates",
+        "link": "https://dev.to/farhadrahimiklie/javascript-from-zero-to-hero-a-complete-guide-for-beginners-intermediates-6i1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a VFR Flight Weather App with Next.js and Aviation APIs",
+        "link": "https://dev.to/mateenali66/building-a-vfr-flight-weather-app-with-nextjs-and-aviation-apis-4m38",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I built a Search Engine with Next.js and MongoDB in one weekend",
+        "link": "https://dev.to/manthan_bhosle_73dff88f77/how-i-built-a-search-engine-with-nextjs-and-mongodb-in-one-weekend-3hdd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 2)",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-06",
     "formattedDate": "December 6, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Workspaces, react and vite. A real-world case study for managing duplicate libraries.",
         "link": "https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-04",
-    "formattedDate": "December 4, 2025",
-    "news": [
-      {
-        "title": "Anthropic just acquired Bun.js. Here's why.",
-        "link": "https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Don't let your bundles go Overweight",
-        "link": "https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "PrinceJS – The Bun Framework Built by a 13-Year-Old Dev. Ranked #3 in Performance.",
-        "link": "https://dev.to/thelittleprince1218/princejs-the-bun-framework-built-by-a-13-year-old-dev-ranked-3-in-performance-8o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 1)",
-        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-2fol",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My Learning Journey & Reflections",
-        "link": "https://dev.to/anam_malik_d85ef97f437a7a/my-learning-journey-reflections-19gi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Built a React component that encrypts copied text while keeping it readable on screen",
-        "link": "https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp",
         "source": "Dev.to React"
       },
       {
