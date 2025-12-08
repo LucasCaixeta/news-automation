@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 7, 2025)
+### Today's Updates (December 8, 2025)
+
+#### Dev.to JavaScript
+
+- [The 2025 Engineering Reality Check: Why "Boring" is the New Brave](https://dev.to/samuel_ochaba_eb9c875fa89/the-2025-engineering-reality-check-why-boring-is-the-new-brave-4626)
+- [⚡ Stop Letting Your GPU Sleep: Monetize Energy & Compute with 3 Lines of Code](https://dev.to/synapsefounder/stop-letting-your-gpu-sleep-monetize-energy-compute-with-3-lines-of-code-5h10)
+- [TypeScript 7 is Being Rewritten in Go. This is Microsoft's Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
+
+#### Dev.to React
+
+- [How to Build Multi-Language React Apps with Internationalization (i18n)](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
+- [Two People, Same Body: A Developer's Crisis Architecture](https://dev.to/crisiscoresystems/two-people-same-body-a-developers-crisis-architecture-25ko)
+- [React vs Vue vs Svelte — Which One Should You Learn in 2025?](https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 6, 2025)
+### 2 Days Ago (December 6, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Upgrade Your React Apps!!!](https://dev.to/drprime01/upgrade-your-react-apps-5092)
 - [Understanding the React Testing Pipeline (for Beginners)](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
 - [Why Unit Tests in React Catch Bugs the UI Never Shows (Jest Real-World Example)](https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 5, 2025)
-
-#### Dev.to JavaScript
-
-- [Boosting My NextJS Blog’s Visibility with RSS](https://dev.to/andymagill/boosting-my-nextjs-blogs-visibility-with-rss-3n95)
-- [How to Send Email with JavaScript: Complete Guide with SendLayer API](https://dev.to/davecodes/how-to-send-email-with-javascript-complete-guide-with-sendlayer-api-40ia)
-- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
-
-#### Dev.to React
-
-- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
-- [FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻](https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6)
-- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-08",
+    "formattedDate": "December 8, 2025",
+    "news": [
+      {
+        "title": "The 2025 Engineering Reality Check: Why \"Boring\" is the New Brave",
+        "link": "https://dev.to/samuel_ochaba_eb9c875fa89/the-2025-engineering-reality-check-why-boring-is-the-new-brave-4626",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "⚡ Stop Letting Your GPU Sleep: Monetize Energy & Compute with 3 Lines of Code",
+        "link": "https://dev.to/synapsefounder/stop-letting-your-gpu-sleep-monetize-energy-compute-with-3-lines-of-code-5h10",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript 7 is Being Rewritten in Go. This is Microsoft's Biggest Bet on the JavaScript Ecosystem",
+        "link": "https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Build Multi-Language React Apps with Internationalization (i18n)",
+        "link": "https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Two People, Same Body: A Developer's Crisis Architecture",
+        "link": "https://dev.to/crisiscoresystems/two-people-same-body-a-developers-crisis-architecture-25ko",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React vs Vue vs Svelte — Which One Should You Learn in 2025?",
+        "link": "https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-07",
     "formattedDate": "December 7, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why Unit Tests in React Catch Bugs the UI Never Shows (Jest Real-World Example)",
         "link": "https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-05",
-    "formattedDate": "December 5, 2025",
-    "news": [
-      {
-        "title": "Boosting My NextJS Blog’s Visibility with RSS",
-        "link": "https://dev.to/andymagill/boosting-my-nextjs-blogs-visibility-with-rss-3n95",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Send Email with JavaScript: Complete Guide with SendLayer API",
-        "link": "https://dev.to/davecodes/how-to-send-email-with-javascript-complete-guide-with-sendlayer-api-40ia",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Workspaces, react and vite. A real-world case study for managing duplicate libraries.",
-        "link": "https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025",
-        "link": "https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻",
-        "link": "https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Workspaces, react and vite. A real-world case study for managing duplicate libraries.",
-        "link": "https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb",
         "source": "Dev.to React"
       },
       {
