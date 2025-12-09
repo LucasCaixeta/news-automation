@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 8, 2025)
+### Today's Updates (December 9, 2025)
+
+#### Dev.to JavaScript
+
+- [How to Fix CORS Errors in MERN (The Secure Way)](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k)
+- [The Journey of React State Management: From Flux Redux Redux Toolkit](https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc)
+- [Advanced SEO: Everything I Learnt About Anchor Text Optimization from Google Content Warehouse API Docs](https://dev.to/okabarack/advanced-seo-everything-i-learnt-about-anchor-text-optimization-from-google-content-warehouse-api-23jb)
+
+#### Dev.to React
+
+- [How to Fix CORS Errors in MERN (The Secure Way)](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k)
+- [The Journey of React State Management: From Flux Redux Redux Toolkit](https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc)
+- [Critical Security Vulnerability in Next.js & React: CVE-2025-55182 (React2Shell)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/critical-security-vulnerability-in-nextjs-react-cve-2025-55182-react2shell-10oi)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 7, 2025)
+### 2 Days Ago (December 7, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a VFR Flight Weather App with Next.js and Aviation APIs](https://dev.to/mateenali66/building-a-vfr-flight-weather-app-with-nextjs-and-aviation-apis-4m38)
 - [How I built a Search Engine with Next.js and MongoDB in one weekend](https://dev.to/manthan_bhosle_73dff88f77/how-i-built-a-search-engine-with-nextjs-and-mongodb-in-one-weekend-3hdd)
 - [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 2)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 6, 2025)
-
-#### Dev.to JavaScript
-
-- [Hidden Gems in TypeScript - Short Hands, Aliases, and Underutilized Built-ins That Save You Time](https://dev.to/akashjeedigunta/hidden-gems-in-typescript-short-hands-aliases-and-underutilized-built-ins-that-save-you-time-4jmg)
-- [Functions And Arrow Functions](https://dev.to/joorch/functions-and-arrow-functions-4pc9)
-- [🧟‍♂️ Stitching the Spirit: Engineering a "Frankenstein" AI Agent with Kiro & MCP](https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb)
-
-#### Dev.to React
-
-- [Upgrade Your React Apps!!!](https://dev.to/drprime01/upgrade-your-react-apps-5092)
-- [Understanding the React Testing Pipeline (for Beginners)](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
-- [Why Unit Tests in React Catch Bugs the UI Never Shows (Jest Real-World Example)](https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-09",
+    "formattedDate": "December 9, 2025",
+    "news": [
+      {
+        "title": "How to Fix CORS Errors in MERN (The Secure Way)",
+        "link": "https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Journey of React State Management: From Flux Redux Redux Toolkit",
+        "link": "https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Advanced SEO: Everything I Learnt About Anchor Text Optimization from Google Content Warehouse API Docs",
+        "link": "https://dev.to/okabarack/advanced-seo-everything-i-learnt-about-anchor-text-optimization-from-google-content-warehouse-api-23jb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Fix CORS Errors in MERN (The Secure Way)",
+        "link": "https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Journey of React State Management: From Flux Redux Redux Toolkit",
+        "link": "https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Critical Security Vulnerability in Next.js & React: CVE-2025-55182 (React2Shell)",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/critical-security-vulnerability-in-nextjs-react-cve-2025-55182-react2shell-10oi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-08",
     "formattedDate": "December 8, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 2)",
         "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-06",
-    "formattedDate": "December 6, 2025",
-    "news": [
-      {
-        "title": "Hidden Gems in TypeScript - Short Hands, Aliases, and Underutilized Built-ins That Save You Time",
-        "link": "https://dev.to/akashjeedigunta/hidden-gems-in-typescript-short-hands-aliases-and-underutilized-built-ins-that-save-you-time-4jmg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Functions And Arrow Functions",
-        "link": "https://dev.to/joorch/functions-and-arrow-functions-4pc9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧟‍♂️ Stitching the Spirit: Engineering a \"Frankenstein\" AI Agent with Kiro & MCP",
-        "link": "https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Upgrade Your React Apps!!!",
-        "link": "https://dev.to/drprime01/upgrade-your-react-apps-5092",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Understanding the React Testing Pipeline (for Beginners)",
-        "link": "https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Unit Tests in React Catch Bugs the UI Never Shows (Jest Real-World Example)",
-        "link": "https://dev.to/nitinnair89/why-unit-tests-in-react-catch-bugs-the-ui-never-shows-jest-real-world-example-4ak0",
         "source": "Dev.to React"
       },
       {
