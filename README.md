@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 9, 2025)
+### Today's Updates (December 10, 2025)
+
+#### Dev.to JavaScript
+
+- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
+- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h)
+- [Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+
+#### Dev.to React
+
+- [Building a shadcn/ui Style Component Library for Korean Government Design System](https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle)
+- [I Built a State Management Library After Fighting React Server Components for 6 Months](https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7)
+- [🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter & Optimizer (React + Electron) - Desktop App](https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 9, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 8, 2025)
+### 2 Days Ago (December 8, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Build Multi-Language React Apps with Internationalization (i18n)](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
 - [Two People, Same Body: A Developer's Crisis Architecture](https://dev.to/crisiscoresystems/two-people-same-body-a-developers-crisis-architecture-25ko)
 - [React vs Vue vs Svelte — Which One Should You Learn in 2025?](https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 7, 2025)
-
-#### Dev.to JavaScript
-
-- [12 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-8cc)
-- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d)
-- [JavaScript From Zero to Hero: A Complete Guide for Beginners & Intermediates](https://dev.to/farhadrahimiklie/javascript-from-zero-to-hero-a-complete-guide-for-beginners-intermediates-6i1)
-
-#### Dev.to React
-
-- [Building a VFR Flight Weather App with Next.js and Aviation APIs](https://dev.to/mateenali66/building-a-vfr-flight-weather-app-with-nextjs-and-aviation-apis-4m38)
-- [How I built a Search Engine with Next.js and MongoDB in one weekend](https://dev.to/manthan_bhosle_73dff88f77/how-i-built-a-search-engine-with-nextjs-and-mongodb-in-one-weekend-3hdd)
-- [Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 2)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-10",
+    "formattedDate": "December 10, 2025",
+    "news": [
+      {
+        "title": "I Built Everything Fast… Then One Page Destroyed My Confidence",
+        "link": "https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Top 10 Productivity Hacks Every Developer Should Know 🚀",
+        "link": "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀",
+        "link": "https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a shadcn/ui Style Component Library for Korean Government Design System",
+        "link": "https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a State Management Library After Fighting React Server Components for 6 Months",
+        "link": "https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter & Optimizer (React + Electron) - Desktop App",
+        "link": "https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-09",
     "formattedDate": "December 9, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React vs Vue vs Svelte — Which One Should You Learn in 2025?",
         "link": "https://dev.to/roshaan_tahir/react-vs-vue-vs-svelte-which-one-should-you-learn-in-2025-4o8l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-07",
-    "formattedDate": "December 7, 2025",
-    "news": [
-      {
-        "title": "12 Open Source Gems To Become The Ultimate Developer 🔥",
-        "link": "https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-8cc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Is Tailwind actually slow?",
-        "link": "https://dev.to/yoskutik/is-tailwind-actually-slow-533d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript From Zero to Hero: A Complete Guide for Beginners & Intermediates",
-        "link": "https://dev.to/farhadrahimiklie/javascript-from-zero-to-hero-a-complete-guide-for-beginners-intermediates-6i1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a VFR Flight Weather App with Next.js and Aviation APIs",
-        "link": "https://dev.to/mateenali66/building-a-vfr-flight-weather-app-with-nextjs-and-aviation-apis-4m38",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built a Search Engine with Next.js and MongoDB in one weekend",
-        "link": "https://dev.to/manthan_bhosle_73dff88f77/how-i-built-a-search-engine-with-nextjs-and-mongodb-in-one-weekend-3hdd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Advanced Image Optimization in React/Next.js: Device-Based Responsive Images for Peak Performance (Part 2)",
-        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/advanced-image-optimization-in-reactnextjs-device-based-responsive-images-for-peak-performance-3llf",
         "source": "Dev.to React"
       },
       {
