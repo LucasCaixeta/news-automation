@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 11, 2025)
+### Today's Updates (December 12, 2025)
+
+#### Dev.to JavaScript
+
+- [Give your AI Studio deployed app a custom URL](https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f)
+- [The Secret Life of JavaScript: Understanding Closures](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if)
+- [The Secret Life of JavaScript: Understanding Prototypes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn)
+
+#### Dev.to React
+
+- [Introducing hiraku: A type-safe, imperative modal manager for shadcn/ui & Radix UI.](https://dev.to/hirotoshioi/introducing-hiraku-a-type-safe-imperative-modal-manager-for-shadcnui-radix-ui-npj)
+- [Building a Modern Image Gallery with Next.js 16, TypeScript & Unsplash API](https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629)
+- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 10, 2025)
+### 2 Days Ago (December 10, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a shadcn/ui Style Component Library for Korean Government Design System](https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle)
 - [I Built a State Management Library After Fighting React Server Components for 6 Months](https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7)
 - [🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter & Optimizer (React + Electron) - Desktop App](https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 9, 2025)
-
-#### Dev.to JavaScript
-
-- [How to Fix CORS Errors in MERN (The Secure Way)](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k)
-- [The Journey of React State Management: From Flux Redux Redux Toolkit](https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc)
-- [Advanced SEO: Everything I Learnt About Anchor Text Optimization from Google Content Warehouse API Docs](https://dev.to/okabarack/advanced-seo-everything-i-learnt-about-anchor-text-optimization-from-google-content-warehouse-api-23jb)
-
-#### Dev.to React
-
-- [How to Fix CORS Errors in MERN (The Secure Way)](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k)
-- [The Journey of React State Management: From Flux Redux Redux Toolkit](https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc)
-- [Critical Security Vulnerability in Next.js & React: CVE-2025-55182 (React2Shell)](https://dev.to/sizan_mahmud0_e7c3fd0cb68/critical-security-vulnerability-in-nextjs-react-cve-2025-55182-react2shell-10oi)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-12",
+    "formattedDate": "December 12, 2025",
+    "news": [
+      {
+        "title": "Give your AI Studio deployed app a custom URL",
+        "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: Understanding Closures",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: Understanding Prototypes",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Introducing hiraku: A type-safe, imperative modal manager for shadcn/ui & Radix UI.",
+        "link": "https://dev.to/hirotoshioi/introducing-hiraku-a-type-safe-imperative-modal-manager-for-shadcnui-radix-ui-npj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Modern Image Gallery with Next.js 16, TypeScript & Unsplash API",
+        "link": "https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
+        "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-11",
     "formattedDate": "December 11, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter & Optimizer (React + Electron) - Desktop App",
         "link": "https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-09",
-    "formattedDate": "December 9, 2025",
-    "news": [
-      {
-        "title": "How to Fix CORS Errors in MERN (The Secure Way)",
-        "link": "https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Journey of React State Management: From Flux Redux Redux Toolkit",
-        "link": "https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Advanced SEO: Everything I Learnt About Anchor Text Optimization from Google Content Warehouse API Docs",
-        "link": "https://dev.to/okabarack/advanced-seo-everything-i-learnt-about-anchor-text-optimization-from-google-content-warehouse-api-23jb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Fix CORS Errors in MERN (The Secure Way)",
-        "link": "https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Journey of React State Management: From Flux Redux Redux Toolkit",
-        "link": "https://dev.to/imsushant12/the-journey-of-react-state-management-from-flux-redux-redux-toolkit-3mjc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Critical Security Vulnerability in Next.js & React: CVE-2025-55182 (React2Shell)",
-        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/critical-security-vulnerability-in-nextjs-react-cve-2025-55182-react2shell-10oi",
         "source": "Dev.to React"
       },
       {
