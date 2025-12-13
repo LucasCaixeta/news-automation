@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 12, 2025)
+### Today's Updates (December 13, 2025)
+
+#### Dev.to JavaScript
+
+- [Cursor + MCP's | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
+- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g)
+- [System Design: How Random Video Chat Apps Work](https://dev.to/flavius_belisarius_295876/system-design-how-random-video-chat-apps-work-54cn)
+
+#### Dev.to React
+
+- [Reatom: Extensibility Saves the Day](https://dev.to/guria/reatom-extensibility-saves-the-day-595e)
+- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
+- [How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS](https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 12, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 11, 2025)
+### 2 Days Ago (December 11, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Introducing hiraku: A type-safe, imperative modal manager for shadcn/ui & Radix UI.](https://dev.to/hirotoshioi/introducing-hiraku-a-type-safe-imperative-modal-manager-for-shadcnui-radix-ui-npj)
 - [React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!](https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j)
 - [5 Secrets to Perfectly Printed Web Pages](https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 10, 2025)
-
-#### Dev.to JavaScript
-
-- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
-- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h)
-- [Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
-
-#### Dev.to React
-
-- [Building a shadcn/ui Style Component Library for Korean Government Design System](https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle)
-- [I Built a State Management Library After Fighting React Server Components for 6 Months](https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7)
-- [🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter & Optimizer (React + Electron) - Desktop App](https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-13",
+    "formattedDate": "December 13, 2025",
+    "news": [
+      {
+        "title": "Cursor + MCP's | Docker | Strapi v5 | Next JS | Render",
+        "link": "https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.",
+        "link": "https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "System Design: How Random Video Chat Apps Work",
+        "link": "https://dev.to/flavius_belisarius_295876/system-design-how-random-video-chat-apps-work-54cn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Reatom: Extensibility Saves the Day",
+        "link": "https://dev.to/guria/reatom-extensibility-saves-the-day-595e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Security Incident Report: Cryptominer Attack on Next.js Application",
+        "link": "https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS",
+        "link": "https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-12",
     "formattedDate": "December 12, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "5 Secrets to Perfectly Printed Web Pages",
         "link": "https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-10",
-    "formattedDate": "December 10, 2025",
-    "news": [
-      {
-        "title": "I Built Everything Fast… Then One Page Destroyed My Confidence",
-        "link": "https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Top 10 Productivity Hacks Every Developer Should Know 🚀",
-        "link": "https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀",
-        "link": "https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a shadcn/ui Style Component Library for Korean Government Design System",
-        "link": "https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a State Management Library After Fighting React Server Components for 6 Months",
-        "link": "https://dev.to/emiliodominguez/i-built-a-state-management-library-after-fighting-react-server-components-for-6-months-52k7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 Introducing BICO v2.0.0 — The Next-Gen Bulk Image Converter & Optimizer (React + Electron) - Desktop App",
-        "link": "https://dev.to/shehari007/introducing-bico-v200-the-next-gen-bulk-image-converter-optimizer-react-electron--22ee",
         "source": "Dev.to React"
       },
       {
