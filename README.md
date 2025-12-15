@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 14, 2025)
+### Today's Updates (December 15, 2025)
+
+#### Dev.to JavaScript
+
+- [How to integrate Stripe Payments into a chrome extension (step by step)](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
+- [Hono + Preact - The Ultimate Starter for Web Apps I Can Think Of](https://dev.to/keplerjst/hono-preact-the-ultimate-starter-for-web-apps-i-can-think-of-12kc)
+- [The Secret Life of JavaScript: Currying vs. Partial Application](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c)
+
+#### Dev.to React
+
+- [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
+- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
+- [React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem](https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 13, 2025)
+### 2 Days Ago (December 13, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Reatom: Extensibility Saves the Day](https://dev.to/guria/reatom-extensibility-saves-the-day-595e)
 - [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
 - [How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS](https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 12, 2025)
-
-#### Dev.to JavaScript
-
-- [Give your AI Studio deployed app a custom URL](https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f)
-- [The Secret Life of JavaScript: Understanding Closures](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if)
-- [The Secret Life of JavaScript: Understanding Prototypes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn)
-
-#### Dev.to React
-
-- [Introducing hiraku: A type-safe, imperative modal manager for shadcn/ui & Radix UI.](https://dev.to/hirotoshioi/introducing-hiraku-a-type-safe-imperative-modal-manager-for-shadcnui-radix-ui-npj)
-- [Building a Modern Image Gallery with Next.js 16, TypeScript & Unsplash API](https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629)
-- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-15",
+    "formattedDate": "December 15, 2025",
+    "news": [
+      {
+        "title": "How to integrate Stripe Payments into a chrome extension (step by step)",
+        "link": "https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Hono + Preact - The Ultimate Starter for Web Apps I Can Think Of",
+        "link": "https://dev.to/keplerjst/hono-preact-the-ultimate-starter-for-web-apps-i-can-think-of-12kc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: Currying vs. Partial Application",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond Next.js: TanStack Start and the Future of Full-Stack React Development",
+        "link": "https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Deploy TanStack Start with SQLite to Your Own Server",
+        "link": "https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem",
+        "link": "https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-14",
     "formattedDate": "December 14, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS",
         "link": "https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-12",
-    "formattedDate": "December 12, 2025",
-    "news": [
-      {
-        "title": "Give your AI Studio deployed app a custom URL",
-        "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: Understanding Closures",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: Understanding Prototypes",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introducing hiraku: A type-safe, imperative modal manager for shadcn/ui & Radix UI.",
-        "link": "https://dev.to/hirotoshioi/introducing-hiraku-a-type-safe-imperative-modal-manager-for-shadcnui-radix-ui-npj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Modern Image Gallery with Next.js 16, TypeScript & Unsplash API",
-        "link": "https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
-        "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
         "source": "Dev.to React"
       },
       {
