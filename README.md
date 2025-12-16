@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 15, 2025)
+### Today's Updates (December 16, 2025)
+
+#### Dev.to JavaScript
+
+- [Your Site Works in Chrome. Congrats, You've Alienated 15% of Users](https://dev.to/polliog/your-site-works-in-chrome-congrats-youve-alienated-15-of-users-4hoc)
+- [First-Class Functions in JavaScript](https://dev.to/travisfont/first-class-functions-in-javascript-4dia)
+- [Styling and Attributes with the new Snap.svg (Basics - part 2)](https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda)
+
+#### Dev.to React
+
+- [Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear](https://dev.to/bishoy_semsem/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-23gp)
+- [I Launched a UI Library, Got 100+ Downloads But AI Couldn’t Understand My Docs](https://dev.to/iamnavneet/i-launched-a-ui-library-got-100-downloads-but-ai-couldnt-understand-my-docs-41da)
+- [Building No-Code Excel-like Tables: Implementing Drag & Drop UI](https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 14, 2025)
+### 2 Days Ago (December 14, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
 - [Lessons Learned from the React2Shell Vulnerability (December 3, 2025)](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
 - [Start Here: PainTracker + CrisisCore Build Log (Privacy-First, Offline-First, No Surveillance)](https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 13, 2025)
-
-#### Dev.to JavaScript
-
-- [Cursor + MCP's | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
-- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g)
-- [System Design: How Random Video Chat Apps Work](https://dev.to/flavius_belisarius_295876/system-design-how-random-video-chat-apps-work-54cn)
-
-#### Dev.to React
-
-- [Reatom: Extensibility Saves the Day](https://dev.to/guria/reatom-extensibility-saves-the-day-595e)
-- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
-- [How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS](https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-16",
+    "formattedDate": "December 16, 2025",
+    "news": [
+      {
+        "title": "Your Site Works in Chrome. Congrats, You've Alienated 15% of Users",
+        "link": "https://dev.to/polliog/your-site-works-in-chrome-congrats-youve-alienated-15-of-users-4hoc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "First-Class Functions in JavaScript",
+        "link": "https://dev.to/travisfont/first-class-functions-in-javascript-4dia",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Styling and Attributes with the new Snap.svg (Basics - part 2)",
+        "link": "https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear",
+        "link": "https://dev.to/bishoy_semsem/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-23gp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Launched a UI Library, Got 100+ Downloads But AI Couldn’t Understand My Docs",
+        "link": "https://dev.to/iamnavneet/i-launched-a-ui-library-got-100-downloads-but-ai-couldnt-understand-my-docs-41da",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building No-Code Excel-like Tables: Implementing Drag & Drop UI",
+        "link": "https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-15",
     "formattedDate": "December 15, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Start Here: PainTracker + CrisisCore Build Log (Privacy-First, Offline-First, No Surveillance)",
         "link": "https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-13",
-    "formattedDate": "December 13, 2025",
-    "news": [
-      {
-        "title": "Cursor + MCP's | Docker | Strapi v5 | Next JS | Render",
-        "link": "https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.",
-        "link": "https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "System Design: How Random Video Chat Apps Work",
-        "link": "https://dev.to/flavius_belisarius_295876/system-design-how-random-video-chat-apps-work-54cn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Reatom: Extensibility Saves the Day",
-        "link": "https://dev.to/guria/reatom-extensibility-saves-the-day-595e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Security Incident Report: Cryptominer Attack on Next.js Application",
-        "link": "https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to build Modern Web Apps: Laravel 12 + InertiaJS + ReactJS",
-        "link": "https://dev.to/dineshstack/how-to-build-modern-web-apps-laravel-12-inertiajs-reactjs-1c5m",
         "source": "Dev.to React"
       },
       {
