@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 16, 2025)
+### Today's Updates (December 17, 2025)
+
+#### Dev.to JavaScript
+
+- [Rebuilding a Web Text Editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
+- [Mastering Rive Animation: A Complete Guide for React Developers](https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1)
+- [Exploring Asynchronous Iterators and Iterables in JavaScript](https://dev.to/sizan_mahmud0_e7c3fd0cb68/exploring-asynchronous-iterators-and-iterables-in-javascript-2ph7)
+
+#### Dev.to React
+
+- [Taming OpenLayers Events in React: Why the Observer Pattern Is Your Best Friend](https://dev.to/dgseo/taming-openlayers-events-in-react-why-the-observer-pattern-is-your-best-friend-16bf)
+- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
+- [Privacy-Preserving Analytics: Proving You Can Measure Without Identity](https://dev.to/crisiscoresystems/testing-privacy-preserving-analytics-verifying-that-insights-dont-leak-identity-e37)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 15, 2025)
+### 2 Days Ago (December 15, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
 - [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
 - [React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem](https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 14, 2025)
-
-#### Dev.to JavaScript
-
-- [I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
-- [How I Built a Multi-Tenant Static Site Engine with Next.js, Nginx, and Coolify](https://dev.to/bobysf12/how-i-built-a-multi-tenant-static-site-engine-with-nextjs-nginx-and-coolify-10mm)
-- [AI as a Pair Programmer: How I Built depx in One Day](https://dev.to/ruidosujeira/ai-as-a-pair-programmer-how-i-built-depx-in-one-day-2m0i)
-
-#### Dev.to React
-
-- [I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
-- [Lessons Learned from the React2Shell Vulnerability (December 3, 2025)](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
-- [Start Here: PainTracker + CrisisCore Build Log (Privacy-First, Offline-First, No Surveillance)](https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-17",
+    "formattedDate": "December 17, 2025",
+    "news": [
+      {
+        "title": "Rebuilding a Web Text Editor",
+        "link": "https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering Rive Animation: A Complete Guide for React Developers",
+        "link": "https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Exploring Asynchronous Iterators and Iterables in JavaScript",
+        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/exploring-asynchronous-iterators-and-iterables-in-javascript-2ph7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Taming OpenLayers Events in React: Why the Observer Pattern Is Your Best Friend",
+        "link": "https://dev.to/dgseo/taming-openlayers-events-in-react-why-the-observer-pattern-is-your-best-friend-16bf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From a Pyodide Wrapper to an Edge AI Engine",
+        "link": "https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Privacy-Preserving Analytics: Proving You Can Measure Without Identity",
+        "link": "https://dev.to/crisiscoresystems/testing-privacy-preserving-analytics-verifying-that-insights-dont-leak-identity-e37",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-16",
     "formattedDate": "December 16, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem",
         "link": "https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-14",
-    "formattedDate": "December 14, 2025",
-    "news": [
-      {
-        "title": "I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀",
-        "link": "https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Multi-Tenant Static Site Engine with Next.js, Nginx, and Coolify",
-        "link": "https://dev.to/bobysf12/how-i-built-a-multi-tenant-static-site-engine-with-nextjs-nginx-and-coolify-10mm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "AI as a Pair Programmer: How I Built depx in One Day",
-        "link": "https://dev.to/ruidosujeira/ai-as-a-pair-programmer-how-i-built-depx-in-one-day-2m0i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀",
-        "link": "https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Lessons Learned from the React2Shell Vulnerability (December 3, 2025)",
-        "link": "https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Start Here: PainTracker + CrisisCore Build Log (Privacy-First, Offline-First, No Surveillance)",
-        "link": "https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k",
         "source": "Dev.to React"
       },
       {
