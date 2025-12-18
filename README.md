@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 17, 2025)
+### Today's Updates (December 18, 2025)
+
+#### Dev.to JavaScript
+
+- [Stop treating your AI like a goldfish. Here is how to give it long-term memory.](https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la)
+- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
+- [Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉](https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c)
+
+#### Dev.to React
+
+- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
+- [React useContext for Beginners: Passing Data Without Props](https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg)
+- [Load Balancer vs API Gateway (can one replace other)](https://dev.to/bishoy_semsem/load-balancer-vs-api-gateway-can-one-replace-other-97p)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 16, 2025)
+### 2 Days Ago (December 16, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear](https://dev.to/bishoy_semsem/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-23gp)
 - [I Launched a UI Library, Got 100+ Downloads But AI Couldn’t Understand My Docs](https://dev.to/iamnavneet/i-launched-a-ui-library-got-100-downloads-but-ai-couldnt-understand-my-docs-41da)
 - [Building No-Code Excel-like Tables: Implementing Drag & Drop UI](https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 15, 2025)
-
-#### Dev.to JavaScript
-
-- [How to integrate Stripe Payments into a chrome extension (step by step)](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
-- [Hono + Preact - The Ultimate Starter for Web Apps I Can Think Of](https://dev.to/keplerjst/hono-preact-the-ultimate-starter-for-web-apps-i-can-think-of-12kc)
-- [The Secret Life of JavaScript: Currying vs. Partial Application](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c)
-
-#### Dev.to React
-
-- [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
-- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
-- [React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem](https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-18",
+    "formattedDate": "December 18, 2025",
+    "news": [
+      {
+        "title": "Stop treating your AI like a goldfish. Here is how to give it long-term memory.",
+        "link": "https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "❄️A Five-Minute UI Feature That Became an XSS Time Bomb",
+        "link": "https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
+        "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Build a Full-Stack App With TanStack Start and MongoDB",
+        "link": "https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useContext for Beginners: Passing Data Without Props",
+        "link": "https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Load Balancer vs API Gateway (can one replace other)",
+        "link": "https://dev.to/bishoy_semsem/load-balancer-vs-api-gateway-can-one-replace-other-97p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-17",
     "formattedDate": "December 17, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building No-Code Excel-like Tables: Implementing Drag & Drop UI",
         "link": "https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-15",
-    "formattedDate": "December 15, 2025",
-    "news": [
-      {
-        "title": "How to integrate Stripe Payments into a chrome extension (step by step)",
-        "link": "https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Hono + Preact - The Ultimate Starter for Web Apps I Can Think Of",
-        "link": "https://dev.to/keplerjst/hono-preact-the-ultimate-starter-for-web-apps-i-can-think-of-12kc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: Currying vs. Partial Application",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beyond Next.js: TanStack Start and the Future of Full-Stack React Development",
-        "link": "https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Deploy TanStack Start with SQLite to Your Own Server",
-        "link": "https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem",
-        "link": "https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb",
         "source": "Dev.to React"
       },
       {
