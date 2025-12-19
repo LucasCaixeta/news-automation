@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 18, 2025)
+### Today's Updates (December 19, 2025)
+
+#### Dev.to JavaScript
+
+- [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
+- [Kiro's Agentic IDE: Hype, Hope and Hard Truths](https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi)
+- [Debugging IA slop is the future?](https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6)
+
+#### Dev.to React
+
+- [TypeScript Strict Mode in Practice: Catching Bugs with Type Safety](https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-3kbk)
+- [What the React 2025 Vulnerability Taught Me About Solo Dev Security](https://dev.to/pipipi-dev/what-the-react-2025-vulnerability-taught-me-about-solo-dev-security-4hbl)
+- [React + TypeScript: Best Practices You Should Know](https://dev.to/onextdigital2025/react-typescript-best-practices-you-should-know-38n8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 17, 2025)
+### 2 Days Ago (December 17, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Taming OpenLayers Events in React: Why the Observer Pattern Is Your Best Friend](https://dev.to/dgseo/taming-openlayers-events-in-react-why-the-observer-pattern-is-your-best-friend-16bf)
 - [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
 - [Privacy-Preserving Analytics: Proving You Can Measure Without Identity](https://dev.to/crisiscoresystems/testing-privacy-preserving-analytics-verifying-that-insights-dont-leak-identity-e37)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 16, 2025)
-
-#### Dev.to JavaScript
-
-- [Your Site Works in Chrome. Congrats, You've Alienated 15% of Users](https://dev.to/polliog/your-site-works-in-chrome-congrats-youve-alienated-15-of-users-4hoc)
-- [First-Class Functions in JavaScript](https://dev.to/travisfont/first-class-functions-in-javascript-4dia)
-- [Styling and Attributes with the new Snap.svg (Basics - part 2)](https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda)
-
-#### Dev.to React
-
-- [Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear](https://dev.to/bishoy_semsem/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-23gp)
-- [I Launched a UI Library, Got 100+ Downloads But AI Couldn’t Understand My Docs](https://dev.to/iamnavneet/i-launched-a-ui-library-got-100-downloads-but-ai-couldnt-understand-my-docs-41da)
-- [Building No-Code Excel-like Tables: Implementing Drag & Drop UI](https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-19",
+    "formattedDate": "December 19, 2025",
+    "news": [
+      {
+        "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
+        "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
+        "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Debugging IA slop is the future?",
+        "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript Strict Mode in Practice: Catching Bugs with Type Safety",
+        "link": "https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-3kbk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What the React 2025 Vulnerability Taught Me About Solo Dev Security",
+        "link": "https://dev.to/pipipi-dev/what-the-react-2025-vulnerability-taught-me-about-solo-dev-security-4hbl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React + TypeScript: Best Practices You Should Know",
+        "link": "https://dev.to/onextdigital2025/react-typescript-best-practices-you-should-know-38n8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-18",
     "formattedDate": "December 18, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Privacy-Preserving Analytics: Proving You Can Measure Without Identity",
         "link": "https://dev.to/crisiscoresystems/testing-privacy-preserving-analytics-verifying-that-insights-dont-leak-identity-e37",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-16",
-    "formattedDate": "December 16, 2025",
-    "news": [
-      {
-        "title": "Your Site Works in Chrome. Congrats, You've Alienated 15% of Users",
-        "link": "https://dev.to/polliog/your-site-works-in-chrome-congrats-youve-alienated-15-of-users-4hoc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "First-Class Functions in JavaScript",
-        "link": "https://dev.to/travisfont/first-class-functions-in-javascript-4dia",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Styling and Attributes with the new Snap.svg (Basics - part 2)",
-        "link": "https://dev.to/o_vakarelov/styling-and-attributes-with-the-new-snapsvg-basics-part-2-2gda",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Technical Deep Dive: How React Server Components Work and Where the Vulnerabilities Appear",
-        "link": "https://dev.to/bishoy_semsem/technical-deep-dive-how-react-server-components-work-and-where-the-vulnerabilities-appear-23gp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Launched a UI Library, Got 100+ Downloads But AI Couldn’t Understand My Docs",
-        "link": "https://dev.to/iamnavneet/i-launched-a-ui-library-got-100-downloads-but-ai-couldnt-understand-my-docs-41da",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building No-Code Excel-like Tables: Implementing Drag & Drop UI",
-        "link": "https://dev.to/pipipi-dev/building-no-code-excel-like-tables-implementing-drag-drop-ui-3e9n",
         "source": "Dev.to React"
       },
       {
