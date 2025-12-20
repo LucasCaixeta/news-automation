@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 19, 2025)
+### Today's Updates (December 20, 2025)
+
+#### Dev.to JavaScript
+
+- [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
+- [The Secret Life of JavaScript: The Power of Function Composition](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb)
+- [I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!](https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83)
+
+#### Dev.to React
+
+- [I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!](https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83)
+- [Carific.ai: Breaking the Type Hammer - Domain Model Architecture for Live PDF Preview](https://dev.to/abdullahjan/carificai-breaking-the-type-hammer-domain-model-architecture-for-live-pdf-preview-n1k)
+- [Plyr-react V6](https://dev.to/chintan121/plyr-react-v6-3o33)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 18, 2025)
+### 2 Days Ago (December 18, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
 - [React useContext for Beginners: Passing Data Without Props](https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg)
 - [Load Balancer vs API Gateway (can one replace other)](https://dev.to/bishoy_semsem/load-balancer-vs-api-gateway-can-one-replace-other-97p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 17, 2025)
-
-#### Dev.to JavaScript
-
-- [Rebuilding a Web Text Editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
-- [Mastering Rive Animation: A Complete Guide for React Developers](https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1)
-- [Exploring Asynchronous Iterators and Iterables in JavaScript](https://dev.to/sizan_mahmud0_e7c3fd0cb68/exploring-asynchronous-iterators-and-iterables-in-javascript-2ph7)
-
-#### Dev.to React
-
-- [Taming OpenLayers Events in React: Why the Observer Pattern Is Your Best Friend](https://dev.to/dgseo/taming-openlayers-events-in-react-why-the-observer-pattern-is-your-best-friend-16bf)
-- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
-- [Privacy-Preserving Analytics: Proving You Can Measure Without Identity](https://dev.to/crisiscoresystems/testing-privacy-preserving-analytics-verifying-that-insights-dont-leak-identity-e37)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-20",
+    "formattedDate": "December 20, 2025",
+    "news": [
+      {
+        "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
+        "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: The Power of Function Composition",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+        "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+        "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Carific.ai: Breaking the Type Hammer - Domain Model Architecture for Live PDF Preview",
+        "link": "https://dev.to/abdullahjan/carificai-breaking-the-type-hammer-domain-model-architecture-for-live-pdf-preview-n1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Plyr-react V6",
+        "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-19",
     "formattedDate": "December 19, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Load Balancer vs API Gateway (can one replace other)",
         "link": "https://dev.to/bishoy_semsem/load-balancer-vs-api-gateway-can-one-replace-other-97p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-17",
-    "formattedDate": "December 17, 2025",
-    "news": [
-      {
-        "title": "Rebuilding a Web Text Editor",
-        "link": "https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering Rive Animation: A Complete Guide for React Developers",
-        "link": "https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Exploring Asynchronous Iterators and Iterables in JavaScript",
-        "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/exploring-asynchronous-iterators-and-iterables-in-javascript-2ph7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Taming OpenLayers Events in React: Why the Observer Pattern Is Your Best Friend",
-        "link": "https://dev.to/dgseo/taming-openlayers-events-in-react-why-the-observer-pattern-is-your-best-friend-16bf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From a Pyodide Wrapper to an Edge AI Engine",
-        "link": "https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Privacy-Preserving Analytics: Proving You Can Measure Without Identity",
-        "link": "https://dev.to/crisiscoresystems/testing-privacy-preserving-analytics-verifying-that-insights-dont-leak-identity-e37",
         "source": "Dev.to React"
       },
       {
