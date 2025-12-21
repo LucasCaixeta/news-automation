@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 20, 2025)
+### Today's Updates (December 21, 2025)
+
+#### Dev.to JavaScript
+
+- [The Secret Life of JavaScript: Asynchrony](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f)
+- [How I built a Serverless PDF Editor with Vanilla JS (and $0 cloud bills)](https://dev.to/remolinator/how-i-built-a-serverless-pdf-editor-with-vanilla-js-and-0-cloud-bills-554b)
+- [Frontend System Design: Redux Toolkit vs Zustand vs Jotai](https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn)
+
+#### Dev.to React
+
+- [React Fragments Explained: How to Group Elements Without Extra DOM Nodes](https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a)
+- [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
+- [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 19, 2025)
+### 2 Days Ago (December 19, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TypeScript Strict Mode in Practice: Catching Bugs with Type Safety](https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-3kbk)
 - [What the React 2025 Vulnerability Taught Me About Solo Dev Security](https://dev.to/pipipi-dev/what-the-react-2025-vulnerability-taught-me-about-solo-dev-security-4hbl)
 - [React + TypeScript: Best Practices You Should Know](https://dev.to/onextdigital2025/react-typescript-best-practices-you-should-know-38n8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 18, 2025)
-
-#### Dev.to JavaScript
-
-- [Stop treating your AI like a goldfish. Here is how to give it long-term memory.](https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la)
-- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
-- [Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉](https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c)
-
-#### Dev.to React
-
-- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
-- [React useContext for Beginners: Passing Data Without Props](https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg)
-- [Load Balancer vs API Gateway (can one replace other)](https://dev.to/bishoy_semsem/load-balancer-vs-api-gateway-can-one-replace-other-97p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-21",
+    "formattedDate": "December 21, 2025",
+    "news": [
+      {
+        "title": "The Secret Life of JavaScript: Asynchrony",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built a Serverless PDF Editor with Vanilla JS (and $0 cloud bills)",
+        "link": "https://dev.to/remolinator/how-i-built-a-serverless-pdf-editor-with-vanilla-js-and-0-cloud-bills-554b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Frontend System Design: Redux Toolkit vs Zustand vs Jotai",
+        "link": "https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Fragments Explained: How to Group Elements Without Extra DOM Nodes",
+        "link": "https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "MV-VI Pattern: Domain-Centric Design for Frontend Applications",
+        "link": "https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Ultimate React Hooks Guide",
+        "link": "https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-20",
     "formattedDate": "December 20, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React + TypeScript: Best Practices You Should Know",
         "link": "https://dev.to/onextdigital2025/react-typescript-best-practices-you-should-know-38n8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-18",
-    "formattedDate": "December 18, 2025",
-    "news": [
-      {
-        "title": "Stop treating your AI like a goldfish. Here is how to give it long-term memory.",
-        "link": "https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "❄️A Five-Minute UI Feature That Became an XSS Time Bomb",
-        "link": "https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
-        "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Build a Full-Stack App With TanStack Start and MongoDB",
-        "link": "https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React useContext for Beginners: Passing Data Without Props",
-        "link": "https://dev.to/michi0808/react-usecontext-for-beginners-passing-data-without-props-42lg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Load Balancer vs API Gateway (can one replace other)",
-        "link": "https://dev.to/bishoy_semsem/load-balancer-vs-api-gateway-can-one-replace-other-97p",
         "source": "Dev.to React"
       },
       {
