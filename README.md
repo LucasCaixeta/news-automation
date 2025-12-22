@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 21, 2025)
+### Today's Updates (December 22, 2025)
+
+#### Dev.to JavaScript
+
+- [Local vs Sync vs Session: Which Chrome Extension Storage Should You Use?](https://dev.to/notearthian/local-vs-sync-vs-session-which-chrome-extension-storage-should-you-use-5ec8)
+- [Joshua-Paul Meme Generator](https://dev.to/alvaromontoro/joshua-paul-meme-generator-4i3f)
+- [Telegram Bots Are Useful — But at What Cost to Privacy?](https://dev.to/syed_iqbal_ahammad/telegram-bots-are-useful-but-at-what-cost-to-privacy-3o38)
+
+#### Dev.to React
+
+- [How to Increase and Optimize Performance in a React Application](https://dev.to/wandanamaddumage/how-to-increase-and-optimize-performance-in-a-react-application-1d59)
+- [What I Learned Today About React Rendering](https://dev.to/usama_dev/what-i-learned-today-about-react-rendering-3aof)
+- [BookHive: Building a Community-Driven Book Sharing Platform with React & Node.js](https://dev.to/isocyanideisgood/bookhive-building-a-community-driven-book-sharing-platform-with-react-nodejs-2p1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 20, 2025)
+### 2 Days Ago (December 20, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!](https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83)
 - [Carific.ai: Breaking the Type Hammer - Domain Model Architecture for Live PDF Preview](https://dev.to/abdullahjan/carificai-breaking-the-type-hammer-domain-model-architecture-for-live-pdf-preview-n1k)
 - [Plyr-react V6](https://dev.to/chintan121/plyr-react-v6-3o33)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 19, 2025)
-
-#### Dev.to JavaScript
-
-- [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
-- [Kiro's Agentic IDE: Hype, Hope and Hard Truths](https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi)
-- [Debugging IA slop is the future?](https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6)
-
-#### Dev.to React
-
-- [TypeScript Strict Mode in Practice: Catching Bugs with Type Safety](https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-3kbk)
-- [What the React 2025 Vulnerability Taught Me About Solo Dev Security](https://dev.to/pipipi-dev/what-the-react-2025-vulnerability-taught-me-about-solo-dev-security-4hbl)
-- [React + TypeScript: Best Practices You Should Know](https://dev.to/onextdigital2025/react-typescript-best-practices-you-should-know-38n8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-22",
+    "formattedDate": "December 22, 2025",
+    "news": [
+      {
+        "title": "Local vs Sync vs Session: Which Chrome Extension Storage Should You Use?",
+        "link": "https://dev.to/notearthian/local-vs-sync-vs-session-which-chrome-extension-storage-should-you-use-5ec8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Joshua-Paul Meme Generator",
+        "link": "https://dev.to/alvaromontoro/joshua-paul-meme-generator-4i3f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Telegram Bots Are Useful — But at What Cost to Privacy?",
+        "link": "https://dev.to/syed_iqbal_ahammad/telegram-bots-are-useful-but-at-what-cost-to-privacy-3o38",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Increase and Optimize Performance in a React Application",
+        "link": "https://dev.to/wandanamaddumage/how-to-increase-and-optimize-performance-in-a-react-application-1d59",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What I Learned Today About React Rendering",
+        "link": "https://dev.to/usama_dev/what-i-learned-today-about-react-rendering-3aof",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "BookHive: Building a Community-Driven Book Sharing Platform with React & Node.js",
+        "link": "https://dev.to/isocyanideisgood/bookhive-building-a-community-driven-book-sharing-platform-with-react-nodejs-2p1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-21",
     "formattedDate": "December 21, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Plyr-react V6",
         "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-19",
-    "formattedDate": "December 19, 2025",
-    "news": [
-      {
-        "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
-        "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
-        "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Debugging IA slop is the future?",
-        "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript Strict Mode in Practice: Catching Bugs with Type Safety",
-        "link": "https://dev.to/pipipi-dev/typescript-strict-mode-in-practice-catching-bugs-with-type-safety-3kbk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What the React 2025 Vulnerability Taught Me About Solo Dev Security",
-        "link": "https://dev.to/pipipi-dev/what-the-react-2025-vulnerability-taught-me-about-solo-dev-security-4hbl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React + TypeScript: Best Practices You Should Know",
-        "link": "https://dev.to/onextdigital2025/react-typescript-best-practices-you-should-know-38n8",
         "source": "Dev.to React"
       },
       {
