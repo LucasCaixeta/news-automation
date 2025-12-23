@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 22, 2025)
+### Today's Updates (December 23, 2025)
+
+#### Dev.to JavaScript
+
+- [Making AI Code Consistent with Linters](https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl)
+- [Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js & vendor.chunk.js](https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj)
+- [I Stopped Using useEffect for Data Fetching in React](https://dev.to/ferryops/i-stopped-using-useeffect-for-data-fetching-in-react-3ahn)
+
+#### Dev.to React
+
+- [Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js & vendor.chunk.js](https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj)
+- [I Stopped Using useEffect for Data Fetching in React](https://dev.to/ferryops/i-stopped-using-useeffect-for-data-fetching-in-react-3ahn)
+- [React Coding Challenge : Virtualize List - Restrict DOM element](https://dev.to/zeeshanali0704/react-coding-challenge-virtualized-list-1joh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 22, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 21, 2025)
+### 2 Days Ago (December 21, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Fragments Explained: How to Group Elements Without Extra DOM Nodes](https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a)
 - [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
 - [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 20, 2025)
-
-#### Dev.to JavaScript
-
-- [Congrats to the Frontend Challenge: Halloween Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg)
-- [The Secret Life of JavaScript: The Power of Function Composition](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb)
-- [I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!](https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83)
-
-#### Dev.to React
-
-- [I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!](https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83)
-- [Carific.ai: Breaking the Type Hammer - Domain Model Architecture for Live PDF Preview](https://dev.to/abdullahjan/carificai-breaking-the-type-hammer-domain-model-architecture-for-live-pdf-preview-n1k)
-- [Plyr-react V6](https://dev.to/chintan121/plyr-react-v6-3o33)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-23",
+    "formattedDate": "December 23, 2025",
+    "news": [
+      {
+        "title": "Making AI Code Consistent with Linters",
+        "link": "https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js & vendor.chunk.js",
+        "link": "https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Stopped Using useEffect for Data Fetching in React",
+        "link": "https://dev.to/ferryops/i-stopped-using-useeffect-for-data-fetching-in-react-3ahn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js & vendor.chunk.js",
+        "link": "https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Stopped Using useEffect for Data Fetching in React",
+        "link": "https://dev.to/ferryops/i-stopped-using-useeffect-for-data-fetching-in-react-3ahn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Coding Challenge : Virtualize List - Restrict DOM element",
+        "link": "https://dev.to/zeeshanali0704/react-coding-challenge-virtualized-list-1joh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-22",
     "formattedDate": "December 22, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Ultimate React Hooks Guide",
         "link": "https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-20",
-    "formattedDate": "December 20, 2025",
-    "news": [
-      {
-        "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
-        "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: The Power of Function Composition",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
-        "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
-        "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Carific.ai: Breaking the Type Hammer - Domain Model Architecture for Live PDF Preview",
-        "link": "https://dev.to/abdullahjan/carificai-breaking-the-type-hammer-domain-model-architecture-for-live-pdf-preview-n1k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Plyr-react V6",
-        "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
         "source": "Dev.to React"
       },
       {
