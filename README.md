@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 23, 2025)
+### Today's Updates (December 24, 2025)
+
+#### Dev.to JavaScript
+
+- [I Built a Server Library for Bun (and got carried away)](https://dev.to/wess/i-built-a-server-library-for-bun-and-got-carried-away-4985)
+- [Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit](https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o)
+- [Everything in Software Is a Pyramid (Whether You Like It or Not)](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
+
+#### Dev.to React
+
+- [How a Serialization Flaw in React 19 Server Components Led to Remote Code Execution](https://dev.to/shibly_noman_b3dcb93c0227/how-a-serialization-flaw-in-react-19-server-components-led-to-remote-code-execution-3h0e)
+- [Mitigating the React Server Components RCE (CVE-2025-55182)](https://dev.to/carrie_luo1/mitigating-the-react-server-components-rce-cve-2025-55182-18gi)
+- [My stack: Next.js 15 + Tailwind 4 + Biome (and why I chose depth over speed)](https://dev.to/superhuang2/my-stack-nextjs-15-tailwind-4-biome-and-why-i-chose-depth-over-speed-382k)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 23, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 22, 2025)
+### 2 Days Ago (December 22, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Increase and Optimize Performance in a React Application](https://dev.to/wandanamaddumage/how-to-increase-and-optimize-performance-in-a-react-application-1d59)
 - [What I Learned Today About React Rendering](https://dev.to/usama_dev/what-i-learned-today-about-react-rendering-3aof)
 - [BookHive: Building a Community-Driven Book Sharing Platform with React & Node.js](https://dev.to/isocyanideisgood/bookhive-building-a-community-driven-book-sharing-platform-with-react-nodejs-2p1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 21, 2025)
-
-#### Dev.to JavaScript
-
-- [The Secret Life of JavaScript: Asynchrony](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f)
-- [How I built a Serverless PDF Editor with Vanilla JS (and $0 cloud bills)](https://dev.to/remolinator/how-i-built-a-serverless-pdf-editor-with-vanilla-js-and-0-cloud-bills-554b)
-- [Frontend System Design: Redux Toolkit vs Zustand vs Jotai](https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn)
-
-#### Dev.to React
-
-- [React Fragments Explained: How to Group Elements Without Extra DOM Nodes](https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a)
-- [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
-- [Ultimate React Hooks Guide](https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-24",
+    "formattedDate": "December 24, 2025",
+    "news": [
+      {
+        "title": "I Built a Server Library for Bun (and got carried away)",
+        "link": "https://dev.to/wess/i-built-a-server-library-for-bun-and-got-carried-away-4985",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit",
+        "link": "https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Everything in Software Is a Pyramid (Whether You Like It or Not)",
+        "link": "https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How a Serialization Flaw in React 19 Server Components Led to Remote Code Execution",
+        "link": "https://dev.to/shibly_noman_b3dcb93c0227/how-a-serialization-flaw-in-react-19-server-components-led-to-remote-code-execution-3h0e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mitigating the React Server Components RCE (CVE-2025-55182)",
+        "link": "https://dev.to/carrie_luo1/mitigating-the-react-server-components-rce-cve-2025-55182-18gi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My stack: Next.js 15 + Tailwind 4 + Biome (and why I chose depth over speed)",
+        "link": "https://dev.to/superhuang2/my-stack-nextjs-15-tailwind-4-biome-and-why-i-chose-depth-over-speed-382k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-23",
     "formattedDate": "December 23, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "BookHive: Building a Community-Driven Book Sharing Platform with React & Node.js",
         "link": "https://dev.to/isocyanideisgood/bookhive-building-a-community-driven-book-sharing-platform-with-react-nodejs-2p1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-21",
-    "formattedDate": "December 21, 2025",
-    "news": [
-      {
-        "title": "The Secret Life of JavaScript: Asynchrony",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I built a Serverless PDF Editor with Vanilla JS (and $0 cloud bills)",
-        "link": "https://dev.to/remolinator/how-i-built-a-serverless-pdf-editor-with-vanilla-js-and-0-cloud-bills-554b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Frontend System Design: Redux Toolkit vs Zustand vs Jotai",
-        "link": "https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Fragments Explained: How to Group Elements Without Extra DOM Nodes",
-        "link": "https://dev.to/ahmad_mahboob/react-fragments-explained-how-to-group-elements-without-extra-dom-nodes-378a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MV-VI Pattern: Domain-Centric Design for Frontend Applications",
-        "link": "https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Ultimate React Hooks Guide",
-        "link": "https://dev.to/tenelabs/ultimate-react-hooks-guide-15e1",
         "source": "Dev.to React"
       },
       {
