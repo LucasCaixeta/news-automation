@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 26, 2025)
+### Today's Updates (December 27, 2025)
+
+#### Dev.to JavaScript
+
+- [I stopped reading code and started mapping it (and it saved my sanity)](https://dev.to/thelivingalgorithms/i-stopped-reading-code-and-started-mapping-it-and-it-saved-my-sanity-2fdb)
+- [Building an SPA, Real-Time Trading Platform with Vanilla PHP & JavaScript](https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik)
+- [Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples](https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm)
+
+#### Dev.to React
+
+- [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
+- [I used Linear Algebra to audit my React state (and built a tool for it)](https://dev.to/petar_liovic_9fb912bdc228/i-used-linear-algebra-to-audit-my-react-state-and-built-a-tool-for-it-280b)
+- [Sketch‑Programming (LLM Transpiler) — what is it?](https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 26, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 25, 2025)
+### 2 Days Ago (December 25, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Missing “M” in React: I Built Zenith to Restore a Real Model Layer](https://dev.to/domd_16/the-missing-m-in-react-i-built-zenith-to-restore-a-real-model-layer-2h35)
 - [Carific.ai: The Last 10% - Production Hardening with React 19, Privacy Safeguards, and Memory Leak Fixes](https://dev.to/abdullahjan/carificai-the-last-10-production-hardening-with-react-19-privacy-safeguards-and-memory-leak-188e)
 - [How to Use Bootstrap in a React Project (Beginner Guide)](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 24, 2025)
-
-#### Dev.to JavaScript
-
-- [I Built a Server Library for Bun (and got carried away)](https://dev.to/wess/i-built-a-server-library-for-bun-and-got-carried-away-4985)
-- [Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit](https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o)
-- [Everything in Software Is a Pyramid (Whether You Like It or Not)](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
-
-#### Dev.to React
-
-- [How a Serialization Flaw in React 19 Server Components Led to Remote Code Execution](https://dev.to/shibly_noman_b3dcb93c0227/how-a-serialization-flaw-in-react-19-server-components-led-to-remote-code-execution-3h0e)
-- [Mitigating the React Server Components RCE (CVE-2025-55182)](https://dev.to/carrie_luo1/mitigating-the-react-server-components-rce-cve-2025-55182-18gi)
-- [My stack: Next.js 15 + Tailwind 4 + Biome (and why I chose depth over speed)](https://dev.to/superhuang2/my-stack-nextjs-15-tailwind-4-biome-and-why-i-chose-depth-over-speed-382k)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-27",
+    "formattedDate": "December 27, 2025",
+    "news": [
+      {
+        "title": "I stopped reading code and started mapping it (and it saved my sanity)",
+        "link": "https://dev.to/thelivingalgorithms/i-stopped-reading-code-and-started-mapping-it-and-it-saved-my-sanity-2fdb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building an SPA, Real-Time Trading Platform with Vanilla PHP & JavaScript",
+        "link": "https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples",
+        "link": "https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python",
+        "link": "https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I used Linear Algebra to audit my React state (and built a tool for it)",
+        "link": "https://dev.to/petar_liovic_9fb912bdc228/i-used-linear-algebra-to-audit-my-react-state-and-built-a-tool-for-it-280b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Sketch‑Programming (LLM Transpiler) — what is it?",
+        "link": "https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-26",
     "formattedDate": "December 26, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Use Bootstrap in a React Project (Beginner Guide)",
         "link": "https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-24",
-    "formattedDate": "December 24, 2025",
-    "news": [
-      {
-        "title": "I Built a Server Library for Bun (and got carried away)",
-        "link": "https://dev.to/wess/i-built-a-server-library-for-bun-and-got-carried-away-4985",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit",
-        "link": "https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Everything in Software Is a Pyramid (Whether You Like It or Not)",
-        "link": "https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How a Serialization Flaw in React 19 Server Components Led to Remote Code Execution",
-        "link": "https://dev.to/shibly_noman_b3dcb93c0227/how-a-serialization-flaw-in-react-19-server-components-led-to-remote-code-execution-3h0e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mitigating the React Server Components RCE (CVE-2025-55182)",
-        "link": "https://dev.to/carrie_luo1/mitigating-the-react-server-components-rce-cve-2025-55182-18gi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My stack: Next.js 15 + Tailwind 4 + Biome (and why I chose depth over speed)",
-        "link": "https://dev.to/superhuang2/my-stack-nextjs-15-tailwind-4-biome-and-why-i-chose-depth-over-speed-382k",
         "source": "Dev.to React"
       },
       {
