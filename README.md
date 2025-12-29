@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 28, 2025)
+### Today's Updates (December 29, 2025)
+
+#### Dev.to JavaScript
+
+- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-1gmp)
+- [🧠 JavaScript Hoisting](https://dev.to/thopatevijay/javascript-hoisting-3i7f)
+- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
+
+#### Dev.to React
+
+- [How I built a pSEO app with Next.js 14 generating 500+ static pages (Case Study)](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
+- [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
+- [Computekit — Reusable heavy computations for JS & React](https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 27, 2025)
+### 2 Days Ago (December 27, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
 - [I used Linear Algebra to audit my React state (and built a tool for it)](https://dev.to/petar_liovic_9fb912bdc228/i-used-linear-algebra-to-audit-my-react-state-and-built-a-tool-for-it-280b)
 - [Sketch‑Programming (LLM Transpiler) — what is it?](https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 26, 2025)
-
-#### Dev.to JavaScript
-
-- [Your Yarn Lockfile Is Trying to Protect You — Let It](https://dev.to/hamawis/your-yarn-lockfile-is-trying-to-protect-you-let-it-3hb7)
-- [React Design Pattern /HOC Pattern](https://dev.to/kkr0423/react-design-pattern-hoc-pattern-459f)
-- [I Built a Tiny Reactive JS Library and Discovered Why v-model Exists](https://dev.to/jahongir2007/i-built-a-tiny-reactive-js-library-and-discovered-why-v-model-exists-1gg2)
-
-#### Dev.to React
-
-- [I Got Tired of Rebuilding Admin Dashboards, So I Made One Installable](https://dev.to/norbert_madojemu_e4d44040/i-got-tired-of-rebuilding-admin-dashboards-so-i-made-one-installable-4ie2)
-- [Building Accessible React Components - What We Learned from WCAG Compliance](https://dev.to/odada-o/building-accessible-react-components-what-we-learned-from-wcag-compliance-2bdh)
-- [React Design Pattern /HOC Pattern](https://dev.to/kkr0423/react-design-pattern-hoc-pattern-459f)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-29",
+    "formattedDate": "December 29, 2025",
+    "news": [
+      {
+        "title": "I Built a Privacy-First Currency Converter in 2 Weeks",
+        "link": "https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-1gmp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧠 JavaScript Hoisting",
+        "link": "https://dev.to/thopatevijay/javascript-hoisting-3i7f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Org-Level Email Campaigns are Somehow an Unsolved Problem",
+        "link": "https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built a pSEO app with Next.js 14 generating 500+ static pages (Case Study)",
+        "link": "https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "FormCN: Generate React Forms in Seconds",
+        "link": "https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Computekit — Reusable heavy computations for JS & React",
+        "link": "https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-28",
     "formattedDate": "December 28, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Sketch‑Programming (LLM Transpiler) — what is it?",
         "link": "https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-26",
-    "formattedDate": "December 26, 2025",
-    "news": [
-      {
-        "title": "Your Yarn Lockfile Is Trying to Protect You — Let It",
-        "link": "https://dev.to/hamawis/your-yarn-lockfile-is-trying-to-protect-you-let-it-3hb7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Design Pattern /HOC Pattern",
-        "link": "https://dev.to/kkr0423/react-design-pattern-hoc-pattern-459f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Tiny Reactive JS Library and Discovered Why v-model Exists",
-        "link": "https://dev.to/jahongir2007/i-built-a-tiny-reactive-js-library-and-discovered-why-v-model-exists-1gg2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Got Tired of Rebuilding Admin Dashboards, So I Made One Installable",
-        "link": "https://dev.to/norbert_madojemu_e4d44040/i-got-tired-of-rebuilding-admin-dashboards-so-i-made-one-installable-4ie2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Accessible React Components - What We Learned from WCAG Compliance",
-        "link": "https://dev.to/odada-o/building-accessible-react-components-what-we-learned-from-wcag-compliance-2bdh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Design Pattern /HOC Pattern",
-        "link": "https://dev.to/kkr0423/react-design-pattern-hoc-pattern-459f",
         "source": "Dev.to React"
       },
       {
