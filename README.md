@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 29, 2025)
+### Today's Updates (December 30, 2025)
+
+#### Dev.to JavaScript
+
+- [Nuxt & Cloudflare Queues: Building a Data Sync Pipeline using Vectorize](https://dev.to/keithmifsud/nuxt-cloudflare-queues-building-a-data-sync-pipeline-using-vectorize-4ocg)
+- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
+- [The Secret Life of JavaScript: Inheritance](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-inheritance-2k09)
+
+#### Dev.to React
+
+- [Why Your Next.js Cache Isn't Working (And How to Fix It in 2026)](https://dev.to/pockit_tools/why-your-nextjs-cache-isnt-working-and-how-to-fix-it-in-2026-10pp)
+- [[Simple SNS Project] Step 1. User Registration & Handling Forbidden Words with Spring Boot](https://dev.to/jonghwayoo03_dev/simple-sns-project-step-1-user-registration-handling-forbidden-words-with-spring-boot-5g4b)
+- [5 React UI Component Libraries for your next Project](https://dev.to/riteshkokam/5-react-ui-component-libraries-for-your-next-project-4le7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 28, 2025)
+### 2 Days Ago (December 28, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Serverless Invoice Generator with React, Zustand, and Tailwind](https://dev.to/sudarshan_s_hosalli/building-a-serverless-invoice-generator-with-react-zustand-and-tailwind-4jm2)
 - [I Built an Open Source Health AI Agent Without a Vector DB (Laravel 12, React, Typescript + InteriaJS + Gemini)](https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4)
 - [JavaScript Pro Tips: 30+ Performance & Maintainability Best Practices](https://dev.to/satnam_singh_7e9044f30dd2/javascript-pro-tips-30-performance-maintainability-best-practices-406p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 27, 2025)
-
-#### Dev.to JavaScript
-
-- [I stopped reading code and started mapping it (and it saved my sanity)](https://dev.to/thelivingalgorithms/i-stopped-reading-code-and-started-mapping-it-and-it-saved-my-sanity-2fdb)
-- [Building an SPA, Real-Time Trading Platform with Vanilla PHP & JavaScript](https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik)
-- [Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples](https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm)
-
-#### Dev.to React
-
-- [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
-- [I used Linear Algebra to audit my React state (and built a tool for it)](https://dev.to/petar_liovic_9fb912bdc228/i-used-linear-algebra-to-audit-my-react-state-and-built-a-tool-for-it-280b)
-- [Sketch‑Programming (LLM Transpiler) — what is it?](https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-30",
+    "formattedDate": "December 30, 2025",
+    "news": [
+      {
+        "title": "Nuxt & Cloudflare Queues: Building a Data Sync Pipeline using Vectorize",
+        "link": "https://dev.to/keithmifsud/nuxt-cloudflare-queues-building-a-data-sync-pipeline-using-vectorize-4ocg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Angular 21 — What’s New, What’s Changed",
+        "link": "https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: Inheritance",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-inheritance-2k09",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Your Next.js Cache Isn't Working (And How to Fix It in 2026)",
+        "link": "https://dev.to/pockit_tools/why-your-nextjs-cache-isnt-working-and-how-to-fix-it-in-2026-10pp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "[Simple SNS Project] Step 1. User Registration & Handling Forbidden Words with Spring Boot",
+        "link": "https://dev.to/jonghwayoo03_dev/simple-sns-project-step-1-user-registration-handling-forbidden-words-with-spring-boot-5g4b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "5 React UI Component Libraries for your next Project",
+        "link": "https://dev.to/riteshkokam/5-react-ui-component-libraries-for-your-next-project-4le7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-29",
     "formattedDate": "December 29, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "JavaScript Pro Tips: 30+ Performance & Maintainability Best Practices",
         "link": "https://dev.to/satnam_singh_7e9044f30dd2/javascript-pro-tips-30-performance-maintainability-best-practices-406p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-27",
-    "formattedDate": "December 27, 2025",
-    "news": [
-      {
-        "title": "I stopped reading code and started mapping it (and it saved my sanity)",
-        "link": "https://dev.to/thelivingalgorithms/i-stopped-reading-code-and-started-mapping-it-and-it-saved-my-sanity-2fdb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building an SPA, Real-Time Trading Platform with Vanilla PHP & JavaScript",
-        "link": "https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples",
-        "link": "https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python",
-        "link": "https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I used Linear Algebra to audit my React state (and built a tool for it)",
-        "link": "https://dev.to/petar_liovic_9fb912bdc228/i-used-linear-algebra-to-audit-my-react-state-and-built-a-tool-for-it-280b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Sketch‑Programming (LLM Transpiler) — what is it?",
-        "link": "https://dev.to/dmitryolkhovoi/sketch-programming-llm-transpiler-what-is-it-12df",
         "source": "Dev.to React"
       },
       {
