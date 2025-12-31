@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 30, 2025)
+### Today's Updates (December 31, 2025)
+
+#### Dev.to JavaScript
+
+- [WHY DEVTOOLS USERS DON'T CONVERT (AND IT'S NOT YOUR FEATURES)](https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m)
+- [The History of undefined and null in JavaScript and their Common Pitfalls](https://dev.to/code-scythe/the-history-of-undefined-and-null-in-javascript-and-their-common-pitfalls-1dbh)
+- [Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-48g7)
+
+#### Dev.to React
+
+- [React Server and Client Components in Next.js: Understanding the Difference](https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml)
+- [When Crises Stack: Testing Co-Occurrence Without Cascading Failures](https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4)
+- [React Hook Stability Cheat Sheet: Problem & Fixes](https://dev.to/krabhi1/react-hook-stability-cheat-sheet-problem-fixes-23l8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 29, 2025)
+### 2 Days Ago (December 29, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I built a pSEO app with Next.js 14 generating 500+ static pages (Case Study)](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
 - [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
 - [Computekit — Reusable heavy computations for JS & React](https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 28, 2025)
-
-#### Dev.to JavaScript
-
-- [JavaScript vs TypeScript - I built the same crypto tracker with both](https://dev.to/fabianfrankwerner/javascript-vs-typescript-i-built-the-same-crypto-tracker-with-both-3p84)
-- [Turn 1010 into 10! Build Your Own Binary‑to‑Decimal Converter](https://dev.to/codeitbro/turn-1010-into-10-build-your-own-binary-to-decimal-converter-4ng4)
-- [Building a Tamper-Evident Audit Log with SHA-256 Hash Chains (Zero Dependencies)](https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b)
-
-#### Dev.to React
-
-- [Building a Serverless Invoice Generator with React, Zustand, and Tailwind](https://dev.to/sudarshan_s_hosalli/building-a-serverless-invoice-generator-with-react-zustand-and-tailwind-4jm2)
-- [I Built an Open Source Health AI Agent Without a Vector DB (Laravel 12, React, Typescript + InteriaJS + Gemini)](https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4)
-- [JavaScript Pro Tips: 30+ Performance & Maintainability Best Practices](https://dev.to/satnam_singh_7e9044f30dd2/javascript-pro-tips-30-performance-maintainability-best-practices-406p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2025-12-31",
+    "formattedDate": "December 31, 2025",
+    "news": [
+      {
+        "title": "WHY DEVTOOLS USERS DON'T CONVERT (AND IT'S NOT YOUR FEATURES)",
+        "link": "https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The History of undefined and null in JavaScript and their Common Pitfalls",
+        "link": "https://dev.to/code-scythe/the-history-of-undefined-and-null-in-javascript-and-their-common-pitfalls-1dbh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks",
+        "link": "https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-48g7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Server and Client Components in Next.js: Understanding the Difference",
+        "link": "https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "When Crises Stack: Testing Co-Occurrence Without Cascading Failures",
+        "link": "https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Hook Stability Cheat Sheet: Problem & Fixes",
+        "link": "https://dev.to/krabhi1/react-hook-stability-cheat-sheet-problem-fixes-23l8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-30",
     "formattedDate": "December 30, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Computekit — Reusable heavy computations for JS & React",
         "link": "https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-28",
-    "formattedDate": "December 28, 2025",
-    "news": [
-      {
-        "title": "JavaScript vs TypeScript - I built the same crypto tracker with both",
-        "link": "https://dev.to/fabianfrankwerner/javascript-vs-typescript-i-built-the-same-crypto-tracker-with-both-3p84",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Turn 1010 into 10! Build Your Own Binary‑to‑Decimal Converter",
-        "link": "https://dev.to/codeitbro/turn-1010-into-10-build-your-own-binary-to-decimal-converter-4ng4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Tamper-Evident Audit Log with SHA-256 Hash Chains (Zero Dependencies)",
-        "link": "https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Serverless Invoice Generator with React, Zustand, and Tailwind",
-        "link": "https://dev.to/sudarshan_s_hosalli/building-a-serverless-invoice-generator-with-react-zustand-and-tailwind-4jm2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an Open Source Health AI Agent Without a Vector DB (Laravel 12, React, Typescript + InteriaJS + Gemini)",
-        "link": "https://dev.to/tuvshaw/i-built-an-open-source-health-ai-agent-without-a-vector-db-laravel-12-react-typescript--4kh4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "JavaScript Pro Tips: 30+ Performance & Maintainability Best Practices",
-        "link": "https://dev.to/satnam_singh_7e9044f30dd2/javascript-pro-tips-30-performance-maintainability-best-practices-406p",
         "source": "Dev.to React"
       },
       {
