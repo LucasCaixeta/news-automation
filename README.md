@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (December 31, 2025)
+### Today's Updates (January 1, 2026)
+
+#### Dev.to JavaScript
+
+- [Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
+- [🐦‍🔥Beginner-Friendly Guide "Plus One" – LeetCode 66 (C++ | Python | JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-plus-one-leetcode-66-c-python-javascript-3lgp)
+- [How I Built a Free Arabic Calligraphy Generator with HTML, CSS & JavaScript](https://dev.to/keke_lele_1c5122e6c3a87d9/how-i-built-a-free-arabic-calligraphy-generator-with-html-css-javascript-6m4)
+
+#### Dev.to React
+
+- [Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
+- [Why Istanbul Coverage Doesn't Work with Next.js App Router](https://dev.to/stevez/why-istanbul-coverage-doesnt-work-with-nextjs-app-router-9ip)
+- [Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time](https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (December 31, 2025)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (December 30, 2025)
+### 2 Days Ago (December 30, 2025)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why Your Next.js Cache Isn't Working (And How to Fix It in 2026)](https://dev.to/pockit_tools/why-your-nextjs-cache-isnt-working-and-how-to-fix-it-in-2026-10pp)
 - [[Simple SNS Project] Step 1. User Registration & Handling Forbidden Words with Spring Boot](https://dev.to/jonghwayoo03_dev/simple-sns-project-step-1-user-registration-handling-forbidden-words-with-spring-boot-5g4b)
 - [5 React UI Component Libraries for your next Project](https://dev.to/riteshkokam/5-react-ui-component-libraries-for-your-next-project-4le7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 29, 2025)
-
-#### Dev.to JavaScript
-
-- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-1gmp)
-- [🧠 JavaScript Hoisting](https://dev.to/thopatevijay/javascript-hoisting-3i7f)
-- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
-
-#### Dev.to React
-
-- [How I built a pSEO app with Next.js 14 generating 500+ static pages (Case Study)](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
-- [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
-- [Computekit — Reusable heavy computations for JS & React](https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-01",
+    "formattedDate": "January 1, 2026",
+    "news": [
+      {
+        "title": "Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)",
+        "link": "https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🐦‍🔥Beginner-Friendly Guide \"Plus One\" – LeetCode 66 (C++ | Python | JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-plus-one-leetcode-66-c-python-javascript-3lgp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a Free Arabic Calligraphy Generator with HTML, CSS & JavaScript",
+        "link": "https://dev.to/keke_lele_1c5122e6c3a87d9/how-i-built-a-free-arabic-calligraphy-generator-with-html-css-javascript-6m4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)",
+        "link": "https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Istanbul Coverage Doesn't Work with Next.js App Router",
+        "link": "https://dev.to/stevez/why-istanbul-coverage-doesnt-work-with-nextjs-app-router-9ip",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time",
+        "link": "https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2025-12-31",
     "formattedDate": "December 31, 2025",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "5 React UI Component Libraries for your next Project",
         "link": "https://dev.to/riteshkokam/5-react-ui-component-libraries-for-your-next-project-4le7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-29",
-    "formattedDate": "December 29, 2025",
-    "news": [
-      {
-        "title": "I Built a Privacy-First Currency Converter in 2 Weeks",
-        "link": "https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-1gmp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧠 JavaScript Hoisting",
-        "link": "https://dev.to/thopatevijay/javascript-hoisting-3i7f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Org-Level Email Campaigns are Somehow an Unsolved Problem",
-        "link": "https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I built a pSEO app with Next.js 14 generating 500+ static pages (Case Study)",
-        "link": "https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "FormCN: Generate React Forms in Seconds",
-        "link": "https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Computekit — Reusable heavy computations for JS & React",
-        "link": "https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a",
         "source": "Dev.to React"
       },
       {
