@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 2, 2026)
+### Today's Updates (January 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Getting Started with eslint-plugin-browser-security](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-browser-security-3iop)
+- [eslint-plugin-import vs eslint-plugin-import-next: Up to 100x Faster](https://dev.to/ofri-peretz/eslint-plugin-import-vs-eslint-plugin-import-next-up-to-100x-faster-1afa)
+- [Getting Started with eslint-plugin-import-next](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-import-next-51e6)
+
+#### Dev.to React
+
+- [Orbis: Building a Modern Plugin-Driven Desktop Platform](https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa)
+- [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
+- [Built a Modern, Mobile Friendly React Playground](https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 1, 2026)
+### 2 Days Ago (January 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
 - [Why Istanbul Coverage Doesn't Work with Next.js App Router](https://dev.to/stevez/why-istanbul-coverage-doesnt-work-with-nextjs-app-router-9ip)
 - [Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time](https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (December 31, 2025)
-
-#### Dev.to JavaScript
-
-- [WHY DEVTOOLS USERS DON'T CONVERT (AND IT'S NOT YOUR FEATURES)](https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m)
-- [The History of undefined and null in JavaScript and their Common Pitfalls](https://dev.to/code-scythe/the-history-of-undefined-and-null-in-javascript-and-their-common-pitfalls-1dbh)
-- [Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-48g7)
-
-#### Dev.to React
-
-- [React Server and Client Components in Next.js: Understanding the Difference](https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml)
-- [When Crises Stack: Testing Co-Occurrence Without Cascading Failures](https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4)
-- [React Hook Stability Cheat Sheet: Problem & Fixes](https://dev.to/krabhi1/react-hook-stability-cheat-sheet-problem-fixes-23l8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-03",
+    "formattedDate": "January 3, 2026",
+    "news": [
+      {
+        "title": "Getting Started with eslint-plugin-browser-security",
+        "link": "https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-browser-security-3iop",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "eslint-plugin-import vs eslint-plugin-import-next: Up to 100x Faster",
+        "link": "https://dev.to/ofri-peretz/eslint-plugin-import-vs-eslint-plugin-import-next-up-to-100x-faster-1afa",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Getting Started with eslint-plugin-import-next",
+        "link": "https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-import-next-51e6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Orbis: Building a Modern Plugin-Driven Desktop Platform",
+        "link": "https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Tips Membuat Website Modern dengan Nextjs",
+        "link": "https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Built a Modern, Mobile Friendly React Playground",
+        "link": "https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-02",
     "formattedDate": "January 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time",
         "link": "https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-12-31",
-    "formattedDate": "December 31, 2025",
-    "news": [
-      {
-        "title": "WHY DEVTOOLS USERS DON'T CONVERT (AND IT'S NOT YOUR FEATURES)",
-        "link": "https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The History of undefined and null in JavaScript and their Common Pitfalls",
-        "link": "https://dev.to/code-scythe/the-history-of-undefined-and-null-in-javascript-and-their-common-pitfalls-1dbh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks",
-        "link": "https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-48g7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Server and Client Components in Next.js: Understanding the Difference",
-        "link": "https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "When Crises Stack: Testing Co-Occurrence Without Cascading Failures",
-        "link": "https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Hook Stability Cheat Sheet: Problem & Fixes",
-        "link": "https://dev.to/krabhi1/react-hook-stability-cheat-sheet-problem-fixes-23l8",
         "source": "Dev.to React"
       },
       {
