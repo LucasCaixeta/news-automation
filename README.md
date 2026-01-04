@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 3, 2026)
+### Today's Updates (January 4, 2026)
+
+#### Dev.to JavaScript
+
+- [My Page Loaded in 2 Seconds… According to Me](https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl)
+- [Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
+- [Iterflow: Lazy Iterators for TypeScript](https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf)
+
+#### Dev.to React
+
+- [React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me](https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4)
+- [Serve the Cake First, Add the Icing Only When Safe](https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e)
+- [streamix: Generators + Operators - React Community Feedback = ?](https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 2, 2026)
+### 2 Days Ago (January 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a URLSearchParams-Compliant Search Param Serializer for TanStack Router](https://dev.to/usapopopooon/i-built-a-urlsearchparams-compliant-search-param-serializer-for-tanstack-router-27le)
 - [I Built an i18n Library That Works with Rails/Laravel and React/Vue](https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8)
 - [StyleX + ESLint: When Best Practices Fight Each Other](https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 1, 2026)
-
-#### Dev.to JavaScript
-
-- [Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
-- [🐦‍🔥Beginner-Friendly Guide "Plus One" – LeetCode 66 (C++ | Python | JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-plus-one-leetcode-66-c-python-javascript-3lgp)
-- [How I Built a Free Arabic Calligraphy Generator with HTML, CSS & JavaScript](https://dev.to/keke_lele_1c5122e6c3a87d9/how-i-built-a-free-arabic-calligraphy-generator-with-html-css-javascript-6m4)
-
-#### Dev.to React
-
-- [Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)](https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7)
-- [Why Istanbul Coverage Doesn't Work with Next.js App Router](https://dev.to/stevez/why-istanbul-coverage-doesnt-work-with-nextjs-app-router-9ip)
-- [Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time](https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-04",
+    "formattedDate": "January 4, 2026",
+    "news": [
+      {
+        "title": "My Page Loaded in 2 Seconds… According to Me",
+        "link": "https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
+        "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Iterflow: Lazy Iterators for TypeScript",
+        "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me",
+        "link": "https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Serve the Cake First, Add the Icing Only When Safe",
+        "link": "https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "streamix: Generators + Operators - React Community Feedback = ?",
+        "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-03",
     "formattedDate": "January 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "StyleX + ESLint: When Best Practices Fight Each Other",
         "link": "https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-01",
-    "formattedDate": "January 1, 2026",
-    "news": [
-      {
-        "title": "Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)",
-        "link": "https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🐦‍🔥Beginner-Friendly Guide \"Plus One\" – LeetCode 66 (C++ | Python | JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-plus-one-leetcode-66-c-python-javascript-3lgp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Free Arabic Calligraphy Generator with HTML, CSS & JavaScript",
-        "link": "https://dev.to/keke_lele_1c5122e6c3a87d9/how-i-built-a-free-arabic-calligraphy-generator-with-html-css-javascript-6m4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Today I Understood useEffect Cleanup & Race Conditions (Real Lessons from usePopcorn)",
-        "link": "https://dev.to/usama_dev/today-i-understood-useeffect-cleanup-race-conditions-real-lessons-from-usepopcorn-1fl7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Istanbul Coverage Doesn't Work with Next.js App Router",
-        "link": "https://dev.to/stevez/why-istanbul-coverage-doesnt-work-with-nextjs-app-router-9ip",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Multi-Layer Caching Strategy in Next.js App Router: From Static to Real-Time",
-        "link": "https://dev.to/maurya-sachin/building-a-multi-layer-caching-strategy-in-nextjs-app-router-from-static-to-real-time-4che",
         "source": "Dev.to React"
       },
       {
