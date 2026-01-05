@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 4, 2026)
+### Today's Updates (January 5, 2026)
+
+#### Dev.to JavaScript
+
+- [🧩 Beginner-Friendly Guide 'Maximum Matrix Sum' – LeetCode 1975 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39)
+- [Why Complex Visualizations Need Algorithms: Analyzing Grafana Forks' Dependencies](https://dev.to/ruiwen_zeng_ea2f69399242a/why-complex-visualizations-need-algorithms-analyzing-grafana-forks-dependencies-67f)
+- [Building a Social Deduction Game with a State Machine (7 Games in 7 Weeks – Week 4)](https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8)
+
+#### Dev.to React
+
+- [React Higher-Order Components (HOCs) in a Hooks-First World](https://dev.to/ward_khaddour/react-higher-order-components-hocs-in-a-hooks-first-world-5gco)
+- [Building Circadian UI: time-aware theming for React + Next.js (Open Source)](https://dev.to/fabianzimber/building-circadian-ui-time-aware-theming-for-react-nextjs-open-source-14nk)
+- [Multi-Page Electron Apps Exist — Even If We Rarely Talk About Them](https://dev.to/nandani_bansal_b32518f271/multi-page-electron-apps-exist-even-if-we-rarely-talk-about-them-5blp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 3, 2026)
+### 2 Days Ago (January 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Orbis: Building a Modern Plugin-Driven Desktop Platform](https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa)
 - [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
 - [Built a Modern, Mobile Friendly React Playground](https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 2, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built an i18n Library That Works with Rails/Laravel and React/Vue](https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8)
-- [StyleX + ESLint: When Best Practices Fight Each Other](https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17)
-- [Debugging StyleX + Vite: The Mystery of "Invalid Empty Selector"](https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k)
-
-#### Dev.to React
-
-- [I Built a URLSearchParams-Compliant Search Param Serializer for TanStack Router](https://dev.to/usapopopooon/i-built-a-urlsearchparams-compliant-search-param-serializer-for-tanstack-router-27le)
-- [I Built an i18n Library That Works with Rails/Laravel and React/Vue](https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8)
-- [StyleX + ESLint: When Best Practices Fight Each Other](https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-05",
+    "formattedDate": "January 5, 2026",
+    "news": [
+      {
+        "title": "🧩 Beginner-Friendly Guide 'Maximum Matrix Sum' – LeetCode 1975 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Complex Visualizations Need Algorithms: Analyzing Grafana Forks' Dependencies",
+        "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/why-complex-visualizations-need-algorithms-analyzing-grafana-forks-dependencies-67f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Social Deduction Game with a State Machine (7 Games in 7 Weeks – Week 4)",
+        "link": "https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Higher-Order Components (HOCs) in a Hooks-First World",
+        "link": "https://dev.to/ward_khaddour/react-higher-order-components-hocs-in-a-hooks-first-world-5gco",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Circadian UI: time-aware theming for React + Next.js (Open Source)",
+        "link": "https://dev.to/fabianzimber/building-circadian-ui-time-aware-theming-for-react-nextjs-open-source-14nk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Multi-Page Electron Apps Exist — Even If We Rarely Talk About Them",
+        "link": "https://dev.to/nandani_bansal_b32518f271/multi-page-electron-apps-exist-even-if-we-rarely-talk-about-them-5blp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-04",
     "formattedDate": "January 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Built a Modern, Mobile Friendly React Playground",
         "link": "https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-02",
-    "formattedDate": "January 2, 2026",
-    "news": [
-      {
-        "title": "I Built an i18n Library That Works with Rails/Laravel and React/Vue",
-        "link": "https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "StyleX + ESLint: When Best Practices Fight Each Other",
-        "link": "https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Debugging StyleX + Vite: The Mystery of \"Invalid Empty Selector\"",
-        "link": "https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a URLSearchParams-Compliant Search Param Serializer for TanStack Router",
-        "link": "https://dev.to/usapopopooon/i-built-a-urlsearchparams-compliant-search-param-serializer-for-tanstack-router-27le",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an i18n Library That Works with Rails/Laravel and React/Vue",
-        "link": "https://dev.to/usapopopooon/i-built-an-i18n-library-that-works-with-railslaravel-and-reactvue-3db8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "StyleX + ESLint: When Best Practices Fight Each Other",
-        "link": "https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17",
         "source": "Dev.to React"
       },
       {
