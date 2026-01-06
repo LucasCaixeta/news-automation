@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 5, 2026)
+### Today's Updates (January 6, 2026)
+
+#### Dev.to JavaScript
+
+- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
+- [Concurrency Without the Pain: A Guide for Beginner & Mid-Level Developers](https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a)
+- [The Secret Life of JavaScript: Memories](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-memories-1c0p)
+
+#### Dev.to React
+
+- [Auditing React State & Hooks with Math (shadcn-admin Case Study)](https://dev.to/petar_liovic_9fb912bdc228/auditing-react-state-hooks-with-math-shadcn-admin-case-study-f1f)
+- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
+- [🛠️Mastering TypeScript Utility Types: `Partial`, `Pick`, `Record` & More](https://dev.to/tarunmj6/mastering-typescript-utility-types-partial-pick-record-more-5092)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 4, 2026)
+### 2 Days Ago (January 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me](https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4)
 - [Serve the Cake First, Add the Icing Only When Safe](https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e)
 - [streamix: Generators + Operators - React Community Feedback = ?](https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 3, 2026)
-
-#### Dev.to JavaScript
-
-- [Getting Started with eslint-plugin-browser-security](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-browser-security-3iop)
-- [eslint-plugin-import vs eslint-plugin-import-next: Up to 100x Faster](https://dev.to/ofri-peretz/eslint-plugin-import-vs-eslint-plugin-import-next-up-to-100x-faster-1afa)
-- [Getting Started with eslint-plugin-import-next](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-import-next-51e6)
-
-#### Dev.to React
-
-- [Orbis: Building a Modern Plugin-Driven Desktop Platform](https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa)
-- [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
-- [Built a Modern, Mobile Friendly React Playground](https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-06",
+    "formattedDate": "January 6, 2026",
+    "news": [
+      {
+        "title": "I built an app in every frontend framework",
+        "link": "https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Concurrency Without the Pain: A Guide for Beginner & Mid-Level Developers",
+        "link": "https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: Memories",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-memories-1c0p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Auditing React State & Hooks with Math (shadcn-admin Case Study)",
+        "link": "https://dev.to/petar_liovic_9fb912bdc228/auditing-react-state-hooks-with-math-shadcn-admin-case-study-f1f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "O todo mais tosco do mundo: um começo absurdamente simples em React",
+        "link": "https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🛠️Mastering TypeScript Utility Types: `Partial`, `Pick`, `Record` & More",
+        "link": "https://dev.to/tarunmj6/mastering-typescript-utility-types-partial-pick-record-more-5092",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-05",
     "formattedDate": "January 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "streamix: Generators + Operators - React Community Feedback = ?",
         "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-03",
-    "formattedDate": "January 3, 2026",
-    "news": [
-      {
-        "title": "Getting Started with eslint-plugin-browser-security",
-        "link": "https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-browser-security-3iop",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "eslint-plugin-import vs eslint-plugin-import-next: Up to 100x Faster",
-        "link": "https://dev.to/ofri-peretz/eslint-plugin-import-vs-eslint-plugin-import-next-up-to-100x-faster-1afa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Getting Started with eslint-plugin-import-next",
-        "link": "https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-import-next-51e6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Orbis: Building a Modern Plugin-Driven Desktop Platform",
-        "link": "https://dev.to/cyberpath/orbis-building-a-modern-plugin-driven-desktop-platform-3dfa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Tips Membuat Website Modern dengan Nextjs",
-        "link": "https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Built a Modern, Mobile Friendly React Playground",
-        "link": "https://dev.to/bralekfn/built-a-modern-mobile-friendly-react-playground-3g1k",
         "source": "Dev.to React"
       },
       {
