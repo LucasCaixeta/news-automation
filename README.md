@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 6, 2026)
+### Today's Updates (January 7, 2026)
+
+#### Dev.to JavaScript
+
+- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
+- [Should I build the same project in multiple web frameworks?](https://dev.to/vulcanwm/should-i-build-the-same-project-in-multiple-web-frameworks-5c55)
+- [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
+
+#### Dev.to React
+
+- [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
+- [bitcoin-wallet-connector: One API to Connect All Bitcoin Wallets](https://dev.to/c4605/bitcoin-wallet-connector-one-api-to-connect-all-bitcoin-wallets-42h4)
+- [Building a Centralized Keyboard Shortcut System in React: A Priority-Based Approach](https://dev.to/hasnaat-iftikhar/building-a-centralized-keyboard-shortcut-system-in-react-a-priority-based-approach-479m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 5, 2026)
+### 2 Days Ago (January 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Higher-Order Components (HOCs) in a Hooks-First World](https://dev.to/ward_khaddour/react-higher-order-components-hocs-in-a-hooks-first-world-5gco)
 - [Building Circadian UI: time-aware theming for React + Next.js (Open Source)](https://dev.to/fabianzimber/building-circadian-ui-time-aware-theming-for-react-nextjs-open-source-14nk)
 - [Multi-Page Electron Apps Exist — Even If We Rarely Talk About Them](https://dev.to/nandani_bansal_b32518f271/multi-page-electron-apps-exist-even-if-we-rarely-talk-about-them-5blp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 4, 2026)
-
-#### Dev.to JavaScript
-
-- [My Page Loaded in 2 Seconds… According to Me](https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl)
-- [Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
-- [Iterflow: Lazy Iterators for TypeScript](https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf)
-
-#### Dev.to React
-
-- [React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me](https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4)
-- [Serve the Cake First, Add the Icing Only When Safe](https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e)
-- [streamix: Generators + Operators - React Community Feedback = ?](https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-07",
+    "formattedDate": "January 7, 2026",
+    "news": [
+      {
+        "title": "I built an app in every frontend framework",
+        "link": "https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Should I build the same project in multiple web frameworks?",
+        "link": "https://dev.to/vulcanwm/should-i-build-the-same-project-in-multiple-web-frameworks-5c55",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "📘 Week 13 – The Week React Started Feeling Real",
+        "link": "https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "📘 Week 13 – The Week React Started Feeling Real",
+        "link": "https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "bitcoin-wallet-connector: One API to Connect All Bitcoin Wallets",
+        "link": "https://dev.to/c4605/bitcoin-wallet-connector-one-api-to-connect-all-bitcoin-wallets-42h4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Centralized Keyboard Shortcut System in React: A Priority-Based Approach",
+        "link": "https://dev.to/hasnaat-iftikhar/building-a-centralized-keyboard-shortcut-system-in-react-a-priority-based-approach-479m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-06",
     "formattedDate": "January 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Multi-Page Electron Apps Exist — Even If We Rarely Talk About Them",
         "link": "https://dev.to/nandani_bansal_b32518f271/multi-page-electron-apps-exist-even-if-we-rarely-talk-about-them-5blp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-04",
-    "formattedDate": "January 4, 2026",
-    "news": [
-      {
-        "title": "My Page Loaded in 2 Seconds… According to Me",
-        "link": "https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
-        "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Iterflow: Lazy Iterators for TypeScript",
-        "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Hooks and the Rules of Hooks – The Understanding That Finally Clicked for Me",
-        "link": "https://dev.to/usama_dev/react-hooks-and-the-rules-of-hooks-the-understanding-that-finally-clicked-for-me-hm4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Serve the Cake First, Add the Icing Only When Safe",
-        "link": "https://dev.to/fabianzimber/birthday-cake-loading-serve-the-cake-first-add-the-icing-only-when-safe-progressive-enhancement-m6e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "streamix: Generators + Operators - React Community Feedback = ?",
-        "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl",
         "source": "Dev.to React"
       },
       {
