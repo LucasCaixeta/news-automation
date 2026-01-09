@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 8, 2026)
+### Today's Updates (January 9, 2026)
+
+#### Dev.to JavaScript
+
+- [Old School Tech: How to Animate The Classic DVD Logo Bouncing 📀📐](https://dev.to/thormeier/old-school-tech-how-to-animate-the-classic-dvd-logo-bouncing-11d9)
+- [When React Starts Acting Like jQuery (and You Can Totally Tell 😅)](https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe)
+- [node.js Worker thread with Typescript](https://dev.to/composite/nodejs-worker-thread-with-typescript-5b00)
+
+#### Dev.to React
+
+- [When React Starts Acting Like jQuery (and You Can Totally Tell 😅)](https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe)
+- [From CDN to Pixel: A React App's Journey](https://dev.to/sagi0312/from-cdn-to-pixel-a-react-apps-journey-4dnd)
+- [uilayouts: React/Next.js Component Library with Tailwind and Framer Motion](https://dev.to/jqueryscript/uilayouts-reactnextjs-component-library-with-tailwind-and-framer-motion-53cd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 7, 2026)
+### 2 Days Ago (January 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
 - [bitcoin-wallet-connector: One API to Connect All Bitcoin Wallets](https://dev.to/c4605/bitcoin-wallet-connector-one-api-to-connect-all-bitcoin-wallets-42h4)
 - [Building a Centralized Keyboard Shortcut System in React: A Priority-Based Approach](https://dev.to/hasnaat-iftikhar/building-a-centralized-keyboard-shortcut-system-in-react-a-priority-based-approach-479m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 6, 2026)
-
-#### Dev.to JavaScript
-
-- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
-- [Concurrency Without the Pain: A Guide for Beginner & Mid-Level Developers](https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a)
-- [The Secret Life of JavaScript: Memories](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-memories-1c0p)
-
-#### Dev.to React
-
-- [Auditing React State & Hooks with Math (shadcn-admin Case Study)](https://dev.to/petar_liovic_9fb912bdc228/auditing-react-state-hooks-with-math-shadcn-admin-case-study-f1f)
-- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
-- [🛠️Mastering TypeScript Utility Types: `Partial`, `Pick`, `Record` & More](https://dev.to/tarunmj6/mastering-typescript-utility-types-partial-pick-record-more-5092)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-09",
+    "formattedDate": "January 9, 2026",
+    "news": [
+      {
+        "title": "Old School Tech: How to Animate The Classic DVD Logo Bouncing 📀📐",
+        "link": "https://dev.to/thormeier/old-school-tech-how-to-animate-the-classic-dvd-logo-bouncing-11d9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "When React Starts Acting Like jQuery (and You Can Totally Tell 😅)",
+        "link": "https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "node.js Worker thread with Typescript",
+        "link": "https://dev.to/composite/nodejs-worker-thread-with-typescript-5b00",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "When React Starts Acting Like jQuery (and You Can Totally Tell 😅)",
+        "link": "https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From CDN to Pixel: A React App's Journey",
+        "link": "https://dev.to/sagi0312/from-cdn-to-pixel-a-react-apps-journey-4dnd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "uilayouts: React/Next.js Component Library with Tailwind and Framer Motion",
+        "link": "https://dev.to/jqueryscript/uilayouts-reactnextjs-component-library-with-tailwind-and-framer-motion-53cd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-08",
     "formattedDate": "January 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a Centralized Keyboard Shortcut System in React: A Priority-Based Approach",
         "link": "https://dev.to/hasnaat-iftikhar/building-a-centralized-keyboard-shortcut-system-in-react-a-priority-based-approach-479m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-06",
-    "formattedDate": "January 6, 2026",
-    "news": [
-      {
-        "title": "I built an app in every frontend framework",
-        "link": "https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Concurrency Without the Pain: A Guide for Beginner & Mid-Level Developers",
-        "link": "https://dev.to/adamthedeveloper/concurrency-without-the-pain-a-guide-for-beginner-mid-level-developers-2j2a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: Memories",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-memories-1c0p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Auditing React State & Hooks with Math (shadcn-admin Case Study)",
-        "link": "https://dev.to/petar_liovic_9fb912bdc228/auditing-react-state-hooks-with-math-shadcn-admin-case-study-f1f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "O todo mais tosco do mundo: um começo absurdamente simples em React",
-        "link": "https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🛠️Mastering TypeScript Utility Types: `Partial`, `Pick`, `Record` & More",
-        "link": "https://dev.to/tarunmj6/mastering-typescript-utility-types-partial-pick-record-more-5092",
         "source": "Dev.to React"
       },
       {
