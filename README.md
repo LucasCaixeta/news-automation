@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 9, 2026)
+### Today's Updates (January 10, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
+- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
+- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
+
+#### Dev.to React
+
+- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
+- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
+- [Building with React: Dive into JSX, Components, and Props! (React Day 2)](https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 8, 2026)
+### 2 Days Ago (January 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
 - [Email Management System - Development Guide](https://dev.to/akkaraponph/email-management-system-development-guide-3l3j)
 - [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 7, 2026)
-
-#### Dev.to JavaScript
-
-- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
-- [Should I build the same project in multiple web frameworks?](https://dev.to/vulcanwm/should-i-build-the-same-project-in-multiple-web-frameworks-5c55)
-- [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
-
-#### Dev.to React
-
-- [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
-- [bitcoin-wallet-connector: One API to Connect All Bitcoin Wallets](https://dev.to/c4605/bitcoin-wallet-connector-one-api-to-connect-all-bitcoin-wallets-42h4)
-- [Building a Centralized Keyboard Shortcut System in React: A Priority-Based Approach](https://dev.to/hasnaat-iftikhar/building-a-centralized-keyboard-shortcut-system-in-react-a-priority-based-approach-479m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-10",
+    "formattedDate": "January 10, 2026",
+    "news": [
+      {
+        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
+        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "NodeSecure hidden capability: mama",
+        "link": "https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Conditional TypeScript Generics in React Components",
+        "link": "https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
+        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Conditional TypeScript Generics in React Components",
+        "link": "https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building with React: Dive into JSX, Components, and Props! (React Day 2)",
+        "link": "https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-09",
     "formattedDate": "January 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback",
         "link": "https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-07",
-    "formattedDate": "January 7, 2026",
-    "news": [
-      {
-        "title": "I built an app in every frontend framework",
-        "link": "https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Should I build the same project in multiple web frameworks?",
-        "link": "https://dev.to/vulcanwm/should-i-build-the-same-project-in-multiple-web-frameworks-5c55",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "📘 Week 13 – The Week React Started Feeling Real",
-        "link": "https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "📘 Week 13 – The Week React Started Feeling Real",
-        "link": "https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "bitcoin-wallet-connector: One API to Connect All Bitcoin Wallets",
-        "link": "https://dev.to/c4605/bitcoin-wallet-connector-one-api-to-connect-all-bitcoin-wallets-42h4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Centralized Keyboard Shortcut System in React: A Priority-Based Approach",
-        "link": "https://dev.to/hasnaat-iftikhar/building-a-centralized-keyboard-shortcut-system-in-react-a-priority-based-approach-479m",
         "source": "Dev.to React"
       },
       {
