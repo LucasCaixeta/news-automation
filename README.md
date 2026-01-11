@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 10, 2026)
+### Today's Updates (January 11, 2026)
+
+#### Dev.to JavaScript
+
+- [maqam music](https://dev.to/okan_kaplan_livehtml/maqam-music-4513)
+- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
+- [Stop Rewriting Auth Logic: My Production-Ready Node.js + MySQL Boilerplate 🚀](https://dev.to/dark_353/stop-rewriting-auth-logic-my-production-ready-nodejs-mysql-boilerplate-42nl)
+
+#### Dev.to React
+
+- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
+- [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
+- [Mastering React's Dynamic Side: State, Events, and Conditional Rendering! (React Day 3)](https://dev.to/vasughanta09/mastering-reacts-dynamic-side-state-events-and-conditional-rendering-react-day-3-486g)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 9, 2026)
+### 2 Days Ago (January 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [When React Starts Acting Like jQuery (and You Can Totally Tell 😅)](https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe)
 - [From CDN to Pixel: A React App's Journey](https://dev.to/sagi0312/from-cdn-to-pixel-a-react-apps-journey-4dnd)
 - [uilayouts: React/Next.js Component Library with Tailwind and Framer Motion](https://dev.to/jqueryscript/uilayouts-reactnextjs-component-library-with-tailwind-and-framer-motion-53cd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 8, 2026)
-
-#### Dev.to JavaScript
-
-- [My Indie App Got Quarantined on itch.io — and I’m Opening It Up to the Dev Community](https://dev.to/saamiabbaskhan/my-indie-app-got-quarantined-on-itchio-and-im-opening-it-up-to-the-dev-community-2fkk)
-- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
-- [🧗‍♂️Beginner-Friendly Guide 'Max Dot Product of Two Subsequences' – LeetCode 1458 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-max-dot-product-of-two-subsequences-leetcode-1458-c-python-2mgf)
-
-#### Dev.to React
-
-- [📘 Week 13 – The Week React Started Feeling Real](https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p)
-- [Email Management System - Development Guide](https://dev.to/akkaraponph/email-management-system-development-guide-3l3j)
-- [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-11",
+    "formattedDate": "January 11, 2026",
+    "news": [
+      {
+        "title": "maqam music",
+        "link": "https://dev.to/okan_kaplan_livehtml/maqam-music-4513",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
+        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Rewriting Auth Logic: My Production-Ready Node.js + MySQL Boilerplate 🚀",
+        "link": "https://dev.to/dark_353/stop-rewriting-auth-logic-my-production-ready-nodejs-mysql-boilerplate-42nl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
+        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚨 React Re-render Methods: Reference Matters!",
+        "link": "https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering React's Dynamic Side: State, Events, and Conditional Rendering! (React Day 3)",
+        "link": "https://dev.to/vasughanta09/mastering-reacts-dynamic-side-state-events-and-conditional-rendering-react-day-3-486g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-10",
     "formattedDate": "January 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "uilayouts: React/Next.js Component Library with Tailwind and Framer Motion",
         "link": "https://dev.to/jqueryscript/uilayouts-reactnextjs-component-library-with-tailwind-and-framer-motion-53cd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-08",
-    "formattedDate": "January 8, 2026",
-    "news": [
-      {
-        "title": "My Indie App Got Quarantined on itch.io — and I’m Opening It Up to the Dev Community",
-        "link": "https://dev.to/saamiabbaskhan/my-indie-app-got-quarantined-on-itchio-and-im-opening-it-up-to-the-dev-community-2fkk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built an app in every frontend framework",
-        "link": "https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧗‍♂️Beginner-Friendly Guide 'Max Dot Product of Two Subsequences' – LeetCode 1458 (C++, Python, JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-max-dot-product-of-two-subsequences-leetcode-1458-c-python-2mgf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "📘 Week 13 – The Week React Started Feeling Real",
-        "link": "https://dev.to/usama_dev/week-13-the-week-react-started-feeling-real-138p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Email Management System - Development Guide",
-        "link": "https://dev.to/akkaraponph/email-management-system-development-guide-3l3j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback",
-        "link": "https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd",
         "source": "Dev.to React"
       },
       {
