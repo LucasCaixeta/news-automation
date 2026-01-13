@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 12, 2026)
+### Today's Updates (January 13, 2026)
+
+#### Dev.to JavaScript
+
+- [I tried to capture system audio in the browser. Here's what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
+- [How I built a high-performance Social API with Bun & ElysiaJS on a $5 VPS (handling 3.6k reqs/min)](https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4)
+- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
+
+#### Dev.to React
+
+- [How I built a "Magic Move" animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
+- [SmoothUI: 40+ Animated React Components with Motion](https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5)
+- [Advancing with React: Hooks Deep Dive! (React Day 5)](https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 11, 2026)
+### 2 Days Ago (January 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
 - [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
 - [Mastering React's Dynamic Side: State, Events, and Conditional Rendering! (React Day 3)](https://dev.to/vasughanta09/mastering-reacts-dynamic-side-state-events-and-conditional-rendering-react-day-3-486g)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 10, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
-- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
-- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
-
-#### Dev.to React
-
-- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
-- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
-- [Building with React: Dive into JSX, Components, and Props! (React Day 2)](https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-13",
+    "formattedDate": "January 13, 2026",
+    "news": [
+      {
+        "title": "I tried to capture system audio in the browser. Here's what I learned.",
+        "link": "https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built a high-performance Social API with Bun & ElysiaJS on a $5 VPS (handling 3.6k reqs/min)",
+        "link": "https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Websockets with Socket.IO",
+        "link": "https://dev.to/eachampagne/websockets-with-socketio-5edp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built a \"Magic Move\" animation engine for Excalidraw from scratch published",
+        "link": "https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "SmoothUI: 40+ Animated React Components with Motion",
+        "link": "https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Advancing with React: Hooks Deep Dive! (React Day 5)",
+        "link": "https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-12",
     "formattedDate": "January 12, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering React's Dynamic Side: State, Events, and Conditional Rendering! (React Day 3)",
         "link": "https://dev.to/vasughanta09/mastering-reacts-dynamic-side-state-events-and-conditional-rendering-react-day-3-486g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-10",
-    "formattedDate": "January 10, 2026",
-    "news": [
-      {
-        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
-        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "NodeSecure hidden capability: mama",
-        "link": "https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Conditional TypeScript Generics in React Components",
-        "link": "https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
-        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Conditional TypeScript Generics in React Components",
-        "link": "https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building with React: Dive into JSX, Components, and Props! (React Day 2)",
-        "link": "https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2",
         "source": "Dev.to React"
       },
       {
