@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 14, 2026)
+### Today's Updates (January 15, 2026)
+
+#### Dev.to JavaScript
+
+- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
+- [How wrong can a JavaScript Date calculation go?](https://dev.to/philnash/how-wrong-can-a-javascript-date-calculation-go-o26)
+- [🧱 Beginner-Friendly Guide 'Maximize Area of Square Hole in Grid' – LeetCode 2943 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9)
+
+#### Dev.to React
+
+- [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44)
+- [I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code](https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj)
+- [Stop Struggling With Data Fetching in React (React Day 7)](https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 13, 2026)
+### 2 Days Ago (January 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I built a "Magic Move" animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
 - [SmoothUI: 40+ Animated React Components with Motion](https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5)
 - [Advancing with React: Hooks Deep Dive! (React Day 5)](https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 12, 2026)
-
-#### Dev.to JavaScript
-
-- [What Really Happens When an LLM Chooses the Next Token🤯](https://dev.to/louis7/what-really-happens-when-an-llm-chooses-the-next-token-19n7)
-- [Starting My 90-Day "War Mode" Journey: From 0 to Full Stack & DSA](https://dev.to/dhruv_jain_007/starting-my-90-day-war-mode-journey-from-0-to-full-stack-dsa-2467)
-- [maqam music](https://dev.to/okan_kaplan_livehtml/maqam-music-4513)
-
-#### Dev.to React
-
-- [Why Developers Are Leaving Next.js for TanStack Start (And Never Looking Back)](https://dev.to/yakhilesh/why-developers-are-leaving-nextjs-for-tanstack-start-and-never-looking-back-275m)
-- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
-- [Project BookMyShow: Day 6](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-6-2dm4)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-15",
+    "formattedDate": "January 15, 2026",
+    "news": [
+      {
+        "title": "The Secret Life of JavaScript: The Promise",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How wrong can a JavaScript Date calculation go?",
+        "link": "https://dev.to/philnash/how-wrong-can-a-javascript-date-calculation-go-o26",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧱 Beginner-Friendly Guide 'Maximize Area of Square Hole in Grid' – LeetCode 2943 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture",
+        "link": "https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code",
+        "link": "https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Struggling With Data Fetching in React (React Day 7)",
+        "link": "https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-14",
     "formattedDate": "January 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Advancing with React: Hooks Deep Dive! (React Day 5)",
         "link": "https://dev.to/vasughanta09/advancing-with-react-hooks-deep-dive-react-day-5-39fi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-12",
-    "formattedDate": "January 12, 2026",
-    "news": [
-      {
-        "title": "What Really Happens When an LLM Chooses the Next Token🤯",
-        "link": "https://dev.to/louis7/what-really-happens-when-an-llm-chooses-the-next-token-19n7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Starting My 90-Day \"War Mode\" Journey: From 0 to Full Stack & DSA",
-        "link": "https://dev.to/dhruv_jain_007/starting-my-90-day-war-mode-journey-from-0-to-full-stack-dsa-2467",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "maqam music",
-        "link": "https://dev.to/okan_kaplan_livehtml/maqam-music-4513",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Developers Are Leaving Next.js for TanStack Start (And Never Looking Back)",
-        "link": "https://dev.to/yakhilesh/why-developers-are-leaving-nextjs-for-tanstack-start-and-never-looking-back-275m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Smarter SEO Layer for React — Here’s Why",
-        "link": "https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Project BookMyShow: Day 6",
-        "link": "https://dev.to/vishwapratapsingh90/project-bookmyshow-day-6-2dm4",
         "source": "Dev.to React"
       },
       {
