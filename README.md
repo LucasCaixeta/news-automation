@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 16, 2026)
+### Today's Updates (January 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
+- [Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative](https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok)
+- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
+
+#### Dev.to React
+
+- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
+- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
+- [Referential Equality & Memoization: Why `{} !== {}` Breaks React Performance](https://dev.to/tishonator/referential-equality-memoization-why-breaks-react-performance-2fnb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 15, 2026)
+### 2 Days Ago (January 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44)
 - [I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code](https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj)
 - [Stop Struggling With Data Fetching in React (React Day 7)](https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 14, 2026)
-
-#### Dev.to JavaScript
-
-- [🎭Beginner-Friendly Guide 'Separate Squares II' – LeetCode 3454 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-separate-squares-ii-leetcode-3454-c-python-javascript-1pp9)
-- [🤖 CodeMentor AI — An AI-Powered Code Review Tool](https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75)
-- [On Web Framework Performance: A .NET 10 Reality Check](https://dev.to/insight105/on-web-framework-performance-a-net-10-reality-check-4ep5)
-
-#### Dev.to React
-
-- [Type-Safe React: Making Invalid UI States Impossible](https://dev.to/tarunmj6/type-safe-react-making-invalid-ui-states-impossible-2k4d)
-- [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
-- [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! (React Day 6)](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-17",
+    "formattedDate": "January 17, 2026",
+    "news": [
+      {
+        "title": "Code-ing in a Tree: Adding Auto-Save to freeCodeCamp",
+        "link": "https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative",
+        "link": "https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack",
+        "link": "https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Code-ing in a Tree: Adding Auto-Save to freeCodeCamp",
+        "link": "https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "MdBin Levels Up: From Custom Markdown Pipeline to Streamdown",
+        "link": "https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Referential Equality & Memoization: Why `{} !== {}` Breaks React Performance",
+        "link": "https://dev.to/tishonator/referential-equality-memoization-why-breaks-react-performance-2fnb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-16",
     "formattedDate": "January 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Struggling With Data Fetching in React (React Day 7)",
         "link": "https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-14",
-    "formattedDate": "January 14, 2026",
-    "news": [
-      {
-        "title": "🎭Beginner-Friendly Guide 'Separate Squares II' – LeetCode 3454 (C++, Python, JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-separate-squares-ii-leetcode-3454-c-python-javascript-1pp9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🤖 CodeMentor AI — An AI-Powered Code Review Tool",
-        "link": "https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "On Web Framework Performance: A .NET 10 Reality Check",
-        "link": "https://dev.to/insight105/on-web-framework-performance-a-net-10-reality-check-4ep5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Type-Safe React: Making Invalid UI States Impossible",
-        "link": "https://dev.to/tarunmj6/type-safe-react-making-invalid-ui-states-impossible-2k4d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building an AI Blog Generator with FastAPI, React, and Hugging Face",
-        "link": "https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! (React Day 6)",
-        "link": "https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko",
         "source": "Dev.to React"
       },
       {
