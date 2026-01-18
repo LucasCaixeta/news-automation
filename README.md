@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 17, 2026)
+### Today's Updates (January 18, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
+- [Coding Challenge Practice - Question 105](https://dev.to/tomivan/coding-challenge-practice-question-105-423m)
+- [🧩 Beginner-Friendly Guide 'Largest Magic Square' – LeetCode 1895 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-largest-magic-square-leetcode-1895-c-python-javascript-191j)
+
+#### Dev.to React
+
+- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
+- [Composition vs Inheritance: Why React Chose the "Has-A" Over "Is-A" Relationship](https://dev.to/tishonator/composition-vs-inheritance-why-react-chose-the-has-a-over-is-a-relationship-5108)
+- [From React Rookie to Pro: Mastering the Modern Ecosystem and Landing Your Dream Gig! (React Day 10)](https://dev.to/vasughanta09/from-react-rookie-to-pro-mastering-the-modern-ecosystem-and-landing-your-dream-gig-react-day-10-51n4)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 16, 2026)
+### 2 Days Ago (January 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
 - [Atomic Design: From UI Composition to Real-World Applications](https://dev.to/josephciullo/atomic-design-from-ui-composition-to-real-world-applications-j25)
 - [Kneel Before Zod!](https://dev.to/eugenioenko/kneel-before-zod-5edm)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 15, 2026)
-
-#### Dev.to JavaScript
-
-- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
-- [How wrong can a JavaScript Date calculation go?](https://dev.to/philnash/how-wrong-can-a-javascript-date-calculation-go-o26)
-- [🧱 Beginner-Friendly Guide 'Maximize Area of Square Hole in Grid' – LeetCode 2943 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9)
-
-#### Dev.to React
-
-- [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44)
-- [I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code](https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj)
-- [Stop Struggling With Data Fetching in React (React Day 7)](https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-18",
+    "formattedDate": "January 18, 2026",
+    "news": [
+      {
+        "title": "I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack",
+        "link": "https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Coding Challenge Practice - Question 105",
+        "link": "https://dev.to/tomivan/coding-challenge-practice-question-105-423m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧩 Beginner-Friendly Guide 'Largest Magic Square' – LeetCode 1895 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-largest-magic-square-leetcode-1895-c-python-javascript-191j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Adding Multi-Lingual Support in React",
+        "link": "https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Composition vs Inheritance: Why React Chose the \"Has-A\" Over \"Is-A\" Relationship",
+        "link": "https://dev.to/tishonator/composition-vs-inheritance-why-react-chose-the-has-a-over-is-a-relationship-5108",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From React Rookie to Pro: Mastering the Modern Ecosystem and Landing Your Dream Gig! (React Day 10)",
+        "link": "https://dev.to/vasughanta09/from-react-rookie-to-pro-mastering-the-modern-ecosystem-and-landing-your-dream-gig-react-day-10-51n4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-17",
     "formattedDate": "January 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Kneel Before Zod!",
         "link": "https://dev.to/eugenioenko/kneel-before-zod-5edm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-15",
-    "formattedDate": "January 15, 2026",
-    "news": [
-      {
-        "title": "The Secret Life of JavaScript: The Promise",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How wrong can a JavaScript Date calculation go?",
-        "link": "https://dev.to/philnash/how-wrong-can-a-javascript-date-calculation-go-o26",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧱 Beginner-Friendly Guide 'Maximize Area of Square Hole in Grid' – LeetCode 2943 (C++, Python, JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture",
-        "link": "https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code",
-        "link": "https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Struggling With Data Fetching in React (React Day 7)",
-        "link": "https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i",
         "source": "Dev.to React"
       },
       {
