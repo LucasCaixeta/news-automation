@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 18, 2026)
+### Today's Updates (January 19, 2026)
+
+#### Dev.to JavaScript
+
+- [HTML/CSS to PDF: How I Solved the "Page Break" Nightmare](https://dev.to/resumemind/htmlcss-to-pdf-how-i-solved-the-page-break-nightmare-mdg)
+- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
+- [Choosing a Data Structure for a Shopping Cart (Array vs Object vs Map)](https://dev.to/edriso/choosing-a-data-structure-for-a-shopping-cart-array-vs-object-vs-map-3khg)
+
+#### Dev.to React
+
+- [Stop Configuring, Start Shipping: My Ultimate FastAPI + React SaaS Stack](https://dev.to/mehdidch/stop-configuring-start-shipping-my-ultimate-fastapi-react-saas-stack-2ad5)
+- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
+- [Building in Public: CV Analyzer - Act 2 · Scene 1 - Laying Down the App’s Spine (Main Navigation)](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-2-scene-1-laying-down-the-apps-spine-main-navigation-2i89)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 17, 2026)
+### 2 Days Ago (January 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
 - [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
 - [Referential Equality & Memoization: Why `{} !== {}` Breaks React Performance](https://dev.to/tishonator/referential-equality-memoization-why-breaks-react-performance-2fnb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 16, 2026)
-
-#### Dev.to JavaScript
-
-- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
-- [Limiting GraphQL Query Depth the Right Way](https://dev.to/mateodiaz/limiting-graphql-query-depth-the-right-way-1h65)
-- [Building a Smooth 60fps Video Player in Node.js.](https://dev.to/sfundomhlungu/building-a-smooth-60fps-video-player-in-nodejs-29aa)
-
-#### Dev.to React
-
-- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
-- [Atomic Design: From UI Composition to Real-World Applications](https://dev.to/josephciullo/atomic-design-from-ui-composition-to-real-world-applications-j25)
-- [Kneel Before Zod!](https://dev.to/eugenioenko/kneel-before-zod-5edm)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-19",
+    "formattedDate": "January 19, 2026",
+    "news": [
+      {
+        "title": "HTML/CSS to PDF: How I Solved the \"Page Break\" Nightmare",
+        "link": "https://dev.to/resumemind/htmlcss-to-pdf-how-i-solved-the-page-break-nightmare-mdg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Adding Multi-Lingual Support in React",
+        "link": "https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Choosing a Data Structure for a Shopping Cart (Array vs Object vs Map)",
+        "link": "https://dev.to/edriso/choosing-a-data-structure-for-a-shopping-cart-array-vs-object-vs-map-3khg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Configuring, Start Shipping: My Ultimate FastAPI + React SaaS Stack",
+        "link": "https://dev.to/mehdidch/stop-configuring-start-shipping-my-ultimate-fastapi-react-saas-stack-2ad5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Adding Multi-Lingual Support in React",
+        "link": "https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building in Public: CV Analyzer - Act 2 · Scene 1 - Laying Down the App’s Spine (Main Navigation)",
+        "link": "https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-2-scene-1-laying-down-the-apps-spine-main-navigation-2i89",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-18",
     "formattedDate": "January 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Referential Equality & Memoization: Why `{} !== {}` Breaks React Performance",
         "link": "https://dev.to/tishonator/referential-equality-memoization-why-breaks-react-performance-2fnb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-16",
-    "formattedDate": "January 16, 2026",
-    "news": [
-      {
-        "title": "The Secret Life of JavaScript: The Promise",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Limiting GraphQL Query Depth the Right Way",
-        "link": "https://dev.to/mateodiaz/limiting-graphql-query-depth-the-right-way-1h65",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Smooth 60fps Video Player in Node.js.",
-        "link": "https://dev.to/sfundomhlungu/building-a-smooth-60fps-video-player-in-nodejs-29aa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Code-ing in a Tree: Adding Auto-Save to freeCodeCamp",
-        "link": "https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Atomic Design: From UI Composition to Real-World Applications",
-        "link": "https://dev.to/josephciullo/atomic-design-from-ui-composition-to-real-world-applications-j25",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Kneel Before Zod!",
-        "link": "https://dev.to/eugenioenko/kneel-before-zod-5edm",
         "source": "Dev.to React"
       },
       {
