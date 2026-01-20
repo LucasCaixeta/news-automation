@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 19, 2026)
+### Today's Updates (January 20, 2026)
+
+#### Dev.to JavaScript
+
+- [I built Vercube because benchmarks don’t lie](https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7)
+- [Introducing graphql-complexity-validation](https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d)
+- [Revisiting: Clean Up Your Code by Applying These 7 Rules](https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj)
+
+#### Dev.to React
+
+- [Building a Production-Ready Portfolio: Phase-2 — Layout, Navigation & Routing Foundations](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-layout-navigation-routing-foundations-4o1f)
+- [Fetching API Data with TypeScript: Using Type Assertions](https://dev.to/victorugs_dev/fetching-api-data-with-typescript-using-type-assertions-16db)
+- [React 2026: Why the All-Client SPA Is Becoming Legacy Code](https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 18, 2026)
+### 2 Days Ago (January 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
 - [Composition vs Inheritance: Why React Chose the "Has-A" Over "Is-A" Relationship](https://dev.to/tishonator/composition-vs-inheritance-why-react-chose-the-has-a-over-is-a-relationship-5108)
 - [From React Rookie to Pro: Mastering the Modern Ecosystem and Landing Your Dream Gig! (React Day 10)](https://dev.to/vasughanta09/from-react-rookie-to-pro-mastering-the-modern-ecosystem-and-landing-your-dream-gig-react-day-10-51n4)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 17, 2026)
-
-#### Dev.to JavaScript
-
-- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
-- [Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative](https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok)
-- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
-
-#### Dev.to React
-
-- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
-- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
-- [Referential Equality & Memoization: Why `{} !== {}` Breaks React Performance](https://dev.to/tishonator/referential-equality-memoization-why-breaks-react-performance-2fnb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-20",
+    "formattedDate": "January 20, 2026",
+    "news": [
+      {
+        "title": "I built Vercube because benchmarks don’t lie",
+        "link": "https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Introducing graphql-complexity-validation",
+        "link": "https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Revisiting: Clean Up Your Code by Applying These 7 Rules",
+        "link": "https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Production-Ready Portfolio: Phase-2 — Layout, Navigation & Routing Foundations",
+        "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-layout-navigation-routing-foundations-4o1f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Fetching API Data with TypeScript: Using Type Assertions",
+        "link": "https://dev.to/victorugs_dev/fetching-api-data-with-typescript-using-type-assertions-16db",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
+        "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-19",
     "formattedDate": "January 19, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "From React Rookie to Pro: Mastering the Modern Ecosystem and Landing Your Dream Gig! (React Day 10)",
         "link": "https://dev.to/vasughanta09/from-react-rookie-to-pro-mastering-the-modern-ecosystem-and-landing-your-dream-gig-react-day-10-51n4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-17",
-    "formattedDate": "January 17, 2026",
-    "news": [
-      {
-        "title": "Code-ing in a Tree: Adding Auto-Save to freeCodeCamp",
-        "link": "https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative",
-        "link": "https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack",
-        "link": "https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Code-ing in a Tree: Adding Auto-Save to freeCodeCamp",
-        "link": "https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MdBin Levels Up: From Custom Markdown Pipeline to Streamdown",
-        "link": "https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Referential Equality & Memoization: Why `{} !== {}` Breaks React Performance",
-        "link": "https://dev.to/tishonator/referential-equality-memoization-why-breaks-react-performance-2fnb",
         "source": "Dev.to React"
       },
       {
