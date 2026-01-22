@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 21, 2026)
+### Today's Updates (January 22, 2026)
+
+#### Dev.to JavaScript
+
+- [Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)](https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh)
+- [The Secret Life of JavaScript: The Garbage Collector](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok)
+- [How to Calculate Accurate Prayer Times Using JavaScript (Riyadh Case Study)](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
+
+#### Dev.to React
+
+- [Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)](https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh)
+- [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473)
+- [asChild: Understanding the Slot Pattern in React](https://dev.to/pandresdev/aschild-understanding-the-slot-pattern-in-react-ifo)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 20, 2026)
+### 2 Days Ago (January 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Production-Ready Portfolio: Phase-2 — Layout, Navigation & Routing Foundations](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-layout-navigation-routing-foundations-4o1f)
 - [Fetching API Data with TypeScript: Using Type Assertions](https://dev.to/victorugs_dev/fetching-api-data-with-typescript-using-type-assertions-16db)
 - [React 2026: Why the All-Client SPA Is Becoming Legacy Code](https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 19, 2026)
-
-#### Dev.to JavaScript
-
-- [HTML/CSS to PDF: How I Solved the "Page Break" Nightmare](https://dev.to/resumemind/htmlcss-to-pdf-how-i-solved-the-page-break-nightmare-mdg)
-- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
-- [Choosing a Data Structure for a Shopping Cart (Array vs Object vs Map)](https://dev.to/edriso/choosing-a-data-structure-for-a-shopping-cart-array-vs-object-vs-map-3khg)
-
-#### Dev.to React
-
-- [Stop Configuring, Start Shipping: My Ultimate FastAPI + React SaaS Stack](https://dev.to/mehdidch/stop-configuring-start-shipping-my-ultimate-fastapi-react-saas-stack-2ad5)
-- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
-- [Building in Public: CV Analyzer - Act 2 · Scene 1 - Laying Down the App’s Spine (Main Navigation)](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-2-scene-1-laying-down-the-apps-spine-main-navigation-2i89)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-22",
+    "formattedDate": "January 22, 2026",
+    "news": [
+      {
+        "title": "Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: The Garbage Collector",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Calculate Accurate Prayer Times Using JavaScript (Riyadh Case Study)",
+        "link": "https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3",
+        "link": "https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "asChild: Understanding the Slot Pattern in React",
+        "link": "https://dev.to/pandresdev/aschild-understanding-the-slot-pattern-in-react-ifo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-21",
     "formattedDate": "January 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
         "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-19",
-    "formattedDate": "January 19, 2026",
-    "news": [
-      {
-        "title": "HTML/CSS to PDF: How I Solved the \"Page Break\" Nightmare",
-        "link": "https://dev.to/resumemind/htmlcss-to-pdf-how-i-solved-the-page-break-nightmare-mdg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Adding Multi-Lingual Support in React",
-        "link": "https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Choosing a Data Structure for a Shopping Cart (Array vs Object vs Map)",
-        "link": "https://dev.to/edriso/choosing-a-data-structure-for-a-shopping-cart-array-vs-object-vs-map-3khg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Configuring, Start Shipping: My Ultimate FastAPI + React SaaS Stack",
-        "link": "https://dev.to/mehdidch/stop-configuring-start-shipping-my-ultimate-fastapi-react-saas-stack-2ad5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Adding Multi-Lingual Support in React",
-        "link": "https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building in Public: CV Analyzer - Act 2 · Scene 1 - Laying Down the App’s Spine (Main Navigation)",
-        "link": "https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-2-scene-1-laying-down-the-apps-spine-main-navigation-2i89",
         "source": "Dev.to React"
       },
       {
