@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 24, 2026)
+### Today's Updates (January 25, 2026)
+
+#### Dev.to JavaScript
+
+- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
+- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
+- [ReactJS Hook Pattern ~Effect Separation Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp)
+
+#### Dev.to React
+
+- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
+- [React Render vs Commit: What Actually Happens (DOM vs React Native)](https://dev.to/mbugua70/react-render-vs-commit-what-actually-happens-dom-vs-react-native-2f7o)
+- [ReactJS Hook Pattern ~Effect Separation Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 23, 2026)
+### 2 Days Ago (January 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why React Feels So Confusing: My Observations](https://dev.to/a-k-0047/why-react-feels-so-confusing-my-observations-3djh)
 - [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473)
 - [Bring MCP Apps into your OWN app with CopilotKit & AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 22, 2026)
-
-#### Dev.to JavaScript
-
-- [Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)](https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh)
-- [The Secret Life of JavaScript: The Garbage Collector](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok)
-- [How to Calculate Accurate Prayer Times Using JavaScript (Riyadh Case Study)](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
-
-#### Dev.to React
-
-- [Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)](https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh)
-- [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473)
-- [asChild: Understanding the Slot Pattern in React](https://dev.to/pandresdev/aschild-understanding-the-slot-pattern-in-react-ifo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-25",
+    "formattedDate": "January 25, 2026",
+    "news": [
+      {
+        "title": "This portfolio isn’t perfect, but it’s 100% mine",
+        "link": "https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Part 2 - The Fiber Revolution (React 16)",
+        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ReactJS Hook Pattern ~Effect Separation Pattern~",
+        "link": "https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Part 2 - The Fiber Revolution (React 16)",
+        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Render vs Commit: What Actually Happens (DOM vs React Native)",
+        "link": "https://dev.to/mbugua70/react-render-vs-commit-what-actually-happens-dom-vs-react-native-2f7o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ReactJS Hook Pattern ~Effect Separation Pattern~",
+        "link": "https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-24",
     "formattedDate": "January 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Bring MCP Apps into your OWN app with CopilotKit & AG-UI",
         "link": "https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-22",
-    "formattedDate": "January 22, 2026",
-    "news": [
-      {
-        "title": "Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: The Garbage Collector",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Calculate Accurate Prayer Times Using JavaScript (Riyadh Case Study)",
-        "link": "https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3",
-        "link": "https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "asChild: Understanding the Slot Pattern in React",
-        "link": "https://dev.to/pandresdev/aschild-understanding-the-slot-pattern-in-react-ifo",
         "source": "Dev.to React"
       },
       {
