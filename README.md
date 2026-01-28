@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 27, 2026)
+### Today's Updates (January 28, 2026)
+
+#### Dev.to JavaScript
+
+- [Bumpy: zero-config monorepo releases powered by Git history](https://dev.to/antonreshetov/bumpy-zero-config-monorepo-releases-powered-by-git-history-1nhe)
+- [🌀 Beginner-Friendly Guide 'Minimum Cost Path with Teleportations' - LeetCode 3651 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
+- [How I Made Netflix Give Me 4K (Because Apparently My Browser Wasn't Good Enough)](https://dev.to/picklepixel/how-i-made-netflix-give-me-4k-because-apparently-my-browser-wasnt-good-enough-4fa2)
+
+#### Dev.to React
+
+- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
+- [The Personal Branding Playbook Developers Don't Want to Admit They Need 😎](https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72)
+- [I Built a 'Fourth Clover' for Writers: A Minimalist Next.js Blogging Platform 🍀](https://dev.to/aryan-dani/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 26, 2026)
+### 2 Days Ago (January 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
 - [GPT-4o Vision: Building a Smart Home Pharmacy Guard for Drug-Drug Interactions (DDI)](https://dev.to/beck_moulton/gpt-4o-vision-building-a-smart-home-pharmacy-guard-for-drug-drug-interactions-ddi-52ap)
 - [How I Built an LLM Chat UI Better Than ChatGPT (As a Backend Engineer)](https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 25, 2026)
-
-#### Dev.to JavaScript
-
-- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
-- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
-- [ReactJS Hook Pattern ~Effect Separation Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp)
-
-#### Dev.to React
-
-- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
-- [React Render vs Commit: What Actually Happens (DOM vs React Native)](https://dev.to/mbugua70/react-render-vs-commit-what-actually-happens-dom-vs-react-native-2f7o)
-- [ReactJS Hook Pattern ~Effect Separation Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-28",
+    "formattedDate": "January 28, 2026",
+    "news": [
+      {
+        "title": "Bumpy: zero-config monorepo releases powered by Git history",
+        "link": "https://dev.to/antonreshetov/bumpy-zero-config-monorepo-releases-powered-by-git-history-1nhe",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🌀 Beginner-Friendly Guide 'Minimum Cost Path with Teleportations' - LeetCode 3651 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Made Netflix Give Me 4K (Because Apparently My Browser Wasn't Good Enough)",
+        "link": "https://dev.to/picklepixel/how-i-made-netflix-give-me-4k-because-apparently-my-browser-wasnt-good-enough-4fa2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "20+ Best Shadcn UI Blocks for Building Real Products Faster",
+        "link": "https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Personal Branding Playbook Developers Don't Want to Admit They Need 😎",
+        "link": "https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a 'Fourth Clover' for Writers: A Minimalist Next.js Blogging Platform 🍀",
+        "link": "https://dev.to/aryan-dani/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-27",
     "formattedDate": "January 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built an LLM Chat UI Better Than ChatGPT (As a Backend Engineer)",
         "link": "https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-25",
-    "formattedDate": "January 25, 2026",
-    "news": [
-      {
-        "title": "This portfolio isn’t perfect, but it’s 100% mine",
-        "link": "https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 2 - The Fiber Revolution (React 16)",
-        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ReactJS Hook Pattern ~Effect Separation Pattern~",
-        "link": "https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 2 - The Fiber Revolution (React 16)",
-        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Render vs Commit: What Actually Happens (DOM vs React Native)",
-        "link": "https://dev.to/mbugua70/react-render-vs-commit-what-actually-happens-dom-vs-react-native-2f7o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "ReactJS Hook Pattern ~Effect Separation Pattern~",
-        "link": "https://dev.to/kkr0423/reactjs-hook-pattern-effect-separation-pattern-5ffp",
         "source": "Dev.to React"
       },
       {
