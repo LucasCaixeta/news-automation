@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 28, 2026)
+### Today's Updates (January 29, 2026)
+
+#### Dev.to JavaScript
+
+- [Creating a Chatbot that actually Stands Out! (vibe coded version)🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
+- [React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
+- [Implementing the Newtype Pattern with Zod: Enhancing Type Safety in TypeScript](https://dev.to/tumf/implementing-the-newtype-pattern-with-zod-enhancing-type-safety-in-typescript-5c62)
+
+#### Dev.to React
+
+- [Why You Need a ChatGPT App Framework](https://dev.to/abewheeler/why-you-need-a-chatgpt-app-framework-1bmc)
+- [React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
+- [Why I refused to learn React for my first project (And used Vanilla JS instead)](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 27, 2026)
+### 2 Days Ago (January 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
 - [Understanding Routing and Single Page Applications in React (A Beginner’s Perspective)](https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68)
 - [How I Built a React Portfolio in 7 Days That Landed ₹1.2L in Freelance Work](https://dev.to/dharanidharan_d_tech/how-i-built-a-react-portfolio-in-7-days-that-landed-12l-in-freelance-work-25b1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 26, 2026)
-
-#### Dev.to JavaScript
-
-- [I built a lightweight framework for Japan's "SI" projects (third attempt in 10 years)](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
-- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
-- [Why NaN !== NaN Makes Perfect Sense (I Promise)](https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke)
-
-#### Dev.to React
-
-- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
-- [GPT-4o Vision: Building a Smart Home Pharmacy Guard for Drug-Drug Interactions (DDI)](https://dev.to/beck_moulton/gpt-4o-vision-building-a-smart-home-pharmacy-guard-for-drug-drug-interactions-ddi-52ap)
-- [How I Built an LLM Chat UI Better Than ChatGPT (As a Backend Engineer)](https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-29",
+    "formattedDate": "January 29, 2026",
+    "news": [
+      {
+        "title": "Creating a Chatbot that actually Stands Out! (vibe coded version)🦖",
+        "link": "https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite",
+        "link": "https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Implementing the Newtype Pattern with Zod: Enhancing Type Safety in TypeScript",
+        "link": "https://dev.to/tumf/implementing-the-newtype-pattern-with-zod-enhancing-type-safety-in-typescript-5c62",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why You Need a ChatGPT App Framework",
+        "link": "https://dev.to/abewheeler/why-you-need-a-chatgpt-app-framework-1bmc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite",
+        "link": "https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I refused to learn React for my first project (And used Vanilla JS instead)",
+        "link": "https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-28",
     "formattedDate": "January 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built a React Portfolio in 7 Days That Landed ₹1.2L in Freelance Work",
         "link": "https://dev.to/dharanidharan_d_tech/how-i-built-a-react-portfolio-in-7-days-that-landed-12l-in-freelance-work-25b1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-26",
-    "formattedDate": "January 26, 2026",
-    "news": [
-      {
-        "title": "I built a lightweight framework for Japan's \"SI\" projects (third attempt in 10 years)",
-        "link": "https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 2 - The Fiber Revolution (React 16)",
-        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why NaN !== NaN Makes Perfect Sense (I Promise)",
-        "link": "https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 2 - The Fiber Revolution (React 16)",
-        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "GPT-4o Vision: Building a Smart Home Pharmacy Guard for Drug-Drug Interactions (DDI)",
-        "link": "https://dev.to/beck_moulton/gpt-4o-vision-building-a-smart-home-pharmacy-guard-for-drug-drug-interactions-ddi-52ap",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built an LLM Chat UI Better Than ChatGPT (As a Backend Engineer)",
-        "link": "https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5",
         "source": "Dev.to React"
       },
       {
