@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 29, 2026)
+### Today's Updates (January 30, 2026)
+
+#### Dev.to JavaScript
+
+- [The Secret Life of JavaScript: The Shadow (Hoisting)](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-shadow-hoisting-1369)
+- [protomaps-leaflet label display](https://dev.to/iranon/protomaps-leaflet-label-display-758)
+- [Advanced Asynchronous Patterns in JavaScript](https://dev.to/gkoos/advanced-asynchronous-patterns-in-javascript-20db)
+
+#### Dev.to React
+
+- [ReactJS Hook Pattern ~Abandon Rendering~](https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k)
+- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
+- [Migrating to Next.js 16 & React 19: A Platform Upgrade That Paid Off](https://dev.to/abhilashlr/migrating-to-nextjs-16-react-19-a-platform-upgrade-that-paid-off-4j6f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 28, 2026)
+### 2 Days Ago (January 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
 - [The Personal Branding Playbook Developers Don't Want to Admit They Need 😎](https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72)
 - [I Built a 'Fourth Clover' for Writers: A Minimalist Next.js Blogging Platform 🍀](https://dev.to/aryan-dani/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 27, 2026)
-
-#### Dev.to JavaScript
-
-- [Stop Flying Blind: BullMQ Queue Observability with bullstudio](https://dev.to/emirce/stop-flying-blind-bullmq-queue-observability-with-bullstudio-956)
-- [I built a lightweight framework for Japan's "SI" projects (third attempt in 10 years)](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
-- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
-
-#### Dev.to React
-
-- [Part 2 - The Fiber Revolution (React 16)](https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54)
-- [Understanding Routing and Single Page Applications in React (A Beginner’s Perspective)](https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68)
-- [How I Built a React Portfolio in 7 Days That Landed ₹1.2L in Freelance Work](https://dev.to/dharanidharan_d_tech/how-i-built-a-react-portfolio-in-7-days-that-landed-12l-in-freelance-work-25b1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-30",
+    "formattedDate": "January 30, 2026",
+    "news": [
+      {
+        "title": "The Secret Life of JavaScript: The Shadow (Hoisting)",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-shadow-hoisting-1369",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "protomaps-leaflet label display",
+        "link": "https://dev.to/iranon/protomaps-leaflet-label-display-758",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Advanced Asynchronous Patterns in JavaScript",
+        "link": "https://dev.to/gkoos/advanced-asynchronous-patterns-in-javascript-20db",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ReactJS Hook Pattern ~Abandon Rendering~",
+        "link": "https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)",
+        "link": "https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Migrating to Next.js 16 & React 19: A Platform Upgrade That Paid Off",
+        "link": "https://dev.to/abhilashlr/migrating-to-nextjs-16-react-19-a-platform-upgrade-that-paid-off-4j6f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-29",
     "formattedDate": "January 29, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a 'Fourth Clover' for Writers: A Minimalist Next.js Blogging Platform 🍀",
         "link": "https://dev.to/aryan-dani/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-27",
-    "formattedDate": "January 27, 2026",
-    "news": [
-      {
-        "title": "Stop Flying Blind: BullMQ Queue Observability with bullstudio",
-        "link": "https://dev.to/emirce/stop-flying-blind-bullmq-queue-observability-with-bullstudio-956",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a lightweight framework for Japan's \"SI\" projects (third attempt in 10 years)",
-        "link": "https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 2 - The Fiber Revolution (React 16)",
-        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Part 2 - The Fiber Revolution (React 16)",
-        "link": "https://dev.to/nehamalviaaa/part-2-the-fiber-revolution-react-16-3g54",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Understanding Routing and Single Page Applications in React (A Beginner’s Perspective)",
-        "link": "https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a React Portfolio in 7 Days That Landed ₹1.2L in Freelance Work",
-        "link": "https://dev.to/dharanidharan_d_tech/how-i-built-a-react-portfolio-in-7-days-that-landed-12l-in-freelance-work-25b1",
         "source": "Dev.to React"
       },
       {
