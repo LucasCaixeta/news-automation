@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 30, 2026)
+### Today's Updates (January 31, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Job Queue That's 32x Faster Than BullMQ (No Redis Required)](https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g)
+- [NAT Traversal: How It Works](https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc)
+- [When and How to Use LRU Cache in Node.js Backend Projects](https://dev.to/darkmavis1980/when-and-how-to-use-lru-cache-in-nodejs-backend-projects-42c8)
+
+#### Dev.to React
+
+- [ReactJS Hook Pattern ~Abandon Rendering~](https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k)
+- [This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn](https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p)
+- [Introducing BoldKit: A Neubrutalism React Component Library](https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 29, 2026)
+### 2 Days Ago (January 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why You Need a ChatGPT App Framework](https://dev.to/abewheeler/why-you-need-a-chatgpt-app-framework-1bmc)
 - [React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
 - [Why I refused to learn React for my first project (And used Vanilla JS instead)](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 28, 2026)
-
-#### Dev.to JavaScript
-
-- [Bumpy: zero-config monorepo releases powered by Git history](https://dev.to/antonreshetov/bumpy-zero-config-monorepo-releases-powered-by-git-history-1nhe)
-- [🌀 Beginner-Friendly Guide 'Minimum Cost Path with Teleportations' - LeetCode 3651 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
-- [How I Made Netflix Give Me 4K (Because Apparently My Browser Wasn't Good Enough)](https://dev.to/picklepixel/how-i-made-netflix-give-me-4k-because-apparently-my-browser-wasnt-good-enough-4fa2)
-
-#### Dev.to React
-
-- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
-- [The Personal Branding Playbook Developers Don't Want to Admit They Need 😎](https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72)
-- [I Built a 'Fourth Clover' for Writers: A Minimalist Next.js Blogging Platform 🍀](https://dev.to/aryan-dani/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-01-31",
+    "formattedDate": "January 31, 2026",
+    "news": [
+      {
+        "title": "I Built a Job Queue That's 32x Faster Than BullMQ (No Redis Required)",
+        "link": "https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "NAT Traversal: How It Works",
+        "link": "https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "When and How to Use LRU Cache in Node.js Backend Projects",
+        "link": "https://dev.to/darkmavis1980/when-and-how-to-use-lru-cache-in-nodejs-backend-projects-42c8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ReactJS Hook Pattern ~Abandon Rendering~",
+        "link": "https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Introducing BoldKit: A Neubrutalism React Component Library",
+        "link": "https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-30",
     "formattedDate": "January 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why I refused to learn React for my first project (And used Vanilla JS instead)",
         "link": "https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-28",
-    "formattedDate": "January 28, 2026",
-    "news": [
-      {
-        "title": "Bumpy: zero-config monorepo releases powered by Git history",
-        "link": "https://dev.to/antonreshetov/bumpy-zero-config-monorepo-releases-powered-by-git-history-1nhe",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🌀 Beginner-Friendly Guide 'Minimum Cost Path with Teleportations' - LeetCode 3651 (C++, Python, JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Made Netflix Give Me 4K (Because Apparently My Browser Wasn't Good Enough)",
-        "link": "https://dev.to/picklepixel/how-i-made-netflix-give-me-4k-because-apparently-my-browser-wasnt-good-enough-4fa2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "20+ Best Shadcn UI Blocks for Building Real Products Faster",
-        "link": "https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Personal Branding Playbook Developers Don't Want to Admit They Need 😎",
-        "link": "https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a 'Fourth Clover' for Writers: A Minimalist Next.js Blogging Platform 🍀",
-        "link": "https://dev.to/aryan-dani/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja",
         "source": "Dev.to React"
       },
       {
