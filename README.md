@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (January 31, 2026)
+### Today's Updates (February 1, 2026)
+
+#### Dev.to JavaScript
+
+- [Reducing FOUC with Web Components](https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh)
+- [Practical Introduction to Async Generators in JavaScript](https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5)
+- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
+
+#### Dev.to React
+
+- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
+- [Fix CORS, SQL Injection & MySQL Pooling in React + Node.js](https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo)
+- [DenunzIA: E2EE Anonymous Reporting Platform (Looking for Security Audit/Feedback)](https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (January 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 30, 2026)
+### 2 Days Ago (January 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [ReactJS Hook Pattern ~Abandon Rendering~](https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k)
 - [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
 - [Migrating to Next.js 16 & React 19: A Platform Upgrade That Paid Off](https://dev.to/abhilashlr/migrating-to-nextjs-16-react-19-a-platform-upgrade-that-paid-off-4j6f)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 29, 2026)
-
-#### Dev.to JavaScript
-
-- [Creating a Chatbot that actually Stands Out! (vibe coded version)🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
-- [React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
-- [Implementing the Newtype Pattern with Zod: Enhancing Type Safety in TypeScript](https://dev.to/tumf/implementing-the-newtype-pattern-with-zod-enhancing-type-safety-in-typescript-5c62)
-
-#### Dev.to React
-
-- [Why You Need a ChatGPT App Framework](https://dev.to/abewheeler/why-you-need-a-chatgpt-app-framework-1bmc)
-- [React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite](https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60)
-- [Why I refused to learn React for my first project (And used Vanilla JS instead)](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-01",
+    "formattedDate": "February 1, 2026",
+    "news": [
+      {
+        "title": "Reducing FOUC with Web Components",
+        "link": "https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Practical Introduction to Async Generators in JavaScript",
+        "link": "https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions",
+        "link": "https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines",
+        "link": "https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Fix CORS, SQL Injection & MySQL Pooling in React + Node.js",
+        "link": "https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "DenunzIA: E2EE Anonymous Reporting Platform (Looking for Security Audit/Feedback)",
+        "link": "https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-01-31",
     "formattedDate": "January 31, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Migrating to Next.js 16 & React 19: A Platform Upgrade That Paid Off",
         "link": "https://dev.to/abhilashlr/migrating-to-nextjs-16-react-19-a-platform-upgrade-that-paid-off-4j6f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-29",
-    "formattedDate": "January 29, 2026",
-    "news": [
-      {
-        "title": "Creating a Chatbot that actually Stands Out! (vibe coded version)🦖",
-        "link": "https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite",
-        "link": "https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Implementing the Newtype Pattern with Zod: Enhancing Type Safety in TypeScript",
-        "link": "https://dev.to/tumf/implementing-the-newtype-pattern-with-zod-enhancing-type-safety-in-typescript-5c62",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why You Need a ChatGPT App Framework",
-        "link": "https://dev.to/abewheeler/why-you-need-a-chatgpt-app-framework-1bmc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Query Complete Beginner's Guide - TanStack Query v5 + React + Vite",
-        "link": "https://dev.to/myogeshchavan97/react-query-complete-beginners-guide-tanstack-query-v5-react-vite-4h60",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I refused to learn React for my first project (And used Vanilla JS instead)",
-        "link": "https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0",
         "source": "Dev.to React"
       },
       {
