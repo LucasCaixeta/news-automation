@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 1, 2026)
+### Today's Updates (February 2, 2026)
+
+#### Dev.to JavaScript
+
+- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
+- [The Secret Life of JavaScript: The Generator](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-generator-1fi5)
+- [Detecting Phishing Patterns in Microservices with JavaScript: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-in-microservices-with-javascript-a-senior-architects-approach-1e0k)
+
+#### Dev.to React
+
+- [React Best Practices in Cursor](https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e)
+- [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
+- [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (January 31, 2026)
+### 2 Days Ago (January 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [ReactJS Hook Pattern ~Abandon Rendering~](https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k)
 - [This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn](https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p)
 - [Introducing BoldKit: A Neubrutalism React Component Library](https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 30, 2026)
-
-#### Dev.to JavaScript
-
-- [The Secret Life of JavaScript: The Shadow (Hoisting)](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-shadow-hoisting-1369)
-- [protomaps-leaflet label display](https://dev.to/iranon/protomaps-leaflet-label-display-758)
-- [Advanced Asynchronous Patterns in JavaScript](https://dev.to/gkoos/advanced-asynchronous-patterns-in-javascript-20db)
-
-#### Dev.to React
-
-- [ReactJS Hook Pattern ~Abandon Rendering~](https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k)
-- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
-- [Migrating to Next.js 16 & React 19: A Platform Upgrade That Paid Off](https://dev.to/abhilashlr/migrating-to-nextjs-16-react-19-a-platform-upgrade-that-paid-off-4j6f)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-02",
+    "formattedDate": "February 2, 2026",
+    "news": [
+      {
+        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: The Generator",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-generator-1fi5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Detecting Phishing Patterns in Microservices with JavaScript: A Senior Architect’s Approach",
+        "link": "https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-in-microservices-with-javascript-a-senior-architects-approach-1e0k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Best Practices in Cursor",
+        "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
+        "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
+        "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-01",
     "formattedDate": "February 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Introducing BoldKit: A Neubrutalism React Component Library",
         "link": "https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-30",
-    "formattedDate": "January 30, 2026",
-    "news": [
-      {
-        "title": "The Secret Life of JavaScript: The Shadow (Hoisting)",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-shadow-hoisting-1369",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "protomaps-leaflet label display",
-        "link": "https://dev.to/iranon/protomaps-leaflet-label-display-758",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Advanced Asynchronous Patterns in JavaScript",
-        "link": "https://dev.to/gkoos/advanced-asynchronous-patterns-in-javascript-20db",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ReactJS Hook Pattern ~Abandon Rendering~",
-        "link": "https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)",
-        "link": "https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Migrating to Next.js 16 & React 19: A Platform Upgrade That Paid Off",
-        "link": "https://dev.to/abhilashlr/migrating-to-nextjs-16-react-19-a-platform-upgrade-that-paid-off-4j6f",
         "source": "Dev.to React"
       },
       {
