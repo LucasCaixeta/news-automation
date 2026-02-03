@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 2, 2026)
+### Today's Updates (February 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
+- [I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking](https://dev.to/warren_halderman_19a8d4d6/i-spent-over-9000-hours-building-a-tool-to-save-5-seconds-of-right-clicking-2dg5)
+- [Career Switcher/Code Newbie](https://dev.to/luis_m8/career-switchercode-newbie-7g6)
+
+#### Dev.to React
+
+- [Understanding `useState` in React](https://dev.to/msnmongare/understanding-usestate-in-react-17l4)
+- [Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f)
+- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 1, 2026)
+### 2 Days Ago (February 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
 - [Fix CORS, SQL Injection & MySQL Pooling in React + Node.js](https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo)
 - [DenunzIA: E2EE Anonymous Reporting Platform (Looking for Security Audit/Feedback)](https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (January 31, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Job Queue That's 32x Faster Than BullMQ (No Redis Required)](https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g)
-- [NAT Traversal: How It Works](https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc)
-- [When and How to Use LRU Cache in Node.js Backend Projects](https://dev.to/darkmavis1980/when-and-how-to-use-lru-cache-in-nodejs-backend-projects-42c8)
-
-#### Dev.to React
-
-- [ReactJS Hook Pattern ~Abandon Rendering~](https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k)
-- [This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn](https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p)
-- [Introducing BoldKit: A Neubrutalism React Component Library](https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-03",
+    "formattedDate": "February 3, 2026",
+    "news": [
+      {
+        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking",
+        "link": "https://dev.to/warren_halderman_19a8d4d6/i-spent-over-9000-hours-building-a-tool-to-save-5-seconds-of-right-clicking-2dg5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Career Switcher/Code Newbie",
+        "link": "https://dev.to/luis_m8/career-switchercode-newbie-7g6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Understanding `useState` in React",
+        "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
+        "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
+        "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-02",
     "formattedDate": "February 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "DenunzIA: E2EE Anonymous Reporting Platform (Looking for Security Audit/Feedback)",
         "link": "https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "formattedDate": "January 31, 2026",
-    "news": [
-      {
-        "title": "I Built a Job Queue That's 32x Faster Than BullMQ (No Redis Required)",
-        "link": "https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "NAT Traversal: How It Works",
-        "link": "https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "When and How to Use LRU Cache in Node.js Backend Projects",
-        "link": "https://dev.to/darkmavis1980/when-and-how-to-use-lru-cache-in-nodejs-backend-projects-42c8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ReactJS Hook Pattern ~Abandon Rendering~",
-        "link": "https://dev.to/bishoy_semsem/reactjs-hook-pattern-abandon-rendering-477k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "This Week In React #266 : DoS, shadcn, Skills, Rspack | Expo 55 beta, Hermes, Expo Router | TC39, Rolldown, Yarn",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-266-dos-shadcn-skills-rspack-expo-55-beta-hermes-expo-router-tc39-2h0p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Introducing BoldKit: A Neubrutalism React Component Library",
-        "link": "https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1",
         "source": "Dev.to React"
       },
       {
