@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 3, 2026)
+### Today's Updates (February 4, 2026)
+
+#### Dev.to JavaScript
+
+- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
+- [Your Side Project Didn’t Fail — It Just Reached Reality](https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76)
+- [Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover](https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l)
+
+#### Dev.to React
+
+- [Improving Accessibility - Tabs Component](https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh)
+- [The Container & Presentational Pattern: Separation of Concerns in React](https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc)
+- [Uncontrolled vs Controlled React Components](https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 2, 2026)
+### 2 Days Ago (February 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Best Practices in Cursor](https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e)
 - [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
 - [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 1, 2026)
-
-#### Dev.to JavaScript
-
-- [Reducing FOUC with Web Components](https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh)
-- [Practical Introduction to Async Generators in JavaScript](https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5)
-- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
-
-#### Dev.to React
-
-- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
-- [Fix CORS, SQL Injection & MySQL Pooling in React + Node.js](https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo)
-- [DenunzIA: E2EE Anonymous Reporting Platform (Looking for Security Audit/Feedback)](https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-04",
+    "formattedDate": "February 4, 2026",
+    "news": [
+      {
+        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Side Project Didn’t Fail — It Just Reached Reality",
+        "link": "https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
+        "link": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Improving Accessibility - Tabs Component",
+        "link": "https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Container & Presentational Pattern: Separation of Concerns in React",
+        "link": "https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Uncontrolled vs Controlled React Components",
+        "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-03",
     "formattedDate": "February 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
         "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "formattedDate": "February 1, 2026",
-    "news": [
-      {
-        "title": "Reducing FOUC with Web Components",
-        "link": "https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Practical Introduction to Async Generators in JavaScript",
-        "link": "https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions",
-        "link": "https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines",
-        "link": "https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Fix CORS, SQL Injection & MySQL Pooling in React + Node.js",
-        "link": "https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "DenunzIA: E2EE Anonymous Reporting Platform (Looking for Security Audit/Feedback)",
-        "link": "https://dev.to/denuncia_siie/denunzia-e2ee-anonymous-reporting-platform-looking-for-security-auditfeedback-55eg",
         "source": "Dev.to React"
       },
       {
