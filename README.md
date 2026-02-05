@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 4, 2026)
+### Today's Updates (February 5, 2026)
+
+#### Dev.to JavaScript
+
+- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
+- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
+- [Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)](https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l)
+
+#### Dev.to React
+
+- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
+- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer's Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
+- [Building a Treasury SaaS with React, Node.js, Firebase & MySQL](https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 3, 2026)
+### 2 Days Ago (February 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Understanding `useState` in React](https://dev.to/msnmongare/understanding-usestate-in-react-17l4)
 - [Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f)
 - [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 2, 2026)
-
-#### Dev.to JavaScript
-
-- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
-- [The Secret Life of JavaScript: The Generator](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-generator-1fi5)
-- [Detecting Phishing Patterns in Microservices with JavaScript: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-in-microservices-with-javascript-a-senior-architects-approach-1e0k)
-
-#### Dev.to React
-
-- [React Best Practices in Cursor](https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e)
-- [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
-- [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-05",
+    "formattedDate": "February 5, 2026",
+    "news": [
+      {
+        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
+        "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain",
+        "link": "https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer's Approach",
+        "link": "https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Treasury SaaS with React, Node.js, Firebase & MySQL",
+        "link": "https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-04",
     "formattedDate": "February 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
         "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "formattedDate": "February 2, 2026",
-    "news": [
-      {
-        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: The Generator",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-generator-1fi5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Detecting Phishing Patterns in Microservices with JavaScript: A Senior Architect’s Approach",
-        "link": "https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-in-microservices-with-javascript-a-senior-architects-approach-1e0k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Best Practices in Cursor",
-        "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
-        "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
-        "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
         "source": "Dev.to React"
       },
       {
