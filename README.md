@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 5, 2026)
+### Today's Updates (February 6, 2026)
+
+#### Dev.to JavaScript
+
+- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
+- [From Photo Metadata to 3D Map: Building an Interactive Travel Diary](https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5)
+- [Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)](https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg)
+
+#### Dev.to React
+
+- [I Built a Next.js SaaS Boilerplate So You Don't Have To - 3 Month Journey](https://dev.to/muhammadzubair/i-built-a-nextjs-saas-boilerplate-so-you-dont-have-to-3-month-journey-fk5)
+- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
+- [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 4, 2026)
+### 2 Days Ago (February 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Improving Accessibility - Tabs Component](https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh)
 - [The Container & Presentational Pattern: Separation of Concerns in React](https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc)
 - [Uncontrolled vs Controlled React Components](https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 3, 2026)
-
-#### Dev.to JavaScript
-
-- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
-- [I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking](https://dev.to/warren_halderman_19a8d4d6/i-spent-over-9000-hours-building-a-tool-to-save-5-seconds-of-right-clicking-2dg5)
-- [Career Switcher/Code Newbie](https://dev.to/luis_m8/career-switchercode-newbie-7g6)
-
-#### Dev.to React
-
-- [Understanding `useState` in React](https://dev.to/msnmongare/understanding-usestate-in-react-17l4)
-- [Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f)
-- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-06",
+    "formattedDate": "February 6, 2026",
+    "news": [
+      {
+        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
+        "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
+        "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Next.js SaaS Boilerplate So You Don't Have To - 3 Month Journey",
+        "link": "https://dev.to/muhammadzubair/i-built-a-nextjs-saas-boilerplate-so-you-dont-have-to-3-month-journey-fk5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain",
+        "link": "https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Redux Explained in Depth",
+        "link": "https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-05",
     "formattedDate": "February 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Uncontrolled vs Controlled React Components",
         "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-03",
-    "formattedDate": "February 3, 2026",
-    "news": [
-      {
-        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Spent Over 9000 Hours Building a Tool to Save 5 Seconds of Right-Clicking",
-        "link": "https://dev.to/warren_halderman_19a8d4d6/i-spent-over-9000-hours-building-a-tool-to-save-5-seconds-of-right-clicking-2dg5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Career Switcher/Code Newbie",
-        "link": "https://dev.to/luis_m8/career-switchercode-newbie-7g6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Understanding `useState` in React",
-        "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
-        "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
-        "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
         "source": "Dev.to React"
       },
       {
