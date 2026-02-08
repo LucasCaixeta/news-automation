@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 7, 2026)
+### Today's Updates (February 8, 2026)
+
+#### Dev.to JavaScript
+
+- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
+- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
+- [Lupine.js - The Lightweight Frontend & Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
+
+#### Dev.to React
+
+- [Deploying a react quiz app on EC2](https://dev.to/lajpatgautam/deploying-a-react-quiz-app-on-ec2-3759)
+- [Lupine.js - The Lightweight Frontend & Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
+- ["Var vs Let: The Big Confusion Explained!"](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 6, 2026)
+### 2 Days Ago (February 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Next.js SaaS Boilerplate So You Don't Have To - 3 Month Journey](https://dev.to/muhammadzubair/i-built-a-nextjs-saas-boilerplate-so-you-dont-have-to-3-month-journey-fk5)
 - [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
 - [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 5, 2026)
-
-#### Dev.to JavaScript
-
-- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
-- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
-- [Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)](https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l)
-
-#### Dev.to React
-
-- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
-- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer's Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
-- [Building a Treasury SaaS with React, Node.js, Firebase & MySQL](https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-08",
+    "formattedDate": "February 8, 2026",
+    "news": [
+      {
+        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I use Typetify: A Type-Safe Alternative to Lodash",
+        "link": "https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Lupine.js - The Lightweight Frontend & Efficient Backend Framework",
+        "link": "https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Deploying a react quiz app on EC2",
+        "link": "https://dev.to/lajpatgautam/deploying-a-react-quiz-app-on-ec2-3759",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Lupine.js - The Lightweight Frontend & Efficient Backend Framework",
+        "link": "https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "\"Var vs Let: The Big Confusion Explained!\"",
+        "link": "https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-07",
     "formattedDate": "February 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Redux Explained in Depth",
         "link": "https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-05",
-    "formattedDate": "February 5, 2026",
-    "news": [
-      {
-        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-        "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-        "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain",
-        "link": "https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer's Approach",
-        "link": "https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Treasury SaaS with React, Node.js, Firebase & MySQL",
-        "link": "https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj",
         "source": "Dev.to React"
       },
       {
