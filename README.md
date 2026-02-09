@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 8, 2026)
+### Today's Updates (February 9, 2026)
+
+#### Dev.to JavaScript
+
+- [I built WhaleLook - a Solana crypto wallet tracker to work with API's more (feedback wanted)](https://dev.to/jasoncodes/i-built-whalelook-a-solana-crypto-wallet-tracker-to-work-with-apis-more-feedback-wanted-5fpm)
+- [You don't need CSS preprocessor](https://dev.to/effnd/you-dont-need-css-preprocessor-202a)
+- [Building a “Bflix-Style” Streaming Backend with Python (FastAPI + Async Magic)](https://dev.to/goojara_09a32ffc07b532413/building-a-bflix-style-streaming-backend-with-python-fastapi-async-magic-hel)
+
+#### Dev.to React
+
+- [Localising your React app the "Tailwind" way: no keys & no JSON, just code](https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7)
+- [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
+- [React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns](https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 7, 2026)
+### 2 Days Ago (February 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [New VS Code Extension: NPM Package Version Dropdown](https://dev.to/farshadhemmati/new-vs-code-extension-npm-package-version-dropdown-8jn)
 - [My first website uploaded in 2026](https://dev.to/matiaspallero/my-first-website-uploaded-in-2026-4i39)
 - [Replacing a Plop React component generator with a Claude Code Skill](https://dev.to/mbarzeev/replacing-a-plop-react-component-generator-with-a-claude-code-skill-5do)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 6, 2026)
-
-#### Dev.to JavaScript
-
-- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
-- [From Photo Metadata to 3D Map: Building an Interactive Travel Diary](https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5)
-- [Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)](https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg)
-
-#### Dev.to React
-
-- [I Built a Next.js SaaS Boilerplate So You Don't Have To - 3 Month Journey](https://dev.to/muhammadzubair/i-built-a-nextjs-saas-boilerplate-so-you-dont-have-to-3-month-journey-fk5)
-- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
-- [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-09",
+    "formattedDate": "February 9, 2026",
+    "news": [
+      {
+        "title": "I built WhaleLook - a Solana crypto wallet tracker to work with API's more (feedback wanted)",
+        "link": "https://dev.to/jasoncodes/i-built-whalelook-a-solana-crypto-wallet-tracker-to-work-with-apis-more-feedback-wanted-5fpm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You don't need CSS preprocessor",
+        "link": "https://dev.to/effnd/you-dont-need-css-preprocessor-202a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a “Bflix-Style” Streaming Backend with Python (FastAPI + Async Magic)",
+        "link": "https://dev.to/goojara_09a32ffc07b532413/building-a-bflix-style-streaming-backend-with-python-fastapi-async-magic-hel",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Localising your React app the \"Tailwind\" way: no keys & no JSON, just code",
+        "link": "https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Project BookMyShow: Day 9",
+        "link": "https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns",
+        "link": "https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-08",
     "formattedDate": "February 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Replacing a Plop React component generator with a Claude Code Skill",
         "link": "https://dev.to/mbarzeev/replacing-a-plop-react-component-generator-with-a-claude-code-skill-5do",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-06",
-    "formattedDate": "February 6, 2026",
-    "news": [
-      {
-        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
-        "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
-        "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Next.js SaaS Boilerplate So You Don't Have To - 3 Month Journey",
-        "link": "https://dev.to/muhammadzubair/i-built-a-nextjs-saas-boilerplate-so-you-dont-have-to-3-month-journey-fk5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain",
-        "link": "https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Redux Explained in Depth",
-        "link": "https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo",
         "source": "Dev.to React"
       },
       {
