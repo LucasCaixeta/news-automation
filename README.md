@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 9, 2026)
+### Today's Updates (February 10, 2026)
+
+#### Dev.to JavaScript
+
+- [I built an npm package that auto-generates alt text for images using AI](https://dev.to/carolina_herrera_cdc2e30e/i-built-an-npm-package-that-auto-generates-alt-text-for-images-using-ai-175d)
+- [Modern JavaScript Features You're Still Not Using (But Should) 🐍](https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925)
+- [The Day I Learned Node.js “Timeouts” Don’t Mean What I Thought They Meant](https://dev.to/frozenblood/the-day-i-learned-nodejs-timeouts-dont-mean-what-i-thought-they-meant-558)
+
+#### Dev.to React
+
+- [Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it's fun) 💫](https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo)
+- [Test-Driven Development for Building User Interfaces](https://dev.to/thawkin3/test-driven-development-for-building-user-interfaces-4k6d)
+- [Day 7: Turning Static Pages into a Living Product](https://dev.to/imsushant12/day-7-turning-static-pages-into-a-living-product-4efp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 8, 2026)
+### 2 Days Ago (February 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Deploying a react quiz app on EC2](https://dev.to/lajpatgautam/deploying-a-react-quiz-app-on-ec2-3759)
 - [Lupine.js - The Lightweight Frontend & Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
 - ["Var vs Let: The Big Confusion Explained!"](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 7, 2026)
-
-#### Dev.to JavaScript
-
-- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
-- [From Photo Metadata to 3D Map: Building an Interactive Travel Diary](https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5)
-- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)
-
-#### Dev.to React
-
-- [New VS Code Extension: NPM Package Version Dropdown](https://dev.to/farshadhemmati/new-vs-code-extension-npm-package-version-dropdown-8jn)
-- [My first website uploaded in 2026](https://dev.to/matiaspallero/my-first-website-uploaded-in-2026-4i39)
-- [Replacing a Plop React component generator with a Claude Code Skill](https://dev.to/mbarzeev/replacing-a-plop-react-component-generator-with-a-claude-code-skill-5do)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-10",
+    "formattedDate": "February 10, 2026",
+    "news": [
+      {
+        "title": "I built an npm package that auto-generates alt text for images using AI",
+        "link": "https://dev.to/carolina_herrera_cdc2e30e/i-built-an-npm-package-that-auto-generates-alt-text-for-images-using-ai-175d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Modern JavaScript Features You're Still Not Using (But Should) 🐍",
+        "link": "https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Day I Learned Node.js “Timeouts” Don’t Mean What I Thought They Meant",
+        "link": "https://dev.to/frozenblood/the-day-i-learned-nodejs-timeouts-dont-mean-what-i-thought-they-meant-558",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it's fun) 💫",
+        "link": "https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Test-Driven Development for Building User Interfaces",
+        "link": "https://dev.to/thawkin3/test-driven-development-for-building-user-interfaces-4k6d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Day 7: Turning Static Pages into a Living Product",
+        "link": "https://dev.to/imsushant12/day-7-turning-static-pages-into-a-living-product-4efp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-09",
     "formattedDate": "February 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "\"Var vs Let: The Big Confusion Explained!\"",
         "link": "https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-07",
-    "formattedDate": "February 7, 2026",
-    "news": [
-      {
-        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
-        "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Clusterflick: A London Cinema Aggregator",
-        "link": "https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "New VS Code Extension: NPM Package Version Dropdown",
-        "link": "https://dev.to/farshadhemmati/new-vs-code-extension-npm-package-version-dropdown-8jn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My first website uploaded in 2026",
-        "link": "https://dev.to/matiaspallero/my-first-website-uploaded-in-2026-4i39",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Replacing a Plop React component generator with a Claude Code Skill",
-        "link": "https://dev.to/mbarzeev/replacing-a-plop-react-component-generator-with-a-claude-code-skill-5do",
         "source": "Dev.to React"
       },
       {
