@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 10, 2026)
+### Today's Updates (February 11, 2026)
+
+#### Dev.to JavaScript
+
+- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
+- [Internal Design Choices for Effects: Implementing Effects (II)](https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6)
+- [Best Privacy Extension](https://dev.to/mixaoc/best-privacy-extension-4j7a)
+
+#### Dev.to React
+
+- [Say Goodbye to "Tech Neck": Building a Real-Time AI Posture Coach with MediaPipe and Electron 💻🧘‍♂️](https://dev.to/wellallytech/say-goodbye-to-tech-neck-building-a-real-time-ai-posture-coach-with-mediapipe-and-electron-1m6c)
+- [Averaging values](https://dev.to/no_arms_studio/averaging-values-4m2m)
+- [Forget Canvas Apps? Build Full-Code React + Azure OpenAI Apps on Power Platform](https://dev.to/ippu_ito_870812/forget-canvas-apps-build-full-code-react-azure-openai-apps-on-power-platform-kb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 9, 2026)
+### 2 Days Ago (February 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Localising your React app the "Tailwind" way: no keys & no JSON, just code](https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7)
 - [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
 - [React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns](https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 8, 2026)
-
-#### Dev.to JavaScript
-
-- [Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems](https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi)
-- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
-- [Lupine.js - The Lightweight Frontend & Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
-
-#### Dev.to React
-
-- [Deploying a react quiz app on EC2](https://dev.to/lajpatgautam/deploying-a-react-quiz-app-on-ec2-3759)
-- [Lupine.js - The Lightweight Frontend & Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
-- ["Var vs Let: The Big Confusion Explained!"](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-11",
+    "formattedDate": "February 11, 2026",
+    "news": [
+      {
+        "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+        "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Internal Design Choices for Effects: Implementing Effects (II)",
+        "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Best Privacy Extension",
+        "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Say Goodbye to \"Tech Neck\": Building a Real-Time AI Posture Coach with MediaPipe and Electron 💻🧘‍♂️",
+        "link": "https://dev.to/wellallytech/say-goodbye-to-tech-neck-building-a-real-time-ai-posture-coach-with-mediapipe-and-electron-1m6c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Averaging values",
+        "link": "https://dev.to/no_arms_studio/averaging-values-4m2m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Forget Canvas Apps? Build Full-Code React + Azure OpenAI Apps on Power Platform",
+        "link": "https://dev.to/ippu_ito_870812/forget-canvas-apps-build-full-code-react-azure-openai-apps-on-power-platform-kb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-10",
     "formattedDate": "February 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns",
         "link": "https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-08",
-    "formattedDate": "February 8, 2026",
-    "news": [
-      {
-        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-        "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why I use Typetify: A Type-Safe Alternative to Lodash",
-        "link": "https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Lupine.js - The Lightweight Frontend & Efficient Backend Framework",
-        "link": "https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Deploying a react quiz app on EC2",
-        "link": "https://dev.to/lajpatgautam/deploying-a-react-quiz-app-on-ec2-3759",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Lupine.js - The Lightweight Frontend & Efficient Backend Framework",
-        "link": "https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "\"Var vs Let: The Big Confusion Explained!\"",
-        "link": "https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk",
         "source": "Dev.to React"
       },
       {
