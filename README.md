@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 11, 2026)
+### Today's Updates (February 12, 2026)
+
+#### Dev.to JavaScript
+
+- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
+- [FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries](https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n)
+- [🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn)
+
+#### Dev.to React
+
+- [FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries](https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n)
+- [50 React Interview Coding Challenges](https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh)
+- [Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React](https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 10, 2026)
+### 2 Days Ago (February 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it's fun) 💫](https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo)
 - [Test-Driven Development for Building User Interfaces](https://dev.to/thawkin3/test-driven-development-for-building-user-interfaces-4k6d)
 - [Day 7: Turning Static Pages into a Living Product](https://dev.to/imsushant12/day-7-turning-static-pages-into-a-living-product-4efp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 9, 2026)
-
-#### Dev.to JavaScript
-
-- [I built WhaleLook - a Solana crypto wallet tracker to work with API's more (feedback wanted)](https://dev.to/jasoncodes/i-built-whalelook-a-solana-crypto-wallet-tracker-to-work-with-apis-more-feedback-wanted-5fpm)
-- [You don't need CSS preprocessor](https://dev.to/effnd/you-dont-need-css-preprocessor-202a)
-- [Building a “Bflix-Style” Streaming Backend with Python (FastAPI + Async Magic)](https://dev.to/goojara_09a32ffc07b532413/building-a-bflix-style-streaming-backend-with-python-fastapi-async-magic-hel)
-
-#### Dev.to React
-
-- [Localising your React app the "Tailwind" way: no keys & no JSON, just code](https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7)
-- [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
-- [React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns](https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-12",
+    "formattedDate": "February 12, 2026",
+    "news": [
+      {
+        "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+        "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+        "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+        "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "50 React Interview Coding Challenges",
+        "link": "https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
+        "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-11",
     "formattedDate": "February 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Day 7: Turning Static Pages into a Living Product",
         "link": "https://dev.to/imsushant12/day-7-turning-static-pages-into-a-living-product-4efp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-09",
-    "formattedDate": "February 9, 2026",
-    "news": [
-      {
-        "title": "I built WhaleLook - a Solana crypto wallet tracker to work with API's more (feedback wanted)",
-        "link": "https://dev.to/jasoncodes/i-built-whalelook-a-solana-crypto-wallet-tracker-to-work-with-apis-more-feedback-wanted-5fpm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You don't need CSS preprocessor",
-        "link": "https://dev.to/effnd/you-dont-need-css-preprocessor-202a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a “Bflix-Style” Streaming Backend with Python (FastAPI + Async Magic)",
-        "link": "https://dev.to/goojara_09a32ffc07b532413/building-a-bflix-style-streaming-backend-with-python-fastapi-async-magic-hel",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Localising your React app the \"Tailwind\" way: no keys & no JSON, just code",
-        "link": "https://dev.to/akocan98/localising-your-react-app-the-tailwind-way-no-keys-no-json-just-code-18g7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Project BookMyShow: Day 9",
-        "link": "https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns",
-        "link": "https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p",
         "source": "Dev.to React"
       },
       {
