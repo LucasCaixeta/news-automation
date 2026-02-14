@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 13, 2026)
+### Today's Updates (February 14, 2026)
+
+#### Dev.to JavaScript
+
+- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
+- [I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue](https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3)
+- [I built a browser-based OS for managing my self-hosted server](https://dev.to/roqueribeiro/i-built-a-browser-based-os-for-managing-my-self-hosted-server-iip)
+
+#### Dev.to React
+
+- [How to Make Any React App Multilingual — From Local App to Global Product](https://dev.to/keshav833/how-to-make-any-react-app-multilingual-from-local-app-to-global-product-844)
+- [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
+- [This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode](https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 12, 2026)
+### 2 Days Ago (February 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries](https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n)
 - [50 React Interview Coding Challenges](https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh)
 - [Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React](https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 11, 2026)
-
-#### Dev.to JavaScript
-
-- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
-- [Internal Design Choices for Effects: Implementing Effects (II)](https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6)
-- [Best Privacy Extension](https://dev.to/mixaoc/best-privacy-extension-4j7a)
-
-#### Dev.to React
-
-- [Say Goodbye to "Tech Neck": Building a Real-Time AI Posture Coach with MediaPipe and Electron 💻🧘‍♂️](https://dev.to/wellallytech/say-goodbye-to-tech-neck-building-a-real-time-ai-posture-coach-with-mediapipe-and-electron-1m6c)
-- [Averaging values](https://dev.to/no_arms_studio/averaging-values-4m2m)
-- [Forget Canvas Apps? Build Full-Code React + Azure OpenAI Apps on Power Platform](https://dev.to/ippu_ito_870812/forget-canvas-apps-build-full-code-react-azure-openai-apps-on-power-platform-kb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-14",
+    "formattedDate": "February 14, 2026",
+    "news": [
+      {
+        "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+        "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I replaced Stripe's dunning emails with SMS — here's the architecture and why it recovers 2x more revenue",
+        "link": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a browser-based OS for managing my self-hosted server",
+        "link": "https://dev.to/roqueribeiro/i-built-a-browser-based-os-for-managing-my-self-hosted-server-iip",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Make Any React App Multilingual — From Local App to Global Product",
+        "link": "https://dev.to/keshav833/how-to-make-any-react-app-multilingual-from-local-app-to-global-product-844",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Day 12 of #100DaysOfCode — Understanding Zustand",
+        "link": "https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-13",
     "formattedDate": "February 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
         "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-11",
-    "formattedDate": "February 11, 2026",
-    "news": [
-      {
-        "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-        "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Internal Design Choices for Effects: Implementing Effects (II)",
-        "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Best Privacy Extension",
-        "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Say Goodbye to \"Tech Neck\": Building a Real-Time AI Posture Coach with MediaPipe and Electron 💻🧘‍♂️",
-        "link": "https://dev.to/wellallytech/say-goodbye-to-tech-neck-building-a-real-time-ai-posture-coach-with-mediapipe-and-electron-1m6c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Averaging values",
-        "link": "https://dev.to/no_arms_studio/averaging-values-4m2m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Forget Canvas Apps? Build Full-Code React + Azure OpenAI Apps on Power Platform",
-        "link": "https://dev.to/ippu_ito_870812/forget-canvas-apps-build-full-code-react-azure-openai-apps-on-power-platform-kb",
         "source": "Dev.to React"
       },
       {
