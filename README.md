@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 15, 2026)
+### Today's Updates (February 16, 2026)
+
+#### Dev.to JavaScript
+
+- [Offline-First Apps Without Firebase: A P2P Approach With GenosDB](https://dev.to/estebanrfp/offline-first-apps-without-firebase-a-p2p-approach-with-genosdb-51ec)
+- [Beyond Text: How to Embed Interactive UI Components in AI Chat Streams](https://dev.to/programmingcentral/beyond-text-how-to-embed-interactive-ui-components-in-ai-chat-streams-5fic)
+- [🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Window)](https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff)
+
+#### Dev.to React
+
+- [Building a CRM for Freelancers: Architecture Decisions Behind Lazy CRM](https://dev.to/eduar766/building-a-crm-for-freelancers-architecture-decisions-behind-lazy-crm-19m)
+- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
+- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 14, 2026)
+### 2 Days Ago (February 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Make Any React App Multilingual — From Local App to Global Product](https://dev.to/keshav833/how-to-make-any-react-app-multilingual-from-local-app-to-global-product-844)
 - [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
 - [This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode](https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 13, 2026)
-
-#### Dev.to JavaScript
-
-- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
-- [Introduction to Variables and Data Types](https://dev.to/vinayagam_6a170db9281d526/introduction-to-variables-and-data-types-3jll)
-- [WebForms Core vs Modern Web Concepts: Architectural Similarities and Differences](https://dev.to/elanatframework/webforms-core-vs-modern-web-concepts-architectural-similarities-and-differences-2c4e)
-
-#### Dev.to React
-
-- [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384)
-- [How I Used Astro 5 + React + Inngest to Build an AI Ebook Creator (700+ Users, $0 Ad Spend)](https://dev.to/sam-inkfluence/how-i-used-astro-5-react-inngest-to-build-an-ai-ebook-creator-700-users-0-ad-spend-1bml)
-- [Fixing React Performance at Scale: A Senior Engineer's Practical Playbook](https://dev.to/mooh/fixing-react-performance-at-scale-a-senior-engineers-practical-playbook-ceg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-16",
+    "formattedDate": "February 16, 2026",
+    "news": [
+      {
+        "title": "Offline-First Apps Without Firebase: A P2P Approach With GenosDB",
+        "link": "https://dev.to/estebanrfp/offline-first-apps-without-firebase-a-p2p-approach-with-genosdb-51ec",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond Text: How to Embed Interactive UI Components in AI Chat Streams",
+        "link": "https://dev.to/programmingcentral/beyond-text-how-to-embed-interactive-ui-components-in-ai-chat-streams-5fic",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Window)",
+        "link": "https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a CRM for Freelancers: Architecture Decisions Behind Lazy CRM",
+        "link": "https://dev.to/eduar766/building-a-crm-for-freelancers-architecture-decisions-behind-lazy-crm-19m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How a DEV Friend and I Brought Two Avatars to Life",
+        "link": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From Idea to Maintainable UI: A Practical React/TS Sprint Workflow",
+        "link": "https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-15",
     "formattedDate": "February 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode",
         "link": "https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-13",
-    "formattedDate": "February 13, 2026",
-    "news": [
-      {
-        "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-        "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introduction to Variables and Data Types",
-        "link": "https://dev.to/vinayagam_6a170db9281d526/introduction-to-variables-and-data-types-3jll",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "WebForms Core vs Modern Web Concepts: Architectural Similarities and Differences",
-        "link": "https://dev.to/elanatframework/webforms-core-vs-modern-web-concepts-architectural-similarities-and-differences-2c4e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Simple Blog with Supabase (Posts & Comments)",
-        "link": "https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Used Astro 5 + React + Inngest to Build an AI Ebook Creator (700+ Users, $0 Ad Spend)",
-        "link": "https://dev.to/sam-inkfluence/how-i-used-astro-5-react-inngest-to-build-an-ai-ebook-creator-700-users-0-ad-spend-1bml",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Fixing React Performance at Scale: A Senior Engineer's Practical Playbook",
-        "link": "https://dev.to/mooh/fixing-react-performance-at-scale-a-senior-engineers-practical-playbook-ceg",
         "source": "Dev.to React"
       },
       {
