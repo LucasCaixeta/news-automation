@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 19, 2026)
+### Today's Updates (February 20, 2026)
+
+#### Dev.to JavaScript
+
+- [I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)](https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh)
+- [The Secret Life of JavaScript: The Catch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0)
+- [I Made Dostoevsky Roast Tesla's SEO (and Built a Free CLI for It)](https://dev.to/ntty/i-made-dostoevsky-roast-teslas-seo-and-built-a-free-cli-for-it-4c0b)
+
+#### Dev.to React
+
+- [Schema-First React Forms: One Schema, Three Error Layers, Zero Glue](https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd)
+- [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o)
+- [Build a Custom Comment Section](https://dev.to/curry_spook_7036bbfe1c87e/build-a-custom-comment-section-353l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,32 +44,13 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 18, 2026)
+### 2 Days Ago (February 18, 2026)
 
 #### Dev.to JavaScript
 
 - [I'm Done With Magic. Here's What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988)
 - [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
 - [I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals (Even 10+ Hour Videos)](https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp)
-
-#### Dev.to React
-
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
-- [I Built a Privacy-First Zakat Calculator with React—Here's What I Learned](https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d)
-- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 17, 2026)
-
-#### Dev.to JavaScript
-
-- [The Secret Life of JavaScript: The Async Generator](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-async-generator-7hn)
-- [⌚ Beginner-Friendly Guide 'Binary Watch' - Problem 401 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-watch-problem-401-c-python-javascript-11l3)
-- [Beginner's Guide To TypeScript + React Integration](https://dev.to/myogeshchavan97/beginners-guide-to-typescript-react-integration-15nd)
 
 #### Dev.to React
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-20",
+    "formattedDate": "February 20, 2026",
+    "news": [
+      {
+        "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
+        "link": "https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: The Catch",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Made Dostoevsky Roast Tesla's SEO (and Built a Free CLI for It)",
+        "link": "https://dev.to/ntty/i-made-dostoevsky-roast-teslas-seo-and-built-a-free-cli-for-it-4c0b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Schema-First React Forms: One Schema, Three Error Layers, Zero Glue",
+        "link": "https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Stopped Context-Switching Between Validation, Forms, and Pipelines",
+        "link": "https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Build a Custom Comment Section",
+        "link": "https://dev.to/curry_spook_7036bbfe1c87e/build-a-custom-comment-section-353l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-19",
     "formattedDate": "February 19, 2026",
@@ -147,52 +193,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals (Even 10+ Hour Videos)",
         "link": "https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How a DEV Friend and I Brought Two Avatars to Life",
-        "link": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Privacy-First Zakat Calculator with React—Here's What I Learned",
-        "link": "https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "anilogin: a reactive authentication ui with anime character gaze tracking",
-        "link": "https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-17",
-    "formattedDate": "February 17, 2026",
-    "news": [
-      {
-        "title": "The Secret Life of JavaScript: The Async Generator",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-async-generator-7hn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "⌚ Beginner-Friendly Guide 'Binary Watch' - Problem 401 (C++, Python, JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-binary-watch-problem-401-c-python-javascript-11l3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beginner's Guide To TypeScript + React Integration",
-        "link": "https://dev.to/myogeshchavan97/beginners-guide-to-typescript-react-integration-15nd",
         "source": "Dev.to JavaScript"
       },
       {
