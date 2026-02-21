@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 20, 2026)
+### Today's Updates (February 21, 2026)
+
+#### Dev.to JavaScript
+
+- [My First React Project (Without Tutorials)](https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4)
+- [localhost to deploy..project that changed my thinking....](https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75)
+- [I built a web capture API in my spare time. Here is what happened when I added AI voice narration.](https://dev.to/custodiaadmin/i-built-a-web-capture-api-in-my-spare-time-here-is-what-happened-when-i-added-ai-voice-narration-2b14)
+
+#### Dev.to React
+
+- [My First React Project (Without Tutorials)](https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4)
+- [How We Added Folders and Tags to Organize Video Libraries](https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53)
+- [Build Documentation Engine in Typescript which should be a framework independent(ReactJS).](https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 19, 2026)
+### 2 Days Ago (February 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj)
 - [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
 - [I Built a Privacy-First Zakat Calculator with React—Here's What I Learned](https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 18, 2026)
-
-#### Dev.to JavaScript
-
-- [I'm Done With Magic. Here's What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988)
-- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
-- [I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals (Even 10+ Hour Videos)](https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp)
-
-#### Dev.to React
-
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
-- [I Built a Privacy-First Zakat Calculator with React—Here's What I Learned](https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d)
-- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-21",
+    "formattedDate": "February 21, 2026",
+    "news": [
+      {
+        "title": "My First React Project (Without Tutorials)",
+        "link": "https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "localhost to deploy..project that changed my thinking....",
+        "link": "https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a web capture API in my spare time. Here is what happened when I added AI voice narration.",
+        "link": "https://dev.to/custodiaadmin/i-built-a-web-capture-api-in-my-spare-time-here-is-what-happened-when-i-added-ai-voice-narration-2b14",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My First React Project (Without Tutorials)",
+        "link": "https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How We Added Folders and Tags to Organize Video Libraries",
+        "link": "https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Build Documentation Engine in Typescript which should be a framework independent(ReactJS).",
+        "link": "https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-20",
     "formattedDate": "February 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Privacy-First Zakat Calculator with React—Here's What I Learned",
         "link": "https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-18",
-    "formattedDate": "February 18, 2026",
-    "news": [
-      {
-        "title": "I'm Done With Magic. Here's What I Built Instead.",
-        "link": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: The Batch",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals (Even 10+ Hour Videos)",
-        "link": "https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How a DEV Friend and I Brought Two Avatars to Life",
-        "link": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Privacy-First Zakat Calculator with React—Here's What I Learned",
-        "link": "https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "anilogin: a reactive authentication ui with anime character gaze tracking",
-        "link": "https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9",
         "source": "Dev.to React"
       },
       {
