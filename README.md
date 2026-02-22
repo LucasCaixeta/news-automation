@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 21, 2026)
+### Today's Updates (February 22, 2026)
+
+#### Dev.to JavaScript
+
+- [ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
+- [🌌 Beginner-Friendly Guide 'Binary Gap' - Problem 868 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
+- [localhost to deploy..project that changed my thinking....](https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75)
+
+#### Dev.to React
+
+- [Day 20 of #100DaysOfCode — Building a Tour App (Part 2)](https://dev.to/m_saad_ahmad/day-20-of-100daysofcode-building-a-tour-app-part-2-1ip7)
+- [ReactJS(NextJs) Rendering Pattern　~Static Rendering (SSG)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-static-rendering-ssg-4kcd)
+- [Improving Accessibility - Tooltip](https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 20, 2026)
+### 2 Days Ago (February 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Schema-First React Forms: One Schema, Three Error Layers, Zero Glue](https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd)
 - [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o)
 - [Build a Custom Comment Section](https://dev.to/curry_spook_7036bbfe1c87e/build-a-custom-comment-section-353l)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 19, 2026)
-
-#### Dev.to JavaScript
-
-- [I'm Done With Magic. Here's What I Built Instead.](https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988)
-- [Why Your Budget App Fails: Plan vs Reality Tracking with DonFlow](https://dev.to/maxxmini/why-your-budget-app-fails-plan-vs-reality-tracking-with-donflow-28dk)
-- [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj)
-
-#### Dev.to React
-
-- [Stacking Multiple Dialogs in React Without Hooks or Effects](https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj)
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
-- [I Built a Privacy-First Zakat Calculator with React—Here's What I Learned](https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-22",
+    "formattedDate": "February 22, 2026",
+    "news": [
+      {
+        "title": "ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.",
+        "link": "https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🌌 Beginner-Friendly Guide 'Binary Gap' - Problem 868 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "localhost to deploy..project that changed my thinking....",
+        "link": "https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Day 20 of #100DaysOfCode — Building a Tour App (Part 2)",
+        "link": "https://dev.to/m_saad_ahmad/day-20-of-100daysofcode-building-a-tour-app-part-2-1ip7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ReactJS(NextJs) Rendering Pattern　~Static Rendering (SSG)~",
+        "link": "https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-static-rendering-ssg-4kcd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Improving Accessibility - Tooltip",
+        "link": "https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-21",
     "formattedDate": "February 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Build a Custom Comment Section",
         "link": "https://dev.to/curry_spook_7036bbfe1c87e/build-a-custom-comment-section-353l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-19",
-    "formattedDate": "February 19, 2026",
-    "news": [
-      {
-        "title": "I'm Done With Magic. Here's What I Built Instead.",
-        "link": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Your Budget App Fails: Plan vs Reality Tracking with DonFlow",
-        "link": "https://dev.to/maxxmini/why-your-budget-app-fails-plan-vs-reality-tracking-with-donflow-28dk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stacking Multiple Dialogs in React Without Hooks or Effects",
-        "link": "https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stacking Multiple Dialogs in React Without Hooks or Effects",
-        "link": "https://dev.to/9thquadrant/stacking-multiple-dialogs-in-react-without-hooks-or-effects-4enj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How a DEV Friend and I Brought Two Avatars to Life",
-        "link": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Privacy-First Zakat Calculator with React—Here's What I Learned",
-        "link": "https://dev.to/karayel_b8db3c5b2df2c5f40/i-built-a-privacy-first-zakat-calculator-with-react-heres-what-i-learned-2f8d",
         "source": "Dev.to React"
       },
       {
