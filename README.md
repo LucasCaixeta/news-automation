@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 22, 2026)
+### Today's Updates (February 23, 2026)
+
+#### Dev.to JavaScript
+
+- [Why Do Clicks “Stack Up” When JavaScript Blocks the UI?](https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k)
+- [ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
+- [Share Your Web App State via URL — No Backend Required](https://dev.to/maxxmini/share-your-web-app-state-via-url-no-backend-required-1806)
+
+#### Dev.to React
+
+- [ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m)
+- [How to Convert SVG to React Components: Complete Guide](https://dev.to/arenasbob2024cell/how-to-convert-svg-to-react-components-complete-guide-34jc)
+- [Stop Repeating React Setup: Introducing create-react-forge](https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 21, 2026)
+### 2 Days Ago (February 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [My First React Project (Without Tutorials)](https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4)
 - [How We Added Folders and Tags to Organize Video Libraries](https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53)
 - [Build Documentation Engine in Typescript which should be a framework independent(ReactJS).](https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 20, 2026)
-
-#### Dev.to JavaScript
-
-- [I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)](https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh)
-- [The Secret Life of JavaScript: The Catch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0)
-- [I Made Dostoevsky Roast Tesla's SEO (and Built a Free CLI for It)](https://dev.to/ntty/i-made-dostoevsky-roast-teslas-seo-and-built-a-free-cli-for-it-4c0b)
-
-#### Dev.to React
-
-- [Schema-First React Forms: One Schema, Three Error Layers, Zero Glue](https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd)
-- [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o)
-- [Build a Custom Comment Section](https://dev.to/curry_spook_7036bbfe1c87e/build-a-custom-comment-section-353l)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-23",
+    "formattedDate": "February 23, 2026",
+    "news": [
+      {
+        "title": "Why Do Clicks “Stack Up” When JavaScript Blocks the UI?",
+        "link": "https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.",
+        "link": "https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Share Your Web App State via URL — No Backend Required",
+        "link": "https://dev.to/maxxmini/share-your-web-app-state-via-url-no-backend-required-1806",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~",
+        "link": "https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Convert SVG to React Components: Complete Guide",
+        "link": "https://dev.to/arenasbob2024cell/how-to-convert-svg-to-react-components-complete-guide-34jc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Repeating React Setup: Introducing create-react-forge",
+        "link": "https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-22",
     "formattedDate": "February 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Build Documentation Engine in Typescript which should be a framework independent(ReactJS).",
         "link": "https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-20",
-    "formattedDate": "February 20, 2026",
-    "news": [
-      {
-        "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
-        "link": "https://dev.to/digitalofen/i-tried-running-file-conversion-fully-in-the-browser-wasm-libreoffice-ffmpeg-57mh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Secret Life of JavaScript: The Catch",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-catch-1bp0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Made Dostoevsky Roast Tesla's SEO (and Built a Free CLI for It)",
-        "link": "https://dev.to/ntty/i-made-dostoevsky-roast-teslas-seo-and-built-a-free-cli-for-it-4c0b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Schema-First React Forms: One Schema, Three Error Layers, Zero Glue",
-        "link": "https://dev.to/sakobume/schema-first-react-forms-one-schema-three-error-layers-zero-glue-4lpd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Stopped Context-Switching Between Validation, Forms, and Pipelines",
-        "link": "https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Build a Custom Comment Section",
-        "link": "https://dev.to/curry_spook_7036bbfe1c87e/build-a-custom-comment-section-353l",
         "source": "Dev.to React"
       },
       {
