@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 23, 2026)
+### Today's Updates (February 24, 2026)
+
+#### Dev.to JavaScript
+
+- [Boosting Productivity with Coding Agents](https://dev.to/alfredo_aguilac1/boosting-productivity-with-coding-agents-3em2)
+- [Why Do Clicks “Stack Up” When JavaScript Blocks the UI?](https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k)
+- [ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
+
+#### Dev.to React
+
+- [Code Review for TypeScript React: What to Look For](https://dev.to/tarunmj6/code-review-for-typescript-react-what-to-look-for-41nl)
+- [I built an open-source alternative to Toast and Square for restaurant management](https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf)
+- [expo-image-and-video-compressor vs react-native-compressor — Honest Comparison (2026)](https://dev.to/muhammad_faeizfurqan_b69/expo-image-and-video-compressor-vs-react-native-compressor-honest-comparison-2026-3mkh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 22, 2026)
+### 2 Days Ago (February 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Day 20 of #100DaysOfCode — Building a Tour App (Part 2)](https://dev.to/m_saad_ahmad/day-20-of-100daysofcode-building-a-tour-app-part-2-1ip7)
 - [ReactJS(NextJs) Rendering Pattern　~Static Rendering (SSG)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-static-rendering-ssg-4kcd)
 - [Improving Accessibility - Tooltip](https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 21, 2026)
-
-#### Dev.to JavaScript
-
-- [My First React Project (Without Tutorials)](https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4)
-- [localhost to deploy..project that changed my thinking....](https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75)
-- [I built a web capture API in my spare time. Here is what happened when I added AI voice narration.](https://dev.to/custodiaadmin/i-built-a-web-capture-api-in-my-spare-time-here-is-what-happened-when-i-added-ai-voice-narration-2b14)
-
-#### Dev.to React
-
-- [My First React Project (Without Tutorials)](https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4)
-- [How We Added Folders and Tags to Organize Video Libraries](https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53)
-- [Build Documentation Engine in Typescript which should be a framework independent(ReactJS).](https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-24",
+    "formattedDate": "February 24, 2026",
+    "news": [
+      {
+        "title": "Boosting Productivity with Coding Agents",
+        "link": "https://dev.to/alfredo_aguilac1/boosting-productivity-with-coding-agents-3em2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Do Clicks “Stack Up” When JavaScript Blocks the UI?",
+        "link": "https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.",
+        "link": "https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Code Review for TypeScript React: What to Look For",
+        "link": "https://dev.to/tarunmj6/code-review-for-typescript-react-what-to-look-for-41nl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built an open-source alternative to Toast and Square for restaurant management",
+        "link": "https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "expo-image-and-video-compressor vs react-native-compressor — Honest Comparison (2026)",
+        "link": "https://dev.to/muhammad_faeizfurqan_b69/expo-image-and-video-compressor-vs-react-native-compressor-honest-comparison-2026-3mkh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-23",
     "formattedDate": "February 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Improving Accessibility - Tooltip",
         "link": "https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-21",
-    "formattedDate": "February 21, 2026",
-    "news": [
-      {
-        "title": "My First React Project (Without Tutorials)",
-        "link": "https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "localhost to deploy..project that changed my thinking....",
-        "link": "https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a web capture API in my spare time. Here is what happened when I added AI voice narration.",
-        "link": "https://dev.to/custodiaadmin/i-built-a-web-capture-api-in-my-spare-time-here-is-what-happened-when-i-added-ai-voice-narration-2b14",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My First React Project (Without Tutorials)",
-        "link": "https://dev.to/ayra_austine/my-first-react-project-without-tutorials-25a4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How We Added Folders and Tags to Organize Video Libraries",
-        "link": "https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Build Documentation Engine in Typescript which should be a framework independent(ReactJS).",
-        "link": "https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo",
         "source": "Dev.to React"
       },
       {
