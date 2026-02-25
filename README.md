@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 24, 2026)
+### Today's Updates (February 25, 2026)
+
+#### Dev.to JavaScript
+
+- [Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser](https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7)
+- [Best animation you have seen or created?](https://dev.to/jeffrey_riggle_e261fba011/best-animation-you-have-seen-or-created-d0b)
+- [Bulk Applicant Dispatcher — A Privacy-First MERN Stack Application for Smart Job Hunting](https://dev.to/adithyan_g_6f3e606905eed7/bulk-applicant-dispatcher-a-privacy-first-mern-stack-application-for-smart-job-hunting-l4n)
+
+#### Dev.to React
+
+- [React Native Explained: From the Legacy Bridge to the New Architecture](https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b)
+- [Generating 21 Multilingual Promo Videos from React Code with Remotion](https://dev.to/shusukedev/generating-21-multilingual-promo-videos-from-react-code-with-remotion-o26)
+- [How We Added System Audio to Screen Recording](https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 23, 2026)
+### 2 Days Ago (February 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m)
 - [How to Convert SVG to React Components: Complete Guide](https://dev.to/arenasbob2024cell/how-to-convert-svg-to-react-components-complete-guide-34jc)
 - [Stop Repeating React Setup: Introducing create-react-forge](https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 22, 2026)
-
-#### Dev.to JavaScript
-
-- [ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
-- [🌌 Beginner-Friendly Guide 'Binary Gap' - Problem 868 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
-- [localhost to deploy..project that changed my thinking....](https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75)
-
-#### Dev.to React
-
-- [Day 20 of #100DaysOfCode — Building a Tour App (Part 2)](https://dev.to/m_saad_ahmad/day-20-of-100daysofcode-building-a-tour-app-part-2-1ip7)
-- [ReactJS(NextJs) Rendering Pattern　~Static Rendering (SSG)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-static-rendering-ssg-4kcd)
-- [Improving Accessibility - Tooltip](https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-25",
+    "formattedDate": "February 25, 2026",
+    "news": [
+      {
+        "title": "Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser",
+        "link": "https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Best animation you have seen or created?",
+        "link": "https://dev.to/jeffrey_riggle_e261fba011/best-animation-you-have-seen-or-created-d0b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Bulk Applicant Dispatcher — A Privacy-First MERN Stack Application for Smart Job Hunting",
+        "link": "https://dev.to/adithyan_g_6f3e606905eed7/bulk-applicant-dispatcher-a-privacy-first-mern-stack-application-for-smart-job-hunting-l4n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Native Explained: From the Legacy Bridge to the New Architecture",
+        "link": "https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Generating 21 Multilingual Promo Videos from React Code with Remotion",
+        "link": "https://dev.to/shusukedev/generating-21-multilingual-promo-videos-from-react-code-with-remotion-o26",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How We Added System Audio to Screen Recording",
+        "link": "https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-24",
     "formattedDate": "February 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Repeating React Setup: Introducing create-react-forge",
         "link": "https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-22",
-    "formattedDate": "February 22, 2026",
-    "news": [
-      {
-        "title": "ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.",
-        "link": "https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🌌 Beginner-Friendly Guide 'Binary Gap' - Problem 868 (C++, Python, JavaScript)",
-        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "localhost to deploy..project that changed my thinking....",
-        "link": "https://dev.to/sourav_mahato_3900/localhost-to-deployproject-that-changed-my-thinking-5b75",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Day 20 of #100DaysOfCode — Building a Tour App (Part 2)",
-        "link": "https://dev.to/m_saad_ahmad/day-20-of-100daysofcode-building-a-tour-app-part-2-1ip7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "ReactJS(NextJs) Rendering Pattern　~Static Rendering (SSG)~",
-        "link": "https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-static-rendering-ssg-4kcd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Improving Accessibility - Tooltip",
-        "link": "https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc",
         "source": "Dev.to React"
       },
       {
