@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 25, 2026)
+### Today's Updates (February 26, 2026)
+
+#### Dev.to JavaScript
+
+- [16 Modern JavaScript Features That Might Blow Your Mind](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e)
+- [JavaScript Basics: Operators and Expressions](https://dev.to/sharique_siddiqui_8242dad/javascript-basics-operators-and-expressions-5c7k)
+- [FSCSS Variable Fallback Operator (||)](https://dev.to/fscss-ttr/fscss-variable-fallback-operator--1gdb)
+
+#### Dev.to React
+
+- [8 Years, 5 Stacks, One Pattern: JSON Programming](https://dev.to/aws-builders/8-years-5-stacks-one-pattern-json-programming-25op)
+- [Implementing OpenTelemetry in React Applications](https://dev.to/ankit01oss/implementing-opentelemetry-in-react-applications-40oj)
+- [Cursor-Reactive Gradients: Making CSS Respond to Mouse Position](https://dev.to/sammiihk/cursor-reactive-gradients-making-css-respond-to-mouse-position-5ga3)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 24, 2026)
+### 2 Days Ago (February 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Code Review for TypeScript React: What to Look For](https://dev.to/tarunmj6/code-review-for-typescript-react-what-to-look-for-41nl)
 - [I built an open-source alternative to Toast and Square for restaurant management](https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf)
 - [expo-image-and-video-compressor vs react-native-compressor — Honest Comparison (2026)](https://dev.to/muhammad_faeizfurqan_b69/expo-image-and-video-compressor-vs-react-native-compressor-honest-comparison-2026-3mkh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 23, 2026)
-
-#### Dev.to JavaScript
-
-- [Why Do Clicks “Stack Up” When JavaScript Blocks the UI?](https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k)
-- [ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
-- [Share Your Web App State via URL — No Backend Required](https://dev.to/maxxmini/share-your-web-app-state-via-url-no-backend-required-1806)
-
-#### Dev.to React
-
-- [ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m)
-- [How to Convert SVG to React Components: Complete Guide](https://dev.to/arenasbob2024cell/how-to-convert-svg-to-react-components-complete-guide-34jc)
-- [Stop Repeating React Setup: Introducing create-react-forge](https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-26",
+    "formattedDate": "February 26, 2026",
+    "news": [
+      {
+        "title": "16 Modern JavaScript Features That Might Blow Your Mind",
+        "link": "https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Basics: Operators and Expressions",
+        "link": "https://dev.to/sharique_siddiqui_8242dad/javascript-basics-operators-and-expressions-5c7k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "FSCSS Variable Fallback Operator (||)",
+        "link": "https://dev.to/fscss-ttr/fscss-variable-fallback-operator--1gdb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "8 Years, 5 Stacks, One Pattern: JSON Programming",
+        "link": "https://dev.to/aws-builders/8-years-5-stacks-one-pattern-json-programming-25op",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Implementing OpenTelemetry in React Applications",
+        "link": "https://dev.to/ankit01oss/implementing-opentelemetry-in-react-applications-40oj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cursor-Reactive Gradients: Making CSS Respond to Mouse Position",
+        "link": "https://dev.to/sammiihk/cursor-reactive-gradients-making-css-respond-to-mouse-position-5ga3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-25",
     "formattedDate": "February 25, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "expo-image-and-video-compressor vs react-native-compressor — Honest Comparison (2026)",
         "link": "https://dev.to/muhammad_faeizfurqan_b69/expo-image-and-video-compressor-vs-react-native-compressor-honest-comparison-2026-3mkh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-23",
-    "formattedDate": "February 23, 2026",
-    "news": [
-      {
-        "title": "Why Do Clicks “Stack Up” When JavaScript Blocks the UI?",
-        "link": "https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.",
-        "link": "https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Share Your Web App State via URL — No Backend Required",
-        "link": "https://dev.to/maxxmini/share-your-web-app-state-via-url-no-backend-required-1806",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~",
-        "link": "https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Convert SVG to React Components: Complete Guide",
-        "link": "https://dev.to/arenasbob2024cell/how-to-convert-svg-to-react-components-complete-guide-34jc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Repeating React Setup: Introducing create-react-forge",
-        "link": "https://dev.to/chiragmak10/stop-repeating-react-setup-introducing-create-react-forge-29hd",
         "source": "Dev.to React"
       },
       {
