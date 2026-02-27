@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 26, 2026)
+### Today's Updates (February 27, 2026)
+
+#### Dev.to JavaScript
+
+- [16 Modern JavaScript Features That Might Blow Your Mind](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e)
+- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j)
+- [Angular Signal Forms: Why Number Inputs Were Broken (And Now Aren’t)](https://dev.to/brianmtreese/angular-signal-forms-why-number-inputs-were-broken-and-now-arent-1fi7)
+
+#### Dev.to React
+
+- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j)
+- [Building Scalable Real-Time Applications with Node.js, Socket.io, and React](https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk)
+- [How to Use React Query with React Router Loaders (Pre-fetch & Cache Data)](https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 25, 2026)
+### 2 Days Ago (February 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Native Explained: From the Legacy Bridge to the New Architecture](https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b)
 - [Generating 21 Multilingual Promo Videos from React Code with Remotion](https://dev.to/shusukedev/generating-21-multilingual-promo-videos-from-react-code-with-remotion-o26)
 - [How We Added System Audio to Screen Recording](https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 24, 2026)
-
-#### Dev.to JavaScript
-
-- [Boosting Productivity with Coding Agents](https://dev.to/alfredo_aguilac1/boosting-productivity-with-coding-agents-3em2)
-- [Why Do Clicks “Stack Up” When JavaScript Blocks the UI?](https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k)
-- [ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
-
-#### Dev.to React
-
-- [Code Review for TypeScript React: What to Look For](https://dev.to/tarunmj6/code-review-for-typescript-react-what-to-look-for-41nl)
-- [I built an open-source alternative to Toast and Square for restaurant management](https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf)
-- [expo-image-and-video-compressor vs react-native-compressor — Honest Comparison (2026)](https://dev.to/muhammad_faeizfurqan_b69/expo-image-and-video-compressor-vs-react-native-compressor-honest-comparison-2026-3mkh)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-27",
+    "formattedDate": "February 27, 2026",
+    "news": [
+      {
+        "title": "16 Modern JavaScript Features That Might Blow Your Mind",
+        "link": "https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Understanding Next.js Rewrites",
+        "link": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Angular Signal Forms: Why Number Inputs Were Broken (And Now Aren’t)",
+        "link": "https://dev.to/brianmtreese/angular-signal-forms-why-number-inputs-were-broken-and-now-arent-1fi7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Understanding Next.js Rewrites",
+        "link": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Scalable Real-Time Applications with Node.js, Socket.io, and React",
+        "link": "https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Use React Query with React Router Loaders (Pre-fetch & Cache Data)",
+        "link": "https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-26",
     "formattedDate": "February 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How We Added System Audio to Screen Recording",
         "link": "https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-24",
-    "formattedDate": "February 24, 2026",
-    "news": [
-      {
-        "title": "Boosting Productivity with Coding Agents",
-        "link": "https://dev.to/alfredo_aguilac1/boosting-productivity-with-coding-agents-3em2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Do Clicks “Stack Up” When JavaScript Blocks the UI?",
-        "link": "https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ShowDev: I'm building a real-time chat-controlled map engine, and I need help breaking the expansion logic.",
-        "link": "https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Code Review for TypeScript React: What to Look For",
-        "link": "https://dev.to/tarunmj6/code-review-for-typescript-react-what-to-look-for-41nl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built an open-source alternative to Toast and Square for restaurant management",
-        "link": "https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "expo-image-and-video-compressor vs react-native-compressor — Honest Comparison (2026)",
-        "link": "https://dev.to/muhammad_faeizfurqan_b69/expo-image-and-video-compressor-vs-react-native-compressor-honest-comparison-2026-3mkh",
         "source": "Dev.to React"
       },
       {
