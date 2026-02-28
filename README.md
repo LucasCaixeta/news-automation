@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (February 27, 2026)
+### Today's Updates (February 28, 2026)
+
+#### Dev.to JavaScript
+
+- [16 Modern JavaScript Features That Might Blow Your Mind](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e)
+- [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib)
+- [I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀](https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp)
+
+#### Dev.to React
+
+- [How I Built an AI Course Generator in a Weekend (DuoUniversal)](https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l)
+- [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
+- [MUI vs Ant Design vs Mantine vs Chakra: The React UI Library Showdown](https://dev.to/royce_fabbd83cb268312e928/mui-vs-ant-design-vs-mantine-vs-chakra-the-react-ui-library-showdown-97m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (February 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 26, 2026)
+### 2 Days Ago (February 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [8 Years, 5 Stacks, One Pattern: JSON Programming](https://dev.to/aws-builders/8-years-5-stacks-one-pattern-json-programming-25op)
 - [Implementing OpenTelemetry in React Applications](https://dev.to/ankit01oss/implementing-opentelemetry-in-react-applications-40oj)
 - [Cursor-Reactive Gradients: Making CSS Respond to Mouse Position](https://dev.to/sammiihk/cursor-reactive-gradients-making-css-respond-to-mouse-position-5ga3)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 25, 2026)
-
-#### Dev.to JavaScript
-
-- [Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser](https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7)
-- [Best animation you have seen or created?](https://dev.to/jeffrey_riggle_e261fba011/best-animation-you-have-seen-or-created-d0b)
-- [Bulk Applicant Dispatcher — A Privacy-First MERN Stack Application for Smart Job Hunting](https://dev.to/adithyan_g_6f3e606905eed7/bulk-applicant-dispatcher-a-privacy-first-mern-stack-application-for-smart-job-hunting-l4n)
-
-#### Dev.to React
-
-- [React Native Explained: From the Legacy Bridge to the New Architecture](https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b)
-- [Generating 21 Multilingual Promo Videos from React Code with Remotion](https://dev.to/shusukedev/generating-21-multilingual-promo-videos-from-react-code-with-remotion-o26)
-- [How We Added System Audio to Screen Recording](https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-02-28",
+    "formattedDate": "February 28, 2026",
+    "news": [
+      {
+        "title": "16 Modern JavaScript Features That Might Blow Your Mind",
+        "link": "https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
+        "link": "https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀",
+        "link": "https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built an AI Course Generator in a Weekend (DuoUniversal)",
+        "link": "https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop",
+        "link": "https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "MUI vs Ant Design vs Mantine vs Chakra: The React UI Library Showdown",
+        "link": "https://dev.to/royce_fabbd83cb268312e928/mui-vs-ant-design-vs-mantine-vs-chakra-the-react-ui-library-showdown-97m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-02-27",
     "formattedDate": "February 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Cursor-Reactive Gradients: Making CSS Respond to Mouse Position",
         "link": "https://dev.to/sammiihk/cursor-reactive-gradients-making-css-respond-to-mouse-position-5ga3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-25",
-    "formattedDate": "February 25, 2026",
-    "news": [
-      {
-        "title": "Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser",
-        "link": "https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Best animation you have seen or created?",
-        "link": "https://dev.to/jeffrey_riggle_e261fba011/best-animation-you-have-seen-or-created-d0b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Bulk Applicant Dispatcher — A Privacy-First MERN Stack Application for Smart Job Hunting",
-        "link": "https://dev.to/adithyan_g_6f3e606905eed7/bulk-applicant-dispatcher-a-privacy-first-mern-stack-application-for-smart-job-hunting-l4n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Native Explained: From the Legacy Bridge to the New Architecture",
-        "link": "https://dev.to/thatsmanmeet/react-native-explained-from-the-legacy-bridge-to-the-new-architecture-309b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Generating 21 Multilingual Promo Videos from React Code with Remotion",
-        "link": "https://dev.to/shusukedev/generating-21-multilingual-promo-videos-from-react-code-with-remotion-o26",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How We Added System Audio to Screen Recording",
-        "link": "https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg",
         "source": "Dev.to React"
       },
       {
