@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 1, 2026)
+### Today's Updates (March 2, 2026)
+
+#### Dev.to JavaScript
+
+- [What Arranged Marriage Taught Me About JavaScript Promises](https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l)
+- [Add visual regression testing to your CI/CD without managing infrastructure](https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m)
+- [Build a Time Tracking App with GitHub Copilot SDK](https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6)
+
+#### Dev.to React
+
+- [5 Things AI Can't Do, Even in Tailwind css](https://dev.to/devunionx/5-things-ai-cant-do-even-in-tailwind-css-4mg2)
+- [Stop Trusting Your Smartwatch: Building a Deep Learning Stress Monitor from Raw PPG Data](https://dev.to/beck_moulton/stop-trusting-your-smartwatch-building-a-deep-learning-stress-monitor-from-raw-ppg-data-3ldn)
+- [Adding Rows & Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (February 28, 2026)
+### 2 Days Ago (February 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built an AI Course Generator in a Weekend (DuoUniversal)](https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l)
 - [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
 - [MUI vs Ant Design vs Mantine vs Chakra: The React UI Library Showdown](https://dev.to/royce_fabbd83cb268312e928/mui-vs-ant-design-vs-mantine-vs-chakra-the-react-ui-library-showdown-97m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 27, 2026)
-
-#### Dev.to JavaScript
-
-- [16 Modern JavaScript Features That Might Blow Your Mind](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e)
-- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j)
-- [Angular Signal Forms: Why Number Inputs Were Broken (And Now Aren’t)](https://dev.to/brianmtreese/angular-signal-forms-why-number-inputs-were-broken-and-now-arent-1fi7)
-
-#### Dev.to React
-
-- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j)
-- [Building Scalable Real-Time Applications with Node.js, Socket.io, and React](https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk)
-- [How to Use React Query with React Router Loaders (Pre-fetch & Cache Data)](https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-02",
+    "formattedDate": "March 2, 2026",
+    "news": [
+      {
+        "title": "What Arranged Marriage Taught Me About JavaScript Promises",
+        "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Add visual regression testing to your CI/CD without managing infrastructure",
+        "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build a Time Tracking App with GitHub Copilot SDK",
+        "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "5 Things AI Can't Do, Even in Tailwind css",
+        "link": "https://dev.to/devunionx/5-things-ai-cant-do-even-in-tailwind-css-4mg2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Trusting Your Smartwatch: Building a Deep Learning Stress Monitor from Raw PPG Data",
+        "link": "https://dev.to/beck_moulton/stop-trusting-your-smartwatch-building-a-deep-learning-stress-monitor-from-raw-ppg-data-3ldn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Adding Rows & Columns",
+        "link": "https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-01",
     "formattedDate": "March 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "MUI vs Ant Design vs Mantine vs Chakra: The React UI Library Showdown",
         "link": "https://dev.to/royce_fabbd83cb268312e928/mui-vs-ant-design-vs-mantine-vs-chakra-the-react-ui-library-showdown-97m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-27",
-    "formattedDate": "February 27, 2026",
-    "news": [
-      {
-        "title": "16 Modern JavaScript Features That Might Blow Your Mind",
-        "link": "https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Understanding Next.js Rewrites",
-        "link": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Angular Signal Forms: Why Number Inputs Were Broken (And Now Aren’t)",
-        "link": "https://dev.to/brianmtreese/angular-signal-forms-why-number-inputs-were-broken-and-now-arent-1fi7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Understanding Next.js Rewrites",
-        "link": "https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Scalable Real-Time Applications with Node.js, Socket.io, and React",
-        "link": "https://dev.to/iammuhammadarslan/building-scalable-real-time-applications-with-nodejs-socketio-and-react-2ljk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Use React Query with React Router Loaders (Pre-fetch & Cache Data)",
-        "link": "https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag",
         "source": "Dev.to React"
       },
       {
