@@ -2,8 +2,9 @@ name: Daily Newsletter (Actions)
 
 on:
   schedule:
-    # Run every day at 08:00 UTC
+    # Run twice daily at 08:00 UTC (8am) and 20:00 UTC (8pm)
     - cron: '0 8 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch:
 
 permissions:

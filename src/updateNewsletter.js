@@ -32,20 +32,28 @@ const NEWS_SOURCES = [
   }
 ];
 
-// Maximum number of news items to fetch per source
+// Configuration constants
 const MAX_NEWS_PER_SOURCE = 3;
-
-// Number of days to keep in the newsletter
 const DAYS_TO_KEEP = 3;
+const REQUEST_TIMEOUT = 10000; // 10 seconds
+const USER_AGENT = 'Mozilla/5.0 (compatible; NewsletterBot/1.0)';
 
 /**
- * Fetches news from a given source
+ * Fetches news from a given source with error handling and timeout
  * @param {Object} source - The news source configuration
  * @returns {Promise<Array>} - Array of news items
  */
 async function fetchNewsFromSource(source) {
   try {
-    const response = await axios.get(source.url);
+    console.log(`Fetching news from ${source.name}...`);
+    
+    const response = await axios.get(source.url, {
+      timeout: REQUEST_TIMEOUT,
+      headers: {
+        'User-Agent': USER_AGENT
+      }
+    });
+    
     const $ = cheerio.load(response.data);
     const newsItems = [];
     
@@ -59,6 +67,7 @@ async function fetchNewsFromSource(source) {
         link = `${source.baseUrl}${link}`;
       }
       
+      // Validate that we have both title and link
       if (title && link) {
         newsItems.push({
           title,
@@ -68,21 +77,58 @@ async function fetchNewsFromSource(source) {
       }
     });
     
+    console.log(`✓ Fetched ${newsItems.length} items from ${source.name}`);
     return newsItems;
   } catch (error) {
-    console.error(`Error fetching news from ${source.name}:`, error.message);
+    console.error(`✗ Error fetching news from ${source.name}:`, error.message);
     return [];
   }
 }
 
 /**
- * Fetches news from all sources
+ * Fetches news from all sources concurrently
  * @returns {Promise<Array>} - Array of news items from all sources
  */
 async function fetchAllNews() {
+  console.log('Starting to fetch news from all sources...');
+  
   const allPromises = NEWS_SOURCES.map(source => fetchNewsFromSource(source));
   const allResults = await Promise.all(allPromises);
-  return allResults.flat();
+  const allNews = allResults.flat();
+  
+  console.log(`Total news items fetched: ${allNews.length}`);
+  return allNews;
+}
+
+/**
+ * Parses existing news data from README content
+ * @param {string} readmeContent - The README file content
+ * @returns {Array} - Array of existing news entries
+ */
+function parseExistingNewsData(readmeContent) {
+  const newsDataMatch = readmeContent.match(/<!-- NEWS_DATA_START -->([\s\S]*?)<!-- NEWS_DATA_END -->/);
+  
+  if (newsDataMatch && newsDataMatch[1]) {
+    try {
+      const newsData = JSON.parse(newsDataMatch[1]);
+      console.log(`Loaded ${newsData.length} existing news entries`);
+      return newsData;
+    } catch (error) {
+      console.warn('Could not parse existing news data, starting fresh:', error.message);
+    }
+  }
+  
+  return [];
+}
+
+/**
+ * Checks if news data already exists for today
+ * @param {Array} newsData - Array of news entries
+ * @param {string} todayDate - Today's date in YYYY-MM-DD format
+ * @returns {boolean} - True if today's news already exists
+ */
+function hasTodaysNews(newsData, todayDate) {
+  return newsData.length > 0 && newsData[0].date === todayDate;
 }
 
 /**
@@ -90,36 +136,38 @@ async function fetchAllNews() {
  */
 async function updateReadme() {
   try {
-    // Path to the README file
     const readmePath = path.join(__dirname, '..', 'README.md');
     
     // Read the current README content
-    let readmeContent = fs.readFileSync(readmePath, 'utf8');
+    const readmeContent = fs.readFileSync(readmePath, 'utf8');
     
     // Get today's date
     const today = moment();
+    const todayDate = today.format('YYYY-MM-DD');
+    
+    // Parse existing news data
+    let newsData = parseExistingNewsData(readmeContent);
+    
+    // Check if we already have today's news
+    if (hasTodaysNews(newsData, todayDate)) {
+      console.log(`News for ${todayDate} already exists. Skipping update.`);
+      return;
+    }
     
     // Fetch today's news
     const todaysNews = await fetchAllNews();
     
+    if (todaysNews.length === 0) {
+      console.warn('No news items were fetched. Skipping README update.');
+      return;
+    }
+    
     // Create a new news entry for today
     const newsEntry = {
-      date: today.format('YYYY-MM-DD'),
+      date: todayDate,
       formattedDate: today.format('MMMM D, YYYY'),
       news: todaysNews
     };
-    
-    // Try to load existing news data from README
-    let newsData = [];
-    const newsDataMatch = readmeContent.match(/<!-- NEWS_DATA_START -->([\s\S]*?)<!-- NEWS_DATA_END -->/);
-    
-    if (newsDataMatch && newsDataMatch[1]) {
-      try {
-        newsData = JSON.parse(newsDataMatch[1]);
-      } catch (e) {
-        console.warn('Could not parse existing news data, starting fresh');
-      }
-    }
     
     // Add today's news to the beginning of the array
     newsData.unshift(newsEntry);
@@ -128,14 +176,15 @@ async function updateReadme() {
     newsData = newsData.slice(0, DAYS_TO_KEEP);
     
     // Generate the new README content
-    let newReadmeContent = generateReadmeContent(newsData);
+    const newReadmeContent = generateReadmeContent(newsData);
     
     // Update the README file
-    fs.writeFileSync(readmePath, newReadmeContent);
+    fs.writeFileSync(readmePath, newReadmeContent, 'utf8');
     
-    console.log(`README updated with news for ${today.format('YYYY-MM-DD')}`);
+    console.log(`✓ README successfully updated with news for ${todayDate}`);
   } catch (error) {
-    console.error('Error updating README:', error);
+    console.error('✗ Error updating README:', error);
+    throw error; // Re-throw to ensure the process exits with error code
   }
 }
 
@@ -159,14 +208,13 @@ This repository contains an automated newsletter that updates daily with the lat
   // Add each day's news
   newsData.forEach((entry, index) => {
     const dayLabel = index === 0 ? "Today's Updates" :
-                    index === 1 ? "Yesterday's Updates" :
-                    `${index} Days Ago`;
+      index === 1 ? "Yesterday's Updates" :
+        `${index} Days Ago`;
     
-    content += `### ${dayLabel} (${entry.formattedDate})
-\n`;
+    content += `### ${dayLabel} (${entry.formattedDate})\n\n`;
     
     if (entry.news.length === 0) {
-      content += '- *No news available for this day*\n\n';
+      content += '*No news available for this day*\n\n';
     } else {
       // Group news by source
       const newsBySource = {};
@@ -217,5 +265,25 @@ Contributions to improve the newsletter format or sources are welcome!
   return content;
 }
 
-// Run the update function
-updateReadme().catch(console.error);
+// Main execution
+if (require.main === module) {
+  updateReadme()
+    .then(() => {
+      console.log('Newsletter update completed successfully');
+      process.exit(0);
+    })
+    .catch((error) => {
+      console.error('Newsletter update failed:', error);
+      process.exit(1);
+    });
+}
+
+// Export functions for testing
+module.exports = {
+  fetchNewsFromSource,
+  fetchAllNews,
+  parseExistingNewsData,
+  hasTodaysNews,
+  generateReadmeContent,
+  updateReadme
+};
