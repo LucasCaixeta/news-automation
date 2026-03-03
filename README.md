@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 2, 2026)
+### Today's Updates (March 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg)
+- [msw-fetch-mock: Undici-Style Fetch Mocking for MSW](https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j)
+- [From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot](https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g)
+
+#### Dev.to React
+
+- [Building a Real-time Multiplayer Game with React + Firebase - MMA XOX Case Study](https://dev.to/jebolwski/building-a-real-time-multiplayer-game-with-react-firebase-mma-xox-case-study-1ni7)
+- [Mastering React Hooks: From Basics to Custom Hooks (2026 Guide)](https://dev.to/iammuhammadarslan/mastering-react-hooks-from-basics-to-custom-hooks-2026-guide-34jc)
+- [Boss-CSS: I created another "CSS-in-JS" lib, and here is why!](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 1, 2026)
+### 2 Days Ago (March 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I built an AI-powered Git context menu for Windows using Tauri and Rust](https://dev.to/vinzify/how-i-built-an-ai-powered-git-context-menu-for-windows-using-tauri-and-rust-25h7)
 - [Transform Your Markdown into Professional PDFs in Seconds with PDFMaker](https://dev.to/myogeshchavan97/transform-your-markdown-into-professional-pdfs-in-seconds-with-pdfmaker-8f)
 - [FeatureDrop v3 — Your App Now Decides When and How to Show Features](https://dev.to/thegdsks/featuredrop-v3-your-app-now-decides-when-and-how-to-show-features-588o)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (February 28, 2026)
-
-#### Dev.to JavaScript
-
-- [16 Modern JavaScript Features That Might Blow Your Mind](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e)
-- [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib)
-- [I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀](https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp)
-
-#### Dev.to React
-
-- [How I Built an AI Course Generator in a Weekend (DuoUniversal)](https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l)
-- [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
-- [MUI vs Ant Design vs Mantine vs Chakra: The React UI Library Showdown](https://dev.to/royce_fabbd83cb268312e928/mui-vs-ant-design-vs-mantine-vs-chakra-the-react-ui-library-showdown-97m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-03",
+    "formattedDate": "March 3, 2026",
+    "news": [
+      {
+        "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+        "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
+        "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
+        "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Real-time Multiplayer Game with React + Firebase - MMA XOX Case Study",
+        "link": "https://dev.to/jebolwski/building-a-real-time-multiplayer-game-with-react-firebase-mma-xox-case-study-1ni7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering React Hooks: From Basics to Custom Hooks (2026 Guide)",
+        "link": "https://dev.to/iammuhammadarslan/mastering-react-hooks-from-basics-to-custom-hooks-2026-guide-34jc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
+        "link": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-02",
     "formattedDate": "March 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "FeatureDrop v3 — Your App Now Decides When and How to Show Features",
         "link": "https://dev.to/thegdsks/featuredrop-v3-your-app-now-decides-when-and-how-to-show-features-588o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-28",
-    "formattedDate": "February 28, 2026",
-    "news": [
-      {
-        "title": "16 Modern JavaScript Features That Might Blow Your Mind",
-        "link": "https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
-        "link": "https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀",
-        "link": "https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built an AI Course Generator in a Weekend (DuoUniversal)",
-        "link": "https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop",
-        "link": "https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MUI vs Ant Design vs Mantine vs Chakra: The React UI Library Showdown",
-        "link": "https://dev.to/royce_fabbd83cb268312e928/mui-vs-ant-design-vs-mantine-vs-chakra-the-react-ui-library-showdown-97m",
         "source": "Dev.to React"
       },
       {
