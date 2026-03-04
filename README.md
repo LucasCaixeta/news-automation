@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser](https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02)
-- [Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)](https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph)
-- [Why Batch Belongs to the Scheduler, Not Computed](https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn)
+- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
+- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om)
+- [JPEG vs JPG: What's the Difference? (And How to Convert Between Them)](https://dev.to/zepubocode/jpeg-vs-jpg-whats-the-difference-and-how-to-convert-between-them-33j0)
 
 #### Dev.to React
 
-- [How I built a real-time, 3D interactive Data Globe with visualization platform](https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci)
-- [I Failed 3 React Interviews Before I Understood What They Actually Want in 2026](https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf)
-- [npx i18next-cli instrument](https://dev.to/adrai/npx-i18next-cli-instrument-4e57)
+- [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
+- [Why AI Crawlers Can't See Your React App](https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n)
+- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 4, 2026",
     "news": [
       {
-        "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
-        "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
+        "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
+        "link": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
-        "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+        "title": "Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0",
+        "link": "https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Batch Belongs to the Scheduler, Not Computed",
-        "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+        "title": "JPEG vs JPG: What's the Difference? (And How to Convert Between Them)",
+        "link": "https://dev.to/zepubocode/jpeg-vs-jpg-whats-the-difference-and-how-to-convert-between-them-33j0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I built a real-time, 3D interactive Data Globe with visualization platform",
-        "link": "https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci",
+        "title": "React: Singletons aren't as evil as you think",
+        "link": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
         "source": "Dev.to React"
       },
       {
-        "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
-        "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+        "title": "Why AI Crawlers Can't See Your React App",
+        "link": "https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n",
         "source": "Dev.to React"
       },
       {
-        "title": "npx i18next-cli instrument",
-        "link": "https://dev.to/adrai/npx-i18next-cli-instrument-4e57",
+        "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
+        "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
         "source": "Dev.to React"
       },
       {
