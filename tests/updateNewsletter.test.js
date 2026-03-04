@@ -1,6 +1,6 @@
 const {
   parseExistingNewsData,
-  hasTodaysNews,
+  findTodaysNewsIndex,
   generateReadmeContent
 } = require('../src/updateNewsletter');
 
@@ -41,33 +41,45 @@ invalid json
     });
   });
 
-  describe('hasTodaysNews', () => {
-    it('should return true when today\'s news exists', () => {
+  describe('findTodaysNewsIndex', () => {
+    it('should return 0 when today\'s news exists at the beginning', () => {
       const newsData = [
         { date: '2026-03-03', news: [] },
         { date: '2026-03-02', news: [] }
       ];
       
-      const result = hasTodaysNews(newsData, '2026-03-03');
+      const result = findTodaysNewsIndex(newsData, '2026-03-03');
       
-      expect(result).toBe(true);
+      expect(result).toBe(0);
     });
 
-    it('should return false when today\'s news does not exist', () => {
+    it('should return correct index when today\'s news exists in the middle', () => {
+      const newsData = [
+        { date: '2026-03-04', news: [] },
+        { date: '2026-03-03', news: [] },
+        { date: '2026-03-02', news: [] }
+      ];
+      
+      const result = findTodaysNewsIndex(newsData, '2026-03-03');
+      
+      expect(result).toBe(1);
+    });
+
+    it('should return -1 when today\'s news does not exist', () => {
       const newsData = [
         { date: '2026-03-02', news: [] },
         { date: '2026-03-01', news: [] }
       ];
       
-      const result = hasTodaysNews(newsData, '2026-03-03');
+      const result = findTodaysNewsIndex(newsData, '2026-03-03');
       
-      expect(result).toBe(false);
+      expect(result).toBe(-1);
     });
 
-    it('should return false for empty news data', () => {
-      const result = hasTodaysNews([], '2026-03-03');
+    it('should return -1 for empty news data', () => {
+      const result = findTodaysNewsIndex([], '2026-03-03');
       
-      expect(result).toBe(false);
+      expect(result).toBe(-1);
     });
   });
 

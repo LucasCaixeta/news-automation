@@ -122,13 +122,13 @@ function parseExistingNewsData(readmeContent) {
 }
 
 /**
- * Checks if news data already exists for today
+ * Finds the index of today's news entry if it exists
  * @param {Array} newsData - Array of news entries
  * @param {string} todayDate - Today's date in YYYY-MM-DD format
- * @returns {boolean} - True if today's news already exists
+ * @returns {number} - Index of today's news entry, or -1 if not found
  */
-function hasTodaysNews(newsData, todayDate) {
-  return newsData.length > 0 && newsData[0].date === todayDate;
+function findTodaysNewsIndex(newsData, todayDate) {
+  return newsData.findIndex(entry => entry.date === todayDate);
 }
 
 /**
@@ -148,12 +148,6 @@ async function updateReadme() {
     // Parse existing news data
     let newsData = parseExistingNewsData(readmeContent);
     
-    // Check if we already have today's news
-    if (hasTodaysNews(newsData, todayDate)) {
-      console.log(`News for ${todayDate} already exists. Skipping update.`);
-      return;
-    }
-    
     // Fetch today's news
     const todaysNews = await fetchAllNews();
     
@@ -169,8 +163,17 @@ async function updateReadme() {
       news: todaysNews
     };
     
-    // Add today's news to the beginning of the array
-    newsData.unshift(newsEntry);
+    // Check if we already have today's news
+    const todaysIndex = findTodaysNewsIndex(newsData, todayDate);
+    if (todaysIndex !== -1) {
+      console.log(`Updating existing news for ${todayDate}`);
+      // Replace the existing entry with fresh news
+      newsData[todaysIndex] = newsEntry;
+    } else {
+      console.log(`Adding new news for ${todayDate}`);
+      // Add today's news to the beginning of the array
+      newsData.unshift(newsEntry);
+    }
     
     // Keep only the last DAYS_TO_KEEP days
     newsData = newsData.slice(0, DAYS_TO_KEEP);
@@ -283,7 +286,7 @@ module.exports = {
   fetchNewsFromSource,
   fetchAllNews,
   parseExistingNewsData,
-  hasTodaysNews,
+  findTodaysNewsIndex,
   generateReadmeContent,
   updateReadme
 };
