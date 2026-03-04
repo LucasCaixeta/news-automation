@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 3, 2026)
+### Today's Updates (March 4, 2026)
+
+#### Dev.to JavaScript
+
+- [The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser](https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02)
+- [Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)](https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph)
+- [Why Batch Belongs to the Scheduler, Not Computed](https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn)
+
+#### Dev.to React
+
+- [How I built a real-time, 3D interactive Data Globe with visualization platform](https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci)
+- [I Failed 3 React Interviews Before I Understood What They Actually Want in 2026](https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf)
+- [npx i18next-cli instrument](https://dev.to/adrai/npx-i18next-cli-instrument-4e57)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 2, 2026)
+### 2 Days Ago (March 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [5 Things AI Can't Do, Even in Tailwind css](https://dev.to/devunionx/5-things-ai-cant-do-even-in-tailwind-css-4mg2)
 - [Stop Trusting Your Smartwatch: Building a Deep Learning Stress Monitor from Raw PPG Data](https://dev.to/beck_moulton/stop-trusting-your-smartwatch-building-a-deep-learning-stress-monitor-from-raw-ppg-data-3ldn)
 - [Adding Rows & Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 1, 2026)
-
-#### Dev.to JavaScript
-
-- [An App where you can Train your Own Hand Pose Model for your Project! 🤌](https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib)
-- [16 Modern JavaScript Features That Might Blow Your Mind](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e)
-- [GRSMD: Instant Markdown Viewer — Local & Private](https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c)
-
-#### Dev.to React
-
-- [How I built an AI-powered Git context menu for Windows using Tauri and Rust](https://dev.to/vinzify/how-i-built-an-ai-powered-git-context-menu-for-windows-using-tauri-and-rust-25h7)
-- [Transform Your Markdown into Professional PDFs in Seconds with PDFMaker](https://dev.to/myogeshchavan97/transform-your-markdown-into-professional-pdfs-in-seconds-with-pdfmaker-8f)
-- [FeatureDrop v3 — Your App Now Decides When and How to Show Features](https://dev.to/thegdsks/featuredrop-v3-your-app-now-decides-when-and-how-to-show-features-588o)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-04",
+    "formattedDate": "March 4, 2026",
+    "news": [
+      {
+        "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
+        "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
+        "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Batch Belongs to the Scheduler, Not Computed",
+        "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built a real-time, 3D interactive Data Globe with visualization platform",
+        "link": "https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
+        "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "npx i18next-cli instrument",
+        "link": "https://dev.to/adrai/npx-i18next-cli-instrument-4e57",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-03",
     "formattedDate": "March 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Adding Rows & Columns",
         "link": "https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-01",
-    "formattedDate": "March 1, 2026",
-    "news": [
-      {
-        "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
-        "link": "https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "16 Modern JavaScript Features That Might Blow Your Mind",
-        "link": "https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "GRSMD: Instant Markdown Viewer — Local & Private",
-        "link": "https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I built an AI-powered Git context menu for Windows using Tauri and Rust",
-        "link": "https://dev.to/vinzify/how-i-built-an-ai-powered-git-context-menu-for-windows-using-tauri-and-rust-25h7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Transform Your Markdown into Professional PDFs in Seconds with PDFMaker",
-        "link": "https://dev.to/myogeshchavan97/transform-your-markdown-into-professional-pdfs-in-seconds-with-pdfmaker-8f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "FeatureDrop v3 — Your App Now Decides When and How to Show Features",
-        "link": "https://dev.to/thegdsks/featuredrop-v3-your-app-now-decides-when-and-how-to-show-features-588o",
         "source": "Dev.to React"
       },
       {
