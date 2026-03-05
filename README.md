@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
-- [Solving Async Race Conditions in JavaScript with a 500B Library](https://dev.to/denycode/solving-async-race-conditions-in-javascript-with-a-500b-library-9m)
+- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj)
+- [I Built an AI Agent That Talks to My Website Visitors So I Don't Have to Miss Leads Anymore](https://dev.to/__aki/i-built-an-ai-agent-that-talks-to-my-website-visitors-so-i-dont-have-to-miss-leads-anymore-41cd)
 - [JavaScript Basics: Control Flow (Conditionals and Loops)](https://dev.to/sharique_siddiqui_8242dad/javascript-basics-control-flow-conditionals-and-loops-248m)
 
 #### Dev.to React
 
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
-- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
-- [The React Compiler Is Here You Can Delete Half Your useMemo and useCallback](https://dev.to/harsh2644/the-react-compiler-is-here-you-can-delete-half-your-usememo-and-usecallback-4312)
+- [We Reinvented PHP but 10x Slower: Why React Server Components Might Be an Architectural Dead End](https://dev.to/gerus_team/we-reinvented-php-but-10x-slower-why-react-server-components-might-be-an-architectural-dead-end-17pf)
+- [100+ FREE React website templates](https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h)
 
 #### React Blog
 
@@ -89,13 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 5, 2026",
     "news": [
       {
-        "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
-        "link": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
+        "title": "The Old Seniority Definition Is Collapsing",
+        "link": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Solving Async Race Conditions in JavaScript with a 500B Library",
-        "link": "https://dev.to/denycode/solving-async-race-conditions-in-javascript-with-a-500b-library-9m",
+        "title": "I Built an AI Agent That Talks to My Website Visitors So I Don't Have to Miss Leads Anymore",
+        "link": "https://dev.to/__aki/i-built-an-ai-agent-that-talks-to-my-website-visitors-so-i-dont-have-to-miss-leads-anymore-41cd",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
-        "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
+        "title": "We Reinvented PHP but 10x Slower: Why React Server Components Might Be an Architectural Dead End",
+        "link": "https://dev.to/gerus_team/we-reinvented-php-but-10x-slower-why-react-server-components-might-be-an-architectural-dead-end-17pf",
         "source": "Dev.to React"
       },
       {
-        "title": "The React Compiler Is Here You Can Delete Half Your useMemo and useCallback",
-        "link": "https://dev.to/harsh2644/the-react-compiler-is-here-you-can-delete-half-your-usememo-and-usecallback-4312",
+        "title": "100+ FREE React website templates",
+        "link": "https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h",
         "source": "Dev.to React"
       },
       {
