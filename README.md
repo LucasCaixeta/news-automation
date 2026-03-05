@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 4, 2026)
+### Today's Updates (March 5, 2026)
+
+#### Dev.to JavaScript
+
+- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
+- [Solving Async Race Conditions in JavaScript with a 500B Library](https://dev.to/denycode/solving-async-race-conditions-in-javascript-with-a-500b-library-9m)
+- [JavaScript Basics: Control Flow (Conditionals and Loops)](https://dev.to/sharique_siddiqui_8242dad/javascript-basics-control-flow-conditionals-and-loops-248m)
+
+#### Dev.to React
+
+- [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
+- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
+- [The React Compiler Is Here You Can Delete Half Your useMemo and useCallback](https://dev.to/harsh2644/the-react-compiler-is-here-you-can-delete-half-your-usememo-and-usecallback-4312)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 3, 2026)
+### 2 Days Ago (March 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Real-time Multiplayer Game with React + Firebase - MMA XOX Case Study](https://dev.to/jebolwski/building-a-real-time-multiplayer-game-with-react-firebase-mma-xox-case-study-1ni7)
 - [Mastering React Hooks: From Basics to Custom Hooks (2026 Guide)](https://dev.to/iammuhammadarslan/mastering-react-hooks-from-basics-to-custom-hooks-2026-guide-34jc)
 - [Boss-CSS: I created another "CSS-in-JS" lib, and here is why!](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 2, 2026)
-
-#### Dev.to JavaScript
-
-- [What Arranged Marriage Taught Me About JavaScript Promises](https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l)
-- [Add visual regression testing to your CI/CD without managing infrastructure](https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m)
-- [Build a Time Tracking App with GitHub Copilot SDK](https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6)
-
-#### Dev.to React
-
-- [5 Things AI Can't Do, Even in Tailwind css](https://dev.to/devunionx/5-things-ai-cant-do-even-in-tailwind-css-4mg2)
-- [Stop Trusting Your Smartwatch: Building a Deep Learning Stress Monitor from Raw PPG Data](https://dev.to/beck_moulton/stop-trusting-your-smartwatch-building-a-deep-learning-stress-monitor-from-raw-ppg-data-3ldn)
-- [Adding Rows & Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-05",
+    "formattedDate": "March 5, 2026",
+    "news": [
+      {
+        "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
+        "link": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Solving Async Race Conditions in JavaScript with a 500B Library",
+        "link": "https://dev.to/denycode/solving-async-race-conditions-in-javascript-with-a-500b-library-9m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Basics: Control Flow (Conditionals and Loops)",
+        "link": "https://dev.to/sharique_siddiqui_8242dad/javascript-basics-control-flow-conditionals-and-loops-248m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React: Singletons aren't as evil as you think",
+        "link": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
+        "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The React Compiler Is Here You Can Delete Half Your useMemo and useCallback",
+        "link": "https://dev.to/harsh2644/the-react-compiler-is-here-you-can-delete-half-your-usememo-and-usecallback-4312",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-04",
     "formattedDate": "March 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
         "link": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-02",
-    "formattedDate": "March 2, 2026",
-    "news": [
-      {
-        "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-        "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-        "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build a Time Tracking App with GitHub Copilot SDK",
-        "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "5 Things AI Can't Do, Even in Tailwind css",
-        "link": "https://dev.to/devunionx/5-things-ai-cant-do-even-in-tailwind-css-4mg2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Trusting Your Smartwatch: Building a Deep Learning Stress Monitor from Raw PPG Data",
-        "link": "https://dev.to/beck_moulton/stop-trusting-your-smartwatch-building-a-deep-learning-stress-monitor-from-raw-ppg-data-3ldn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Adding Rows & Columns",
-        "link": "https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb",
         "source": "Dev.to React"
       },
       {
