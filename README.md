@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj)
-- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
-- [I compiled 459 landlord-tenant statutes into a database and built free tools on top of it](https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i)
+- [💥 Beginner-Friendly Guide 'Check if Binary String Has at Most One Segment of Ones' - Problem 1784 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-check-if-binary-string-has-at-most-one-segment-of-ones-problem-1784-74g)
+- [Building an AI-Powered Revenue Recovery Engine for SaaS 🚀 (Next.js 15 + Gemini 2.0)](https://dev.to/ezekielreu6/building-an-ai-powered-revenue-recovery-engine-for-saas-nextjs-15-gemini-20-427)
+- [I built a full desktop OS in a browser](https://dev.to/paradox_837c268b450caf191/i-built-a-full-desktop-os-in-a-browser-5a01)
 
 #### Dev.to React
 
-- [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
-- [100+ FREE React website templates](https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h)
-- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
+- [Your Dialog Has role='dialog'. That Doesn't Make It Accessible.](https://dev.to/vmvenkatesh78/your-dialog-has-roledialog-that-doesnt-make-it-accessible-4lha)
+- [Como Implementei i18n no Meu Portfólio Next.js com Export Estático (Sem Middleware!)](https://dev.to/pierresouza/como-implementei-i18n-no-meu-portfolio-nextjs-com-export-estatico-sem-middleware-2ne9)
+- [How to add theming to an SSR app (TanStack Start)](https://dev.to/ishchhabra/how-to-add-theming-to-an-ssr-app-tanstack-start-56mn)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 6, 2026",
     "news": [
       {
-        "title": "The Old Seniority Definition Is Collapsing",
-        "link": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+        "title": "💥 Beginner-Friendly Guide 'Check if Binary String Has at Most One Segment of Ones' - Problem 1784 (C++, Python, JavaScript)",
+        "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-check-if-binary-string-has-at-most-one-segment-of-ones-problem-1784-74g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a free browser-based image toolkit with JavaScript",
-        "link": "https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l",
+        "title": "Building an AI-Powered Revenue Recovery Engine for SaaS 🚀 (Next.js 15 + Gemini 2.0)",
+        "link": "https://dev.to/ezekielreu6/building-an-ai-powered-revenue-recovery-engine-for-saas-nextjs-15-gemini-20-427",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I compiled 459 landlord-tenant statutes into a database and built free tools on top of it",
-        "link": "https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i",
+        "title": "I built a full desktop OS in a browser",
+        "link": "https://dev.to/paradox_837c268b450caf191/i-built-a-full-desktop-os-in-a-browser-5a01",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React: Singletons aren't as evil as you think",
-        "link": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+        "title": "Your Dialog Has role='dialog'. That Doesn't Make It Accessible.",
+        "link": "https://dev.to/vmvenkatesh78/your-dialog-has-roledialog-that-doesnt-make-it-accessible-4lha",
         "source": "Dev.to React"
       },
       {
-        "title": "100+ FREE React website templates",
-        "link": "https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h",
+        "title": "Como Implementei i18n no Meu Portfólio Next.js com Export Estático (Sem Middleware!)",
+        "link": "https://dev.to/pierresouza/como-implementei-i18n-no-meu-portfolio-nextjs-com-export-estatico-sem-middleware-2ne9",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
-        "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
+        "title": "How to add theming to an SSR app (TanStack Start)",
+        "link": "https://dev.to/ishchhabra/how-to-add-theming-to-an-ssr-app-tanstack-start-56mn",
         "source": "Dev.to React"
       },
       {
