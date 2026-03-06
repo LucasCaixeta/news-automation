@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 5, 2026)
+### Today's Updates (March 6, 2026)
+
+#### Dev.to JavaScript
+
+- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj)
+- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
+- [I compiled 459 landlord-tenant statutes into a database and built free tools on top of it](https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i)
+
+#### Dev.to React
+
+- [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
+- [100+ FREE React website templates](https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h)
+- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 4, 2026)
+### 2 Days Ago (March 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
 - [Why AI Crawlers Can't See Your React App](https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n)
 - [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 3, 2026)
-
-#### Dev.to JavaScript
-
-- [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg)
-- [msw-fetch-mock: Undici-Style Fetch Mocking for MSW](https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j)
-- [From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot](https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g)
-
-#### Dev.to React
-
-- [Building a Real-time Multiplayer Game with React + Firebase - MMA XOX Case Study](https://dev.to/jebolwski/building-a-real-time-multiplayer-game-with-react-firebase-mma-xox-case-study-1ni7)
-- [Mastering React Hooks: From Basics to Custom Hooks (2026 Guide)](https://dev.to/iammuhammadarslan/mastering-react-hooks-from-basics-to-custom-hooks-2026-guide-34jc)
-- [Boss-CSS: I created another "CSS-in-JS" lib, and here is why!](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-06",
+    "formattedDate": "March 6, 2026",
+    "news": [
+      {
+        "title": "The Old Seniority Definition Is Collapsing",
+        "link": "https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a free browser-based image toolkit with JavaScript",
+        "link": "https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I compiled 459 landlord-tenant statutes into a database and built free tools on top of it",
+        "link": "https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React: Singletons aren't as evil as you think",
+        "link": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "100+ FREE React website templates",
+        "link": "https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
+        "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-05",
     "formattedDate": "March 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
         "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-03",
-    "formattedDate": "March 3, 2026",
-    "news": [
-      {
-        "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-        "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
-        "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
-        "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Real-time Multiplayer Game with React + Firebase - MMA XOX Case Study",
-        "link": "https://dev.to/jebolwski/building-a-real-time-multiplayer-game-with-react-firebase-mma-xox-case-study-1ni7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering React Hooks: From Basics to Custom Hooks (2026 Guide)",
-        "link": "https://dev.to/iammuhammadarslan/mastering-react-hooks-from-basics-to-custom-hooks-2026-guide-34jc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Boss-CSS: I created another \"CSS-in-JS\" lib, and here is why!",
-        "link": "https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc",
         "source": "Dev.to React"
       },
       {
