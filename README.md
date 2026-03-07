@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 6, 2026)
+### Today's Updates (March 7, 2026)
+
+#### Dev.to JavaScript
+
+- [Como validar CPF em JavaScript: guia simples para desenvolvedores](https://dev.to/gerador-br/como-validar-cpf-em-javascript-guia-simples-para-desenvolvedores-11b3)
+- [I Built 37 Free Browser-Based Tools with Flask and No JavaScript Framework](https://dev.to/textkit/i-built-37-free-browser-based-tools-with-flask-and-no-javascript-framework-4425)
+- [I built 3 open-source tools for developers and freelancers — here's what I learned published: false](https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a)
+
+#### Dev.to React
+
+- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
+- [Como Implementei i18n no Meu Portfólio Next.js com Export Estático (Sem Middleware!)](https://dev.to/pierresouza/como-implementei-i18n-no-meu-portfolio-nextjs-com-export-estatico-sem-middleware-2ne9)
+- [Stop Hardcoding Dashboards: Build JSON-Driven Analytics Widgets Instead](https://dev.to/abhilashlr/stop-hardcoding-dashboards-build-json-driven-analytics-widgets-instead-4bm7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 5, 2026)
+### 2 Days Ago (March 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
 - [We Reinvented PHP but 10x Slower: Why React Server Components Might Be an Architectural Dead End](https://dev.to/gerus_team/we-reinvented-php-but-10x-slower-why-react-server-components-might-be-an-architectural-dead-end-17pf)
 - [100+ FREE React website templates](https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 4, 2026)
-
-#### Dev.to JavaScript
-
-- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
-- [Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0](https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om)
-- [JPEG vs JPG: What's the Difference? (And How to Convert Between Them)](https://dev.to/zepubocode/jpeg-vs-jpg-whats-the-difference-and-how-to-convert-between-them-33j0)
-
-#### Dev.to React
-
-- [React: Singletons aren't as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
-- [Why AI Crawlers Can't See Your React App](https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n)
-- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-07",
+    "formattedDate": "March 7, 2026",
+    "news": [
+      {
+        "title": "Como validar CPF em JavaScript: guia simples para desenvolvedores",
+        "link": "https://dev.to/gerador-br/como-validar-cpf-em-javascript-guia-simples-para-desenvolvedores-11b3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built 37 Free Browser-Based Tools with Flask and No JavaScript Framework",
+        "link": "https://dev.to/textkit/i-built-37-free-browser-based-tools-with-flask-and-no-javascript-framework-4425",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built 3 open-source tools for developers and freelancers — here's what I learned published: false",
+        "link": "https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection",
+        "link": "https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Como Implementei i18n no Meu Portfólio Next.js com Export Estático (Sem Middleware!)",
+        "link": "https://dev.to/pierresouza/como-implementei-i18n-no-meu-portfolio-nextjs-com-export-estatico-sem-middleware-2ne9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Hardcoding Dashboards: Build JSON-Driven Analytics Widgets Instead",
+        "link": "https://dev.to/abhilashlr/stop-hardcoding-dashboards-build-json-driven-analytics-widgets-instead-4bm7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-06",
     "formattedDate": "March 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "100+ FREE React website templates",
         "link": "https://dev.to/shreyvijayvargiya/100-free-react-website-templates-2f6h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-04",
-    "formattedDate": "March 4, 2026",
-    "news": [
-      {
-        "title": "How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error",
-        "link": "https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Balancing Deep Work and Spiritual Goals: Introducing CodeTune v1.1.0",
-        "link": "https://dev.to/freerave/balancing-deep-work-and-spiritual-goals-introducing-codetune-v110-10om",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JPEG vs JPG: What's the Difference? (And How to Convert Between Them)",
-        "link": "https://dev.to/zepubocode/jpeg-vs-jpg-whats-the-difference-and-how-to-convert-between-them-33j0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React: Singletons aren't as evil as you think",
-        "link": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why AI Crawlers Can't See Your React App",
-        "link": "https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Made Missing Translations a Compile-Time TypeScript Error",
-        "link": "https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc",
         "source": "Dev.to React"
       },
       {
