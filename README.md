@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Como validar CPF em JavaScript: guia simples para desenvolvedores](https://dev.to/gerador-br/como-validar-cpf-em-javascript-guia-simples-para-desenvolvedores-11b3)
-- [I Built 37 Free Browser-Based Tools with Flask and No JavaScript Framework](https://dev.to/textkit/i-built-37-free-browser-based-tools-with-flask-and-no-javascript-framework-4425)
-- [I built 3 open-source tools for developers and freelancers — here's what I learned published: false](https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a)
+- [Composition Pattern in React](https://dev.to/gabrielenache/composition-pattern-in-react-1i52)
+- [ScriptLite — a sandboxed ECMAScript subset interpreter for PHP (with optional C extension)](https://dev.to/aheinze/scriptlite-a-sandboxed-ecmascript-subset-interpreter-for-php-with-optional-c-extension-58ea)
+- [Accept Payments in Salesforce: A Complete Guide to Stripe Integration](https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k)
 
 #### Dev.to React
 
 - [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Como Implementei i18n no Meu Portfólio Next.js com Export Estático (Sem Middleware!)](https://dev.to/pierresouza/como-implementei-i18n-no-meu-portfolio-nextjs-com-export-estatico-sem-middleware-2ne9)
-- [Stop Hardcoding Dashboards: Build JSON-Driven Analytics Widgets Instead](https://dev.to/abhilashlr/stop-hardcoding-dashboards-build-json-driven-analytics-widgets-instead-4bm7)
+- [Building a High-Performance AI-Native Notebook Interface with React and Groq API](https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32)
+- [I Built My Own Spotify Because Every Music App Failed Me (Web App + Android APK, Solo)](https://dev.to/itslokeshx/i-built-my-own-spotify-because-every-music-app-failed-me-web-app-android-apk-solo-3ohc)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 7, 2026",
     "news": [
       {
-        "title": "Como validar CPF em JavaScript: guia simples para desenvolvedores",
-        "link": "https://dev.to/gerador-br/como-validar-cpf-em-javascript-guia-simples-para-desenvolvedores-11b3",
+        "title": "Composition Pattern in React",
+        "link": "https://dev.to/gabrielenache/composition-pattern-in-react-1i52",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built 37 Free Browser-Based Tools with Flask and No JavaScript Framework",
-        "link": "https://dev.to/textkit/i-built-37-free-browser-based-tools-with-flask-and-no-javascript-framework-4425",
+        "title": "ScriptLite — a sandboxed ECMAScript subset interpreter for PHP (with optional C extension)",
+        "link": "https://dev.to/aheinze/scriptlite-a-sandboxed-ecmascript-subset-interpreter-for-php-with-optional-c-extension-58ea",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built 3 open-source tools for developers and freelancers — here's what I learned published: false",
-        "link": "https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a",
+        "title": "Accept Payments in Salesforce: A Complete Guide to Stripe Integration",
+        "link": "https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Como Implementei i18n no Meu Portfólio Next.js com Export Estático (Sem Middleware!)",
-        "link": "https://dev.to/pierresouza/como-implementei-i18n-no-meu-portfolio-nextjs-com-export-estatico-sem-middleware-2ne9",
+        "title": "Building a High-Performance AI-Native Notebook Interface with React and Groq API",
+        "link": "https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Hardcoding Dashboards: Build JSON-Driven Analytics Widgets Instead",
-        "link": "https://dev.to/abhilashlr/stop-hardcoding-dashboards-build-json-driven-analytics-widgets-instead-4bm7",
+        "title": "I Built My Own Spotify Because Every Music App Failed Me (Web App + Android APK, Solo)",
+        "link": "https://dev.to/itslokeshx/i-built-my-own-spotify-because-every-music-app-failed-me-web-app-android-apk-solo-3ohc",
         "source": "Dev.to React"
       },
       {
