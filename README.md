@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I'm tired...](https://dev.to/restu_muhammad_d32f98b653/im-tired-2d99)
+- [What If Everything in Your UI Had an Address?](https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh)
+- [I freed 12GB of disk space in 10 seconds with one CLI command](https://dev.to/arik_mozharovsky_a971d895/i-freed-12gb-of-disk-space-in-10-seconds-with-one-cli-command-3ap1)
 - [Building an offline subtitle extractor with whisper.cpp and Electron](https://dev.to/imper_7cde72b79d2529291ec/building-an-offline-subtitle-extractor-with-whispercpp-and-electron-44k2)
-- [5 Free Screenshot APIs for Developers in 2026 (Compared)](https://dev.to/robocular/5-free-screenshot-apis-for-developers-in-2026-compared-438n)
 
 #### Dev.to React
 
-- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Composition Pattern in React](https://dev.to/gabrielenache/composition-pattern-in-react-1i52)
-- [I replaced a $99/month headless CMS with Shopify's built-in Metaobjects — here's the full starter](https://dev.to/nathanmcmullendev/i-replaced-a-99month-headless-cms-with-shopifys-built-in-metaobjects-heres-the-full-starter-19eb)
+- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
+- [Micro Frontend Architecture (with React Examples) 🧩](https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h)
+- [How to Build Bidirectional Infinite Scroll in React](https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290)
 
 #### React Blog
 
@@ -89,8 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 8, 2026",
     "news": [
       {
-        "title": "I'm tired...",
-        "link": "https://dev.to/restu_muhammad_d32f98b653/im-tired-2d99",
+        "title": "What If Everything in Your UI Had an Address?",
+        "link": "https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I freed 12GB of disk space in 10 seconds with one CLI command",
+        "link": "https://dev.to/arik_mozharovsky_a971d895/i-freed-12gb-of-disk-space-in-10-seconds-with-one-cli-command-3ap1",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "5 Free Screenshot APIs for Developers in 2026 (Compared)",
-        "link": "https://dev.to/robocular/5-free-screenshot-apis-for-developers-in-2026-compared-438n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection",
-        "link": "https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk",
+        "title": "AI Chat UI Best Practices: Designing Better LLM Interfaces",
+        "link": "https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj",
         "source": "Dev.to React"
       },
       {
-        "title": "Composition Pattern in React",
-        "link": "https://dev.to/gabrielenache/composition-pattern-in-react-1i52",
+        "title": "Micro Frontend Architecture (with React Examples) 🧩",
+        "link": "https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h",
         "source": "Dev.to React"
       },
       {
-        "title": "I replaced a $99/month headless CMS with Shopify's built-in Metaobjects — here's the full starter",
-        "link": "https://dev.to/nathanmcmullendev/i-replaced-a-99month-headless-cms-with-shopifys-built-in-metaobjects-heres-the-full-starter-19eb",
+        "title": "How to Build Bidirectional Infinite Scroll in React",
+        "link": "https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290",
         "source": "Dev.to React"
       },
       {
