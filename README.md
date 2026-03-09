@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [TanStack Is Eating React's Ecosystem — And Nobody Is Talking About It](https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0)
-- [Why Instagram Adds "AI Info" to Your Photos (and a way to fix it in the browser)](https://dev.to/sam_lee_880a38a45a170858b/why-instagram-adds-ai-info-to-your-photos-and-a-way-to-fix-it-in-the-browser-4kdc)
-- [What If Everything in Your UI Had an Address?](https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh)
+- [How Context-First MCP Design Reduces Agent Failures on Backend Tasks](https://dev.to/astrodevil/how-context-first-mcp-design-reduces-agent-failures-on-backend-tasks-44jk)
+- [How to Run a Minecraft Server on VPS/Termux without Pterodactyl Panel (Node.js)](https://dev.to/dimzxzzx07/how-to-run-a-minecraft-server-on-vpstermux-without-pterodactyl-panel-nodejs-1aai)
+- [😍AI Avatar (Meet Your Ideal Girlfriend/Boyfriend for Free)🥰](https://dev.to/webdeveloperhyper/ai-avatar-meet-your-ideal-girlfriendboyfriend-for-free-21n5)
 
 #### Dev.to React
 
-- [TanStack Is Eating React's Ecosystem — And Nobody Is Talking About It](https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0)
-- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
-- [How to Design Email Templates in React.js](https://dev.to/sendlayer/how-to-design-email-templates-in-reactjs-2fc0)
+- [The Easiest Payment Gateway Integrations for Your Next React/Next.js E-commerce Project in South Africa (2026 Edition)](https://dev.to/ayabongaqwabi/the-easiest-payment-gateway-integrations-for-your-next-reactnextjs-e-commerce-project-in-south-40ep)
+- [I Stopped Using Next.js — Here's The Stack I Use Instead](https://dev.to/harsh2644/i-stopped-using-nextjs-heres-the-stack-i-use-instead-3fh3)
+- [RTL Mastery: Beyond Just dir="rtl"](https://dev.to/syedahmedx3/rtl-mastery-beyond-just-dirrtl-2m1h)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 9, 2026",
     "news": [
       {
-        "title": "TanStack Is Eating React's Ecosystem — And Nobody Is Talking About It",
-        "link": "https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0",
+        "title": "How Context-First MCP Design Reduces Agent Failures on Backend Tasks",
+        "link": "https://dev.to/astrodevil/how-context-first-mcp-design-reduces-agent-failures-on-backend-tasks-44jk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Instagram Adds \"AI Info\" to Your Photos (and a way to fix it in the browser)",
-        "link": "https://dev.to/sam_lee_880a38a45a170858b/why-instagram-adds-ai-info-to-your-photos-and-a-way-to-fix-it-in-the-browser-4kdc",
+        "title": "How to Run a Minecraft Server on VPS/Termux without Pterodactyl Panel (Node.js)",
+        "link": "https://dev.to/dimzxzzx07/how-to-run-a-minecraft-server-on-vpstermux-without-pterodactyl-panel-nodejs-1aai",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What If Everything in Your UI Had an Address?",
-        "link": "https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh",
+        "title": "😍AI Avatar (Meet Your Ideal Girlfriend/Boyfriend for Free)🥰",
+        "link": "https://dev.to/webdeveloperhyper/ai-avatar-meet-your-ideal-girlfriendboyfriend-for-free-21n5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TanStack Is Eating React's Ecosystem — And Nobody Is Talking About It",
-        "link": "https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0",
+        "title": "The Easiest Payment Gateway Integrations for Your Next React/Next.js E-commerce Project in South Africa (2026 Edition)",
+        "link": "https://dev.to/ayabongaqwabi/the-easiest-payment-gateway-integrations-for-your-next-reactnextjs-e-commerce-project-in-south-40ep",
         "source": "Dev.to React"
       },
       {
-        "title": "AI Chat UI Best Practices: Designing Better LLM Interfaces",
-        "link": "https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj",
+        "title": "I Stopped Using Next.js — Here's The Stack I Use Instead",
+        "link": "https://dev.to/harsh2644/i-stopped-using-nextjs-heres-the-stack-i-use-instead-3fh3",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Design Email Templates in React.js",
-        "link": "https://dev.to/sendlayer/how-to-design-email-templates-in-reactjs-2fc0",
+        "title": "RTL Mastery: Beyond Just dir=\"rtl\"",
+        "link": "https://dev.to/syedahmedx3/rtl-mastery-beyond-just-dirrtl-2m1h",
         "source": "Dev.to React"
       },
       {
