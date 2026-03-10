@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 9, 2026)
+### Today's Updates (March 10, 2026)
+
+#### Dev.to JavaScript
+
+- [Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL](https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0)
+- [Solving Mastermind with Maximum Entropy](https://dev.to/sbondaryev/solving-mastermind-with-maximum-entropy-17d6)
+- [The Secret Life of JavaScript: The Observer](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-observer-53n4)
+
+#### Dev.to React
+
+- [React Compiler-Driven Development](https://dev.to/sidatpai/react-compiler-driven-development-1k26)
+- [I Built a Real-Time Link Shortener With Analytics Using React, Go, and PostgreSQL](https://dev.to/hekimapro/i-built-a-real-time-link-shortener-with-analytics-using-react-go-and-postgresql-3p1a)
+- [Syncing Rails Validations with Formik: A Practical Approach](https://dev.to/hanswys/syncing-rails-validations-with-formik-a-practical-approach-nhh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 8, 2026)
+### 2 Days Ago (March 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
 - [Micro Frontend Architecture (with React Examples) 🧩](https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h)
 - [How to Build Bidirectional Infinite Scroll in React](https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 7, 2026)
-
-#### Dev.to JavaScript
-
-- [Composition Pattern in React](https://dev.to/gabrielenache/composition-pattern-in-react-1i52)
-- [ScriptLite — a sandboxed ECMAScript subset interpreter for PHP (with optional C extension)](https://dev.to/aheinze/scriptlite-a-sandboxed-ecmascript-subset-interpreter-for-php-with-optional-c-extension-58ea)
-- [Accept Payments in Salesforce: A Complete Guide to Stripe Integration](https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k)
-
-#### Dev.to React
-
-- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Building a High-Performance AI-Native Notebook Interface with React and Groq API](https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32)
-- [I Built My Own Spotify Because Every Music App Failed Me (Web App + Android APK, Solo)](https://dev.to/itslokeshx/i-built-my-own-spotify-because-every-music-app-failed-me-web-app-android-apk-solo-3ohc)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-10",
+    "formattedDate": "March 10, 2026",
+    "news": [
+      {
+        "title": "Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL",
+        "link": "https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Solving Mastermind with Maximum Entropy",
+        "link": "https://dev.to/sbondaryev/solving-mastermind-with-maximum-entropy-17d6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Secret Life of JavaScript: The Observer",
+        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-observer-53n4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Compiler-Driven Development",
+        "link": "https://dev.to/sidatpai/react-compiler-driven-development-1k26",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Real-Time Link Shortener With Analytics Using React, Go, and PostgreSQL",
+        "link": "https://dev.to/hekimapro/i-built-a-real-time-link-shortener-with-analytics-using-react-go-and-postgresql-3p1a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Syncing Rails Validations with Formik: A Practical Approach",
+        "link": "https://dev.to/hanswys/syncing-rails-validations-with-formik-a-practical-approach-nhh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-09",
     "formattedDate": "March 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Build Bidirectional Infinite Scroll in React",
         "link": "https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-07",
-    "formattedDate": "March 7, 2026",
-    "news": [
-      {
-        "title": "Composition Pattern in React",
-        "link": "https://dev.to/gabrielenache/composition-pattern-in-react-1i52",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "ScriptLite — a sandboxed ECMAScript subset interpreter for PHP (with optional C extension)",
-        "link": "https://dev.to/aheinze/scriptlite-a-sandboxed-ecmascript-subset-interpreter-for-php-with-optional-c-extension-58ea",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Accept Payments in Salesforce: A Complete Guide to Stripe Integration",
-        "link": "https://dev.to/sabir_sheikh_cd49d4c419e3/accept-payments-in-salesforce-a-complete-guide-to-stripe-integration-1a2k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection",
-        "link": "https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a High-Performance AI-Native Notebook Interface with React and Groq API",
-        "link": "https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built My Own Spotify Because Every Music App Failed Me (Web App + Android APK, Solo)",
-        "link": "https://dev.to/itslokeshx/i-built-my-own-spotify-because-every-music-app-failed-me-web-app-android-apk-solo-3ohc",
         "source": "Dev.to React"
       },
       {
