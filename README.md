@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL](https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0)
-- [Solving Mastermind with Maximum Entropy](https://dev.to/sbondaryev/solving-mastermind-with-maximum-entropy-17d6)
-- [The Secret Life of JavaScript: The Observer](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-observer-53n4)
+- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib)
+- [Stop Shipping Broken Env Config](https://dev.to/nickytonline/stop-shipping-broken-env-config-25m)
+- [Convert JSON to SQL Instantly – Free JSON to SQL Converter Tool for Developers](https://dev.to/ddaverse/convert-json-to-sql-instantly-free-json-to-sql-converter-tool-for-developers-1c98)
 
 #### Dev.to React
 
-- [React Compiler-Driven Development](https://dev.to/sidatpai/react-compiler-driven-development-1k26)
 - [I Built a Real-Time Link Shortener With Analytics Using React, Go, and PostgreSQL](https://dev.to/hekimapro/i-built-a-real-time-link-shortener-with-analytics-using-react-go-and-postgresql-3p1a)
-- [Syncing Rails Validations with Formik: A Practical Approach](https://dev.to/hanswys/syncing-rails-validations-with-formik-a-practical-approach-nhh)
+- [You Might Not Need TanStack Query](https://dev.to/iceonfire/you-might-not-need-tanstack-query-2f3l)
+- [Building an Accounting Diary Component for React (with PDF/Excel Export)](https://dev.to/ruth3rl/building-an-accounting-diary-component-for-react-with-pdfexcel-export-29en)
 
 #### React Blog
 
@@ -89,24 +89,19 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 10, 2026",
     "news": [
       {
-        "title": "Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL",
-        "link": "https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0",
+        "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+        "link": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Solving Mastermind with Maximum Entropy",
-        "link": "https://dev.to/sbondaryev/solving-mastermind-with-maximum-entropy-17d6",
+        "title": "Stop Shipping Broken Env Config",
+        "link": "https://dev.to/nickytonline/stop-shipping-broken-env-config-25m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Secret Life of JavaScript: The Observer",
-        "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-observer-53n4",
+        "title": "Convert JSON to SQL Instantly – Free JSON to SQL Converter Tool for Developers",
+        "link": "https://dev.to/ddaverse/convert-json-to-sql-instantly-free-json-to-sql-converter-tool-for-developers-1c98",
         "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Compiler-Driven Development",
-        "link": "https://dev.to/sidatpai/react-compiler-driven-development-1k26",
-        "source": "Dev.to React"
       },
       {
         "title": "I Built a Real-Time Link Shortener With Analytics Using React, Go, and PostgreSQL",
@@ -114,8 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Syncing Rails Validations with Formik: A Practical Approach",
-        "link": "https://dev.to/hanswys/syncing-rails-validations-with-formik-a-practical-approach-nhh",
+        "title": "You Might Not Need TanStack Query",
+        "link": "https://dev.to/iceonfire/you-might-not-need-tanstack-query-2f3l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building an Accounting Diary Component for React (with PDF/Excel Export)",
+        "link": "https://dev.to/ruth3rl/building-an-accounting-diary-component-for-react-with-pdfexcel-export-29en",
         "source": "Dev.to React"
       },
       {
