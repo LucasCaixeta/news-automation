@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 10, 2026)
+### Today's Updates (March 11, 2026)
+
+#### Dev.to JavaScript
+
+- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib)
+- [TypeScript Advanced Patterns with Claude Code: No More `any`](https://dev.to/myougatheaxo/typescript-advanced-patterns-with-claude-code-no-more-any-3jln)
+- [Build a Currency Converter in 10 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-currency-converter-in-10-minutes-with-javascript-3jbb)
+
+#### Dev.to React
+
+- [I Built 50+ Free Text Tools as an Indie Project](https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc)
+- [Building Free, High-Performance GSAP Components for the Community](https://dev.to/codewithnuh/building-free-high-performance-gsap-components-for-the-community-3n80)
+- [React Js](https://dev.to/abdul_fadiga_1f402d165920/react-js-1fen)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 9, 2026)
+### 2 Days Ago (March 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Easiest Payment Gateway Integrations for Your Next React/Next.js E-commerce Project in South Africa (2026 Edition)](https://dev.to/ayabongaqwabi/the-easiest-payment-gateway-integrations-for-your-next-reactnextjs-e-commerce-project-in-south-40ep)
 - [I Stopped Using Next.js — Here's The Stack I Use Instead](https://dev.to/harsh2644/i-stopped-using-nextjs-heres-the-stack-i-use-instead-3fh3)
 - [RTL Mastery: Beyond Just dir="rtl"](https://dev.to/syedahmedx3/rtl-mastery-beyond-just-dirrtl-2m1h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 8, 2026)
-
-#### Dev.to JavaScript
-
-- [What If Everything in Your UI Had an Address?](https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh)
-- [I freed 12GB of disk space in 10 seconds with one CLI command](https://dev.to/arik_mozharovsky_a971d895/i-freed-12gb-of-disk-space-in-10-seconds-with-one-cli-command-3ap1)
-- [Building an offline subtitle extractor with whisper.cpp and Electron](https://dev.to/imper_7cde72b79d2529291ec/building-an-offline-subtitle-extractor-with-whispercpp-and-electron-44k2)
-
-#### Dev.to React
-
-- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
-- [Micro Frontend Architecture (with React Examples) 🧩](https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h)
-- [How to Build Bidirectional Infinite Scroll in React](https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-11",
+    "formattedDate": "March 11, 2026",
+    "news": [
+      {
+        "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
+        "link": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript Advanced Patterns with Claude Code: No More `any`",
+        "link": "https://dev.to/myougatheaxo/typescript-advanced-patterns-with-claude-code-no-more-any-3jln",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build a Currency Converter in 10 Minutes with JavaScript",
+        "link": "https://dev.to/200_ok_twohundred/build-a-currency-converter-in-10-minutes-with-javascript-3jbb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built 50+ Free Text Tools as an Indie Project",
+        "link": "https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Free, High-Performance GSAP Components for the Community",
+        "link": "https://dev.to/codewithnuh/building-free-high-performance-gsap-components-for-the-community-3n80",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Js",
+        "link": "https://dev.to/abdul_fadiga_1f402d165920/react-js-1fen",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-10",
     "formattedDate": "March 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "RTL Mastery: Beyond Just dir=\"rtl\"",
         "link": "https://dev.to/syedahmedx3/rtl-mastery-beyond-just-dirrtl-2m1h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-08",
-    "formattedDate": "March 8, 2026",
-    "news": [
-      {
-        "title": "What If Everything in Your UI Had an Address?",
-        "link": "https://dev.to/ajdin_imsirovic_312c31dc4/what-if-everything-in-your-ui-had-an-address-1klh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I freed 12GB of disk space in 10 seconds with one CLI command",
-        "link": "https://dev.to/arik_mozharovsky_a971d895/i-freed-12gb-of-disk-space-in-10-seconds-with-one-cli-command-3ap1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building an offline subtitle extractor with whisper.cpp and Electron",
-        "link": "https://dev.to/imper_7cde72b79d2529291ec/building-an-offline-subtitle-extractor-with-whispercpp-and-electron-44k2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "AI Chat UI Best Practices: Designing Better LLM Interfaces",
-        "link": "https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Micro Frontend Architecture (with React Examples) 🧩",
-        "link": "https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Build Bidirectional Infinite Scroll in React",
-        "link": "https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290",
         "source": "Dev.to React"
       },
       {
