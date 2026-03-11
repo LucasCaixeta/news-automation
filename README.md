@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib)
-- [TypeScript Advanced Patterns with Claude Code: No More `any`](https://dev.to/myougatheaxo/typescript-advanced-patterns-with-claude-code-no-more-any-3jln)
-- [Build a Currency Converter in 10 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-currency-converter-in-10-minutes-with-javascript-3jbb)
+- [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni)
+- [I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game](https://dev.to/miss_terry/i-built-a-retro-fps-that-turns-your-git-repo-into-a-shooting-game-1oef)
+- [Building a Production-Grade React Auth Starter (JWT, Refresh Tokens, Zustand, TanStack Query)](https://dev.to/hkarimi/building-a-production-grade-react-auth-starter-jwt-refresh-tokens-zustand-tanstack-query-3pk3)
 
 #### Dev.to React
 
-- [I Built 50+ Free Text Tools as an Indie Project](https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc)
-- [Building Free, High-Performance GSAP Components for the Community](https://dev.to/codewithnuh/building-free-high-performance-gsap-components-for-the-community-3n80)
-- [React Js](https://dev.to/abdul_fadiga_1f402d165920/react-js-1fen)
+- [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8)
+- [Building a Production-Grade React Auth Starter (JWT, Refresh Tokens, Zustand, TanStack Query)](https://dev.to/hkarimi/building-a-production-grade-react-auth-starter-jwt-refresh-tokens-zustand-tanstack-query-3pk3)
+- [Redux vs Context API — Same Energy, Different Power Level](https://dev.to/usama_dev/redux-vs-context-api-same-energy-different-power-level-2jjj)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 11, 2026",
     "news": [
       {
-        "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-        "link": "https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib",
+        "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
+        "link": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript Advanced Patterns with Claude Code: No More `any`",
-        "link": "https://dev.to/myougatheaxo/typescript-advanced-patterns-with-claude-code-no-more-any-3jln",
+        "title": "I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game",
+        "link": "https://dev.to/miss_terry/i-built-a-retro-fps-that-turns-your-git-repo-into-a-shooting-game-1oef",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build a Currency Converter in 10 Minutes with JavaScript",
-        "link": "https://dev.to/200_ok_twohundred/build-a-currency-converter-in-10-minutes-with-javascript-3jbb",
+        "title": "Building a Production-Grade React Auth Starter (JWT, Refresh Tokens, Zustand, TanStack Query)",
+        "link": "https://dev.to/hkarimi/building-a-production-grade-react-auth-starter-jwt-refresh-tokens-zustand-tanstack-query-3pk3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built 50+ Free Text Tools as an Indie Project",
-        "link": "https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc",
+        "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
+        "link": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
         "source": "Dev.to React"
       },
       {
-        "title": "Building Free, High-Performance GSAP Components for the Community",
-        "link": "https://dev.to/codewithnuh/building-free-high-performance-gsap-components-for-the-community-3n80",
+        "title": "Building a Production-Grade React Auth Starter (JWT, Refresh Tokens, Zustand, TanStack Query)",
+        "link": "https://dev.to/hkarimi/building-a-production-grade-react-auth-starter-jwt-refresh-tokens-zustand-tanstack-query-3pk3",
         "source": "Dev.to React"
       },
       {
-        "title": "React Js",
-        "link": "https://dev.to/abdul_fadiga_1f402d165920/react-js-1fen",
+        "title": "Redux vs Context API — Same Energy, Different Power Level",
+        "link": "https://dev.to/usama_dev/redux-vs-context-api-same-energy-different-power-level-2jjj",
         "source": "Dev.to React"
       },
       {
