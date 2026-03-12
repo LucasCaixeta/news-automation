@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [In the AI Agents Era, Why Waste Time Building a Framework?](https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni)
-- [I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game](https://dev.to/miss_terry/i-built-a-retro-fps-that-turns-your-git-repo-into-a-shooting-game-1oef)
-- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
+- [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
+- [Premature Optimization Is Bad, But Your App Is Just Slow Because You're Lazy](https://dev.to/adamthedeveloper/premature-optimization-is-bad-but-your-app-is-just-slow-because-youre-lazy-ldn)
+- [I Built 75 Browser-Based Tools With Next.js and Zero Backend.](https://dev.to/fmtly/i-built-75-browser-based-tools-with-nextjs-and-zero-backend-167c)
 
 #### Dev.to React
 
 - [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8)
-- [Building a Production-Grade React Auth Starter (JWT, Refresh Tokens, Zustand, TanStack Query)](https://dev.to/hkarimi/building-a-production-grade-react-auth-starter-jwt-refresh-tokens-zustand-tanstack-query-3pk3)
-- [I Built a Full-Stack Personal Finance Tracker — Here's What Makes It Different 💰](https://dev.to/gokul_mithran_dev/i-built-a-full-stack-personal-finance-tracker-heres-what-makes-it-different-2j58)
+- [I Built a Desktop App That Starts My Entire Dev Environment With One Click (Using Tauri + Rust + React)](https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3)
+- [Luthor: A WYSIWYG React Text Editor for Performance and Control](https://dev.to/rahulnsanand/luthor-a-wysiwyg-react-text-editor-for-performance-and-control-1m22)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 12, 2026",
     "news": [
       {
-        "title": "In the AI Agents Era, Why Waste Time Building a Framework?",
-        "link": "https://dev.to/sleewoo/in-the-ai-agents-era-why-waste-time-building-a-framework-oni",
+        "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+        "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Retro FPS That Turns Your Git Repo Into a Shooting Game",
-        "link": "https://dev.to/miss_terry/i-built-a-retro-fps-that-turns-your-git-repo-into-a-shooting-game-1oef",
+        "title": "Premature Optimization Is Bad, But Your App Is Just Slow Because You're Lazy",
+        "link": "https://dev.to/adamthedeveloper/premature-optimization-is-bad-but-your-app-is-just-slow-because-youre-lazy-ldn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Web App Manifest Creating an Immersive PWA Experience",
-        "link": "https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4",
+        "title": "I Built 75 Browser-Based Tools With Next.js and Zero Backend.",
+        "link": "https://dev.to/fmtly/i-built-75-browser-based-tools-with-nextjs-and-zero-backend-167c",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Production-Grade React Auth Starter (JWT, Refresh Tokens, Zustand, TanStack Query)",
-        "link": "https://dev.to/hkarimi/building-a-production-grade-react-auth-starter-jwt-refresh-tokens-zustand-tanstack-query-3pk3",
+        "title": "I Built a Desktop App That Starts My Entire Dev Environment With One Click (Using Tauri + Rust + React)",
+        "link": "https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Full-Stack Personal Finance Tracker — Here's What Makes It Different 💰",
-        "link": "https://dev.to/gokul_mithran_dev/i-built-a-full-stack-personal-finance-tracker-heres-what-makes-it-different-2j58",
+        "title": "Luthor: A WYSIWYG React Text Editor for Performance and Control",
+        "link": "https://dev.to/rahulnsanand/luthor-a-wysiwyg-react-text-editor-for-performance-and-control-1m22",
         "source": "Dev.to React"
       },
       {
