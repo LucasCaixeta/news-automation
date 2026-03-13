@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
-- [I Built 75 Browser-Based Tools With Next.js and Zero Backend.](https://dev.to/fmtly/i-built-75-browser-based-tools-with-nextjs-and-zero-backend-167c)
-- [🚀Top Tips to Optimize Images for Faster Websites](https://dev.to/frontendtoolstech/top-tips-to-optimize-images-for-faster-websites-3p3k)
+- [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
+- [Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript](https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3)
 
 #### Dev.to React
 
-- [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8)
-- [I Built a Desktop App That Starts My Entire Dev Environment With One Click (Using Tauri + Rust + React)](https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3)
-- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
+- [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
+- [Fake news](https://dev.to/constantinocristian/fake-news-4bbk)
+- [Why asking LLMs to generate React/Nested code is a dead end for Agent UI](https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built 75 Browser-Based Tools With Next.js and Zero Backend.",
-        "link": "https://dev.to/fmtly/i-built-75-browser-based-tools-with-nextjs-and-zero-backend-167c",
+        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
+        "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "🚀Top Tips to Optimize Images for Faster Websites",
-        "link": "https://dev.to/frontendtoolstech/top-tips-to-optimize-images-for-faster-websites-3p3k",
+        "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
+        "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-        "link": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
+        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
+        "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Desktop App That Starts My Entire Dev Environment With One Click (Using Tauri + Rust + React)",
-        "link": "https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3",
+        "title": "Fake news",
+        "link": "https://dev.to/constantinocristian/fake-news-4bbk",
         "source": "Dev.to React"
       },
       {
-        "title": "Devlog 4",
-        "link": "https://dev.to/no_arms_studio/devlog-4-2d1i",
+        "title": "Why asking LLMs to generate React/Nested code is a dead end for Agent UI",
+        "link": "https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821",
         "source": "Dev.to React"
       },
       {
