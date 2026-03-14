@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
-- [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
-- [How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools](https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j)
+- [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3)
+- [Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
+- [Introducing Postgres Lite: A Pure JS Embedded Engine for Node.js, Bun, and the Browser](https://dev.to/thanh_snnguyn_02472b8a/introducing-postgres-lite-a-pure-js-embedded-engine-for-nodejs-bun-and-the-browser-3idp)
 
 #### Dev.to React
 
-- [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
-- [From Page Source Confusion to Understanding How the Browser Really Works](https://dev.to/munna_thakur_2019444f0351/from-page-source-confusion-to-understanding-how-the-browser-really-works-3kem)
-- [10 Browser API Hooks Every React Developer Needs](https://dev.to/childrentime/10-browser-api-hooks-every-react-developer-needs-3j4h)
+- [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
+- [Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
+- [I Built a 4-in-1 Web Playground — JS/TS, HTML/CSS/JS, React, and Regex — That Runs Entirely in the Browser](https://dev.to/mefa/i-built-a-4-in-1-web-playground-jsts-htmlcssjs-react-and-regex-that-runs-entirely-in-the-4804)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 14, 2026",
     "news": [
       {
-        "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-        "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
+        "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+        "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-        "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
+        "title": "Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)",
+        "link": "https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools",
-        "link": "https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j",
+        "title": "Introducing Postgres Lite: A Pure JS Embedded Engine for Node.js, Bun, and the Browser",
+        "link": "https://dev.to/thanh_snnguyn_02472b8a/introducing-postgres-lite-a-pure-js-embedded-engine-for-nodejs-bun-and-the-browser-3idp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-        "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
+        "title": "How I Built clsh: Phone-First Terminal Access to Your Mac",
+        "link": "https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb",
         "source": "Dev.to React"
       },
       {
-        "title": "From Page Source Confusion to Understanding How the Browser Really Works",
-        "link": "https://dev.to/munna_thakur_2019444f0351/from-page-source-confusion-to-understanding-how-the-browser-really-works-3kem",
+        "title": "Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)",
+        "link": "https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e",
         "source": "Dev.to React"
       },
       {
-        "title": "10 Browser API Hooks Every React Developer Needs",
-        "link": "https://dev.to/childrentime/10-browser-api-hooks-every-react-developer-needs-3j4h",
+        "title": "I Built a 4-in-1 Web Playground — JS/TS, HTML/CSS/JS, React, and Regex — That Runs Entirely in the Browser",
+        "link": "https://dev.to/mefa/i-built-a-4-in-1-web-playground-jsts-htmlcssjs-react-and-regex-that-runs-entirely-in-the-4804",
         "source": "Dev.to React"
       },
       {
