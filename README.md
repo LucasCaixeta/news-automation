@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 14, 2026)
+### Today's Updates (March 15, 2026)
+
+#### Dev.to JavaScript
+
+- [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3)
+- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
+- [I built a PDF toolkit that never uploads your files — here's how](https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o)
+
+#### Dev.to React
+
+- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
+- [I Built a Digital Products Marketplace using Next.js for Sellers and Buyers](https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18)
+- [A Few Things I Learned While Working with Next.js in Real Projects](https://dev.to/yogesh0333/a-few-things-i-learned-while-working-with-nextjs-in-real-projects-4igb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 13, 2026)
+### 2 Days Ago (March 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
 - [Fake news](https://dev.to/constantinocristian/fake-news-4bbk)
 - [Why asking LLMs to generate React/Nested code is a dead end for Agent UI](https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 12, 2026)
-
-#### Dev.to JavaScript
-
-- [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
-- [Premature Optimization Is Bad, But Your App Is Just Slow Because You're Lazy](https://dev.to/adamthedeveloper/premature-optimization-is-bad-but-your-app-is-just-slow-because-youre-lazy-ldn)
-- [I Built 75 Browser-Based Tools With Next.js and Zero Backend.](https://dev.to/fmtly/i-built-75-browser-based-tools-with-nextjs-and-zero-backend-167c)
-
-#### Dev.to React
-
-- [The Diplomatic Core: Shared Logic in a Multi-Framework World](https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8)
-- [I Built a Desktop App That Starts My Entire Dev Environment With One Click (Using Tauri + Rust + React)](https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3)
-- [Luthor: A WYSIWYG React Text Editor for Performance and Control](https://dev.to/rahulnsanand/luthor-a-wysiwyg-react-text-editor-for-performance-and-control-1m22)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-15",
+    "formattedDate": "March 15, 2026",
+    "news": [
+      {
+        "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+        "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+        "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a PDF toolkit that never uploads your files — here's how",
+        "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+        "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
+        "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A Few Things I Learned While Working with Next.js in Real Projects",
+        "link": "https://dev.to/yogesh0333/a-few-things-i-learned-while-working-with-nextjs-in-real-projects-4igb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-14",
     "formattedDate": "March 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why asking LLMs to generate React/Nested code is a dead end for Agent UI",
         "link": "https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-12",
-    "formattedDate": "March 12, 2026",
-    "news": [
-      {
-        "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-        "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Premature Optimization Is Bad, But Your App Is Just Slow Because You're Lazy",
-        "link": "https://dev.to/adamthedeveloper/premature-optimization-is-bad-but-your-app-is-just-slow-because-youre-lazy-ldn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built 75 Browser-Based Tools With Next.js and Zero Backend.",
-        "link": "https://dev.to/fmtly/i-built-75-browser-based-tools-with-nextjs-and-zero-backend-167c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-        "link": "https://dev.to/link2twenty/the-diplomatic-core-shared-logic-in-a-multi-framework-world-36m8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Desktop App That Starts My Entire Dev Environment With One Click (Using Tauri + Rust + React)",
-        "link": "https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Luthor: A WYSIWYG React Text Editor for Performance and Control",
-        "link": "https://dev.to/rahulnsanand/luthor-a-wysiwyg-react-text-editor-for-performance-and-control-1m22",
         "source": "Dev.to React"
       },
       {
