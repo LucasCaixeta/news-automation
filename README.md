@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3)
-- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
-- [I built a PDF toolkit that never uploads your files — here's how](https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o)
+- [Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph](https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf)
+- [Building a Cost-Efficient Generative UI Architecture in React Native](https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58)
 
 #### Dev.to React
 
-- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
-- [I Built a Digital Products Marketplace using Next.js for Sellers and Buyers](https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18)
-- [A Few Things I Learned While Working with Next.js in Real Projects](https://dev.to/yogesh0333/a-few-things-i-learned-while-working-with-nextjs-in-real-projects-4igb)
+- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
+- [How I Built a Telegram Channel Management Platform](https://dev.to/deniskoblya/how-i-built-a-telegram-channel-management-platform-27c7)
+- [I Built a Lightweight i18n Library for JavaScript — Meet globaly-i18n](https://dev.to/rounaksharma19/i-built-a-lightweight-i18n-library-for-javascript-meet-globaly-i18n-eo2)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
-        "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+        "title": "Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph",
+        "link": "https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a PDF toolkit that never uploads your files — here's how",
-        "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
+        "title": "Building a Cost-Efficient Generative UI Architecture in React Native",
+        "link": "https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
-        "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+        "title": "Quick and easy Next.js boilerplate with TypeScript to jumpstart your project",
+        "link": "https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
-        "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+        "title": "How I Built a Telegram Channel Management Platform",
+        "link": "https://dev.to/deniskoblya/how-i-built-a-telegram-channel-management-platform-27c7",
         "source": "Dev.to React"
       },
       {
-        "title": "A Few Things I Learned While Working with Next.js in Real Projects",
-        "link": "https://dev.to/yogesh0333/a-few-things-i-learned-while-working-with-nextjs-in-real-projects-4igb",
+        "title": "I Built a Lightweight i18n Library for JavaScript — Meet globaly-i18n",
+        "link": "https://dev.to/rounaksharma19/i-built-a-lightweight-i18n-library-for-javascript-meet-globaly-i18n-eo2",
         "source": "Dev.to React"
       },
       {
