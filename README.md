@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h)
+- [The Developer's Guide to PDF Page Breaks, Headers, and Footers](https://dev.to/yoshyaes/the-developers-guide-to-pdf-page-breaks-headers-and-footers-3mme)
 - [I Built an AI That Argues Back at Your Startup Pitch in Real Time](https://dev.to/25th/i-built-an-ai-that-argues-back-at-your-startup-pitch-in-real-time-4409)
-- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
-- [Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph](https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf)
 
 #### Dev.to React
 
-- [I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.](https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21)
-- [Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to](https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj)
-- [Building a Cost-Efficient Generative UI Architecture in React Native](https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58)
+- [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
+- [Reactivity beyond React](https://dev.to/chronograph/reactivity-beyond-react-4hgc)
+- [Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect](https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 16, 2026",
     "news": [
       {
+        "title": "One regex to match them all",
+        "link": "https://dev.to/ferderer/one-regex-to-match-them-all-228h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Developer's Guide to PDF Page Breaks, Headers, and Footers",
+        "link": "https://dev.to/yoshyaes/the-developers-guide-to-pdf-page-breaks-headers-and-footers-3mme",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I Built an AI That Argues Back at Your Startup Pitch in Real Time",
         "link": "https://dev.to/25th/i-built-an-ai-that-argues-back-at-your-startup-pitch-in-real-time-4409",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Supabase Quick Docs",
-        "link": "https://dev.to/xiaoguang_/supabase-quick-docs-2dmj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph",
-        "link": "https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.",
-        "link": "https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21",
+        "title": "The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)",
+        "link": "https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9",
         "source": "Dev.to React"
       },
       {
-        "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
-        "link": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
+        "title": "Reactivity beyond React",
+        "link": "https://dev.to/chronograph/reactivity-beyond-react-4hgc",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Cost-Efficient Generative UI Architecture in React Native",
-        "link": "https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58",
+        "title": "Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect",
+        "link": "https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i",
         "source": "Dev.to React"
       },
       {
