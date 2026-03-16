@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 15, 2026)
+### Today's Updates (March 16, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built an AI That Argues Back at Your Startup Pitch in Real Time](https://dev.to/25th/i-built-an-ai-that-argues-back-at-your-startup-pitch-in-real-time-4409)
+- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
+- [Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph](https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf)
+
+#### Dev.to React
+
+- [I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.](https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21)
+- [Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to](https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj)
+- [Building a Cost-Efficient Generative UI Architecture in React Native](https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 14, 2026)
+### 2 Days Ago (March 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
 - [Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
 - [I Built a 4-in-1 Web Playground — JS/TS, HTML/CSS/JS, React, and Regex — That Runs Entirely in the Browser](https://dev.to/mefa/i-built-a-4-in-1-web-playground-jsts-htmlcssjs-react-and-regex-that-runs-entirely-in-the-4804)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 13, 2026)
-
-#### Dev.to JavaScript
-
-- [Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)](https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i)
-- [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
-- [Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript](https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3)
-
-#### Dev.to React
-
-- [Two React Design Choices Developers Don’t Like—But Can’t Avoid](https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g)
-- [Fake news](https://dev.to/constantinocristian/fake-news-4bbk)
-- [Why asking LLMs to generate React/Nested code is a dead end for Agent UI](https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-16",
+    "formattedDate": "March 16, 2026",
+    "news": [
+      {
+        "title": "I Built an AI That Argues Back at Your Startup Pitch in Real Time",
+        "link": "https://dev.to/25th/i-built-an-ai-that-argues-back-at-your-startup-pitch-in-real-time-4409",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Supabase Quick Docs",
+        "link": "https://dev.to/xiaoguang_/supabase-quick-docs-2dmj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph",
+        "link": "https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an AI That Finds Your Bugs and Rewrites Your Code to Fix Them.",
+        "link": "https://dev.to/kamaumbuguadev/i-built-an-ai-that-finds-your-bugs-and-rewrites-your-code-to-fix-them-4e21",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Thiago Colen's Digital Universe: Building a Content-Synced Portfolio with Gatsby & DEV.to",
+        "link": "https://dev.to/thiagocolen/thiago-colens-digital-universe-building-a-content-synced-portfolio-with-gatsby-devto-31cj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Cost-Efficient Generative UI Architecture in React Native",
+        "link": "https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-15",
     "formattedDate": "March 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a 4-in-1 Web Playground — JS/TS, HTML/CSS/JS, React, and Regex — That Runs Entirely in the Browser",
         "link": "https://dev.to/mefa/i-built-a-4-in-1-web-playground-jsts-htmlcssjs-react-and-regex-that-runs-entirely-in-the-4804",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-13",
-    "formattedDate": "March 13, 2026",
-    "news": [
-      {
-        "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-        "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-        "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
-        "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-        "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Fake news",
-        "link": "https://dev.to/constantinocristian/fake-news-4bbk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why asking LLMs to generate React/Nested code is a dead end for Agent UI",
-        "link": "https://dev.to/wisethewizard/why-asking-llms-to-generate-reactnested-code-is-a-dead-end-for-agent-ui-2821",
         "source": "Dev.to React"
       },
       {
