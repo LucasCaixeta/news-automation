@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 16, 2026)
+### Today's Updates (March 17, 2026)
+
+#### Dev.to JavaScript
+
+- [I built a free client tracker for freelancers (no login, no backend, just localStorage)](https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f)
+- [Stop writing localStorage boilerplate — I built Storionjs](https://dev.to/rahul_singh_961dbd0fa379a/stop-writing-localstorage-boilerplate-i-built-storionjs-gii)
+- [Building a Serverless SEO Metadata Analyzer at the Edge](https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566)
+
+#### Dev.to React
+
+- [Open Source Project of the Day (Part 19): Folo - AI-Powered Next-Generation Information Reader](https://dev.to/wonderlab/open-source-project-of-the-day-part-19-folo-ai-powered-next-generation-information-reader-3c02)
+- [I found out EMDR apps charge $80/month for a CSS animation. So I built a free one with eye tracking.](https://dev.to/chestnykh/i-found-out-emdr-apps-charge-80month-for-a-css-animation-so-i-built-a-free-one-with-eye-tracking-1hnj)
+- [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 15, 2026)
+### 2 Days Ago (March 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
 - [How I Built a Telegram Channel Management Platform](https://dev.to/deniskoblya/how-i-built-a-telegram-channel-management-platform-27c7)
 - [I Built a Lightweight i18n Library for JavaScript — Meet globaly-i18n](https://dev.to/rounaksharma19/i-built-a-lightweight-i18n-library-for-javascript-meet-globaly-i18n-eo2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 14, 2026)
-
-#### Dev.to JavaScript
-
-- [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3)
-- [Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
-- [Introducing Postgres Lite: A Pure JS Embedded Engine for Node.js, Bun, and the Browser](https://dev.to/thanh_snnguyn_02472b8a/introducing-postgres-lite-a-pure-js-embedded-engine-for-nodejs-bun-and-the-browser-3idp)
-
-#### Dev.to React
-
-- [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
-- [Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)](https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e)
-- [I Built a 4-in-1 Web Playground — JS/TS, HTML/CSS/JS, React, and Regex — That Runs Entirely in the Browser](https://dev.to/mefa/i-built-a-4-in-1-web-playground-jsts-htmlcssjs-react-and-regex-that-runs-entirely-in-the-4804)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-17",
+    "formattedDate": "March 17, 2026",
+    "news": [
+      {
+        "title": "I built a free client tracker for freelancers (no login, no backend, just localStorage)",
+        "link": "https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop writing localStorage boilerplate — I built Storionjs",
+        "link": "https://dev.to/rahul_singh_961dbd0fa379a/stop-writing-localstorage-boilerplate-i-built-storionjs-gii",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Serverless SEO Metadata Analyzer at the Edge",
+        "link": "https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Open Source Project of the Day (Part 19): Folo - AI-Powered Next-Generation Information Reader",
+        "link": "https://dev.to/wonderlab/open-source-project-of-the-day-part-19-folo-ai-powered-next-generation-information-reader-3c02",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I found out EMDR apps charge $80/month for a CSS animation. So I built a free one with eye tracking.",
+        "link": "https://dev.to/chestnykh/i-found-out-emdr-apps-charge-80month-for-a-css-animation-so-i-built-a-free-one-with-eye-tracking-1hnj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)",
+        "link": "https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-16",
     "formattedDate": "March 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Lightweight i18n Library for JavaScript — Meet globaly-i18n",
         "link": "https://dev.to/rounaksharma19/i-built-a-lightweight-i18n-library-for-javascript-meet-globaly-i18n-eo2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "formattedDate": "March 14, 2026",
-    "news": [
-      {
-        "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-        "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)",
-        "link": "https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introducing Postgres Lite: A Pure JS Embedded Engine for Node.js, Bun, and the Browser",
-        "link": "https://dev.to/thanh_snnguyn_02472b8a/introducing-postgres-lite-a-pure-js-embedded-engine-for-nodejs-bun-and-the-browser-3idp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built clsh: Phone-First Terminal Access to Your Mac",
-        "link": "https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Most React Apps Fail Core Web Vitals (And How to Actually Fix Them)",
-        "link": "https://dev.to/munna_thakur_2019444f0351/why-most-react-apps-fail-core-web-vitals-and-how-to-actually-fix-them-312e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a 4-in-1 Web Playground — JS/TS, HTML/CSS/JS, React, and Regex — That Runs Entirely in the Browser",
-        "link": "https://dev.to/mefa/i-built-a-4-in-1-web-playground-jsts-htmlcssjs-react-and-regex-that-runs-entirely-in-the-4804",
         "source": "Dev.to React"
       },
       {
