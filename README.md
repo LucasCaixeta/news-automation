@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [I Built 35+ Free Browser Tools as a Solo Dev - Here's How](https://dev.to/lem36/i-built-35-free-browser-tools-as-a-solo-dev-heres-how-4b5n)
+- [How to Build a Code Visualizer in Google Apps Script](https://dev.to/elizabethefeelobari/how-to-build-a-code-visualizer-in-google-apps-script-44gc)
 - [I built a free client tracker for freelancers (no login, no backend, just localStorage)](https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f)
-- [Stop writing localStorage boilerplate — I built Storionjs](https://dev.to/rahul_singh_961dbd0fa379a/stop-writing-localstorage-boilerplate-i-built-storionjs-gii)
-- [Building a Serverless SEO Metadata Analyzer at the Edge](https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566)
 
 #### Dev.to React
 
-- [Open Source Project of the Day (Part 19): Folo - AI-Powered Next-Generation Information Reader](https://dev.to/wonderlab/open-source-project-of-the-day-part-19-folo-ai-powered-next-generation-information-reader-3c02)
-- [I found out EMDR apps charge $80/month for a CSS animation. So I built a free one with eye tracking.](https://dev.to/chestnykh/i-found-out-emdr-apps-charge-80month-for-a-css-animation-so-i-built-a-free-one-with-eye-tracking-1hnj)
-- [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
+- [🗺️ Rendering Lists in React Using map()](https://dev.to/aman_kureshi_/rendering-lists-in-react-using-map-1ki)
+- [React Forms Deep Dive: Part 2 — UX, Accessibility & Performance](https://dev.to/eustatos/react-forms-deep-dive-part-2-ux-accessibility-performance-53gh)
+- [Introducing MoonCode: an application that monitors you coding activity, powered by a VS Code extension with offline support](https://dev.to/friedrich482/introducing-mooncode-an-application-that-monitors-you-coding-activity-powered-by-a-vs-code-4040)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 17, 2026",
     "news": [
       {
+        "title": "I Built 35+ Free Browser Tools as a Solo Dev - Here's How",
+        "link": "https://dev.to/lem36/i-built-35-free-browser-tools-as-a-solo-dev-heres-how-4b5n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Build a Code Visualizer in Google Apps Script",
+        "link": "https://dev.to/elizabethefeelobari/how-to-build-a-code-visualizer-in-google-apps-script-44gc",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I built a free client tracker for freelancers (no login, no backend, just localStorage)",
         "link": "https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop writing localStorage boilerplate — I built Storionjs",
-        "link": "https://dev.to/rahul_singh_961dbd0fa379a/stop-writing-localstorage-boilerplate-i-built-storionjs-gii",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Serverless SEO Metadata Analyzer at the Edge",
-        "link": "https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Open Source Project of the Day (Part 19): Folo - AI-Powered Next-Generation Information Reader",
-        "link": "https://dev.to/wonderlab/open-source-project-of-the-day-part-19-folo-ai-powered-next-generation-information-reader-3c02",
+        "title": "🗺️ Rendering Lists in React Using map()",
+        "link": "https://dev.to/aman_kureshi_/rendering-lists-in-react-using-map-1ki",
         "source": "Dev.to React"
       },
       {
-        "title": "I found out EMDR apps charge $80/month for a CSS animation. So I built a free one with eye tracking.",
-        "link": "https://dev.to/chestnykh/i-found-out-emdr-apps-charge-80month-for-a-css-animation-so-i-built-a-free-one-with-eye-tracking-1hnj",
+        "title": "React Forms Deep Dive: Part 2 — UX, Accessibility & Performance",
+        "link": "https://dev.to/eustatos/react-forms-deep-dive-part-2-ux-accessibility-performance-53gh",
         "source": "Dev.to React"
       },
       {
-        "title": "The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)",
-        "link": "https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9",
+        "title": "Introducing MoonCode: an application that monitors you coding activity, powered by a VS Code extension with offline support",
+        "link": "https://dev.to/friedrich482/introducing-mooncode-an-application-that-monitors-you-coding-activity-powered-by-a-vs-code-4040",
         "source": "Dev.to React"
       },
       {
