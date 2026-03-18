@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 17, 2026)
+### Today's Updates (March 18, 2026)
+
+#### Dev.to JavaScript
+
+- [I Scanned 6 Popular Node.js Repos for Undocumented Environment Variables. Here's What I Found.](https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478)
+- [Cypress Interceptors (E2E Testing)](https://dev.to/elabid_asmaa/cypress-interceptors-e2e-testing-1lc5)
+- [Web Scraping Meta Tags Without Getting Blocked — Lessons Learned](https://dev.to/eatyou_eatyou_d79d27e5622/web-scraping-meta-tags-without-getting-blocked-lessons-learned-1p27)
+
+#### Dev.to React
+
+- [Things a Solo Developer Learned While Building 40+ Financial Calculators with Next.js](https://dev.to/sorryclub/things-a-solo-developer-learned-while-building-40-financial-calculators-with-nextjs-4mjf)
+- [Mantine Border Animate - A Complete Beam Rewrite with Dual Rendering Modes](https://dev.to/undolog/mantine-border-animate-a-complete-beam-rewrite-with-dual-rendering-modes-2a1f)
+- [Signals in React (II): Tear-Free Subscriptions](https://dev.to/luciano0322/signals-in-react-ii-tear-free-subscriptions-3mpf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 16, 2026)
+### 2 Days Ago (March 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
 - [Reactivity beyond React](https://dev.to/chronograph/reactivity-beyond-react-4hgc)
 - [Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect](https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 15, 2026)
-
-#### Dev.to JavaScript
-
-- [90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?](https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3)
-- [Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph](https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf)
-- [Building a Cost-Efficient Generative UI Architecture in React Native](https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58)
-
-#### Dev.to React
-
-- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
-- [How I Built a Telegram Channel Management Platform](https://dev.to/deniskoblya/how-i-built-a-telegram-channel-management-platform-27c7)
-- [I Built a Lightweight i18n Library for JavaScript — Meet globaly-i18n](https://dev.to/rounaksharma19/i-built-a-lightweight-i18n-library-for-javascript-meet-globaly-i18n-eo2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-18",
+    "formattedDate": "March 18, 2026",
+    "news": [
+      {
+        "title": "I Scanned 6 Popular Node.js Repos for Undocumented Environment Variables. Here's What I Found.",
+        "link": "https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cypress Interceptors (E2E Testing)",
+        "link": "https://dev.to/elabid_asmaa/cypress-interceptors-e2e-testing-1lc5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Web Scraping Meta Tags Without Getting Blocked — Lessons Learned",
+        "link": "https://dev.to/eatyou_eatyou_d79d27e5622/web-scraping-meta-tags-without-getting-blocked-lessons-learned-1p27",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Things a Solo Developer Learned While Building 40+ Financial Calculators with Next.js",
+        "link": "https://dev.to/sorryclub/things-a-solo-developer-learned-while-building-40-financial-calculators-with-nextjs-4mjf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mantine Border Animate - A Complete Beam Rewrite with Dual Rendering Modes",
+        "link": "https://dev.to/undolog/mantine-border-animate-a-complete-beam-rewrite-with-dual-rendering-modes-2a1f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Signals in React (II): Tear-Free Subscriptions",
+        "link": "https://dev.to/luciano0322/signals-in-react-ii-tear-free-subscriptions-3mpf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-17",
     "formattedDate": "March 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect",
         "link": "https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-15",
-    "formattedDate": "March 15, 2026",
-    "news": [
-      {
-        "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
-        "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph",
-        "link": "https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Cost-Efficient Generative UI Architecture in React Native",
-        "link": "https://dev.to/serifcolakel/building-a-cost-efficient-generative-ui-architecture-in-react-native-2d58",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Quick and easy Next.js boilerplate with TypeScript to jumpstart your project",
-        "link": "https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Telegram Channel Management Platform",
-        "link": "https://dev.to/deniskoblya/how-i-built-a-telegram-channel-management-platform-27c7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Lightweight i18n Library for JavaScript — Meet globaly-i18n",
-        "link": "https://dev.to/rounaksharma19/i-built-a-lightweight-i18n-library-for-javascript-meet-globaly-i18n-eo2",
         "source": "Dev.to React"
       },
       {
