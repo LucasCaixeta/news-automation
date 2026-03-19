@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It](https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6)
+- [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
 - [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
-- [Model Context Protocol (MCP): The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
+- [I Built a News App That Runs AI Entirely in Your Browser — Here's How](https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1)
 
 #### Dev.to React
 
-- [Barbershop Web App](https://dev.to/kyl67899/barbershop-web-app-1nmm)
-- [API-First Development, Why It Matters and How to Do It Right](https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg)
-- [EdTech Platform Architecture, Lessons from Real Builds](https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm)
+- [I Built a News App That Runs AI Entirely in Your Browser — Here's How](https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1)
+- [A Guide to Precise Age Calculation in React](https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh)
+- [How to Add Google Login to Next.js with Authon in 5 Minutes](https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj)
 
 #### React Blog
 
@@ -89,8 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 19, 2026",
     "news": [
       {
-        "title": "AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It",
-        "link": "https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6",
+        "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
+        "link": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Model Context Protocol (MCP): The Tool Ecosystem for AI Agents",
-        "link": "https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi",
+        "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+        "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Barbershop Web App",
-        "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
+        "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+        "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
         "source": "Dev.to React"
       },
       {
-        "title": "API-First Development, Why It Matters and How to Do It Right",
-        "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+        "title": "A Guide to Precise Age Calculation in React",
+        "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
         "source": "Dev.to React"
       },
       {
-        "title": "EdTech Platform Architecture, Lessons from Real Builds",
-        "link": "https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm",
+        "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
+        "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
         "source": "Dev.to React"
       },
       {
