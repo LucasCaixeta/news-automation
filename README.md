@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 18, 2026)
+### Today's Updates (March 19, 2026)
+
+#### Dev.to JavaScript
+
+- [AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It](https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6)
+- [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
+- [Model Context Protocol (MCP): The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
+
+#### Dev.to React
+
+- [Barbershop Web App](https://dev.to/kyl67899/barbershop-web-app-1nmm)
+- [API-First Development, Why It Matters and How to Do It Right](https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg)
+- [EdTech Platform Architecture, Lessons from Real Builds](https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 17, 2026)
+### 2 Days Ago (March 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🗺️ Rendering Lists in React Using map()](https://dev.to/aman_kureshi_/rendering-lists-in-react-using-map-1ki)
 - [React Forms Deep Dive: Part 2 — UX, Accessibility & Performance](https://dev.to/eustatos/react-forms-deep-dive-part-2-ux-accessibility-performance-53gh)
 - [Introducing MoonCode: an application that monitors you coding activity, powered by a VS Code extension with offline support](https://dev.to/friedrich482/introducing-mooncode-an-application-that-monitors-you-coding-activity-powered-by-a-vs-code-4040)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 16, 2026)
-
-#### Dev.to JavaScript
-
-- [One regex to match them all](https://dev.to/ferderer/one-regex-to-match-them-all-228h)
-- [The Developer's Guide to PDF Page Breaks, Headers, and Footers](https://dev.to/yoshyaes/the-developers-guide-to-pdf-page-breaks-headers-and-footers-3mme)
-- [I Built an AI That Argues Back at Your Startup Pitch in Real Time](https://dev.to/25th/i-built-an-ai-that-argues-back-at-your-startup-pitch-in-real-time-4409)
-
-#### Dev.to React
-
-- [The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)](https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9)
-- [Reactivity beyond React](https://dev.to/chronograph/reactivity-beyond-react-4hgc)
-- [Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect](https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-19",
+    "formattedDate": "March 19, 2026",
+    "news": [
+      {
+        "title": "AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It",
+        "link": "https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
+        "link": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Model Context Protocol (MCP): The Tool Ecosystem for AI Agents",
+        "link": "https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Barbershop Web App",
+        "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "API-First Development, Why It Matters and How to Do It Right",
+        "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "EdTech Platform Architecture, Lessons from Real Builds",
+        "link": "https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-18",
     "formattedDate": "March 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Introducing MoonCode: an application that monitors you coding activity, powered by a VS Code extension with offline support",
         "link": "https://dev.to/friedrich482/introducing-mooncode-an-application-that-monitors-you-coding-activity-powered-by-a-vs-code-4040",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-16",
-    "formattedDate": "March 16, 2026",
-    "news": [
-      {
-        "title": "One regex to match them all",
-        "link": "https://dev.to/ferderer/one-regex-to-match-them-all-228h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Developer's Guide to PDF Page Breaks, Headers, and Footers",
-        "link": "https://dev.to/yoshyaes/the-developers-guide-to-pdf-page-breaks-headers-and-footers-3mme",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an AI That Argues Back at Your Startup Pitch in Real Time",
-        "link": "https://dev.to/25th/i-built-an-ai-that-argues-back-at-your-startup-pitch-in-real-time-4409",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Cheapest Payment Gateways for South African React/Next.js E-commerce in 2026 – Real TCO Breakdown (Not Just the % Fee)",
-        "link": "https://dev.to/ayabongaqwabi/the-cheapest-payment-gateways-for-south-african-reactnextjs-e-commerce-in-2026-real-tco-33h9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Reactivity beyond React",
-        "link": "https://dev.to/chronograph/reactivity-beyond-react-4hgc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect",
-        "link": "https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i",
         "source": "Dev.to React"
       },
       {
