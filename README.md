@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
 - [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
 - [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
-- [How to Add Link Previews to Your React App (With Code Examples)](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
 
 #### Dev.to React
 
-- [React Hooks Performance: How to Avoid Unnecessary Re-renders](https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483)
+- [I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here's what I learned](https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd)
 - [How to Add Link Previews to Your React App (With Code Examples)](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
-- [Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers](https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0)
+- [Building an Open-Source Payload Obfuscator with React & Vite](https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6)
 
 #### React Blog
 
@@ -89,6 +89,11 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 20, 2026",
     "news": [
       {
+        "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+        "link": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
         "link": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
         "source": "Dev.to JavaScript"
@@ -99,13 +104,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Add Link Previews to Your React App (With Code Examples)",
-        "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Hooks Performance: How to Avoid Unnecessary Re-renders",
-        "link": "https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483",
+        "title": "I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here's what I learned",
+        "link": "https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd",
         "source": "Dev.to React"
       },
       {
@@ -114,8 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers",
-        "link": "https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0",
+        "title": "Building an Open-Source Payload Obfuscator with React & Vite",
+        "link": "https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6",
         "source": "Dev.to React"
       },
       {
