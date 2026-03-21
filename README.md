@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
 - [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
-- [I built a 1.7kb VDOM-less framework, it went "viral", and Reddit banned me 🤣](https://dev.to/murillobrand/i-built-a-17kb-vdom-less-framework-it-went-viral-and-reddit-banned-me-5gmp)
+- [Learning JavaScript in Public (and why I finally started)](https://dev.to/matthewstrange32/learning-javascript-in-public-and-why-i-finally-started-2i46)
 
 #### Dev.to React
 
-- [Getting started with easy-model (quick start guide)](https://dev.to/zyf93/getting-started-with-easy-model-quick-start-guide-1d2d)
-- [You Don't Need Redux: Zustand + TanStack Query Replaced 90% of My State Management](https://dev.to/devforgedev/you-dont-need-redux-zustand-tanstack-query-replaced-90-of-my-state-management-2ggi)
-- [Build and Deploy a Voice AI Agent on AWS with the ElevenLabs SDK!](https://dev.to/aws-builders/build-and-deploy-a-voice-ai-agent-on-aws-with-the-elevenlabs-sdk-26gp)
+- [Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript & React 👑](https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4)
+- [The Coding Mentor That Knows Your Weaknesses Better Than You Do](https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff)
+- [From Idea to Deployed App in Six Weeks: InterviewFlow](https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a 1.7kb VDOM-less framework, it went \"viral\", and Reddit banned me 🤣",
-        "link": "https://dev.to/murillobrand/i-built-a-17kb-vdom-less-framework-it-went-viral-and-reddit-banned-me-5gmp",
+        "title": "Learning JavaScript in Public (and why I finally started)",
+        "link": "https://dev.to/matthewstrange32/learning-javascript-in-public-and-why-i-finally-started-2i46",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Getting started with easy-model (quick start guide)",
-        "link": "https://dev.to/zyf93/getting-started-with-easy-model-quick-start-guide-1d2d",
+        "title": "Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript & React 👑",
+        "link": "https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4",
         "source": "Dev.to React"
       },
       {
-        "title": "You Don't Need Redux: Zustand + TanStack Query Replaced 90% of My State Management",
-        "link": "https://dev.to/devforgedev/you-dont-need-redux-zustand-tanstack-query-replaced-90-of-my-state-management-2ggi",
+        "title": "The Coding Mentor That Knows Your Weaknesses Better Than You Do",
+        "link": "https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff",
         "source": "Dev.to React"
       },
       {
-        "title": "Build and Deploy a Voice AI Agent on AWS with the ElevenLabs SDK!",
-        "link": "https://dev.to/aws-builders/build-and-deploy-a-voice-ai-agent-on-aws-with-the-elevenlabs-sdk-26gp",
+        "title": "From Idea to Deployed App in Six Weeks: InterviewFlow",
+        "link": "https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo",
         "source": "Dev.to React"
       },
       {
