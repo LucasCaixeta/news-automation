@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 21, 2026)
+### Today's Updates (March 22, 2026)
+
+#### Dev.to JavaScript
+
+- [I found my "Magic Wand": Building a Private, Zero-Dependency Journaling PWA 🪄](https://dev.to/yaninatrekhleb/i-found-my-magic-wand-building-a-private-zero-dependency-journaling-pwa-369f)
+- [Beyond Array and Map: What `data-structure-typed` Brings to TypeScript Collections](https://dev.to/ruiwen_zeng_ea2f69399242a/beyond-array-and-map-what-data-structure-typed-brings-to-typescript-collections-3mk)
+- [About the the commandfor attribute.](https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45)
+
+#### Dev.to React
+
+- [Next.js 16.2 Just Changed AI Coding Forever](https://dev.to/safdarali25/nextjs-162-just-changed-ai-coding-forever-17dl)
+- [Mastering Compound Components: Building a Flexible, Accessible Dialog](https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6)
+- [DevDash – All-in-One Developer Toolkit for HTML, CSS, JavaScript, and React](https://dev.to/nouryahyaoui/devdash-all-in-one-developer-toolkit-for-html-css-javascript-and-react-4262)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 20, 2026)
+### 2 Days Ago (March 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here's what I learned](https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd)
 - [How to Add Link Previews to Your React App (With Code Examples)](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
 - [Building an Open-Source Payload Obfuscator with React & Vite](https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 19, 2026)
-
-#### Dev.to JavaScript
-
-- [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
-- [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
-- [I Built a News App That Runs AI Entirely in Your Browser — Here's How](https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1)
-
-#### Dev.to React
-
-- [I Built a News App That Runs AI Entirely in Your Browser — Here's How](https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1)
-- [A Guide to Precise Age Calculation in React](https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh)
-- [How to Add Google Login to Next.js with Authon in 5 Minutes](https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-22",
+    "formattedDate": "March 22, 2026",
+    "news": [
+      {
+        "title": "I found my \"Magic Wand\": Building a Private, Zero-Dependency Journaling PWA 🪄",
+        "link": "https://dev.to/yaninatrekhleb/i-found-my-magic-wand-building-a-private-zero-dependency-journaling-pwa-369f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond Array and Map: What `data-structure-typed` Brings to TypeScript Collections",
+        "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/beyond-array-and-map-what-data-structure-typed-brings-to-typescript-collections-3mk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "About the the commandfor attribute.",
+        "link": "https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js 16.2 Just Changed AI Coding Forever",
+        "link": "https://dev.to/safdarali25/nextjs-162-just-changed-ai-coding-forever-17dl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mastering Compound Components: Building a Flexible, Accessible Dialog",
+        "link": "https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "DevDash – All-in-One Developer Toolkit for HTML, CSS, JavaScript, and React",
+        "link": "https://dev.to/nouryahyaoui/devdash-all-in-one-developer-toolkit-for-html-css-javascript-and-react-4262",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-21",
     "formattedDate": "March 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building an Open-Source Payload Obfuscator with React & Vite",
         "link": "https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-19",
-    "formattedDate": "March 19, 2026",
-    "news": [
-      {
-        "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
-        "link": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-        "link": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
-        "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
-        "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A Guide to Precise Age Calculation in React",
-        "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
-        "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
         "source": "Dev.to React"
       },
       {
