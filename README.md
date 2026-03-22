@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I found my "Magic Wand": Building a Private, Zero-Dependency Journaling PWA 🪄](https://dev.to/yaninatrekhleb/i-found-my-magic-wand-building-a-private-zero-dependency-journaling-pwa-369f)
+- [Why I Ditched Next.js and Rebuilt My Site with Astro](https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh)
+- [Building Chrome Extensions in 2026: A Practical Guide with Manifest V3](https://dev.to/ryu0705/building-chrome-extensions-in-2026-a-practical-guide-with-manifest-v3-12h2)
 - [Beyond Array and Map: What `data-structure-typed` Brings to TypeScript Collections](https://dev.to/ruiwen_zeng_ea2f69399242a/beyond-array-and-map-what-data-structure-typed-brings-to-typescript-collections-3mk)
-- [About the the commandfor attribute.](https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45)
 
 #### Dev.to React
 
-- [Next.js 16.2 Just Changed AI Coding Forever](https://dev.to/safdarali25/nextjs-162-just-changed-ai-coding-forever-17dl)
+- [Why I Chose Mantine Over shadcn/ui for Every Dashboard Project](https://dev.to/devforgedev/why-i-chose-mantine-over-shadcnui-for-every-dashboard-project-5fd0)
+- [My agent remembered a rejected application and adjusted strategy](https://dev.to/spandysr/my-agent-remembered-a-rejected-application-and-adjusted-strategy-12g2)
 - [Mastering Compound Components: Building a Flexible, Accessible Dialog](https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6)
-- [DevDash – All-in-One Developer Toolkit for HTML, CSS, JavaScript, and React](https://dev.to/nouryahyaoui/devdash-all-in-one-developer-toolkit-for-html-css-javascript-and-react-4262)
 
 #### React Blog
 
@@ -89,8 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 22, 2026",
     "news": [
       {
-        "title": "I found my \"Magic Wand\": Building a Private, Zero-Dependency Journaling PWA 🪄",
-        "link": "https://dev.to/yaninatrekhleb/i-found-my-magic-wand-building-a-private-zero-dependency-journaling-pwa-369f",
+        "title": "Why I Ditched Next.js and Rebuilt My Site with Astro",
+        "link": "https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Chrome Extensions in 2026: A Practical Guide with Manifest V3",
+        "link": "https://dev.to/ryu0705/building-chrome-extensions-in-2026-a-practical-guide-with-manifest-v3-12h2",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "About the the commandfor attribute.",
-        "link": "https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45",
-        "source": "Dev.to JavaScript"
+        "title": "Why I Chose Mantine Over shadcn/ui for Every Dashboard Project",
+        "link": "https://dev.to/devforgedev/why-i-chose-mantine-over-shadcnui-for-every-dashboard-project-5fd0",
+        "source": "Dev.to React"
       },
       {
-        "title": "Next.js 16.2 Just Changed AI Coding Forever",
-        "link": "https://dev.to/safdarali25/nextjs-162-just-changed-ai-coding-forever-17dl",
+        "title": "My agent remembered a rejected application and adjusted strategy",
+        "link": "https://dev.to/spandysr/my-agent-remembered-a-rejected-application-and-adjusted-strategy-12g2",
         "source": "Dev.to React"
       },
       {
         "title": "Mastering Compound Components: Building a Flexible, Accessible Dialog",
         "link": "https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "DevDash – All-in-One Developer Toolkit for HTML, CSS, JavaScript, and React",
-        "link": "https://dev.to/nouryahyaoui/devdash-all-in-one-developer-toolkit-for-html-css-javascript-and-react-4262",
         "source": "Dev.to React"
       },
       {
