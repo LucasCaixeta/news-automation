@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 22, 2026)
+### Today's Updates (March 23, 2026)
+
+#### Dev.to JavaScript
+
+- [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
+- [I created a CodePen project inspired by the horror manga UZUMAKI](https://dev.to/alansdead/uzumaki-ali)
+- [tRPC in 2026: Full-Stack TypeScript Without the Boilerplate](https://dev.to/ottoaria/trpc-in-2026-full-stack-typescript-without-the-boilerplate-4a47)
+
+#### Dev.to React
+
+- [Setting Your Environments Up for Code Apps](https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8)
+- [Signals in React (III): Lifecycle Never Disappeared](https://dev.to/luciano0322/signals-in-react-iii-lifecycle-never-disappeared-1jjg)
+- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 21, 2026)
+### 2 Days Ago (March 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript & React 👑](https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4)
 - [The Coding Mentor That Knows Your Weaknesses Better Than You Do](https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff)
 - [From Idea to Deployed App in Six Weeks: InterviewFlow](https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 20, 2026)
-
-#### Dev.to JavaScript
-
-- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
-- [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
-- [Vitest's 4.1 New "Fast-Forward" Mode Skips Timer Delays Instantly](https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h)
-
-#### Dev.to React
-
-- [I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here's what I learned](https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd)
-- [How to Add Link Previews to Your React App (With Code Examples)](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
-- [Building an Open-Source Payload Obfuscator with React & Vite](https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-23",
+    "formattedDate": "March 23, 2026",
+    "news": [
+      {
+        "title": "TASK 1- Python – Print exercises",
+        "link": "https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I created a CodePen project inspired by the horror manga UZUMAKI",
+        "link": "https://dev.to/alansdead/uzumaki-ali",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "tRPC in 2026: Full-Stack TypeScript Without the Boilerplate",
+        "link": "https://dev.to/ottoaria/trpc-in-2026-full-stack-typescript-without-the-boilerplate-4a47",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Setting Your Environments Up for Code Apps",
+        "link": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Signals in React (III): Lifecycle Never Disappeared",
+        "link": "https://dev.to/luciano0322/signals-in-react-iii-lifecycle-never-disappeared-1jjg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+        "link": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-22",
     "formattedDate": "March 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "From Idea to Deployed App in Six Weeks: InterviewFlow",
         "link": "https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-20",
-    "formattedDate": "March 20, 2026",
-    "news": [
-      {
-        "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
-        "link": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Tried Vite+ and Replaced My Entire Frontend Toolchain",
-        "link": "https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vitest's 4.1 New \"Fast-Forward\" Mode Skips Timer Delays Instantly",
-        "link": "https://dev.to/playfulprogramming-angular/vitests-41-new-fast-forward-mode-skips-timer-delays-instantly-4a4h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here's what I learned",
-        "link": "https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Add Link Previews to Your React App (With Code Examples)",
-        "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building an Open-Source Payload Obfuscator with React & Vite",
-        "link": "https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6",
         "source": "Dev.to React"
       },
       {
