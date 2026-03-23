@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [The Firestore Default Database Trap: Why Your Data Is Going to the Wrong Place](https://dev.to/humzakt/the-firestore-default-database-trap-why-your-data-is-going-to-the-wrong-place-2kea)
+- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
 - [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
-- [I created a CodePen project inspired by the horror manga UZUMAKI](https://dev.to/alansdead/uzumaki-ali)
-- [tRPC in 2026: Full-Stack TypeScript Without the Boilerplate](https://dev.to/ottoaria/trpc-in-2026-full-stack-typescript-without-the-boilerplate-4a47)
 
 #### Dev.to React
 
-- [Setting Your Environments Up for Code Apps](https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8)
-- [Signals in React (III): Lifecycle Never Disappeared](https://dev.to/luciano0322/signals-in-react-iii-lifecycle-never-disappeared-1jjg)
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+- [React Server Components: A Complete Guide to the Future of React](https://dev.to/chengyixu/react-server-components-a-complete-guide-to-the-future-of-react-4hgk)
+- [Building Accessible React Forms Without a Library](https://dev.to/chengyixu/building-accessible-react-forms-without-a-library-3m2h)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 23, 2026",
     "news": [
       {
+        "title": "The Firestore Default Database Trap: Why Your Data Is Going to the Wrong Place",
+        "link": "https://dev.to/humzakt/the-firestore-default-database-trap-why-your-data-is-going-to-the-wrong-place-2kea",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
+        "link": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "TASK 1- Python – Print exercises",
         "link": "https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I created a CodePen project inspired by the horror manga UZUMAKI",
-        "link": "https://dev.to/alansdead/uzumaki-ali",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "tRPC in 2026: Full-Stack TypeScript Without the Boilerplate",
-        "link": "https://dev.to/ottoaria/trpc-in-2026-full-stack-typescript-without-the-boilerplate-4a47",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Setting Your Environments Up for Code Apps",
-        "link": "https://dev.to/wyattdave/setting-your-environments-up-for-code-apps-16i8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Signals in React (III): Lifecycle Never Disappeared",
-        "link": "https://dev.to/luciano0322/signals-in-react-iii-lifecycle-never-disappeared-1jjg",
-        "source": "Dev.to React"
-      },
-      {
         "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
         "link": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Server Components: A Complete Guide to the Future of React",
+        "link": "https://dev.to/chengyixu/react-server-components-a-complete-guide-to-the-future-of-react-4hgk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Accessible React Forms Without a Library",
+        "link": "https://dev.to/chengyixu/building-accessible-react-forms-without-a-library-3m2h",
         "source": "Dev.to React"
       },
       {
