@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 23, 2026)
+### Today's Updates (March 24, 2026)
+
+#### Dev.to JavaScript
+
+- [A Single Regex Got Its Own npm Package. It Gets 70 Million Downloads a Week.](https://dev.to/adioof/a-single-regex-got-its-own-npm-package-it-gets-70-million-downloads-a-week-4h59)
+- [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
+- [I finished 6 JavaScript games… and decided to sell them (with full source code)](https://dev.to/modestus/i-finished-6-javascript-games-and-decided-to-sell-them-with-full-source-code-3dkm)
+
+#### Dev.to React
+
+- [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
+- [Vite Version 8 Package Installation Issue & Solution](https://dev.to/rameem2003/vite-version-8-package-installation-issue-solution-3kk)
+- [Stop Resizing PWA Icons by Hand: I Built a CLI to Automate It in Seconds 🚀](https://dev.to/muhammaddariazzidane/stop-resizing-pwa-icons-by-hand-i-built-a-cli-to-automate-it-in-seconds-20ji)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 22, 2026)
+### 2 Days Ago (March 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why I Chose Mantine Over shadcn/ui for Every Dashboard Project](https://dev.to/devforgedev/why-i-chose-mantine-over-shadcnui-for-every-dashboard-project-5fd0)
 - [My agent remembered a rejected application and adjusted strategy](https://dev.to/spandysr/my-agent-remembered-a-rejected-application-and-adjusted-strategy-12g2)
 - [Mastering Compound Components: Building a Flexible, Accessible Dialog](https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 21, 2026)
-
-#### Dev.to JavaScript
-
-- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
-- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
-- [Learning JavaScript in Public (and why I finally started)](https://dev.to/matthewstrange32/learning-javascript-in-public-and-why-i-finally-started-2i46)
-
-#### Dev.to React
-
-- [Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript & React 👑](https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4)
-- [The Coding Mentor That Knows Your Weaknesses Better Than You Do](https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff)
-- [From Idea to Deployed App in Six Weeks: InterviewFlow](https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-24",
+    "formattedDate": "March 24, 2026",
+    "news": [
+      {
+        "title": "A Single Regex Got Its Own npm Package. It Gets 70 Million Downloads a Week.",
+        "link": "https://dev.to/adioof/a-single-regex-got-its-own-npm-package-it-gets-70-million-downloads-a-week-4h59",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps",
+        "link": "https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I finished 6 JavaScript games… and decided to sell them (with full source code)",
+        "link": "https://dev.to/modestus/i-finished-6-javascript-games-and-decided-to-sell-them-with-full-source-code-3dkm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps",
+        "link": "https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Vite Version 8 Package Installation Issue & Solution",
+        "link": "https://dev.to/rameem2003/vite-version-8-package-installation-issue-solution-3kk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Resizing PWA Icons by Hand: I Built a CLI to Automate It in Seconds 🚀",
+        "link": "https://dev.to/muhammaddariazzidane/stop-resizing-pwa-icons-by-hand-i-built-a-cli-to-automate-it-in-seconds-20ji",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-23",
     "formattedDate": "March 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering Compound Components: Building a Flexible, Accessible Dialog",
         "link": "https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-21",
-    "formattedDate": "March 21, 2026",
-    "news": [
-      {
-        "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
-        "link": "https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Optimizing for Zero: Building a High-Performance Browser Runner with No Budget",
-        "link": "https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Learning JavaScript in Public (and why I finally started)",
-        "link": "https://dev.to/matthewstrange32/learning-javascript-in-public-and-why-i-finally-started-2i46",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript & React 👑",
-        "link": "https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Coding Mentor That Knows Your Weaknesses Better Than You Do",
-        "link": "https://dev.to/bonamukkala_charan_7f2af4/the-coding-mentor-that-knows-your-weaknesses-better-than-you-do-4bff",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Idea to Deployed App in Six Weeks: InterviewFlow",
-        "link": "https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo",
         "source": "Dev.to React"
       },
       {
