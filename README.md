@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How I Added Dark Mode to a 37-Tool Vite SPA in One Prompt](https://dev.to/relahconvert/how-i-added-dark-mode-to-a-37-tool-vite-spa-in-one-prompt-3o88)
-- [How to Add OG Images to Your Website (Manual vs. Automated)](https://dev.to/narender_singh_6c6e271c67/how-to-add-og-images-to-your-website-manual-vs-automated-3gkm)
-- [RTL Is Not a Translation Problem. It's an Architecture Problem.](https://dev.to/imohad/rtl-is-not-a-translation-problem-its-an-architecture-problem-4dg4)
+- [JavaScript DOM for Beginners](https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-dom-explained-simply-4163)
+- [Build a Real-Time Social Media App with InsForge, MiniMax, and Next.js](https://dev.to/astrodevil/build-a-real-time-social-media-app-with-insforge-minimax-and-nextjs-3jb8)
+- [Prime Number](https://dev.to/divya_divya_b18f82b19353a/prime-number-53kp)
 
 #### Dev.to React
 
-- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
-- [📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)](https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan)
-- [React Drag and Drop Without External Libraries](https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof)
+- [Run Away From Work — Stopped Using React for the Game Loop](https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k)
+- [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
+- [Week 24: Redux Toolkit Finally Made Redux Feel Simple + Deep Dive into React Router Data Fetching](https://dev.to/usama_dev/week-24-redux-toolkit-finally-made-redux-feel-simple-deep-dive-into-react-router-data-fetching-2efl)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 25, 2026",
     "news": [
       {
-        "title": "How I Added Dark Mode to a 37-Tool Vite SPA in One Prompt",
-        "link": "https://dev.to/relahconvert/how-i-added-dark-mode-to-a-37-tool-vite-spa-in-one-prompt-3o88",
+        "title": "JavaScript DOM for Beginners",
+        "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-dom-explained-simply-4163",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Add OG Images to Your Website (Manual vs. Automated)",
-        "link": "https://dev.to/narender_singh_6c6e271c67/how-to-add-og-images-to-your-website-manual-vs-automated-3gkm",
+        "title": "Build a Real-Time Social Media App with InsForge, MiniMax, and Next.js",
+        "link": "https://dev.to/astrodevil/build-a-real-time-social-media-app-with-insforge-minimax-and-nextjs-3jb8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "RTL Is Not a Translation Problem. It's an Architecture Problem.",
-        "link": "https://dev.to/imohad/rtl-is-not-a-translation-problem-its-an-architecture-problem-4dg4",
+        "title": "Prime Number",
+        "link": "https://dev.to/divya_divya_b18f82b19353a/prime-number-53kp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-        "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
+        "title": "Run Away From Work — Stopped Using React for the Game Loop",
+        "link": "https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k",
         "source": "Dev.to React"
       },
       {
-        "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
-        "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
+        "title": "MCP Apps are hard to test",
+        "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
         "source": "Dev.to React"
       },
       {
-        "title": "React Drag and Drop Without External Libraries",
-        "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
+        "title": "Week 24: Redux Toolkit Finally Made Redux Feel Simple + Deep Dive into React Router Data Fetching",
+        "link": "https://dev.to/usama_dev/week-24-redux-toolkit-finally-made-redux-feel-simple-deep-dive-into-react-router-data-fetching-2efl",
         "source": "Dev.to React"
       },
       {
