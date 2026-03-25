@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 24, 2026)
+### Today's Updates (March 25, 2026)
+
+#### Dev.to JavaScript
+
+- [How I Added Dark Mode to a 37-Tool Vite SPA in One Prompt](https://dev.to/relahconvert/how-i-added-dark-mode-to-a-37-tool-vite-spa-in-one-prompt-3o88)
+- [How to Add OG Images to Your Website (Manual vs. Automated)](https://dev.to/narender_singh_6c6e271c67/how-to-add-og-images-to-your-website-manual-vs-automated-3gkm)
+- [RTL Is Not a Translation Problem. It's an Architecture Problem.](https://dev.to/imohad/rtl-is-not-a-translation-problem-its-an-architecture-problem-4dg4)
+
+#### Dev.to React
+
+- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
+- [📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)](https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan)
+- [React Drag and Drop Without External Libraries](https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 23, 2026)
+### 2 Days Ago (March 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
 - [React Server Components: A Complete Guide to the Future of React](https://dev.to/chengyixu/react-server-components-a-complete-guide-to-the-future-of-react-4hgk)
 - [Building Accessible React Forms Without a Library](https://dev.to/chengyixu/building-accessible-react-forms-without-a-library-3m2h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 22, 2026)
-
-#### Dev.to JavaScript
-
-- [Why I Ditched Next.js and Rebuilt My Site with Astro](https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh)
-- [Building Chrome Extensions in 2026: A Practical Guide with Manifest V3](https://dev.to/ryu0705/building-chrome-extensions-in-2026-a-practical-guide-with-manifest-v3-12h2)
-- [Beyond Array and Map: What `data-structure-typed` Brings to TypeScript Collections](https://dev.to/ruiwen_zeng_ea2f69399242a/beyond-array-and-map-what-data-structure-typed-brings-to-typescript-collections-3mk)
-
-#### Dev.to React
-
-- [Why I Chose Mantine Over shadcn/ui for Every Dashboard Project](https://dev.to/devforgedev/why-i-chose-mantine-over-shadcnui-for-every-dashboard-project-5fd0)
-- [My agent remembered a rejected application and adjusted strategy](https://dev.to/spandysr/my-agent-remembered-a-rejected-application-and-adjusted-strategy-12g2)
-- [Mastering Compound Components: Building a Flexible, Accessible Dialog](https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-25",
+    "formattedDate": "March 25, 2026",
+    "news": [
+      {
+        "title": "How I Added Dark Mode to a 37-Tool Vite SPA in One Prompt",
+        "link": "https://dev.to/relahconvert/how-i-added-dark-mode-to-a-37-tool-vite-spa-in-one-prompt-3o88",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Add OG Images to Your Website (Manual vs. Automated)",
+        "link": "https://dev.to/narender_singh_6c6e271c67/how-to-add-og-images-to-your-website-manual-vs-automated-3gkm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "RTL Is Not a Translation Problem. It's an Architecture Problem.",
+        "link": "https://dev.to/imohad/rtl-is-not-a-translation-problem-its-an-architecture-problem-4dg4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
+        "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
+        "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Drag and Drop Without External Libraries",
+        "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-24",
     "formattedDate": "March 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building Accessible React Forms Without a Library",
         "link": "https://dev.to/chengyixu/building-accessible-react-forms-without-a-library-3m2h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "formattedDate": "March 22, 2026",
-    "news": [
-      {
-        "title": "Why I Ditched Next.js and Rebuilt My Site with Astro",
-        "link": "https://dev.to/waseemrajashaik/why-i-ditched-nextjs-and-rebuilt-my-site-with-astro-2moh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Chrome Extensions in 2026: A Practical Guide with Manifest V3",
-        "link": "https://dev.to/ryu0705/building-chrome-extensions-in-2026-a-practical-guide-with-manifest-v3-12h2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beyond Array and Map: What `data-structure-typed` Brings to TypeScript Collections",
-        "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/beyond-array-and-map-what-data-structure-typed-brings-to-typescript-collections-3mk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why I Chose Mantine Over shadcn/ui for Every Dashboard Project",
-        "link": "https://dev.to/devforgedev/why-i-chose-mantine-over-shadcnui-for-every-dashboard-project-5fd0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My agent remembered a rejected application and adjusted strategy",
-        "link": "https://dev.to/spandysr/my-agent-remembered-a-rejected-application-and-adjusted-strategy-12g2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering Compound Components: Building a Flexible, Accessible Dialog",
-        "link": "https://dev.to/anuj_u/mastering-compound-components-building-a-flexible-accessible-dialog-eb6",
         "source": "Dev.to React"
       },
       {
