@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 25, 2026)
+### Today's Updates (March 26, 2026)
+
+#### Dev.to JavaScript
+
+- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
+- [Build a Pinterest-Powered Visual Search with the Pinterest Pin Search API](https://dev.to/donnyautomation/build-a-pinterest-powered-visual-search-with-the-pinterest-pin-search-api-946)
+- [Search NPM Packages Programmatically with Download Stats and Version History](https://dev.to/donnyautomation/search-npm-packages-programmatically-with-download-stats-and-version-history-2c2g)
+
+#### Dev.to React
+
+- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
+- [I created a plugin that simplifies the integration of Google Maps into Vite and React](https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l)
+- [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 24, 2026)
+### 2 Days Ago (March 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
 - [Vite Version 8 Package Installation Issue & Solution](https://dev.to/rameem2003/vite-version-8-package-installation-issue-solution-3kk)
 - [Stop Resizing PWA Icons by Hand: I Built a CLI to Automate It in Seconds 🚀](https://dev.to/muhammaddariazzidane/stop-resizing-pwa-icons-by-hand-i-built-a-cli-to-automate-it-in-seconds-20ji)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 23, 2026)
-
-#### Dev.to JavaScript
-
-- [The Firestore Default Database Trap: Why Your Data Is Going to the Wrong Place](https://dev.to/humzakt/the-firestore-default-database-trap-why-your-data-is-going-to-the-wrong-place-2kea)
-- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
-- [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
-
-#### Dev.to React
-
-- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
-- [React Server Components: A Complete Guide to the Future of React](https://dev.to/chengyixu/react-server-components-a-complete-guide-to-the-future-of-react-4hgk)
-- [Building Accessible React Forms Without a Library](https://dev.to/chengyixu/building-accessible-react-forms-without-a-library-3m2h)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-26",
+    "formattedDate": "March 26, 2026",
+    "news": [
+      {
+        "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+        "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build a Pinterest-Powered Visual Search with the Pinterest Pin Search API",
+        "link": "https://dev.to/donnyautomation/build-a-pinterest-powered-visual-search-with-the-pinterest-pin-search-api-946",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Search NPM Packages Programmatically with Download Stats and Version History",
+        "link": "https://dev.to/donnyautomation/search-npm-packages-programmatically-with-download-stats-and-version-history-2c2g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+        "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
+        "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "MCP Apps are hard to test",
+        "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-25",
     "formattedDate": "March 25, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Resizing PWA Icons by Hand: I Built a CLI to Automate It in Seconds 🚀",
         "link": "https://dev.to/muhammaddariazzidane/stop-resizing-pwa-icons-by-hand-i-built-a-cli-to-automate-it-in-seconds-20ji",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "formattedDate": "March 23, 2026",
-    "news": [
-      {
-        "title": "The Firestore Default Database Trap: Why Your Data Is Going to the Wrong Place",
-        "link": "https://dev.to/humzakt/the-firestore-default-database-trap-why-your-data-is-going-to-the-wrong-place-2kea",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-        "link": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TASK 1- Python – Print exercises",
-        "link": "https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-        "link": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Server Components: A Complete Guide to the Future of React",
-        "link": "https://dev.to/chengyixu/react-server-components-a-complete-guide-to-the-future-of-react-4hgk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Accessible React Forms Without a Library",
-        "link": "https://dev.to/chengyixu/building-accessible-react-forms-without-a-library-3m2h",
         "source": "Dev.to React"
       },
       {
