@@ -10,14 +10,14 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
-- [Build a Pinterest-Powered Visual Search with the Pinterest Pin Search API](https://dev.to/donnyautomation/build-a-pinterest-powered-visual-search-with-the-pinterest-pin-search-api-946)
-- [Search NPM Packages Programmatically with Download Stats and Version History](https://dev.to/donnyautomation/search-npm-packages-programmatically-with-download-stats-and-version-history-2c2g)
+- [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0)
+- [I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned](https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih)
+- [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib)
 
 #### Dev.to React
 
-- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
-- [I created a plugin that simplifies the integration of Google Maps into Vite and React](https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l)
+- [I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f)
+- [Why I built a React component library specifically for AI products](https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log)
 - [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
 
 #### React Blog
@@ -89,28 +89,28 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 26, 2026",
     "news": [
       {
-        "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
-        "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
+        "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
+        "link": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build a Pinterest-Powered Visual Search with the Pinterest Pin Search API",
-        "link": "https://dev.to/donnyautomation/build-a-pinterest-powered-visual-search-with-the-pinterest-pin-search-api-946",
+        "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
+        "link": "https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Search NPM Packages Programmatically with Download Stats and Version History",
-        "link": "https://dev.to/donnyautomation/search-npm-packages-programmatically-with-download-stats-and-version-history-2c2g",
+        "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
+        "link": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
-        "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
+        "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+        "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
         "source": "Dev.to React"
       },
       {
-        "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
-        "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
+        "title": "Why I built a React component library specifically for AI products",
+        "link": "https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log",
         "source": "Dev.to React"
       },
       {
