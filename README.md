@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 26, 2026)
+### Today's Updates (March 27, 2026)
+
+#### Dev.to JavaScript
+
+- [I Love Watching the Storms Roll In](https://dev.to/annavi11arrea1/i-love-watching-the-storms-roll-in-166m)
+- [I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned](https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih)
+- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
+
+#### Dev.to React
+
+- [Why I Deleted My Custom "Crew" Logic Mid-Build](https://dev.to/teronbullock/why-i-deleted-my-custom-crew-logic-mid-build-2mp5)
+- [Stop the Scroll: Build a "Psychic" Client-Side Recommender 🚀](https://dev.to/rahul_nagarwal/stop-the-scroll-build-a-psychic-client-side-recommender-31p)
+- [Real-time React: Syncing State Across Browser Tabs](https://dev.to/childrentime/real-time-react-syncing-state-across-browser-tabs-hn5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 25, 2026)
+### 2 Days Ago (March 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Run Away From Work — Stopped Using React for the Game Loop](https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k)
 - [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
 - [Week 24: Redux Toolkit Finally Made Redux Feel Simple + Deep Dive into React Router Data Fetching](https://dev.to/usama_dev/week-24-redux-toolkit-finally-made-redux-feel-simple-deep-dive-into-react-router-data-fetching-2efl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 24, 2026)
-
-#### Dev.to JavaScript
-
-- [A Single Regex Got Its Own npm Package. It Gets 70 Million Downloads a Week.](https://dev.to/adioof/a-single-regex-got-its-own-npm-package-it-gets-70-million-downloads-a-week-4h59)
-- [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
-- [I finished 6 JavaScript games… and decided to sell them (with full source code)](https://dev.to/modestus/i-finished-6-javascript-games-and-decided-to-sell-them-with-full-source-code-3dkm)
-
-#### Dev.to React
-
-- [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
-- [Vite Version 8 Package Installation Issue & Solution](https://dev.to/rameem2003/vite-version-8-package-installation-issue-solution-3kk)
-- [Stop Resizing PWA Icons by Hand: I Built a CLI to Automate It in Seconds 🚀](https://dev.to/muhammaddariazzidane/stop-resizing-pwa-icons-by-hand-i-built-a-cli-to-automate-it-in-seconds-20ji)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-27",
+    "formattedDate": "March 27, 2026",
+    "news": [
+      {
+        "title": "I Love Watching the Storms Roll In",
+        "link": "https://dev.to/annavi11arrea1/i-love-watching-the-storms-roll-in-166m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
+        "link": "https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling",
+        "link": "https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I Deleted My Custom \"Crew\" Logic Mid-Build",
+        "link": "https://dev.to/teronbullock/why-i-deleted-my-custom-crew-logic-mid-build-2mp5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop the Scroll: Build a \"Psychic\" Client-Side Recommender 🚀",
+        "link": "https://dev.to/rahul_nagarwal/stop-the-scroll-build-a-psychic-client-side-recommender-31p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Real-time React: Syncing State Across Browser Tabs",
+        "link": "https://dev.to/childrentime/real-time-react-syncing-state-across-browser-tabs-hn5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-26",
     "formattedDate": "March 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Week 24: Redux Toolkit Finally Made Redux Feel Simple + Deep Dive into React Router Data Fetching",
         "link": "https://dev.to/usama_dev/week-24-redux-toolkit-finally-made-redux-feel-simple-deep-dive-into-react-router-data-fetching-2efl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "formattedDate": "March 24, 2026",
-    "news": [
-      {
-        "title": "A Single Regex Got Its Own npm Package. It Gets 70 Million Downloads a Week.",
-        "link": "https://dev.to/adioof/a-single-regex-got-its-own-npm-package-it-gets-70-million-downloads-a-week-4h59",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps",
-        "link": "https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I finished 6 JavaScript games… and decided to sell them (with full source code)",
-        "link": "https://dev.to/modestus/i-finished-6-javascript-games-and-decided-to-sell-them-with-full-source-code-3dkm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps",
-        "link": "https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Vite Version 8 Package Installation Issue & Solution",
-        "link": "https://dev.to/rameem2003/vite-version-8-package-installation-issue-solution-3kk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Resizing PWA Icons by Hand: I Built a CLI to Automate It in Seconds 🚀",
-        "link": "https://dev.to/muhammaddariazzidane/stop-resizing-pwa-icons-by-hand-i-built-a-cli-to-automate-it-in-seconds-20ji",
         "source": "Dev.to React"
       },
       {
