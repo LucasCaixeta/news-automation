@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I Love Watching the Storms Roll In](https://dev.to/annavi11arrea1/i-love-watching-the-storms-roll-in-166m)
+- [Node.js Graceful Shutdown: The Right Way (SIGTERM, Connection Draining, and Kubernetes)](https://dev.to/axiom_agent_1dc642fa83651/nodejs-graceful-shutdown-the-right-way-sigterm-connection-draining-and-kubernetes-fp8)
 - [I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned](https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih)
-- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
 
 #### Dev.to React
 
-- [Why I Deleted My Custom "Crew" Logic Mid-Build](https://dev.to/teronbullock/why-i-deleted-my-custom-crew-logic-mid-build-2mp5)
-- [Stop the Scroll: Build a "Psychic" Client-Side Recommender 🚀](https://dev.to/rahul_nagarwal/stop-the-scroll-build-a-psychic-client-side-recommender-31p)
-- [Real-time React: Syncing State Across Browser Tabs](https://dev.to/childrentime/real-time-react-syncing-state-across-browser-tabs-hn5)
+- [I built a whiteboard, accidentally](https://dev.to/mit_demir_d07c130b3366d3/i-built-a-whiteboard-accidentally-32lo)
+- [Hey Dev.to, I'm Bitrus](https://dev.to/cr4n31/hey-devto-im-bitrus-3oko)
+- [This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals](https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
+        "title": "Node.js Graceful Shutdown: The Right Way (SIGTERM, Connection Draining, and Kubernetes)",
+        "link": "https://dev.to/axiom_agent_1dc642fa83651/nodejs-graceful-shutdown-the-right-way-sigterm-connection-draining-and-kubernetes-fp8",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
         "link": "https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling",
-        "link": "https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why I Deleted My Custom \"Crew\" Logic Mid-Build",
-        "link": "https://dev.to/teronbullock/why-i-deleted-my-custom-crew-logic-mid-build-2mp5",
+        "title": "I built a whiteboard, accidentally",
+        "link": "https://dev.to/mit_demir_d07c130b3366d3/i-built-a-whiteboard-accidentally-32lo",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop the Scroll: Build a \"Psychic\" Client-Side Recommender 🚀",
-        "link": "https://dev.to/rahul_nagarwal/stop-the-scroll-build-a-psychic-client-side-recommender-31p",
+        "title": "Hey Dev.to, I'm Bitrus",
+        "link": "https://dev.to/cr4n31/hey-devto-im-bitrus-3oko",
         "source": "Dev.to React"
       },
       {
-        "title": "Real-time React: Syncing State Across Browser Tabs",
-        "link": "https://dev.to/childrentime/real-time-react-syncing-state-across-browser-tabs-hn5",
+        "title": "This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37",
         "source": "Dev.to React"
       },
       {
