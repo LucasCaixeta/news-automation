@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
 - [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
-- [Every PDF Tool You Need, Running 100% in Your Browser](https://dev.to/tatelyman/every-pdf-tool-you-need-running-100-in-your-browser-f6f)
-- [How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm)
+- [I Built an Open-Source Alternative to $500/Year Trading Signal Tools](https://dev.to/naimkatiman/i-built-an-open-source-alternative-to-500year-trading-signal-tools-4lg1)
 
 #### Dev.to React
 
-- [From Vanilla JS to React: React Makes More Sense When the Problem Comes First](https://dev.to/notjustsyntax/from-vanilla-js-to-react-react-makes-more-sense-when-the-problem-comes-first-2k2j)
-- [Building a Hash Generator with Web Crypto API and a Pure-JS MD5 Fallback](https://dev.to/shaishav_patel_271fdcd61a/building-a-hash-generator-with-web-crypto-api-and-a-pure-js-md5-fallback-312g)
-- [Optimizing E-commerce SEO with PLP SSR](https://dev.to/shahfahid/optimizing-e-commerce-seo-with-plp-ssr-530c)
+- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
+- [Day 43: Adding a Duolingo-style Streak UI to my React Dashboard](https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23)
+- [React Server Components Have a Free Data Fetching Model — No More useEffect Waterfalls](https://dev.to/0012303/react-server-components-have-a-free-data-fetching-model-no-more-useeffect-waterfalls-1jh2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 28, 2026",
     "news": [
       {
+        "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+        "link": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side",
         "link": "https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Every PDF Tool You Need, Running 100% in Your Browser",
-        "link": "https://dev.to/tatelyman/every-pdf-tool-you-need-running-100-in-your-browser-f6f",
+        "title": "I Built an Open-Source Alternative to $500/Year Trading Signal Tools",
+        "link": "https://dev.to/naimkatiman/i-built-an-open-source-alternative-to-500year-trading-signal-tools-4lg1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold",
-        "link": "https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "From Vanilla JS to React: React Makes More Sense When the Problem Comes First",
-        "link": "https://dev.to/notjustsyntax/from-vanilla-js-to-react-react-makes-more-sense-when-the-problem-comes-first-2k2j",
+        "title": "Stop Writing postMessage Manually For Workers — I Built a Decorator for That",
+        "link": "https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Hash Generator with Web Crypto API and a Pure-JS MD5 Fallback",
-        "link": "https://dev.to/shaishav_patel_271fdcd61a/building-a-hash-generator-with-web-crypto-api-and-a-pure-js-md5-fallback-312g",
+        "title": "Day 43: Adding a Duolingo-style Streak UI to my React Dashboard",
+        "link": "https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23",
         "source": "Dev.to React"
       },
       {
-        "title": "Optimizing E-commerce SEO with PLP SSR",
-        "link": "https://dev.to/shahfahid/optimizing-e-commerce-seo-with-plp-ssr-530c",
+        "title": "React Server Components Have a Free Data Fetching Model — No More useEffect Waterfalls",
+        "link": "https://dev.to/0012303/react-server-components-have-a-free-data-fetching-model-no-more-useeffect-waterfalls-1jh2",
         "source": "Dev.to React"
       },
       {
