@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 27, 2026)
+### Today's Updates (March 28, 2026)
+
+#### Dev.to JavaScript
+
+- [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
+- [Every PDF Tool You Need, Running 100% in Your Browser](https://dev.to/tatelyman/every-pdf-tool-you-need-running-100-in-your-browser-f6f)
+- [How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm)
+
+#### Dev.to React
+
+- [From Vanilla JS to React: React Makes More Sense When the Problem Comes First](https://dev.to/notjustsyntax/from-vanilla-js-to-react-react-makes-more-sense-when-the-problem-comes-first-2k2j)
+- [Building a Hash Generator with Web Crypto API and a Pure-JS MD5 Fallback](https://dev.to/shaishav_patel_271fdcd61a/building-a-hash-generator-with-web-crypto-api-and-a-pure-js-md5-fallback-312g)
+- [Optimizing E-commerce SEO with PLP SSR](https://dev.to/shahfahid/optimizing-e-commerce-seo-with-plp-ssr-530c)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 26, 2026)
+### 2 Days Ago (March 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f)
 - [Why I built a React component library specifically for AI products](https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log)
 - [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 25, 2026)
-
-#### Dev.to JavaScript
-
-- [JavaScript DOM for Beginners](https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-dom-explained-simply-4163)
-- [Build a Real-Time Social Media App with InsForge, MiniMax, and Next.js](https://dev.to/astrodevil/build-a-real-time-social-media-app-with-insforge-minimax-and-nextjs-3jb8)
-- [Prime Number](https://dev.to/divya_divya_b18f82b19353a/prime-number-53kp)
-
-#### Dev.to React
-
-- [Run Away From Work — Stopped Using React for the Game Loop](https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k)
-- [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
-- [Week 24: Redux Toolkit Finally Made Redux Feel Simple + Deep Dive into React Router Data Fetching](https://dev.to/usama_dev/week-24-redux-toolkit-finally-made-redux-feel-simple-deep-dive-into-react-router-data-fetching-2efl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-28",
+    "formattedDate": "March 28, 2026",
+    "news": [
+      {
+        "title": "I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side",
+        "link": "https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Every PDF Tool You Need, Running 100% in Your Browser",
+        "link": "https://dev.to/tatelyman/every-pdf-tool-you-need-running-100-in-your-browser-f6f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold",
+        "link": "https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "From Vanilla JS to React: React Makes More Sense When the Problem Comes First",
+        "link": "https://dev.to/notjustsyntax/from-vanilla-js-to-react-react-makes-more-sense-when-the-problem-comes-first-2k2j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Hash Generator with Web Crypto API and a Pure-JS MD5 Fallback",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/building-a-hash-generator-with-web-crypto-api-and-a-pure-js-md5-fallback-312g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Optimizing E-commerce SEO with PLP SSR",
+        "link": "https://dev.to/shahfahid/optimizing-e-commerce-seo-with-plp-ssr-530c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-27",
     "formattedDate": "March 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "MCP Apps are hard to test",
         "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-25",
-    "formattedDate": "March 25, 2026",
-    "news": [
-      {
-        "title": "JavaScript DOM for Beginners",
-        "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-dom-explained-simply-4163",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build a Real-Time Social Media App with InsForge, MiniMax, and Next.js",
-        "link": "https://dev.to/astrodevil/build-a-real-time-social-media-app-with-insforge-minimax-and-nextjs-3jb8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Prime Number",
-        "link": "https://dev.to/divya_divya_b18f82b19353a/prime-number-53kp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Run Away From Work — Stopped Using React for the Game Loop",
-        "link": "https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MCP Apps are hard to test",
-        "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Week 24: Redux Toolkit Finally Made Redux Feel Simple + Deep Dive into React Router Data Fetching",
-        "link": "https://dev.to/usama_dev/week-24-redux-toolkit-finally-made-redux-feel-simple-deep-dive-into-react-router-data-fetching-2efl",
         "source": "Dev.to React"
       },
       {
