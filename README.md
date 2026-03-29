@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 28, 2026)
+### Today's Updates (March 29, 2026)
+
+#### Dev.to JavaScript
+
+- [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
+- [I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data](https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i)
+- [AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It](https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g)
+
+#### Dev.to React
+
+- [AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It](https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g)
+- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
+- [Day 43: Adding a Duolingo-style Streak UI to my React Dashboard](https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 27, 2026)
+### 2 Days Ago (March 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a whiteboard, accidentally](https://dev.to/mit_demir_d07c130b3366d3/i-built-a-whiteboard-accidentally-32lo)
 - [Hey Dev.to, I'm Bitrus](https://dev.to/cr4n31/hey-devto-im-bitrus-3oko)
 - [This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals](https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 26, 2026)
-
-#### Dev.to JavaScript
-
-- [How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)](https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0)
-- [I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned](https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih)
-- [rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust](https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib)
-
-#### Dev.to React
-
-- [I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch](https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f)
-- [Why I built a React component library specifically for AI products](https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log)
-- [MCP Apps are hard to test](https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-29",
+    "formattedDate": "March 29, 2026",
+    "news": [
+      {
+        "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+        "link": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data",
+        "link": "https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It",
+        "link": "https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It",
+        "link": "https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Writing postMessage Manually For Workers — I Built a Decorator for That",
+        "link": "https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Day 43: Adding a Duolingo-style Streak UI to my React Dashboard",
+        "link": "https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-28",
     "formattedDate": "March 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals",
         "link": "https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "formattedDate": "March 26, 2026",
-    "news": [
-      {
-        "title": "How to Build a Cookie Consent Banner in WordPress Without a Plugin (Complete Guide)",
-        "link": "https://dev.to/saroz/how-to-build-a-cookie-consent-banner-in-wordpress-without-a-plugin-complete-guide-fi0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an Uptime Monitoring SaaS in a Weekend — Here's What I Learned",
-        "link": "https://dev.to/the_zilisch/i-built-an-uptime-monitoring-saas-in-a-weekend-heres-what-i-learned-4nih",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "rgql: AST-Aware GraphQL Refactoring That AI Agents Can Trust",
-        "link": "https://dev.to/yamashou/rgql-ast-aware-graphql-refactoring-that-ai-agents-can-trust-4aib",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-        "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I built a React component library specifically for AI products",
-        "link": "https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MCP Apps are hard to test",
-        "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
         "source": "Dev.to React"
       },
       {
