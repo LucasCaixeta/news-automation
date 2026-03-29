@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
-- [I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data](https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i)
-- [AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It](https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g)
+- [colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos](https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p)
+- [Automated Internal Linking with Tag-Based Content Graphs](https://dev.to/2gelbuy/automated-internal-linking-with-tag-based-content-graphs-571n)
 
 #### Dev.to React
 
-- [AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It](https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g)
-- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
-- [Day 43: Adding a Duolingo-style Streak UI to my React Dashboard](https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23)
+- [SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts](https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb)
+- [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
+- [Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games](https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data",
-        "link": "https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i",
+        "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
+        "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It",
-        "link": "https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g",
+        "title": "Automated Internal Linking with Tag-Based Content Graphs",
+        "link": "https://dev.to/2gelbuy/automated-internal-linking-with-tag-based-content-graphs-571n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AI Coding Agents Are Great, but They Suck at RTL. Here's How I Fixed It",
-        "link": "https://dev.to/idanlevi1/ai-coding-agents-are-great-but-they-suck-at-rtl-heres-how-i-fixed-it-2g0g",
+        "title": "SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts",
+        "link": "https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Writing postMessage Manually For Workers — I Built a Decorator for That",
-        "link": "https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d",
+        "title": "Zustand Has a Free State Manager That Replaces Redux in 10 Lines",
+        "link": "https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj",
         "source": "Dev.to React"
       },
       {
-        "title": "Day 43: Adding a Duolingo-style Streak UI to my React Dashboard",
-        "link": "https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23",
+        "title": "Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games",
+        "link": "https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9",
         "source": "Dev.to React"
       },
       {
