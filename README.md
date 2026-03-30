@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Built a Piano Trainer That Measures Stability, Not Just Speed](https://dev.to/davincileonhard/i-built-a-piano-trainer-that-measures-stability-not-just-speed-387c)
+- [Síncrono, assíncrono e Async/Await: conectando os pontos](https://dev.to/reishenrique/sincrono-assincrono-e-asyncawait-conectando-os-pontos-15g2)
 - [I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.](https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm)
-- [Recursion](https://dev.to/sasirekaarumugam/recursion-2jg5)
+- [My side project just had its best month ever. I have no idea why. Here's what happened.](https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j)
 
 #### Dev.to React
 
 - [I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.](https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm)
-- [Remix v2 Has a Free Framework That Makes React Server-Side Rendering Actually Enjoyable](https://dev.to/0012303/remix-v2-has-a-free-framework-that-makes-react-server-side-rendering-actually-enjoyable-891)
-- [SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts](https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb)
+- [I Made Streaming Markdown 300x Faster — Here's the Architecture](https://dev.to/jvoltci/i-made-streaming-markdown-300x-faster-heres-the-architecture-4a9f)
+- [Creating a Fully Functional Contact Form with React and Formgrid API](https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formgrid-api-499m)
 
 #### React Blog
 
@@ -89,8 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 30, 2026",
     "news": [
       {
-        "title": "I Built a Piano Trainer That Measures Stability, Not Just Speed",
-        "link": "https://dev.to/davincileonhard/i-built-a-piano-trainer-that-measures-stability-not-just-speed-387c",
+        "title": "Síncrono, assíncrono e Async/Await: conectando os pontos",
+        "link": "https://dev.to/reishenrique/sincrono-assincrono-e-asyncawait-conectando-os-pontos-15g2",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,8 +99,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Recursion",
-        "link": "https://dev.to/sasirekaarumugam/recursion-2jg5",
+        "title": "My side project just had its best month ever. I have no idea why. Here's what happened.",
+        "link": "https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Remix v2 Has a Free Framework That Makes React Server-Side Rendering Actually Enjoyable",
-        "link": "https://dev.to/0012303/remix-v2-has-a-free-framework-that-makes-react-server-side-rendering-actually-enjoyable-891",
+        "title": "I Made Streaming Markdown 300x Faster — Here's the Architecture",
+        "link": "https://dev.to/jvoltci/i-made-streaming-markdown-300x-faster-heres-the-architecture-4a9f",
         "source": "Dev.to React"
       },
       {
-        "title": "SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts",
-        "link": "https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb",
+        "title": "Creating a Fully Functional Contact Form with React and Formgrid API",
+        "link": "https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formgrid-api-499m",
         "source": "Dev.to React"
       },
       {
