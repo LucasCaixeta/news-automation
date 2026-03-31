@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I open-sourced salt-theme-gen](https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph)
-- [Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser](https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2)
-- [JavaScript Engine Under the Hood: How V8 Compiles Your Code](https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie)
+- [AI agents shouldn't control your apps; they should be the app](https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4)
+- [I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope](https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp)
+- [What the Claude Code source taught me about engineering taste](https://dev.to/vmxd/what-the-claude-code-source-taught-me-about-engineering-taste-12bd)
 
 #### Dev.to React
 
-- [Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser](https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2)
-- [I built a Real-time Bus Reservation System with React & FastAPI 🚍](https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk)
-- [React 19, Zustand, a 5-Provider AI Broker, and P2P Multiplayer — How I Architected My Learning Platform](https://dev.to/prtkmhn/react-19-zustand-a-5-provider-ai-broker-and-p2p-multiplayer-how-i-architected-my-learning-4akd)
+- [How I Built a Privacy-First Offline PWA Expense Tracker](https://dev.to/pda-dp-shop/how-i-built-a-privacy-first-offline-pwa-expense-tracker-3kob)
+- [CSS Grid Lanes (Masonry Layout) Is Here: A Complete Guide for 2026](https://dev.to/bean_bean/css-grid-lanes-masonry-layout-is-here-a-complete-guide-for-2026-4686)
+- [There's No Such Thing As Local State](https://dev.to/iceonfire/theres-no-such-thing-as-local-state-2i4j)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "March 31, 2026",
     "news": [
       {
-        "title": "I open-sourced salt-theme-gen",
-        "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
+        "title": "AI agents shouldn't control your apps; they should be the app",
+        "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-        "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+        "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
+        "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
-        "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
+        "title": "What the Claude Code source taught me about engineering taste",
+        "link": "https://dev.to/vmxd/what-the-claude-code-source-taught-me-about-engineering-taste-12bd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-        "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+        "title": "How I Built a Privacy-First Offline PWA Expense Tracker",
+        "link": "https://dev.to/pda-dp-shop/how-i-built-a-privacy-first-offline-pwa-expense-tracker-3kob",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a Real-time Bus Reservation System with React & FastAPI 🚍",
-        "link": "https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk",
+        "title": "CSS Grid Lanes (Masonry Layout) Is Here: A Complete Guide for 2026",
+        "link": "https://dev.to/bean_bean/css-grid-lanes-masonry-layout-is-here-a-complete-guide-for-2026-4686",
         "source": "Dev.to React"
       },
       {
-        "title": "React 19, Zustand, a 5-Provider AI Broker, and P2P Multiplayer — How I Architected My Learning Platform",
-        "link": "https://dev.to/prtkmhn/react-19-zustand-a-5-provider-ai-broker-and-p2p-multiplayer-how-i-architected-my-learning-4akd",
+        "title": "There's No Such Thing As Local State",
+        "link": "https://dev.to/iceonfire/theres-no-such-thing-as-local-state-2i4j",
         "source": "Dev.to React"
       },
       {
