@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 30, 2026)
+### Today's Updates (March 31, 2026)
+
+#### Dev.to JavaScript
+
+- [I open-sourced salt-theme-gen](https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph)
+- [Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser](https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2)
+- [JavaScript Engine Under the Hood: How V8 Compiles Your Code](https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie)
+
+#### Dev.to React
+
+- [Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser](https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2)
+- [I built a Real-time Bus Reservation System with React & FastAPI 🚍](https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk)
+- [React 19, Zustand, a 5-Provider AI Broker, and P2P Multiplayer — How I Architected My Learning Platform](https://dev.to/prtkmhn/react-19-zustand-a-5-provider-ai-broker-and-p2p-multiplayer-how-i-architected-my-learning-4akd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 29, 2026)
+### 2 Days Ago (March 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts](https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb)
 - [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
 - [Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games](https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 28, 2026)
-
-#### Dev.to JavaScript
-
-- [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
-- [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
-- [I Built an Open-Source Alternative to $500/Year Trading Signal Tools](https://dev.to/naimkatiman/i-built-an-open-source-alternative-to-500year-trading-signal-tools-4lg1)
-
-#### Dev.to React
-
-- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
-- [Day 43: Adding a Duolingo-style Streak UI to my React Dashboard](https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23)
-- [React Server Components Have a Free Data Fetching Model — No More useEffect Waterfalls](https://dev.to/0012303/react-server-components-have-a-free-data-fetching-model-no-more-useeffect-waterfalls-1jh2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-03-31",
+    "formattedDate": "March 31, 2026",
+    "news": [
+      {
+        "title": "I open-sourced salt-theme-gen",
+        "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
+        "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
+        "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
+        "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a Real-time Bus Reservation System with React & FastAPI 🚍",
+        "link": "https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 19, Zustand, a 5-Provider AI Broker, and P2P Multiplayer — How I Architected My Learning Platform",
+        "link": "https://dev.to/prtkmhn/react-19-zustand-a-5-provider-ai-broker-and-p2p-multiplayer-how-i-architected-my-learning-4akd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-30",
     "formattedDate": "March 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games",
         "link": "https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-28",
-    "formattedDate": "March 28, 2026",
-    "news": [
-      {
-        "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-        "link": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side",
-        "link": "https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an Open-Source Alternative to $500/Year Trading Signal Tools",
-        "link": "https://dev.to/naimkatiman/i-built-an-open-source-alternative-to-500year-trading-signal-tools-4lg1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Writing postMessage Manually For Workers — I Built a Decorator for That",
-        "link": "https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Day 43: Adding a Duolingo-style Streak UI to my React Dashboard",
-        "link": "https://dev.to/ericrodriguez10/day-43-adding-a-duolingo-style-streak-ui-to-my-react-dashboard-2g23",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Server Components Have a Free Data Fetching Model — No More useEffect Waterfalls",
-        "link": "https://dev.to/0012303/react-server-components-have-a-free-data-fetching-model-no-more-useeffect-waterfalls-1jh2",
         "source": "Dev.to React"
       },
       {
