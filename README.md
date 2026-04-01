@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [AI agents shouldn't control your apps; they should be the app](https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4)
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62)
-- [Your npm Package Is Leaking Source Code (And You Probably Don't Know It)](https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5)
+- [I scanned 8 popular npm projects for quantum-vulnerable cryptography. Here's what I found.](https://dev.to/xmkx/i-scanned-8-popular-npm-projects-for-quantum-vulnerable-cryptography-heres-what-i-found-48)
+- [How I Built a Browser Image Converter That Processes Files in Parallel](https://dev.to/enekomtz1/how-i-built-a-browser-image-converter-that-processes-files-in-parallel-1400)
 
 #### Dev.to React
 
-- [From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL](https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm)
-- [We Benchmarked Our SSR Framework Against Next.js — Here's What We Found](https://dev.to/childrentime/we-benchmarked-our-ssr-framework-against-nextjs-heres-what-we-found-57l6)
-- [Things That Instantly Make a Web App Feel Slow (Even If It’s Not)](https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic)
+- [I studied Claude Code's leaked source and built a terminal UI toolkit from it](https://dev.to/minnzen/i-studied-claude-codes-leaked-source-and-built-a-terminal-ui-toolkit-from-it-4poh)
+- [Vue vs React in 2026: What AI-First Development Teams Actually Choose](https://dev.to/krunal_groovy/vue-vs-react-in-2026-what-ai-first-development-teams-actually-choose-419b)
+- [Does this actually solve SSR hydration problems? Looking for senior feedback](https://dev.to/himesh_bhattarai/does-this-actually-solve-ssr-hydration-problems-looking-for-senior-feedback-30n9)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 1, 2026",
     "news": [
       {
-        "title": "AI agents shouldn't control your apps; they should be the app",
-        "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
         "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
-        "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+        "title": "I scanned 8 popular npm projects for quantum-vulnerable cryptography. Here's what I found.",
+        "link": "https://dev.to/xmkx/i-scanned-8-popular-npm-projects-for-quantum-vulnerable-cryptography-heres-what-i-found-48",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL",
-        "link": "https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm",
+        "title": "How I Built a Browser Image Converter That Processes Files in Parallel",
+        "link": "https://dev.to/enekomtz1/how-i-built-a-browser-image-converter-that-processes-files-in-parallel-1400",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I studied Claude Code's leaked source and built a terminal UI toolkit from it",
+        "link": "https://dev.to/minnzen/i-studied-claude-codes-leaked-source-and-built-a-terminal-ui-toolkit-from-it-4poh",
         "source": "Dev.to React"
       },
       {
-        "title": "We Benchmarked Our SSR Framework Against Next.js — Here's What We Found",
-        "link": "https://dev.to/childrentime/we-benchmarked-our-ssr-framework-against-nextjs-heres-what-we-found-57l6",
+        "title": "Vue vs React in 2026: What AI-First Development Teams Actually Choose",
+        "link": "https://dev.to/krunal_groovy/vue-vs-react-in-2026-what-ai-first-development-teams-actually-choose-419b",
         "source": "Dev.to React"
       },
       {
-        "title": "Things That Instantly Make a Web App Feel Slow (Even If It’s Not)",
-        "link": "https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic",
+        "title": "Does this actually solve SSR hydration problems? Looking for senior feedback",
+        "link": "https://dev.to/himesh_bhattarai/does-this-actually-solve-ssr-hydration-problems-looking-for-senior-feedback-30n9",
         "source": "Dev.to React"
       },
       {
