@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (March 31, 2026)
+### Today's Updates (April 1, 2026)
+
+#### Dev.to JavaScript
+
+- [AI agents shouldn't control your apps; they should be the app](https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4)
+- [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62)
+- [Your npm Package Is Leaking Source Code (And You Probably Don't Know It)](https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5)
+
+#### Dev.to React
+
+- [From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL](https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm)
+- [We Benchmarked Our SSR Framework Against Next.js — Here's What We Found](https://dev.to/childrentime/we-benchmarked-our-ssr-framework-against-nextjs-heres-what-we-found-57l6)
+- [Things That Instantly Make a Web App Feel Slow (Even If It’s Not)](https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (March 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 30, 2026)
+### 2 Days Ago (March 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.](https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm)
 - [I Made Streaming Markdown 300x Faster — Here's the Architecture](https://dev.to/jvoltci/i-made-streaming-markdown-300x-faster-heres-the-architecture-4a9f)
 - [Creating a Fully Functional Contact Form with React and Formgrid API](https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formgrid-api-499m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 29, 2026)
-
-#### Dev.to JavaScript
-
-- [How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾](https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c)
-- [colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos](https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p)
-- [Automated Internal Linking with Tag-Based Content Graphs](https://dev.to/2gelbuy/automated-internal-linking-with-tag-based-content-graphs-571n)
-
-#### Dev.to React
-
-- [SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts](https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb)
-- [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
-- [Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games](https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-01",
+    "formattedDate": "April 1, 2026",
+    "news": [
+      {
+        "title": "AI agents shouldn't control your apps; they should be the app",
+        "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+        "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
+        "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL",
+        "link": "https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "We Benchmarked Our SSR Framework Against Next.js — Here's What We Found",
+        "link": "https://dev.to/childrentime/we-benchmarked-our-ssr-framework-against-nextjs-heres-what-we-found-57l6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Things That Instantly Make a Web App Feel Slow (Even If It’s Not)",
+        "link": "https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-03-31",
     "formattedDate": "March 31, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Creating a Fully Functional Contact Form with React and Formgrid API",
         "link": "https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formgrid-api-499m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-29",
-    "formattedDate": "March 29, 2026",
-    "news": [
-      {
-        "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-        "link": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
-        "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Automated Internal Linking with Tag-Based Content Graphs",
-        "link": "https://dev.to/2gelbuy/automated-internal-linking-with-tag-based-content-graphs-571n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "SaaS Metrics Dashboard in Next.js: MRR, Churn, and Active Users with Recharts",
-        "link": "https://dev.to/huangyongshan46a11y/saas-metrics-dashboard-in-nextjs-mrr-churn-and-active-users-with-recharts-58cb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Zustand Has a Free State Manager That Replaces Redux in 10 Lines",
-        "link": "https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games",
-        "link": "https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9",
         "source": "Dev.to React"
       },
       {
