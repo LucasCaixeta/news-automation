@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 1, 2026)
+### Today's Updates (April 2, 2026)
+
+#### Dev.to JavaScript
+
+- [Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters](https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n)
+- [AI Writes Better UI Without React Than With It](https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl)
+- [🚀 I Built an API Documentation Generator That Works in 5 Seconds](https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h)
+
+#### Dev.to React
+
+- [AI Writes Better UI Without React Than With It](https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl)
+- [React 19 migration traps your AI keeps falling into (and how to fix them with .mdc rules)](https://dev.to/vibestackdev/react-19-migration-traps-your-ai-keeps-falling-into-and-how-to-fix-them-with-mdc-rules-2aoe)
+- [Building Real-Time Features in React Without WebSocket Libraries](https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (March 31, 2026)
+### 2 Days Ago (March 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built a Privacy-First Offline PWA Expense Tracker](https://dev.to/pda-dp-shop/how-i-built-a-privacy-first-offline-pwa-expense-tracker-3kob)
 - [CSS Grid Lanes (Masonry Layout) Is Here: A Complete Guide for 2026](https://dev.to/bean_bean/css-grid-lanes-masonry-layout-is-here-a-complete-guide-for-2026-4686)
 - [There's No Such Thing As Local State](https://dev.to/iceonfire/theres-no-such-thing-as-local-state-2i4j)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (March 30, 2026)
-
-#### Dev.to JavaScript
-
-- [Síncrono, assíncrono e Async/Await: conectando os pontos](https://dev.to/reishenrique/sincrono-assincrono-e-asyncawait-conectando-os-pontos-15g2)
-- [I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.](https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm)
-- [My side project just had its best month ever. I have no idea why. Here's what happened.](https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j)
-
-#### Dev.to React
-
-- [I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.](https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm)
-- [I Made Streaming Markdown 300x Faster — Here's the Architecture](https://dev.to/jvoltci/i-made-streaming-markdown-300x-faster-heres-the-architecture-4a9f)
-- [Creating a Fully Functional Contact Form with React and Formgrid API](https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formgrid-api-499m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-02",
+    "formattedDate": "April 2, 2026",
+    "news": [
+      {
+        "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
+        "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "AI Writes Better UI Without React Than With It",
+        "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
+        "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "AI Writes Better UI Without React Than With It",
+        "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 19 migration traps your AI keeps falling into (and how to fix them with .mdc rules)",
+        "link": "https://dev.to/vibestackdev/react-19-migration-traps-your-ai-keeps-falling-into-and-how-to-fix-them-with-mdc-rules-2aoe",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Real-Time Features in React Without WebSocket Libraries",
+        "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-01",
     "formattedDate": "April 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "There's No Such Thing As Local State",
         "link": "https://dev.to/iceonfire/theres-no-such-thing-as-local-state-2i4j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-30",
-    "formattedDate": "March 30, 2026",
-    "news": [
-      {
-        "title": "Síncrono, assíncrono e Async/Await: conectando os pontos",
-        "link": "https://dev.to/reishenrique/sincrono-assincrono-e-asyncawait-conectando-os-pontos-15g2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.",
-        "link": "https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My side project just had its best month ever. I have no idea why. Here's what happened.",
-        "link": "https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Stopped Judging React State Libraries by DX Alone. AI Compatibility Matters Now.",
-        "link": "https://dev.to/zyf93/i-stopped-judging-react-state-libraries-by-dx-alone-ai-compatibility-matters-now-5bmm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Made Streaming Markdown 300x Faster — Here's the Architecture",
-        "link": "https://dev.to/jvoltci/i-made-streaming-markdown-300x-faster-heres-the-architecture-4a9f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Creating a Fully Functional Contact Form with React and Formgrid API",
-        "link": "https://dev.to/allenarduino/creating-a-fully-functional-contact-form-with-react-and-formgrid-api-499m",
         "source": "Dev.to React"
       },
       {
