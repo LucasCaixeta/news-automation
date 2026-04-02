@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters](https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n)
-- [AI Writes Better UI Without React Than With It](https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl)
-- [🚀 I Built an API Documentation Generator That Works in 5 Seconds](https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h)
+- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
+- [Functions, Generics, and the Stuff That Looks Familiar But Isn't](https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf)
+- [The Type System: What You Know, What's New, and What's Weird](https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd)
 
 #### Dev.to React
 
-- [AI Writes Better UI Without React Than With It](https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl)
+- [Why Your React Data Tables Are a Bloated Mess (And How to Automate Them)](https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9)
 - [React 19 migration traps your AI keeps falling into (and how to fix them with .mdc rules)](https://dev.to/vibestackdev/react-19-migration-traps-your-ai-keeps-falling-into-and-how-to-fix-them-with-mdc-rules-2aoe)
-- [Building Real-Time Features in React Without WebSocket Libraries](https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8)
+- [From 3 components to 8: what actually changes when a design system scales](https://dev.to/vmvenkatesh78/from-3-components-to-8-what-actually-changes-when-a-design-system-scales-mhb)
 
 #### React Blog
 
@@ -89,23 +89,23 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 2, 2026",
     "news": [
       {
-        "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-        "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
+        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AI Writes Better UI Without React Than With It",
-        "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
+        "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
+        "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
-        "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+        "title": "The Type System: What You Know, What's New, and What's Weird",
+        "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AI Writes Better UI Without React Than With It",
-        "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
+        "title": "Why Your React Data Tables Are a Bloated Mess (And How to Automate Them)",
+        "link": "https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9",
         "source": "Dev.to React"
       },
       {
@@ -114,8 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Building Real-Time Features in React Without WebSocket Libraries",
-        "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+        "title": "From 3 components to 8: what actually changes when a design system scales",
+        "link": "https://dev.to/vmvenkatesh78/from-3-components-to-8-what-actually-changes-when-a-design-system-scales-mhb",
         "source": "Dev.to React"
       },
       {
