@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
+- [Stop reinventing financial validation in TypeScript](https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf)
 - [The Type System: What You Know, What's New, and What's Weird](https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd)
-- [Functions, Generics, and the Stuff That Looks Familiar But Isn't](https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf)
 
 #### Dev.to React
 
-- [Why We Don’t Use React](https://dev.to/designrai/why-we-dont-use-react-33b8)
-- [Getting Started with Claude Code - A Complete Beginner's Guide](https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j)
-- [Cómo recorrer arrays en React (La forma correcta)](https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8)
+- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
+- [Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol](https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9)
+- [You're Probably Refreshing Auth Tokens Wrong. Here's a 40-Line Fix.](https://dev.to/graciesharma/youre-probably-refreshing-auth-tokens-wrong-heres-a-40-line-fix-11f6)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
+        "title": "Stop reinventing financial validation in TypeScript",
+        "link": "https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "The Type System: What You Know, What's New, and What's Weird",
         "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
-        "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why We Don’t Use React",
-        "link": "https://dev.to/designrai/why-we-dont-use-react-33b8",
+        "title": "Why Markdoc for LLM Streaming UI",
+        "link": "https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26",
         "source": "Dev.to React"
       },
       {
-        "title": "Getting Started with Claude Code - A Complete Beginner's Guide",
-        "link": "https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j",
+        "title": "Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol",
+        "link": "https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9",
         "source": "Dev.to React"
       },
       {
-        "title": "Cómo recorrer arrays en React (La forma correcta)",
-        "link": "https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8",
+        "title": "You're Probably Refreshing Auth Tokens Wrong. Here's a 40-Line Fix.",
+        "link": "https://dev.to/graciesharma/youre-probably-refreshing-auth-tokens-wrong-heres-a-40-line-fix-11f6",
         "source": "Dev.to React"
       },
       {
