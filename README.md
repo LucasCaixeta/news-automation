@@ -11,13 +11,13 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [Stop reinventing financial validation in TypeScript](https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf)
-- [VisaIQ — AI-Powered Visa Processing Intelligence System](https://dev.to/akshatraj00/visaiq-ai-powered-visa-processing-intelligence-system-aef)
+- [I Found a Better Way to Build APIs (And It Actually Makes Sense)](https://dev.to/adarshgzz/i-found-a-better-way-to-build-apis-and-it-actually-makes-sense-1bnc)
+- [Convert HTML to PNG in the Browser Using SVG foreignObject (No Library)](https://dev.to/shaishav_patel_271fdcd61a/convert-html-to-png-in-the-browser-using-svg-foreignobject-no-library-46op)
 
 #### Dev.to React
 
 - [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
-- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae)
+- [How I Built a Desktop Trading Journal with Electron, React, and SQLite](https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo)
 - [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
 
 #### React Blog
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop reinventing financial validation in TypeScript",
-        "link": "https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf",
+        "title": "I Found a Better Way to Build APIs (And It Actually Makes Sense)",
+        "link": "https://dev.to/adarshgzz/i-found-a-better-way-to-build-apis-and-it-actually-makes-sense-1bnc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "VisaIQ — AI-Powered Visa Processing Intelligence System",
-        "link": "https://dev.to/akshatraj00/visaiq-ai-powered-visa-processing-intelligence-system-aef",
+        "title": "Convert HTML to PNG in the Browser Using SVG foreignObject (No Library)",
+        "link": "https://dev.to/shaishav_patel_271fdcd61a/convert-html-to-png-in-the-browser-using-svg-foreignobject-no-library-46op",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,8 +109,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "VonCMS v1.22 Preview",
-        "link": "https://dev.to/vondereich/voncms-v122-preview-55ae",
+        "title": "How I Built a Desktop Trading Journal with Electron, React, and SQLite",
+        "link": "https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo",
         "source": "Dev.to React"
       },
       {
