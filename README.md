@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 3, 2026)
+### Today's Updates (April 4, 2026)
+
+#### Dev.to JavaScript
+
+- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
+- [Stop reinventing financial validation in TypeScript](https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf)
+- [VisaIQ — AI-Powered Visa Processing Intelligence System](https://dev.to/akshatraj00/visaiq-ai-powered-visa-processing-intelligence-system-aef)
+
+#### Dev.to React
+
+- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
+- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae)
+- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 2, 2026)
+### 2 Days Ago (April 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why Your React Data Tables Are a Bloated Mess (And How to Automate Them)](https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9)
 - [React 19 migration traps your AI keeps falling into (and how to fix them with .mdc rules)](https://dev.to/vibestackdev/react-19-migration-traps-your-ai-keeps-falling-into-and-how-to-fix-them-with-mdc-rules-2aoe)
 - [From 3 components to 8: what actually changes when a design system scales](https://dev.to/vmvenkatesh78/from-3-components-to-8-what-actually-changes-when-a-design-system-scales-mhb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 1, 2026)
-
-#### Dev.to JavaScript
-
-- [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62)
-- [I scanned 8 popular npm projects for quantum-vulnerable cryptography. Here's what I found.](https://dev.to/xmkx/i-scanned-8-popular-npm-projects-for-quantum-vulnerable-cryptography-heres-what-i-found-48)
-- [How I Built a Browser Image Converter That Processes Files in Parallel](https://dev.to/enekomtz1/how-i-built-a-browser-image-converter-that-processes-files-in-parallel-1400)
-
-#### Dev.to React
-
-- [I studied Claude Code's leaked source and built a terminal UI toolkit from it](https://dev.to/minnzen/i-studied-claude-codes-leaked-source-and-built-a-terminal-ui-toolkit-from-it-4poh)
-- [Vue vs React in 2026: What AI-First Development Teams Actually Choose](https://dev.to/krunal_groovy/vue-vs-react-in-2026-what-ai-first-development-teams-actually-choose-419b)
-- [Does this actually solve SSR hydration problems? Looking for senior feedback](https://dev.to/himesh_bhattarai/does-this-actually-solve-ssr-hydration-problems-looking-for-senior-feedback-30n9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-04",
+    "formattedDate": "April 4, 2026",
+    "news": [
+      {
+        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop reinventing financial validation in TypeScript",
+        "link": "https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "VisaIQ — AI-Powered Visa Processing Intelligence System",
+        "link": "https://dev.to/akshatraj00/visaiq-ai-powered-visa-processing-intelligence-system-aef",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built Boreal UI — An Accessibility-First Component Library for React and Next.js",
+        "link": "https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "VonCMS v1.22 Preview",
+        "link": "https://dev.to/vondereich/voncms-v122-preview-55ae",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Markdoc for LLM Streaming UI",
+        "link": "https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-03",
     "formattedDate": "April 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "From 3 components to 8: what actually changes when a design system scales",
         "link": "https://dev.to/vmvenkatesh78/from-3-components-to-8-what-actually-changes-when-a-design-system-scales-mhb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "formattedDate": "April 1, 2026",
-    "news": [
-      {
-        "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-        "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I scanned 8 popular npm projects for quantum-vulnerable cryptography. Here's what I found.",
-        "link": "https://dev.to/xmkx/i-scanned-8-popular-npm-projects-for-quantum-vulnerable-cryptography-heres-what-i-found-48",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Browser Image Converter That Processes Files in Parallel",
-        "link": "https://dev.to/enekomtz1/how-i-built-a-browser-image-converter-that-processes-files-in-parallel-1400",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I studied Claude Code's leaked source and built a terminal UI toolkit from it",
-        "link": "https://dev.to/minnzen/i-studied-claude-codes-leaked-source-and-built-a-terminal-ui-toolkit-from-it-4poh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Vue vs React in 2026: What AI-First Development Teams Actually Choose",
-        "link": "https://dev.to/krunal_groovy/vue-vs-react-in-2026-what-ai-first-development-teams-actually-choose-419b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Does this actually solve SSR hydration problems? Looking for senior feedback",
-        "link": "https://dev.to/himesh_bhattarai/does-this-actually-solve-ssr-hydration-problems-looking-for-senior-feedback-30n9",
         "source": "Dev.to React"
       },
       {
