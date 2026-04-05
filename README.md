@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [Living on the Linux Console — Part 2: casty, a Full Browser for TTY](https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1)
-- [Frontend Caching Done Right](https://dev.to/codescoop/frontend-caching-done-right-2lem)
+- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn)
+- [Page Numbers Lie: Offset vs Cursor Pagination](https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4)
 
 #### Dev.to React
 
-- [How I Built a Desktop Trading Journal with Electron, React, and SQLite](https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo)
-- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
-- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
+- [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
+- [I Built a Cybersecurity Command Center in Electron — With AI Agents, Kanban Missions, and Quad-Split Panes](https://dev.to/rainkode/i-built-a-cybersecurity-command-center-in-electron-with-ai-agents-kanban-missions-and-224l)
+- [Building an Interactive N-Queens Visualizer with React + TypeScript](https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Living on the Linux Console — Part 2: casty, a Full Browser for TTY",
-        "link": "https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1",
+        "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+        "link": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Frontend Caching Done Right",
-        "link": "https://dev.to/codescoop/frontend-caching-done-right-2lem",
+        "title": "Page Numbers Lie: Offset vs Cursor Pagination",
+        "link": "https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Built a Desktop Trading Journal with Electron, React, and SQLite",
-        "link": "https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo",
+        "title": "Tailwind CSS in Micro Frontend Monorepo — Setup Guide",
+        "link": "https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built Boreal UI — An Accessibility-First Component Library for React and Next.js",
-        "link": "https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3",
+        "title": "I Built a Cybersecurity Command Center in Electron — With AI Agents, Kanban Missions, and Quad-Split Panes",
+        "link": "https://dev.to/rainkode/i-built-a-cybersecurity-command-center-in-electron-with-ai-agents-kanban-missions-and-224l",
         "source": "Dev.to React"
       },
       {
-        "title": "Why Markdoc for LLM Streaming UI",
-        "link": "https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26",
+        "title": "Building an Interactive N-Queens Visualizer with React + TypeScript",
+        "link": "https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd",
         "source": "Dev.to React"
       },
       {
