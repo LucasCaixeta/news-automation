@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 5, 2026)
+### Today's Updates (April 6, 2026)
+
+#### Dev.to JavaScript
+
+- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
+- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn)
+- [The 5 Most Common EAA Violations I Found Auditing 14 Production Sites (And How to Fix Each One)](https://dev.to/agentkit/the-5-most-common-eaa-violations-i-found-auditing-14-production-sites-and-how-to-fix-each-one-1lhf)
+
+#### Dev.to React
+
+- [I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works](https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4)
+- [My strategy for Strategy](https://dev.to/franson33/my-strategy-for-strategy-2112)
+- [The Architecture is Done. Now What Does That Mean for Your App?](https://dev.to/vvekm/the-architecture-is-done-now-what-does-that-mean-for-your-app-4kfb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 4, 2026)
+### 2 Days Ago (April 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
 - [How I Built a Desktop Trading Journal with Electron, React, and SQLite](https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo)
 - [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 3, 2026)
-
-#### Dev.to JavaScript
-
-- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [Stop reinventing financial validation in TypeScript](https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf)
-- [The Type System: What You Know, What's New, and What's Weird](https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd)
-
-#### Dev.to React
-
-- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
-- [Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol](https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9)
-- [You're Probably Refreshing Auth Tokens Wrong. Here's a 40-Line Fix.](https://dev.to/graciesharma/youre-probably-refreshing-auth-tokens-wrong-heres-a-40-line-fix-11f6)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-06",
+    "formattedDate": "April 6, 2026",
+    "news": [
+      {
+        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+        "link": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The 5 Most Common EAA Violations I Found Auditing 14 Production Sites (And How to Fix Each One)",
+        "link": "https://dev.to/agentkit/the-5-most-common-eaa-violations-i-found-auditing-14-production-sites-and-how-to-fix-each-one-1lhf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works",
+        "link": "https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My strategy for Strategy",
+        "link": "https://dev.to/franson33/my-strategy-for-strategy-2112",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Architecture is Done. Now What Does That Mean for Your App?",
+        "link": "https://dev.to/vvekm/the-architecture-is-done-now-what-does-that-mean-for-your-app-4kfb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-05",
     "formattedDate": "April 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why Markdoc for LLM Streaming UI",
         "link": "https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-03",
-    "formattedDate": "April 3, 2026",
-    "news": [
-      {
-        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
-        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop reinventing financial validation in TypeScript",
-        "link": "https://dev.to/oluwatosin_adelaja_a267e0/stop-reinventing-financial-validation-in-typescript-3alf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Type System: What You Know, What's New, and What's Weird",
-        "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Markdoc for LLM Streaming UI",
-        "link": "https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol",
-        "link": "https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "You're Probably Refreshing Auth Tokens Wrong. Here's a 40-Line Fix.",
-        "link": "https://dev.to/graciesharma/youre-probably-refreshing-auth-tokens-wrong-heres-a-40-line-fix-11f6",
         "source": "Dev.to React"
       },
       {
