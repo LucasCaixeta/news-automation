@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn)
-- [The 5 Most Common EAA Violations I Found Auditing 14 Production Sites (And How to Fix Each One)](https://dev.to/agentkit/the-5-most-common-eaa-violations-i-found-auditing-14-production-sites-and-how-to-fix-each-one-1lhf)
+- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
+- [Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API](https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0)
+- [How I Built an Anonymous Chat Platform Without Signup Using WebRTC (13K+ Users)](https://dev.to/gowrishankar_rangasamy_f9/how-i-built-an-anonymous-chat-platform-without-signup-using-webrtc-13k-users-16hp)
 
 #### Dev.to React
 
+- [Building Compliance-First Property Management Software](https://dev.to/jonomor_ecosystem/building-compliance-first-property-management-software-3eon)
 - [I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works](https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4)
-- [My strategy for Strategy](https://dev.to/franson33/my-strategy-for-strategy-2112)
-- [The Architecture is Done. Now What Does That Mean for Your App?](https://dev.to/vvekm/the-architecture-is-done-now-what-does-that-mean-for-your-app-4kfb)
+- [I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy](https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 6, 2026",
     "news": [
       {
-        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
-        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+        "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
+        "link": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-        "link": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+        "title": "Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API",
+        "link": "https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The 5 Most Common EAA Violations I Found Auditing 14 Production Sites (And How to Fix Each One)",
-        "link": "https://dev.to/agentkit/the-5-most-common-eaa-violations-i-found-auditing-14-production-sites-and-how-to-fix-each-one-1lhf",
+        "title": "How I Built an Anonymous Chat Platform Without Signup Using WebRTC (13K+ Users)",
+        "link": "https://dev.to/gowrishankar_rangasamy_f9/how-i-built-an-anonymous-chat-platform-without-signup-using-webrtc-13k-users-16hp",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Compliance-First Property Management Software",
+        "link": "https://dev.to/jonomor_ecosystem/building-compliance-first-property-management-software-3eon",
+        "source": "Dev.to React"
       },
       {
         "title": "I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "My strategy for Strategy",
-        "link": "https://dev.to/franson33/my-strategy-for-strategy-2112",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Architecture is Done. Now What Does That Mean for Your App?",
-        "link": "https://dev.to/vvekm/the-architecture-is-done-now-what-does-that-mean-for-your-app-4kfb",
+        "title": "I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy",
+        "link": "https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje",
         "source": "Dev.to React"
       },
       {
