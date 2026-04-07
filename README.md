@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 6, 2026)
+### Today's Updates (April 7, 2026)
+
+#### Dev.to JavaScript
+
+- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
+- [Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API](https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0)
+- [🎬 CineVerse — A Movie Discovery Platform for Indian Users](https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn)
+
+#### Dev.to React
+
+- [🎬 CineVerse — A Movie Discovery Platform for Indian Users](https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn)
+- [I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works](https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4)
+- [Good vs Bad Next.js Rendering: How to Choose the Right Strategy](https://dev.to/duythenight/good-vs-bad-nextjs-rendering-how-to-choose-the-right-strategy-3i74)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 5, 2026)
+### 2 Days Ago (April 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
 - [I Built a Cybersecurity Command Center in Electron — With AI Agents, Kanban Missions, and Quad-Split Panes](https://dev.to/rainkode/i-built-a-cybersecurity-command-center-in-electron-with-ai-agents-kanban-missions-and-224l)
 - [Building an Interactive N-Queens Visualizer with React + TypeScript](https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 4, 2026)
-
-#### Dev.to JavaScript
-
-- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [I Found a Better Way to Build APIs (And It Actually Makes Sense)](https://dev.to/adarshgzz/i-found-a-better-way-to-build-apis-and-it-actually-makes-sense-1bnc)
-- [Convert HTML to PNG in the Browser Using SVG foreignObject (No Library)](https://dev.to/shaishav_patel_271fdcd61a/convert-html-to-png-in-the-browser-using-svg-foreignobject-no-library-46op)
-
-#### Dev.to React
-
-- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
-- [How I Built a Desktop Trading Journal with Electron, React, and SQLite](https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo)
-- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-07",
+    "formattedDate": "April 7, 2026",
+    "news": [
+      {
+        "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
+        "link": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API",
+        "link": "https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🎬 CineVerse — A Movie Discovery Platform for Indian Users",
+        "link": "https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🎬 CineVerse — A Movie Discovery Platform for Indian Users",
+        "link": "https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works",
+        "link": "https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Good vs Bad Next.js Rendering: How to Choose the Right Strategy",
+        "link": "https://dev.to/duythenight/good-vs-bad-nextjs-rendering-how-to-choose-the-right-strategy-3i74",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-06",
     "formattedDate": "April 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building an Interactive N-Queens Visualizer with React + TypeScript",
         "link": "https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-04",
-    "formattedDate": "April 4, 2026",
-    "news": [
-      {
-        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
-        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Found a Better Way to Build APIs (And It Actually Makes Sense)",
-        "link": "https://dev.to/adarshgzz/i-found-a-better-way-to-build-apis-and-it-actually-makes-sense-1bnc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Convert HTML to PNG in the Browser Using SVG foreignObject (No Library)",
-        "link": "https://dev.to/shaishav_patel_271fdcd61a/convert-html-to-png-in-the-browser-using-svg-foreignobject-no-library-46op",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built Boreal UI — An Accessibility-First Component Library for React and Next.js",
-        "link": "https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Desktop Trading Journal with Electron, React, and SQLite",
-        "link": "https://dev.to/william_b898ff4ee6a7e992f/how-i-built-a-desktop-trading-journal-with-electron-react-and-sqlite-5hlo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Markdoc for LLM Streaming UI",
-        "link": "https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26",
         "source": "Dev.to React"
       },
       {
