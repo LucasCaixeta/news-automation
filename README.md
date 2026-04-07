@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
-- [Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API](https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0)
-- [🎬 CineVerse — A Movie Discovery Platform for Indian Users](https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn)
+- [dotenv-audit v1.1.0 — now with .env.example auto-sync](https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei)
+- [I Built a Chrome Extension to Measure AI Visibility — Here’s What I Learned](https://dev.to/alifar/i-built-a-chrome-extension-to-measure-ai-visibility-heres-what-i-learned-423m)
+- [Objects in javascript.](https://dev.to/madhavan_g_77/objects-in-javascript-1ejg)
 
 #### Dev.to React
 
+- [Why I Built a 4,000-Line Agent Skill Instead of Another npm Package](https://dev.to/_a9b502091e5f4cba28f13/why-i-built-a-4000-line-agent-skill-instead-of-another-npm-package-51la)
 - [🎬 CineVerse — A Movie Discovery Platform for Indian Users](https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn)
-- [I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works](https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4)
-- [Good vs Bad Next.js Rendering: How to Choose the Right Strategy](https://dev.to/duythenight/good-vs-bad-nextjs-rendering-how-to-choose-the-right-strategy-3i74)
+- [React's Component Tree Was Invented by Game Engines 20 Years Ago](https://dev.to/ziva/reacts-component-tree-was-invented-by-game-engines-20-years-ago-5ea6)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 7, 2026",
     "news": [
       {
-        "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
-        "link": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
+        "title": "dotenv-audit v1.1.0 — now with .env.example auto-sync",
+        "link": "https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API",
-        "link": "https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0",
+        "title": "I Built a Chrome Extension to Measure AI Visibility — Here’s What I Learned",
+        "link": "https://dev.to/alifar/i-built-a-chrome-extension-to-measure-ai-visibility-heres-what-i-learned-423m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "🎬 CineVerse — A Movie Discovery Platform for Indian Users",
-        "link": "https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn",
+        "title": "Objects in javascript.",
+        "link": "https://dev.to/madhavan_g_77/objects-in-javascript-1ejg",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I Built a 4,000-Line Agent Skill Instead of Another npm Package",
+        "link": "https://dev.to/_a9b502091e5f4cba28f13/why-i-built-a-4000-line-agent-skill-instead-of-another-npm-package-51la",
+        "source": "Dev.to React"
       },
       {
         "title": "🎬 CineVerse — A Movie Discovery Platform for Indian Users",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works",
-        "link": "https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Good vs Bad Next.js Rendering: How to Choose the Right Strategy",
-        "link": "https://dev.to/duythenight/good-vs-bad-nextjs-rendering-how-to-choose-the-right-strategy-3i74",
+        "title": "React's Component Tree Was Invented by Game Engines 20 Years Ago",
+        "link": "https://dev.to/ziva/reacts-component-tree-was-invented-by-game-engines-20-years-ago-5ea6",
         "source": "Dev.to React"
       },
       {
