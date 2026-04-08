@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 7, 2026)
+### Today's Updates (April 8, 2026)
+
+#### Dev.to JavaScript
+
+- [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
+- [I built an industrial OS - here's what 33 years on the plant floor taught me about software](https://dev.to/doug_trier_48bd83065738b1/i-built-an-industrial-os-heres-what-33-years-on-the-plant-floor-taught-me-about-software-3l09)
+- [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc)
+
+#### Dev.to React
+
+- [I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite](https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i)
+- [React Mouse Tracking and Interactive Effects Without External Libraries](https://dev.to/childrentime/react-mouse-tracking-and-interactive-effects-without-external-libraries-382i)
+- [Metí Gemma corriendo en el browser, sin API keys, y me cambió cómo pienso el edge](https://dev.to/jtorchia/meti-gemma-corriendo-en-el-browser-sin-api-keys-y-me-cambio-como-pienso-el-edge-3d18)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 6, 2026)
+### 2 Days Ago (April 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building Compliance-First Property Management Software](https://dev.to/jonomor_ecosystem/building-compliance-first-property-management-software-3eon)
 - [I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works](https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4)
 - [I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy](https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 5, 2026)
-
-#### Dev.to JavaScript
-
-- [9 Things You’re Overengineering (The Browser Already Solved Them)](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn)
-- [Page Numbers Lie: Offset vs Cursor Pagination](https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4)
-
-#### Dev.to React
-
-- [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
-- [I Built a Cybersecurity Command Center in Electron — With AI Agents, Kanban Missions, and Quad-Split Panes](https://dev.to/rainkode/i-built-a-cybersecurity-command-center-in-electron-with-ai-agents-kanban-missions-and-224l)
-- [Building an Interactive N-Queens Visualizer with React + TypeScript](https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-08",
+    "formattedDate": "April 8, 2026",
+    "news": [
+      {
+        "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
+        "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built an industrial OS - here's what 33 years on the plant floor taught me about software",
+        "link": "https://dev.to/doug_trier_48bd83065738b1/i-built-an-industrial-os-heres-what-33-years-on-the-plant-floor-taught-me-about-software-3l09",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets",
+        "link": "https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite",
+        "link": "https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Mouse Tracking and Interactive Effects Without External Libraries",
+        "link": "https://dev.to/childrentime/react-mouse-tracking-and-interactive-effects-without-external-libraries-382i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Metí Gemma corriendo en el browser, sin API keys, y me cambió cómo pienso el edge",
+        "link": "https://dev.to/jtorchia/meti-gemma-corriendo-en-el-browser-sin-api-keys-y-me-cambio-como-pienso-el-edge-3d18",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-07",
     "formattedDate": "April 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy",
         "link": "https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-05",
-    "formattedDate": "April 5, 2026",
-    "news": [
-      {
-        "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
-        "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-        "link": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Page Numbers Lie: Offset vs Cursor Pagination",
-        "link": "https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Tailwind CSS in Micro Frontend Monorepo — Setup Guide",
-        "link": "https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Cybersecurity Command Center in Electron — With AI Agents, Kanban Missions, and Quad-Split Panes",
-        "link": "https://dev.to/rainkode/i-built-a-cybersecurity-command-center-in-electron-with-ai-agents-kanban-missions-and-224l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building an Interactive N-Queens Visualizer with React + TypeScript",
-        "link": "https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd",
         "source": "Dev.to React"
       },
       {
