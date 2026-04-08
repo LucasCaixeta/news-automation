@@ -11,8 +11,8 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
-- [I built an industrial OS - here's what 33 years on the plant floor taught me about software](https://dev.to/doug_trier_48bd83065738b1/i-built-an-industrial-os-heres-what-33-years-on-the-plant-floor-taught-me-about-software-3l09)
-- [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc)
+- [My AI Kept Recommending Pajamas for Date Night — Here's Why](https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b)
+- [Spread vs Rest Operators in JavaScript](https://dev.to/hiral/spread-vs-rest-operators-in-javascript-607)
 
 #### Dev.to React
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built an industrial OS - here's what 33 years on the plant floor taught me about software",
-        "link": "https://dev.to/doug_trier_48bd83065738b1/i-built-an-industrial-os-heres-what-33-years-on-the-plant-floor-taught-me-about-software-3l09",
+        "title": "My AI Kept Recommending Pajamas for Date Night — Here's Why",
+        "link": "https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets",
-        "link": "https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc",
+        "title": "Spread vs Rest Operators in JavaScript",
+        "link": "https://dev.to/hiral/spread-vs-rest-operators-in-javascript-607",
         "source": "Dev.to JavaScript"
       },
       {
