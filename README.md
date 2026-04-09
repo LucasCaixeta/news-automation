@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
-- [My AI Kept Recommending Pajamas for Date Night — Here's Why](https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b)
-- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-5gf2)
+- [What nobody tells you about building your own SSO](https://dev.to/alvarito1983/what-nobody-tells-you-about-building-your-own-sso-485g)
+- [This Month in Solid: v2.0.0 Beta - <Suspense> is Over and Start v2 on the horizon 😎](https://dev.to/danieljcafonso/this-month-in-solid-v200-beta-is-over-and-start-v2-on-the-horizon-26jo)
 
 #### Dev.to React
 
-- [Why CSS dvh ignores the mobile keyboard — and how to fix it](https://dev.to/rl0425/why-css-dvh-ignores-the-mobile-keyboard-and-how-to-fix-it-31ao)
-- [Things I Stopped Writing in React (And What Replaced Them)](https://dev.to/shivamkatare/things-i-stopped-writing-in-react-and-what-replaced-them-10i8)
-- [I Spent Hours in the DOM So You Don't Have To](https://dev.to/midnight-aliit/i-spent-hours-in-the-dom-so-you-dont-have-to-e8h)
+- [I’m building a local AI desktop companion that sees your screen — and you can help shape it](https://dev.to/southy404/im-building-a-local-ai-desktop-companion-that-sees-your-screen-and-you-can-help-shape-it-2ibh)
+- [Micro Frontends: The Ultimate Guide — React, Vite, Next.js, React Native & Module Federation](https://dev.to/ishaaan/micro-frontends-the-ultimate-guide-react-vite-nextjs-react-native-module-federation-26ek)
+- [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My AI Kept Recommending Pajamas for Date Night — Here's Why",
-        "link": "https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b",
+        "title": "What nobody tells you about building your own SSO",
+        "link": "https://dev.to/alvarito1983/what-nobody-tells-you-about-building-your-own-sso-485g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Every React Developer Uses Hooks. Almost None Can Explain How They Work.",
-        "link": "https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-5gf2",
+        "title": "This Month in Solid: v2.0.0 Beta - <Suspense> is Over and Start v2 on the horizon 😎",
+        "link": "https://dev.to/danieljcafonso/this-month-in-solid-v200-beta-is-over-and-start-v2-on-the-horizon-26jo",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why CSS dvh ignores the mobile keyboard — and how to fix it",
-        "link": "https://dev.to/rl0425/why-css-dvh-ignores-the-mobile-keyboard-and-how-to-fix-it-31ao",
+        "title": "I’m building a local AI desktop companion that sees your screen — and you can help shape it",
+        "link": "https://dev.to/southy404/im-building-a-local-ai-desktop-companion-that-sees-your-screen-and-you-can-help-shape-it-2ibh",
         "source": "Dev.to React"
       },
       {
-        "title": "Things I Stopped Writing in React (And What Replaced Them)",
-        "link": "https://dev.to/shivamkatare/things-i-stopped-writing-in-react-and-what-replaced-them-10i8",
+        "title": "Micro Frontends: The Ultimate Guide — React, Vite, Next.js, React Native & Module Federation",
+        "link": "https://dev.to/ishaaan/micro-frontends-the-ultimate-guide-react-vite-nextjs-react-native-module-federation-26ek",
         "source": "Dev.to React"
       },
       {
-        "title": "I Spent Hours in the DOM So You Don't Have To",
-        "link": "https://dev.to/midnight-aliit/i-spent-hours-in-the-dom-so-you-dont-have-to-e8h",
+        "title": "A Go + React monorepo starter with auth and multi-tenancy",
+        "link": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
         "source": "Dev.to React"
       },
       {
