@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 8, 2026)
+### Today's Updates (April 9, 2026)
+
+#### Dev.to JavaScript
+
+- [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
+- [My AI Kept Recommending Pajamas for Date Night — Here's Why](https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-5gf2)
+
+#### Dev.to React
+
+- [Why CSS dvh ignores the mobile keyboard — and how to fix it](https://dev.to/rl0425/why-css-dvh-ignores-the-mobile-keyboard-and-how-to-fix-it-31ao)
+- [Things I Stopped Writing in React (And What Replaced Them)](https://dev.to/shivamkatare/things-i-stopped-writing-in-react-and-what-replaced-them-10i8)
+- [I Spent Hours in the DOM So You Don't Have To](https://dev.to/midnight-aliit/i-spent-hours-in-the-dom-so-you-dont-have-to-e8h)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 7, 2026)
+### 2 Days Ago (April 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why I Built a 4,000-Line Agent Skill Instead of Another npm Package](https://dev.to/_a9b502091e5f4cba28f13/why-i-built-a-4000-line-agent-skill-instead-of-another-npm-package-51la)
 - [🎬 CineVerse — A Movie Discovery Platform for Indian Users](https://dev.to/vishalshetty/cineverse-a-movie-discovery-platform-for-indian-users-18hn)
 - [React's Component Tree Was Invented by Game Engines 20 Years Ago](https://dev.to/ziva/reacts-component-tree-was-invented-by-game-engines-20-years-ago-5ea6)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 6, 2026)
-
-#### Dev.to JavaScript
-
-- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
-- [Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API](https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0)
-- [How I Built an Anonymous Chat Platform Without Signup Using WebRTC (13K+ Users)](https://dev.to/gowrishankar_rangasamy_f9/how-i-built-an-anonymous-chat-platform-without-signup-using-webrtc-13k-users-16hp)
-
-#### Dev.to React
-
-- [Building Compliance-First Property Management Software](https://dev.to/jonomor_ecosystem/building-compliance-first-property-management-software-3eon)
-- [I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works](https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4)
-- [I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy](https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-09",
+    "formattedDate": "April 9, 2026",
+    "news": [
+      {
+        "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
+        "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My AI Kept Recommending Pajamas for Date Night — Here's Why",
+        "link": "https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Every React Developer Uses Hooks. Almost None Can Explain How They Work.",
+        "link": "https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-5gf2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why CSS dvh ignores the mobile keyboard — and how to fix it",
+        "link": "https://dev.to/rl0425/why-css-dvh-ignores-the-mobile-keyboard-and-how-to-fix-it-31ao",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Things I Stopped Writing in React (And What Replaced Them)",
+        "link": "https://dev.to/shivamkatare/things-i-stopped-writing-in-react-and-what-replaced-them-10i8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Spent Hours in the DOM So You Don't Have To",
+        "link": "https://dev.to/midnight-aliit/i-spent-hours-in-the-dom-so-you-dont-have-to-e8h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-08",
     "formattedDate": "April 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React's Component Tree Was Invented by Game Engines 20 Years Ago",
         "link": "https://dev.to/ziva/reacts-component-tree-was-invented-by-game-engines-20-years-ago-5ea6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-06",
-    "formattedDate": "April 6, 2026",
-    "news": [
-      {
-        "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
-        "link": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API",
-        "link": "https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built an Anonymous Chat Platform Without Signup Using WebRTC (13K+ Users)",
-        "link": "https://dev.to/gowrishankar_rangasamy_f9/how-i-built-an-anonymous-chat-platform-without-signup-using-webrtc-13k-users-16hp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Compliance-First Property Management Software",
-        "link": "https://dev.to/jonomor_ecosystem/building-compliance-first-property-management-software-3eon",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an AI Presentation Generator Using React Streaming — Here's What Actually Works",
-        "link": "https://dev.to/jiade/i-built-an-ai-presentation-generator-using-react-streaming-heres-what-actually-works-1ha4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Full Digital Marketplace from Scratch with Laravel 12 — Here's How It Compares to Envato, Gumroad & Lemon Squeezy",
-        "link": "https://dev.to/fastlabai/i-built-a-full-digital-marketplace-from-scratch-with-laravel-12-heres-how-it-compares-to-envato-mje",
         "source": "Dev.to React"
       },
       {
