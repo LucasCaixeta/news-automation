@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
-- [How to Add Comments to an Astro Site (Lazy-Loaded, Zero JS by Default)](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba)
-- [The Senior Dev Approach to Data Fetching in React](https://dev.to/emann/the-senior-dev-approach-to-data-fetching-in-react-171g)
+- [Why Math.random() Will Fail Your Next Security Audit](https://dev.to/tim_o_5617baa5171354e/why-mathrandom-will-fail-your-next-security-audit-4h2c)
+- [I built an email verification API from scratch](https://dev.to/maulik1807/i-built-an-email-verification-api-from-scratch-2aca)
 
 #### Dev.to React
 
-- [A simple React hook for running local LLMs via WebGPU](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234)
-- [next-intl vs next-i18next: Choosing the Right i18n Library for Next.js](https://dev.to/adrai/next-intl-vs-next-i18next-choosing-the-right-i18n-library-for-nextjs-646)
-- [Mastering React State Patterns Beyond useState](https://dev.to/childrentime/mastering-react-state-patterns-beyond-usestate-4c72)
+- [This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl](https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb)
+- [How I Built a Tinder-Style Group Decision App with React Native and Firebase](https://dev.to/networkingguru/how-i-built-a-tinder-style-group-decision-app-with-react-native-and-firebase-1p37)
+- [I Built a Free Hydration Tracker with No Signup: Here’s What I Learned](https://dev.to/johnnylemonny/i-built-a-free-hydration-tracker-with-no-signup-heres-what-i-learned-1aon)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Add Comments to an Astro Site (Lazy-Loaded, Zero JS by Default)",
-        "link": "https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba",
+        "title": "Why Math.random() Will Fail Your Next Security Audit",
+        "link": "https://dev.to/tim_o_5617baa5171354e/why-mathrandom-will-fail-your-next-security-audit-4h2c",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Senior Dev Approach to Data Fetching in React",
-        "link": "https://dev.to/emann/the-senior-dev-approach-to-data-fetching-in-react-171g",
+        "title": "I built an email verification API from scratch",
+        "link": "https://dev.to/maulik1807/i-built-an-email-verification-api-from-scratch-2aca",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A simple React hook for running local LLMs via WebGPU",
-        "link": "https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234",
+        "title": "This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb",
         "source": "Dev.to React"
       },
       {
-        "title": "next-intl vs next-i18next: Choosing the Right i18n Library for Next.js",
-        "link": "https://dev.to/adrai/next-intl-vs-next-i18next-choosing-the-right-i18n-library-for-nextjs-646",
+        "title": "How I Built a Tinder-Style Group Decision App with React Native and Firebase",
+        "link": "https://dev.to/networkingguru/how-i-built-a-tinder-style-group-decision-app-with-react-native-and-firebase-1p37",
         "source": "Dev.to React"
       },
       {
-        "title": "Mastering React State Patterns Beyond useState",
-        "link": "https://dev.to/childrentime/mastering-react-state-patterns-beyond-usestate-4c72",
+        "title": "I Built a Free Hydration Tracker with No Signup: Here’s What I Learned",
+        "link": "https://dev.to/johnnylemonny/i-built-a-free-hydration-tracker-with-no-signup-heres-what-i-learned-1aon",
         "source": "Dev.to React"
       },
       {
