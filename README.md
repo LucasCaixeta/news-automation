@@ -17,8 +17,8 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to React
 
 - [EasyPollVote [Dev Log #1]](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j)
-- [This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl](https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb)
-- [I Just Upgraded My Portfolio from Next.js 14 to Next.js 16 and Felt Like a Child Who Knows Nothing](https://dev.to/ingila185/i-just-upgraded-my-portfolio-from-nextjs-14-to-nextjs-16-and-felt-like-a-child-who-knows-nothing-khd)
+- [From a Calorie Counter Prompt to a Local-First Nutrition Tracker](https://dev.to/johnnylemonny/from-a-calorie-counter-prompt-to-a-local-first-nutrition-tracker-239j)
+- [I built a GitHub Wrapped that works year-round — and added an AI that roasts your code stats](https://dev.to/kalpakps/i-built-a-github-wrapped-that-works-year-round-and-added-an-ai-that-roasts-your-code-stats-33ae)
 
 #### React Blog
 
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb",
+        "title": "From a Calorie Counter Prompt to a Local-First Nutrition Tracker",
+        "link": "https://dev.to/johnnylemonny/from-a-calorie-counter-prompt-to-a-local-first-nutrition-tracker-239j",
         "source": "Dev.to React"
       },
       {
-        "title": "I Just Upgraded My Portfolio from Next.js 14 to Next.js 16 and Felt Like a Child Who Knows Nothing",
-        "link": "https://dev.to/ingila185/i-just-upgraded-my-portfolio-from-nextjs-14-to-nextjs-16-and-felt-like-a-child-who-knows-nothing-khd",
+        "title": "I built a GitHub Wrapped that works year-round — and added an AI that roasts your code stats",
+        "link": "https://dev.to/kalpakps/i-built-a-github-wrapped-that-works-year-round-and-added-an-ai-that-roasts-your-code-stats-33ae",
         "source": "Dev.to React"
       },
       {
