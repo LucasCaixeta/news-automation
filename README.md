@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 10, 2026)
+### Today's Updates (April 11, 2026)
+
+#### Dev.to JavaScript
+
+- [I code-reviewed 3 "vibe-coded" PRs last week. Every one had hardcoded API keys. So I built a grader.](https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii)
+- [Writing a TypeScript Type Inference Engine in 300 Lines of Vanilla JS](https://dev.to/sendotltd/writing-a-typescript-type-inference-engine-in-300-lines-of-vanilla-js-21cj)
+- [Jestronaut: Explore Your Jest Tests Like Never Before](https://dev.to/realdeepnandi/jestronaut-explore-your-jest-tests-like-never-before-4kc2)
+
+#### Dev.to React
+
+- [EasyPollVote [Dev Log #1]](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j)
+- [This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl](https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb)
+- [I Just Upgraded My Portfolio from Next.js 14 to Next.js 16 and Felt Like a Child Who Knows Nothing](https://dev.to/ingila185/i-just-upgraded-my-portfolio-from-nextjs-14-to-nextjs-16-and-felt-like-a-child-who-knows-nothing-khd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 9, 2026)
+### 2 Days Ago (April 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I’m building a local AI desktop companion that sees your screen — and you can help shape it](https://dev.to/southy404/im-building-a-local-ai-desktop-companion-that-sees-your-screen-and-you-can-help-shape-it-2ibh)
 - [Micro Frontends: The Ultimate Guide — React, Vite, Next.js, React Native & Module Federation](https://dev.to/ishaaan/micro-frontends-the-ultimate-guide-react-vite-nextjs-react-native-module-federation-26ek)
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 8, 2026)
-
-#### Dev.to JavaScript
-
-- [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
-- [My AI Kept Recommending Pajamas for Date Night — Here's Why](https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b)
-- [Spread vs Rest Operators in JavaScript](https://dev.to/hiral/spread-vs-rest-operators-in-javascript-607)
-
-#### Dev.to React
-
-- [I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite](https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i)
-- [React Mouse Tracking and Interactive Effects Without External Libraries](https://dev.to/childrentime/react-mouse-tracking-and-interactive-effects-without-external-libraries-382i)
-- [Metí Gemma corriendo en el browser, sin API keys, y me cambió cómo pienso el edge](https://dev.to/jtorchia/meti-gemma-corriendo-en-el-browser-sin-api-keys-y-me-cambio-como-pienso-el-edge-3d18)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-11",
+    "formattedDate": "April 11, 2026",
+    "news": [
+      {
+        "title": "I code-reviewed 3 \"vibe-coded\" PRs last week. Every one had hardcoded API keys. So I built a grader.",
+        "link": "https://dev.to/wd400/i-code-reviewed-3-vibe-coded-prs-last-week-every-one-had-hardcoded-api-keys-so-i-built-a-grader-21ii",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Writing a TypeScript Type Inference Engine in 300 Lines of Vanilla JS",
+        "link": "https://dev.to/sendotltd/writing-a-typescript-type-inference-engine-in-300-lines-of-vanilla-js-21cj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Jestronaut: Explore Your Jest Tests Like Never Before",
+        "link": "https://dev.to/realdeepnandi/jestronaut-explore-your-jest-tests-like-never-before-4kc2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "EasyPollVote [Dev Log #1]",
+        "link": "https://dev.to/francistrdev/easypollvote-dev-log-1-n7j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Just Upgraded My Portfolio from Next.js 14 to Next.js 16 and Felt Like a Child Who Knows Nothing",
+        "link": "https://dev.to/ingila185/i-just-upgraded-my-portfolio-from-nextjs-14-to-nextjs-16-and-felt-like-a-child-who-knows-nothing-khd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-10",
     "formattedDate": "April 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "A Go + React monorepo starter with auth and multi-tenancy",
         "link": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-08",
-    "formattedDate": "April 8, 2026",
-    "news": [
-      {
-        "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
-        "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My AI Kept Recommending Pajamas for Date Night — Here's Why",
-        "link": "https://dev.to/alimafana/my-ai-kept-recommending-pajamas-for-date-night-heres-why-1o3b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Spread vs Rest Operators in JavaScript",
-        "link": "https://dev.to/hiral/spread-vs-rest-operators-in-javascript-607",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite",
-        "link": "https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Mouse Tracking and Interactive Effects Without External Libraries",
-        "link": "https://dev.to/childrentime/react-mouse-tracking-and-interactive-effects-without-external-libraries-382i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Metí Gemma corriendo en el browser, sin API keys, y me cambió cómo pienso el edge",
-        "link": "https://dev.to/jtorchia/meti-gemma-corriendo-en-el-browser-sin-api-keys-y-me-cambio-como-pienso-el-edge-3d18",
         "source": "Dev.to React"
       },
       {
