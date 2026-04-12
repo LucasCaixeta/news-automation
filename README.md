@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 11, 2026)
+### Today's Updates (April 12, 2026)
+
+#### Dev.to JavaScript
+
+- [I build a Web Component UI Kit.](https://dev.to/jeffreykrodgers/i-build-a-web-component-ui-kit-2gi5)
+- [I picked a 5ms keyword router over an LLM meta-router for my AI app. Here's the math.](https://dev.to/samarth0211/i-picked-a-5ms-keyword-router-over-an-llm-meta-router-for-my-ai-app-heres-the-math-23p2)
+- [.me URI Scheme (v1) - Eng](https://dev.to/suign/me-uri-scheme-v1-eng-4djp)
+
+#### Dev.to React
+
+- [How We Ran Two Portals on the Same Domain During a React Migration (Without Users Noticing)](https://dev.to/gustav_lotz_5628d28bc9eac/how-we-ran-two-portals-on-the-same-domain-during-a-react-migration-without-users-noticing-28g0)
+- [Building a Modern Restaurant POS with React, SurrealDB, and Docker 🍕](https://dev.to/ahmedali5530/building-a-modern-restaurant-pos-with-react-surrealdb-and-docker-1hia)
+- [Why useEffect Confuses Every C# Developer (And How to Finally Think About It)](https://dev.to/cstrainer_44b9bd49cccf955/why-useeffect-confuses-every-c-developer-and-how-to-finally-think-about-it-5gh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 10, 2026)
+### 2 Days Ago (April 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl](https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb)
 - [How I Built a Tinder-Style Group Decision App with React Native and Firebase](https://dev.to/networkingguru/how-i-built-a-tinder-style-group-decision-app-with-react-native-and-firebase-1p37)
 - [I Built a Free Hydration Tracker with No Signup: Here’s What I Learned](https://dev.to/johnnylemonny/i-built-a-free-hydration-tracker-with-no-signup-heres-what-i-learned-1aon)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 9, 2026)
-
-#### Dev.to JavaScript
-
-- [Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)](https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f)
-- [What nobody tells you about building your own SSO](https://dev.to/alvarito1983/what-nobody-tells-you-about-building-your-own-sso-485g)
-- [This Month in Solid: v2.0.0 Beta - <Suspense> is Over and Start v2 on the horizon 😎](https://dev.to/danieljcafonso/this-month-in-solid-v200-beta-is-over-and-start-v2-on-the-horizon-26jo)
-
-#### Dev.to React
-
-- [I’m building a local AI desktop companion that sees your screen — and you can help shape it](https://dev.to/southy404/im-building-a-local-ai-desktop-companion-that-sees-your-screen-and-you-can-help-shape-it-2ibh)
-- [Micro Frontends: The Ultimate Guide — React, Vite, Next.js, React Native & Module Federation](https://dev.to/ishaaan/micro-frontends-the-ultimate-guide-react-vite-nextjs-react-native-module-federation-26ek)
-- [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-12",
+    "formattedDate": "April 12, 2026",
+    "news": [
+      {
+        "title": "I build a Web Component UI Kit.",
+        "link": "https://dev.to/jeffreykrodgers/i-build-a-web-component-ui-kit-2gi5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I picked a 5ms keyword router over an LLM meta-router for my AI app. Here's the math.",
+        "link": "https://dev.to/samarth0211/i-picked-a-5ms-keyword-router-over-an-llm-meta-router-for-my-ai-app-heres-the-math-23p2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": ".me URI Scheme (v1) - Eng",
+        "link": "https://dev.to/suign/me-uri-scheme-v1-eng-4djp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How We Ran Two Portals on the Same Domain During a React Migration (Without Users Noticing)",
+        "link": "https://dev.to/gustav_lotz_5628d28bc9eac/how-we-ran-two-portals-on-the-same-domain-during-a-react-migration-without-users-noticing-28g0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Modern Restaurant POS with React, SurrealDB, and Docker 🍕",
+        "link": "https://dev.to/ahmedali5530/building-a-modern-restaurant-pos-with-react-surrealdb-and-docker-1hia",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why useEffect Confuses Every C# Developer (And How to Finally Think About It)",
+        "link": "https://dev.to/cstrainer_44b9bd49cccf955/why-useeffect-confuses-every-c-developer-and-how-to-finally-think-about-it-5gh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-11",
     "formattedDate": "April 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Free Hydration Tracker with No Signup: Here’s What I Learned",
         "link": "https://dev.to/johnnylemonny/i-built-a-free-hydration-tracker-with-no-signup-heres-what-i-learned-1aon",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "formattedDate": "April 9, 2026",
-    "news": [
-      {
-        "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
-        "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What nobody tells you about building your own SSO",
-        "link": "https://dev.to/alvarito1983/what-nobody-tells-you-about-building-your-own-sso-485g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "This Month in Solid: v2.0.0 Beta - <Suspense> is Over and Start v2 on the horizon 😎",
-        "link": "https://dev.to/danieljcafonso/this-month-in-solid-v200-beta-is-over-and-start-v2-on-the-horizon-26jo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I’m building a local AI desktop companion that sees your screen — and you can help shape it",
-        "link": "https://dev.to/southy404/im-building-a-local-ai-desktop-companion-that-sees-your-screen-and-you-can-help-shape-it-2ibh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Micro Frontends: The Ultimate Guide — React, Vite, Next.js, React Native & Module Federation",
-        "link": "https://dev.to/ishaaan/micro-frontends-the-ultimate-guide-react-vite-nextjs-react-native-module-federation-26ek",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A Go + React monorepo starter with auth and multi-tenancy",
-        "link": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
         "source": "Dev.to React"
       },
       {
