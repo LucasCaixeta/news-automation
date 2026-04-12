@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It](https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38)
+- [A Searchable HTTP Status Code Reference with 36 Codes, One-Line Descriptions, and Yes, 418](https://dev.to/sendotltd/a-searchable-http-status-code-reference-with-36-codes-one-line-descriptions-and-yes-418-1e0g)
 - [I build a Web Component UI Kit.](https://dev.to/jeffreykrodgers/i-build-a-web-component-ui-kit-2gi5)
-- [I picked a 5ms keyword router over an LLM meta-router for my AI app. Here's the math.](https://dev.to/samarth0211/i-picked-a-5ms-keyword-router-over-an-llm-meta-router-for-my-ai-app-heres-the-math-23p2)
-- [.me URI Scheme (v1) - Eng](https://dev.to/suign/me-uri-scheme-v1-eng-4djp)
 
 #### Dev.to React
 
 - [How We Ran Two Portals on the Same Domain During a React Migration (Without Users Noticing)](https://dev.to/gustav_lotz_5628d28bc9eac/how-we-ran-two-portals-on-the-same-domain-during-a-react-migration-without-users-noticing-28g0)
-- [Building a Modern Restaurant POS with React, SurrealDB, and Docker 🍕](https://dev.to/ahmedali5530/building-a-modern-restaurant-pos-with-react-surrealdb-and-docker-1hia)
-- [Why useEffect Confuses Every C# Developer (And How to Finally Think About It)](https://dev.to/cstrainer_44b9bd49cccf955/why-useeffect-confuses-every-c-developer-and-how-to-finally-think-about-it-5gh)
+- [I Built 2 Chrome Extensions for ADHD Users & Trust — Shipped to the Chrome Web Store](https://dev.to/imatulsrivas/i-built-2-chrome-extensions-for-adhd-users-trust-shipped-to-the-chrome-web-store-522b)
+- [Preact Port: Same React Source Code, Swap the Runtime, Get 8.75 kB Gzip ( 82%) — Series Finale](https://dev.to/sendotltd/preact-port-same-react-source-code-swap-the-runtime-get-875-kb-gzip-82-series-finale-33i)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 12, 2026",
     "news": [
       {
+        "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
+        "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A Searchable HTTP Status Code Reference with 36 Codes, One-Line Descriptions, and Yes, 418",
+        "link": "https://dev.to/sendotltd/a-searchable-http-status-code-reference-with-36-codes-one-line-descriptions-and-yes-418-1e0g",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I build a Web Component UI Kit.",
         "link": "https://dev.to/jeffreykrodgers/i-build-a-web-component-ui-kit-2gi5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I picked a 5ms keyword router over an LLM meta-router for my AI app. Here's the math.",
-        "link": "https://dev.to/samarth0211/i-picked-a-5ms-keyword-router-over-an-llm-meta-router-for-my-ai-app-heres-the-math-23p2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": ".me URI Scheme (v1) - Eng",
-        "link": "https://dev.to/suign/me-uri-scheme-v1-eng-4djp",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Modern Restaurant POS with React, SurrealDB, and Docker 🍕",
-        "link": "https://dev.to/ahmedali5530/building-a-modern-restaurant-pos-with-react-surrealdb-and-docker-1hia",
+        "title": "I Built 2 Chrome Extensions for ADHD Users & Trust — Shipped to the Chrome Web Store",
+        "link": "https://dev.to/imatulsrivas/i-built-2-chrome-extensions-for-adhd-users-trust-shipped-to-the-chrome-web-store-522b",
         "source": "Dev.to React"
       },
       {
-        "title": "Why useEffect Confuses Every C# Developer (And How to Finally Think About It)",
-        "link": "https://dev.to/cstrainer_44b9bd49cccf955/why-useeffect-confuses-every-c-developer-and-how-to-finally-think-about-it-5gh",
+        "title": "Preact Port: Same React Source Code, Swap the Runtime, Get 8.75 kB Gzip ( 82%) — Series Finale",
+        "link": "https://dev.to/sendotltd/preact-port-same-react-source-code-swap-the-runtime-get-875-kb-gzip-82-series-finale-33i",
         "source": "Dev.to React"
       },
       {
