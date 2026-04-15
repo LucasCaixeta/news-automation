@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop)
-- [Confessions of a Dev #1:I Went Blank When Asked "What's an API?"](https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f)
-- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
+- [How to Build Canva-Like Collaboration with Velt AI Plugin & Fabric.js](https://dev.to/astrodevil/how-to-build-canva-like-collaboration-with-velt-ai-plugin-fabricjs-5dm)
+- [I built a browser-based proof-of-presence tool](https://dev.to/bunhead1978_ee831c3ffab2c/i-built-a-browser-based-proof-of-presence-tool-11gj)
 
 #### Dev.to React
 
+- [I Built a Liquid Glass Lens Effect in React Canvas](https://dev.to/ouzhou/i-built-a-liquid-glass-lens-effect-in-react-canvas-1hi0)
 - [Building an In-App E-Signature Flow Without DocuSign (Laravel + React + Canvas)](https://dev.to/devzakir/building-an-in-app-e-signature-flow-without-docusign-laravel-react-canvas-1a0m)
-- [I built 169 free online tools solo from Pakistan — here's my story](https://dev.to/haroon-yousaf/i-built-169-free-online-tools-solo-from-pakistan-heres-my-story-3bjh)
-- [How Claude Code Uses React in the Terminal](https://dev.to/vilvaathibanpb/how-claude-code-uses-react-in-the-terminal-2f3b)
+- [GitHub Copilot Without Rules Does Not Just Produce Bad React Code. It Produces Expensive React Code.](https://dev.to/avery_code/github-copilot-without-rules-does-not-just-produce-bad-react-code-it-produces-expensive-react-code-20kk)
 
 #### React Blog
 
@@ -94,14 +94,19 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
-        "link": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+        "title": "How to Build Canva-Like Collaboration with Velt AI Plugin & Fabric.js",
+        "link": "https://dev.to/astrodevil/how-to-build-canva-like-collaboration-with-velt-ai-plugin-fabricjs-5dm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code",
-        "link": "https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16",
+        "title": "I built a browser-based proof-of-presence tool",
+        "link": "https://dev.to/bunhead1978_ee831c3ffab2c/i-built-a-browser-based-proof-of-presence-tool-11gj",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Liquid Glass Lens Effect in React Canvas",
+        "link": "https://dev.to/ouzhou/i-built-a-liquid-glass-lens-effect-in-react-canvas-1hi0",
+        "source": "Dev.to React"
       },
       {
         "title": "Building an In-App E-Signature Flow Without DocuSign (Laravel + React + Canvas)",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I built 169 free online tools solo from Pakistan — here's my story",
-        "link": "https://dev.to/haroon-yousaf/i-built-169-free-online-tools-solo-from-pakistan-heres-my-story-3bjh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How Claude Code Uses React in the Terminal",
-        "link": "https://dev.to/vilvaathibanpb/how-claude-code-uses-react-in-the-terminal-2f3b",
+        "title": "GitHub Copilot Without Rules Does Not Just Produce Bad React Code. It Produces Expensive React Code.",
+        "link": "https://dev.to/avery_code/github-copilot-without-rules-does-not-just-produce-bad-react-code-it-produces-expensive-react-code-20kk",
         "source": "Dev.to React"
       },
       {
