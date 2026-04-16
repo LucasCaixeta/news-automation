@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
-- [Building Charts with Pure CSS — No SVG, No Canvas, No JS Required](https://dev.to/sheraz046/building-charts-with-pure-css-no-svg-no-canvas-no-js-required-3aa9)
-- [Why Agent Frameworks End Up As SDK Wrappers - And How To Overcome It](https://dev.to/jigjoy/why-agent-frameworks-end-up-as-sdk-wrappers-and-how-to-overcome-it-51j9)
+- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj)
+- [Building a Monte Carlo Stock Simulator on a Restricted School Chromebook](https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4)
 
 #### Dev.to React
 
 - [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
-- [We Almost Shipped a Security Hole. Here's How React Context and .NET 10 Razor Pages Saved Us](https://dev.to/cstrainer_44b9bd49cccf955/we-almost-shipped-a-security-hole-heres-how-react-context-and-net-10-razor-pages-saved-us-4gh5)
-- [How to build a checkout page](https://dev.to/charlielambert/how-to-build-an-easy-checkout-page-4bi9)
+- [Modern Next.js Essentials: Building Scalable Full-Stack Applications](https://dev.to/preyumkr/modern-nextjs-essentials-building-scalable-full-stack-applications-2l0f)
+- [How I Ranked #1 in Uganda by Shipping SEO Nobody Else Ships](https://dev.to/__2ea5fee000c/how-i-ranked-1-in-uganda-by-shipping-seo-nobody-else-ships-54ja)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building Charts with Pure CSS — No SVG, No Canvas, No JS Required",
-        "link": "https://dev.to/sheraz046/building-charts-with-pure-css-no-svg-no-canvas-no-js-required-3aa9",
+        "title": "Beyond Marker Clustering",
+        "link": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Agent Frameworks End Up As SDK Wrappers - And How To Overcome It",
-        "link": "https://dev.to/jigjoy/why-agent-frameworks-end-up-as-sdk-wrappers-and-how-to-overcome-it-51j9",
+        "title": "Building a Monte Carlo Stock Simulator on a Restricted School Chromebook",
+        "link": "https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "We Almost Shipped a Security Hole. Here's How React Context and .NET 10 Razor Pages Saved Us",
-        "link": "https://dev.to/cstrainer_44b9bd49cccf955/we-almost-shipped-a-security-hole-heres-how-react-context-and-net-10-razor-pages-saved-us-4gh5",
+        "title": "Modern Next.js Essentials: Building Scalable Full-Stack Applications",
+        "link": "https://dev.to/preyumkr/modern-nextjs-essentials-building-scalable-full-stack-applications-2l0f",
         "source": "Dev.to React"
       },
       {
-        "title": "How to build a checkout page",
-        "link": "https://dev.to/charlielambert/how-to-build-an-easy-checkout-page-4bi9",
+        "title": "How I Ranked #1 in Uganda by Shipping SEO Nobody Else Ships",
+        "link": "https://dev.to/__2ea5fee000c/how-i-ranked-1-in-uganda-by-shipping-seo-nobody-else-ships-54ja",
         "source": "Dev.to React"
       },
       {
