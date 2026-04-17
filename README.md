@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
+- [Why today’s online HTML, CSS and JavaScript editors still fall short for real AI workflows](https://dev.to/jonathanapplebaum/why-todays-online-html-css-and-javascript-editors-still-fall-short-for-real-ai-workflows-3h3o)
 - [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj)
-- [Building a Monte Carlo Stock Simulator on a Restricted School Chromebook](https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4)
 
 #### Dev.to React
 
 - [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
 - [I built a CLI that scaffolds complete multi-tenant SaaS apps](https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl)
-- [I got tired of every "draggable" library being 30KB and opinionated about my CSS - so I built react-driftkit](https://dev.to/shakcho/i-got-tired-of-every-draggable-library-being-30kb-and-opinionated-about-my-css-so-i-built-2k9i)
+- [Reviving the Thar: Building a Desert Greening Tracker for Rajasthan 🌵🌳](https://dev.to/17j/reviving-the-thar-building-a-desert-greening-tracker-for-rajasthan-1jdc)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Beyond Marker Clustering",
-        "link": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
+        "title": "Why today’s online HTML, CSS and JavaScript editors still fall short for real AI workflows",
+        "link": "https://dev.to/jonathanapplebaum/why-todays-online-html-css-and-javascript-editors-still-fall-short-for-real-ai-workflows-3h3o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Monte Carlo Stock Simulator on a Restricted School Chromebook",
-        "link": "https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4",
+        "title": "Beyond Marker Clustering",
+        "link": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
         "source": "Dev.to JavaScript"
       },
       {
@@ -114,8 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I got tired of every \"draggable\" library being 30KB and opinionated about my CSS - so I built react-driftkit",
-        "link": "https://dev.to/shakcho/i-got-tired-of-every-draggable-library-being-30kb-and-opinionated-about-my-css-so-i-built-2k9i",
+        "title": "Reviving the Thar: Building a Desert Greening Tracker for Rajasthan 🌵🌳",
+        "link": "https://dev.to/17j/reviving-the-thar-building-a-desert-greening-tracker-for-rajasthan-1jdc",
         "source": "Dev.to React"
       },
       {
