@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 16, 2026)
+### Today's Updates (April 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
+- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj)
+- [Building a Monte Carlo Stock Simulator on a Restricted School Chromebook](https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4)
+
+#### Dev.to React
+
+- [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
+- [I built a CLI that scaffolds complete multi-tenant SaaS apps](https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl)
+- [I got tired of every "draggable" library being 30KB and opinionated about my CSS - so I built react-driftkit](https://dev.to/shakcho/i-got-tired-of-every-draggable-library-being-30kb-and-opinionated-about-my-css-so-i-built-2k9i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 15, 2026)
+### 2 Days Ago (April 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Liquid Glass Lens Effect in React Canvas](https://dev.to/ouzhou/i-built-a-liquid-glass-lens-effect-in-react-canvas-1hi0)
 - [Building an In-App E-Signature Flow Without DocuSign (Laravel + React + Canvas)](https://dev.to/devzakir/building-an-in-app-e-signature-flow-without-docusign-laravel-react-canvas-1a0m)
 - [GitHub Copilot Without Rules Does Not Just Produce Bad React Code. It Produces Expensive React Code.](https://dev.to/avery_code/github-copilot-without-rules-does-not-just-produce-bad-react-code-it-produces-expensive-react-code-20kk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 14, 2026)
-
-#### Dev.to JavaScript
-
-- [I built a browser-based coding education platform as a CS student, here's how](https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9)
-- [How to Create Multi-Page TIFF Files in Node.js (Without ImageMagick)](https://dev.to/yatindavra23/how-to-create-multi-page-tiff-files-in-nodejs-without-imagemagick-im0)
-- [Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It](https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38)
-
-#### Dev.to React
-
-- [To Share or Not to Share: Taking Your Vega App Multi-Platform](https://dev.to/amazonappdev/to-share-or-not-to-share-taking-your-vega-app-multi-platform-mb5)
-- [I built an open-source WMS because every warehouse management system costs $2,000/month](https://dev.to/mhightower932/i-built-an-open-source-wms-because-every-warehouse-management-system-costs-2000month-5nc)
-- [How to Optimise a Next.js Web App](https://dev.to/aayushbharti/how-to-optimise-a-nextjs-web-app-47n1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-17",
+    "formattedDate": "April 17, 2026",
+    "news": [
+      {
+        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
+        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond Marker Clustering",
+        "link": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Monte Carlo Stock Simulator on a Restricted School Chromebook",
+        "link": "https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
+        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a CLI that scaffolds complete multi-tenant SaaS apps",
+        "link": "https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I got tired of every \"draggable\" library being 30KB and opinionated about my CSS - so I built react-driftkit",
+        "link": "https://dev.to/shakcho/i-got-tired-of-every-draggable-library-being-30kb-and-opinionated-about-my-css-so-i-built-2k9i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-16",
     "formattedDate": "April 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "GitHub Copilot Without Rules Does Not Just Produce Bad React Code. It Produces Expensive React Code.",
         "link": "https://dev.to/avery_code/github-copilot-without-rules-does-not-just-produce-bad-react-code-it-produces-expensive-react-code-20kk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "formattedDate": "April 14, 2026",
-    "news": [
-      {
-        "title": "I built a browser-based coding education platform as a CS student, here's how",
-        "link": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Create Multi-Page TIFF Files in Node.js (Without ImageMagick)",
-        "link": "https://dev.to/yatindavra23/how-to-create-multi-page-tiff-files-in-nodejs-without-imagemagick-im0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-        "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "To Share or Not to Share: Taking Your Vega App Multi-Platform",
-        "link": "https://dev.to/amazonappdev/to-share-or-not-to-share-taking-your-vega-app-multi-platform-mb5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built an open-source WMS because every warehouse management system costs $2,000/month",
-        "link": "https://dev.to/mhightower932/i-built-an-open-source-wms-because-every-warehouse-management-system-costs-2000month-5nc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Optimise a Next.js Web App",
-        "link": "https://dev.to/aayushbharti/how-to-optimise-a-nextjs-web-app-47n1",
         "source": "Dev.to React"
       },
       {
