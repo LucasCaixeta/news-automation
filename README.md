@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
-- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
-- [I built a small P2P lib over UDP and it actually works](https://dev.to/spiral2000999/i-built-a-small-p2p-lib-over-udp-and-it-actually-works-1e1i)
+- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)
+- [I built a privacy-first developer toolkit (runs 100% in your browser)](https://dev.to/adarsh_giri_e3911e50aeb15/i-built-a-privacy-first-developer-toolkit-runs-100-in-your-browser-41pe)
+- [Arrays in Javascript](https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp)
 
 #### Dev.to React
 
+- [Headless CMS for TanStack Start: Build a Blog with Cosmic](https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f)
+- [I've been building an animation library for years — here's SmoothUI](https://dev.to/educalvolpz/ive-been-building-an-animation-library-for-years-heres-smoothui-2mi2)
 - [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
-- [I built a CLI that scaffolds complete multi-tenant SaaS apps](https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl)
-- [Building an Unshielded Token dApp with UI on Midnight](https://dev.to/mmoo9/building-an-unshielded-token-dapp-with-ui-on-midnight-4ae2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 18, 2026",
     "news": [
       {
-        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
-        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
+        "title": "Introducing @accesslint/jest: progressive accessibility testing for Jest",
+        "link": "https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
-        "link": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
+        "title": "I built a privacy-first developer toolkit (runs 100% in your browser)",
+        "link": "https://dev.to/adarsh_giri_e3911e50aeb15/i-built-a-privacy-first-developer-toolkit-runs-100-in-your-browser-41pe",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a small P2P lib over UDP and it actually works",
-        "link": "https://dev.to/spiral2000999/i-built-a-small-p2p-lib-over-udp-and-it-actually-works-1e1i",
+        "title": "Arrays in Javascript",
+        "link": "https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
-        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
+        "title": "Headless CMS for TanStack Start: Build a Blog with Cosmic",
+        "link": "https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a CLI that scaffolds complete multi-tenant SaaS apps",
-        "link": "https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl",
+        "title": "I've been building an animation library for years — here's SmoothUI",
+        "link": "https://dev.to/educalvolpz/ive-been-building-an-animation-library-for-years-heres-smoothui-2mi2",
         "source": "Dev.to React"
       },
       {
-        "title": "Building an Unshielded Token dApp with UI on Midnight",
-        "link": "https://dev.to/mmoo9/building-an-unshielded-token-dapp-with-ui-on-midnight-4ae2",
+        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
+        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
         "source": "Dev.to React"
       },
       {
