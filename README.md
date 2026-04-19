@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 18, 2026)
+### Today's Updates (April 19, 2026)
+
+#### Dev.to JavaScript
+
+- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
+- [How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App](https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk)
+- [Clinic-CoPilot](https://dev.to/dhoni_yedhuru/clinic-copilot-58g5)
+
+#### Dev.to React
+
+- [Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance](https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio)
+- [What if Your Commute Had a Co-Rider? Building CommuteShare for Earth Day](https://dev.to/mfdilawar/what-if-your-commute-had-a-co-rider-building-commuteshare-for-earth-day-40pd)
+- [Headless CMS for TanStack Start: Build a Blog with Cosmic](https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 17, 2026)
+### 2 Days Ago (April 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
 - [I built a CLI that scaffolds complete multi-tenant SaaS apps](https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl)
 - [Reviving the Thar: Building a Desert Greening Tracker for Rajasthan 🌵🌳](https://dev.to/17j/reviving-the-thar-building-a-desert-greening-tracker-for-rajasthan-1jdc)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 16, 2026)
-
-#### Dev.to JavaScript
-
-- [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
-- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj)
-- [Building a Monte Carlo Stock Simulator on a Restricted School Chromebook](https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4)
-
-#### Dev.to React
-
-- [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
-- [Modern Next.js Essentials: Building Scalable Full-Stack Applications](https://dev.to/preyumkr/modern-nextjs-essentials-building-scalable-full-stack-applications-2l0f)
-- [How I Ranked #1 in Uganda by Shipping SEO Nobody Else Ships](https://dev.to/__2ea5fee000c/how-i-ranked-1-in-uganda-by-shipping-seo-nobody-else-ships-54ja)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-19",
+    "formattedDate": "April 19, 2026",
+    "news": [
+      {
+        "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
+        "link": "https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App",
+        "link": "https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Clinic-CoPilot",
+        "link": "https://dev.to/dhoni_yedhuru/clinic-copilot-58g5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance",
+        "link": "https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What if Your Commute Had a Co-Rider? Building CommuteShare for Earth Day",
+        "link": "https://dev.to/mfdilawar/what-if-your-commute-had-a-co-rider-building-commuteshare-for-earth-day-40pd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Headless CMS for TanStack Start: Build a Blog with Cosmic",
+        "link": "https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-18",
     "formattedDate": "April 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Reviving the Thar: Building a Desert Greening Tracker for Rajasthan 🌵🌳",
         "link": "https://dev.to/17j/reviving-the-thar-building-a-desert-greening-tracker-for-rajasthan-1jdc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-16",
-    "formattedDate": "April 16, 2026",
-    "news": [
-      {
-        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
-        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beyond Marker Clustering",
-        "link": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Monte Carlo Stock Simulator on a Restricted School Chromebook",
-        "link": "https://dev.to/22243dsw/building-a-monte-carlo-stocksimulator-on-a-restricted-schoolchromebook-3om4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
-        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Modern Next.js Essentials: Building Scalable Full-Stack Applications",
-        "link": "https://dev.to/preyumkr/modern-nextjs-essentials-building-scalable-full-stack-applications-2l0f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Ranked #1 in Uganda by Shipping SEO Nobody Else Ships",
-        "link": "https://dev.to/__2ea5fee000c/how-i-ranked-1-in-uganda-by-shipping-seo-nobody-else-ships-54ja",
         "source": "Dev.to React"
       },
       {
