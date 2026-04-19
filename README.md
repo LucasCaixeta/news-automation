@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
-- [How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App](https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk)
+- [I Built a Free Screen Resolution Checker — Here's What I Learned](https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736)
 - [Clinic-CoPilot](https://dev.to/dhoni_yedhuru/clinic-copilot-58g5)
 
 #### Dev.to React
 
-- [Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance](https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio)
-- [What if Your Commute Had a Co-Rider? Building CommuteShare for Earth Day](https://dev.to/mfdilawar/what-if-your-commute-had-a-co-rider-building-commuteshare-for-earth-day-40pd)
-- [Headless CMS for TanStack Start: Build a Blog with Cosmic](https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f)
+- [Combatting Canadian ISP Latency: Building a Zero-Buffering Video Player in React](https://dev.to/michael_dl/combatting-canadian-isp-latency-building-a-zero-buffering-video-player-in-react-54o5)
+- [I shipped my developer portfolio on GitHub Pages with Next.js static export](https://dev.to/mehtab_riaz_bdb7e6c61115f/i-shipped-my-developer-portfolio-on-github-pages-with-nextjs-static-export-1e74)
+- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
 
 #### React Blog
 
@@ -94,8 +94,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App",
-        "link": "https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk",
+        "title": "I Built a Free Screen Resolution Checker — Here's What I Learned",
+        "link": "https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance",
-        "link": "https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio",
+        "title": "Combatting Canadian ISP Latency: Building a Zero-Buffering Video Player in React",
+        "link": "https://dev.to/michael_dl/combatting-canadian-isp-latency-building-a-zero-buffering-video-player-in-react-54o5",
         "source": "Dev.to React"
       },
       {
-        "title": "What if Your Commute Had a Co-Rider? Building CommuteShare for Earth Day",
-        "link": "https://dev.to/mfdilawar/what-if-your-commute-had-a-co-rider-building-commuteshare-for-earth-day-40pd",
+        "title": "I shipped my developer portfolio on GitHub Pages with Next.js static export",
+        "link": "https://dev.to/mehtab_riaz_bdb7e6c61115f/i-shipped-my-developer-portfolio-on-github-pages-with-nextjs-static-export-1e74",
         "source": "Dev.to React"
       },
       {
-        "title": "Headless CMS for TanStack Start: Build a Blog with Cosmic",
-        "link": "https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f",
+        "title": "Authentication on the Frontend - More Than Just Tokens",
+        "link": "https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7",
         "source": "Dev.to React"
       },
       {
