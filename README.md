@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
+- [🧠 Dev.to Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List](https://dev.to/usman_awan/devto-un-stuck-the-chrome-extension-that-finally-fixes-your-reading-list-43ia)
 - [The bellows move, but the CPU stays quiet — what’s powering this browser based harmonium?](https://dev.to/zwin/the-bellows-move-but-the-cpu-stays-quiet-whats-powering-this-browser-based-harmonium-l14)
-- [I Built a Free Screen Resolution Checker — Here's What I Learned](https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736)
-- [Clinic-CoPilot](https://dev.to/dhoni_yedhuru/clinic-copilot-58g5)
 
 #### Dev.to React
 
+- [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
 - [Next.js 16 Complete Beginner's Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2)
-- [How to Optimize React & Next.js Apps for SEO and Rank Faster](https://dev.to/alamin60/how-to-optimize-react-nextjs-apps-for-seo-and-rank-faster-lco)
-- [Multi-Modal Prompting: Working with Images, Code, and Text in GPT-4 and Claude](https://dev.to/lukefryer4/multi-modal-prompting-working-with-images-code-and-text-in-gpt-4-and-claude-333f)
+- [Setting Up a Next.js Micro Frontend Host App: Complete Guide](https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 20, 2026",
     "news": [
       {
+        "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
+        "link": "https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧠 Dev.to Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List",
+        "link": "https://dev.to/usman_awan/devto-un-stuck-the-chrome-extension-that-finally-fixes-your-reading-list-43ia",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "The bellows move, but the CPU stays quiet — what’s powering this browser based harmonium?",
         "link": "https://dev.to/zwin/the-bellows-move-but-the-cpu-stays-quiet-whats-powering-this-browser-based-harmonium-l14",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Free Screen Resolution Checker — Here's What I Learned",
-        "link": "https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Clinic-CoPilot",
-        "link": "https://dev.to/dhoni_yedhuru/clinic-copilot-58g5",
-        "source": "Dev.to JavaScript"
+        "title": "I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You",
+        "link": "https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16",
+        "source": "Dev.to React"
       },
       {
         "title": "Next.js 16 Complete Beginner's Guide",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How to Optimize React & Next.js Apps for SEO and Rank Faster",
-        "link": "https://dev.to/alamin60/how-to-optimize-react-nextjs-apps-for-seo-and-rank-faster-lco",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Multi-Modal Prompting: Working with Images, Code, and Text in GPT-4 and Claude",
-        "link": "https://dev.to/lukefryer4/multi-modal-prompting-working-with-images-code-and-text-in-gpt-4-and-claude-333f",
+        "title": "Setting Up a Next.js Micro Frontend Host App: Complete Guide",
+        "link": "https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg",
         "source": "Dev.to React"
       },
       {
