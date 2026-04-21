@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I got tired of messy TypeScript migrations in Node.js, so I built fast-ts-integrator](https://dev.to/ussfslk/i-got-tired-of-messy-typescript-migrations-in-nodejs-so-i-built-fast-ts-integrator-1nhb)
-- [I built a film camera simulator in a single HTML file here's how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b)
+- [🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)](https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7)
 - [I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.](https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i)
+- [I built a film camera simulator in a single HTML file here's how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b)
 
 #### Dev.to React
 
-- [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
-- [ReactJs Performance ~ Virtualization for Large Lists~](https://dev.to/kkr0423/reactjs-performance-virtualization-for-large-lists-1g53)
-- [React Server Components Completely Changed How We Build Dashboards—Here’s What Surprised Me](https://dev.to/pyhelp__5e8fe4425516/react-server-components-completely-changed-how-we-build-dashboards-heres-what-surprised-me-397i)
+- [29 React Codebase Red Flags from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/29-react-codebase-red-flags-from-a-senior-frontend-developer-5013)
+- [I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.](https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i)
+- [I got tired of Pomodoro lying to me, so I built a dual-budget desktop timer](https://dev.to/ursa321/i-got-tired-of-pomodoro-lying-to-me-so-i-built-a-dual-budget-desktop-timer-5aol)
 
 #### React Blog
 
@@ -89,13 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 21, 2026",
     "news": [
       {
-        "title": "I got tired of messy TypeScript migrations in Node.js, so I built fast-ts-integrator",
-        "link": "https://dev.to/ussfslk/i-got-tired-of-messy-typescript-migrations-in-nodejs-so-i-built-fast-ts-integrator-1nhb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a film camera simulator in a single HTML file here's how",
-        "link": "https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b",
+        "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
+        "link": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You",
-        "link": "https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16",
+        "title": "I built a film camera simulator in a single HTML file here's how",
+        "link": "https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "29 React Codebase Red Flags from a Senior Frontend Developer",
+        "link": "https://dev.to/_ndeyefatoudiop/29-react-codebase-red-flags-from-a-senior-frontend-developer-5013",
         "source": "Dev.to React"
       },
       {
-        "title": "ReactJs Performance ~ Virtualization for Large Lists~",
-        "link": "https://dev.to/kkr0423/reactjs-performance-virtualization-for-large-lists-1g53",
+        "title": "I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.",
+        "link": "https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i",
         "source": "Dev.to React"
       },
       {
-        "title": "React Server Components Completely Changed How We Build Dashboards—Here’s What Surprised Me",
-        "link": "https://dev.to/pyhelp__5e8fe4425516/react-server-components-completely-changed-how-we-build-dashboards-heres-what-surprised-me-397i",
+        "title": "I got tired of Pomodoro lying to me, so I built a dual-budget desktop timer",
+        "link": "https://dev.to/ursa321/i-got-tired-of-pomodoro-lying-to-me-so-i-built-a-dual-budget-desktop-timer-5aol",
         "source": "Dev.to React"
       },
       {
