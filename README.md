@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 20, 2026)
+### Today's Updates (April 21, 2026)
+
+#### Dev.to JavaScript
+
+- [I got tired of messy TypeScript migrations in Node.js, so I built fast-ts-integrator](https://dev.to/ussfslk/i-got-tired-of-messy-typescript-migrations-in-nodejs-so-i-built-fast-ts-integrator-1nhb)
+- [I built a film camera simulator in a single HTML file here's how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b)
+- [I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.](https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i)
+
+#### Dev.to React
+
+- [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
+- [ReactJs Performance ~ Virtualization for Large Lists~](https://dev.to/kkr0423/reactjs-performance-virtualization-for-large-lists-1g53)
+- [React Server Components Completely Changed How We Build Dashboards—Here’s What Surprised Me](https://dev.to/pyhelp__5e8fe4425516/react-server-components-completely-changed-how-we-build-dashboards-heres-what-surprised-me-397i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 19, 2026)
+### 2 Days Ago (April 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Combatting Canadian ISP Latency: Building a Zero-Buffering Video Player in React](https://dev.to/michael_dl/combatting-canadian-isp-latency-building-a-zero-buffering-video-player-in-react-54o5)
 - [I shipped my developer portfolio on GitHub Pages with Next.js static export](https://dev.to/mehtab_riaz_bdb7e6c61115f/i-shipped-my-developer-portfolio-on-github-pages-with-nextjs-static-export-1e74)
 - [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 18, 2026)
-
-#### Dev.to JavaScript
-
-- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)
-- [I built a privacy-first developer toolkit (runs 100% in your browser)](https://dev.to/adarsh_giri_e3911e50aeb15/i-built-a-privacy-first-developer-toolkit-runs-100-in-your-browser-41pe)
-- [Arrays in Javascript](https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp)
-
-#### Dev.to React
-
-- [Headless CMS for TanStack Start: Build a Blog with Cosmic](https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f)
-- [I've been building an animation library for years — here's SmoothUI](https://dev.to/educalvolpz/ive-been-building-an-animation-library-for-years-heres-smoothui-2mi2)
-- [Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)](https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-21",
+    "formattedDate": "April 21, 2026",
+    "news": [
+      {
+        "title": "I got tired of messy TypeScript migrations in Node.js, so I built fast-ts-integrator",
+        "link": "https://dev.to/ussfslk/i-got-tired-of-messy-typescript-migrations-in-nodejs-so-i-built-fast-ts-integrator-1nhb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a film camera simulator in a single HTML file here's how",
+        "link": "https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.",
+        "link": "https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You",
+        "link": "https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ReactJs Performance ~ Virtualization for Large Lists~",
+        "link": "https://dev.to/kkr0423/reactjs-performance-virtualization-for-large-lists-1g53",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Server Components Completely Changed How We Build Dashboards—Here’s What Surprised Me",
+        "link": "https://dev.to/pyhelp__5e8fe4425516/react-server-components-completely-changed-how-we-build-dashboards-heres-what-surprised-me-397i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-20",
     "formattedDate": "April 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Authentication on the Frontend - More Than Just Tokens",
         "link": "https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-18",
-    "formattedDate": "April 18, 2026",
-    "news": [
-      {
-        "title": "Introducing @accesslint/jest: progressive accessibility testing for Jest",
-        "link": "https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a privacy-first developer toolkit (runs 100% in your browser)",
-        "link": "https://dev.to/adarsh_giri_e3911e50aeb15/i-built-a-privacy-first-developer-toolkit-runs-100-in-your-browser-41pe",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Arrays in Javascript",
-        "link": "https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Headless CMS for TanStack Start: Build a Blog with Cosmic",
-        "link": "https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I've been building an animation library for years — here's SmoothUI",
-        "link": "https://dev.to/educalvolpz/ive-been-building-an-animation-library-for-years-heres-smoothui-2mi2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
-        "link": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
         "source": "Dev.to React"
       },
       {
