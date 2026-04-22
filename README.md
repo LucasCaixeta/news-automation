@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I lost a few thousand to an impersonation scam. So I built the tool I wished existed.](https://dev.to/talhamahmood666/i-lost-a-few-thousand-to-an-impersonation-scam-so-i-built-the-tool-i-wished-existed-f96)
-- [How to Test Stripe Webhooks Locally (Stripe CLI + Replay + Logs)](https://dev.to/itsmarydan/how-to-test-stripe-webhooks-locally-stripe-cli-replay-logs-7of)
-- [I Built a Carbon Footprint Calculator That Generates Unique SVG Fingerprints — Here’s How (Earth Day 2026 🌍)](https://dev.to/mamoor_ahmad/i-built-a-carbon-footprint-calculator-that-generates-unique-svg-fingerprints-heres-how-earth-1ci)
+- [🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)](https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7)
+- [Where to Start with React Performance](https://dev.to/nosyos/where-to-start-with-react-performance-1g83)
+- [How To Auto-Detect QR Codes, Signatures, and License Plates In The Browser](https://dev.to/byeval/how-to-auto-detect-qr-codes-signatures-and-license-plates-in-the-browser-2e58)
 
 #### Dev.to React
 
-- [Zustand: React State Management Without Providers or Reducers](https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek)
-- [React DOM Internals](https://dev.to/vishalxapp/react-dom-internals-2mnn)
-- [Why I Stopped Using useEffect (And You Should Too) 🚫⚛️](https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86)
+- [Our release tool crashed on a large PR. Here's the React diff library I ended up writing.](https://dev.to/jiahangzhang/our-release-tool-crashed-on-a-large-pr-heres-the-react-diff-library-i-ended-up-writing-6i5)
+- [Top 4 React Native Image Caching Libraries in 2026](https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1)
+- [How I Built a Zero-Latency Browser IDE (Without a Backend)](https://dev.to/nitroide_bd133284181ff579/how-i-built-a-zero-latency-browser-ide-without-a-backend-3hb0)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 22, 2026",
     "news": [
       {
-        "title": "I lost a few thousand to an impersonation scam. So I built the tool I wished existed.",
-        "link": "https://dev.to/talhamahmood666/i-lost-a-few-thousand-to-an-impersonation-scam-so-i-built-the-tool-i-wished-existed-f96",
+        "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
+        "link": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Test Stripe Webhooks Locally (Stripe CLI + Replay + Logs)",
-        "link": "https://dev.to/itsmarydan/how-to-test-stripe-webhooks-locally-stripe-cli-replay-logs-7of",
+        "title": "Where to Start with React Performance",
+        "link": "https://dev.to/nosyos/where-to-start-with-react-performance-1g83",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Carbon Footprint Calculator That Generates Unique SVG Fingerprints — Here’s How (Earth Day 2026 🌍)",
-        "link": "https://dev.to/mamoor_ahmad/i-built-a-carbon-footprint-calculator-that-generates-unique-svg-fingerprints-heres-how-earth-1ci",
+        "title": "How To Auto-Detect QR Codes, Signatures, and License Plates In The Browser",
+        "link": "https://dev.to/byeval/how-to-auto-detect-qr-codes-signatures-and-license-plates-in-the-browser-2e58",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Zustand: React State Management Without Providers or Reducers",
-        "link": "https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek",
+        "title": "Our release tool crashed on a large PR. Here's the React diff library I ended up writing.",
+        "link": "https://dev.to/jiahangzhang/our-release-tool-crashed-on-a-large-pr-heres-the-react-diff-library-i-ended-up-writing-6i5",
         "source": "Dev.to React"
       },
       {
-        "title": "React DOM Internals",
-        "link": "https://dev.to/vishalxapp/react-dom-internals-2mnn",
+        "title": "Top 4 React Native Image Caching Libraries in 2026",
+        "link": "https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1",
         "source": "Dev.to React"
       },
       {
-        "title": "Why I Stopped Using useEffect (And You Should Too) 🚫⚛️",
-        "link": "https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86",
+        "title": "How I Built a Zero-Latency Browser IDE (Without a Backend)",
+        "link": "https://dev.to/nitroide_bd133284181ff579/how-i-built-a-zero-latency-browser-ide-without-a-backend-3hb0",
         "source": "Dev.to React"
       },
       {
