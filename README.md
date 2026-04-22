@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 21, 2026)
+### Today's Updates (April 22, 2026)
+
+#### Dev.to JavaScript
+
+- [I lost a few thousand to an impersonation scam. So I built the tool I wished existed.](https://dev.to/talhamahmood666/i-lost-a-few-thousand-to-an-impersonation-scam-so-i-built-the-tool-i-wished-existed-f96)
+- [How to Test Stripe Webhooks Locally (Stripe CLI + Replay + Logs)](https://dev.to/itsmarydan/how-to-test-stripe-webhooks-locally-stripe-cli-replay-logs-7of)
+- [I Built a Carbon Footprint Calculator That Generates Unique SVG Fingerprints — Here’s How (Earth Day 2026 🌍)](https://dev.to/mamoor_ahmad/i-built-a-carbon-footprint-calculator-that-generates-unique-svg-fingerprints-heres-how-earth-1ci)
+
+#### Dev.to React
+
+- [Zustand: React State Management Without Providers or Reducers](https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek)
+- [React DOM Internals](https://dev.to/vishalxapp/react-dom-internals-2mnn)
+- [Why I Stopped Using useEffect (And You Should Too) 🚫⚛️](https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 20, 2026)
+### 2 Days Ago (April 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
 - [Next.js 16 Complete Beginner's Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2)
 - [Setting Up a Next.js Micro Frontend Host App: Complete Guide](https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 19, 2026)
-
-#### Dev.to JavaScript
-
-- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
-- [I Built a Free Screen Resolution Checker — Here's What I Learned](https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736)
-- [Clinic-CoPilot](https://dev.to/dhoni_yedhuru/clinic-copilot-58g5)
-
-#### Dev.to React
-
-- [Combatting Canadian ISP Latency: Building a Zero-Buffering Video Player in React](https://dev.to/michael_dl/combatting-canadian-isp-latency-building-a-zero-buffering-video-player-in-react-54o5)
-- [I shipped my developer portfolio on GitHub Pages with Next.js static export](https://dev.to/mehtab_riaz_bdb7e6c61115f/i-shipped-my-developer-portfolio-on-github-pages-with-nextjs-static-export-1e74)
-- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-22",
+    "formattedDate": "April 22, 2026",
+    "news": [
+      {
+        "title": "I lost a few thousand to an impersonation scam. So I built the tool I wished existed.",
+        "link": "https://dev.to/talhamahmood666/i-lost-a-few-thousand-to-an-impersonation-scam-so-i-built-the-tool-i-wished-existed-f96",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Test Stripe Webhooks Locally (Stripe CLI + Replay + Logs)",
+        "link": "https://dev.to/itsmarydan/how-to-test-stripe-webhooks-locally-stripe-cli-replay-logs-7of",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Carbon Footprint Calculator That Generates Unique SVG Fingerprints — Here’s How (Earth Day 2026 🌍)",
+        "link": "https://dev.to/mamoor_ahmad/i-built-a-carbon-footprint-calculator-that-generates-unique-svg-fingerprints-heres-how-earth-1ci",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Zustand: React State Management Without Providers or Reducers",
+        "link": "https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React DOM Internals",
+        "link": "https://dev.to/vishalxapp/react-dom-internals-2mnn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Stopped Using useEffect (And You Should Too) 🚫⚛️",
+        "link": "https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-21",
     "formattedDate": "April 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Setting Up a Next.js Micro Frontend Host App: Complete Guide",
         "link": "https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-19",
-    "formattedDate": "April 19, 2026",
-    "news": [
-      {
-        "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
-        "link": "https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Free Screen Resolution Checker — Here's What I Learned",
-        "link": "https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Clinic-CoPilot",
-        "link": "https://dev.to/dhoni_yedhuru/clinic-copilot-58g5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Combatting Canadian ISP Latency: Building a Zero-Buffering Video Player in React",
-        "link": "https://dev.to/michael_dl/combatting-canadian-isp-latency-building-a-zero-buffering-video-player-in-react-54o5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I shipped my developer portfolio on GitHub Pages with Next.js static export",
-        "link": "https://dev.to/mehtab_riaz_bdb7e6c61115f/i-shipped-my-developer-portfolio-on-github-pages-with-nextjs-static-export-1e74",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Authentication on the Frontend - More Than Just Tokens",
-        "link": "https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7",
         "source": "Dev.to React"
       },
       {
