@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 22, 2026)
+### Today's Updates (April 23, 2026)
+
+#### Dev.to JavaScript
+
+- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n)
+- ["I Stopped Building a Coding Agent and Built a Supervisor for Codex and Claude Code Instead"](https://dev.to/codekingai/i-stopped-building-a-coding-agent-and-built-a-supervisor-for-codex-and-claude-code-instead-2d06)
+- [Proofdesk — The IDE for Open-Source Math Textbook Publishing](https://dev.to/harsha_rajkumar_60fb1245/proofdesk-the-ide-for-open-source-math-textbook-publishing-lbn)
+
+#### Dev.to React
+
+- [I shipped a 147,000-word interactive book as a free SPA — here's the stack](https://dev.to/kenji_sakuramoto_d72920b2/i-shipped-a-147000-word-interactive-book-as-a-free-spa-heres-the-stack-55i0)
+- [ReactJs Performance ~ Optimizing Images and Assets~](https://dev.to/kkr0423/reactjs-performance-optimizing-images-and-assets-4koc)
+- [🚀 React-Form-Toaster 1.1.3 is here. Build powerful forms in React/Next.js with ease, flexibility, and clean UX baked right in.](https://dev.to/pawan_bisht_3aa0838e302b2/react-form-toaster-113-is-here-build-powerful-forms-in-reactnextjs-with-ease-flexibility-3f12)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 21, 2026)
+### 2 Days Ago (April 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [29 React Codebase Red Flags from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/29-react-codebase-red-flags-from-a-senior-frontend-developer-5013)
 - [I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.](https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i)
 - [I got tired of Pomodoro lying to me, so I built a dual-budget desktop timer](https://dev.to/ursa321/i-got-tired-of-pomodoro-lying-to-me-so-i-built-a-dual-budget-desktop-timer-5aol)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 20, 2026)
-
-#### Dev.to JavaScript
-
-- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
-- [🧠 Dev.to Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List](https://dev.to/usman_awan/devto-un-stuck-the-chrome-extension-that-finally-fixes-your-reading-list-43ia)
-- [The bellows move, but the CPU stays quiet — what’s powering this browser based harmonium?](https://dev.to/zwin/the-bellows-move-but-the-cpu-stays-quiet-whats-powering-this-browser-based-harmonium-l14)
-
-#### Dev.to React
-
-- [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
-- [Next.js 16 Complete Beginner's Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2)
-- [Setting Up a Next.js Micro Frontend Host App: Complete Guide](https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-23",
+    "formattedDate": "April 23, 2026",
+    "news": [
+      {
+        "title": "I Stopped Installing Qiskit to Understand Hadamard Gates",
+        "link": "https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"I Stopped Building a Coding Agent and Built a Supervisor for Codex and Claude Code Instead\"",
+        "link": "https://dev.to/codekingai/i-stopped-building-a-coding-agent-and-built-a-supervisor-for-codex-and-claude-code-instead-2d06",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Proofdesk — The IDE for Open-Source Math Textbook Publishing",
+        "link": "https://dev.to/harsha_rajkumar_60fb1245/proofdesk-the-ide-for-open-source-math-textbook-publishing-lbn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I shipped a 147,000-word interactive book as a free SPA — here's the stack",
+        "link": "https://dev.to/kenji_sakuramoto_d72920b2/i-shipped-a-147000-word-interactive-book-as-a-free-spa-heres-the-stack-55i0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ReactJs Performance ~ Optimizing Images and Assets~",
+        "link": "https://dev.to/kkr0423/reactjs-performance-optimizing-images-and-assets-4koc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 React-Form-Toaster 1.1.3 is here. Build powerful forms in React/Next.js with ease, flexibility, and clean UX baked right in.",
+        "link": "https://dev.to/pawan_bisht_3aa0838e302b2/react-form-toaster-113-is-here-build-powerful-forms-in-reactnextjs-with-ease-flexibility-3f12",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-22",
     "formattedDate": "April 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I got tired of Pomodoro lying to me, so I built a dual-budget desktop timer",
         "link": "https://dev.to/ursa321/i-got-tired-of-pomodoro-lying-to-me-so-i-built-a-dual-budget-desktop-timer-5aol",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "formattedDate": "April 20, 2026",
-    "news": [
-      {
-        "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
-        "link": "https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🧠 Dev.to Un-Stuck: The Chrome Extension That Finally Fixes Your Reading List",
-        "link": "https://dev.to/usman_awan/devto-un-stuck-the-chrome-extension-that-finally-fixes-your-reading-list-43ia",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The bellows move, but the CPU stays quiet — what’s powering this browser based harmonium?",
-        "link": "https://dev.to/zwin/the-bellows-move-but-the-cpu-stays-quiet-whats-powering-this-browser-based-harmonium-l14",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You",
-        "link": "https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js 16 Complete Beginner's Guide",
-        "link": "https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Setting Up a Next.js Micro Frontend Host App: Complete Guide",
-        "link": "https://dev.to/srinu_desetti/setting-up-a-nextjs-micro-frontend-host-app-complete-guide-4mg",
         "source": "Dev.to React"
       },
       {
