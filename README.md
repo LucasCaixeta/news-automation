@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n)
-- ["I Stopped Building a Coding Agent and Built a Supervisor for Codex and Claude Code Instead"](https://dev.to/codekingai/i-stopped-building-a-coding-agent-and-built-a-supervisor-for-codex-and-claude-code-instead-2d06)
-- [Proofdesk — The IDE for Open-Source Math Textbook Publishing](https://dev.to/harsha_rajkumar_60fb1245/proofdesk-the-ide-for-open-source-math-textbook-publishing-lbn)
+- [Mastering Your Frontend Build with Bazel: Consolidating Tests](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-consolidating-tests-26nl)
+- [Dynamic Import in Production: How We Kept a Bug Reporting Widget Under 40KB](https://dev.to/issuecapture/dynamic-import-in-production-how-we-kept-a-bug-reporting-widget-under-40kb-6dl)
+- [We Shipped to 3 Platforms With One Merge. Here's Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
 
 #### Dev.to React
 
-- [I shipped a 147,000-word interactive book as a free SPA — here's the stack](https://dev.to/kenji_sakuramoto_d72920b2/i-shipped-a-147000-word-interactive-book-as-a-free-spa-heres-the-stack-55i0)
-- [ReactJs Performance ~ Optimizing Images and Assets~](https://dev.to/kkr0423/reactjs-performance-optimizing-images-and-assets-4koc)
-- [🚀 React-Form-Toaster 1.1.3 is here. Build powerful forms in React/Next.js with ease, flexibility, and clean UX baked right in.](https://dev.to/pawan_bisht_3aa0838e302b2/react-form-toaster-113-is-here-build-powerful-forms-in-reactnextjs-with-ease-flexibility-3f12)
+- [We Shipped to 3 Platforms With One Merge. Here's Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
+- [Testing on Fast Wi-Fi Is Not a Performance Test](https://dev.to/nosyos/testing-on-fast-wi-fi-is-not-a-performance-test-5gol)
+- [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 23, 2026",
     "news": [
       {
-        "title": "I Stopped Installing Qiskit to Understand Hadamard Gates",
-        "link": "https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n",
+        "title": "Mastering Your Frontend Build with Bazel: Consolidating Tests",
+        "link": "https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-consolidating-tests-26nl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"I Stopped Building a Coding Agent and Built a Supervisor for Codex and Claude Code Instead\"",
-        "link": "https://dev.to/codekingai/i-stopped-building-a-coding-agent-and-built-a-supervisor-for-codex-and-claude-code-instead-2d06",
+        "title": "Dynamic Import in Production: How We Kept a Bug Reporting Widget Under 40KB",
+        "link": "https://dev.to/issuecapture/dynamic-import-in-production-how-we-kept-a-bug-reporting-widget-under-40kb-6dl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Proofdesk — The IDE for Open-Source Math Textbook Publishing",
-        "link": "https://dev.to/harsha_rajkumar_60fb1245/proofdesk-the-ide-for-open-source-math-textbook-publishing-lbn",
+        "title": "We Shipped to 3 Platforms With One Merge. Here's Exactly How.",
+        "link": "https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I shipped a 147,000-word interactive book as a free SPA — here's the stack",
-        "link": "https://dev.to/kenji_sakuramoto_d72920b2/i-shipped-a-147000-word-interactive-book-as-a-free-spa-heres-the-stack-55i0",
+        "title": "We Shipped to 3 Platforms With One Merge. Here's Exactly How.",
+        "link": "https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2",
         "source": "Dev.to React"
       },
       {
-        "title": "ReactJs Performance ~ Optimizing Images and Assets~",
-        "link": "https://dev.to/kkr0423/reactjs-performance-optimizing-images-and-assets-4koc",
+        "title": "Testing on Fast Wi-Fi Is Not a Performance Test",
+        "link": "https://dev.to/nosyos/testing-on-fast-wi-fi-is-not-a-performance-test-5gol",
         "source": "Dev.to React"
       },
       {
-        "title": "🚀 React-Form-Toaster 1.1.3 is here. Build powerful forms in React/Next.js with ease, flexibility, and clean UX baked right in.",
-        "link": "https://dev.to/pawan_bisht_3aa0838e302b2/react-form-toaster-113-is-here-build-powerful-forms-in-reactnextjs-with-ease-flexibility-3f12",
+        "title": "I Built a Toast Library Where a Robot Delivers Your Notifications 🤖",
+        "link": "https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo",
         "source": "Dev.to React"
       },
       {
