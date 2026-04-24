@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 23, 2026)
+### Today's Updates (April 24, 2026)
+
+#### Dev.to JavaScript
+
+- [One PR to a parser unlocked prerendering in Brisa](https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo)
+- [I built a game where every word you type blooms into a flower 🌸 (Vanilla JS, no frameworks)](https://dev.to/david_mpangala_3c745c00b7/i-built-a-game-where-every-word-you-type-blooms-into-a-flower-vanilla-js-no-frameworks-1iff)
+- [Burn Subtitles Into Videos Without Uploading a Single Byte](https://dev.to/linmingren/burn-subtitles-into-videos-without-uploading-a-single-byte-54gg)
+
+#### Dev.to React
+
+- [This Week In React #278 : React Email, TSRX, ESLint plugin, Rspack RSC, TanStack | Vision Camera, Expo, Nano Icons, ExecuTorch | TypeScript Go](https://dev.to/sebastienlorber/this-week-in-react-278-react-email-tsrx-eslint-plugin-rspack-rsc-tanstack-vision-camera-15m2)
+- [I built an open-source tool to visualize React/Next.js component hierarchy](https://dev.to/robin_nayak_ccbd1e8d231d8/i-built-an-open-source-tool-to-visualize-reactnextjs-component-hierarchy-173o)
+- [React Concurrent Features: Urgent vs Deferred UI Updates](https://dev.to/helloashish99/react-concurrent-features-urgent-vs-deferred-ui-updates-33np)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 22, 2026)
+### 2 Days Ago (April 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Our release tool crashed on a large PR. Here's the React diff library I ended up writing.](https://dev.to/jiahangzhang/our-release-tool-crashed-on-a-large-pr-heres-the-react-diff-library-i-ended-up-writing-6i5)
 - [Top 4 React Native Image Caching Libraries in 2026](https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1)
 - [How I Built a Zero-Latency Browser IDE (Without a Backend)](https://dev.to/nitroide_bd133284181ff579/how-i-built-a-zero-latency-browser-ide-without-a-backend-3hb0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 21, 2026)
-
-#### Dev.to JavaScript
-
-- [🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)](https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7)
-- [I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.](https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i)
-- [I built a film camera simulator in a single HTML file here's how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b)
-
-#### Dev.to React
-
-- [29 React Codebase Red Flags from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/29-react-codebase-red-flags-from-a-senior-frontend-developer-5013)
-- [I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.](https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i)
-- [I got tired of Pomodoro lying to me, so I built a dual-budget desktop timer](https://dev.to/ursa321/i-got-tired-of-pomodoro-lying-to-me-so-i-built-a-dual-budget-desktop-timer-5aol)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-24",
+    "formattedDate": "April 24, 2026",
+    "news": [
+      {
+        "title": "One PR to a parser unlocked prerendering in Brisa",
+        "link": "https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a game where every word you type blooms into a flower 🌸 (Vanilla JS, no frameworks)",
+        "link": "https://dev.to/david_mpangala_3c745c00b7/i-built-a-game-where-every-word-you-type-blooms-into-a-flower-vanilla-js-no-frameworks-1iff",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Burn Subtitles Into Videos Without Uploading a Single Byte",
+        "link": "https://dev.to/linmingren/burn-subtitles-into-videos-without-uploading-a-single-byte-54gg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "This Week In React #278 : React Email, TSRX, ESLint plugin, Rspack RSC, TanStack | Vision Camera, Expo, Nano Icons, ExecuTorch | TypeScript Go",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-278-react-email-tsrx-eslint-plugin-rspack-rsc-tanstack-vision-camera-15m2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built an open-source tool to visualize React/Next.js component hierarchy",
+        "link": "https://dev.to/robin_nayak_ccbd1e8d231d8/i-built-an-open-source-tool-to-visualize-reactnextjs-component-hierarchy-173o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Concurrent Features: Urgent vs Deferred UI Updates",
+        "link": "https://dev.to/helloashish99/react-concurrent-features-urgent-vs-deferred-ui-updates-33np",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-23",
     "formattedDate": "April 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built a Zero-Latency Browser IDE (Without a Backend)",
         "link": "https://dev.to/nitroide_bd133284181ff579/how-i-built-a-zero-latency-browser-ide-without-a-backend-3hb0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "formattedDate": "April 21, 2026",
-    "news": [
-      {
-        "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
-        "link": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.",
-        "link": "https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a film camera simulator in a single HTML file here's how",
-        "link": "https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "29 React Codebase Red Flags from a Senior Frontend Developer",
-        "link": "https://dev.to/_ndeyefatoudiop/29-react-codebase-red-flags-from-a-senior-frontend-developer-5013",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I tried to build a personal SaaS with zero backend. Here's where that strategy hits a wall.",
-        "link": "https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I got tired of Pomodoro lying to me, so I built a dual-budget desktop timer",
-        "link": "https://dev.to/ursa321/i-got-tired-of-pomodoro-lying-to-me-so-i-built-a-dual-budget-desktop-timer-5aol",
         "source": "Dev.to React"
       },
       {
