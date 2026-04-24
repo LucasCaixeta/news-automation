@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [One PR to a parser unlocked prerendering in Brisa](https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo)
-- [I built a game where every word you type blooms into a flower 🌸 (Vanilla JS, no frameworks)](https://dev.to/david_mpangala_3c745c00b7/i-built-a-game-where-every-word-you-type-blooms-into-a-flower-vanilla-js-no-frameworks-1iff)
-- [Burn Subtitles Into Videos Without Uploading a Single Byte](https://dev.to/linmingren/burn-subtitles-into-videos-without-uploading-a-single-byte-54gg)
+- [A simple graph & chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
+- [Building Chaos Lab: When Environment Variables Become Laws of Nature](https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia)
+- [Why We Switched to Streaming Frame Extraction for Mobile Video Editing](https://dev.to/nareshipme/why-we-switched-to-streaming-frame-extraction-for-mobile-video-editing-3cea)
 
 #### Dev.to React
 
-- [This Week In React #278 : React Email, TSRX, ESLint plugin, Rspack RSC, TanStack | Vision Camera, Expo, Nano Icons, ExecuTorch | TypeScript Go](https://dev.to/sebastienlorber/this-week-in-react-278-react-email-tsrx-eslint-plugin-rspack-rsc-tanstack-vision-camera-15m2)
-- [I built an open-source tool to visualize React/Next.js component hierarchy](https://dev.to/robin_nayak_ccbd1e8d231d8/i-built-an-open-source-tool-to-visualize-reactnextjs-component-hierarchy-173o)
-- [React Concurrent Features: Urgent vs Deferred UI Updates](https://dev.to/helloashish99/react-concurrent-features-urgent-vs-deferred-ui-updates-33np)
+- [Design to Code #4: Why I Chose Radix Over Custom Primitives](https://dev.to/7onic/design-to-code-4-why-i-chose-radix-over-custom-primitives-50eo)
+- [Why React Components Beat JS Wrappers in Performance](https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die)
+- [How I Turned My React SPA Into an SEO-Friendly Static Site (And Why It Matters for SaaS Products)](https://dev.to/shivampatel07/how-i-turned-my-react-spa-into-an-seo-friendly-static-site-and-why-it-matters-for-saas-products-1de6)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 24, 2026",
     "news": [
       {
-        "title": "One PR to a parser unlocked prerendering in Brisa",
-        "link": "https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo",
+        "title": "A simple graph & chart maker I built using Chart.js and D3.js",
+        "link": "https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a game where every word you type blooms into a flower 🌸 (Vanilla JS, no frameworks)",
-        "link": "https://dev.to/david_mpangala_3c745c00b7/i-built-a-game-where-every-word-you-type-blooms-into-a-flower-vanilla-js-no-frameworks-1iff",
+        "title": "Building Chaos Lab: When Environment Variables Become Laws of Nature",
+        "link": "https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Burn Subtitles Into Videos Without Uploading a Single Byte",
-        "link": "https://dev.to/linmingren/burn-subtitles-into-videos-without-uploading-a-single-byte-54gg",
+        "title": "Why We Switched to Streaming Frame Extraction for Mobile Video Editing",
+        "link": "https://dev.to/nareshipme/why-we-switched-to-streaming-frame-extraction-for-mobile-video-editing-3cea",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "This Week In React #278 : React Email, TSRX, ESLint plugin, Rspack RSC, TanStack | Vision Camera, Expo, Nano Icons, ExecuTorch | TypeScript Go",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-278-react-email-tsrx-eslint-plugin-rspack-rsc-tanstack-vision-camera-15m2",
+        "title": "Design to Code #4: Why I Chose Radix Over Custom Primitives",
+        "link": "https://dev.to/7onic/design-to-code-4-why-i-chose-radix-over-custom-primitives-50eo",
         "source": "Dev.to React"
       },
       {
-        "title": "I built an open-source tool to visualize React/Next.js component hierarchy",
-        "link": "https://dev.to/robin_nayak_ccbd1e8d231d8/i-built-an-open-source-tool-to-visualize-reactnextjs-component-hierarchy-173o",
+        "title": "Why React Components Beat JS Wrappers in Performance",
+        "link": "https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die",
         "source": "Dev.to React"
       },
       {
-        "title": "React Concurrent Features: Urgent vs Deferred UI Updates",
-        "link": "https://dev.to/helloashish99/react-concurrent-features-urgent-vs-deferred-ui-updates-33np",
+        "title": "How I Turned My React SPA Into an SEO-Friendly Static Site (And Why It Matters for SaaS Products)",
+        "link": "https://dev.to/shivampatel07/how-i-turned-my-react-spa-into-an-seo-friendly-static-site-and-why-it-matters-for-saas-products-1de6",
         "source": "Dev.to React"
       },
       {
