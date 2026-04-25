@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [How To Build A Simple Voting Eligibility Age Checker With JavaScript](https://dev.to/diamond_worlldd/how-to-build-a-simple-voting-eligibility-age-checker-with-javascript-3g7a)
-- [I Ran a Neural Network in a Browser Tab to Split a Song into Stems](https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk)
-- [The Idempotency Bug That Spammed dev.to's API for Weeks](https://dev.to/anand_rathnas_d5b608cc3de/the-idempotency-bug-that-spammed-devtos-api-for-weeks-2a7i)
+- [How I Built a 12-Tool MCP Server for AI Agents in 4 Hours (and What It Taught Me About 2026 Scraping)](https://dev.to/perufitlife/how-i-built-a-12-tool-mcp-server-for-ai-agents-in-4-hours-and-what-it-taught-me-about-2026-i4e)
+- [How Frontend Talks to Backend — REST, JSON, and CORS Explained Without the Jargon](https://dev.to/prathameshdhadbale/how-frontend-talks-to-backend-rest-json-and-cors-explained-without-the-jargon-5a8d)
 
 #### Dev.to React
 
-- [I Built an Anime Tracker That Works Offline (No Backend!)](https://dev.to/salimuddin07/i-built-an-anime-tracker-that-works-offline-no-backend-17l3)
-- [Building a React Habit Tracker with Claude Code - Part 1: From Idea to MVP](https://dev.to/anirseven/building-a-react-habit-tracker-with-claude-code-part-1-from-idea-to-mvp-1cgg)
-- [Open Source Bible School LMS — we need your help (React, FastAPI, Supabase)](https://dev.to/arvavit/open-source-bible-school-lms-we-need-your-help-react-fastapi-supabase-4hod)
+- [TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692)
+- [Fixing Common SEO Mistakes with the Power SEO Toolkit (Developer Guide](https://dev.to/alamin60/fixing-common-seo-mistakes-with-the-power-seo-toolkit-developer-guide-2hm5)
+- [Don't publish your AI generated code without checking this...](https://dev.to/eyanoh/dont-publish-your-ai-generated-code-without-checking-this-2op8)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Ran a Neural Network in a Browser Tab to Split a Song into Stems",
-        "link": "https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk",
+        "title": "How I Built a 12-Tool MCP Server for AI Agents in 4 Hours (and What It Taught Me About 2026 Scraping)",
+        "link": "https://dev.to/perufitlife/how-i-built-a-12-tool-mcp-server-for-ai-agents-in-4-hours-and-what-it-taught-me-about-2026-i4e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Idempotency Bug That Spammed dev.to's API for Weeks",
-        "link": "https://dev.to/anand_rathnas_d5b608cc3de/the-idempotency-bug-that-spammed-devtos-api-for-weeks-2a7i",
+        "title": "How Frontend Talks to Backend — REST, JSON, and CORS Explained Without the Jargon",
+        "link": "https://dev.to/prathameshdhadbale/how-frontend-talks-to-backend-rest-json-and-cors-explained-without-the-jargon-5a8d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built an Anime Tracker That Works Offline (No Backend!)",
-        "link": "https://dev.to/salimuddin07/i-built-an-anime-tracker-that-works-offline-no-backend-17l3",
+        "title": "TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]",
+        "link": "https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a React Habit Tracker with Claude Code - Part 1: From Idea to MVP",
-        "link": "https://dev.to/anirseven/building-a-react-habit-tracker-with-claude-code-part-1-from-idea-to-mvp-1cgg",
+        "title": "Fixing Common SEO Mistakes with the Power SEO Toolkit (Developer Guide",
+        "link": "https://dev.to/alamin60/fixing-common-seo-mistakes-with-the-power-seo-toolkit-developer-guide-2hm5",
         "source": "Dev.to React"
       },
       {
-        "title": "Open Source Bible School LMS — we need your help (React, FastAPI, Supabase)",
-        "link": "https://dev.to/arvavit/open-source-bible-school-lms-we-need-your-help-react-fastapi-supabase-4hod",
+        "title": "Don't publish your AI generated code without checking this...",
+        "link": "https://dev.to/eyanoh/dont-publish-your-ai-generated-code-without-checking-this-2op8",
         "source": "Dev.to React"
       },
       {
