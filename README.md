@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 24, 2026)
+### Today's Updates (April 25, 2026)
+
+#### Dev.to JavaScript
+
+- [How To Build A Simple Voting Eligibility Age Checker With JavaScript](https://dev.to/diamond_worlldd/how-to-build-a-simple-voting-eligibility-age-checker-with-javascript-3g7a)
+- [I Ran a Neural Network in a Browser Tab to Split a Song into Stems](https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk)
+- [The Idempotency Bug That Spammed dev.to's API for Weeks](https://dev.to/anand_rathnas_d5b608cc3de/the-idempotency-bug-that-spammed-devtos-api-for-weeks-2a7i)
+
+#### Dev.to React
+
+- [I Built an Anime Tracker That Works Offline (No Backend!)](https://dev.to/salimuddin07/i-built-an-anime-tracker-that-works-offline-no-backend-17l3)
+- [Building a React Habit Tracker with Claude Code - Part 1: From Idea to MVP](https://dev.to/anirseven/building-a-react-habit-tracker-with-claude-code-part-1-from-idea-to-mvp-1cgg)
+- [Open Source Bible School LMS — we need your help (React, FastAPI, Supabase)](https://dev.to/arvavit/open-source-bible-school-lms-we-need-your-help-react-fastapi-supabase-4hod)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 23, 2026)
+### 2 Days Ago (April 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [We Shipped to 3 Platforms With One Merge. Here's Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
 - [Testing on Fast Wi-Fi Is Not a Performance Test](https://dev.to/nosyos/testing-on-fast-wi-fi-is-not-a-performance-test-5gol)
 - [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 22, 2026)
-
-#### Dev.to JavaScript
-
-- [🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)](https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7)
-- [Where to Start with React Performance](https://dev.to/nosyos/where-to-start-with-react-performance-1g83)
-- [How To Auto-Detect QR Codes, Signatures, and License Plates In The Browser](https://dev.to/byeval/how-to-auto-detect-qr-codes-signatures-and-license-plates-in-the-browser-2e58)
-
-#### Dev.to React
-
-- [Our release tool crashed on a large PR. Here's the React diff library I ended up writing.](https://dev.to/jiahangzhang/our-release-tool-crashed-on-a-large-pr-heres-the-react-diff-library-i-ended-up-writing-6i5)
-- [Top 4 React Native Image Caching Libraries in 2026](https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1)
-- [How I Built a Zero-Latency Browser IDE (Without a Backend)](https://dev.to/nitroide_bd133284181ff579/how-i-built-a-zero-latency-browser-ide-without-a-backend-3hb0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-25",
+    "formattedDate": "April 25, 2026",
+    "news": [
+      {
+        "title": "How To Build A Simple Voting Eligibility Age Checker With JavaScript",
+        "link": "https://dev.to/diamond_worlldd/how-to-build-a-simple-voting-eligibility-age-checker-with-javascript-3g7a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Ran a Neural Network in a Browser Tab to Split a Song into Stems",
+        "link": "https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Idempotency Bug That Spammed dev.to's API for Weeks",
+        "link": "https://dev.to/anand_rathnas_d5b608cc3de/the-idempotency-bug-that-spammed-devtos-api-for-weeks-2a7i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an Anime Tracker That Works Offline (No Backend!)",
+        "link": "https://dev.to/salimuddin07/i-built-an-anime-tracker-that-works-offline-no-backend-17l3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a React Habit Tracker with Claude Code - Part 1: From Idea to MVP",
+        "link": "https://dev.to/anirseven/building-a-react-habit-tracker-with-claude-code-part-1-from-idea-to-mvp-1cgg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Open Source Bible School LMS — we need your help (React, FastAPI, Supabase)",
+        "link": "https://dev.to/arvavit/open-source-bible-school-lms-we-need-your-help-react-fastapi-supabase-4hod",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-24",
     "formattedDate": "April 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Toast Library Where a Robot Delivers Your Notifications 🤖",
         "link": "https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-22",
-    "formattedDate": "April 22, 2026",
-    "news": [
-      {
-        "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
-        "link": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Where to Start with React Performance",
-        "link": "https://dev.to/nosyos/where-to-start-with-react-performance-1g83",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How To Auto-Detect QR Codes, Signatures, and License Plates In The Browser",
-        "link": "https://dev.to/byeval/how-to-auto-detect-qr-codes-signatures-and-license-plates-in-the-browser-2e58",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Our release tool crashed on a large PR. Here's the React diff library I ended up writing.",
-        "link": "https://dev.to/jiahangzhang/our-release-tool-crashed-on-a-large-pr-heres-the-react-diff-library-i-ended-up-writing-6i5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Top 4 React Native Image Caching Libraries in 2026",
-        "link": "https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Zero-Latency Browser IDE (Without a Backend)",
-        "link": "https://dev.to/nitroide_bd133284181ff579/how-i-built-a-zero-latency-browser-ide-without-a-backend-3hb0",
         "source": "Dev.to React"
       },
       {
