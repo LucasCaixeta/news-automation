@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 25, 2026)
+### Today's Updates (April 26, 2026)
+
+#### Dev.to JavaScript
+
+- [I Fixed 5 Chained AI Bugs in My Sales Chatbot — Each Solution Revealed the Next Problem](https://dev.to/alimafana/i-fixed-5-chained-ai-bugs-in-my-sales-chatbot-each-solution-revealed-the-next-problem-5fjh)
+- [OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free](https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2)
+- ["Turbocharge Your Workflow: A Step-by-Step Guide to Setting Up a Lightning-Fast Node.js Development Environment"](https://dev.to/orbit_websites_b004ed2787/turbocharge-your-workflow-a-step-by-step-guide-to-setting-up-a-lightning-fast-nodejs-development-1oif)
+
+#### Dev.to React
+
+- [Where should related code live? A structured look at an unresolved debate](https://dev.to/lucabro/where-should-related-code-live-a-structured-look-at-an-unresolved-debate-4b44)
+- [KanbanFlow](https://dev.to/im-shourya/kanbanflow-3am9)
+- [TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 24, 2026)
+### 2 Days Ago (April 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Design to Code #4: Why I Chose Radix Over Custom Primitives](https://dev.to/7onic/design-to-code-4-why-i-chose-radix-over-custom-primitives-50eo)
 - [Why React Components Beat JS Wrappers in Performance](https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die)
 - [How I Turned My React SPA Into an SEO-Friendly Static Site (And Why It Matters for SaaS Products)](https://dev.to/shivampatel07/how-i-turned-my-react-spa-into-an-seo-friendly-static-site-and-why-it-matters-for-saas-products-1de6)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 23, 2026)
-
-#### Dev.to JavaScript
-
-- [Mastering Your Frontend Build with Bazel: Consolidating Tests](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-consolidating-tests-26nl)
-- [Dynamic Import in Production: How We Kept a Bug Reporting Widget Under 40KB](https://dev.to/issuecapture/dynamic-import-in-production-how-we-kept-a-bug-reporting-widget-under-40kb-6dl)
-- [We Shipped to 3 Platforms With One Merge. Here's Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
-
-#### Dev.to React
-
-- [We Shipped to 3 Platforms With One Merge. Here's Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
-- [Testing on Fast Wi-Fi Is Not a Performance Test](https://dev.to/nosyos/testing-on-fast-wi-fi-is-not-a-performance-test-5gol)
-- [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-26",
+    "formattedDate": "April 26, 2026",
+    "news": [
+      {
+        "title": "I Fixed 5 Chained AI Bugs in My Sales Chatbot — Each Solution Revealed the Next Problem",
+        "link": "https://dev.to/alimafana/i-fixed-5-chained-ai-bugs-in-my-sales-chatbot-each-solution-revealed-the-next-problem-5fjh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free",
+        "link": "https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"Turbocharge Your Workflow: A Step-by-Step Guide to Setting Up a Lightning-Fast Node.js Development Environment\"",
+        "link": "https://dev.to/orbit_websites_b004ed2787/turbocharge-your-workflow-a-step-by-step-guide-to-setting-up-a-lightning-fast-nodejs-development-1oif",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Where should related code live? A structured look at an unresolved debate",
+        "link": "https://dev.to/lucabro/where-should-related-code-live-a-structured-look-at-an-unresolved-debate-4b44",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "KanbanFlow",
+        "link": "https://dev.to/im-shourya/kanbanflow-3am9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]",
+        "link": "https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-25",
     "formattedDate": "April 25, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Turned My React SPA Into an SEO-Friendly Static Site (And Why It Matters for SaaS Products)",
         "link": "https://dev.to/shivampatel07/how-i-turned-my-react-spa-into-an-seo-friendly-static-site-and-why-it-matters-for-saas-products-1de6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "formattedDate": "April 23, 2026",
-    "news": [
-      {
-        "title": "Mastering Your Frontend Build with Bazel: Consolidating Tests",
-        "link": "https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-consolidating-tests-26nl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Dynamic Import in Production: How We Kept a Bug Reporting Widget Under 40KB",
-        "link": "https://dev.to/issuecapture/dynamic-import-in-production-how-we-kept-a-bug-reporting-widget-under-40kb-6dl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "We Shipped to 3 Platforms With One Merge. Here's Exactly How.",
-        "link": "https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "We Shipped to 3 Platforms With One Merge. Here's Exactly How.",
-        "link": "https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Testing on Fast Wi-Fi Is Not a Performance Test",
-        "link": "https://dev.to/nosyos/testing-on-fast-wi-fi-is-not-a-performance-test-5gol",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Toast Library Where a Robot Delivers Your Notifications 🤖",
-        "link": "https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo",
         "source": "Dev.to React"
       },
       {
