@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Fixed 5 Chained AI Bugs in My Sales Chatbot — Each Solution Revealed the Next Problem](https://dev.to/alimafana/i-fixed-5-chained-ai-bugs-in-my-sales-chatbot-each-solution-revealed-the-next-problem-5fjh)
-- [OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free](https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2)
-- ["Turbocharge Your Workflow: A Step-by-Step Guide to Setting Up a Lightning-Fast Node.js Development Environment"](https://dev.to/orbit_websites_b004ed2787/turbocharge-your-workflow-a-step-by-step-guide-to-setting-up-a-lightning-fast-nodejs-development-1oif)
+- [El quirk del BCRP API que rompe tu JSON.parse en producción](https://dev.to/edson_campaamelndez_6c/el-quirk-del-bcrp-api-que-rompe-tu-jsonparse-en-produccion-55pi)
+- [I Built an Extension That Makes Dynamics 365 Development 10x Faster](https://dev.to/hamzakhan/i-built-an-extension-that-makes-dynamics-365-development-10x-faster-3b26)
+- [I Built a 10KB Reactive UI Library — No Build Step, No Virtual DOM, Just HTML Attributes](https://dev.to/ricardo_aponte/i-built-a-10kb-reactive-ui-library-no-build-step-no-virtual-dom-just-html-attributes-1o0h)
 
 #### Dev.to React
 
-- [Where should related code live? A structured look at an unresolved debate](https://dev.to/lucabro/where-should-related-code-live-a-structured-look-at-an-unresolved-debate-4b44)
-- [KanbanFlow](https://dev.to/im-shourya/kanbanflow-3am9)
-- [TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692)
+- [Memory management in Claude Code: Session Memory and Safe Compaction](https://dev.to/vilvaathibanpb/memory-management-in-claude-code-session-memory-and-safe-compaction-498l)
+- [How to deploy React app on Netlify for free (5 minutes)](https://dev.to/sohanaakbar7/how-to-deploy-react-app-on-netlify-for-free-5-minutes-2jk7)
+- [Mastering React useEffect: An AI Agent Skill for Idiomatic Side Effects](https://dev.to/theoklitosbam7/mastering-react-useeffect-an-ai-agent-skill-for-idiomatic-side-effects-27l7)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 26, 2026",
     "news": [
       {
-        "title": "I Fixed 5 Chained AI Bugs in My Sales Chatbot — Each Solution Revealed the Next Problem",
-        "link": "https://dev.to/alimafana/i-fixed-5-chained-ai-bugs-in-my-sales-chatbot-each-solution-revealed-the-next-problem-5fjh",
+        "title": "El quirk del BCRP API que rompe tu JSON.parse en producción",
+        "link": "https://dev.to/edson_campaamelndez_6c/el-quirk-del-bcrp-api-que-rompe-tu-jsonparse-en-produccion-55pi",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free",
-        "link": "https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2",
+        "title": "I Built an Extension That Makes Dynamics 365 Development 10x Faster",
+        "link": "https://dev.to/hamzakhan/i-built-an-extension-that-makes-dynamics-365-development-10x-faster-3b26",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"Turbocharge Your Workflow: A Step-by-Step Guide to Setting Up a Lightning-Fast Node.js Development Environment\"",
-        "link": "https://dev.to/orbit_websites_b004ed2787/turbocharge-your-workflow-a-step-by-step-guide-to-setting-up-a-lightning-fast-nodejs-development-1oif",
+        "title": "I Built a 10KB Reactive UI Library — No Build Step, No Virtual DOM, Just HTML Attributes",
+        "link": "https://dev.to/ricardo_aponte/i-built-a-10kb-reactive-ui-library-no-build-step-no-virtual-dom-just-html-attributes-1o0h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Where should related code live? A structured look at an unresolved debate",
-        "link": "https://dev.to/lucabro/where-should-related-code-live-a-structured-look-at-an-unresolved-debate-4b44",
+        "title": "Memory management in Claude Code: Session Memory and Safe Compaction",
+        "link": "https://dev.to/vilvaathibanpb/memory-management-in-claude-code-session-memory-and-safe-compaction-498l",
         "source": "Dev.to React"
       },
       {
-        "title": "KanbanFlow",
-        "link": "https://dev.to/im-shourya/kanbanflow-3am9",
+        "title": "How to deploy React app on Netlify for free (5 minutes)",
+        "link": "https://dev.to/sohanaakbar7/how-to-deploy-react-app-on-netlify-for-free-5-minutes-2jk7",
         "source": "Dev.to React"
       },
       {
-        "title": "TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]",
-        "link": "https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692",
+        "title": "Mastering React useEffect: An AI Agent Skill for Idiomatic Side Effects",
+        "link": "https://dev.to/theoklitosbam7/mastering-react-useeffect-an-ai-agent-skill-for-idiomatic-side-effects-27l7",
         "source": "Dev.to React"
       },
       {
