@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 26, 2026)
+### Today's Updates (April 27, 2026)
+
+#### Dev.to JavaScript
+
+- [How Emoji Mashups Work — And Why There's No "Algorithm" Behind Them](https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0)
+- [👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API](https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d)
+- [How to Add AI Features to Your SaaS App Without Breaking Everything](https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4)
+
+#### Dev.to React
+
+- [Hangout Planner - fighting cognitive atrophy and full process of making app](https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0)
+- [Your Page Is Only as Fast as Your Slowest API: The Case for Streaming SSR](https://dev.to/childrentime/your-page-is-only-as-fast-as-your-slowest-api-the-case-for-streaming-ssr-1obp)
+- [Memory management in Claude Code: Session Memory and Safe Compaction](https://dev.to/vilvaathibanpb/memory-management-in-claude-code-session-memory-and-safe-compaction-498l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 25, 2026)
+### 2 Days Ago (April 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TanStack Start vs Next.js: The Server Components Showdown That Actually Matters [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/tanstack-start-vs-nextjs-the-server-components-showdown-that-actually-matters-2026-692)
 - [Fixing Common SEO Mistakes with the Power SEO Toolkit (Developer Guide](https://dev.to/alamin60/fixing-common-seo-mistakes-with-the-power-seo-toolkit-developer-guide-2hm5)
 - [Don't publish your AI generated code without checking this...](https://dev.to/eyanoh/dont-publish-your-ai-generated-code-without-checking-this-2op8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 24, 2026)
-
-#### Dev.to JavaScript
-
-- [A simple graph & chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
-- [Building Chaos Lab: When Environment Variables Become Laws of Nature](https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia)
-- [Why We Switched to Streaming Frame Extraction for Mobile Video Editing](https://dev.to/nareshipme/why-we-switched-to-streaming-frame-extraction-for-mobile-video-editing-3cea)
-
-#### Dev.to React
-
-- [Design to Code #4: Why I Chose Radix Over Custom Primitives](https://dev.to/7onic/design-to-code-4-why-i-chose-radix-over-custom-primitives-50eo)
-- [Why React Components Beat JS Wrappers in Performance](https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die)
-- [How I Turned My React SPA Into an SEO-Friendly Static Site (And Why It Matters for SaaS Products)](https://dev.to/shivampatel07/how-i-turned-my-react-spa-into-an-seo-friendly-static-site-and-why-it-matters-for-saas-products-1de6)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-27",
+    "formattedDate": "April 27, 2026",
+    "news": [
+      {
+        "title": "How Emoji Mashups Work — And Why There's No \"Algorithm\" Behind Them",
+        "link": "https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API",
+        "link": "https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Add AI Features to Your SaaS App Without Breaking Everything",
+        "link": "https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Hangout Planner - fighting cognitive atrophy and full process of making app",
+        "link": "https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your Page Is Only as Fast as Your Slowest API: The Case for Streaming SSR",
+        "link": "https://dev.to/childrentime/your-page-is-only-as-fast-as-your-slowest-api-the-case-for-streaming-ssr-1obp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Memory management in Claude Code: Session Memory and Safe Compaction",
+        "link": "https://dev.to/vilvaathibanpb/memory-management-in-claude-code-session-memory-and-safe-compaction-498l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-26",
     "formattedDate": "April 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Don't publish your AI generated code without checking this...",
         "link": "https://dev.to/eyanoh/dont-publish-your-ai-generated-code-without-checking-this-2op8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-24",
-    "formattedDate": "April 24, 2026",
-    "news": [
-      {
-        "title": "A simple graph & chart maker I built using Chart.js and D3.js",
-        "link": "https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Chaos Lab: When Environment Variables Become Laws of Nature",
-        "link": "https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why We Switched to Streaming Frame Extraction for Mobile Video Editing",
-        "link": "https://dev.to/nareshipme/why-we-switched-to-streaming-frame-extraction-for-mobile-video-editing-3cea",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Design to Code #4: Why I Chose Radix Over Custom Primitives",
-        "link": "https://dev.to/7onic/design-to-code-4-why-i-chose-radix-over-custom-primitives-50eo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why React Components Beat JS Wrappers in Performance",
-        "link": "https://dev.to/mkozhukh/why-react-components-beat-js-wrappers-in-performance-3die",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Turned My React SPA Into an SEO-Friendly Static Site (And Why It Matters for SaaS Products)",
-        "link": "https://dev.to/shivampatel07/how-i-turned-my-react-spa-into-an-seo-friendly-static-site-and-why-it-matters-for-saas-products-1de6",
         "source": "Dev.to React"
       },
       {
