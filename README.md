@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g)
+- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
 - [How Emoji Mashups Work — And Why There's No "Algorithm" Behind Them](https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0)
-- [👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API](https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d)
-- [How to Add AI Features to Your SaaS App Without Breaking Everything](https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4)
 
 #### Dev.to React
 
-- [Hangout Planner - fighting cognitive atrophy and full process of making app](https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0)
-- [Your Page Is Only as Fast as Your Slowest API: The Case for Streaming SSR](https://dev.to/childrentime/your-page-is-only-as-fast-as-your-slowest-api-the-case-for-streaming-ssr-1obp)
-- [Memory management in Claude Code: Session Memory and Safe Compaction](https://dev.to/vilvaathibanpb/memory-management-in-claude-code-session-memory-and-safe-compaction-498l)
+- [How a Broken Logo Animation Taught Me How Next.js Really Boots](https://dev.to/suzyg38/how-a-broken-logo-animation-taught-me-how-nextjs-really-boots-cgh)
+- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
+- [How We Built an AI Recruitment Platform with MongoDB, NLP, and a Human-in-the-Loop Feedback System](https://dev.to/kammariashritha/how-we-built-an-ai-recruitment-platform-with-mongodb-nlp-and-a-human-in-the-loop-feedback-system-4d78)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 27, 2026",
     "news": [
       {
+        "title": "Codemod for ignoring lint errors",
+        "link": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS",
+        "link": "https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "How Emoji Mashups Work — And Why There's No \"Algorithm\" Behind Them",
         "link": "https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API",
-        "link": "https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Add AI Features to Your SaaS App Without Breaking Everything",
-        "link": "https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Hangout Planner - fighting cognitive atrophy and full process of making app",
-        "link": "https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0",
+        "title": "How a Broken Logo Animation Taught Me How Next.js Really Boots",
+        "link": "https://dev.to/suzyg38/how-a-broken-logo-animation-taught-me-how-nextjs-really-boots-cgh",
         "source": "Dev.to React"
       },
       {
-        "title": "Your Page Is Only as Fast as Your Slowest API: The Case for Streaming SSR",
-        "link": "https://dev.to/childrentime/your-page-is-only-as-fast-as-your-slowest-api-the-case-for-streaming-ssr-1obp",
+        "title": "Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS",
+        "link": "https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75",
         "source": "Dev.to React"
       },
       {
-        "title": "Memory management in Claude Code: Session Memory and Safe Compaction",
-        "link": "https://dev.to/vilvaathibanpb/memory-management-in-claude-code-session-memory-and-safe-compaction-498l",
+        "title": "How We Built an AI Recruitment Platform with MongoDB, NLP, and a Human-in-the-Loop Feedback System",
+        "link": "https://dev.to/kammariashritha/how-we-built-an-ai-recruitment-platform-with-mongodb-nlp-and-a-human-in-the-loop-feedback-system-4d78",
         "source": "Dev.to React"
       },
       {
