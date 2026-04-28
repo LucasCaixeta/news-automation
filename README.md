@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Stopped Fighting WordPress… So I Rebuilt How I Use It](https://dev.to/stinklewinks/i-stopped-fighting-wordpress-so-i-rebuilt-how-i-use-it-6p0)
 - [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g)
-- [I indexed 17,341 polynomial fan curves in Postgres and matched a duty point in <100ms](https://dev.to/goncharovart/i-indexed-17341-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-100ms-ej2)
+- [Building a Searchable Select Component for the bpmn-io Properties Panel](https://dev.to/samabaasi/building-a-searchable-select-component-for-the-bpmn-io-properties-panel-3f5a)
+- [The Conditional Options Algorithm: Priority Mode vs Merge Mode](https://dev.to/samabaasi/the-conditional-options-algorithm-priority-mode-vs-merge-mode-if4)
 
 #### Dev.to React
 
-- [Build a playable 2D game in React — from zero to ~40 lines with CarverJS](https://dev.to/thephoenix229/build-a-playable-2d-game-in-react-from-zero-to-40-lines-with-carverjs-1dfp)
-- [I Built a Neural Memory Layer for a Voice AI Assistant: Embeddings + Vector Search + Activity Neurons](https://dev.to/tamsiv/i-built-a-neural-memory-layer-for-a-voice-ai-assistant-embeddings-vector-search-activity-4ebh)
-- [How to Build and Scale Design Systems: Starting with the Right Framework](https://dev.to/yaaooo/how-to-build-and-scale-design-systems-starting-with-the-right-framework-29lf)
+- [The "use client" Tax](https://dev.to/lazarv/the-use-client-tax-1ed0)
+- [Slow Pages Cost Money. Here's How to Prove It.](https://dev.to/nosyos/slow-pages-cost-money-heres-how-to-prove-it-4fbm)
+- [React Inside Preact: Mounting React Components in a Form-JS Renderer](https://dev.to/samabaasi/react-inside-preact-mounting-react-components-in-a-form-js-renderer-2mjh)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 28, 2026",
     "news": [
       {
-        "title": "I Stopped Fighting WordPress… So I Rebuilt How I Use It",
-        "link": "https://dev.to/stinklewinks/i-stopped-fighting-wordpress-so-i-rebuilt-how-i-use-it-6p0",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "Codemod for ignoring lint errors",
         "link": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I indexed 17,341 polynomial fan curves in Postgres and matched a duty point in <100ms",
-        "link": "https://dev.to/goncharovart/i-indexed-17341-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-100ms-ej2",
+        "title": "Building a Searchable Select Component for the bpmn-io Properties Panel",
+        "link": "https://dev.to/samabaasi/building-a-searchable-select-component-for-the-bpmn-io-properties-panel-3f5a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build a playable 2D game in React — from zero to ~40 lines with CarverJS",
-        "link": "https://dev.to/thephoenix229/build-a-playable-2d-game-in-react-from-zero-to-40-lines-with-carverjs-1dfp",
+        "title": "The Conditional Options Algorithm: Priority Mode vs Merge Mode",
+        "link": "https://dev.to/samabaasi/the-conditional-options-algorithm-priority-mode-vs-merge-mode-if4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The \"use client\" Tax",
+        "link": "https://dev.to/lazarv/the-use-client-tax-1ed0",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Neural Memory Layer for a Voice AI Assistant: Embeddings + Vector Search + Activity Neurons",
-        "link": "https://dev.to/tamsiv/i-built-a-neural-memory-layer-for-a-voice-ai-assistant-embeddings-vector-search-activity-4ebh",
+        "title": "Slow Pages Cost Money. Here's How to Prove It.",
+        "link": "https://dev.to/nosyos/slow-pages-cost-money-heres-how-to-prove-it-4fbm",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Build and Scale Design Systems: Starting with the Right Framework",
-        "link": "https://dev.to/yaaooo/how-to-build-and-scale-design-systems-starting-with-the-right-framework-29lf",
+        "title": "React Inside Preact: Mounting React Components in a Form-JS Renderer",
+        "link": "https://dev.to/samabaasi/react-inside-preact-mounting-react-components-in-a-form-js-renderer-2mjh",
         "source": "Dev.to React"
       },
       {
