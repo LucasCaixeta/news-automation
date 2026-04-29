@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Stopped Paying for Subtitle Services After Running Whisper in a Browser Tab](https://dev.to/aralroca/i-stopped-paying-for-subtitle-services-after-running-whisper-in-a-browser-tab-1bd8)
-- [The Full Architecture: How a Form-JS Extension System Fits Together](https://dev.to/samabaasi/the-full-architecture-how-a-form-js-extension-system-fits-together-588h)
-- [Scoped Re-evaluation: Preventing Unnecessary FEEL Expression Evaluation in Large Forms](https://dev.to/samabaasi/scoped-re-evaluation-preventing-unnecessary-feel-expression-evaluation-in-large-forms-4k2g)
+- [Idempotency Keys: What Most Tutorials Don't Tell You](https://dev.to/highflyer910/idempotency-keys-what-most-tutorials-dont-tell-you-1ncc)
+- [Building E2E in the Browser: The Hardest Problem No One Talks About](https://dev.to/opentestudox/building-e2e-in-the-browser-the-hardest-problem-no-one-talks-about-mch)
+- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/abhishek_sahni_c83807f8fe/string-polyfills-and-common-interview-methods-in-javascript-5dd1)
 
 #### Dev.to React
 
-- [React Scheduler using Google Calendar API](https://dev.to/mwoodson11/react-scheduler-using-google-calendar-api-335a)
-- [How I Built Expiring Links With Zero Backend (React + TypeScript Only)](https://dev.to/unseenumair/how-i-built-expiring-links-with-zero-backend-react-typescript-only-17cp)
-- [Stop DDoSing Your Own API: Building a useDebounce Hook in React ⚡](https://dev.to/iprajapatiparesh/stop-ddosing-your-own-api-building-a-usedebounce-hook-in-react-556p)
+- [Retrieval Augmented Localization Cuts LLM Terminology Errors 17-45%](https://dev.to/sumitsaurabh927/retrieval-augmented-localization-cuts-llm-terminology-errors-17-45-4dji)
+- [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
+- [Responsive Toolbars and Navbars - Done Right!](https://dev.to/arturmarc/responsive-toolbars-and-navbars-done-right-425b)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 29, 2026",
     "news": [
       {
-        "title": "I Stopped Paying for Subtitle Services After Running Whisper in a Browser Tab",
-        "link": "https://dev.to/aralroca/i-stopped-paying-for-subtitle-services-after-running-whisper-in-a-browser-tab-1bd8",
+        "title": "Idempotency Keys: What Most Tutorials Don't Tell You",
+        "link": "https://dev.to/highflyer910/idempotency-keys-what-most-tutorials-dont-tell-you-1ncc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Full Architecture: How a Form-JS Extension System Fits Together",
-        "link": "https://dev.to/samabaasi/the-full-architecture-how-a-form-js-extension-system-fits-together-588h",
+        "title": "Building E2E in the Browser: The Hardest Problem No One Talks About",
+        "link": "https://dev.to/opentestudox/building-e2e-in-the-browser-the-hardest-problem-no-one-talks-about-mch",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Scoped Re-evaluation: Preventing Unnecessary FEEL Expression Evaluation in Large Forms",
-        "link": "https://dev.to/samabaasi/scoped-re-evaluation-preventing-unnecessary-feel-expression-evaluation-in-large-forms-4k2g",
+        "title": "String Polyfills and Common Interview Methods in JavaScript",
+        "link": "https://dev.to/abhishek_sahni_c83807f8fe/string-polyfills-and-common-interview-methods-in-javascript-5dd1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Scheduler using Google Calendar API",
-        "link": "https://dev.to/mwoodson11/react-scheduler-using-google-calendar-api-335a",
+        "title": "Retrieval Augmented Localization Cuts LLM Terminology Errors 17-45%",
+        "link": "https://dev.to/sumitsaurabh927/retrieval-augmented-localization-cuts-llm-terminology-errors-17-45-4dji",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built Expiring Links With Zero Backend (React + TypeScript Only)",
-        "link": "https://dev.to/unseenumair/how-i-built-expiring-links-with-zero-backend-react-typescript-only-17cp",
+        "title": "Building a Local-First Task Manager with Next.js and React — Lessons from Planow",
+        "link": "https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop DDoSing Your Own API: Building a useDebounce Hook in React ⚡",
-        "link": "https://dev.to/iprajapatiparesh/stop-ddosing-your-own-api-building-a-usedebounce-hook-in-react-556p",
+        "title": "Responsive Toolbars and Navbars - Done Right!",
+        "link": "https://dev.to/arturmarc/responsive-toolbars-and-navbars-done-right-425b",
         "source": "Dev.to React"
       },
       {
