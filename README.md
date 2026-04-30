@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 29, 2026)
+### Today's Updates (April 30, 2026)
+
+#### Dev.to JavaScript
+
+- [I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months](https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47)
+- ["I Pointed Claude Code at Google's Antigravity — Here's the 5-Minute OAuth Setup"](https://dev.to/codekingai/i-pointed-claude-code-at-googles-antigravity-heres-the-5-minute-oauth-setup-45bp)
+- [The Hidden Complexity of Two-Player Browser Games — A Practical Guide to Keyboard Input](https://dev.to/imagebear/the-hidden-complexity-of-two-player-browser-games-a-practical-guide-to-keyboard-input-4gea)
+
+#### Dev.to React
+
+- [Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form](https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a)
+- [How I Built a 100ms Real-Time Cross-Device Clipboard (Next.js + Convex)](https://dev.to/dhairya_darji_ff0fec19a28/how-i-built-a-100ms-real-time-cross-device-clipboard-nextjs-convex-oe5)
+- [Why your `[^<]+` regex is silently breaking on React SSR output](https://dev.to/gaspricecheck/why-your-regex-is-silently-breaking-on-react-ssr-output-2h)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 28, 2026)
+### 2 Days Ago (April 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The "use client" Tax](https://dev.to/lazarv/the-use-client-tax-1ed0)
 - [Slow Pages Cost Money. Here's How to Prove It.](https://dev.to/nosyos/slow-pages-cost-money-heres-how-to-prove-it-4fbm)
 - [React Inside Preact: Mounting React Components in a Form-JS Renderer](https://dev.to/samabaasi/react-inside-preact-mounting-react-components-in-a-form-js-renderer-2mjh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 27, 2026)
-
-#### Dev.to JavaScript
-
-- [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g)
-- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
-- [How Emoji Mashups Work — And Why There's No "Algorithm" Behind Them](https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0)
-
-#### Dev.to React
-
-- [How a Broken Logo Animation Taught Me How Next.js Really Boots](https://dev.to/suzyg38/how-a-broken-logo-animation-taught-me-how-nextjs-really-boots-cgh)
-- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
-- [How We Built an AI Recruitment Platform with MongoDB, NLP, and a Human-in-the-Loop Feedback System](https://dev.to/kammariashritha/how-we-built-an-ai-recruitment-platform-with-mongodb-nlp-and-a-human-in-the-loop-feedback-system-4d78)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-04-30",
+    "formattedDate": "April 30, 2026",
+    "news": [
+      {
+        "title": "I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months",
+        "link": "https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"I Pointed Claude Code at Google's Antigravity — Here's the 5-Minute OAuth Setup\"",
+        "link": "https://dev.to/codekingai/i-pointed-claude-code-at-googles-antigravity-heres-the-5-minute-oauth-setup-45bp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Hidden Complexity of Two-Player Browser Games — A Practical Guide to Keyboard Input",
+        "link": "https://dev.to/imagebear/the-hidden-complexity-of-two-player-browser-games-a-practical-guide-to-keyboard-input-4gea",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form",
+        "link": "https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a 100ms Real-Time Cross-Device Clipboard (Next.js + Convex)",
+        "link": "https://dev.to/dhairya_darji_ff0fec19a28/how-i-built-a-100ms-real-time-cross-device-clipboard-nextjs-convex-oe5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why your `[^<]+` regex is silently breaking on React SSR output",
+        "link": "https://dev.to/gaspricecheck/why-your-regex-is-silently-breaking-on-react-ssr-output-2h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-29",
     "formattedDate": "April 29, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Inside Preact: Mounting React Components in a Form-JS Renderer",
         "link": "https://dev.to/samabaasi/react-inside-preact-mounting-react-components-in-a-form-js-renderer-2mjh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-27",
-    "formattedDate": "April 27, 2026",
-    "news": [
-      {
-        "title": "Codemod for ignoring lint errors",
-        "link": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS",
-        "link": "https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How Emoji Mashups Work — And Why There's No \"Algorithm\" Behind Them",
-        "link": "https://dev.to/linmingren/how-emoji-mashups-work-and-why-theres-no-algorithm-behind-them-4mj0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How a Broken Logo Animation Taught Me How Next.js Really Boots",
-        "link": "https://dev.to/suzyg38/how-a-broken-logo-animation-taught-me-how-nextjs-really-boots-cgh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS",
-        "link": "https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How We Built an AI Recruitment Platform with MongoDB, NLP, and a Human-in-the-Loop Feedback System",
-        "link": "https://dev.to/kammariashritha/how-we-built-an-ai-recruitment-platform-with-mongodb-nlp-and-a-human-in-the-loop-feedback-system-4d78",
         "source": "Dev.to React"
       },
       {
