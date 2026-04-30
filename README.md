@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months](https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47)
-- ["I Pointed Claude Code at Google's Antigravity — Here's the 5-Minute OAuth Setup"](https://dev.to/codekingai/i-pointed-claude-code-at-googles-antigravity-heres-the-5-minute-oauth-setup-45bp)
-- [The Hidden Complexity of Two-Player Browser Games — A Practical Guide to Keyboard Input](https://dev.to/imagebear/the-hidden-complexity-of-two-player-browser-games-a-practical-guide-to-keyboard-input-4gea)
+- [I built a React component library with Tailwind v4, Framer Motion & typed hooks](https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci)
+- [Going native for voice recording](https://dev.to/aoligama/going-native-for-voice-recording-5gm2)
+- [6 Free Cloudinary Courses That Teach You to Build Media-Optimized Apps](https://dev.to/cloudinary/6-free-cloudinary-courses-that-teach-you-to-build-media-optimized-apps-51m2)
 
 #### Dev.to React
 
-- [Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form](https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a)
-- [How I Built a 100ms Real-Time Cross-Device Clipboard (Next.js + Convex)](https://dev.to/dhairya_darji_ff0fec19a28/how-i-built-a-100ms-real-time-cross-device-clipboard-nextjs-convex-oe5)
-- [Why your `[^<]+` regex is silently breaking on React SSR output](https://dev.to/gaspricecheck/why-your-regex-is-silently-breaking-on-react-ssr-output-2h)
+- [I built a React component library with Tailwind v4, Framer Motion & typed hooks](https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci)
+- [How I built a 13-tool Micro-SaaS with $0 server costs using React and Web APIs](https://dev.to/jcvanz/how-i-built-a-13-tool-micro-saas-with-0-server-costs-using-react-and-web-apis-27fh)
+- [React won't die because LLMs won't let it](https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "April 30, 2026",
     "news": [
       {
-        "title": "I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months",
-        "link": "https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47",
+        "title": "I built a React component library with Tailwind v4, Framer Motion & typed hooks",
+        "link": "https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"I Pointed Claude Code at Google's Antigravity — Here's the 5-Minute OAuth Setup\"",
-        "link": "https://dev.to/codekingai/i-pointed-claude-code-at-googles-antigravity-heres-the-5-minute-oauth-setup-45bp",
+        "title": "Going native for voice recording",
+        "link": "https://dev.to/aoligama/going-native-for-voice-recording-5gm2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Hidden Complexity of Two-Player Browser Games — A Practical Guide to Keyboard Input",
-        "link": "https://dev.to/imagebear/the-hidden-complexity-of-two-player-browser-games-a-practical-guide-to-keyboard-input-4gea",
+        "title": "6 Free Cloudinary Courses That Teach You to Build Media-Optimized Apps",
+        "link": "https://dev.to/cloudinary/6-free-cloudinary-courses-that-teach-you-to-build-media-optimized-apps-51m2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form",
-        "link": "https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a",
+        "title": "I built a React component library with Tailwind v4, Framer Motion & typed hooks",
+        "link": "https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built a 100ms Real-Time Cross-Device Clipboard (Next.js + Convex)",
-        "link": "https://dev.to/dhairya_darji_ff0fec19a28/how-i-built-a-100ms-real-time-cross-device-clipboard-nextjs-convex-oe5",
+        "title": "How I built a 13-tool Micro-SaaS with $0 server costs using React and Web APIs",
+        "link": "https://dev.to/jcvanz/how-i-built-a-13-tool-micro-saas-with-0-server-costs-using-react-and-web-apis-27fh",
         "source": "Dev.to React"
       },
       {
-        "title": "Why your `[^<]+` regex is silently breaking on React SSR output",
-        "link": "https://dev.to/gaspricecheck/why-your-regex-is-silently-breaking-on-react-ssr-output-2h",
+        "title": "React won't die because LLMs won't let it",
+        "link": "https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o",
         "source": "Dev.to React"
       },
       {
