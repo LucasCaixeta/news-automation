@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How I built the fastest color manipulation library in TypeScript and the optimization techniques I learned](https://dev.to/dkryaklin/how-i-built-the-fastest-color-manipulation-library-in-typescript-and-the-optimization-techniques-i-56al)
-- [Angular 22 @Service vs @Injectable (What You Need to Know)"](https://dev.to/brianmtreese/angular-22-service-vs-injectable-what-you-need-to-know-3i9l)
-- [Tree Shaking and Code Splitting in JavaScript](https://dev.to/helloashish99/tree-shaking-and-code-splitting-in-javascript-gkd)
+- [This tiny friction has stolen more developer hours than any bug ever will.](https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo)
+- ["I implemented PRML in two languages. Three things broke that the spec didn't warn about." published: true](https://dev.to/sk8ordie84/i-implemented-prml-in-two-languages-three-things-broke-that-the-spec-didnt-warn-about-2j62)
+- [Base64 en JavaScript: codificación, decodificación y casos de uso reales](https://dev.to/toolrapido/base64-en-javascript-codificacion-decodificacion-y-casos-de-uso-reales-g4o)
 
 #### Dev.to React
 
-- [BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio & More](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i)
-- [Configuring ReactJS in Rails with Webpacker](https://dev.to/guilherme44/configuring-reactjs-in-rails-with-webpacker-25kj)
-- [Stop Ruining Your SEO: Next.js Image Optimization Explained ⚡](https://dev.to/iprajapatiparesh/stop-ruining-your-seo-nextjs-image-optimization-explained-23mi)
+- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
+- [React Performance for Senior Developers (Practical, No Cargo Culting)](https://dev.to/grantwatsondev/react-performance-for-senior-developers-practical-no-cargo-culting-1l02)
+- [Feature Flags in Next.js: The Complete Guide (App Router)](https://dev.to/domenico_giordano_e441224/feature-flags-in-nextjs-the-complete-guide-app-router-2pdd)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 1, 2026",
     "news": [
       {
-        "title": "How I built the fastest color manipulation library in TypeScript and the optimization techniques I learned",
-        "link": "https://dev.to/dkryaklin/how-i-built-the-fastest-color-manipulation-library-in-typescript-and-the-optimization-techniques-i-56al",
+        "title": "This tiny friction has stolen more developer hours than any bug ever will.",
+        "link": "https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Angular 22 @Service vs @Injectable (What You Need to Know)\"",
-        "link": "https://dev.to/brianmtreese/angular-22-service-vs-injectable-what-you-need-to-know-3i9l",
+        "title": "\"I implemented PRML in two languages. Three things broke that the spec didn't warn about.\" published: true",
+        "link": "https://dev.to/sk8ordie84/i-implemented-prml-in-two-languages-three-things-broke-that-the-spec-didnt-warn-about-2j62",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Tree Shaking and Code Splitting in JavaScript",
-        "link": "https://dev.to/helloashish99/tree-shaking-and-code-splitting-in-javascript-gkd",
+        "title": "Base64 en JavaScript: codificación, decodificación y casos de uso reales",
+        "link": "https://dev.to/toolrapido/base64-en-javascript-codificacion-decodificacion-y-casos-de-uso-reales-g4o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio & More",
-        "link": "https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i",
+        "title": "React Rn-Rendering Wrokflow",
+        "link": "https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58",
         "source": "Dev.to React"
       },
       {
-        "title": "Configuring ReactJS in Rails with Webpacker",
-        "link": "https://dev.to/guilherme44/configuring-reactjs-in-rails-with-webpacker-25kj",
+        "title": "React Performance for Senior Developers (Practical, No Cargo Culting)",
+        "link": "https://dev.to/grantwatsondev/react-performance-for-senior-developers-practical-no-cargo-culting-1l02",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Ruining Your SEO: Next.js Image Optimization Explained ⚡",
-        "link": "https://dev.to/iprajapatiparesh/stop-ruining-your-seo-nextjs-image-optimization-explained-23mi",
+        "title": "Feature Flags in Next.js: The Complete Guide (App Router)",
+        "link": "https://dev.to/domenico_giordano_e441224/feature-flags-in-nextjs-the-complete-guide-app-router-2pdd",
         "source": "Dev.to React"
       },
       {
