@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (April 30, 2026)
+### Today's Updates (May 1, 2026)
+
+#### Dev.to JavaScript
+
+- [How I built the fastest color manipulation library in TypeScript and the optimization techniques I learned](https://dev.to/dkryaklin/how-i-built-the-fastest-color-manipulation-library-in-typescript-and-the-optimization-techniques-i-56al)
+- [Angular 22 @Service vs @Injectable (What You Need to Know)"](https://dev.to/brianmtreese/angular-22-service-vs-injectable-what-you-need-to-know-3i9l)
+- [Tree Shaking and Code Splitting in JavaScript](https://dev.to/helloashish99/tree-shaking-and-code-splitting-in-javascript-gkd)
+
+#### Dev.to React
+
+- [BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio & More](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i)
+- [Configuring ReactJS in Rails with Webpacker](https://dev.to/guilherme44/configuring-reactjs-in-rails-with-webpacker-25kj)
+- [Stop Ruining Your SEO: Next.js Image Optimization Explained ⚡](https://dev.to/iprajapatiparesh/stop-ruining-your-seo-nextjs-image-optimization-explained-23mi)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (April 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 29, 2026)
+### 2 Days Ago (April 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Retrieval Augmented Localization Cuts LLM Terminology Errors 17-45%](https://dev.to/sumitsaurabh927/retrieval-augmented-localization-cuts-llm-terminology-errors-17-45-4dji)
 - [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
 - [Responsive Toolbars and Navbars - Done Right!](https://dev.to/arturmarc/responsive-toolbars-and-navbars-done-right-425b)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 28, 2026)
-
-#### Dev.to JavaScript
-
-- [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g)
-- [Building a Searchable Select Component for the bpmn-io Properties Panel](https://dev.to/samabaasi/building-a-searchable-select-component-for-the-bpmn-io-properties-panel-3f5a)
-- [The Conditional Options Algorithm: Priority Mode vs Merge Mode](https://dev.to/samabaasi/the-conditional-options-algorithm-priority-mode-vs-merge-mode-if4)
-
-#### Dev.to React
-
-- [The "use client" Tax](https://dev.to/lazarv/the-use-client-tax-1ed0)
-- [Slow Pages Cost Money. Here's How to Prove It.](https://dev.to/nosyos/slow-pages-cost-money-heres-how-to-prove-it-4fbm)
-- [React Inside Preact: Mounting React Components in a Form-JS Renderer](https://dev.to/samabaasi/react-inside-preact-mounting-react-components-in-a-form-js-renderer-2mjh)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-01",
+    "formattedDate": "May 1, 2026",
+    "news": [
+      {
+        "title": "How I built the fastest color manipulation library in TypeScript and the optimization techniques I learned",
+        "link": "https://dev.to/dkryaklin/how-i-built-the-fastest-color-manipulation-library-in-typescript-and-the-optimization-techniques-i-56al",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Angular 22 @Service vs @Injectable (What You Need to Know)\"",
+        "link": "https://dev.to/brianmtreese/angular-22-service-vs-injectable-what-you-need-to-know-3i9l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Tree Shaking and Code Splitting in JavaScript",
+        "link": "https://dev.to/helloashish99/tree-shaking-and-code-splitting-in-javascript-gkd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio & More",
+        "link": "https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Configuring ReactJS in Rails with Webpacker",
+        "link": "https://dev.to/guilherme44/configuring-reactjs-in-rails-with-webpacker-25kj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Ruining Your SEO: Next.js Image Optimization Explained ⚡",
+        "link": "https://dev.to/iprajapatiparesh/stop-ruining-your-seo-nextjs-image-optimization-explained-23mi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-04-30",
     "formattedDate": "April 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Responsive Toolbars and Navbars - Done Right!",
         "link": "https://dev.to/arturmarc/responsive-toolbars-and-navbars-done-right-425b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-28",
-    "formattedDate": "April 28, 2026",
-    "news": [
-      {
-        "title": "Codemod for ignoring lint errors",
-        "link": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Searchable Select Component for the bpmn-io Properties Panel",
-        "link": "https://dev.to/samabaasi/building-a-searchable-select-component-for-the-bpmn-io-properties-panel-3f5a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Conditional Options Algorithm: Priority Mode vs Merge Mode",
-        "link": "https://dev.to/samabaasi/the-conditional-options-algorithm-priority-mode-vs-merge-mode-if4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The \"use client\" Tax",
-        "link": "https://dev.to/lazarv/the-use-client-tax-1ed0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Slow Pages Cost Money. Here's How to Prove It.",
-        "link": "https://dev.to/nosyos/slow-pages-cost-money-heres-how-to-prove-it-4fbm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Inside Preact: Mounting React Components in a Form-JS Renderer",
-        "link": "https://dev.to/samabaasi/react-inside-preact-mounting-react-components-in-a-form-js-renderer-2mjh",
         "source": "Dev.to React"
       },
       {
