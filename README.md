@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The O(n^2) Bug That Looked Like Clean Code](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556)
-- ["10 Free Websites to Learn JavaScript in 2026"](https://dev.to/devraj_singh7/10-free-websites-to-learn-javascript-in-2026-481h)
-- [WebP vs AVIF vs HEIC: The Real-World Image Format Comparison (2026)](https://dev.to/cc_quickconv_ff5b94a1d015/webp-vs-avif-vs-heic-the-real-world-image-format-comparison-2026-14bd)
+- [I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81)
+- [Free SVG brand icons in 2026: thesvg.org vs svgl vs Simple Icons](https://dev.to/thegdsks/free-svg-brand-icons-in-2026-thesvgorg-vs-svgl-vs-simple-icons-44od)
+- [I built a CSS selector engine that uses BigInt bitmasks and a dual Bloom bucket index instead of DOM traversal — AQE is now on npm](https://dev.to/willmart_aqe/i-built-a-css-selector-engine-that-uses-bigint-bitmasks-and-a-dual-bloom-bucket-index-instead-of-40ak)
 
 #### Dev.to React
 
-- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il)
-- [Stop Showing Stale Data: Mastering Next.js Cache Tags ⚡](https://dev.to/iprajapatiparesh/stop-showing-stale-data-mastering-nextjs-cache-tags-1on8)
-- [I Built a Zero-False-Positive Codemod That Migrates React Router v6 v7 in 3 Seconds](https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888)
+- [How React Works (Part 9)? The Complete Picture: From a Keystroke to a Pixel](https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n)
+- [How React Works (Part 8)? Server Components & Hydration: The Real Story](https://dev.to/samabaasi/how-react-works-part-8-server-components-hydration-the-real-story-521h)
+- [How I built a 100% local video compressor in the browser with FFmpeg.wasm (and what breaks)](https://dev.to/xzmhxdxh/how-i-built-a-100-local-video-compressor-in-the-browser-with-ffmpegwasm-and-what-breaks-1an3)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 2, 2026",
     "news": [
       {
-        "title": "The O(n^2) Bug That Looked Like Clean Code",
-        "link": "https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556",
+        "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup",
+        "link": "https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"10 Free Websites to Learn JavaScript in 2026\"",
-        "link": "https://dev.to/devraj_singh7/10-free-websites-to-learn-javascript-in-2026-481h",
+        "title": "Free SVG brand icons in 2026: thesvg.org vs svgl vs Simple Icons",
+        "link": "https://dev.to/thegdsks/free-svg-brand-icons-in-2026-thesvgorg-vs-svgl-vs-simple-icons-44od",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "WebP vs AVIF vs HEIC: The Real-World Image Format Comparison (2026)",
-        "link": "https://dev.to/cc_quickconv_ff5b94a1d015/webp-vs-avif-vs-heic-the-real-world-image-format-comparison-2026-14bd",
+        "title": "I built a CSS selector engine that uses BigInt bitmasks and a dual Bloom bucket index instead of DOM traversal — AQE is now on npm",
+        "link": "https://dev.to/willmart_aqe/i-built-a-css-selector-engine-that-uses-bigint-bitmasks-and-a-dual-bloom-bucket-index-instead-of-40ak",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS",
-        "link": "https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il",
+        "title": "How React Works (Part 9)? The Complete Picture: From a Keystroke to a Pixel",
+        "link": "https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Showing Stale Data: Mastering Next.js Cache Tags ⚡",
-        "link": "https://dev.to/iprajapatiparesh/stop-showing-stale-data-mastering-nextjs-cache-tags-1on8",
+        "title": "How React Works (Part 8)? Server Components & Hydration: The Real Story",
+        "link": "https://dev.to/samabaasi/how-react-works-part-8-server-components-hydration-the-real-story-521h",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Zero-False-Positive Codemod That Migrates React Router v6 v7 in 3 Seconds",
-        "link": "https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888",
+        "title": "How I built a 100% local video compressor in the browser with FFmpeg.wasm (and what breaks)",
+        "link": "https://dev.to/xzmhxdxh/how-i-built-a-100-local-video-compressor-in-the-browser-with-ffmpegwasm-and-what-breaks-1an3",
         "source": "Dev.to React"
       },
       {
