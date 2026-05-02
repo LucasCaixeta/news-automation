@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 1, 2026)
+### Today's Updates (May 2, 2026)
+
+#### Dev.to JavaScript
+
+- [The O(n^2) Bug That Looked Like Clean Code](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556)
+- ["10 Free Websites to Learn JavaScript in 2026"](https://dev.to/devraj_singh7/10-free-websites-to-learn-javascript-in-2026-481h)
+- [WebP vs AVIF vs HEIC: The Real-World Image Format Comparison (2026)](https://dev.to/cc_quickconv_ff5b94a1d015/webp-vs-avif-vs-heic-the-real-world-image-format-comparison-2026-14bd)
+
+#### Dev.to React
+
+- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il)
+- [Stop Showing Stale Data: Mastering Next.js Cache Tags ⚡](https://dev.to/iprajapatiparesh/stop-showing-stale-data-mastering-nextjs-cache-tags-1on8)
+- [I Built a Zero-False-Positive Codemod That Migrates React Router v6 v7 in 3 Seconds](https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (April 30, 2026)
+### 2 Days Ago (April 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a React component library with Tailwind v4, Framer Motion & typed hooks](https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci)
 - [How I built a 13-tool Micro-SaaS with $0 server costs using React and Web APIs](https://dev.to/jcvanz/how-i-built-a-13-tool-micro-saas-with-0-server-costs-using-react-and-web-apis-27fh)
 - [React won't die because LLMs won't let it](https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 29, 2026)
-
-#### Dev.to JavaScript
-
-- [Idempotency Keys: What Most Tutorials Don't Tell You](https://dev.to/highflyer910/idempotency-keys-what-most-tutorials-dont-tell-you-1ncc)
-- [Building E2E in the Browser: The Hardest Problem No One Talks About](https://dev.to/opentestudox/building-e2e-in-the-browser-the-hardest-problem-no-one-talks-about-mch)
-- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/abhishek_sahni_c83807f8fe/string-polyfills-and-common-interview-methods-in-javascript-5dd1)
-
-#### Dev.to React
-
-- [Retrieval Augmented Localization Cuts LLM Terminology Errors 17-45%](https://dev.to/sumitsaurabh927/retrieval-augmented-localization-cuts-llm-terminology-errors-17-45-4dji)
-- [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
-- [Responsive Toolbars and Navbars - Done Right!](https://dev.to/arturmarc/responsive-toolbars-and-navbars-done-right-425b)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-02",
+    "formattedDate": "May 2, 2026",
+    "news": [
+      {
+        "title": "The O(n^2) Bug That Looked Like Clean Code",
+        "link": "https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"10 Free Websites to Learn JavaScript in 2026\"",
+        "link": "https://dev.to/devraj_singh7/10-free-websites-to-learn-javascript-in-2026-481h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "WebP vs AVIF vs HEIC: The Real-World Image Format Comparison (2026)",
+        "link": "https://dev.to/cc_quickconv_ff5b94a1d015/webp-vs-avif-vs-heic-the-real-world-image-format-comparison-2026-14bd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS",
+        "link": "https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Showing Stale Data: Mastering Next.js Cache Tags ⚡",
+        "link": "https://dev.to/iprajapatiparesh/stop-showing-stale-data-mastering-nextjs-cache-tags-1on8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Zero-False-Positive Codemod That Migrates React Router v6 v7 in 3 Seconds",
+        "link": "https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-01",
     "formattedDate": "May 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React won't die because LLMs won't let it",
         "link": "https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "formattedDate": "April 29, 2026",
-    "news": [
-      {
-        "title": "Idempotency Keys: What Most Tutorials Don't Tell You",
-        "link": "https://dev.to/highflyer910/idempotency-keys-what-most-tutorials-dont-tell-you-1ncc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building E2E in the Browser: The Hardest Problem No One Talks About",
-        "link": "https://dev.to/opentestudox/building-e2e-in-the-browser-the-hardest-problem-no-one-talks-about-mch",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "String Polyfills and Common Interview Methods in JavaScript",
-        "link": "https://dev.to/abhishek_sahni_c83807f8fe/string-polyfills-and-common-interview-methods-in-javascript-5dd1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Retrieval Augmented Localization Cuts LLM Terminology Errors 17-45%",
-        "link": "https://dev.to/sumitsaurabh927/retrieval-augmented-localization-cuts-llm-terminology-errors-17-45-4dji",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Local-First Task Manager with Next.js and React — Lessons from Planow",
-        "link": "https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Responsive Toolbars and Navbars - Done Right!",
-        "link": "https://dev.to/arturmarc/responsive-toolbars-and-navbars-done-right-425b",
         "source": "Dev.to React"
       },
       {
