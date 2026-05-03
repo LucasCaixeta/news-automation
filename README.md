@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd)
+- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c)
 - [Gnoke SaveNative: A Durability Layer for the File System Access API on Mobile Browsers](https://dev.to/edmundsparrow/gnoke-savenative-a-durability-layer-for-the-file-system-access-api-on-mobile-browsers-1gdg)
-- [I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81)
-- [Migrating a legacy React app from webpack to Vite](https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl)
 
 #### Dev.to React
 
-- [I built a real-time competitive coding platform — Dev-Battle](https://dev.to/nitish_kumar_19ec9e83be25/i-built-a-real-time-competitive-coding-platform-dev-battle-173l)
-- [Migrating a legacy React app from webpack to Vite](https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl)
-- [I Built an ERC-20 Token and React dApp from Scratch Complete Web3 Breakdown](https://dev.to/carter254g/i-built-an-erc-20-token-and-react-dapp-from-scratch-complete-web3-breakdown-2kkg)
+- [Case Study: Automating React Router v6 v7 Migration](https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j)
+- [VotePath](https://dev.to/arikatla_harshitha_938810/votepath-2ghh)
+- [Real-Time on the Frontend - SSE, WebSockets & Polling](https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 3, 2026",
     "news": [
       {
+        "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+        "link": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+        "link": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Gnoke SaveNative: A Durability Layer for the File System Access API on Mobile Browsers",
         "link": "https://dev.to/edmundsparrow/gnoke-savenative-a-durability-layer-for-the-file-system-access-api-on-mobile-browsers-1gdg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup",
-        "link": "https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Migrating a legacy React app from webpack to Vite",
-        "link": "https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a real-time competitive coding platform — Dev-Battle",
-        "link": "https://dev.to/nitish_kumar_19ec9e83be25/i-built-a-real-time-competitive-coding-platform-dev-battle-173l",
+        "title": "Case Study: Automating React Router v6 v7 Migration",
+        "link": "https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j",
         "source": "Dev.to React"
       },
       {
-        "title": "Migrating a legacy React app from webpack to Vite",
-        "link": "https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl",
+        "title": "VotePath",
+        "link": "https://dev.to/arikatla_harshitha_938810/votepath-2ghh",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built an ERC-20 Token and React dApp from Scratch Complete Web3 Breakdown",
-        "link": "https://dev.to/carter254g/i-built-an-erc-20-token-and-react-dapp-from-scratch-complete-web3-breakdown-2kkg",
+        "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
+        "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
         "source": "Dev.to React"
       },
       {
