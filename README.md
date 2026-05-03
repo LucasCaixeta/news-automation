@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 2, 2026)
+### Today's Updates (May 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Gnoke SaveNative: A Durability Layer for the File System Access API on Mobile Browsers](https://dev.to/edmundsparrow/gnoke-savenative-a-durability-layer-for-the-file-system-access-api-on-mobile-browsers-1gdg)
+- [I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81)
+- [Migrating a legacy React app from webpack to Vite](https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl)
+
+#### Dev.to React
+
+- [I built a real-time competitive coding platform — Dev-Battle](https://dev.to/nitish_kumar_19ec9e83be25/i-built-a-real-time-competitive-coding-platform-dev-battle-173l)
+- [Migrating a legacy React app from webpack to Vite](https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl)
+- [I Built an ERC-20 Token and React dApp from Scratch Complete Web3 Breakdown](https://dev.to/carter254g/i-built-an-erc-20-token-and-react-dapp-from-scratch-complete-web3-breakdown-2kkg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 1, 2026)
+### 2 Days Ago (May 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
 - [React Performance for Senior Developers (Practical, No Cargo Culting)](https://dev.to/grantwatsondev/react-performance-for-senior-developers-practical-no-cargo-culting-1l02)
 - [Feature Flags in Next.js: The Complete Guide (App Router)](https://dev.to/domenico_giordano_e441224/feature-flags-in-nextjs-the-complete-guide-app-router-2pdd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (April 30, 2026)
-
-#### Dev.to JavaScript
-
-- [I built a React component library with Tailwind v4, Framer Motion & typed hooks](https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci)
-- [Going native for voice recording](https://dev.to/aoligama/going-native-for-voice-recording-5gm2)
-- [6 Free Cloudinary Courses That Teach You to Build Media-Optimized Apps](https://dev.to/cloudinary/6-free-cloudinary-courses-that-teach-you-to-build-media-optimized-apps-51m2)
-
-#### Dev.to React
-
-- [I built a React component library with Tailwind v4, Framer Motion & typed hooks](https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci)
-- [How I built a 13-tool Micro-SaaS with $0 server costs using React and Web APIs](https://dev.to/jcvanz/how-i-built-a-13-tool-micro-saas-with-0-server-costs-using-react-and-web-apis-27fh)
-- [React won't die because LLMs won't let it](https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-03",
+    "formattedDate": "May 3, 2026",
+    "news": [
+      {
+        "title": "Gnoke SaveNative: A Durability Layer for the File System Access API on Mobile Browsers",
+        "link": "https://dev.to/edmundsparrow/gnoke-savenative-a-durability-layer-for-the-file-system-access-api-on-mobile-browsers-1gdg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup",
+        "link": "https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Migrating a legacy React app from webpack to Vite",
+        "link": "https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a real-time competitive coding platform — Dev-Battle",
+        "link": "https://dev.to/nitish_kumar_19ec9e83be25/i-built-a-real-time-competitive-coding-platform-dev-battle-173l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Migrating a legacy React app from webpack to Vite",
+        "link": "https://dev.to/aoligama/migrating-a-legacy-react-app-from-webpack-to-vite-9kl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an ERC-20 Token and React dApp from Scratch Complete Web3 Breakdown",
+        "link": "https://dev.to/carter254g/i-built-an-erc-20-token-and-react-dapp-from-scratch-complete-web3-breakdown-2kkg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-02",
     "formattedDate": "May 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Feature Flags in Next.js: The Complete Guide (App Router)",
         "link": "https://dev.to/domenico_giordano_e441224/feature-flags-in-nextjs-the-complete-guide-app-router-2pdd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "formattedDate": "April 30, 2026",
-    "news": [
-      {
-        "title": "I built a React component library with Tailwind v4, Framer Motion & typed hooks",
-        "link": "https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Going native for voice recording",
-        "link": "https://dev.to/aoligama/going-native-for-voice-recording-5gm2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "6 Free Cloudinary Courses That Teach You to Build Media-Optimized Apps",
-        "link": "https://dev.to/cloudinary/6-free-cloudinary-courses-that-teach-you-to-build-media-optimized-apps-51m2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a React component library with Tailwind v4, Framer Motion & typed hooks",
-        "link": "https://dev.to/shubhamtiwari909/i-built-a-react-component-library-with-tailwind-v4-framer-motion-typed-hooks-19ci",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built a 13-tool Micro-SaaS with $0 server costs using React and Web APIs",
-        "link": "https://dev.to/jcvanz/how-i-built-a-13-tool-micro-saas-with-0-server-costs-using-react-and-web-apis-27fh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React won't die because LLMs won't let it",
-        "link": "https://dev.to/adioof/react-wont-die-because-llms-wont-let-it-8o",
         "source": "Dev.to React"
       },
       {
