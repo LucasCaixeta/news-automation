@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd)
-- [I Built AdaptiveKit to Give Any Web App a UI That Learns From the People Using It](https://dev.to/omrajguru05/i-built-adaptivekit-to-give-any-web-app-a-ui-that-learns-from-the-people-using-it-4moe)
-- [I Built a Website That Tries to Make People Leave Faster](https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng)
+- [A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Interview Code Review"](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j)
+- [I built an embeddable changelog SaaS with Next.js 14 + Supabase (and it's free to start)](https://dev.to/maelchao/i-built-an-embeddable-changelog-saas-with-nextjs-14-supabase-and-its-free-to-start-8i1)
+- [60–80% of your CVEs are unreachable. Here's how to prove it.](https://dev.to/rjonmshka/60-80-of-your-cves-are-unreachable-heres-how-to-prove-it-pd0)
 
 #### Dev.to React
 
-- [Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study](https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g)
-- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7)
-- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44)
+- [How to Build a SaaS App Faster Without Rebuilding the Same Boilerplate Twice](https://dev.to/thekarlesi/how-to-build-a-saas-app-faster-without-rebuilding-the-same-boilerplate-twice-1nbg)
+- [I built a React component doc generator that outputs Storybook stories](https://dev.to/vcvstle/i-built-a-react-component-doc-generator-that-outputs-storybook-stories-2lde)
+- [I built and deployed my first full stack SaaS in 5 weeks while working full time](https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 4, 2026",
     "news": [
       {
-        "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-        "link": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+        "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+        "link": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built AdaptiveKit to Give Any Web App a UI That Learns From the People Using It",
-        "link": "https://dev.to/omrajguru05/i-built-adaptivekit-to-give-any-web-app-a-ui-that-learns-from-the-people-using-it-4moe",
+        "title": "I built an embeddable changelog SaaS with Next.js 14 + Supabase (and it's free to start)",
+        "link": "https://dev.to/maelchao/i-built-an-embeddable-changelog-saas-with-nextjs-14-supabase-and-its-free-to-start-8i1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Website That Tries to Make People Leave Faster",
-        "link": "https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng",
+        "title": "60–80% of your CVEs are unreachable. Here's how to prove it.",
+        "link": "https://dev.to/rjonmshka/60-80-of-your-cves-are-unreachable-heres-how-to-prove-it-pd0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study",
-        "link": "https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g",
+        "title": "How to Build a SaaS App Faster Without Rebuilding the Same Boilerplate Twice",
+        "link": "https://dev.to/thekarlesi/how-to-build-a-saas-app-faster-without-rebuilding-the-same-boilerplate-twice-1nbg",
         "source": "Dev.to React"
       },
       {
-        "title": "Deploy: App Nextjs + Docker + VPS",
-        "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
+        "title": "I built a React component doc generator that outputs Storybook stories",
+        "link": "https://dev.to/vcvstle/i-built-a-react-component-doc-generator-that-outputs-storybook-stories-2lde",
         "source": "Dev.to React"
       },
       {
-        "title": "Deploy: App Nextjs + Docker + VPS",
-        "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
+        "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
+        "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
         "source": "Dev.to React"
       },
       {
