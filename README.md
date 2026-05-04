@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 3, 2026)
+### Today's Updates (May 4, 2026)
+
+#### Dev.to JavaScript
+
+- [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd)
+- [I Built AdaptiveKit to Give Any Web App a UI That Learns From the People Using It](https://dev.to/omrajguru05/i-built-adaptivekit-to-give-any-web-app-a-ui-that-learns-from-the-people-using-it-4moe)
+- [I Built a Website That Tries to Make People Leave Faster](https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng)
+
+#### Dev.to React
+
+- [Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study](https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g)
+- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7)
+- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 2, 2026)
+### 2 Days Ago (May 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How React Works (Part 9)? The Complete Picture: From a Keystroke to a Pixel](https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n)
 - [How React Works (Part 8)? Server Components & Hydration: The Real Story](https://dev.to/samabaasi/how-react-works-part-8-server-components-hydration-the-real-story-521h)
 - [How I built a 100% local video compressor in the browser with FFmpeg.wasm (and what breaks)](https://dev.to/xzmhxdxh/how-i-built-a-100-local-video-compressor-in-the-browser-with-ffmpegwasm-and-what-breaks-1an3)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 1, 2026)
-
-#### Dev.to JavaScript
-
-- [This tiny friction has stolen more developer hours than any bug ever will.](https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo)
-- ["I implemented PRML in two languages. Three things broke that the spec didn't warn about." published: true](https://dev.to/sk8ordie84/i-implemented-prml-in-two-languages-three-things-broke-that-the-spec-didnt-warn-about-2j62)
-- [Base64 en JavaScript: codificación, decodificación y casos de uso reales](https://dev.to/toolrapido/base64-en-javascript-codificacion-decodificacion-y-casos-de-uso-reales-g4o)
-
-#### Dev.to React
-
-- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
-- [React Performance for Senior Developers (Practical, No Cargo Culting)](https://dev.to/grantwatsondev/react-performance-for-senior-developers-practical-no-cargo-culting-1l02)
-- [Feature Flags in Next.js: The Complete Guide (App Router)](https://dev.to/domenico_giordano_e441224/feature-flags-in-nextjs-the-complete-guide-app-router-2pdd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-04",
+    "formattedDate": "May 4, 2026",
+    "news": [
+      {
+        "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+        "link": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built AdaptiveKit to Give Any Web App a UI That Learns From the People Using It",
+        "link": "https://dev.to/omrajguru05/i-built-adaptivekit-to-give-any-web-app-a-ui-that-learns-from-the-people-using-it-4moe",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Website That Tries to Make People Leave Faster",
+        "link": "https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study",
+        "link": "https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Deploy: App Nextjs + Docker + VPS",
+        "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Deploy: App Nextjs + Docker + VPS",
+        "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-03",
     "formattedDate": "May 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I built a 100% local video compressor in the browser with FFmpeg.wasm (and what breaks)",
         "link": "https://dev.to/xzmhxdxh/how-i-built-a-100-local-video-compressor-in-the-browser-with-ffmpegwasm-and-what-breaks-1an3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-01",
-    "formattedDate": "May 1, 2026",
-    "news": [
-      {
-        "title": "This tiny friction has stolen more developer hours than any bug ever will.",
-        "link": "https://dev.to/charmi_soni_95bf0498cc45d/this-tiny-friction-has-stolen-more-developer-hours-than-any-bug-ever-will-5cbo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "\"I implemented PRML in two languages. Three things broke that the spec didn't warn about.\" published: true",
-        "link": "https://dev.to/sk8ordie84/i-implemented-prml-in-two-languages-three-things-broke-that-the-spec-didnt-warn-about-2j62",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Base64 en JavaScript: codificación, decodificación y casos de uso reales",
-        "link": "https://dev.to/toolrapido/base64-en-javascript-codificacion-decodificacion-y-casos-de-uso-reales-g4o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Rn-Rendering Wrokflow",
-        "link": "https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Performance for Senior Developers (Practical, No Cargo Culting)",
-        "link": "https://dev.to/grantwatsondev/react-performance-for-senior-developers-practical-no-cargo-culting-1l02",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Feature Flags in Next.js: The Complete Guide (App Router)",
-        "link": "https://dev.to/domenico_giordano_e441224/feature-flags-in-nextjs-the-complete-guide-app-router-2pdd",
         "source": "Dev.to React"
       },
       {
