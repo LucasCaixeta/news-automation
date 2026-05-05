@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 4, 2026)
+### Today's Updates (May 5, 2026)
+
+#### Dev.to JavaScript
+
+- [A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Interview Code Review"](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j)
+- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
+- [Whisper + Custom Prompts: Turning Messy Voice Into Structured Data](https://dev.to/jakub_inithouse/whisper-custom-prompts-turning-messy-voice-into-structured-data-3bdg)
+
+#### Dev.to React
+
+- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
+- [I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills](https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9)
+- [Stop Rebuilding Multi-Step Forms in React (A Better Approach)](https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 3, 2026)
+### 2 Days Ago (May 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Case Study: Automating React Router v6 v7 Migration](https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j)
 - [VotePath](https://dev.to/arikatla_harshitha_938810/votepath-2ghh)
 - [Real-Time on the Frontend - SSE, WebSockets & Polling](https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 2, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81)
-- [Free SVG brand icons in 2026: thesvg.org vs svgl vs Simple Icons](https://dev.to/thegdsks/free-svg-brand-icons-in-2026-thesvgorg-vs-svgl-vs-simple-icons-44od)
-- [I built a CSS selector engine that uses BigInt bitmasks and a dual Bloom bucket index instead of DOM traversal — AQE is now on npm](https://dev.to/willmart_aqe/i-built-a-css-selector-engine-that-uses-bigint-bitmasks-and-a-dual-bloom-bucket-index-instead-of-40ak)
-
-#### Dev.to React
-
-- [How React Works (Part 9)? The Complete Picture: From a Keystroke to a Pixel](https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n)
-- [How React Works (Part 8)? Server Components & Hydration: The Real Story](https://dev.to/samabaasi/how-react-works-part-8-server-components-hydration-the-real-story-521h)
-- [How I built a 100% local video compressor in the browser with FFmpeg.wasm (and what breaks)](https://dev.to/xzmhxdxh/how-i-built-a-100-local-video-compressor-in-the-browser-with-ffmpegwasm-and-what-breaks-1an3)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-05",
+    "formattedDate": "May 5, 2026",
+    "news": [
+      {
+        "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+        "link": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+        "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Whisper + Custom Prompts: Turning Messy Voice Into Structured Data",
+        "link": "https://dev.to/jakub_inithouse/whisper-custom-prompts-turning-messy-voice-into-structured-data-3bdg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+        "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
+        "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
+        "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-04",
     "formattedDate": "May 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
         "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-02",
-    "formattedDate": "May 2, 2026",
-    "news": [
-      {
-        "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Signup",
-        "link": "https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Free SVG brand icons in 2026: thesvg.org vs svgl vs Simple Icons",
-        "link": "https://dev.to/thegdsks/free-svg-brand-icons-in-2026-thesvgorg-vs-svgl-vs-simple-icons-44od",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a CSS selector engine that uses BigInt bitmasks and a dual Bloom bucket index instead of DOM traversal — AQE is now on npm",
-        "link": "https://dev.to/willmart_aqe/i-built-a-css-selector-engine-that-uses-bigint-bitmasks-and-a-dual-bloom-bucket-index-instead-of-40ak",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How React Works (Part 9)? The Complete Picture: From a Keystroke to a Pixel",
-        "link": "https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How React Works (Part 8)? Server Components & Hydration: The Real Story",
-        "link": "https://dev.to/samabaasi/how-react-works-part-8-server-components-hydration-the-real-story-521h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built a 100% local video compressor in the browser with FFmpeg.wasm (and what breaks)",
-        "link": "https://dev.to/xzmhxdxh/how-i-built-a-100-local-video-compressor-in-the-browser-with-ffmpegwasm-and-what-breaks-1an3",
         "source": "Dev.to React"
       },
       {
