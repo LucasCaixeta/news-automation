@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Interview Code Review"](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j)
-- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
-- [Whisper + Custom Prompts: Turning Messy Voice Into Structured Data](https://dev.to/jakub_inithouse/whisper-custom-prompts-turning-messy-voice-into-structured-data-3bdg)
+- [Building a Zulip Style Collaborative Chat App with Next.js and Velt](https://dev.to/studio1hq/building-a-zulip-style-collaborative-chat-app-with-nextjs-and-velt-2mcp)
+- [How AuraWatch Finds Security Bugs Your Linter Will Never Catch](https://dev.to/optirefine_ce29a935fde277/how-aurawatch-finds-security-bugs-your-linter-will-never-catch-1418)
+- [Building My First JavaScript Project: Ebrius](https://dev.to/kyawlinthu123/building-my-first-javascript-project-ebrius-2db2)
 
 #### Dev.to React
 
-- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
-- [I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills](https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9)
-- [Stop Rebuilding Multi-Step Forms in React (A Better Approach)](https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee)
+- [I Built a Browser App Store That Fetches GitHub Releases](https://dev.to/iamovi/i-built-a-browser-app-store-that-fetches-github-releases-407d)
+- [Combining Virtual Scroll With AI — Keeping 50,000 Log Lines Fast While Adding Gemini](https://dev.to/hiyoyok/combining-virtual-scroll-with-ai-keeping-50000-log-lines-fast-while-adding-gemini-3ph0)
+- [AI Button UX — Where to Put It, How to Label It, What to Show While Waiting](https://dev.to/hiyoyok/ai-button-ux-where-to-put-it-how-to-label-it-what-to-show-while-waiting-3a7m)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 5, 2026",
     "news": [
       {
-        "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-        "link": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+        "title": "Building a Zulip Style Collaborative Chat App with Next.js and Velt",
+        "link": "https://dev.to/studio1hq/building-a-zulip-style-collaborative-chat-app-with-nextjs-and-velt-2mcp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
-        "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+        "title": "How AuraWatch Finds Security Bugs Your Linter Will Never Catch",
+        "link": "https://dev.to/optirefine_ce29a935fde277/how-aurawatch-finds-security-bugs-your-linter-will-never-catch-1418",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Whisper + Custom Prompts: Turning Messy Voice Into Structured Data",
-        "link": "https://dev.to/jakub_inithouse/whisper-custom-prompts-turning-messy-voice-into-structured-data-3bdg",
+        "title": "Building My First JavaScript Project: Ebrius",
+        "link": "https://dev.to/kyawlinthu123/building-my-first-javascript-project-ebrius-2db2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
-        "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+        "title": "I Built a Browser App Store That Fetches GitHub Releases",
+        "link": "https://dev.to/iamovi/i-built-a-browser-app-store-that-fetches-github-releases-407d",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
-        "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+        "title": "Combining Virtual Scroll With AI — Keeping 50,000 Log Lines Fast While Adding Gemini",
+        "link": "https://dev.to/hiyoyok/combining-virtual-scroll-with-ai-keeping-50000-log-lines-fast-while-adding-gemini-3ph0",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
-        "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+        "title": "AI Button UX — Where to Put It, How to Label It, What to Show While Waiting",
+        "link": "https://dev.to/hiyoyok/ai-button-ux-where-to-put-it-how-to-label-it-what-to-show-while-waiting-3a7m",
         "source": "Dev.to React"
       },
       {
