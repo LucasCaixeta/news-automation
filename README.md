@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [How to Stop AI Slop in Production: A Two-Layer Validator for LLM Output (2026)](https://dev.to/dumebii/how-to-stop-ai-slop-in-production-a-two-layer-validator-for-llm-output-2026-56fj)
 - [🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))](https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab)
-- [AI Can Write HTML Now — Do Visual Editors Still Matter?](https://dev.to/xxchen/ai-can-write-html-now-do-visual-editors-still-matter-2lo8)
-- [The SSR State Management Trap: defineStore vs defineContextStore](https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k)
+- [How I Built an Autonomous AI News Platform That Publishes 20 Articles/Day](https://dev.to/harrisgnr/how-i-built-an-autonomous-ai-news-platform-that-publishes-20-articlesday-nmp)
 
 #### Dev.to React
 
-- [The SSR State Management Trap: defineStore vs defineContextStore](https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k)
-- [JavaScript Bundlers in 2026: Vite, Rspack, Turbopack, and the End of an Era](https://dev.to/thedailyagent/javascript-bundlers-in-2026-vite-rspack-turbopack-and-the-end-of-an-era-16hk)
-- [Lovable vs Replit — Which One Is Actually Better?](https://dev.to/aichannode/lovable-vs-replit-which-one-is-actually-better-340c)
+- [Lighthouse Said It Was Fast. My Users Kept Clicking the Same Button.](https://dev.to/shubhradev/lighthouse-said-it-was-fast-my-users-kept-clicking-the-same-button-4lng)
+- [The Frankenstein Meeting Room: How to Stitch Angular, React, and Svelte Into One App](https://dev.to/lutz_leonhardt/-the-frankenstein-meeting-room-how-to-stitch-angular-react-and-svelte-into-one-app-351g)
+- [How to Refactor Your React Components for RTL Languages](https://dev.to/xfq/how-to-refactor-your-react-components-for-rtl-languages-57i)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 6, 2026",
     "news": [
       {
+        "title": "How to Stop AI Slop in Production: A Two-Layer Validator for LLM Output (2026)",
+        "link": "https://dev.to/dumebii/how-to-stop-ai-slop-in-production-a-two-layer-validator-for-llm-output-2026-56fj",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))",
         "link": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AI Can Write HTML Now — Do Visual Editors Still Matter?",
-        "link": "https://dev.to/xxchen/ai-can-write-html-now-do-visual-editors-still-matter-2lo8",
+        "title": "How I Built an Autonomous AI News Platform That Publishes 20 Articles/Day",
+        "link": "https://dev.to/harrisgnr/how-i-built-an-autonomous-ai-news-platform-that-publishes-20-articlesday-nmp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The SSR State Management Trap: defineStore vs defineContextStore",
-        "link": "https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The SSR State Management Trap: defineStore vs defineContextStore",
-        "link": "https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k",
+        "title": "Lighthouse Said It Was Fast. My Users Kept Clicking the Same Button.",
+        "link": "https://dev.to/shubhradev/lighthouse-said-it-was-fast-my-users-kept-clicking-the-same-button-4lng",
         "source": "Dev.to React"
       },
       {
-        "title": "JavaScript Bundlers in 2026: Vite, Rspack, Turbopack, and the End of an Era",
-        "link": "https://dev.to/thedailyagent/javascript-bundlers-in-2026-vite-rspack-turbopack-and-the-end-of-an-era-16hk",
+        "title": "The Frankenstein Meeting Room: How to Stitch Angular, React, and Svelte Into One App",
+        "link": "https://dev.to/lutz_leonhardt/-the-frankenstein-meeting-room-how-to-stitch-angular-react-and-svelte-into-one-app-351g",
         "source": "Dev.to React"
       },
       {
-        "title": "Lovable vs Replit — Which One Is Actually Better?",
-        "link": "https://dev.to/aichannode/lovable-vs-replit-which-one-is-actually-better-340c",
+        "title": "How to Refactor Your React Components for RTL Languages",
+        "link": "https://dev.to/xfq/how-to-refactor-your-react-components-for-rtl-languages-57i",
         "source": "Dev.to React"
       },
       {
