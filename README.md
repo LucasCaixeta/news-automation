@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 6, 2026)
+### Today's Updates (May 7, 2026)
+
+#### Dev.to JavaScript
+
+- [🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))](https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab)
+- [Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.](https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb)
+- [How I Inject Text Into Any Windows App (Including Elevated Processes)](https://dev.to/howmindswork/how-i-inject-text-into-any-windows-app-including-elevated-processes-4jl6)
+
+#### Dev.to React
+
+- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n)
+- [Tối Ưu Hiệu Suất Ứng Dụng React: Đừng Để App Chạy Như 'Rùa Bò'!](https://dev.to/itprepvn/toi-uu-hieu-suat-ung-dung-react-dung-de-app-chay-nhu-rua-bo-12gj)
+- [ReactJs Performance ~ Memory Leak Prevention ~](https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 5, 2026)
+### 2 Days Ago (May 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Browser App Store That Fetches GitHub Releases](https://dev.to/iamovi/i-built-a-browser-app-store-that-fetches-github-releases-407d)
 - [Combining Virtual Scroll With AI — Keeping 50,000 Log Lines Fast While Adding Gemini](https://dev.to/hiyoyok/combining-virtual-scroll-with-ai-keeping-50000-log-lines-fast-while-adding-gemini-3ph0)
 - [AI Button UX — Where to Put It, How to Label It, What to Show While Waiting](https://dev.to/hiyoyok/ai-button-ux-where-to-put-it-how-to-label-it-what-to-show-while-waiting-3a7m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 4, 2026)
-
-#### Dev.to JavaScript
-
-- [A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Interview Code Review"](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j)
-- [I built an embeddable changelog SaaS with Next.js 14 + Supabase (and it's free to start)](https://dev.to/maelchao/i-built-an-embeddable-changelog-saas-with-nextjs-14-supabase-and-its-free-to-start-8i1)
-- [60–80% of your CVEs are unreachable. Here's how to prove it.](https://dev.to/rjonmshka/60-80-of-your-cves-are-unreachable-heres-how-to-prove-it-pd0)
-
-#### Dev.to React
-
-- [How to Build a SaaS App Faster Without Rebuilding the Same Boilerplate Twice](https://dev.to/thekarlesi/how-to-build-a-saas-app-faster-without-rebuilding-the-same-boilerplate-twice-1nbg)
-- [I built a React component doc generator that outputs Storybook stories](https://dev.to/vcvstle/i-built-a-react-component-doc-generator-that-outputs-storybook-stories-2lde)
-- [I built and deployed my first full stack SaaS in 5 weeks while working full time](https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-07",
+    "formattedDate": "May 7, 2026",
+    "news": [
+      {
+        "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))",
+        "link": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.",
+        "link": "https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Inject Text Into Any Windows App (Including Elevated Processes)",
+        "link": "https://dev.to/howmindswork/how-i-inject-text-into-any-windows-app-including-elevated-processes-4jl6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions",
+        "link": "https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Tối Ưu Hiệu Suất Ứng Dụng React: Đừng Để App Chạy Như 'Rùa Bò'!",
+        "link": "https://dev.to/itprepvn/toi-uu-hieu-suat-ung-dung-react-dung-de-app-chay-nhu-rua-bo-12gj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ReactJs Performance ~ Memory Leak Prevention ~",
+        "link": "https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-06",
     "formattedDate": "May 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "AI Button UX — Where to Put It, How to Label It, What to Show While Waiting",
         "link": "https://dev.to/hiyoyok/ai-button-ux-where-to-put-it-how-to-label-it-what-to-show-while-waiting-3a7m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-04",
-    "formattedDate": "May 4, 2026",
-    "news": [
-      {
-        "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-        "link": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built an embeddable changelog SaaS with Next.js 14 + Supabase (and it's free to start)",
-        "link": "https://dev.to/maelchao/i-built-an-embeddable-changelog-saas-with-nextjs-14-supabase-and-its-free-to-start-8i1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "60–80% of your CVEs are unreachable. Here's how to prove it.",
-        "link": "https://dev.to/rjonmshka/60-80-of-your-cves-are-unreachable-heres-how-to-prove-it-pd0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Build a SaaS App Faster Without Rebuilding the Same Boilerplate Twice",
-        "link": "https://dev.to/thekarlesi/how-to-build-a-saas-app-faster-without-rebuilding-the-same-boilerplate-twice-1nbg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a React component doc generator that outputs Storybook stories",
-        "link": "https://dev.to/vcvstle/i-built-a-react-component-doc-generator-that-outputs-storybook-stories-2lde",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
-        "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
         "source": "Dev.to React"
       },
       {
