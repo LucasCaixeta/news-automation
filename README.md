@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))](https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab)
-- [Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.](https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb)
-- [How I Inject Text Into Any Windows App (Including Elevated Processes)](https://dev.to/howmindswork/how-i-inject-text-into-any-windows-app-including-elevated-processes-4jl6)
+- [Building LoreKeeper: An Immersive 3D Library to Bridge EPUBs and AI](https://dev.to/gabriele_trovato_e7184eb0/building-lorekeeper-an-immersive-3d-library-to-bridge-epubs-and-ai-14go)
+- [I replaced ws with 2.5KB of code and deleted 14 dependencies](https://dev.to/rabbxdev/i-replaced-ws-with-25kb-of-code-and-deleted-14-dependencies-2352)
+- [Kiboko to Sherehe(polite): From Strict Go Rules to JavaScript Chaos](https://dev.to/amonoff/kiboko-to-sherehepolite-from-strict-go-rules-to-javascript-chaos-350m)
 
 #### Dev.to React
 
-- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n)
-- [Tối Ưu Hiệu Suất Ứng Dụng React: Đừng Để App Chạy Như 'Rùa Bò'!](https://dev.to/itprepvn/toi-uu-hieu-suat-ung-dung-react-dung-de-app-chay-nhu-rua-bo-12gj)
-- [ReactJs Performance ~ Memory Leak Prevention ~](https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f)
+- [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
+- [Why I Didn’t Let AI Handle My Scroll Animation: Astro, React, and TypeScript Architecture](https://dev.to/nyaomaru/why-i-didnt-let-ai-handle-my-scroll-animation-astro-react-and-typescript-architecture-37k2)
+- [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 7, 2026",
     "news": [
       {
-        "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))",
-        "link": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
+        "title": "Building LoreKeeper: An Immersive 3D Library to Bridge EPUBs and AI",
+        "link": "https://dev.to/gabriele_trovato_e7184eb0/building-lorekeeper-an-immersive-3d-library-to-bridge-epubs-and-ai-14go",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.",
-        "link": "https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb",
+        "title": "I replaced ws with 2.5KB of code and deleted 14 dependencies",
+        "link": "https://dev.to/rabbxdev/i-replaced-ws-with-25kb-of-code-and-deleted-14-dependencies-2352",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Inject Text Into Any Windows App (Including Elevated Processes)",
-        "link": "https://dev.to/howmindswork/how-i-inject-text-into-any-windows-app-including-elevated-processes-4jl6",
+        "title": "Kiboko to Sherehe(polite): From Strict Go Rules to JavaScript Chaos",
+        "link": "https://dev.to/amonoff/kiboko-to-sherehepolite-from-strict-go-rules-to-javascript-chaos-350m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions",
-        "link": "https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n",
+        "title": "How I Built a Whiteboard App with 3 Dependencies",
+        "link": "https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3",
         "source": "Dev.to React"
       },
       {
-        "title": "Tối Ưu Hiệu Suất Ứng Dụng React: Đừng Để App Chạy Như 'Rùa Bò'!",
-        "link": "https://dev.to/itprepvn/toi-uu-hieu-suat-ung-dung-react-dung-de-app-chay-nhu-rua-bo-12gj",
+        "title": "Why I Didn’t Let AI Handle My Scroll Animation: Astro, React, and TypeScript Architecture",
+        "link": "https://dev.to/nyaomaru/why-i-didnt-let-ai-handle-my-scroll-animation-astro-react-and-typescript-architecture-37k2",
         "source": "Dev.to React"
       },
       {
-        "title": "ReactJs Performance ~ Memory Leak Prevention ~",
-        "link": "https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f",
+        "title": "# The Hidden Costs of Microfrontends — Interactive Edge Cases",
+        "link": "https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6",
         "source": "Dev.to React"
       },
       {
