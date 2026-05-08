@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Angular’s New injectAsync() API Explained](https://dev.to/brianmtreese/angulars-new-injectasync-api-explained-41fh)
-- [Building a 2D guillotine cutting optimizer for sheet goods on Capacitor + React](https://dev.to/kavelaltd/building-a-2d-guillotine-cutting-optimizer-for-sheet-goods-on-capacitor-react-184f)
-- [The Node.js Patterns I Wish I Knew 3 Years Ago](https://dev.to/mzunain/the-nodejs-patterns-i-wish-i-knew-3-years-ago-36oc)
+- [10 Cool CodePen Demos (April 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2026-4lm6)
+- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
+- [Owned Async Work In TypeScript. Promise.race Does Not Cancel Your Work](https://dev.to/admilsoncossa/owned-async-work-in-typescript-ogp)
 
 #### Dev.to React
 
 - [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
-- [Building a 2D guillotine cutting optimizer for sheet goods on Capacitor + React](https://dev.to/kavelaltd/building-a-2d-guillotine-cutting-optimizer-for-sheet-goods-on-capacitor-react-184f)
-- [deepsec, vercel-openclaw, Next.js Security Releases, Adapters API, portless, shadcn/ui, Vercel Weekly](https://dev.to/erfanebrahimnia/deepsec-vercel-openclaw-nextjs-security-releases-adapters-api-portless-shadcnui-vercel-11ap)
+- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
+- [Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código](https://dev.to/jtorchia/clipboard-api-falla-en-typescript-los-4-casos-que-nadie-documenta-y-como-los-encontre-en-mi-codigo-4a4d)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 8, 2026",
     "news": [
       {
-        "title": "Angular’s New injectAsync() API Explained",
-        "link": "https://dev.to/brianmtreese/angulars-new-injectasync-api-explained-41fh",
+        "title": "10 Cool CodePen Demos (April 2026)",
+        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2026-4lm6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a 2D guillotine cutting optimizer for sheet goods on Capacitor + React",
-        "link": "https://dev.to/kavelaltd/building-a-2d-guillotine-cutting-optimizer-for-sheet-goods-on-capacitor-react-184f",
+        "title": "Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL",
+        "link": "https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Node.js Patterns I Wish I Knew 3 Years Ago",
-        "link": "https://dev.to/mzunain/the-nodejs-patterns-i-wish-i-knew-3-years-ago-36oc",
+        "title": "Owned Async Work In TypeScript. Promise.race Does Not Cancel Your Work",
+        "link": "https://dev.to/admilsoncossa/owned-async-work-in-typescript-ogp",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Building a 2D guillotine cutting optimizer for sheet goods on Capacitor + React",
-        "link": "https://dev.to/kavelaltd/building-a-2d-guillotine-cutting-optimizer-for-sheet-goods-on-capacitor-react-184f",
+        "title": "Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL",
+        "link": "https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea",
         "source": "Dev.to React"
       },
       {
-        "title": "deepsec, vercel-openclaw, Next.js Security Releases, Adapters API, portless, shadcn/ui, Vercel Weekly",
-        "link": "https://dev.to/erfanebrahimnia/deepsec-vercel-openclaw-nextjs-security-releases-adapters-api-portless-shadcnui-vercel-11ap",
+        "title": "Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código",
+        "link": "https://dev.to/jtorchia/clipboard-api-falla-en-typescript-los-4-casos-que-nadie-documenta-y-como-los-encontre-en-mi-codigo-4a4d",
         "source": "Dev.to React"
       },
       {
