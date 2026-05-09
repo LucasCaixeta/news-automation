@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 8, 2026)
+### Today's Updates (May 9, 2026)
+
+#### Dev.to JavaScript
+
+- ["My Team Had GCP Credits. Claude Code Wanted an Anthropic Key."](https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm)
+- [How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack](https://dev.to/rdin777/how-a-single-javascript-file-bypassed-a-15b-multi-sig-anatomy-of-the-bybit-hack-52c5)
+- [I Built a Personal Finance App That Doesn't Touch Your Data](https://dev.to/dpkpr/i-built-a-personal-finance-app-that-doesnt-touch-your-data-2fl4)
+
+#### Dev.to React
+
+- [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
+- [Why Formik `isValid` Doesn’t Update Correctly in Multi-Step Forms (And the Fix That Worked for Me)](https://dev.to/shivani_ravikumar/why-formik-isvalid-doesnt-update-correctly-in-multi-step-forms-and-the-fix-that-worked-for-me-lp3)
+- [Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React](https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 7, 2026)
+### 2 Days Ago (May 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
 - [Why I Didn’t Let AI Handle My Scroll Animation: Astro, React, and TypeScript Architecture](https://dev.to/nyaomaru/why-i-didnt-let-ai-handle-my-scroll-animation-astro-react-and-typescript-architecture-37k2)
 - [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 6, 2026)
-
-#### Dev.to JavaScript
-
-- [How to Stop AI Slop in Production: A Two-Layer Validator for LLM Output (2026)](https://dev.to/dumebii/how-to-stop-ai-slop-in-production-a-two-layer-validator-for-llm-output-2026-56fj)
-- [🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))](https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab)
-- [How I Built an Autonomous AI News Platform That Publishes 20 Articles/Day](https://dev.to/harrisgnr/how-i-built-an-autonomous-ai-news-platform-that-publishes-20-articlesday-nmp)
-
-#### Dev.to React
-
-- [Lighthouse Said It Was Fast. My Users Kept Clicking the Same Button.](https://dev.to/shubhradev/lighthouse-said-it-was-fast-my-users-kept-clicking-the-same-button-4lng)
-- [The Frankenstein Meeting Room: How to Stitch Angular, React, and Svelte Into One App](https://dev.to/lutz_leonhardt/-the-frankenstein-meeting-room-how-to-stitch-angular-react-and-svelte-into-one-app-351g)
-- [How to Refactor Your React Components for RTL Languages](https://dev.to/xfq/how-to-refactor-your-react-components-for-rtl-languages-57i)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-09",
+    "formattedDate": "May 9, 2026",
+    "news": [
+      {
+        "title": "\"My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.\"",
+        "link": "https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack",
+        "link": "https://dev.to/rdin777/how-a-single-javascript-file-bypassed-a-15b-multi-sig-anatomy-of-the-bybit-hack-52c5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Personal Finance App That Doesn't Touch Your Data",
+        "link": "https://dev.to/dpkpr/i-built-a-personal-finance-app-that-doesnt-touch-your-data-2fl4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a Whiteboard App with 3 Dependencies",
+        "link": "https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Formik `isValid` Doesn’t Update Correctly in Multi-Step Forms (And the Fix That Worked for Me)",
+        "link": "https://dev.to/shivani_ravikumar/why-formik-isvalid-doesnt-update-correctly-in-multi-step-forms-and-the-fix-that-worked-for-me-lp3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React",
+        "link": "https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-08",
     "formattedDate": "May 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "# The Hidden Costs of Microfrontends — Interactive Edge Cases",
         "link": "https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "formattedDate": "May 6, 2026",
-    "news": [
-      {
-        "title": "How to Stop AI Slop in Production: A Two-Layer Validator for LLM Output (2026)",
-        "link": "https://dev.to/dumebii/how-to-stop-ai-slop-in-production-a-two-layer-validator-for-llm-output-2026-56fj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))",
-        "link": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built an Autonomous AI News Platform That Publishes 20 Articles/Day",
-        "link": "https://dev.to/harrisgnr/how-i-built-an-autonomous-ai-news-platform-that-publishes-20-articlesday-nmp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Lighthouse Said It Was Fast. My Users Kept Clicking the Same Button.",
-        "link": "https://dev.to/shubhradev/lighthouse-said-it-was-fast-my-users-kept-clicking-the-same-button-4lng",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Frankenstein Meeting Room: How to Stitch Angular, React, and Svelte Into One App",
-        "link": "https://dev.to/lutz_leonhardt/-the-frankenstein-meeting-room-how-to-stitch-angular-react-and-svelte-into-one-app-351g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Refactor Your React Components for RTL Languages",
-        "link": "https://dev.to/xfq/how-to-refactor-your-react-components-for-rtl-languages-57i",
         "source": "Dev.to React"
       },
       {
