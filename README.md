@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- ["My Team Had GCP Credits. Claude Code Wanted an Anthropic Key."](https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm)
-- [How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack](https://dev.to/rdin777/how-a-single-javascript-file-bypassed-a-15b-multi-sig-anatomy-of-the-bybit-hack-52c5)
-- [I Built a Personal Finance App That Doesn't Touch Your Data](https://dev.to/dpkpr/i-built-a-personal-finance-app-that-doesnt-touch-your-data-2fl4)
+- [Your Recursion Is Lying to You](https://dev.to/gkoos/your-recursion-is-lying-to-you-2g7n)
+- [Frontend Frameworks: Which One, When, and Why It Actually Matters](https://dev.to/oketch/frontend-frameworks-which-one-when-and-why-it-actually-matters-1ji6)
+- [The Intuitive Interface: Moving Beyond the Static Layout](https://dev.to/omrajguru05/the-intuitive-interface-moving-beyond-the-static-layout-4ojc)
 
 #### Dev.to React
 
+- [I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl)
+- [Stop hand-drawing skeletons. Let your UI trace itself magically.](https://dev.to/jeetvora331/stop-hand-drawing-skeletons-let-your-ui-trace-itself-magically-3pga)
 - [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
-- [Why Formik `isValid` Doesn’t Update Correctly in Multi-Step Forms (And the Fix That Worked for Me)](https://dev.to/shivani_ravikumar/why-formik-isvalid-doesnt-update-correctly-in-multi-step-forms-and-the-fix-that-worked-for-me-lp3)
-- [Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React](https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 9, 2026",
     "news": [
       {
-        "title": "\"My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.\"",
-        "link": "https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm",
+        "title": "Your Recursion Is Lying to You",
+        "link": "https://dev.to/gkoos/your-recursion-is-lying-to-you-2g7n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How a Single JavaScript File Bypassed a $1.5B Multi-Sig: Anatomy of the Bybit Hack",
-        "link": "https://dev.to/rdin777/how-a-single-javascript-file-bypassed-a-15b-multi-sig-anatomy-of-the-bybit-hack-52c5",
+        "title": "Frontend Frameworks: Which One, When, and Why It Actually Matters",
+        "link": "https://dev.to/oketch/frontend-frameworks-which-one-when-and-why-it-actually-matters-1ji6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Personal Finance App That Doesn't Touch Your Data",
-        "link": "https://dev.to/dpkpr/i-built-a-personal-finance-app-that-doesnt-touch-your-data-2fl4",
+        "title": "The Intuitive Interface: Moving Beyond the Static Layout",
+        "link": "https://dev.to/omrajguru05/the-intuitive-interface-moving-beyond-the-static-layout-4ojc",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
+        "link": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop hand-drawing skeletons. Let your UI trace itself magically.",
+        "link": "https://dev.to/jeetvora331/stop-hand-drawing-skeletons-let-your-ui-trace-itself-magically-3pga",
+        "source": "Dev.to React"
       },
       {
         "title": "How I Built a Whiteboard App with 3 Dependencies",
         "link": "https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Formik `isValid` Doesn’t Update Correctly in Multi-Step Forms (And the Fix That Worked for Me)",
-        "link": "https://dev.to/shivani_ravikumar/why-formik-isvalid-doesnt-update-correctly-in-multi-step-forms-and-the-fix-that-worked-for-me-lp3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React",
-        "link": "https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m",
         "source": "Dev.to React"
       },
       {
