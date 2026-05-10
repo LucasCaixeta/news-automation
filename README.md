@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Reading Apple Pencil Pressure in the Browser — PointerEvent, getCoalescedEvents(), and the e.pressure Trap](https://dev.to/sendotltd/reading-apple-pencil-pressure-in-the-browser-pointerevent-getcoalescedevents-and-the-2e23)
-- [Vite Cold Start White Screen? A Plugin Shows Resource Loading on Page](https://dev.to/devzuo/vite-cold-start-white-screen-a-plugin-shows-resource-loading-on-page-4gj7)
-- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6)
+- [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm)
+- [OKLab vs RGB: Why Your Color Matching Algorithm is Wrong](https://dev.to/bmbrick/oklab-vs-rgb-why-your-color-matching-algorithm-is-wrong-2dd0)
+- [How I Built a Perceptual Color Quantization Engine for LEGO Mosaics](https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm)
 
 #### Dev.to React
 
-- [I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl)
-- [I Built a Free Online Tools Website with Next.js - Here’s What I Learned](https://dev.to/danial_babar/i-built-a-free-online-tools-website-with-nextjs-heres-what-i-learned-4me2)
-- [Two weeks of building Bible School LMS in public: first contributor, bilingual content, real production bug](https://dev.to/arvavit/two-weeks-of-building-bible-school-lms-in-public-first-contributor-bilingual-content-real-11am)
+- [TIL canvas.captureStream() is video-only — here's how I mixed voiceover + music into a MediaRecorder export" published: true](https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d)
+- [Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked](https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05)
+- [I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically](https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 10, 2026",
     "news": [
       {
-        "title": "Reading Apple Pencil Pressure in the Browser — PointerEvent, getCoalescedEvents(), and the e.pressure Trap",
-        "link": "https://dev.to/sendotltd/reading-apple-pencil-pressure-in-the-browser-pointerevent-getcoalescedevents-and-the-2e23",
+        "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+        "link": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Vite Cold Start White Screen? A Plugin Shows Resource Loading on Page",
-        "link": "https://dev.to/devzuo/vite-cold-start-white-screen-a-plugin-shows-resource-loading-on-page-4gj7",
+        "title": "OKLab vs RGB: Why Your Color Matching Algorithm is Wrong",
+        "link": "https://dev.to/bmbrick/oklab-vs-rgb-why-your-color-matching-algorithm-is-wrong-2dd0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "String Polyfills and Common Interview Methods in JavaScript",
-        "link": "https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6",
+        "title": "How I Built a Perceptual Color Quantization Engine for LEGO Mosaics",
+        "link": "https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-        "link": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
+        "title": "TIL canvas.captureStream() is video-only — here's how I mixed voiceover + music into a MediaRecorder export\" published: true",
+        "link": "https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Free Online Tools Website with Next.js - Here’s What I Learned",
-        "link": "https://dev.to/danial_babar/i-built-a-free-online-tools-website-with-nextjs-heres-what-i-learned-4me2",
+        "title": "Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked",
+        "link": "https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05",
         "source": "Dev.to React"
       },
       {
-        "title": "Two weeks of building Bible School LMS in public: first contributor, bilingual content, real production bug",
-        "link": "https://dev.to/arvavit/two-weeks-of-building-bible-school-lms-in-public-first-contributor-bilingual-content-real-11am",
+        "title": "I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically",
+        "link": "https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne",
         "source": "Dev.to React"
       },
       {
