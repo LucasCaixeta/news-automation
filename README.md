@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - ["I Thought Adding Google-Style OAuth to My Local AI Gateway Would Take One Evening"](https://dev.to/codekingai/i-thought-adding-google-style-oauth-to-my-local-ai-gateway-would-take-one-evening-49ii)
-- [60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes](https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1)
-- [Why Your Angular Gantt Lags at 10,000 Tasks (And How to Fix It)](https://dev.to/lenormor/why-your-angular-gantt-lags-at-10000-tasks-and-how-to-fix-it-548)
+- [Bun, Zig, and Rust: What the Rewrite Rumor Means for Your Stack](https://dev.to/alanwest/bun-zig-and-rust-what-the-rewrite-rumor-means-for-your-stack-3ka0)
+- [How I Built a Free Markdown-to-PDF Converter in the Browser](https://dev.to/markdownconvert/how-i-built-a-free-markdown-to-pdf-converter-in-the-browser-1emb)
 
 #### Dev.to React
 
-- [60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes](https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1)
-- [Scroll Restoration After Micro-Frontend Redirects: Double RAF + MutationObserver](https://dev.to/yuki-uix/scroll-restoration-after-micro-frontend-redirects-double-raf-mutationobserver-3h77)
-- [My Full Stack Web Development Internship Journey at Teyzix Core](https://dev.to/yasirawan4831/my-full-stack-web-development-internship-journey-at-teyzix-core-b40)
+- [Inline style attributes vs CSS variables: a Tailwind v4 light-mode debug story](https://dev.to/forrestmiller/inline-style-attributes-vs-css-variables-a-tailwind-v4-light-mode-debug-story-28ic)
+- [What Building a Quiz Web App Taught Me About React](https://dev.to/kathirvel-s/what-building-a-quiz-web-app-taught-me-about-react-fi1)
+- [Enterprise Newbie: After 20 Years in IT Support, I Finally Started Building Instead of Just Fixing](https://dev.to/david_sekanic_9063960c8f9/enterprise-newbie-after-20-years-in-it-support-i-finally-started-building-instead-of-just-fixing-311b)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes",
-        "link": "https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1",
+        "title": "Bun, Zig, and Rust: What the Rewrite Rumor Means for Your Stack",
+        "link": "https://dev.to/alanwest/bun-zig-and-rust-what-the-rewrite-rumor-means-for-your-stack-3ka0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Your Angular Gantt Lags at 10,000 Tasks (And How to Fix It)",
-        "link": "https://dev.to/lenormor/why-your-angular-gantt-lags-at-10000-tasks-and-how-to-fix-it-548",
+        "title": "How I Built a Free Markdown-to-PDF Converter in the Browser",
+        "link": "https://dev.to/markdownconvert/how-i-built-a-free-markdown-to-pdf-converter-in-the-browser-1emb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes",
-        "link": "https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1",
+        "title": "Inline style attributes vs CSS variables: a Tailwind v4 light-mode debug story",
+        "link": "https://dev.to/forrestmiller/inline-style-attributes-vs-css-variables-a-tailwind-v4-light-mode-debug-story-28ic",
         "source": "Dev.to React"
       },
       {
-        "title": "Scroll Restoration After Micro-Frontend Redirects: Double RAF + MutationObserver",
-        "link": "https://dev.to/yuki-uix/scroll-restoration-after-micro-frontend-redirects-double-raf-mutationobserver-3h77",
+        "title": "What Building a Quiz Web App Taught Me About React",
+        "link": "https://dev.to/kathirvel-s/what-building-a-quiz-web-app-taught-me-about-react-fi1",
         "source": "Dev.to React"
       },
       {
-        "title": "My Full Stack Web Development Internship Journey at Teyzix Core",
-        "link": "https://dev.to/yasirawan4831/my-full-stack-web-development-internship-journey-at-teyzix-core-b40",
+        "title": "Enterprise Newbie: After 20 Years in IT Support, I Finally Started Building Instead of Just Fixing",
+        "link": "https://dev.to/david_sekanic_9063960c8f9/enterprise-newbie-after-20-years-in-it-support-i-finally-started-building-instead-of-just-fixing-311b",
         "source": "Dev.to React"
       },
       {
