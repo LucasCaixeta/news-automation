@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 10, 2026)
+### Today's Updates (May 11, 2026)
+
+#### Dev.to JavaScript
+
+- ["I Thought Adding Google-Style OAuth to My Local AI Gateway Would Take One Evening"](https://dev.to/codekingai/i-thought-adding-google-style-oauth-to-my-local-ai-gateway-would-take-one-evening-49ii)
+- [60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes](https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1)
+- [Why Your Angular Gantt Lags at 10,000 Tasks (And How to Fix It)](https://dev.to/lenormor/why-your-angular-gantt-lags-at-10000-tasks-and-how-to-fix-it-548)
+
+#### Dev.to React
+
+- [60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes](https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1)
+- [Scroll Restoration After Micro-Frontend Redirects: Double RAF + MutationObserver](https://dev.to/yuki-uix/scroll-restoration-after-micro-frontend-redirects-double-raf-mutationobserver-3h77)
+- [My Full Stack Web Development Internship Journey at Teyzix Core](https://dev.to/yasirawan4831/my-full-stack-web-development-internship-journey-at-teyzix-core-b40)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 9, 2026)
+### 2 Days Ago (May 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl)
 - [Stop hand-drawing skeletons. Let your UI trace itself magically.](https://dev.to/jeetvora331/stop-hand-drawing-skeletons-let-your-ui-trace-itself-magically-3pga)
 - [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 8, 2026)
-
-#### Dev.to JavaScript
-
-- [10 Cool CodePen Demos (April 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2026-4lm6)
-- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
-- [Owned Async Work In TypeScript. Promise.race Does Not Cancel Your Work](https://dev.to/admilsoncossa/owned-async-work-in-typescript-ogp)
-
-#### Dev.to React
-
-- [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
-- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
-- [Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código](https://dev.to/jtorchia/clipboard-api-falla-en-typescript-los-4-casos-que-nadie-documenta-y-como-los-encontre-en-mi-codigo-4a4d)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-11",
+    "formattedDate": "May 11, 2026",
+    "news": [
+      {
+        "title": "\"I Thought Adding Google-Style OAuth to My Local AI Gateway Would Take One Evening\"",
+        "link": "https://dev.to/codekingai/i-thought-adding-google-style-oauth-to-my-local-ai-gateway-would-take-one-evening-49ii",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes",
+        "link": "https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Your Angular Gantt Lags at 10,000 Tasks (And How to Fix It)",
+        "link": "https://dev.to/lenormor/why-your-angular-gantt-lags-at-10000-tasks-and-how-to-fix-it-548",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes",
+        "link": "https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Scroll Restoration After Micro-Frontend Redirects: Double RAF + MutationObserver",
+        "link": "https://dev.to/yuki-uix/scroll-restoration-after-micro-frontend-redirects-double-raf-mutationobserver-3h77",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My Full Stack Web Development Internship Journey at Teyzix Core",
+        "link": "https://dev.to/yasirawan4831/my-full-stack-web-development-internship-journey-at-teyzix-core-b40",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-10",
     "formattedDate": "May 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built a Whiteboard App with 3 Dependencies",
         "link": "https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "formattedDate": "May 8, 2026",
-    "news": [
-      {
-        "title": "10 Cool CodePen Demos (April 2026)",
-        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2026-4lm6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL",
-        "link": "https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Owned Async Work In TypeScript. Promise.race Does Not Cancel Your Work",
-        "link": "https://dev.to/admilsoncossa/owned-async-work-in-typescript-ogp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Whiteboard App with 3 Dependencies",
-        "link": "https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js & GLSL",
-        "link": "https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código",
-        "link": "https://dev.to/jtorchia/clipboard-api-falla-en-typescript-los-4-casos-que-nadie-documenta-y-como-los-encontre-en-mi-codigo-4a4d",
         "source": "Dev.to React"
       },
       {
