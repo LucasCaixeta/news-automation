@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 11, 2026)
+### Today's Updates (May 12, 2026)
+
+#### Dev.to JavaScript
+
+- [Google Forms + Apps Script Is a Workflow, Not Just a Notification](https://dev.to/lovanaut55/google-forms-apps-script-is-a-workflow-not-just-a-notification-2bn2)
+- [Your next supply-chain attack will come from a package you've never heard of](https://dev.to/layzerzero105/your-next-supply-chain-attack-will-come-from-a-package-youve-never-heard-of-4dpl)
+- [Angular Addicts #49: AnalogJS 2.5, Agentic Angular & more](https://dev.to/playfulprogramming-angular/angular-addicts-49-analogjs-25-agentic-angular-more-1pj8)
+
+#### Dev.to React
+
+- [Building a Remote Health Monitor: Integrating rPPG with React and Python](https://dev.to/deepanshuvermacodes/building-a-remote-health-monitor-integrating-rppg-with-react-and-python-4hm6)
+- [I built ZeroAPI – Free AI tools for developers (no signup, no API key)](https://dev.to/abhishek_singh_5602d9d6d0/i-built-zeroapi-free-ai-tools-for-developers-no-signup-no-api-key-2nc5)
+- [Catalyst vs Hydrogen: Engineering Decision Guide (2026)](https://dev.to/no7software-uk/catalyst-vs-hydrogen-engineering-decision-guide-2026-1fff)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 10, 2026)
+### 2 Days Ago (May 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TIL canvas.captureStream() is video-only — here's how I mixed voiceover + music into a MediaRecorder export" published: true](https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d)
 - [Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked](https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05)
 - [I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically](https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 9, 2026)
-
-#### Dev.to JavaScript
-
-- [Your Recursion Is Lying to You](https://dev.to/gkoos/your-recursion-is-lying-to-you-2g7n)
-- [Frontend Frameworks: Which One, When, and Why It Actually Matters](https://dev.to/oketch/frontend-frameworks-which-one-when-and-why-it-actually-matters-1ji6)
-- [The Intuitive Interface: Moving Beyond the Static Layout](https://dev.to/omrajguru05/the-intuitive-interface-moving-beyond-the-static-layout-4ojc)
-
-#### Dev.to React
-
-- [I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl)
-- [Stop hand-drawing skeletons. Let your UI trace itself magically.](https://dev.to/jeetvora331/stop-hand-drawing-skeletons-let-your-ui-trace-itself-magically-3pga)
-- [How I Built a Whiteboard App with 3 Dependencies](https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-12",
+    "formattedDate": "May 12, 2026",
+    "news": [
+      {
+        "title": "Google Forms + Apps Script Is a Workflow, Not Just a Notification",
+        "link": "https://dev.to/lovanaut55/google-forms-apps-script-is-a-workflow-not-just-a-notification-2bn2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your next supply-chain attack will come from a package you've never heard of",
+        "link": "https://dev.to/layzerzero105/your-next-supply-chain-attack-will-come-from-a-package-youve-never-heard-of-4dpl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Angular Addicts #49: AnalogJS 2.5, Agentic Angular & more",
+        "link": "https://dev.to/playfulprogramming-angular/angular-addicts-49-analogjs-25-agentic-angular-more-1pj8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Remote Health Monitor: Integrating rPPG with React and Python",
+        "link": "https://dev.to/deepanshuvermacodes/building-a-remote-health-monitor-integrating-rppg-with-react-and-python-4hm6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built ZeroAPI – Free AI tools for developers (no signup, no API key)",
+        "link": "https://dev.to/abhishek_singh_5602d9d6d0/i-built-zeroapi-free-ai-tools-for-developers-no-signup-no-api-key-2nc5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Catalyst vs Hydrogen: Engineering Decision Guide (2026)",
+        "link": "https://dev.to/no7software-uk/catalyst-vs-hydrogen-engineering-decision-guide-2026-1fff",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-11",
     "formattedDate": "May 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically",
         "link": "https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "formattedDate": "May 9, 2026",
-    "news": [
-      {
-        "title": "Your Recursion Is Lying to You",
-        "link": "https://dev.to/gkoos/your-recursion-is-lying-to-you-2g7n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Frontend Frameworks: Which One, When, and Why It Actually Matters",
-        "link": "https://dev.to/oketch/frontend-frameworks-which-one-when-and-why-it-actually-matters-1ji6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Intuitive Interface: Moving Beyond the Static Layout",
-        "link": "https://dev.to/omrajguru05/the-intuitive-interface-moving-beyond-the-static-layout-4ojc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-        "link": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop hand-drawing skeletons. Let your UI trace itself magically.",
-        "link": "https://dev.to/jeetvora331/stop-hand-drawing-skeletons-let-your-ui-trace-itself-magically-3pga",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Whiteboard App with 3 Dependencies",
-        "link": "https://dev.to/11suixing11/how-i-built-a-whiteboard-app-with-3-dependencies-bj3",
         "source": "Dev.to React"
       },
       {
