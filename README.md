@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Google Forms + Apps Script Is a Workflow, Not Just a Notification](https://dev.to/lovanaut55/google-forms-apps-script-is-a-workflow-not-just-a-notification-2bn2)
-- [Your next supply-chain attack will come from a package you've never heard of](https://dev.to/layzerzero105/your-next-supply-chain-attack-will-come-from-a-package-youve-never-heard-of-4dpl)
-- [Angular Addicts #49: AnalogJS 2.5, Agentic Angular & more](https://dev.to/playfulprogramming-angular/angular-addicts-49-analogjs-25-agentic-angular-more-1pj8)
+- [I Stopped Fighting React Server Components — Here's What Finally Made It](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho)
+- [I Thought I Knew React. Then I Watched It Re-render 47 Times on a Button Click.](https://dev.to/shudhanshuraj/i-thought-i-knew-react-then-i-watched-it-re-render-47-times-on-a-button-click-4m09)
+- [Every AI toolchain is inventing its own safety layer.](https://dev.to/sunilprakash/every-ai-toolchain-is-inventing-its-own-safety-layer-we-shipped-one-that-works-across-all-of-them-1016)
 
 #### Dev.to React
 
-- [Building a Remote Health Monitor: Integrating rPPG with React and Python](https://dev.to/deepanshuvermacodes/building-a-remote-health-monitor-integrating-rppg-with-react-and-python-4hm6)
-- [I built ZeroAPI – Free AI tools for developers (no signup, no API key)](https://dev.to/abhishek_singh_5602d9d6d0/i-built-zeroapi-free-ai-tools-for-developers-no-signup-no-api-key-2nc5)
-- [Catalyst vs Hydrogen: Engineering Decision Guide (2026)](https://dev.to/no7software-uk/catalyst-vs-hydrogen-engineering-decision-guide-2026-1fff)
+- [I Stopped Fighting React Server Components — Here's What Finally Made It](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho)
+- [How I built an Offline-First AI App using LLaMA 3 and React](https://dev.to/amit_mishra_4729/how-i-built-an-offline-first-ai-app-using-llama-3-and-react-49b)
+- [Mastering useReducer in React — The Hook That Simplifies Complex State](https://dev.to/kathirvel-s/mastering-usereducer-in-react-the-hook-that-simplifies-complex-state-3idl)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 12, 2026",
     "news": [
       {
-        "title": "Google Forms + Apps Script Is a Workflow, Not Just a Notification",
-        "link": "https://dev.to/lovanaut55/google-forms-apps-script-is-a-workflow-not-just-a-notification-2bn2",
+        "title": "I Stopped Fighting React Server Components — Here's What Finally Made It",
+        "link": "https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your next supply-chain attack will come from a package you've never heard of",
-        "link": "https://dev.to/layzerzero105/your-next-supply-chain-attack-will-come-from-a-package-youve-never-heard-of-4dpl",
+        "title": "I Thought I Knew React. Then I Watched It Re-render 47 Times on a Button Click.",
+        "link": "https://dev.to/shudhanshuraj/i-thought-i-knew-react-then-i-watched-it-re-render-47-times-on-a-button-click-4m09",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Angular Addicts #49: AnalogJS 2.5, Agentic Angular & more",
-        "link": "https://dev.to/playfulprogramming-angular/angular-addicts-49-analogjs-25-agentic-angular-more-1pj8",
+        "title": "Every AI toolchain is inventing its own safety layer.",
+        "link": "https://dev.to/sunilprakash/every-ai-toolchain-is-inventing-its-own-safety-layer-we-shipped-one-that-works-across-all-of-them-1016",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Remote Health Monitor: Integrating rPPG with React and Python",
-        "link": "https://dev.to/deepanshuvermacodes/building-a-remote-health-monitor-integrating-rppg-with-react-and-python-4hm6",
+        "title": "I Stopped Fighting React Server Components — Here's What Finally Made It",
+        "link": "https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho",
         "source": "Dev.to React"
       },
       {
-        "title": "I built ZeroAPI – Free AI tools for developers (no signup, no API key)",
-        "link": "https://dev.to/abhishek_singh_5602d9d6d0/i-built-zeroapi-free-ai-tools-for-developers-no-signup-no-api-key-2nc5",
+        "title": "How I built an Offline-First AI App using LLaMA 3 and React",
+        "link": "https://dev.to/amit_mishra_4729/how-i-built-an-offline-first-ai-app-using-llama-3-and-react-49b",
         "source": "Dev.to React"
       },
       {
-        "title": "Catalyst vs Hydrogen: Engineering Decision Guide (2026)",
-        "link": "https://dev.to/no7software-uk/catalyst-vs-hydrogen-engineering-decision-guide-2026-1fff",
+        "title": "Mastering useReducer in React — The Hook That Simplifies Complex State",
+        "link": "https://dev.to/kathirvel-s/mastering-usereducer-in-react-the-hook-that-simplifies-complex-state-3idl",
         "source": "Dev.to React"
       },
       {
