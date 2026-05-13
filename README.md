@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 12, 2026)
+### Today's Updates (May 13, 2026)
+
+#### Dev.to JavaScript
+
+- [I built a real-time typing game with no traditional backend — here's the architecture](https://dev.to/clackpit_dev/i-built-a-real-time-typing-game-with-no-traditional-backend-heres-the-architecture-513h)
+- [10 Modern JavaScript Patterns for Senior Frontend Interviews (ES2026+)](https://dev.to/aindrila_bhattacharjee_0f/10-modern-javascript-patterns-for-senior-frontend-interviews-es2026-1iik)
+- [Notion's API Now Caps Pagination at 10,000 Results — Your 'Fetch All Rows' Sync Is Silently Truncating](https://dev.to/flarecanary/notions-api-now-caps-pagination-at-10000-results-your-fetch-all-rows-sync-is-silently-4j99)
+
+#### Dev.to React
+
+- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
+- [I Replaced Arrays of Objects with One ArrayBuffer - React Native Became 200x Faster](https://dev.to/pioner92/i-replaced-arrays-of-objects-with-one-arraybuffer-react-native-became-200x-faster-349n)
+- [6 architectures I considered for a privacy-first personal SaaS — and why I built two of them](https://dev.to/deeshansharma/6-architectures-i-considered-for-a-privacy-first-personal-saas-and-why-i-built-two-of-them-pcc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 11, 2026)
+### 2 Days Ago (May 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Inline style attributes vs CSS variables: a Tailwind v4 light-mode debug story](https://dev.to/forrestmiller/inline-style-attributes-vs-css-variables-a-tailwind-v4-light-mode-debug-story-28ic)
 - [What Building a Quiz Web App Taught Me About React](https://dev.to/kathirvel-s/what-building-a-quiz-web-app-taught-me-about-react-fi1)
 - [Enterprise Newbie: After 20 Years in IT Support, I Finally Started Building Instead of Just Fixing](https://dev.to/david_sekanic_9063960c8f9/enterprise-newbie-after-20-years-in-it-support-i-finally-started-building-instead-of-just-fixing-311b)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 10, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm)
-- [OKLab vs RGB: Why Your Color Matching Algorithm is Wrong](https://dev.to/bmbrick/oklab-vs-rgb-why-your-color-matching-algorithm-is-wrong-2dd0)
-- [How I Built a Perceptual Color Quantization Engine for LEGO Mosaics](https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm)
-
-#### Dev.to React
-
-- [TIL canvas.captureStream() is video-only — here's how I mixed voiceover + music into a MediaRecorder export" published: true](https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d)
-- [Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked](https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05)
-- [I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically](https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-13",
+    "formattedDate": "May 13, 2026",
+    "news": [
+      {
+        "title": "I built a real-time typing game with no traditional backend — here's the architecture",
+        "link": "https://dev.to/clackpit_dev/i-built-a-real-time-typing-game-with-no-traditional-backend-heres-the-architecture-513h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "10 Modern JavaScript Patterns for Senior Frontend Interviews (ES2026+)",
+        "link": "https://dev.to/aindrila_bhattacharjee_0f/10-modern-javascript-patterns-for-senior-frontend-interviews-es2026-1iik",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Notion's API Now Caps Pagination at 10,000 Results — Your 'Fetch All Rows' Sync Is Silently Truncating",
+        "link": "https://dev.to/flarecanary/notions-api-now-caps-pagination-at-10000-results-your-fetch-all-rows-sync-is-silently-4j99",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+        "link": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Replaced Arrays of Objects with One ArrayBuffer - React Native Became 200x Faster",
+        "link": "https://dev.to/pioner92/i-replaced-arrays-of-objects-with-one-arraybuffer-react-native-became-200x-faster-349n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "6 architectures I considered for a privacy-first personal SaaS — and why I built two of them",
+        "link": "https://dev.to/deeshansharma/6-architectures-i-considered-for-a-privacy-first-personal-saas-and-why-i-built-two-of-them-pcc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-12",
     "formattedDate": "May 12, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Enterprise Newbie: After 20 Years in IT Support, I Finally Started Building Instead of Just Fixing",
         "link": "https://dev.to/david_sekanic_9063960c8f9/enterprise-newbie-after-20-years-in-it-support-i-finally-started-building-instead-of-just-fixing-311b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-10",
-    "formattedDate": "May 10, 2026",
-    "news": [
-      {
-        "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-        "link": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "OKLab vs RGB: Why Your Color Matching Algorithm is Wrong",
-        "link": "https://dev.to/bmbrick/oklab-vs-rgb-why-your-color-matching-algorithm-is-wrong-2dd0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Perceptual Color Quantization Engine for LEGO Mosaics",
-        "link": "https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TIL canvas.captureStream() is video-only — here's how I mixed voiceover + music into a MediaRecorder export\" published: true",
-        "link": "https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked",
-        "link": "https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically",
-        "link": "https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne",
         "source": "Dev.to React"
       },
       {
