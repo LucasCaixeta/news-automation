@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built a real-time typing game with no traditional backend — here's the architecture](https://dev.to/clackpit_dev/i-built-a-real-time-typing-game-with-no-traditional-backend-heres-the-architecture-513h)
-- [10 Modern JavaScript Patterns for Senior Frontend Interviews (ES2026+)](https://dev.to/aindrila_bhattacharjee_0f/10-modern-javascript-patterns-for-senior-frontend-interviews-es2026-1iik)
-- [Notion's API Now Caps Pagination at 10,000 Results — Your 'Fetch All Rows' Sync Is Silently Truncating](https://dev.to/flarecanary/notions-api-now-caps-pagination-at-10000-results-your-fetch-all-rows-sync-is-silently-4j99)
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- [From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2)
+- [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
 
 #### Dev.to React
 
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
-- [I Replaced Arrays of Objects with One ArrayBuffer - React Native Became 200x Faster](https://dev.to/pioner92/i-replaced-arrays-of-objects-with-one-arraybuffer-react-native-became-200x-faster-349n)
-- [6 architectures I considered for a privacy-first personal SaaS — and why I built two of them](https://dev.to/deeshansharma/6-architectures-i-considered-for-a-privacy-first-personal-saas-and-why-i-built-two-of-them-pcc)
+- [Your Repo Is Not Your Library](https://dev.to/ku5ic/your-repo-is-not-your-library-a04)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 13, 2026",
     "news": [
       {
-        "title": "I built a real-time typing game with no traditional backend — here's the architecture",
-        "link": "https://dev.to/clackpit_dev/i-built-a-real-time-typing-game-with-no-traditional-backend-heres-the-architecture-513h",
+        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
+        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "10 Modern JavaScript Patterns for Senior Frontend Interviews (ES2026+)",
-        "link": "https://dev.to/aindrila_bhattacharjee_0f/10-modern-javascript-patterns-for-senior-frontend-interviews-es2026-1iik",
+        "title": "From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything",
+        "link": "https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Notion's API Now Caps Pagination at 10,000 Results — Your 'Fetch All Rows' Sync Is Silently Truncating",
-        "link": "https://dev.to/flarecanary/notions-api-now-caps-pagination-at-10000-results-your-fetch-all-rows-sync-is-silently-4j99",
+        "title": "onclick is great, actually",
+        "link": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
+        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
+        "source": "Dev.to React"
       },
       {
         "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I Replaced Arrays of Objects with One ArrayBuffer - React Native Became 200x Faster",
-        "link": "https://dev.to/pioner92/i-replaced-arrays-of-objects-with-one-arraybuffer-react-native-became-200x-faster-349n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "6 architectures I considered for a privacy-first personal SaaS — and why I built two of them",
-        "link": "https://dev.to/deeshansharma/6-architectures-i-considered-for-a-privacy-first-personal-saas-and-why-i-built-two-of-them-pcc",
+        "title": "Your Repo Is Not Your Library",
+        "link": "https://dev.to/ku5ic/your-repo-is-not-your-library-a04",
         "source": "Dev.to React"
       },
       {
