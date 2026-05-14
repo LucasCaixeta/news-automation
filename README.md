@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
 - [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2)
-- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
+- [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
 
 #### Dev.to React
 
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
 - [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
-- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 14, 2026",
     "news": [
       {
+        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
+        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
         "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything",
-        "link": "https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2",
+        "title": "onclick is great, actually",
+        "link": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
-        "link": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
-        "source": "Dev.to JavaScript"
+        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
+        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
+        "source": "Dev.to React"
       },
       {
         "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
@@ -111,11 +116,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
         "link": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
-        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
         "source": "Dev.to React"
       },
       {
