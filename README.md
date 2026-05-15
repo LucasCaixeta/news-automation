@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
+- [Building Simple Tabs with Vanilla JavaScript](https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n)
+- [Cron Jobs in Node.js: The Practical Guide Nobody Gave Me](https://dev.to/armorbreak/cron-jobs-in-nodejs-the-practical-guide-nobody-gave-me-3mgj)
 
 #### Dev.to React
 
 - [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [I Built a Tool to Find Out Who's Not Following You Back on Instagram (And It Lives in the Browser Console)](https://dev.to/stanleyowen/i-built-a-tool-to-find-out-whos-not-following-you-back-on-instagram-and-it-lives-in-the-browser-389c)
+- [4 footguns integrating YouVersion's new platform API — and a clean Verse of the Day](https://dev.to/arvavit/4-footguns-integrating-youversions-new-platform-api-and-a-clean-verse-of-the-day-2087)
+- [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
-        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
+        "title": "Building Simple Tabs with Vanilla JavaScript",
+        "link": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "onclick is great, actually",
-        "link": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
+        "title": "Cron Jobs in Node.js: The Practical Guide Nobody Gave Me",
+        "link": "https://dev.to/armorbreak/cron-jobs-in-nodejs-the-practical-guide-nobody-gave-me-3mgj",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
-        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
+        "title": "4 footguns integrating YouVersion's new platform API — and a clean Verse of the Day",
+        "link": "https://dev.to/arvavit/4-footguns-integrating-youversions-new-platform-api-and-a-clean-verse-of-the-day-2087",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Tool to Find Out Who's Not Following You Back on Instagram (And It Lives in the Browser Console)",
-        "link": "https://dev.to/stanleyowen/i-built-a-tool-to-find-out-whos-not-following-you-back-on-instagram-and-it-lives-in-the-browser-389c",
+        "title": "When dev and prod disagree about your CSS",
+        "link": "https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe",
         "source": "Dev.to React"
       },
       {
