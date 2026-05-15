@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 14, 2026)
+### Today's Updates (May 15, 2026)
+
+#### Dev.to JavaScript
+
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
+
+#### Dev.to React
+
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- [I Built a Tool to Find Out Who's Not Following You Back on Instagram (And It Lives in the Browser Console)](https://dev.to/stanleyowen/i-built-a-tool-to-find-out-whos-not-following-you-back-on-instagram-and-it-lives-in-the-browser-389c)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 13, 2026)
+### 2 Days Ago (May 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
 - [Your Repo Is Not Your Library](https://dev.to/ku5ic/your-repo-is-not-your-library-a04)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 12, 2026)
-
-#### Dev.to JavaScript
-
-- [I Stopped Fighting React Server Components — Here's What Finally Made It](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho)
-- [I Thought I Knew React. Then I Watched It Re-render 47 Times on a Button Click.](https://dev.to/shudhanshuraj/i-thought-i-knew-react-then-i-watched-it-re-render-47-times-on-a-button-click-4m09)
-- [Every AI toolchain is inventing its own safety layer.](https://dev.to/sunilprakash/every-ai-toolchain-is-inventing-its-own-safety-layer-we-shipped-one-that-works-across-all-of-them-1016)
-
-#### Dev.to React
-
-- [I Stopped Fighting React Server Components — Here's What Finally Made It](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho)
-- [How I built an Offline-First AI App using LLaMA 3 and React](https://dev.to/amit_mishra_4729/how-i-built-an-offline-first-ai-app-using-llama-3-and-react-49b)
-- [Mastering useReducer in React — The Hook That Simplifies Complex State](https://dev.to/kathirvel-s/mastering-usereducer-in-react-the-hook-that-simplifies-complex-state-3idl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-15",
+    "formattedDate": "May 15, 2026",
+    "news": [
+      {
+        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
+        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
+        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "onclick is great, actually",
+        "link": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
+        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
+        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Tool to Find Out Who's Not Following You Back on Instagram (And It Lives in the Browser Console)",
+        "link": "https://dev.to/stanleyowen/i-built-a-tool-to-find-out-whos-not-following-you-back-on-instagram-and-it-lives-in-the-browser-389c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-14",
     "formattedDate": "May 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Your Repo Is Not Your Library",
         "link": "https://dev.to/ku5ic/your-repo-is-not-your-library-a04",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "formattedDate": "May 12, 2026",
-    "news": [
-      {
-        "title": "I Stopped Fighting React Server Components — Here's What Finally Made It",
-        "link": "https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Thought I Knew React. Then I Watched It Re-render 47 Times on a Button Click.",
-        "link": "https://dev.to/shudhanshuraj/i-thought-i-knew-react-then-i-watched-it-re-render-47-times-on-a-button-click-4m09",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Every AI toolchain is inventing its own safety layer.",
-        "link": "https://dev.to/sunilprakash/every-ai-toolchain-is-inventing-its-own-safety-layer-we-shipped-one-that-works-across-all-of-them-1016",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Stopped Fighting React Server Components — Here's What Finally Made It",
-        "link": "https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built an Offline-First AI App using LLaMA 3 and React",
-        "link": "https://dev.to/amit_mishra_4729/how-i-built-an-offline-first-ai-app-using-llama-3-and-react-49b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering useReducer in React — The Hook That Simplifies Complex State",
-        "link": "https://dev.to/kathirvel-s/mastering-usereducer-in-react-the-hook-that-simplifies-complex-state-3idl",
         "source": "Dev.to React"
       },
       {
