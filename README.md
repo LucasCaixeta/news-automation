@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Building Simple Tabs with Vanilla JavaScript](https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n)
-- [AbortController: the cancellation bugs most JavaScript devs ship](https://dev.to/solvodevnotes/abortcontroller-the-cancellation-bugs-most-javascript-devs-ship-34kn)
-- [I Built the Chrome Feature Google Never Shipped](https://dev.to/muhammad_ali_e2651e45bed9/i-built-the-chrome-feature-google-never-shipped-oko)
+- [What breaks when you ship Next.js on Cloudflare Workers](https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73)
+- [Your Node.js App Is Slow. Your AI Agent Can't Help - Until Now](https://dev.to/vola-trebla/your-nodejs-app-is-slow-your-ai-agent-cant-help-until-now-5c0o)
 
 #### Dev.to React
 
-- [Beginner's Guide to Docker: From Zero to Hero](https://dev.to/myogeshchavan97/beginners-guide-to-docker-from-zero-to-hero-4977)
-- [How I Stopped Drawing Floor Plans by Hand: My Journey Building a React Room Planner with an AI Assist](https://dev.to/xiaojun_mao_c154743594bc9/how-i-stopped-drawing-floor-plans-by-hand-my-journey-building-a-react-room-planner-with-an-ai-3k60)
-- [I Built and Open Sourced a Futuristic Neon-Styled React UI Library Called NeonBlade UI](https://dev.to/vic_prime/i-built-and-open-sourced-a-futuristic-neon-styled-react-ui-library-called-neonblade-ui-5gaf)
+- [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
+- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
+- [Merge Sort vs Bubble Sort — Why 800 Comparisons Beats 147 Every Time](https://dev.to/amargul/merge-sort-vs-bubble-sort-why-800-comparisons-beats-147-every-time-1de0)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AbortController: the cancellation bugs most JavaScript devs ship",
-        "link": "https://dev.to/solvodevnotes/abortcontroller-the-cancellation-bugs-most-javascript-devs-ship-34kn",
+        "title": "What breaks when you ship Next.js on Cloudflare Workers",
+        "link": "https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built the Chrome Feature Google Never Shipped",
-        "link": "https://dev.to/muhammad_ali_e2651e45bed9/i-built-the-chrome-feature-google-never-shipped-oko",
+        "title": "Your Node.js App Is Slow. Your AI Agent Can't Help - Until Now",
+        "link": "https://dev.to/vola-trebla/your-nodejs-app-is-slow-your-ai-agent-cant-help-until-now-5c0o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Beginner's Guide to Docker: From Zero to Hero",
-        "link": "https://dev.to/myogeshchavan97/beginners-guide-to-docker-from-zero-to-hero-4977",
+        "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
+        "link": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Stopped Drawing Floor Plans by Hand: My Journey Building a React Room Planner with an AI Assist",
-        "link": "https://dev.to/xiaojun_mao_c154743594bc9/how-i-stopped-drawing-floor-plans-by-hand-my-journey-building-a-react-room-planner-with-an-ai-3k60",
+        "title": "How to render code videos with React",
+        "link": "https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built and Open Sourced a Futuristic Neon-Styled React UI Library Called NeonBlade UI",
-        "link": "https://dev.to/vic_prime/i-built-and-open-sourced-a-futuristic-neon-styled-react-ui-library-called-neonblade-ui-5gaf",
+        "title": "Merge Sort vs Bubble Sort — Why 800 Comparisons Beats 147 Every Time",
+        "link": "https://dev.to/amargul/merge-sort-vs-bubble-sort-why-800-comparisons-beats-147-every-time-1de0",
         "source": "Dev.to React"
       },
       {
