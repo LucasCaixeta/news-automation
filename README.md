@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 16, 2026)
+### Today's Updates (May 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Building a Cozy Ambient Study App with React at 14](https://dev.to/fame/building-a-cozy-ambient-study-app-with-react-at-14-3036)
+- [We built a memory-powered AI sales agent using Hindsight and cascadeflow](https://dev.to/sadhuram09/we-built-a-memory-powered-ai-sales-agent-using-hindsight-and-cascadeflow-252d)
+- [Stop writing skeleton shapes by hand — auto-skeleton does it for you](https://dev.to/riaz_ahmed_ef705cb7b4a8da/stop-writing-skeleton-shapes-by-hand-auto-skeleton-does-it-for-you-4od1)
+
+#### Dev.to React
+
+- [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
+- [Your AI Agent Just Broke Your React Performance. It Has No Idea](https://dev.to/vola-trebla/your-ai-agent-just-broke-your-react-performance-it-has-no-idea-4ghn)
+- [✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀](https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 15, 2026)
+### 2 Days Ago (May 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
 - [4 footguns integrating YouVersion's new platform API — and a clean Verse of the Day](https://dev.to/arvavit/4-footguns-integrating-youversions-new-platform-api-and-a-clean-verse-of-the-day-2087)
 - [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 14, 2026)
-
-#### Dev.to JavaScript
-
-- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
-
-#### Dev.to React
-
-- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-17",
+    "formattedDate": "May 17, 2026",
+    "news": [
+      {
+        "title": "Building a Cozy Ambient Study App with React at 14",
+        "link": "https://dev.to/fame/building-a-cozy-ambient-study-app-with-react-at-14-3036",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We built a memory-powered AI sales agent using Hindsight and cascadeflow",
+        "link": "https://dev.to/sadhuram09/we-built-a-memory-powered-ai-sales-agent-using-hindsight-and-cascadeflow-252d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop writing skeleton shapes by hand — auto-skeleton does it for you",
+        "link": "https://dev.to/riaz_ahmed_ef705cb7b4a8da/stop-writing-skeleton-shapes-by-hand-auto-skeleton-does-it-for-you-4od1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
+        "link": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your AI Agent Just Broke Your React Performance. It Has No Idea",
+        "link": "https://dev.to/vola-trebla/your-ai-agent-just-broke-your-react-performance-it-has-no-idea-4ghn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀",
+        "link": "https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-16",
     "formattedDate": "May 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "When dev and prod disagree about your CSS",
         "link": "https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "formattedDate": "May 14, 2026",
-    "news": [
-      {
-        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
-        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
-        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "onclick is great, actually",
-        "link": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
-        "link": "https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
-        "link": "https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-        "link": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
         "source": "Dev.to React"
       },
       {
