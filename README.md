@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Building a Cozy Ambient Study App with React at 14](https://dev.to/fame/building-a-cozy-ambient-study-app-with-react-at-14-3036)
-- [We built a memory-powered AI sales agent using Hindsight and cascadeflow](https://dev.to/sadhuram09/we-built-a-memory-powered-ai-sales-agent-using-hindsight-and-cascadeflow-252d)
-- [Stop writing skeleton shapes by hand — auto-skeleton does it for you](https://dev.to/riaz_ahmed_ef705cb7b4a8da/stop-writing-skeleton-shapes-by-hand-auto-skeleton-does-it-for-you-4od1)
+- [Aggregate Benchmarks Lie. Here's What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
+- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
+- [Why npm supply chain attacks keep happening and how to harden your installs](https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p)
 
 #### Dev.to React
 
 - [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
-- [Your AI Agent Just Broke Your React Performance. It Has No Idea](https://dev.to/vola-trebla/your-ai-agent-just-broke-your-react-performance-it-has-no-idea-4ghn)
-- [✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀](https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9)
+- [Where React for IaC came from](https://dev.to/mrduguo/where-react-for-iac-came-from-10e0)
+- [React E-commerce App Is Invisible to Google - Here's Why (and the Fix)](https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 17, 2026",
     "news": [
       {
-        "title": "Building a Cozy Ambient Study App with React at 14",
-        "link": "https://dev.to/fame/building-a-cozy-ambient-study-app-with-react-at-14-3036",
+        "title": "Aggregate Benchmarks Lie. Here's What 700 AI Functions Look Like by Security Domain.",
+        "link": "https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "We built a memory-powered AI sales agent using Hindsight and cascadeflow",
-        "link": "https://dev.to/sadhuram09/we-built-a-memory-powered-ai-sales-agent-using-hindsight-and-cascadeflow-252d",
+        "title": "Reincarnating a Decade-Old jQuery Project",
+        "link": "https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop writing skeleton shapes by hand — auto-skeleton does it for you",
-        "link": "https://dev.to/riaz_ahmed_ef705cb7b4a8da/stop-writing-skeleton-shapes-by-hand-auto-skeleton-does-it-for-you-4od1",
+        "title": "Why npm supply chain attacks keep happening and how to harden your installs",
+        "link": "https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Your AI Agent Just Broke Your React Performance. It Has No Idea",
-        "link": "https://dev.to/vola-trebla/your-ai-agent-just-broke-your-react-performance-it-has-no-idea-4ghn",
+        "title": "Where React for IaC came from",
+        "link": "https://dev.to/mrduguo/where-react-for-iac-came-from-10e0",
         "source": "Dev.to React"
       },
       {
-        "title": "✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀",
-        "link": "https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9",
+        "title": "React E-commerce App Is Invisible to Google - Here's Why (and the Fix)",
+        "link": "https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f",
         "source": "Dev.to React"
       },
       {
