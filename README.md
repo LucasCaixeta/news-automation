@@ -10,9 +10,9 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Signal Internals: Managing Memory and the Dependency Graph](https://dev.to/luciano0322/signal-internals-managing-memory-and-the-dependency-graph-4hi1)
-- [On-Device AI for Construction Safety: Why I'm Skipping the Cloud Entirely](https://dev.to/toddsullivan/on-device-ai-for-construction-safety-why-im-skipping-the-cloud-entirely-4h4e)
-- [I built ZKP auth so passwords never touch your server](https://dev.to/abhik_mondal/i-built-zkp-auth-so-passwords-never-touch-your-server-3n41)
+- [Why Autofixing Missing TypeScript Arguments Is Harder Than It Looks](https://dev.to/iamkillvish/why-autofixing-missing-typescript-arguments-is-harder-than-it-looks-1dlj)
+- [𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗨𝗜 𝗹𝗮𝗴 𝘄𝗵𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗼𝘃𝗲𝗿 𝟭𝟬𝟬 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁 𝗲𝘃𝗲𝗻𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱?](https://dev.to/kiransm/-ii5)
+- [Fixing the Silent Hang in Drizzle Kit Push on ChromeOS & Serverless Postgres (Neon)](https://dev.to/rabboni_kabongo_4e8e91383/fixing-the-silent-hang-in-drizzle-kit-push-on-chromeos-serverless-postgres-neon-36l5)
 
 #### Dev.to React
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 18, 2026",
     "news": [
       {
-        "title": "Signal Internals: Managing Memory and the Dependency Graph",
-        "link": "https://dev.to/luciano0322/signal-internals-managing-memory-and-the-dependency-graph-4hi1",
+        "title": "Why Autofixing Missing TypeScript Arguments Is Harder Than It Looks",
+        "link": "https://dev.to/iamkillvish/why-autofixing-missing-typescript-arguments-is-harder-than-it-looks-1dlj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "On-Device AI for Construction Safety: Why I'm Skipping the Cloud Entirely",
-        "link": "https://dev.to/toddsullivan/on-device-ai-for-construction-safety-why-im-skipping-the-cloud-entirely-4h4e",
+        "title": "𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗨𝗜 𝗹𝗮𝗴 𝘄𝗵𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗼𝘃𝗲𝗿 𝟭𝟬𝟬 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁 𝗲𝘃𝗲𝗻𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱?",
+        "link": "https://dev.to/kiransm/-ii5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built ZKP auth so passwords never touch your server",
-        "link": "https://dev.to/abhik_mondal/i-built-zkp-auth-so-passwords-never-touch-your-server-3n41",
+        "title": "Fixing the Silent Hang in Drizzle Kit Push on ChromeOS & Serverless Postgres (Neon)",
+        "link": "https://dev.to/rabboni_kabongo_4e8e91383/fixing-the-silent-hang-in-drizzle-kit-push-on-chromeos-serverless-postgres-neon-36l5",
         "source": "Dev.to JavaScript"
       },
       {
