@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 18, 2026)
+### Today's Updates (May 19, 2026)
+
+#### Dev.to JavaScript
+
+- [API Calls Done Right: From Messy Fetch to Clean Data Layer](https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i)
+- [Three majors, two mistakes: designing a pause API for a Turing-machine interpreter](https://dev.to/mellonis/three-majors-two-mistakes-designing-a-pause-api-for-a-turing-machine-interpreter-137j)
+- [I Built a 3D Solar System in 300 Lines of React (No Game Engine)](https://dev.to/dev48v/i-built-a-3d-solar-system-in-300-lines-of-react-no-game-engine-52b2)
+
+#### Dev.to React
+
+- [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
+- [How I Cut Load Time by 60% Using Next.js App Router](https://dev.to/safdarali25/how-i-cut-load-time-by-60-using-nextjs-app-router-4od7)
+- [Why I Built Reactolith: The Missing Bridge Between Full-Stack Efficiency and React](https://dev.to/franzwilding/why-i-built-reactolith-the-missing-bridge-between-full-stack-efficiency-and-react-330o)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 17, 2026)
+### 2 Days Ago (May 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
 - [Where React for IaC came from](https://dev.to/mrduguo/where-react-for-iac-came-from-10e0)
 - [React E-commerce App Is Invisible to Google - Here's Why (and the Fix)](https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 16, 2026)
-
-#### Dev.to JavaScript
-
-- [Building Simple Tabs with Vanilla JavaScript](https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n)
-- [What breaks when you ship Next.js on Cloudflare Workers](https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73)
-- [Your Node.js App Is Slow. Your AI Agent Can't Help - Until Now](https://dev.to/vola-trebla/your-nodejs-app-is-slow-your-ai-agent-cant-help-until-now-5c0o)
-
-#### Dev.to React
-
-- [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
-- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
-- [Merge Sort vs Bubble Sort — Why 800 Comparisons Beats 147 Every Time](https://dev.to/amargul/merge-sort-vs-bubble-sort-why-800-comparisons-beats-147-every-time-1de0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-19",
+    "formattedDate": "May 19, 2026",
+    "news": [
+      {
+        "title": "API Calls Done Right: From Messy Fetch to Clean Data Layer",
+        "link": "https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Three majors, two mistakes: designing a pause API for a Turing-machine interpreter",
+        "link": "https://dev.to/mellonis/three-majors-two-mistakes-designing-a-pause-api-for-a-turing-machine-interpreter-137j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a 3D Solar System in 300 Lines of React (No Game Engine)",
+        "link": "https://dev.to/dev48v/i-built-a-3d-solar-system-in-300-lines-of-react-no-game-engine-52b2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What If Every Phone in the Room Was a Game Controller — in the Age of AI?",
+        "link": "https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Cut Load Time by 60% Using Next.js App Router",
+        "link": "https://dev.to/safdarali25/how-i-cut-load-time-by-60-using-nextjs-app-router-4od7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Built Reactolith: The Missing Bridge Between Full-Stack Efficiency and React",
+        "link": "https://dev.to/franzwilding/why-i-built-reactolith-the-missing-bridge-between-full-stack-efficiency-and-react-330o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-18",
     "formattedDate": "May 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React E-commerce App Is Invisible to Google - Here's Why (and the Fix)",
         "link": "https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-16",
-    "formattedDate": "May 16, 2026",
-    "news": [
-      {
-        "title": "Building Simple Tabs with Vanilla JavaScript",
-        "link": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What breaks when you ship Next.js on Cloudflare Workers",
-        "link": "https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Node.js App Is Slow. Your AI Agent Can't Help - Until Now",
-        "link": "https://dev.to/vola-trebla/your-nodejs-app-is-slow-your-ai-agent-cant-help-until-now-5c0o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
-        "link": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to render code videos with React",
-        "link": "https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Merge Sort vs Bubble Sort — Why 800 Comparisons Beats 147 Every Time",
-        "link": "https://dev.to/amargul/merge-sort-vs-bubble-sort-why-800-comparisons-beats-147-every-time-1de0",
         "source": "Dev.to React"
       },
       {
