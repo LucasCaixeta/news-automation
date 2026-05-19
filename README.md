@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [API Calls Done Right: From Messy Fetch to Clean Data Layer](https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i)
-- [Three majors, two mistakes: designing a pause API for a Turing-machine interpreter](https://dev.to/mellonis/three-majors-two-mistakes-designing-a-pause-api-for-a-turing-machine-interpreter-137j)
-- [I Built a 3D Solar System in 300 Lines of React (No Game Engine)](https://dev.to/dev48v/i-built-a-3d-solar-system-in-300-lines-of-react-no-game-engine-52b2)
+- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8)
+- [Why Bun is Rewriting in Rust (And What It Means for JavaScript Developers)](https://dev.to/tonyspiro/why-bun-is-rewriting-in-rust-and-what-it-means-for-javascript-developers-31jo)
 
 #### Dev.to React
 
 - [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
 - [How I Cut Load Time by 60% Using Next.js App Router](https://dev.to/safdarali25/how-i-cut-load-time-by-60-using-nextjs-app-router-4od7)
-- [Why I Built Reactolith: The Missing Bridge Between Full-Stack Efficiency and React](https://dev.to/franzwilding/why-i-built-reactolith-the-missing-bridge-between-full-stack-efficiency-and-react-330o)
+- [Most of Your Client JavaScript Exists to Hydrate Pages Users Already See](https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Three majors, two mistakes: designing a pause API for a Turing-machine interpreter",
-        "link": "https://dev.to/mellonis/three-majors-two-mistakes-designing-a-pause-api-for-a-turing-machine-interpreter-137j",
+        "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+        "link": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a 3D Solar System in 300 Lines of React (No Game Engine)",
-        "link": "https://dev.to/dev48v/i-built-a-3d-solar-system-in-300-lines-of-react-no-game-engine-52b2",
+        "title": "Why Bun is Rewriting in Rust (And What It Means for JavaScript Developers)",
+        "link": "https://dev.to/tonyspiro/why-bun-is-rewriting-in-rust-and-what-it-means-for-javascript-developers-31jo",
         "source": "Dev.to JavaScript"
       },
       {
@@ -114,8 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Why I Built Reactolith: The Missing Bridge Between Full-Stack Efficiency and React",
-        "link": "https://dev.to/franzwilding/why-i-built-reactolith-the-missing-bridge-between-full-stack-efficiency-and-react-330o",
+        "title": "Most of Your Client JavaScript Exists to Hydrate Pages Users Already See",
+        "link": "https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf",
         "source": "Dev.to React"
       },
       {
