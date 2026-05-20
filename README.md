@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8)
-- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
 - [I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does](https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g)
+- [The Complete EOL Calendar for 2026 — Every Major Software End-of-Life Date](https://dev.to/endoflifeai/the-complete-eol-calendar-for-2026-every-major-software-end-of-life-date-2pp0)
+- [I Made My Website "Alive" using Physics (Vanilla JS Experiment Part 2) 🚀](https://dev.to/naman_sachdeva/i-made-my-website-alive-using-physics-vanilla-js-experiment-part-2-4n4h)
 
 #### Dev.to React
 
 - [I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does](https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g)
-- [The Ref Escape Hatch: React Hooks for Stale Closures, Stable Callbacks, and Force Updates](https://dev.to/childrentime/the-ref-escape-hatch-react-hooks-for-stale-closures-stable-callbacks-and-force-updates-57hi)
-- [React Server Components vs Client Components — When to Use Which](https://dev.to/safdarali25/react-server-components-vs-client-components-when-to-use-which-58kj)
+- [kovax-react 0.7: Next.js App Router, kovax-react/server, and jest-axe in every test](https://dev.to/mrkamura/kovax-react-07-nextjs-app-router-kovax-reactserver-and-jest-axe-in-every-test-42d)
+- [useRef in React — Why It Exists and How to Use It Simply](https://dev.to/dhanraj_s_8fe1023a6e88992/useref-in-react-why-it-exists-and-how-to-use-it-simply-5360)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 20, 2026",
     "news": [
       {
-        "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-        "link": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What Happens When You Run `npm run dev`",
-        "link": "https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does",
         "link": "https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Complete EOL Calendar for 2026 — Every Major Software End-of-Life Date",
+        "link": "https://dev.to/endoflifeai/the-complete-eol-calendar-for-2026-every-major-software-end-of-life-date-2pp0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Made My Website \"Alive\" using Physics (Vanilla JS Experiment Part 2) 🚀",
+        "link": "https://dev.to/naman_sachdeva/i-made-my-website-alive-using-physics-vanilla-js-experiment-part-2-4n4h",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "The Ref Escape Hatch: React Hooks for Stale Closures, Stable Callbacks, and Force Updates",
-        "link": "https://dev.to/childrentime/the-ref-escape-hatch-react-hooks-for-stale-closures-stable-callbacks-and-force-updates-57hi",
+        "title": "kovax-react 0.7: Next.js App Router, kovax-react/server, and jest-axe in every test",
+        "link": "https://dev.to/mrkamura/kovax-react-07-nextjs-app-router-kovax-reactserver-and-jest-axe-in-every-test-42d",
         "source": "Dev.to React"
       },
       {
-        "title": "React Server Components vs Client Components — When to Use Which",
-        "link": "https://dev.to/safdarali25/react-server-components-vs-client-components-when-to-use-which-58kj",
+        "title": "useRef in React — Why It Exists and How to Use It Simply",
+        "link": "https://dev.to/dhanraj_s_8fe1023a6e88992/useref-in-react-why-it-exists-and-how-to-use-it-simply-5360",
         "source": "Dev.to React"
       },
       {
