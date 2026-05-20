@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 19, 2026)
+### Today's Updates (May 20, 2026)
+
+#### Dev.to JavaScript
+
+- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8)
+- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
+- [I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does](https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g)
+
+#### Dev.to React
+
+- [I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does](https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g)
+- [The Ref Escape Hatch: React Hooks for Stale Closures, Stable Callbacks, and Force Updates](https://dev.to/childrentime/the-ref-escape-hatch-react-hooks-for-stale-closures-stable-callbacks-and-force-updates-57hi)
+- [React Server Components vs Client Components — When to Use Which](https://dev.to/safdarali25/react-server-components-vs-client-components-when-to-use-which-58kj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 18, 2026)
+### 2 Days Ago (May 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a multi-tenant food delivery platform alone. Here's what nobody tells you about that.](https://dev.to/siyadhkc/i-built-a-multi-tenant-food-delivery-platform-alone-heres-what-nobody-tells-you-about-that-104c)
 - [I Threw React Compiler 1.0 at a Real Codebase](https://dev.to/jearick/i-threw-react-compiler-10-at-a-real-codebase-20ci)
 - [Trader Pro v0.3 shipped — Korean + US stock backtest GUI on KIS OpenAPI](https://dev.to/taste_kim_2dec5824a9065cd/trader-pro-v03-shipped-korean-us-stock-backtest-gui-on-kis-openapi-4p2d)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 17, 2026)
-
-#### Dev.to JavaScript
-
-- [Aggregate Benchmarks Lie. Here's What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
-- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
-- [Why npm supply chain attacks keep happening and how to harden your installs](https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p)
-
-#### Dev.to React
-
-- [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
-- [Where React for IaC came from](https://dev.to/mrduguo/where-react-for-iac-came-from-10e0)
-- [React E-commerce App Is Invisible to Google - Here's Why (and the Fix)](https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-20",
+    "formattedDate": "May 20, 2026",
+    "news": [
+      {
+        "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+        "link": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What Happens When You Run `npm run dev`",
+        "link": "https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does",
+        "link": "https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does",
+        "link": "https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Ref Escape Hatch: React Hooks for Stale Closures, Stable Callbacks, and Force Updates",
+        "link": "https://dev.to/childrentime/the-ref-escape-hatch-react-hooks-for-stale-closures-stable-callbacks-and-force-updates-57hi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Server Components vs Client Components — When to Use Which",
+        "link": "https://dev.to/safdarali25/react-server-components-vs-client-components-when-to-use-which-58kj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-19",
     "formattedDate": "May 19, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Trader Pro v0.3 shipped — Korean + US stock backtest GUI on KIS OpenAPI",
         "link": "https://dev.to/taste_kim_2dec5824a9065cd/trader-pro-v03-shipped-korean-us-stock-backtest-gui-on-kis-openapi-4p2d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "formattedDate": "May 17, 2026",
-    "news": [
-      {
-        "title": "Aggregate Benchmarks Lie. Here's What 700 AI Functions Look Like by Security Domain.",
-        "link": "https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Reincarnating a Decade-Old jQuery Project",
-        "link": "https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why npm supply chain attacks keep happening and how to harden your installs",
-        "link": "https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
-        "link": "https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Where React for IaC came from",
-        "link": "https://dev.to/mrduguo/where-react-for-iac-came-from-10e0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React E-commerce App Is Invisible to Google - Here's Why (and the Fix)",
-        "link": "https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f",
         "source": "Dev.to React"
       },
       {
