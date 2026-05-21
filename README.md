@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Your trycatch sucks - lets fix it](https://dev.to/0shuvo0/your-trycatch-sucks-lets-fix-it-37e9)
-- [Building a Smarter Scheduler: Priority Queues and Layered Execution](https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e)
-- [Templating got me to 33,620 pages. Indexing them was the hard part.](https://dev.to/gaspricecheck/templating-got-me-to-33620-pages-indexing-them-was-the-hard-part-kem)
+- [Open Source Toolkit for Building AI Agents in 2026](https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1)
+- [Our AI Inference Bill Dropped 65% After We Stopped Treating Every Query the Same](https://dev.to/karthik_s_599904b6f055c2c/our-ai-inference-bill-dropped-65-after-we-stopped-treating-every-query-the-same-l1b)
+- [React Ref Synchronization: Fixing Hydration and Mutable Pointer Anomalies](https://dev.to/amit_singh5600/react-ref-synchronization-fixing-hydration-and-mutable-pointer-anomalies-57kg)
 
 #### Dev.to React
 
-- [How I vibe-coded a full SaaS product using Claude](https://dev.to/jampar31/how-i-vibe-coded-a-full-saas-product-using-claude-1c3f)
-- [Building a Smarter Scheduler: Priority Queues and Layered Execution](https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e)
-- [I’m Building Apps for 14 Days Straight](https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c)
+- [Por qué dejé de usar useEffect para sincronizar estado y qué uso ahora](https://dev.to/jtorchia/por-que-deje-de-usar-useeffect-para-sincronizar-estado-y-que-uso-ahora-anf)
+- [Why I Stopped Using useEffect to Sync State — and What I Use Instead](https://dev.to/jtorchia/why-i-stopped-using-useeffect-to-sync-state-and-what-i-use-instead-15e4)
+- [Why I Walked Back from Next.js and RSC to a Plain SPA and a Separate Backend](https://dev.to/devrayat000/why-i-walked-back-from-nextjs-and-rsc-to-a-plain-spa-and-a-separate-backend-3ibo)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 21, 2026",
     "news": [
       {
-        "title": "Your trycatch sucks - lets fix it",
-        "link": "https://dev.to/0shuvo0/your-trycatch-sucks-lets-fix-it-37e9",
+        "title": "Open Source Toolkit for Building AI Agents in 2026",
+        "link": "https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Smarter Scheduler: Priority Queues and Layered Execution",
-        "link": "https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e",
+        "title": "Our AI Inference Bill Dropped 65% After We Stopped Treating Every Query the Same",
+        "link": "https://dev.to/karthik_s_599904b6f055c2c/our-ai-inference-bill-dropped-65-after-we-stopped-treating-every-query-the-same-l1b",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Templating got me to 33,620 pages. Indexing them was the hard part.",
-        "link": "https://dev.to/gaspricecheck/templating-got-me-to-33620-pages-indexing-them-was-the-hard-part-kem",
+        "title": "React Ref Synchronization: Fixing Hydration and Mutable Pointer Anomalies",
+        "link": "https://dev.to/amit_singh5600/react-ref-synchronization-fixing-hydration-and-mutable-pointer-anomalies-57kg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I vibe-coded a full SaaS product using Claude",
-        "link": "https://dev.to/jampar31/how-i-vibe-coded-a-full-saas-product-using-claude-1c3f",
+        "title": "Por qué dejé de usar useEffect para sincronizar estado y qué uso ahora",
+        "link": "https://dev.to/jtorchia/por-que-deje-de-usar-useeffect-para-sincronizar-estado-y-que-uso-ahora-anf",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Smarter Scheduler: Priority Queues and Layered Execution",
-        "link": "https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e",
+        "title": "Why I Stopped Using useEffect to Sync State — and What I Use Instead",
+        "link": "https://dev.to/jtorchia/why-i-stopped-using-useeffect-to-sync-state-and-what-i-use-instead-15e4",
         "source": "Dev.to React"
       },
       {
-        "title": "I’m Building Apps for 14 Days Straight",
-        "link": "https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c",
+        "title": "Why I Walked Back from Next.js and RSC to a Plain SPA and a Separate Backend",
+        "link": "https://dev.to/devrayat000/why-i-walked-back-from-nextjs-and-rsc-to-a-plain-spa-and-a-separate-backend-3ibo",
         "source": "Dev.to React"
       },
       {
