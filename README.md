@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 20, 2026)
+### Today's Updates (May 21, 2026)
+
+#### Dev.to JavaScript
+
+- [Your trycatch sucks - lets fix it](https://dev.to/0shuvo0/your-trycatch-sucks-lets-fix-it-37e9)
+- [Building a Smarter Scheduler: Priority Queues and Layered Execution](https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e)
+- [Templating got me to 33,620 pages. Indexing them was the hard part.](https://dev.to/gaspricecheck/templating-got-me-to-33620-pages-indexing-them-was-the-hard-part-kem)
+
+#### Dev.to React
+
+- [How I vibe-coded a full SaaS product using Claude](https://dev.to/jampar31/how-i-vibe-coded-a-full-saas-product-using-claude-1c3f)
+- [Building a Smarter Scheduler: Priority Queues and Layered Execution](https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e)
+- [I’m Building Apps for 14 Days Straight](https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 19, 2026)
+### 2 Days Ago (May 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
 - [How I Cut Load Time by 60% Using Next.js App Router](https://dev.to/safdarali25/how-i-cut-load-time-by-60-using-nextjs-app-router-4od7)
 - [Most of Your Client JavaScript Exists to Hydrate Pages Users Already See](https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 18, 2026)
-
-#### Dev.to JavaScript
-
-- [Why Autofixing Missing TypeScript Arguments Is Harder Than It Looks](https://dev.to/iamkillvish/why-autofixing-missing-typescript-arguments-is-harder-than-it-looks-1dlj)
-- [𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗨𝗜 𝗹𝗮𝗴 𝘄𝗵𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗼𝘃𝗲𝗿 𝟭𝟬𝟬 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁 𝗲𝘃𝗲𝗻𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱?](https://dev.to/kiransm/-ii5)
-- [Fixing the Silent Hang in Drizzle Kit Push on ChromeOS & Serverless Postgres (Neon)](https://dev.to/rabboni_kabongo_4e8e91383/fixing-the-silent-hang-in-drizzle-kit-push-on-chromeos-serverless-postgres-neon-36l5)
-
-#### Dev.to React
-
-- [I built a multi-tenant food delivery platform alone. Here's what nobody tells you about that.](https://dev.to/siyadhkc/i-built-a-multi-tenant-food-delivery-platform-alone-heres-what-nobody-tells-you-about-that-104c)
-- [I Threw React Compiler 1.0 at a Real Codebase](https://dev.to/jearick/i-threw-react-compiler-10-at-a-real-codebase-20ci)
-- [Trader Pro v0.3 shipped — Korean + US stock backtest GUI on KIS OpenAPI](https://dev.to/taste_kim_2dec5824a9065cd/trader-pro-v03-shipped-korean-us-stock-backtest-gui-on-kis-openapi-4p2d)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-21",
+    "formattedDate": "May 21, 2026",
+    "news": [
+      {
+        "title": "Your trycatch sucks - lets fix it",
+        "link": "https://dev.to/0shuvo0/your-trycatch-sucks-lets-fix-it-37e9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Smarter Scheduler: Priority Queues and Layered Execution",
+        "link": "https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Templating got me to 33,620 pages. Indexing them was the hard part.",
+        "link": "https://dev.to/gaspricecheck/templating-got-me-to-33620-pages-indexing-them-was-the-hard-part-kem",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I vibe-coded a full SaaS product using Claude",
+        "link": "https://dev.to/jampar31/how-i-vibe-coded-a-full-saas-product-using-claude-1c3f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Smarter Scheduler: Priority Queues and Layered Execution",
+        "link": "https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I’m Building Apps for 14 Days Straight",
+        "link": "https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-20",
     "formattedDate": "May 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Most of Your Client JavaScript Exists to Hydrate Pages Users Already See",
         "link": "https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-18",
-    "formattedDate": "May 18, 2026",
-    "news": [
-      {
-        "title": "Why Autofixing Missing TypeScript Arguments Is Harder Than It Looks",
-        "link": "https://dev.to/iamkillvish/why-autofixing-missing-typescript-arguments-is-harder-than-it-looks-1dlj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗨𝗜 𝗹𝗮𝗴 𝘄𝗵𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗼𝘃𝗲𝗿 𝟭𝟬𝟬 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁 𝗲𝘃𝗲𝗻𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱?",
-        "link": "https://dev.to/kiransm/-ii5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Fixing the Silent Hang in Drizzle Kit Push on ChromeOS & Serverless Postgres (Neon)",
-        "link": "https://dev.to/rabboni_kabongo_4e8e91383/fixing-the-silent-hang-in-drizzle-kit-push-on-chromeos-serverless-postgres-neon-36l5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a multi-tenant food delivery platform alone. Here's what nobody tells you about that.",
-        "link": "https://dev.to/siyadhkc/i-built-a-multi-tenant-food-delivery-platform-alone-heres-what-nobody-tells-you-about-that-104c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Threw React Compiler 1.0 at a Real Codebase",
-        "link": "https://dev.to/jearick/i-threw-react-compiler-10-at-a-real-codebase-20ci",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Trader Pro v0.3 shipped — Korean + US stock backtest GUI on KIS OpenAPI",
-        "link": "https://dev.to/taste_kim_2dec5824a9065cd/trader-pro-v03-shipped-korean-us-stock-backtest-gui-on-kis-openapi-4p2d",
         "source": "Dev.to React"
       },
       {
