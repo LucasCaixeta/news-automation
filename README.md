@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.](https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0)
 - [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d)
-- [I Built a Browser SDK That Detects LLM Agents. Here's How It Works.](https://dev.to/devansh365/i-built-a-browser-sdk-that-detects-llm-agents-heres-how-it-works-3bdk)
+- [Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.](https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0)
+- [I built a free audit tool that runs 12 checks in parallel against any domain. Here is the architecture.](https://dev.to/meraki6966/i-built-a-free-audit-tool-that-runs-12-checks-in-parallel-against-any-domain-here-is-the-2icg)
 
 #### Dev.to React
 
-- [Google Was Rewriting My Title. The Cause Was a Single JSX Element.](https://dev.to/henry_dan_81513dd35a2f540/google-was-rewriting-my-title-the-cause-was-a-single-jsx-element-3mda)
-- [Learn MERN Stack by Building and Deploying a Real FullStack Application — Live 2-Day Webinar](https://dev.to/myogeshchavan97/learn-mern-stack-by-building-and-deploying-a-real-fullstack-application-live-2-day-webinar-3ljf)
-- [How does VuReact compile Vue 3's defineProps() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineprops-to-react-3hmk)
+- [I Built a Multi-Tenant SaaS for 50+ Tenants — Here's the Complete Architecture](https://dev.to/uaslimcreate/i-built-a-multi-tenant-saas-for-50-tenants-heres-the-complete-architecture-3g53)
+- [Rockpack 8.0 - A React Scaffolder Built for the Age of AI-Assisted Development](https://dev.to/alexsergey/rockpack-80-a-react-scaffolder-built-for-the-age-of-ai-assisted-development-4bnl)
+- [The Page Root Was the Wrong Unit](https://dev.to/lazarv/the-page-root-was-the-wrong-unit-3088)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 22, 2026",
     "news": [
       {
-        "title": "Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.",
-        "link": "https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "The Most Concerning AI Risk of 2026",
         "link": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Browser SDK That Detects LLM Agents. Here's How It Works.",
-        "link": "https://dev.to/devansh365/i-built-a-browser-sdk-that-detects-llm-agents-heres-how-it-works-3bdk",
+        "title": "Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.",
+        "link": "https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Google Was Rewriting My Title. The Cause Was a Single JSX Element.",
-        "link": "https://dev.to/henry_dan_81513dd35a2f540/google-was-rewriting-my-title-the-cause-was-a-single-jsx-element-3mda",
+        "title": "I built a free audit tool that runs 12 checks in parallel against any domain. Here is the architecture.",
+        "link": "https://dev.to/meraki6966/i-built-a-free-audit-tool-that-runs-12-checks-in-parallel-against-any-domain-here-is-the-2icg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Multi-Tenant SaaS for 50+ Tenants — Here's the Complete Architecture",
+        "link": "https://dev.to/uaslimcreate/i-built-a-multi-tenant-saas-for-50-tenants-heres-the-complete-architecture-3g53",
         "source": "Dev.to React"
       },
       {
-        "title": "Learn MERN Stack by Building and Deploying a Real FullStack Application — Live 2-Day Webinar",
-        "link": "https://dev.to/myogeshchavan97/learn-mern-stack-by-building-and-deploying-a-real-fullstack-application-live-2-day-webinar-3ljf",
+        "title": "Rockpack 8.0 - A React Scaffolder Built for the Age of AI-Assisted Development",
+        "link": "https://dev.to/alexsergey/rockpack-80-a-react-scaffolder-built-for-the-age-of-ai-assisted-development-4bnl",
         "source": "Dev.to React"
       },
       {
-        "title": "How does VuReact compile Vue 3's defineProps() to React?",
-        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineprops-to-react-3hmk",
+        "title": "The Page Root Was the Wrong Unit",
+        "link": "https://dev.to/lazarv/the-page-root-was-the-wrong-unit-3088",
         "source": "Dev.to React"
       },
       {
