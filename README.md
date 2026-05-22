@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 21, 2026)
+### Today's Updates (May 22, 2026)
+
+#### Dev.to JavaScript
+
+- [Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.](https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0)
+- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d)
+- [I Built a Browser SDK That Detects LLM Agents. Here's How It Works.](https://dev.to/devansh365/i-built-a-browser-sdk-that-detects-llm-agents-heres-how-it-works-3bdk)
+
+#### Dev.to React
+
+- [Google Was Rewriting My Title. The Cause Was a Single JSX Element.](https://dev.to/henry_dan_81513dd35a2f540/google-was-rewriting-my-title-the-cause-was-a-single-jsx-element-3mda)
+- [Learn MERN Stack by Building and Deploying a Real FullStack Application — Live 2-Day Webinar](https://dev.to/myogeshchavan97/learn-mern-stack-by-building-and-deploying-a-real-fullstack-application-live-2-day-webinar-3ljf)
+- [How does VuReact compile Vue 3's defineProps() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineprops-to-react-3hmk)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 20, 2026)
+### 2 Days Ago (May 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Tool for Turning Customer Reviews Into Shareable Cards — Here's What It Does](https://dev.to/myogeshchavan97/i-built-a-tool-for-turning-customer-reviews-into-shareable-cards-heres-what-it-does-1p6g)
 - [kovax-react 0.7: Next.js App Router, kovax-react/server, and jest-axe in every test](https://dev.to/mrkamura/kovax-react-07-nextjs-app-router-kovax-reactserver-and-jest-axe-in-every-test-42d)
 - [useRef in React — Why It Exists and How to Use It Simply](https://dev.to/dhanraj_s_8fe1023a6e88992/useref-in-react-why-it-exists-and-how-to-use-it-simply-5360)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 19, 2026)
-
-#### Dev.to JavaScript
-
-- [API Calls Done Right: From Messy Fetch to Clean Data Layer](https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i)
-- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8)
-- [Why Bun is Rewriting in Rust (And What It Means for JavaScript Developers)](https://dev.to/tonyspiro/why-bun-is-rewriting-in-rust-and-what-it-means-for-javascript-developers-31jo)
-
-#### Dev.to React
-
-- [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
-- [How I Cut Load Time by 60% Using Next.js App Router](https://dev.to/safdarali25/how-i-cut-load-time-by-60-using-nextjs-app-router-4od7)
-- [Most of Your Client JavaScript Exists to Hydrate Pages Users Already See](https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-22",
+    "formattedDate": "May 22, 2026",
+    "news": [
+      {
+        "title": "Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.",
+        "link": "https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Most Concerning AI Risk of 2026",
+        "link": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Browser SDK That Detects LLM Agents. Here's How It Works.",
+        "link": "https://dev.to/devansh365/i-built-a-browser-sdk-that-detects-llm-agents-heres-how-it-works-3bdk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Google Was Rewriting My Title. The Cause Was a Single JSX Element.",
+        "link": "https://dev.to/henry_dan_81513dd35a2f540/google-was-rewriting-my-title-the-cause-was-a-single-jsx-element-3mda",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Learn MERN Stack by Building and Deploying a Real FullStack Application — Live 2-Day Webinar",
+        "link": "https://dev.to/myogeshchavan97/learn-mern-stack-by-building-and-deploying-a-real-fullstack-application-live-2-day-webinar-3ljf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How does VuReact compile Vue 3's defineProps() to React?",
+        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineprops-to-react-3hmk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-21",
     "formattedDate": "May 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "useRef in React — Why It Exists and How to Use It Simply",
         "link": "https://dev.to/dhanraj_s_8fe1023a6e88992/useref-in-react-why-it-exists-and-how-to-use-it-simply-5360",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-19",
-    "formattedDate": "May 19, 2026",
-    "news": [
-      {
-        "title": "API Calls Done Right: From Messy Fetch to Clean Data Layer",
-        "link": "https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-        "link": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Bun is Rewriting in Rust (And What It Means for JavaScript Developers)",
-        "link": "https://dev.to/tonyspiro/why-bun-is-rewriting-in-rust-and-what-it-means-for-javascript-developers-31jo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What If Every Phone in the Room Was a Game Controller — in the Age of AI?",
-        "link": "https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Cut Load Time by 60% Using Next.js App Router",
-        "link": "https://dev.to/safdarali25/how-i-cut-load-time-by-60-using-nextjs-app-router-4od7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Most of Your Client JavaScript Exists to Hydrate Pages Users Already See",
-        "link": "https://dev.to/nosyos/most-of-your-client-javascript-exists-to-hydrate-pages-users-already-see-2pdf",
         "source": "Dev.to React"
       },
       {
