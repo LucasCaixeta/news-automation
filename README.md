@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d)
-- [How I Replaced react-calendar with a Timezone-Safe UnifiedDatePicker in a Production OSS Codebase](https://dev.to/bharath_kumar_39293/how-i-replaced-react-calendar-with-a-timezone-safe-unifieddatepicker-in-a-production-oss-codebase-4n5e)
-- [Node.js 22 LTS — EOL Date, Support Timeline, and What Comes Next](https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm)
+- [How I Built a Blazingly Fast, Privacy-First Batch Image Converter in the Browser Using OPFS and Web Workers](https://dev.to/sapianyi/how-i-built-a-blazingly-fast-privacy-first-batch-image-converter-in-the-browser-using-opfs-and-web-1f8p)
+- [Trustless Bug Bounty Releases with a PoW-Gated DLC Oracle](https://dev.to/zekebuilds/trustless-bug-bounty-releases-with-a-pow-gated-dlc-oracle-46f0)
+- [From Building WordPress Websites to Node.js APIs: My Honest Full Stack Journey](https://dev.to/kunal_pareek/from-building-wordpress-websites-to-nodejs-apis-my-honest-full-stack-journey-275h)
 
 #### Dev.to React
 
-- [Beyond Prompts: Structuring AI Workflows for Real Frontend Engineering](https://dev.to/lalitkhu/how-i-significantly-boosted-my-frontend-productivity-with-ai-in-a-large-react-app-35fg)
-- [Why Country/State/City Pickers Are Weirdly Hard](https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1)
-- [How does VuReact compile Vue 3's defineExpose() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineexpose-to-react-1jhj)
+- [Cómo solucionar \"Text content does not match server-rendered HTML\" en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3f3a)
+- [From idea to indexed: how I launched a SaaS in 60 days with Laravel + React](https://dev.to/qrflows/from-idea-to-indexed-how-i-launched-a-saas-in-60-days-with-laravel-react-3gje)
+- [Why React + TypeScript Nullability Slowly Becomes Exhausting](https://dev.to/iamkillvish/why-react-typescript-nullability-slowly-becomes-exhausting-473g)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 23, 2026",
     "news": [
       {
-        "title": "The Most Concerning AI Risk of 2026",
-        "link": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+        "title": "How I Built a Blazingly Fast, Privacy-First Batch Image Converter in the Browser Using OPFS and Web Workers",
+        "link": "https://dev.to/sapianyi/how-i-built-a-blazingly-fast-privacy-first-batch-image-converter-in-the-browser-using-opfs-and-web-1f8p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Replaced react-calendar with a Timezone-Safe UnifiedDatePicker in a Production OSS Codebase",
-        "link": "https://dev.to/bharath_kumar_39293/how-i-replaced-react-calendar-with-a-timezone-safe-unifieddatepicker-in-a-production-oss-codebase-4n5e",
+        "title": "Trustless Bug Bounty Releases with a PoW-Gated DLC Oracle",
+        "link": "https://dev.to/zekebuilds/trustless-bug-bounty-releases-with-a-pow-gated-dlc-oracle-46f0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Node.js 22 LTS — EOL Date, Support Timeline, and What Comes Next",
-        "link": "https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm",
+        "title": "From Building WordPress Websites to Node.js APIs: My Honest Full Stack Journey",
+        "link": "https://dev.to/kunal_pareek/from-building-wordpress-websites-to-nodejs-apis-my-honest-full-stack-journey-275h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Beyond Prompts: Structuring AI Workflows for Real Frontend Engineering",
-        "link": "https://dev.to/lalitkhu/how-i-significantly-boosted-my-frontend-productivity-with-ai-in-a-large-react-app-35fg",
+        "title": "Cómo solucionar \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
+        "link": "https://dev.to/erickeduardoramos03/como-solucionar-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3f3a",
         "source": "Dev.to React"
       },
       {
-        "title": "Why Country/State/City Pickers Are Weirdly Hard",
-        "link": "https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1",
+        "title": "From idea to indexed: how I launched a SaaS in 60 days with Laravel + React",
+        "link": "https://dev.to/qrflows/from-idea-to-indexed-how-i-launched-a-saas-in-60-days-with-laravel-react-3gje",
         "source": "Dev.to React"
       },
       {
-        "title": "How does VuReact compile Vue 3's defineExpose() to React?",
-        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineexpose-to-react-1jhj",
+        "title": "Why React + TypeScript Nullability Slowly Becomes Exhausting",
+        "link": "https://dev.to/iamkillvish/why-react-typescript-nullability-slowly-becomes-exhausting-473g",
         "source": "Dev.to React"
       },
       {
