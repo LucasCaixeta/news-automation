@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 23, 2026)
+### Today's Updates (May 24, 2026)
+
+#### Dev.to JavaScript
+
+- [Why I Wrote 475 Tests for a Desktop Accounting App](https://dev.to/rahulgehlot/why-i-wrote-475-tests-for-a-desktop-accounting-app-4laj)
+- [My agent could see the dropdown. It just couldn't pick anything.](https://dev.to/achiya-automation/my-agent-could-see-the-dropdown-it-just-couldnt-pick-anything-140)
+- [I Built a Free Metal Weight Calculator — Here's the Math Behind It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j)
+
+#### Dev.to React
+
+- [How does VuReact compile Vue 3's useTemplateRef() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-usetemplateref-to-react-nkn)
+- [React.js ~use() hook for Caching Problem~](https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47)
+- [WordPress plugin boilerplate with React & Vite](https://dev.to/tommasomeli/wordpress-plugin-boilerplate-with-react-vite-2aje)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 22, 2026)
+### 2 Days Ago (May 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Multi-Tenant SaaS for 50+ Tenants — Here's the Complete Architecture](https://dev.to/uaslimcreate/i-built-a-multi-tenant-saas-for-50-tenants-heres-the-complete-architecture-3g53)
 - [Rockpack 8.0 - A React Scaffolder Built for the Age of AI-Assisted Development](https://dev.to/alexsergey/rockpack-80-a-react-scaffolder-built-for-the-age-of-ai-assisted-development-4bnl)
 - [The Page Root Was the Wrong Unit](https://dev.to/lazarv/the-page-root-was-the-wrong-unit-3088)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 21, 2026)
-
-#### Dev.to JavaScript
-
-- [Open Source Toolkit for Building AI Agents in 2026](https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1)
-- [Our AI Inference Bill Dropped 65% After We Stopped Treating Every Query the Same](https://dev.to/karthik_s_599904b6f055c2c/our-ai-inference-bill-dropped-65-after-we-stopped-treating-every-query-the-same-l1b)
-- [React Ref Synchronization: Fixing Hydration and Mutable Pointer Anomalies](https://dev.to/amit_singh5600/react-ref-synchronization-fixing-hydration-and-mutable-pointer-anomalies-57kg)
-
-#### Dev.to React
-
-- [Por qué dejé de usar useEffect para sincronizar estado y qué uso ahora](https://dev.to/jtorchia/por-que-deje-de-usar-useeffect-para-sincronizar-estado-y-que-uso-ahora-anf)
-- [Why I Stopped Using useEffect to Sync State — and What I Use Instead](https://dev.to/jtorchia/why-i-stopped-using-useeffect-to-sync-state-and-what-i-use-instead-15e4)
-- [Why I Walked Back from Next.js and RSC to a Plain SPA and a Separate Backend](https://dev.to/devrayat000/why-i-walked-back-from-nextjs-and-rsc-to-a-plain-spa-and-a-separate-backend-3ibo)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-24",
+    "formattedDate": "May 24, 2026",
+    "news": [
+      {
+        "title": "Why I Wrote 475 Tests for a Desktop Accounting App",
+        "link": "https://dev.to/rahulgehlot/why-i-wrote-475-tests-for-a-desktop-accounting-app-4laj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My agent could see the dropdown. It just couldn't pick anything.",
+        "link": "https://dev.to/achiya-automation/my-agent-could-see-the-dropdown-it-just-couldnt-pick-anything-140",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Free Metal Weight Calculator — Here's the Math Behind It",
+        "link": "https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How does VuReact compile Vue 3's useTemplateRef() to React?",
+        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-usetemplateref-to-react-nkn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React.js ~use() hook for Caching Problem~",
+        "link": "https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "WordPress plugin boilerplate with React & Vite",
+        "link": "https://dev.to/tommasomeli/wordpress-plugin-boilerplate-with-react-vite-2aje",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-23",
     "formattedDate": "May 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The Page Root Was the Wrong Unit",
         "link": "https://dev.to/lazarv/the-page-root-was-the-wrong-unit-3088",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-21",
-    "formattedDate": "May 21, 2026",
-    "news": [
-      {
-        "title": "Open Source Toolkit for Building AI Agents in 2026",
-        "link": "https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Our AI Inference Bill Dropped 65% After We Stopped Treating Every Query the Same",
-        "link": "https://dev.to/karthik_s_599904b6f055c2c/our-ai-inference-bill-dropped-65-after-we-stopped-treating-every-query-the-same-l1b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Ref Synchronization: Fixing Hydration and Mutable Pointer Anomalies",
-        "link": "https://dev.to/amit_singh5600/react-ref-synchronization-fixing-hydration-and-mutable-pointer-anomalies-57kg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Por qué dejé de usar useEffect para sincronizar estado y qué uso ahora",
-        "link": "https://dev.to/jtorchia/por-que-deje-de-usar-useeffect-para-sincronizar-estado-y-que-uso-ahora-anf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I Stopped Using useEffect to Sync State — and What I Use Instead",
-        "link": "https://dev.to/jtorchia/why-i-stopped-using-useeffect-to-sync-state-and-what-i-use-instead-15e4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I Walked Back from Next.js and RSC to a Plain SPA and a Separate Backend",
-        "link": "https://dev.to/devrayat000/why-i-walked-back-from-nextjs-and-rsc-to-a-plain-spa-and-a-separate-backend-3ibo",
         "source": "Dev.to React"
       },
       {
