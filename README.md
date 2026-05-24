@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Why I Wrote 475 Tests for a Desktop Accounting App](https://dev.to/rahulgehlot/why-i-wrote-475-tests-for-a-desktop-accounting-app-4laj)
-- [My agent could see the dropdown. It just couldn't pick anything.](https://dev.to/achiya-automation/my-agent-could-see-the-dropdown-it-just-couldnt-pick-anything-140)
-- [I Built a Free Metal Weight Calculator — Here's the Math Behind It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j)
+- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj)
+- [How I Built a Proactive Heartbeat Loop in TypeScript By Nidhish Akolkar](https://dev.to/nidhishakolkar/how-i-built-a-proactive-heartbeat-loop-in-typescript-by-nidhish-akolkar-1gno)
+- [I Built a Pro Tier with Stripe, Supabase Auth, and Multi-File Mode From My Android Phone](https://dev.to/charles_blackwood/i-built-a-pro-tier-with-stripe-supabase-auth-and-multi-file-mode-from-my-android-phone-1p2i)
 
 #### Dev.to React
 
-- [How does VuReact compile Vue 3's useTemplateRef() to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-usetemplateref-to-react-nkn)
-- [React.js ~use() hook for Caching Problem~](https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47)
-- [WordPress plugin boilerplate with React & Vite](https://dev.to/tommasomeli/wordpress-plugin-boilerplate-with-react-vite-2aje)
+- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj)
+- [I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg](https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k)
+- [I Revived A 4-Year-Old Abandoned React Quiz App](https://dev.to/temisan0x/i-revived-a-4-year-old-abandoned-react-quiz-app-49ia)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 24, 2026",
     "news": [
       {
-        "title": "Why I Wrote 475 Tests for a Desktop Accounting App",
-        "link": "https://dev.to/rahulgehlot/why-i-wrote-475-tests-for-a-desktop-accounting-app-4laj",
+        "title": "How I Use Cursor + Claude to Ship React Code 3x Faster",
+        "link": "https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My agent could see the dropdown. It just couldn't pick anything.",
-        "link": "https://dev.to/achiya-automation/my-agent-could-see-the-dropdown-it-just-couldnt-pick-anything-140",
+        "title": "How I Built a Proactive Heartbeat Loop in TypeScript By Nidhish Akolkar",
+        "link": "https://dev.to/nidhishakolkar/how-i-built-a-proactive-heartbeat-loop-in-typescript-by-nidhish-akolkar-1gno",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Free Metal Weight Calculator — Here's the Math Behind It",
-        "link": "https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j",
+        "title": "I Built a Pro Tier with Stripe, Supabase Auth, and Multi-File Mode From My Android Phone",
+        "link": "https://dev.to/charles_blackwood/i-built-a-pro-tier-with-stripe-supabase-auth-and-multi-file-mode-from-my-android-phone-1p2i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How does VuReact compile Vue 3's useTemplateRef() to React?",
-        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-usetemplateref-to-react-nkn",
+        "title": "How I Use Cursor + Claude to Ship React Code 3x Faster",
+        "link": "https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj",
         "source": "Dev.to React"
       },
       {
-        "title": "React.js ~use() hook for Caching Problem~",
-        "link": "https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47",
+        "title": "I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg",
+        "link": "https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k",
         "source": "Dev.to React"
       },
       {
-        "title": "WordPress plugin boilerplate with React & Vite",
-        "link": "https://dev.to/tommasomeli/wordpress-plugin-boilerplate-with-react-vite-2aje",
+        "title": "I Revived A 4-Year-Old Abandoned React Quiz App",
+        "link": "https://dev.to/temisan0x/i-revived-a-4-year-old-abandoned-react-quiz-app-49ia",
         "source": "Dev.to React"
       },
       {
