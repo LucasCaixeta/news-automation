@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 24, 2026)
+### Today's Updates (May 25, 2026)
+
+#### Dev.to JavaScript
+
+- [WebMCP is coming — so I’m building webmcp.js](https://dev.to/beladevo/webmcp-is-coming-so-im-building-webmcpjs-118m)
+- [I Compiled Rust to WebAssembly and Made My JavaScript 6 Faster](https://dev.to/dev48v/i-compiled-rust-to-webassembly-and-made-my-javascript-6x-faster-3ekf)
+- [Your polyfills are dead. Here's a robot that buries them.](https://dev.to/mk668a/your-polyfills-are-dead-heres-a-robot-that-buries-them-4e5a)
+
+#### Dev.to React
+
+- [I built a self-hosted CI/CD platform with persistent queue, encrypted secrets, and rollback UI — here's what I learned](https://dev.to/sabrydawood_79/i-built-a-self-hosted-cicd-platform-with-persistent-queue-encrypted-secrets-and-rollback-ui--2jph)
+- [I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg](https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k)
+- [React.lazy + chunk errors: how to recover users stuck after a deploy](https://dev.to/bairescodeai/reactlazy-chunk-errors-how-to-recover-users-stuck-after-a-deploy-2o38)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 23, 2026)
+### 2 Days Ago (May 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Cómo solucionar \"Text content does not match server-rendered HTML\" en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3f3a)
 - [From idea to indexed: how I launched a SaaS in 60 days with Laravel + React](https://dev.to/qrflows/from-idea-to-indexed-how-i-launched-a-saas-in-60-days-with-laravel-react-3gje)
 - [Why React + TypeScript Nullability Slowly Becomes Exhausting](https://dev.to/iamkillvish/why-react-typescript-nullability-slowly-becomes-exhausting-473g)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 22, 2026)
-
-#### Dev.to JavaScript
-
-- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d)
-- [Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.](https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0)
-- [I built a free audit tool that runs 12 checks in parallel against any domain. Here is the architecture.](https://dev.to/meraki6966/i-built-a-free-audit-tool-that-runs-12-checks-in-parallel-against-any-domain-here-is-the-2icg)
-
-#### Dev.to React
-
-- [I Built a Multi-Tenant SaaS for 50+ Tenants — Here's the Complete Architecture](https://dev.to/uaslimcreate/i-built-a-multi-tenant-saas-for-50-tenants-heres-the-complete-architecture-3g53)
-- [Rockpack 8.0 - A React Scaffolder Built for the Age of AI-Assisted Development](https://dev.to/alexsergey/rockpack-80-a-react-scaffolder-built-for-the-age-of-ai-assisted-development-4bnl)
-- [The Page Root Was the Wrong Unit](https://dev.to/lazarv/the-page-root-was-the-wrong-unit-3088)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-25",
+    "formattedDate": "May 25, 2026",
+    "news": [
+      {
+        "title": "WebMCP is coming — so I’m building webmcp.js",
+        "link": "https://dev.to/beladevo/webmcp-is-coming-so-im-building-webmcpjs-118m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Compiled Rust to WebAssembly and Made My JavaScript 6 Faster",
+        "link": "https://dev.to/dev48v/i-compiled-rust-to-webassembly-and-made-my-javascript-6x-faster-3ekf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your polyfills are dead. Here's a robot that buries them.",
+        "link": "https://dev.to/mk668a/your-polyfills-are-dead-heres-a-robot-that-buries-them-4e5a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a self-hosted CI/CD platform with persistent queue, encrypted secrets, and rollback UI — here's what I learned",
+        "link": "https://dev.to/sabrydawood_79/i-built-a-self-hosted-cicd-platform-with-persistent-queue-encrypted-secrets-and-rollback-ui--2jph",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg",
+        "link": "https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React.lazy + chunk errors: how to recover users stuck after a deploy",
+        "link": "https://dev.to/bairescodeai/reactlazy-chunk-errors-how-to-recover-users-stuck-after-a-deploy-2o38",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-24",
     "formattedDate": "May 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why React + TypeScript Nullability Slowly Becomes Exhausting",
         "link": "https://dev.to/iamkillvish/why-react-typescript-nullability-slowly-becomes-exhausting-473g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-22",
-    "formattedDate": "May 22, 2026",
-    "news": [
-      {
-        "title": "The Most Concerning AI Risk of 2026",
-        "link": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.",
-        "link": "https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a free audit tool that runs 12 checks in parallel against any domain. Here is the architecture.",
-        "link": "https://dev.to/meraki6966/i-built-a-free-audit-tool-that-runs-12-checks-in-parallel-against-any-domain-here-is-the-2icg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Multi-Tenant SaaS for 50+ Tenants — Here's the Complete Architecture",
-        "link": "https://dev.to/uaslimcreate/i-built-a-multi-tenant-saas-for-50-tenants-heres-the-complete-architecture-3g53",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Rockpack 8.0 - A React Scaffolder Built for the Age of AI-Assisted Development",
-        "link": "https://dev.to/alexsergey/rockpack-80-a-react-scaffolder-built-for-the-age-of-ai-assisted-development-4bnl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Page Root Was the Wrong Unit",
-        "link": "https://dev.to/lazarv/the-page-root-was-the-wrong-unit-3088",
         "source": "Dev.to React"
       },
       {
