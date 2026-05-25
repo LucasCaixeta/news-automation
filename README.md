@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [WebMCP is coming — so I’m building webmcp.js](https://dev.to/beladevo/webmcp-is-coming-so-im-building-webmcpjs-118m)
-- [I Compiled Rust to WebAssembly and Made My JavaScript 6 Faster](https://dev.to/dev48v/i-compiled-rust-to-webassembly-and-made-my-javascript-6x-faster-3ekf)
-- [Your polyfills are dead. Here's a robot that buries them.](https://dev.to/mk668a/your-polyfills-are-dead-heres-a-robot-that-buries-them-4e5a)
+- [8 Vite Config Options Every Developer Should Know (Vite 8)](https://dev.to/erikch/8-vite-config-options-every-developer-should-know-vite-8-22im)
+- [The False Positive Tax: a 1:1 TP:FP analysis of eslint-plugin-security](https://dev.to/ofri-peretz/the-false-positive-tax-a-11-tpfp-analysis-of-eslint-plugin-security-1kkg)
+- [I Benchmarked 17 ESLint Security Plugins. Only One Found Every Vulnerability.](https://dev.to/ofri-peretz/i-benchmarked-17-eslint-security-plugins-only-one-found-every-vulnerability-c83)
 
 #### Dev.to React
 
-- [I built a self-hosted CI/CD platform with persistent queue, encrypted secrets, and rollback UI — here's what I learned](https://dev.to/sabrydawood_79/i-built-a-self-hosted-cicd-platform-with-persistent-queue-encrypted-secrets-and-rollback-ui--2jph)
-- [I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg](https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k)
-- [React.lazy + chunk errors: how to recover users stuck after a deploy](https://dev.to/bairescodeai/reactlazy-chunk-errors-how-to-recover-users-stuck-after-a-deploy-2o38)
+- [Building a Portfolio That Actually Demonstrates Software Engineering](https://dev.to/andrescasoiglesias/building-a-portfolio-that-actually-demonstrates-software-engineering-4jn2)
+- [kovax-react 0.8: Tailwind v4 preset, FormField adapters, ColorModeScript, and Storybook](https://dev.to/mrkamura/kovax-react-08-tailwind-v4-preset-formfield-adapters-colormodescript-and-storybook-587)
+- [Modern React Performance Without the Overhead](https://dev.to/larsroettig_ai/modern-react-performance-without-the-overhead-4oak)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 25, 2026",
     "news": [
       {
-        "title": "WebMCP is coming — so I’m building webmcp.js",
-        "link": "https://dev.to/beladevo/webmcp-is-coming-so-im-building-webmcpjs-118m",
+        "title": "8 Vite Config Options Every Developer Should Know (Vite 8)",
+        "link": "https://dev.to/erikch/8-vite-config-options-every-developer-should-know-vite-8-22im",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Compiled Rust to WebAssembly and Made My JavaScript 6 Faster",
-        "link": "https://dev.to/dev48v/i-compiled-rust-to-webassembly-and-made-my-javascript-6x-faster-3ekf",
+        "title": "The False Positive Tax: a 1:1 TP:FP analysis of eslint-plugin-security",
+        "link": "https://dev.to/ofri-peretz/the-false-positive-tax-a-11-tpfp-analysis-of-eslint-plugin-security-1kkg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your polyfills are dead. Here's a robot that buries them.",
-        "link": "https://dev.to/mk668a/your-polyfills-are-dead-heres-a-robot-that-buries-them-4e5a",
+        "title": "I Benchmarked 17 ESLint Security Plugins. Only One Found Every Vulnerability.",
+        "link": "https://dev.to/ofri-peretz/i-benchmarked-17-eslint-security-plugins-only-one-found-every-vulnerability-c83",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a self-hosted CI/CD platform with persistent queue, encrypted secrets, and rollback UI — here's what I learned",
-        "link": "https://dev.to/sabrydawood_79/i-built-a-self-hosted-cicd-platform-with-persistent-queue-encrypted-secrets-and-rollback-ui--2jph",
+        "title": "Building a Portfolio That Actually Demonstrates Software Engineering",
+        "link": "https://dev.to/andrescasoiglesias/building-a-portfolio-that-actually-demonstrates-software-engineering-4jn2",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg",
-        "link": "https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k",
+        "title": "kovax-react 0.8: Tailwind v4 preset, FormField adapters, ColorModeScript, and Storybook",
+        "link": "https://dev.to/mrkamura/kovax-react-08-tailwind-v4-preset-formfield-adapters-colormodescript-and-storybook-587",
         "source": "Dev.to React"
       },
       {
-        "title": "React.lazy + chunk errors: how to recover users stuck after a deploy",
-        "link": "https://dev.to/bairescodeai/reactlazy-chunk-errors-how-to-recover-users-stuck-after-a-deploy-2o38",
+        "title": "Modern React Performance Without the Overhead",
+        "link": "https://dev.to/larsroettig_ai/modern-react-performance-without-the-overhead-4oak",
         "source": "Dev.to React"
       },
       {
