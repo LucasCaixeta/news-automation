@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How we connect two strangers' webcams fast (and keep the TURN bill small)](https://dev.to/camdiv/how-we-connect-two-strangers-webcams-fast-and-keep-the-turn-bill-small-4fcc)
-- [Stop posting boring black-and-white screenshots of your code. I built a free tool to fix this.](https://dev.to/ritesh_kumar_ad57de7b168b/stop-posting-boring-black-and-white-screenshots-of-your-code-i-built-a-free-tool-to-fix-this-2gd3)
-- [How React-Style Time-Slicing Keeps UIs Responsive](https://dev.to/luciano0322/how-react-style-time-slicing-keeps-uis-responsive-2lp0)
+- [npm Scripts and package.json: The Complete Guide (2026)](https://dev.to/armorbreak/npm-scripts-and-packagejson-the-complete-guide-2026-4m9j)
+- [Your Playwright Tests Will Need Refactoring. Here's How to Make It Painless](https://dev.to/dmitrymeaqa/your-playwright-tests-will-need-refactoring-heres-how-to-make-it-painless-38a3)
+- [I Built a Browser Game Engine Inside WordPress Without Canvas or WebGL. Here's Why](https://dev.to/orbemorder/i-built-a-browser-game-engine-inside-wordpress-without-canvas-or-webgl-heres-why-2in3)
 
 #### Dev.to React
 
-- [Design to Code #8: The Cosmetics of Modularity](https://dev.to/7onic/design-to-code-8-the-cosmetics-of-modularity-2bc7)
-- [Deep Dive: React Server Components in TanStack Start](https://dev.to/shrutikapoor08/deep-dive-react-server-components-in-tanstack-start-49mp)
-- [md - context menu](https://dev.to/pjdev2d/md-context-menu-1k7l)
+- [I built a local-first Apple Health recovery briefing that shows its math](https://dev.to/conalh/i-built-a-local-first-apple-health-recovery-briefing-that-shows-its-math-577i)
+- [🤖 StockAI: I Built an AI-Powered StockAI News Analyzer That Supports OpenAI, Claude, DeepSeek & Local LLMs](https://dev.to/hyhmrright/stockai-i-built-an-ai-powered-stockai-news-analyzer-that-supports-openai-claude-deepseek--2736)
+- [How an Accessibility SaaS Broke Its Own Landing (and How We Fixed It)](https://dev.to/lawebe/how-an-accessibility-saas-broke-its-own-landing-and-how-we-fixed-it-5802)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 26, 2026",
     "news": [
       {
-        "title": "How we connect two strangers' webcams fast (and keep the TURN bill small)",
-        "link": "https://dev.to/camdiv/how-we-connect-two-strangers-webcams-fast-and-keep-the-turn-bill-small-4fcc",
+        "title": "npm Scripts and package.json: The Complete Guide (2026)",
+        "link": "https://dev.to/armorbreak/npm-scripts-and-packagejson-the-complete-guide-2026-4m9j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop posting boring black-and-white screenshots of your code. I built a free tool to fix this.",
-        "link": "https://dev.to/ritesh_kumar_ad57de7b168b/stop-posting-boring-black-and-white-screenshots-of-your-code-i-built-a-free-tool-to-fix-this-2gd3",
+        "title": "Your Playwright Tests Will Need Refactoring. Here's How to Make It Painless",
+        "link": "https://dev.to/dmitrymeaqa/your-playwright-tests-will-need-refactoring-heres-how-to-make-it-painless-38a3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How React-Style Time-Slicing Keeps UIs Responsive",
-        "link": "https://dev.to/luciano0322/how-react-style-time-slicing-keeps-uis-responsive-2lp0",
+        "title": "I Built a Browser Game Engine Inside WordPress Without Canvas or WebGL. Here's Why",
+        "link": "https://dev.to/orbemorder/i-built-a-browser-game-engine-inside-wordpress-without-canvas-or-webgl-heres-why-2in3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Design to Code #8: The Cosmetics of Modularity",
-        "link": "https://dev.to/7onic/design-to-code-8-the-cosmetics-of-modularity-2bc7",
+        "title": "I built a local-first Apple Health recovery briefing that shows its math",
+        "link": "https://dev.to/conalh/i-built-a-local-first-apple-health-recovery-briefing-that-shows-its-math-577i",
         "source": "Dev.to React"
       },
       {
-        "title": "Deep Dive: React Server Components in TanStack Start",
-        "link": "https://dev.to/shrutikapoor08/deep-dive-react-server-components-in-tanstack-start-49mp",
+        "title": "🤖 StockAI: I Built an AI-Powered StockAI News Analyzer That Supports OpenAI, Claude, DeepSeek & Local LLMs",
+        "link": "https://dev.to/hyhmrright/stockai-i-built-an-ai-powered-stockai-news-analyzer-that-supports-openai-claude-deepseek--2736",
         "source": "Dev.to React"
       },
       {
-        "title": "md - context menu",
-        "link": "https://dev.to/pjdev2d/md-context-menu-1k7l",
+        "title": "How an Accessibility SaaS Broke Its Own Landing (and How We Fixed It)",
+        "link": "https://dev.to/lawebe/how-an-accessibility-saas-broke-its-own-landing-and-how-we-fixed-it-5802",
         "source": "Dev.to React"
       },
       {
