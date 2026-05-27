@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
-- [Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate](https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn)
-- [Why PrusaSlicer can't open your Bambu 3MF — and how I flattened the 3MF production extension in the browser](https://dev.to/bubudong/why-prusaslicer-cant-open-your-bambu-3mf-and-how-i-flattened-the-3mf-production-extension-in-the-3p36)
+- [Next.js 16 Broke My App in 4 Places and None of Them Threw an Error](https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn)
+- [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
 
 #### Dev.to React
 
-- [Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate](https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn)
+- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
+- [SVG Keyframe Animation in Pure CSS (No Library)](https://dev.to/iurii_rogulia/svg-keyframe-animation-in-pure-css-no-library-2ad2)
 - [I Got Tired of Messy Bookmark Managers, So I Built My Own](https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0)
-- [Built a Sentiment Analysis Web App – My First Full-Stack ML Project](https://dev.to/nasirovelchin/built-a-sentiment-analysis-web-app-my-first-full-stack-ml-project-35f8)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate",
-        "link": "https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn",
+        "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
+        "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why PrusaSlicer can't open your Bambu 3MF — and how I flattened the 3MF production extension in the browser",
-        "link": "https://dev.to/bubudong/why-prusaslicer-cant-open-your-bambu-3mf-and-how-i-flattened-the-3mf-production-extension-in-the-3p36",
+        "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+        "link": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate",
-        "link": "https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn",
+        "title": "Stop Using useEffect for Data Fetching: Understanding TanStack Query",
+        "link": "https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "SVG Keyframe Animation in Pure CSS (No Library)",
+        "link": "https://dev.to/iurii_rogulia/svg-keyframe-animation-in-pure-css-no-library-2ad2",
         "source": "Dev.to React"
       },
       {
         "title": "I Got Tired of Messy Bookmark Managers, So I Built My Own",
         "link": "https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Built a Sentiment Analysis Web App – My First Full-Stack ML Project",
-        "link": "https://dev.to/nasirovelchin/built-a-sentiment-analysis-web-app-my-first-full-stack-ml-project-35f8",
         "source": "Dev.to React"
       },
       {
