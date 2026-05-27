@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 26, 2026)
+### Today's Updates (May 27, 2026)
+
+#### Dev.to JavaScript
+
+- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+- [Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate](https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn)
+- [Why PrusaSlicer can't open your Bambu 3MF — and how I flattened the 3MF production extension in the browser](https://dev.to/bubudong/why-prusaslicer-cant-open-your-bambu-3mf-and-how-i-flattened-the-3mf-production-extension-in-the-3p36)
+
+#### Dev.to React
+
+- [Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate](https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn)
+- [I Got Tired of Messy Bookmark Managers, So I Built My Own](https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0)
+- [Built a Sentiment Analysis Web App – My First Full-Stack ML Project](https://dev.to/nasirovelchin/built-a-sentiment-analysis-web-app-my-first-full-stack-ml-project-35f8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 25, 2026)
+### 2 Days Ago (May 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Portfolio That Actually Demonstrates Software Engineering](https://dev.to/andrescasoiglesias/building-a-portfolio-that-actually-demonstrates-software-engineering-4jn2)
 - [kovax-react 0.8: Tailwind v4 preset, FormField adapters, ColorModeScript, and Storybook](https://dev.to/mrkamura/kovax-react-08-tailwind-v4-preset-formfield-adapters-colormodescript-and-storybook-587)
 - [Modern React Performance Without the Overhead](https://dev.to/larsroettig_ai/modern-react-performance-without-the-overhead-4oak)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 24, 2026)
-
-#### Dev.to JavaScript
-
-- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj)
-- [How I Built a Proactive Heartbeat Loop in TypeScript By Nidhish Akolkar](https://dev.to/nidhishakolkar/how-i-built-a-proactive-heartbeat-loop-in-typescript-by-nidhish-akolkar-1gno)
-- [I Built a Pro Tier with Stripe, Supabase Auth, and Multi-File Mode From My Android Phone](https://dev.to/charles_blackwood/i-built-a-pro-tier-with-stripe-supabase-auth-and-multi-file-mode-from-my-android-phone-1p2i)
-
-#### Dev.to React
-
-- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj)
-- [I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg](https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k)
-- [I Revived A 4-Year-Old Abandoned React Quiz App](https://dev.to/temisan0x/i-revived-a-4-year-old-abandoned-react-quiz-app-49ia)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-27",
+    "formattedDate": "May 27, 2026",
+    "news": [
+      {
+        "title": "An LLM API call, in 4 GIFs",
+        "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate",
+        "link": "https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why PrusaSlicer can't open your Bambu 3MF — and how I flattened the 3MF production extension in the browser",
+        "link": "https://dev.to/bubudong/why-prusaslicer-cant-open-your-bambu-3mf-and-how-i-flattened-the-3mf-production-extension-in-the-3p36",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Animating React Without Fighting the Render Loop: useRafFn, useRafState, useFps, useDevicePixelRatio, useUpdate",
+        "link": "https://dev.to/childrentime/animating-react-without-fighting-the-render-loop-useraffn-userafstate-usefps-1bgn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Got Tired of Messy Bookmark Managers, So I Built My Own",
+        "link": "https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Built a Sentiment Analysis Web App – My First Full-Stack ML Project",
+        "link": "https://dev.to/nasirovelchin/built-a-sentiment-analysis-web-app-my-first-full-stack-ml-project-35f8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-26",
     "formattedDate": "May 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Modern React Performance Without the Overhead",
         "link": "https://dev.to/larsroettig_ai/modern-react-performance-without-the-overhead-4oak",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-24",
-    "formattedDate": "May 24, 2026",
-    "news": [
-      {
-        "title": "How I Use Cursor + Claude to Ship React Code 3x Faster",
-        "link": "https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Proactive Heartbeat Loop in TypeScript By Nidhish Akolkar",
-        "link": "https://dev.to/nidhishakolkar/how-i-built-a-proactive-heartbeat-loop-in-typescript-by-nidhish-akolkar-1gno",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Pro Tier with Stripe, Supabase Auth, and Multi-File Mode From My Android Phone",
-        "link": "https://dev.to/charles_blackwood/i-built-a-pro-tier-with-stripe-supabase-auth-and-multi-file-mode-from-my-android-phone-1p2i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Use Cursor + Claude to Ship React Code 3x Faster",
-        "link": "https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built Cuekiyo: a Local-First Anime OP/ED Video Pipeline with React, FastAPI, yt-dlp and FFmpeg",
-        "link": "https://dev.to/nonlooped/i-built-cuekiyo-a-local-first-anime-oped-video-pipeline-with-react-fastapi-yt-dlp-and-ffmpeg-2k4k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Revived A 4-Year-Old Abandoned React Quiz App",
-        "link": "https://dev.to/temisan0x/i-revived-a-4-year-old-abandoned-react-quiz-app-49ia",
         "source": "Dev.to React"
       },
       {
