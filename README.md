@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
-- [My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had](https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh)
-- [How I built a fast, client-side puzzle solver suite using Next.js and Web Workers](https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo)
+- [Let Equals Equal Equals](https://dev.to/bennypowers/let-equals-equal-equals-3imc)
+- [Recovering a gift card code from its createdAt with a 10-line LCG](https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j)
 
 #### Dev.to React
 
-- [Your AI Assistant Is a React Fanboy and You Should Be Worried](https://dev.to/karol_modelski/your-ai-assistant-is-a-react-fanboy-and-you-should-be-worried-2pld)
-- [React is nothing. And that's the point.](https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b)
-- [Live chain-of-thought in a chatbot: how to actually stream the tool calls (not just the text)](https://dev.to/bernarduriza/live-chain-of-thought-in-a-chatbot-how-to-actually-stream-the-tool-calls-not-just-the-text-h0o)
+- [18 developer tools I use to improve my workflow](https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a)
+- [I Built an Accessible React Component Library from Scratch — Here's What I Learned](https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng)
+- [Day 93: Bridging React to iOS Widgets and Face ID](https://dev.to/ericrodriguez10/day-93-bridging-react-to-ios-widgets-and-face-id-40b1)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had",
-        "link": "https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh",
+        "title": "Let Equals Equal Equals",
+        "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I built a fast, client-side puzzle solver suite using Next.js and Web Workers",
-        "link": "https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo",
+        "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
+        "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your AI Assistant Is a React Fanboy and You Should Be Worried",
-        "link": "https://dev.to/karol_modelski/your-ai-assistant-is-a-react-fanboy-and-you-should-be-worried-2pld",
+        "title": "18 developer tools I use to improve my workflow",
+        "link": "https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a",
         "source": "Dev.to React"
       },
       {
-        "title": "React is nothing. And that's the point.",
-        "link": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
+        "title": "I Built an Accessible React Component Library from Scratch — Here's What I Learned",
+        "link": "https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng",
         "source": "Dev.to React"
       },
       {
-        "title": "Live chain-of-thought in a chatbot: how to actually stream the tool calls (not just the text)",
-        "link": "https://dev.to/bernarduriza/live-chain-of-thought-in-a-chatbot-how-to-actually-stream-the-tool-calls-not-just-the-text-h0o",
+        "title": "Day 93: Bridging React to iOS Widgets and Face ID",
+        "link": "https://dev.to/ericrodriguez10/day-93-bridging-react-to-ios-widgets-and-face-id-40b1",
         "source": "Dev.to React"
       },
       {
