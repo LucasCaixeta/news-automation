@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Let Equals Equal Equals](https://dev.to/bennypowers/let-equals-equal-equals-3imc)
-- [A self-hosted Google reCAPTCHA alternative (we ship it)](https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h)
-- [TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.](https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c)
+- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+- ["Your AI agents fail silently. A 1986 idea fixes that."](https://dev.to/deadlyreiter/your-ai-agents-fail-silently-a-1986-idea-fixes-that-57f1)
+- [import-next/no-cycle Reported 0 Cycles on Next.js. We Found Why — and Fixed It.](https://dev.to/ofri-peretz/import-nextno-cycle-reported-0-cycles-on-nextjs-we-found-why-and-fixed-it-ln2)
 
 #### Dev.to React
 
-- [Re-Engineering My Portfolio: Moving from No-Code to React & Firebase](https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do)
-- [RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells](https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m)
-- [Frontend Engineering in 2026: Mastering Performance and DX](https://dev.to/aindrila_bhattacharjee_0f/frontend-engineering-in-2026-mastering-performance-and-dx-3ogm)
+- [Know Your WebDev Math: Dynamic positioning with trigonometry](https://dev.to/vakme/know-your-webdev-math-dynamic-positioning-with-trigonometry-2co6)
+- [Advanced Hooks & State Management Patterns in React](https://dev.to/kushang_tailor/advanced-hooks-state-management-patterns-in-react-bgj)
+- [Understanding useReducer and useRef in React](https://dev.to/bishoy_bishai/understanding-usereducer-and-useref-in-react-4n2h)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 29, 2026",
     "news": [
       {
-        "title": "Let Equals Equal Equals",
-        "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
+        "title": "An LLM API call, in 4 GIFs",
+        "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
-        "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+        "title": "\"Your AI agents fail silently. A 1986 idea fixes that.\"",
+        "link": "https://dev.to/deadlyreiter/your-ai-agents-fail-silently-a-1986-idea-fixes-that-57f1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
-        "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+        "title": "import-next/no-cycle Reported 0 Cycles on Next.js. We Found Why — and Fixed It.",
+        "link": "https://dev.to/ofri-peretz/import-nextno-cycle-reported-0-cycles-on-nextjs-we-found-why-and-fixed-it-ln2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Re-Engineering My Portfolio: Moving from No-Code to React & Firebase",
-        "link": "https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do",
+        "title": "Know Your WebDev Math: Dynamic positioning with trigonometry",
+        "link": "https://dev.to/vakme/know-your-webdev-math-dynamic-positioning-with-trigonometry-2co6",
         "source": "Dev.to React"
       },
       {
-        "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
-        "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+        "title": "Advanced Hooks & State Management Patterns in React",
+        "link": "https://dev.to/kushang_tailor/advanced-hooks-state-management-patterns-in-react-bgj",
         "source": "Dev.to React"
       },
       {
-        "title": "Frontend Engineering in 2026: Mastering Performance and DX",
-        "link": "https://dev.to/aindrila_bhattacharjee_0f/frontend-engineering-in-2026-mastering-performance-and-dx-3ogm",
+        "title": "Understanding useReducer and useRef in React",
+        "link": "https://dev.to/bishoy_bishai/understanding-usereducer-and-useref-in-react-4n2h",
         "source": "Dev.to React"
       },
       {
