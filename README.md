@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 28, 2026)
+### Today's Updates (May 29, 2026)
+
+#### Dev.to JavaScript
+
+- [Let Equals Equal Equals](https://dev.to/bennypowers/let-equals-equal-equals-3imc)
+- [A self-hosted Google reCAPTCHA alternative (we ship it)](https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h)
+- [TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.](https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c)
+
+#### Dev.to React
+
+- [Re-Engineering My Portfolio: Moving from No-Code to React & Firebase](https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do)
+- [RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells](https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m)
+- [Frontend Engineering in 2026: Mastering Performance and DX](https://dev.to/aindrila_bhattacharjee_0f/frontend-engineering-in-2026-mastering-performance-and-dx-3ogm)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 27, 2026)
+### 2 Days Ago (May 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
 - [SVG Keyframe Animation in Pure CSS (No Library)](https://dev.to/iurii_rogulia/svg-keyframe-animation-in-pure-css-no-library-2ad2)
 - [I Got Tired of Messy Bookmark Managers, So I Built My Own](https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 26, 2026)
-
-#### Dev.to JavaScript
-
-- [npm Scripts and package.json: The Complete Guide (2026)](https://dev.to/armorbreak/npm-scripts-and-packagejson-the-complete-guide-2026-4m9j)
-- [Your Playwright Tests Will Need Refactoring. Here's How to Make It Painless](https://dev.to/dmitrymeaqa/your-playwright-tests-will-need-refactoring-heres-how-to-make-it-painless-38a3)
-- [I Built a Browser Game Engine Inside WordPress Without Canvas or WebGL. Here's Why](https://dev.to/orbemorder/i-built-a-browser-game-engine-inside-wordpress-without-canvas-or-webgl-heres-why-2in3)
-
-#### Dev.to React
-
-- [I built a local-first Apple Health recovery briefing that shows its math](https://dev.to/conalh/i-built-a-local-first-apple-health-recovery-briefing-that-shows-its-math-577i)
-- [🤖 StockAI: I Built an AI-Powered StockAI News Analyzer That Supports OpenAI, Claude, DeepSeek & Local LLMs](https://dev.to/hyhmrright/stockai-i-built-an-ai-powered-stockai-news-analyzer-that-supports-openai-claude-deepseek--2736)
-- [How an Accessibility SaaS Broke Its Own Landing (and How We Fixed It)](https://dev.to/lawebe/how-an-accessibility-saas-broke-its-own-landing-and-how-we-fixed-it-5802)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-29",
+    "formattedDate": "May 29, 2026",
+    "news": [
+      {
+        "title": "Let Equals Equal Equals",
+        "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+        "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
+        "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Re-Engineering My Portfolio: Moving from No-Code to React & Firebase",
+        "link": "https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
+        "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Frontend Engineering in 2026: Mastering Performance and DX",
+        "link": "https://dev.to/aindrila_bhattacharjee_0f/frontend-engineering-in-2026-mastering-performance-and-dx-3ogm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-28",
     "formattedDate": "May 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Got Tired of Messy Bookmark Managers, So I Built My Own",
         "link": "https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "formattedDate": "May 26, 2026",
-    "news": [
-      {
-        "title": "npm Scripts and package.json: The Complete Guide (2026)",
-        "link": "https://dev.to/armorbreak/npm-scripts-and-packagejson-the-complete-guide-2026-4m9j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Playwright Tests Will Need Refactoring. Here's How to Make It Painless",
-        "link": "https://dev.to/dmitrymeaqa/your-playwright-tests-will-need-refactoring-heres-how-to-make-it-painless-38a3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Browser Game Engine Inside WordPress Without Canvas or WebGL. Here's Why",
-        "link": "https://dev.to/orbemorder/i-built-a-browser-game-engine-inside-wordpress-without-canvas-or-webgl-heres-why-2in3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a local-first Apple Health recovery briefing that shows its math",
-        "link": "https://dev.to/conalh/i-built-a-local-first-apple-health-recovery-briefing-that-shows-its-math-577i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🤖 StockAI: I Built an AI-Powered StockAI News Analyzer That Supports OpenAI, Claude, DeepSeek & Local LLMs",
-        "link": "https://dev.to/hyhmrright/stockai-i-built-an-ai-powered-stockai-news-analyzer-that-supports-openai-claude-deepseek--2736",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How an Accessibility SaaS Broke Its Own Landing (and How We Fixed It)",
-        "link": "https://dev.to/lawebe/how-an-accessibility-saas-broke-its-own-landing-and-how-we-fixed-it-5802",
         "source": "Dev.to React"
       },
       {
