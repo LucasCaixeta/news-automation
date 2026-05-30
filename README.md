@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 29, 2026)
+### Today's Updates (May 30, 2026)
+
+#### Dev.to JavaScript
+
+- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+- [Math.random() Is Not Random Enough. I Found It Building API Keys in a 44K-Star Repo.](https://dev.to/ofri-peretz/mathrandom-is-not-random-enough-i-found-it-building-api-keys-in-a-57k-star-repo-2pl1)
+- [Processing a 2GB CSV in Node Without Running Out of Memory](https://dev.to/coded_parts/processing-a-2gb-csv-in-node-without-running-out-of-memory-526c)
+
+#### Dev.to React
+
+- [Is Claude directly editing your translation JSON files?](https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c)
+- [Zero Conversions From Facebook In App Traffic, Multiple Workarounds](https://dev.to/paula_crane_c9820a60c69ec/zero-conversions-from-facebook-in-app-traffic-multiple-workarounds-36oe)
+- [How to optimize application performance — a hands on tutorial](https://dev.to/therizwansaleem/how-to-optimize-application-performance-a-hands-on-tutorial-30h8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 28, 2026)
+### 2 Days Ago (May 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [18 developer tools I use to improve my workflow](https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a)
 - [I Built an Accessible React Component Library from Scratch — Here's What I Learned](https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng)
 - [Day 93: Bridging React to iOS Widgets and Face ID](https://dev.to/ericrodriguez10/day-93-bridging-react-to-ios-widgets-and-face-id-40b1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 27, 2026)
-
-#### Dev.to JavaScript
-
-- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
-- [Next.js 16 Broke My App in 4 Places and None of Them Threw an Error](https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn)
-- [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
-
-#### Dev.to React
-
-- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
-- [SVG Keyframe Animation in Pure CSS (No Library)](https://dev.to/iurii_rogulia/svg-keyframe-animation-in-pure-css-no-library-2ad2)
-- [I Got Tired of Messy Bookmark Managers, So I Built My Own](https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-30",
+    "formattedDate": "May 30, 2026",
+    "news": [
+      {
+        "title": "An LLM API call, in 4 GIFs",
+        "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Math.random() Is Not Random Enough. I Found It Building API Keys in a 44K-Star Repo.",
+        "link": "https://dev.to/ofri-peretz/mathrandom-is-not-random-enough-i-found-it-building-api-keys-in-a-57k-star-repo-2pl1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Processing a 2GB CSV in Node Without Running Out of Memory",
+        "link": "https://dev.to/coded_parts/processing-a-2gb-csv-in-node-without-running-out-of-memory-526c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Is Claude directly editing your translation JSON files?",
+        "link": "https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Zero Conversions From Facebook In App Traffic, Multiple Workarounds",
+        "link": "https://dev.to/paula_crane_c9820a60c69ec/zero-conversions-from-facebook-in-app-traffic-multiple-workarounds-36oe",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to optimize application performance — a hands on tutorial",
+        "link": "https://dev.to/therizwansaleem/how-to-optimize-application-performance-a-hands-on-tutorial-30h8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-29",
     "formattedDate": "May 29, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Day 93: Bridging React to iOS Widgets and Face ID",
         "link": "https://dev.to/ericrodriguez10/day-93-bridging-react-to-ios-widgets-and-face-id-40b1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "formattedDate": "May 27, 2026",
-    "news": [
-      {
-        "title": "An LLM API call, in 4 GIFs",
-        "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-        "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-        "link": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Using useEffect for Data Fetching: Understanding TanStack Query",
-        "link": "https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "SVG Keyframe Animation in Pure CSS (No Library)",
-        "link": "https://dev.to/iurii_rogulia/svg-keyframe-animation-in-pure-css-no-library-2ad2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Got Tired of Messy Bookmark Managers, So I Built My Own",
-        "link": "https://dev.to/sarvan2187/i-built-bookmrk-an-open-source-local-first-bookmark-manager-for-power-users-41g0",
         "source": "Dev.to React"
       },
       {
