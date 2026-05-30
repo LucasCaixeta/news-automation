@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
-- [Math.random() Is Not Random Enough. I Found It Building API Keys in a 44K-Star Repo.](https://dev.to/ofri-peretz/mathrandom-is-not-random-enough-i-found-it-building-api-keys-in-a-57k-star-repo-2pl1)
-- [Processing a 2GB CSV in Node Without Running Out of Memory](https://dev.to/coded_parts/processing-a-2gb-csv-in-node-without-running-out-of-memory-526c)
+- [Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here's Why They Form in Every Large JS Codebase.](https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5)
+- [Stop Building Native Apps for Small Businesses — You're Wasting Their Money](https://dev.to/ahmad_khokhar/stop-building-native-apps-for-small-businesses-youre-wasting-their-money-211d)
 
 #### Dev.to React
 
+- [React Performance: From Sluggish to Lightning](https://dev.to/dependersethi/react-performance-from-sluggish-to-lightning-1fmo)
+- [Unlocking 60fps Layouts: CSS content-visibility in React ⚡](https://dev.to/iprajapatiparesh/unlocking-60fps-layouts-css-content-visibility-in-react-2jd7)
 - [Is Claude directly editing your translation JSON files?](https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c)
-- [Zero Conversions From Facebook In App Traffic, Multiple Workarounds](https://dev.to/paula_crane_c9820a60c69ec/zero-conversions-from-facebook-in-app-traffic-multiple-workarounds-36oe)
-- [How to optimize application performance — a hands on tutorial](https://dev.to/therizwansaleem/how-to-optimize-application-performance-a-hands-on-tutorial-30h8)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Math.random() Is Not Random Enough. I Found It Building API Keys in a 44K-Star Repo.",
-        "link": "https://dev.to/ofri-peretz/mathrandom-is-not-random-enough-i-found-it-building-api-keys-in-a-57k-star-repo-2pl1",
+        "title": "Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here's Why They Form in Every Large JS Codebase.",
+        "link": "https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Processing a 2GB CSV in Node Without Running Out of Memory",
-        "link": "https://dev.to/coded_parts/processing-a-2gb-csv-in-node-without-running-out-of-memory-526c",
+        "title": "Stop Building Native Apps for Small Businesses — You're Wasting Their Money",
+        "link": "https://dev.to/ahmad_khokhar/stop-building-native-apps-for-small-businesses-youre-wasting-their-money-211d",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Performance: From Sluggish to Lightning",
+        "link": "https://dev.to/dependersethi/react-performance-from-sluggish-to-lightning-1fmo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Unlocking 60fps Layouts: CSS content-visibility in React ⚡",
+        "link": "https://dev.to/iprajapatiparesh/unlocking-60fps-layouts-css-content-visibility-in-react-2jd7",
+        "source": "Dev.to React"
       },
       {
         "title": "Is Claude directly editing your translation JSON files?",
         "link": "https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Zero Conversions From Facebook In App Traffic, Multiple Workarounds",
-        "link": "https://dev.to/paula_crane_c9820a60c69ec/zero-conversions-from-facebook-in-app-traffic-multiple-workarounds-36oe",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to optimize application performance — a hands on tutorial",
-        "link": "https://dev.to/therizwansaleem/how-to-optimize-application-performance-a-hands-on-tutorial-30h8",
         "source": "Dev.to React"
       },
       {
