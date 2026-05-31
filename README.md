@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How I Stopped Node.js from Freezing While Bulk-Processing 1,500+ Excel Rows](https://dev.to/7amed3li/how-i-stopped-nodejs-from-freezing-while-bulk-processing-1500-excel-rows-2983)
-- [Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s](https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g)
-- [Streaming an LLM response, in 4 GIFs](https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh)
+- [Error: Cannot Set Headers After They Are Sent to the Client](https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a)
+- [Detect Prototype Pollution in JavaScript: Code Review Checklist](https://dev.to/securitystefan/detect-prototype-pollution-in-javascript-code-review-checklist-32ae)
+- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
 
 #### Dev.to React
 
-- [Vue slot to React: How does VuReact handle it?](https://dev.to/smirk9581/vue-slot-to-react-how-does-vureact-handle-it-1935)
-- [Using Lottie Animations in Next.js (App Router & Pages Router)](https://dev.to/fazalshah/using-lottie-animations-in-nextjs-app-router-pages-router-3of3)
-- [How to Use Lottie Animations in React (Complete Guide)](https://dev.to/fazalshah/how-to-use-lottie-animations-in-react-complete-guide-5c77)
+- [# Agentic AI: Architecture of Autonomous Systems](https://dev.to/soohan_abbasi/-agentic-ai-architecture-of-autonomous-systems-1b7d)
+- [Building a Comprehensive Accessibility Testing Framework for Web Applications](https://dev.to/therizwansaleem/building-a-comprehensive-accessibility-testing-framework-for-web-applications-2kg5)
+- [Vue Teleport component React: How does VuReact convert it?](https://dev.to/smirk9581/vue-teleport-component-react-how-does-vureact-convert-it-c5o)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "May 31, 2026",
     "news": [
       {
-        "title": "How I Stopped Node.js from Freezing While Bulk-Processing 1,500+ Excel Rows",
-        "link": "https://dev.to/7amed3li/how-i-stopped-nodejs-from-freezing-while-bulk-processing-1500-excel-rows-2983",
+        "title": "Error: Cannot Set Headers After They Are Sent to the Client",
+        "link": "https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s",
-        "link": "https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g",
+        "title": "Detect Prototype Pollution in JavaScript: Code Review Checklist",
+        "link": "https://dev.to/securitystefan/detect-prototype-pollution-in-javascript-code-review-checklist-32ae",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Streaming an LLM response, in 4 GIFs",
-        "link": "https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh",
+        "title": "I open-sourced a World Cup 2026 prediction model — and tested it honestly",
+        "link": "https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Vue slot to React: How does VuReact handle it?",
-        "link": "https://dev.to/smirk9581/vue-slot-to-react-how-does-vureact-handle-it-1935",
+        "title": "# Agentic AI: Architecture of Autonomous Systems",
+        "link": "https://dev.to/soohan_abbasi/-agentic-ai-architecture-of-autonomous-systems-1b7d",
         "source": "Dev.to React"
       },
       {
-        "title": "Using Lottie Animations in Next.js (App Router & Pages Router)",
-        "link": "https://dev.to/fazalshah/using-lottie-animations-in-nextjs-app-router-pages-router-3of3",
+        "title": "Building a Comprehensive Accessibility Testing Framework for Web Applications",
+        "link": "https://dev.to/therizwansaleem/building-a-comprehensive-accessibility-testing-framework-for-web-applications-2kg5",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Use Lottie Animations in React (Complete Guide)",
-        "link": "https://dev.to/fazalshah/how-to-use-lottie-animations-in-react-complete-guide-5c77",
+        "title": "Vue Teleport component React: How does VuReact convert it?",
+        "link": "https://dev.to/smirk9581/vue-teleport-component-react-how-does-vureact-convert-it-c5o",
         "source": "Dev.to React"
       },
       {
