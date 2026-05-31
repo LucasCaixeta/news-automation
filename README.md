@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (May 30, 2026)
+### Today's Updates (May 31, 2026)
+
+#### Dev.to JavaScript
+
+- [How I Stopped Node.js from Freezing While Bulk-Processing 1,500+ Excel Rows](https://dev.to/7amed3li/how-i-stopped-nodejs-from-freezing-while-bulk-processing-1500-excel-rows-2983)
+- [Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s](https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g)
+- [Streaming an LLM response, in 4 GIFs](https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh)
+
+#### Dev.to React
+
+- [Vue slot to React: How does VuReact handle it?](https://dev.to/smirk9581/vue-slot-to-react-how-does-vureact-handle-it-1935)
+- [Using Lottie Animations in Next.js (App Router & Pages Router)](https://dev.to/fazalshah/using-lottie-animations-in-nextjs-app-router-pages-router-3of3)
+- [How to Use Lottie Animations in React (Complete Guide)](https://dev.to/fazalshah/how-to-use-lottie-animations-in-react-complete-guide-5c77)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (May 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 29, 2026)
+### 2 Days Ago (May 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Know Your WebDev Math: Dynamic positioning with trigonometry](https://dev.to/vakme/know-your-webdev-math-dynamic-positioning-with-trigonometry-2co6)
 - [Advanced Hooks & State Management Patterns in React](https://dev.to/kushang_tailor/advanced-hooks-state-management-patterns-in-react-bgj)
 - [Understanding useReducer and useRef in React](https://dev.to/bishoy_bishai/understanding-usereducer-and-useref-in-react-4n2h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 28, 2026)
-
-#### Dev.to JavaScript
-
-- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
-- [Let Equals Equal Equals](https://dev.to/bennypowers/let-equals-equal-equals-3imc)
-- [Recovering a gift card code from its createdAt with a 10-line LCG](https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j)
-
-#### Dev.to React
-
-- [18 developer tools I use to improve my workflow](https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a)
-- [I Built an Accessible React Component Library from Scratch — Here's What I Learned](https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng)
-- [Day 93: Bridging React to iOS Widgets and Face ID](https://dev.to/ericrodriguez10/day-93-bridging-react-to-ios-widgets-and-face-id-40b1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-05-31",
+    "formattedDate": "May 31, 2026",
+    "news": [
+      {
+        "title": "How I Stopped Node.js from Freezing While Bulk-Processing 1,500+ Excel Rows",
+        "link": "https://dev.to/7amed3li/how-i-stopped-nodejs-from-freezing-while-bulk-processing-1500-excel-rows-2983",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s",
+        "link": "https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Streaming an LLM response, in 4 GIFs",
+        "link": "https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vue slot to React: How does VuReact handle it?",
+        "link": "https://dev.to/smirk9581/vue-slot-to-react-how-does-vureact-handle-it-1935",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Using Lottie Animations in Next.js (App Router & Pages Router)",
+        "link": "https://dev.to/fazalshah/using-lottie-animations-in-nextjs-app-router-pages-router-3of3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Use Lottie Animations in React (Complete Guide)",
+        "link": "https://dev.to/fazalshah/how-to-use-lottie-animations-in-react-complete-guide-5c77",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-05-30",
     "formattedDate": "May 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Understanding useReducer and useRef in React",
         "link": "https://dev.to/bishoy_bishai/understanding-usereducer-and-useref-in-react-4n2h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "formattedDate": "May 28, 2026",
-    "news": [
-      {
-        "title": "An LLM API call, in 4 GIFs",
-        "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Let Equals Equal Equals",
-        "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
-        "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "18 developer tools I use to improve my workflow",
-        "link": "https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an Accessible React Component Library from Scratch — Here's What I Learned",
-        "link": "https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Day 93: Bridging React to iOS Widgets and Face ID",
-        "link": "https://dev.to/ericrodriguez10/day-93-bridging-react-to-ios-widgets-and-face-id-40b1",
         "source": "Dev.to React"
       },
       {
