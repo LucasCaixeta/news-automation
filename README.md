@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [OrinIDE v1.0.7 — The AI Finally Understands Your Whole Project](https://dev.to/nandan_das_369/orinide-v107-the-ai-finally-understands-your-whole-project-2nd4)
-- [Every YouTube video has 5 thumbnails sitting at predictable URLs (and how to grab them in 10 lines)](https://dev.to/simran_kaur_9eda1e242c31f/every-youtube-video-has-5-thumbnails-sitting-at-predictable-urls-and-how-to-grab-them-in-10-lines-fmc)
-- [The Hacker News Search API: Free, No-Key, and Surprisingly Powerful](https://dev.to/odeeb/the-hacker-news-search-api-free-no-key-and-surprisingly-powerful-5e8l)
+- [Why we replaced PDF invoice attachments with inline PNG receipts](https://dev.to/accreditly/why-we-replaced-pdf-invoice-attachments-with-inline-png-receipts-1fga)
+- [WebRTC Video Call Tutorial with PeerJs Alternative](https://dev.to/aprogrammer22/webrtc-video-call-tutorial-11-video-chat-in-js-with-metered-peer-4m1e)
+- [I Built rtl-text-tools ( A Complete RTL Text Processing Toolkit for JavaScript )](https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4)
 
 #### Dev.to React
 
-- [Why My Analytics Was Logging Every Page Visit Twice (And How I Fixed It)](https://dev.to/highcenburg/why-my-analytics-was-logging-every-page-visit-twice-and-how-i-fixed-it-59co)
-- [I built a free CLI that audits your Node.js + React project before you ship](https://dev.to/kevinpatildxd/i-built-a-free-cli-that-audits-your-nodejs-react-project-before-you-ship-1peh)
-- [React 19.2: Activity, useEffectEvent & React Compiler — A Practical Deep Dive (2026)](https://dev.to/webtoolshub/react-192-activity-useeffectevent-react-compiler-a-practical-deep-dive-2026-glp)
+- [I replaced GSAP DrawSVG with 4.4 KB (and it uses native CSS where it can)](https://dev.to/dhruvil_chauhan_eccb4a1eb/i-replaced-gsap-drawsvg-with-44-kb-and-it-uses-native-css-where-it-can-3mdg)
+- [Just build your react frontend into your Go Backend !](https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m)
+- [I Spent 2 Months Building a 150+ Tool Website with $0 Server Cost](https://dev.to/utlkit/i-spent-2-months-building-a-150-tool-website-with-0-server-cost-4lem)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 1, 2026",
     "news": [
       {
-        "title": "OrinIDE v1.0.7 — The AI Finally Understands Your Whole Project",
-        "link": "https://dev.to/nandan_das_369/orinide-v107-the-ai-finally-understands-your-whole-project-2nd4",
+        "title": "Why we replaced PDF invoice attachments with inline PNG receipts",
+        "link": "https://dev.to/accreditly/why-we-replaced-pdf-invoice-attachments-with-inline-png-receipts-1fga",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Every YouTube video has 5 thumbnails sitting at predictable URLs (and how to grab them in 10 lines)",
-        "link": "https://dev.to/simran_kaur_9eda1e242c31f/every-youtube-video-has-5-thumbnails-sitting-at-predictable-urls-and-how-to-grab-them-in-10-lines-fmc",
+        "title": "WebRTC Video Call Tutorial with PeerJs Alternative",
+        "link": "https://dev.to/aprogrammer22/webrtc-video-call-tutorial-11-video-chat-in-js-with-metered-peer-4m1e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Hacker News Search API: Free, No-Key, and Surprisingly Powerful",
-        "link": "https://dev.to/odeeb/the-hacker-news-search-api-free-no-key-and-surprisingly-powerful-5e8l",
+        "title": "I Built rtl-text-tools ( A Complete RTL Text Processing Toolkit for JavaScript )",
+        "link": "https://dev.to/homayounmmdy/i-built-rtl-text-tools-a-complete-rtl-text-processing-toolkit-for-javascript--4ed4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why My Analytics Was Logging Every Page Visit Twice (And How I Fixed It)",
-        "link": "https://dev.to/highcenburg/why-my-analytics-was-logging-every-page-visit-twice-and-how-i-fixed-it-59co",
+        "title": "I replaced GSAP DrawSVG with 4.4 KB (and it uses native CSS where it can)",
+        "link": "https://dev.to/dhruvil_chauhan_eccb4a1eb/i-replaced-gsap-drawsvg-with-44-kb-and-it-uses-native-css-where-it-can-3mdg",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a free CLI that audits your Node.js + React project before you ship",
-        "link": "https://dev.to/kevinpatildxd/i-built-a-free-cli-that-audits-your-nodejs-react-project-before-you-ship-1peh",
+        "title": "Just build your react frontend into your Go Backend !",
+        "link": "https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m",
         "source": "Dev.to React"
       },
       {
-        "title": "React 19.2: Activity, useEffectEvent & React Compiler — A Practical Deep Dive (2026)",
-        "link": "https://dev.to/webtoolshub/react-192-activity-useeffectevent-react-compiler-a-practical-deep-dive-2026-glp",
+        "title": "I Spent 2 Months Building a 150+ Tool Website with $0 Server Cost",
+        "link": "https://dev.to/utlkit/i-spent-2-months-building-a-150-tool-website-with-0-server-cost-4lem",
         "source": "Dev.to React"
       },
       {
