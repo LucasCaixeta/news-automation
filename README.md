@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 1, 2026)
+### Today's Updates (June 2, 2026)
+
+#### Dev.to JavaScript
+
+- [React State Management: When to Use useState, Context, or Zustand](https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f)
+- [Building a Local-First Chrome Extension with IndexedDB and Ollama](https://dev.to/sujal_meena_cf186b9b452cd/building-a-local-first-chrome-extension-with-indexeddb-and-ollama-20jm)
+- ["I Stopped Letting Every AI CLI Own Its Provider Config"](https://dev.to/codekingai/i-stopped-letting-every-ai-cli-own-its-provider-config-4ih)
+
+#### Dev.to React
+
+- [Building an RSS Feed for a Django + React Portfolio (With a Styled Browser View)](https://dev.to/highcenburg/building-an-rss-feed-for-a-django-react-portfolio-with-a-styled-browser-view-l06)
+- [Cursor vs Offset Pagination: A Frontend Engineer's Perspective in 2026](https://dev.to/ahr_dev/cursor-vs-offset-pagination-a-frontend-engineers-perspective-in-2026-3143)
+- [React State Management: When to Use useState, Context, or Zustand](https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (May 31, 2026)
+### 2 Days Ago (May 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [# Agentic AI: Architecture of Autonomous Systems](https://dev.to/soohan_abbasi/-agentic-ai-architecture-of-autonomous-systems-1b7d)
 - [Building a Comprehensive Accessibility Testing Framework for Web Applications](https://dev.to/therizwansaleem/building-a-comprehensive-accessibility-testing-framework-for-web-applications-2kg5)
 - [Vue Teleport component React: How does VuReact convert it?](https://dev.to/smirk9581/vue-teleport-component-react-how-does-vureact-convert-it-c5o)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 30, 2026)
-
-#### Dev.to JavaScript
-
-- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
-- [Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here's Why They Form in Every Large JS Codebase.](https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5)
-- [Stop Building Native Apps for Small Businesses — You're Wasting Their Money](https://dev.to/ahmad_khokhar/stop-building-native-apps-for-small-businesses-youre-wasting-their-money-211d)
-
-#### Dev.to React
-
-- [React Performance: From Sluggish to Lightning](https://dev.to/dependersethi/react-performance-from-sluggish-to-lightning-1fmo)
-- [Unlocking 60fps Layouts: CSS content-visibility in React ⚡](https://dev.to/iprajapatiparesh/unlocking-60fps-layouts-css-content-visibility-in-react-2jd7)
-- [Is Claude directly editing your translation JSON files?](https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-02",
+    "formattedDate": "June 2, 2026",
+    "news": [
+      {
+        "title": "React State Management: When to Use useState, Context, or Zustand",
+        "link": "https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Local-First Chrome Extension with IndexedDB and Ollama",
+        "link": "https://dev.to/sujal_meena_cf186b9b452cd/building-a-local-first-chrome-extension-with-indexeddb-and-ollama-20jm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"I Stopped Letting Every AI CLI Own Its Provider Config\"",
+        "link": "https://dev.to/codekingai/i-stopped-letting-every-ai-cli-own-its-provider-config-4ih",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building an RSS Feed for a Django + React Portfolio (With a Styled Browser View)",
+        "link": "https://dev.to/highcenburg/building-an-rss-feed-for-a-django-react-portfolio-with-a-styled-browser-view-l06",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cursor vs Offset Pagination: A Frontend Engineer's Perspective in 2026",
+        "link": "https://dev.to/ahr_dev/cursor-vs-offset-pagination-a-frontend-engineers-perspective-in-2026-3143",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React State Management: When to Use useState, Context, or Zustand",
+        "link": "https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-01",
     "formattedDate": "June 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Vue Teleport component React: How does VuReact convert it?",
         "link": "https://dev.to/smirk9581/vue-teleport-component-react-how-does-vureact-convert-it-c5o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-30",
-    "formattedDate": "May 30, 2026",
-    "news": [
-      {
-        "title": "An LLM API call, in 4 GIFs",
-        "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here's Why They Form in Every Large JS Codebase.",
-        "link": "https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Building Native Apps for Small Businesses — You're Wasting Their Money",
-        "link": "https://dev.to/ahmad_khokhar/stop-building-native-apps-for-small-businesses-youre-wasting-their-money-211d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Performance: From Sluggish to Lightning",
-        "link": "https://dev.to/dependersethi/react-performance-from-sluggish-to-lightning-1fmo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Unlocking 60fps Layouts: CSS content-visibility in React ⚡",
-        "link": "https://dev.to/iprajapatiparesh/unlocking-60fps-layouts-css-content-visibility-in-react-2jd7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Is Claude directly editing your translation JSON files?",
-        "link": "https://dev.to/i18nexus/is-claude-directly-editing-your-translation-json-files-2o3c",
         "source": "Dev.to React"
       },
       {
