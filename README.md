@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [React State Management: When to Use useState, Context, or Zustand](https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f)
-- [Building a Local-First Chrome Extension with IndexedDB and Ollama](https://dev.to/sujal_meena_cf186b9b452cd/building-a-local-first-chrome-extension-with-indexeddb-and-ollama-20jm)
-- ["I Stopped Letting Every AI CLI Own Its Provider Config"](https://dev.to/codekingai/i-stopped-letting-every-ai-cli-own-its-provider-config-4ih)
+- [Moving my SAAS away from React (and Inertia) to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
+- [CSS ellipsis is great. Until the string itself matters.](https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl)
+- [With excessive use of AI, knowledge can be depleted](https://dev.to/camilasrody/with-excessive-use-of-ai-knowledge-can-be-depleted-550n)
 
 #### Dev.to React
 
-- [Building an RSS Feed for a Django + React Portfolio (With a Styled Browser View)](https://dev.to/highcenburg/building-an-rss-feed-for-a-django-react-portfolio-with-a-styled-browser-view-l06)
-- [Cursor vs Offset Pagination: A Frontend Engineer's Perspective in 2026](https://dev.to/ahr_dev/cursor-vs-offset-pagination-a-frontend-engineers-perspective-in-2026-3143)
-- [React State Management: When to Use useState, Context, or Zustand](https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f)
+- [Moving my SAAS away from React (and Inertia) to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
+- [From an Abandoned Angular Traceroute App to an Interactive Internet Route Lab](https://dev.to/botoom/from-an-abandoned-angular-traceroute-app-to-an-interactive-internet-route-lab-1503)
+- [The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React](https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 2, 2026",
     "news": [
       {
-        "title": "React State Management: When to Use useState, Context, or Zustand",
-        "link": "https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f",
+        "title": "Moving my SAAS away from React (and Inertia) to Elixir",
+        "link": "https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Local-First Chrome Extension with IndexedDB and Ollama",
-        "link": "https://dev.to/sujal_meena_cf186b9b452cd/building-a-local-first-chrome-extension-with-indexeddb-and-ollama-20jm",
+        "title": "CSS ellipsis is great. Until the string itself matters.",
+        "link": "https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"I Stopped Letting Every AI CLI Own Its Provider Config\"",
-        "link": "https://dev.to/codekingai/i-stopped-letting-every-ai-cli-own-its-provider-config-4ih",
+        "title": "With excessive use of AI, knowledge can be depleted",
+        "link": "https://dev.to/camilasrody/with-excessive-use-of-ai-knowledge-can-be-depleted-550n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building an RSS Feed for a Django + React Portfolio (With a Styled Browser View)",
-        "link": "https://dev.to/highcenburg/building-an-rss-feed-for-a-django-react-portfolio-with-a-styled-browser-view-l06",
+        "title": "Moving my SAAS away from React (and Inertia) to Elixir",
+        "link": "https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el",
         "source": "Dev.to React"
       },
       {
-        "title": "Cursor vs Offset Pagination: A Frontend Engineer's Perspective in 2026",
-        "link": "https://dev.to/ahr_dev/cursor-vs-offset-pagination-a-frontend-engineers-perspective-in-2026-3143",
+        "title": "From an Abandoned Angular Traceroute App to an Interactive Internet Route Lab",
+        "link": "https://dev.to/botoom/from-an-abandoned-angular-traceroute-app-to-an-interactive-internet-route-lab-1503",
         "source": "Dev.to React"
       },
       {
-        "title": "React State Management: When to Use useState, Context, or Zustand",
-        "link": "https://dev.to/gavincettolo/react-state-management-when-to-use-usestate-context-or-zustand-4j1f",
+        "title": "The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React",
+        "link": "https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f",
         "source": "Dev.to React"
       },
       {
