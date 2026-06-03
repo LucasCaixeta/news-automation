@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 2, 2026)
+### Today's Updates (June 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
+- [I Built an App That Puts You Anywhere in the World — Without Leaving Your Room](https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he)
+- ["My AI Assistant Needed a Control Plane, Not a Bigger Loop"](https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa)
+
+#### Dev.to React
+
+- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
+- [I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened](https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k)
+- [Design to Code #9: The Cost of a Dot](https://dev.to/7onic/design-to-code-9-the-cost-of-a-dot-3g6o)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 1, 2026)
+### 2 Days Ago (June 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I replaced GSAP DrawSVG with 4.4 KB (and it uses native CSS where it can)](https://dev.to/dhruvil_chauhan_eccb4a1eb/i-replaced-gsap-drawsvg-with-44-kb-and-it-uses-native-css-where-it-can-3mdg)
 - [Just build your react frontend into your Go Backend !](https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m)
 - [I Spent 2 Months Building a 150+ Tool Website with $0 Server Cost](https://dev.to/utlkit/i-spent-2-months-building-a-150-tool-website-with-0-server-cost-4lem)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (May 31, 2026)
-
-#### Dev.to JavaScript
-
-- [Error: Cannot Set Headers After They Are Sent to the Client](https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a)
-- [Detect Prototype Pollution in JavaScript: Code Review Checklist](https://dev.to/securitystefan/detect-prototype-pollution-in-javascript-code-review-checklist-32ae)
-- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
-
-#### Dev.to React
-
-- [# Agentic AI: Architecture of Autonomous Systems](https://dev.to/soohan_abbasi/-agentic-ai-architecture-of-autonomous-systems-1b7d)
-- [Building a Comprehensive Accessibility Testing Framework for Web Applications](https://dev.to/therizwansaleem/building-a-comprehensive-accessibility-testing-framework-for-web-applications-2kg5)
-- [Vue Teleport component React: How does VuReact convert it?](https://dev.to/smirk9581/vue-teleport-component-react-how-does-vureact-convert-it-c5o)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-03",
+    "formattedDate": "June 3, 2026",
+    "news": [
+      {
+        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
+        "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
+        "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
+        "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Design to Code #9: The Cost of a Dot",
+        "link": "https://dev.to/7onic/design-to-code-9-the-cost-of-a-dot-3g6o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-02",
     "formattedDate": "June 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Spent 2 Months Building a 150+ Tool Website with $0 Server Cost",
         "link": "https://dev.to/utlkit/i-spent-2-months-building-a-150-tool-website-with-0-server-cost-4lem",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-31",
-    "formattedDate": "May 31, 2026",
-    "news": [
-      {
-        "title": "Error: Cannot Set Headers After They Are Sent to the Client",
-        "link": "https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Detect Prototype Pollution in JavaScript: Code Review Checklist",
-        "link": "https://dev.to/securitystefan/detect-prototype-pollution-in-javascript-code-review-checklist-32ae",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I open-sourced a World Cup 2026 prediction model — and tested it honestly",
-        "link": "https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "# Agentic AI: Architecture of Autonomous Systems",
-        "link": "https://dev.to/soohan_abbasi/-agentic-ai-architecture-of-autonomous-systems-1b7d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Comprehensive Accessibility Testing Framework for Web Applications",
-        "link": "https://dev.to/therizwansaleem/building-a-comprehensive-accessibility-testing-framework-for-web-applications-2kg5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Vue Teleport component React: How does VuReact convert it?",
-        "link": "https://dev.to/smirk9581/vue-teleport-component-react-how-does-vureact-convert-it-c5o",
         "source": "Dev.to React"
       },
       {
