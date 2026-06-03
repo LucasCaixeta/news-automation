@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [I Built an App That Puts You Anywhere in the World — Without Leaving Your Room](https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he)
-- ["My AI Assistant Needed a Control Plane, Not a Bigger Loop"](https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa)
+- [How a Fake Job-Interview Repo Tried to Steal My Keys (and How I Caught It)](https://dev.to/pavelespitia/how-a-fake-job-interview-repo-tried-to-steal-my-keys-and-how-i-caught-it-1pkp)
+- [Advanced Senior Angular Developer — Interview Preparation Guide](https://dev.to/mahendranath_reddy_bandi/advanced-senior-angular-developer-interview-preparation-guide-37he)
 
 #### Dev.to React
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened](https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k)
-- [Design to Code #9: The Cost of a Dot](https://dev.to/7onic/design-to-code-9-the-cost-of-a-dot-3g6o)
+- [How to Optimize a Real-Time Chat Application: A Deep Dive into Our Production Codebase](https://dev.to/manas_31/how-to-optimize-a-real-time-chat-application-a-deep-dive-into-our-production-codebase-3i86)
+- [React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching](https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
-        "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
+        "title": "How a Fake Job-Interview Repo Tried to Steal My Keys (and How I Caught It)",
+        "link": "https://dev.to/pavelespitia/how-a-fake-job-interview-repo-tried-to-steal-my-keys-and-how-i-caught-it-1pkp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
-        "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
+        "title": "Advanced Senior Angular Developer — Interview Preparation Guide",
+        "link": "https://dev.to/mahendranath_reddy_bandi/advanced-senior-angular-developer-interview-preparation-guide-37he",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
-        "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
+        "title": "How to Optimize a Real-Time Chat Application: A Deep Dive into Our Production Codebase",
+        "link": "https://dev.to/manas_31/how-to-optimize-a-real-time-chat-application-a-deep-dive-into-our-production-codebase-3i86",
         "source": "Dev.to React"
       },
       {
-        "title": "Design to Code #9: The Cost of a Dot",
-        "link": "https://dev.to/7onic/design-to-code-9-the-cost-of-a-dot-3g6o",
+        "title": "React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching",
+        "link": "https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj",
         "source": "Dev.to React"
       },
       {
