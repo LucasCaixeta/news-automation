@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App](https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l)
-- [I built a CLI that tells you why your Next.js components became client components](https://dev.to/dhruvil_chauhan_eccb4a1eb/i-built-a-cli-that-tells-you-why-your-nextjs-components-became-client-components-11d1)
+- [Mastering the Latest TypeScript: What's New in 6.0 (and a Peek at 7)](https://dev.to/erikch/mastering-the-latest-typescript-whats-new-in-60-and-a-peek-at-7-4m8o)
+- [Building a real-time disposable email service (Haraka + Redis + WebSockets)](https://dev.to/mersiouiunessketch/building-a-real-time-disposable-email-service-haraka-redis-websockets-4m7a)
 
 #### Dev.to React
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [I built a CLI that tells you why your Next.js components became client components](https://dev.to/dhruvil_chauhan_eccb4a1eb/i-built-a-cli-that-tells-you-why-your-nextjs-components-became-client-components-11d1)
-- [Notes on Configuring TanStack Start for Cloudflare Workers](https://dev.to/natalia_c8ace1e6703e8f29f/notes-on-configuring-tanstack-start-for-cloudflare-workers-192n)
+- [How does VuReact compile Vue 3 scoped styles to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3-scoped-styles-to-react-407p)
+- [Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you](https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-3dj7)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App",
-        "link": "https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l",
+        "title": "Mastering the Latest TypeScript: What's New in 6.0 (and a Peek at 7)",
+        "link": "https://dev.to/erikch/mastering-the-latest-typescript-whats-new-in-60-and-a-peek-at-7-4m8o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a CLI that tells you why your Next.js components became client components",
-        "link": "https://dev.to/dhruvil_chauhan_eccb4a1eb/i-built-a-cli-that-tells-you-why-your-nextjs-components-became-client-components-11d1",
+        "title": "Building a real-time disposable email service (Haraka + Redis + WebSockets)",
+        "link": "https://dev.to/mersiouiunessketch/building-a-real-time-disposable-email-service-haraka-redis-websockets-4m7a",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I built a CLI that tells you why your Next.js components became client components",
-        "link": "https://dev.to/dhruvil_chauhan_eccb4a1eb/i-built-a-cli-that-tells-you-why-your-nextjs-components-became-client-components-11d1",
+        "title": "How does VuReact compile Vue 3 scoped styles to React?",
+        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3-scoped-styles-to-react-407p",
         "source": "Dev.to React"
       },
       {
-        "title": "Notes on Configuring TanStack Start for Cloudflare Workers",
-        "link": "https://dev.to/natalia_c8ace1e6703e8f29f/notes-on-configuring-tanstack-start-for-cloudflare-workers-192n",
+        "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
+        "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-3dj7",
         "source": "Dev.to React"
       },
       {
