@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [I Wired Qwen and OpenRouter Into Claude Code and Codex Without New Configs](https://dev.to/codekingai/i-wired-qwen-and-openrouter-into-claude-code-and-codex-without-new-configs-4p4m)
-- [I built a free AI website builder — describe it, refine by chat, download the code](https://dev.to/induwara_ashinsana_9e4d5b/i-built-a-free-ai-website-builder-describe-it-refine-by-chat-download-the-code-5eo2)
+- [Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
+- [Passive Event Listeners in JavaScript: A Simple Fix for Smooth Mobile Scrolling](https://dev.to/joodi/passive-event-listeners-in-javascript-a-simple-fix-for-smooth-mobile-scrolling-55lp)
 
 #### Dev.to React
 
-- [What's hiding behind that link? There's only one way to find out.](https://dev.to/myogeshchavan97/whats-hiding-behind-that-link-theres-only-one-way-to-find-out-d2h)
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [Why TanStack Query is overrated (and what to use instead)](https://dev.to/coderhu/why-tanstack-query-is-overrated-and-what-to-use-instead-423e)
+- [Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
+- [Why I stopped reading "Old vs New" posts](https://dev.to/sana_hameed_22/why-i-stopped-reading-old-vs-new-posts-j06)
 
 #### React Blog
 
@@ -94,19 +94,14 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Wired Qwen and OpenRouter Into Claude Code and Codex Without New Configs",
-        "link": "https://dev.to/codekingai/i-wired-qwen-and-openrouter-into-claude-code-and-codex-without-new-configs-4p4m",
+        "title": "Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)",
+        "link": "https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a free AI website builder — describe it, refine by chat, download the code",
-        "link": "https://dev.to/induwara_ashinsana_9e4d5b/i-built-a-free-ai-website-builder-describe-it-refine-by-chat-download-the-code-5eo2",
+        "title": "Passive Event Listeners in JavaScript: A Simple Fix for Smooth Mobile Scrolling",
+        "link": "https://dev.to/joodi/passive-event-listeners-in-javascript-a-simple-fix-for-smooth-mobile-scrolling-55lp",
         "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What's hiding behind that link? There's only one way to find out.",
-        "link": "https://dev.to/myogeshchavan97/whats-hiding-behind-that-link-theres-only-one-way-to-find-out-d2h",
-        "source": "Dev.to React"
       },
       {
         "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
@@ -114,8 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Why TanStack Query is overrated (and what to use instead)",
-        "link": "https://dev.to/coderhu/why-tanstack-query-is-overrated-and-what-to-use-instead-423e",
+        "title": "Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)",
+        "link": "https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I stopped reading \"Old vs New\" posts",
+        "link": "https://dev.to/sana_hameed_22/why-i-stopped-reading-old-vs-new-posts-j06",
         "source": "Dev.to React"
       },
       {
