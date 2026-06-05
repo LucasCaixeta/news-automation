@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 4, 2026)
+### Today's Updates (June 5, 2026)
+
+#### Dev.to JavaScript
+
+- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
+- [I Wired Qwen and OpenRouter Into Claude Code and Codex Without New Configs](https://dev.to/codekingai/i-wired-qwen-and-openrouter-into-claude-code-and-codex-without-new-configs-4p4m)
+- [I built a free AI website builder — describe it, refine by chat, download the code](https://dev.to/induwara_ashinsana_9e4d5b/i-built-a-free-ai-website-builder-describe-it-refine-by-chat-download-the-code-5eo2)
+
+#### Dev.to React
+
+- [What's hiding behind that link? There's only one way to find out.](https://dev.to/myogeshchavan97/whats-hiding-behind-that-link-theres-only-one-way-to-find-out-d2h)
+- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
+- [Why TanStack Query is overrated (and what to use instead)](https://dev.to/coderhu/why-tanstack-query-is-overrated-and-what-to-use-instead-423e)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 3, 2026)
+### 2 Days Ago (June 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
 - [How to Optimize a Real-Time Chat Application: A Deep Dive into Our Production Codebase](https://dev.to/manas_31/how-to-optimize-a-real-time-chat-application-a-deep-dive-into-our-production-codebase-3i86)
 - [React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching](https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 2, 2026)
-
-#### Dev.to JavaScript
-
-- [Moving my SAAS away from React (and Inertia) to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
-- [CSS ellipsis is great. Until the string itself matters.](https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl)
-- [With excessive use of AI, knowledge can be depleted](https://dev.to/camilasrody/with-excessive-use-of-ai-knowledge-can-be-depleted-550n)
-
-#### Dev.to React
-
-- [Moving my SAAS away from React (and Inertia) to Elixir](https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el)
-- [From an Abandoned Angular Traceroute App to an Interactive Internet Route Lab](https://dev.to/botoom/from-an-abandoned-angular-traceroute-app-to-an-interactive-internet-route-lab-1503)
-- [The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React](https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-05",
+    "formattedDate": "June 5, 2026",
+    "news": [
+      {
+        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Wired Qwen and OpenRouter Into Claude Code and Codex Without New Configs",
+        "link": "https://dev.to/codekingai/i-wired-qwen-and-openrouter-into-claude-code-and-codex-without-new-configs-4p4m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a free AI website builder — describe it, refine by chat, download the code",
+        "link": "https://dev.to/induwara_ashinsana_9e4d5b/i-built-a-free-ai-website-builder-describe-it-refine-by-chat-download-the-code-5eo2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What's hiding behind that link? There's only one way to find out.",
+        "link": "https://dev.to/myogeshchavan97/whats-hiding-behind-that-link-theres-only-one-way-to-find-out-d2h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why TanStack Query is overrated (and what to use instead)",
+        "link": "https://dev.to/coderhu/why-tanstack-query-is-overrated-and-what-to-use-instead-423e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-04",
     "formattedDate": "June 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching",
         "link": "https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "formattedDate": "June 2, 2026",
-    "news": [
-      {
-        "title": "Moving my SAAS away from React (and Inertia) to Elixir",
-        "link": "https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "CSS ellipsis is great. Until the string itself matters.",
-        "link": "https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "With excessive use of AI, knowledge can be depleted",
-        "link": "https://dev.to/camilasrody/with-excessive-use-of-ai-knowledge-can-be-depleted-550n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Moving my SAAS away from React (and Inertia) to Elixir",
-        "link": "https://dev.to/danielbergholz/moving-my-saas-away-from-react-and-inertia-to-elixir-50el",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From an Abandoned Angular Traceroute App to an Interactive Internet Route Lab",
-        "link": "https://dev.to/botoom/from-an-abandoned-angular-traceroute-app-to-an-interactive-internet-route-lab-1503",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The 1959 Algorithm That Still Powers Every GPS on Earth — Visualized in React",
-        "link": "https://dev.to/amargul/the-1959-algorithm-that-still-powers-every-gps-on-earth-visualized-in-react-3d3f",
         "source": "Dev.to React"
       },
       {
