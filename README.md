@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 5, 2026)
+### Today's Updates (June 6, 2026)
+
+#### Dev.to JavaScript
+
+- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
+- [Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React](https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05)
+- ["The Frontend Knowledge Gap That AI Won't Close For You": true](https://dev.to/sarim_nadeem_888180307df8/frontend-engineering-the-stuff-nobody-tells-beginners-5hba)
+
+#### Dev.to React
+
+- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
+- [Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React](https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05)
+- [Infinite Scroll in React using IntersectionObserver](https://dev.to/dharmesh_ab1dc022d7b2472c/infinite-scroll-in-react-using-intersectionobserver-30p0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 4, 2026)
+### 2 Days Ago (June 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
 - [How does VuReact compile Vue 3 scoped styles to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3-scoped-styles-to-react-407p)
 - [Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you](https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-3dj7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 3, 2026)
-
-#### Dev.to JavaScript
-
-- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [How a Fake Job-Interview Repo Tried to Steal My Keys (and How I Caught It)](https://dev.to/pavelespitia/how-a-fake-job-interview-repo-tried-to-steal-my-keys-and-how-i-caught-it-1pkp)
-- [Advanced Senior Angular Developer — Interview Preparation Guide](https://dev.to/mahendranath_reddy_bandi/advanced-senior-angular-developer-interview-preparation-guide-37he)
-
-#### Dev.to React
-
-- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [How to Optimize a Real-Time Chat Application: A Deep Dive into Our Production Codebase](https://dev.to/manas_31/how-to-optimize-a-real-time-chat-application-a-deep-dive-into-our-production-codebase-3i86)
-- [React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching](https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-06",
+    "formattedDate": "June 6, 2026",
+    "news": [
+      {
+        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React",
+        "link": "https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"The Frontend Knowledge Gap That AI Won't Close For You\": true",
+        "link": "https://dev.to/sarim_nadeem_888180307df8/frontend-engineering-the-stuff-nobody-tells-beginners-5hba",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React",
+        "link": "https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Infinite Scroll in React using IntersectionObserver",
+        "link": "https://dev.to/dharmesh_ab1dc022d7b2472c/infinite-scroll-in-react-using-intersectionobserver-30p0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-05",
     "formattedDate": "June 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
         "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-3dj7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "formattedDate": "June 3, 2026",
-    "news": [
-      {
-        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How a Fake Job-Interview Repo Tried to Steal My Keys (and How I Caught It)",
-        "link": "https://dev.to/pavelespitia/how-a-fake-job-interview-repo-tried-to-steal-my-keys-and-how-i-caught-it-1pkp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Advanced Senior Angular Developer — Interview Preparation Guide",
-        "link": "https://dev.to/mahendranath_reddy_bandi/advanced-senior-angular-developer-interview-preparation-guide-37he",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Optimize a Real-Time Chat Application: A Deep Dive into Our Production Codebase",
-        "link": "https://dev.to/manas_31/how-to-optimize-a-real-time-chat-application-a-deep-dive-into-our-production-codebase-3i86",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React + Mapbox GL JS: Custom Markers, Popups, and Bounds-Based Data Fetching",
-        "link": "https://dev.to/chriswhong/react-mapbox-gl-js-custom-markers-popups-and-bounds-based-data-fetching-4adj",
         "source": "Dev.to React"
       },
       {
