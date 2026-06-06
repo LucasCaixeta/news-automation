@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React](https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05)
-- ["The Frontend Knowledge Gap That AI Won't Close For You": true](https://dev.to/sarim_nadeem_888180307df8/frontend-engineering-the-stuff-nobody-tells-beginners-5hba)
+- [JavaScript Event Loop Explained — A Visual, Step-by-Step Guide](https://dev.to/supratikdas01/javascript-event-loop-explained-a-visual-step-by-step-guide-27ie)
+- [Lightweight client side error tracking without a 90kb SDK](https://dev.to/zenovay/lightweight-client-side-error-tracking-without-a-90kb-sdk-40o3)
 
 #### Dev.to React
 
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React](https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05)
-- [Infinite Scroll in React using IntersectionObserver](https://dev.to/dharmesh_ab1dc022d7b2472c/infinite-scroll-in-react-using-intersectionobserver-30p0)
+- [Why mobx-react-form Is the Best Form Library You're Not Using](https://dev.to/foxhound87/why-mobx-react-form-is-the-best-form-library-youre-not-using-16kd)
+- [We launched an interactive playground for EliteGrid — try it in your browser](https://dev.to/elitegrid/we-launched-an-interactive-playground-for-elitegrid-try-it-in-your-browser-1eh9)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React",
-        "link": "https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05",
+        "title": "JavaScript Event Loop Explained — A Visual, Step-by-Step Guide",
+        "link": "https://dev.to/supratikdas01/javascript-event-loop-explained-a-visual-step-by-step-guide-27ie",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"The Frontend Knowledge Gap That AI Won't Close For You\": true",
-        "link": "https://dev.to/sarim_nadeem_888180307df8/frontend-engineering-the-stuff-nobody-tells-beginners-5hba",
+        "title": "Lightweight client side error tracking without a 90kb SDK",
+        "link": "https://dev.to/zenovay/lightweight-client-side-error-tracking-without-a-90kb-sdk-40o3",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Why I Built Cartlify — A Production-Ready E-commerce UI Kit for React",
-        "link": "https://dev.to/karthik_gs_d8f016796a117c/why-i-built-cartlify-a-production-ready-e-commerce-ui-kit-for-react-3b05",
+        "title": "Why mobx-react-form Is the Best Form Library You're Not Using",
+        "link": "https://dev.to/foxhound87/why-mobx-react-form-is-the-best-form-library-youre-not-using-16kd",
         "source": "Dev.to React"
       },
       {
-        "title": "Infinite Scroll in React using IntersectionObserver",
-        "link": "https://dev.to/dharmesh_ab1dc022d7b2472c/infinite-scroll-in-react-using-intersectionobserver-30p0",
+        "title": "We launched an interactive playground for EliteGrid — try it in your browser",
+        "link": "https://dev.to/elitegrid/we-launched-an-interactive-playground-for-elitegrid-try-it-in-your-browser-1eh9",
         "source": "Dev.to React"
       },
       {
