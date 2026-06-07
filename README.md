@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built a free tool to hide files inside images — AES-256, fully client-side](https://dev.to/rishu50/i-built-a-free-tool-to-hide-files-inside-images-aes-256-fully-client-side-1ioh)
-- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
-- [What is the most efficient way to evaluate poker hands at scale?](https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn)
+- [JavaScript Proxy: One more way to use it I wish I’d known 3 years ago](https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk)
+- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
+- [I Built 67+ Free Browser Developer Tools — No API, No Signup, No Ads](https://dev.to/mayank_mehra_c244c9d92cc2/i-built-65-free-browser-developer-tools-no-api-no-signup-no-ads-3njp)
 
 #### Dev.to React
 
+- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
+- [Great Components Are Designed Like APIs](https://dev.to/dev_ahmed1/great-components-are-designed-like-apis-24ho)
 - [How do you design a poker game engine that supports multiple poker variants without code duplication?](https://dev.to/stojankojo/how-do-you-design-a-poker-game-engine-that-supports-multiple-poker-variants-without-code-5b99)
-- [Introducing @avenra/liquid-glass — iOS-Style Liquid Glass for the Web](https://dev.to/devsam7t3/introducing-avenraliquid-glass-ios-style-liquid-glass-for-the-web-4bnj)
-- [My Open Source Journey with VoiceyBill](https://dev.to/hamza_amir/my-open-source-journey-with-voiceybill-53em)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 7, 2026",
     "news": [
       {
-        "title": "I built a free tool to hide files inside images — AES-256, fully client-side",
-        "link": "https://dev.to/rishu50/i-built-a-free-tool-to-hide-files-inside-images-aes-256-fully-client-side-1ioh",
+        "title": "JavaScript Proxy: One more way to use it I wish I’d known 3 years ago",
+        "link": "https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "9 silent-row-loss fixes in 7 days across 7 OSS databases",
-        "link": "https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da",
+        "title": "Code smell or not - useEffect with extra dependecies?",
+        "link": "https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What is the most efficient way to evaluate poker hands at scale?",
-        "link": "https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn",
+        "title": "I Built 67+ Free Browser Developer Tools — No API, No Signup, No Ads",
+        "link": "https://dev.to/mayank_mehra_c244c9d92cc2/i-built-65-free-browser-developer-tools-no-api-no-signup-no-ads-3njp",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Code smell or not - useEffect with extra dependecies?",
+        "link": "https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Great Components Are Designed Like APIs",
+        "link": "https://dev.to/dev_ahmed1/great-components-are-designed-like-apis-24ho",
+        "source": "Dev.to React"
       },
       {
         "title": "How do you design a poker game engine that supports multiple poker variants without code duplication?",
         "link": "https://dev.to/stojankojo/how-do-you-design-a-poker-game-engine-that-supports-multiple-poker-variants-without-code-5b99",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Introducing @avenra/liquid-glass — iOS-Style Liquid Glass for the Web",
-        "link": "https://dev.to/devsam7t3/introducing-avenraliquid-glass-ios-style-liquid-glass-for-the-web-4bnj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My Open Source Journey with VoiceyBill",
-        "link": "https://dev.to/hamza_amir/my-open-source-journey-with-voiceybill-53em",
         "source": "Dev.to React"
       },
       {
