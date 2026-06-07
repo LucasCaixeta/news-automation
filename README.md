@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 6, 2026)
+### Today's Updates (June 7, 2026)
+
+#### Dev.to JavaScript
+
+- [I built a free tool to hide files inside images — AES-256, fully client-side](https://dev.to/rishu50/i-built-a-free-tool-to-hide-files-inside-images-aes-256-fully-client-side-1ioh)
+- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
+- [What is the most efficient way to evaluate poker hands at scale?](https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn)
+
+#### Dev.to React
+
+- [How do you design a poker game engine that supports multiple poker variants without code duplication?](https://dev.to/stojankojo/how-do-you-design-a-poker-game-engine-that-supports-multiple-poker-variants-without-code-5b99)
+- [Introducing @avenra/liquid-glass — iOS-Style Liquid Glass for the Web](https://dev.to/devsam7t3/introducing-avenraliquid-glass-ios-style-liquid-glass-for-the-web-4bnj)
+- [My Open Source Journey with VoiceyBill](https://dev.to/hamza_amir/my-open-source-journey-with-voiceybill-53em)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 5, 2026)
+### 2 Days Ago (June 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
 - [Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
 - [Why I stopped reading "Old vs New" posts](https://dev.to/sana_hameed_22/why-i-stopped-reading-old-vs-new-posts-j06)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 4, 2026)
-
-#### Dev.to JavaScript
-
-- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [Mastering the Latest TypeScript: What's New in 6.0 (and a Peek at 7)](https://dev.to/erikch/mastering-the-latest-typescript-whats-new-in-60-and-a-peek-at-7-4m8o)
-- [Building a real-time disposable email service (Haraka + Redis + WebSockets)](https://dev.to/mersiouiunessketch/building-a-real-time-disposable-email-service-haraka-redis-websockets-4m7a)
-
-#### Dev.to React
-
-- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [How does VuReact compile Vue 3 scoped styles to React?](https://dev.to/smirk9581/how-does-vureact-compile-vue-3-scoped-styles-to-react-407p)
-- [Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you](https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-3dj7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-07",
+    "formattedDate": "June 7, 2026",
+    "news": [
+      {
+        "title": "I built a free tool to hide files inside images — AES-256, fully client-side",
+        "link": "https://dev.to/rishu50/i-built-a-free-tool-to-hide-files-inside-images-aes-256-fully-client-side-1ioh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "9 silent-row-loss fixes in 7 days across 7 OSS databases",
+        "link": "https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What is the most efficient way to evaluate poker hands at scale?",
+        "link": "https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How do you design a poker game engine that supports multiple poker variants without code duplication?",
+        "link": "https://dev.to/stojankojo/how-do-you-design-a-poker-game-engine-that-supports-multiple-poker-variants-without-code-5b99",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Introducing @avenra/liquid-glass — iOS-Style Liquid Glass for the Web",
+        "link": "https://dev.to/devsam7t3/introducing-avenraliquid-glass-ios-style-liquid-glass-for-the-web-4bnj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My Open Source Journey with VoiceyBill",
+        "link": "https://dev.to/hamza_amir/my-open-source-journey-with-voiceybill-53em",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-06",
     "formattedDate": "June 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why I stopped reading \"Old vs New\" posts",
         "link": "https://dev.to/sana_hameed_22/why-i-stopped-reading-old-vs-new-posts-j06",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "formattedDate": "June 4, 2026",
-    "news": [
-      {
-        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mastering the Latest TypeScript: What's New in 6.0 (and a Peek at 7)",
-        "link": "https://dev.to/erikch/mastering-the-latest-typescript-whats-new-in-60-and-a-peek-at-7-4m8o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a real-time disposable email service (Haraka + Redis + WebSockets)",
-        "link": "https://dev.to/mersiouiunessketch/building-a-real-time-disposable-email-service-haraka-redis-websockets-4m7a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How does VuReact compile Vue 3 scoped styles to React?",
-        "link": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3-scoped-styles-to-react-407p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
-        "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-3dj7",
         "source": "Dev.to React"
       },
       {
