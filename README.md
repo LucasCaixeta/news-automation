@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 7, 2026)
+### Today's Updates (June 8, 2026)
+
+#### Dev.to JavaScript
+
+- [The 0$ AI Achitecture Stack (2026)](https://dev.to/marrouchi/the-0-ai-achitecture-stack-2026-3m4n)
+- [JavaScript Proxy: One more way to use it I wish I’d known 3 years ago](https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk)
+- [Custom Metrics, Stress Testing, and Web Vitals, Going Beyond Basic Load Testing with k6](https://dev.to/matthew_wimpelberg_79193b/custom-metrics-stress-testing-and-web-vitals-going-beyond-basic-load-testing-with-k6-4moc)
+
+#### Dev.to React
+
+- [I rewrote 3 useEffects to use() in React 19. Here's the one I shouldn't have.](https://dev.to/sensational5510/i-rewrote-3-useeffects-to-use-in-react-19-heres-the-one-i-shouldnt-have-9db)
+- [React vs. Angular: Which One Should You Use for Your Next Web Project?](https://dev.to/jas_duenas/react-vs-angular-which-one-should-you-use-for-your-next-web-project-5506)
+- [React useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 6, 2026)
+### 2 Days Ago (June 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
 - [Why mobx-react-form Is the Best Form Library You're Not Using](https://dev.to/foxhound87/why-mobx-react-form-is-the-best-form-library-youre-not-using-16kd)
 - [We launched an interactive playground for EliteGrid — try it in your browser](https://dev.to/elitegrid/we-launched-an-interactive-playground-for-elitegrid-try-it-in-your-browser-1eh9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 5, 2026)
-
-#### Dev.to JavaScript
-
-- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
-- [Passive Event Listeners in JavaScript: A Simple Fix for Smooth Mobile Scrolling](https://dev.to/joodi/passive-event-listeners-in-javascript-a-simple-fix-for-smooth-mobile-scrolling-55lp)
-
-#### Dev.to React
-
-- [Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)
-- [Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)](https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d)
-- [Why I stopped reading "Old vs New" posts](https://dev.to/sana_hameed_22/why-i-stopped-reading-old-vs-new-posts-j06)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-08",
+    "formattedDate": "June 8, 2026",
+    "news": [
+      {
+        "title": "The 0$ AI Achitecture Stack (2026)",
+        "link": "https://dev.to/marrouchi/the-0-ai-achitecture-stack-2026-3m4n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Proxy: One more way to use it I wish I’d known 3 years ago",
+        "link": "https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Custom Metrics, Stress Testing, and Web Vitals, Going Beyond Basic Load Testing with k6",
+        "link": "https://dev.to/matthew_wimpelberg_79193b/custom-metrics-stress-testing-and-web-vitals-going-beyond-basic-load-testing-with-k6-4moc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I rewrote 3 useEffects to use() in React 19. Here's the one I shouldn't have.",
+        "link": "https://dev.to/sensational5510/i-rewrote-3-useeffects-to-use-in-react-19-heres-the-one-i-shouldnt-have-9db",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React vs. Angular: Which One Should You Use for Your Next Web Project?",
+        "link": "https://dev.to/jas_duenas/react-vs-angular-which-one-should-you-use-for-your-next-web-project-5506",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useEffect with extra dependecies?",
+        "link": "https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-07",
     "formattedDate": "June 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "We launched an interactive playground for EliteGrid — try it in your browser",
         "link": "https://dev.to/elitegrid/we-launched-an-interactive-playground-for-elitegrid-try-it-in-your-browser-1eh9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "formattedDate": "June 5, 2026",
-    "news": [
-      {
-        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)",
-        "link": "https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Passive Event Listeners in JavaScript: A Simple Fix for Smooth Mobile Scrolling",
-        "link": "https://dev.to/joodi/passive-event-listeners-in-javascript-a-simple-fix-for-smooth-mobile-scrolling-55lp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Dynamic Yup Validation Schemas from JSON in React + Formik (Part 2)",
-        "link": "https://dev.to/shivani_ravikumar/building-dynamic-yup-validation-schemas-from-json-in-react-formik-part-2-171d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I stopped reading \"Old vs New\" posts",
-        "link": "https://dev.to/sana_hameed_22/why-i-stopped-reading-old-vs-new-posts-j06",
         "source": "Dev.to React"
       },
       {
