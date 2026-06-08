@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The 0$ AI Achitecture Stack (2026)](https://dev.to/marrouchi/the-0-ai-achitecture-stack-2026-3m4n)
-- [JavaScript Proxy: One more way to use it I wish I’d known 3 years ago](https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk)
-- [Custom Metrics, Stress Testing, and Web Vitals, Going Beyond Basic Load Testing with k6](https://dev.to/matthew_wimpelberg_79193b/custom-metrics-stress-testing-and-web-vitals-going-beyond-basic-load-testing-with-k6-4moc)
+- [Replacing five Figma files with one HTML renderer for our content brand](https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej)
+- [I replaced a language model with geometry: building a deterministic UI compiler that runs in your browser in 300ms](https://dev.to/mevirajsheoran/i-replaced-a-language-model-with-geometry-building-a-deterministic-ui-compiler-that-runs-in-your-44go)
+- [10 JSON Errors Every Developer Hits (And Exactly How to Fix Them)](https://dev.to/99tools/10-json-errors-every-developer-hits-and-exactly-how-to-fix-them-39eg)
 
 #### Dev.to React
 
-- [I rewrote 3 useEffects to use() in React 19. Here's the one I shouldn't have.](https://dev.to/sensational5510/i-rewrote-3-useeffects-to-use-in-react-19-heres-the-one-i-shouldnt-have-9db)
-- [React vs. Angular: Which One Should You Use for Your Next Web Project?](https://dev.to/jas_duenas/react-vs-angular-which-one-should-you-use-for-your-next-web-project-5506)
-- [React useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
+- [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
+- [I Missed Engine Debug Views in Three.js, So I Built a WebGPU Helper](https://dev.to/tonyblu331/i-missed-engine-debug-views-in-threejs-so-i-built-a-webgpu-helper-3o32)
+- [How do you handle "Hackathon Burnout" after shipping two projects back-to-back?](https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 8, 2026",
     "news": [
       {
-        "title": "The 0$ AI Achitecture Stack (2026)",
-        "link": "https://dev.to/marrouchi/the-0-ai-achitecture-stack-2026-3m4n",
+        "title": "Replacing five Figma files with one HTML renderer for our content brand",
+        "link": "https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "JavaScript Proxy: One more way to use it I wish I’d known 3 years ago",
-        "link": "https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk",
+        "title": "I replaced a language model with geometry: building a deterministic UI compiler that runs in your browser in 300ms",
+        "link": "https://dev.to/mevirajsheoran/i-replaced-a-language-model-with-geometry-building-a-deterministic-ui-compiler-that-runs-in-your-44go",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Custom Metrics, Stress Testing, and Web Vitals, Going Beyond Basic Load Testing with k6",
-        "link": "https://dev.to/matthew_wimpelberg_79193b/custom-metrics-stress-testing-and-web-vitals-going-beyond-basic-load-testing-with-k6-4moc",
+        "title": "10 JSON Errors Every Developer Hits (And Exactly How to Fix Them)",
+        "link": "https://dev.to/99tools/10-json-errors-every-developer-hits-and-exactly-how-to-fix-them-39eg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I rewrote 3 useEffects to use() in React 19. Here's the one I shouldn't have.",
-        "link": "https://dev.to/sensational5510/i-rewrote-3-useeffects-to-use-in-react-19-heres-the-one-i-shouldnt-have-9db",
+        "title": "TanStack Start Is Kind of a Big Deal",
+        "link": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
         "source": "Dev.to React"
       },
       {
-        "title": "React vs. Angular: Which One Should You Use for Your Next Web Project?",
-        "link": "https://dev.to/jas_duenas/react-vs-angular-which-one-should-you-use-for-your-next-web-project-5506",
+        "title": "I Missed Engine Debug Views in Three.js, So I Built a WebGPU Helper",
+        "link": "https://dev.to/tonyblu331/i-missed-engine-debug-views-in-threejs-so-i-built-a-webgpu-helper-3o32",
         "source": "Dev.to React"
       },
       {
-        "title": "React useEffect with extra dependecies?",
-        "link": "https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05",
+        "title": "How do you handle \"Hackathon Burnout\" after shipping two projects back-to-back?",
+        "link": "https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne",
         "source": "Dev.to React"
       },
       {
