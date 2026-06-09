@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [📺 The BroadcastChannel API — The Browser Feature You've Been Ignoring](https://dev.to/ihssmaheel/the-broadcastchannel-api-the-browser-feature-youve-been-ignoring-5alg)
-- [How to Integrate Cloudinary Media Uploads into a Firebase Web App](https://dev.to/gabriel_sakala_01b355a99e/how-to-integrate-cloudinary-media-uploads-into-a-firebase-web-app-3oao)
-- [Why Object-Oriented Programming Was Introduced - Objects and Classes](https://dev.to/ashay_tiwari_3658168ad5db/understanding-the-why-behind-software-design-oop-beyond-definitions-objects-and-classes-42b8)
+- [why element.click() does nothing on gmail's delete button](https://dev.to/tiltedlunar123/why-elementclick-does-nothing-on-gmails-delete-button-3464)
+- [The Messages Array, in 4 GIFs](https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j)
+- [12 Tricky TypeScript Questions That Separate Good Developers From Great Ones](https://dev.to/vitalyobolensky/12-tricky-typescript-questions-that-separate-good-developers-from-great-ones-318e)
 
 #### Dev.to React
 
 - [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
-- [How I Built MediSense — An AI-Powered Medical Report Summarizer](https://dev.to/gulfam_awan/how-i-built-medisense-an-ai-powered-medical-report-summarizer-1jng)
-- [You’re a Real Frontend Engineer Only If...](https://dev.to/sharma572/youre-a-real-frontend-engineer-only-if-1hb3)
+- [Picking Svelte in 2026: the honest tradeoff nobody tells you](https://dev.to/dimonb19a/picking-svelte-in-2026-the-honest-tradeoff-nobody-tells-you-3adc)
+- [ConfigMaps for Environment Variables in a React App: Stop Rebuilding, Start Injecting](https://dev.to/sohanaakbar7/configmaps-for-environment-variables-in-a-react-app-stop-rebuilding-start-injecting-1ibg)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 9, 2026",
     "news": [
       {
-        "title": "📺 The BroadcastChannel API — The Browser Feature You've Been Ignoring",
-        "link": "https://dev.to/ihssmaheel/the-broadcastchannel-api-the-browser-feature-youve-been-ignoring-5alg",
+        "title": "why element.click() does nothing on gmail's delete button",
+        "link": "https://dev.to/tiltedlunar123/why-elementclick-does-nothing-on-gmails-delete-button-3464",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Integrate Cloudinary Media Uploads into a Firebase Web App",
-        "link": "https://dev.to/gabriel_sakala_01b355a99e/how-to-integrate-cloudinary-media-uploads-into-a-firebase-web-app-3oao",
+        "title": "The Messages Array, in 4 GIFs",
+        "link": "https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Object-Oriented Programming Was Introduced - Objects and Classes",
-        "link": "https://dev.to/ashay_tiwari_3658168ad5db/understanding-the-why-behind-software-design-oop-beyond-definitions-objects-and-classes-42b8",
+        "title": "12 Tricky TypeScript Questions That Separate Good Developers From Great Ones",
+        "link": "https://dev.to/vitalyobolensky/12-tricky-typescript-questions-that-separate-good-developers-from-great-ones-318e",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built MediSense — An AI-Powered Medical Report Summarizer",
-        "link": "https://dev.to/gulfam_awan/how-i-built-medisense-an-ai-powered-medical-report-summarizer-1jng",
+        "title": "Picking Svelte in 2026: the honest tradeoff nobody tells you",
+        "link": "https://dev.to/dimonb19a/picking-svelte-in-2026-the-honest-tradeoff-nobody-tells-you-3adc",
         "source": "Dev.to React"
       },
       {
-        "title": "You’re a Real Frontend Engineer Only If...",
-        "link": "https://dev.to/sharma572/youre-a-real-frontend-engineer-only-if-1hb3",
+        "title": "ConfigMaps for Environment Variables in a React App: Stop Rebuilding, Start Injecting",
+        "link": "https://dev.to/sohanaakbar7/configmaps-for-environment-variables-in-a-react-app-stop-rebuilding-start-injecting-1ibg",
         "source": "Dev.to React"
       },
       {
