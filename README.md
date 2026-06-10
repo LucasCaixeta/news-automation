@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Messages Array, in 4 GIFs](https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j)
-- [I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.](https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc)
-- [Push Notifications in React Native: The Complete 2026 Guide](https://dev.to/russel_dsouza_bd584a3cb2a/push-notifications-in-react-native-the-complete-2026-guide-2d4g)
+- [How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways](https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b)
+- [JavaScript Asynchronous APIs: The Misconception That Confused Me](https://dev.to/tejas_khanolkar_473f3ed1a/javascript-asynchronous-apis-the-misconception-that-confused-me-16p)
+- [Building a Static Site with Astro and Cosmic CMS](https://dev.to/tonyspiro/building-a-static-site-with-astro-and-cosmic-cms-d95)
 
 #### Dev.to React
 
-- [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
-- [Add drawing tools, indicators and replay to Lightweight Charts without stitching six repos together](https://dev.to/rohanbeingsocial/add-drawing-tools-indicators-and-replay-to-lightweight-charts-without-stitching-six-repos-together-51ad)
-- [Stop UI Freezes: Master React useDeferredValue ⚡](https://dev.to/iprajapatiparesh/stop-ui-freezes-master-react-usedeferredvalue-3jih)
+- [How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways](https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b)
+- [I Shipped a Realtime Collab App in 3 Lines of React — No WebSocket Plumbing](https://dev.to/dev48v/i-shipped-a-realtime-collab-app-in-3-lines-of-react-no-websocket-plumbing-125g)
+- [Your Coding DNA: The Three Files That Shape Every Line Claude Writes](https://dev.to/panditabhis/your-coding-dna-the-three-files-that-shape-every-line-claude-writes-378g)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 10, 2026",
     "news": [
       {
-        "title": "The Messages Array, in 4 GIFs",
-        "link": "https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j",
+        "title": "How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways",
+        "link": "https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-        "link": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+        "title": "JavaScript Asynchronous APIs: The Misconception That Confused Me",
+        "link": "https://dev.to/tejas_khanolkar_473f3ed1a/javascript-asynchronous-apis-the-misconception-that-confused-me-16p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Push Notifications in React Native: The Complete 2026 Guide",
-        "link": "https://dev.to/russel_dsouza_bd584a3cb2a/push-notifications-in-react-native-the-complete-2026-guide-2d4g",
+        "title": "Building a Static Site with Astro and Cosmic CMS",
+        "link": "https://dev.to/tonyspiro/building-a-static-site-with-astro-and-cosmic-cms-d95",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TanStack Start Is Kind of a Big Deal",
-        "link": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
+        "title": "How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways",
+        "link": "https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b",
         "source": "Dev.to React"
       },
       {
-        "title": "Add drawing tools, indicators and replay to Lightweight Charts without stitching six repos together",
-        "link": "https://dev.to/rohanbeingsocial/add-drawing-tools-indicators-and-replay-to-lightweight-charts-without-stitching-six-repos-together-51ad",
+        "title": "I Shipped a Realtime Collab App in 3 Lines of React — No WebSocket Plumbing",
+        "link": "https://dev.to/dev48v/i-shipped-a-realtime-collab-app-in-3-lines-of-react-no-websocket-plumbing-125g",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop UI Freezes: Master React useDeferredValue ⚡",
-        "link": "https://dev.to/iprajapatiparesh/stop-ui-freezes-master-react-usedeferredvalue-3jih",
+        "title": "Your Coding DNA: The Three Files That Shape Every Line Claude Writes",
+        "link": "https://dev.to/panditabhis/your-coding-dna-the-three-files-that-shape-every-line-claude-writes-378g",
         "source": "Dev.to React"
       },
       {
