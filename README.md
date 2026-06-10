@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 9, 2026)
+### Today's Updates (June 10, 2026)
+
+#### Dev.to JavaScript
+
+- [The Messages Array, in 4 GIFs](https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j)
+- [I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.](https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc)
+- [Push Notifications in React Native: The Complete 2026 Guide](https://dev.to/russel_dsouza_bd584a3cb2a/push-notifications-in-react-native-the-complete-2026-guide-2d4g)
+
+#### Dev.to React
+
+- [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
+- [Add drawing tools, indicators and replay to Lightweight Charts without stitching six repos together](https://dev.to/rohanbeingsocial/add-drawing-tools-indicators-and-replay-to-lightweight-charts-without-stitching-six-repos-together-51ad)
+- [Stop UI Freezes: Master React useDeferredValue ⚡](https://dev.to/iprajapatiparesh/stop-ui-freezes-master-react-usedeferredvalue-3jih)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 8, 2026)
+### 2 Days Ago (June 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
 - [I Missed Engine Debug Views in Three.js, So I Built a WebGPU Helper](https://dev.to/tonyblu331/i-missed-engine-debug-views-in-threejs-so-i-built-a-webgpu-helper-3o32)
 - [How do you handle "Hackathon Burnout" after shipping two projects back-to-back?](https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 7, 2026)
-
-#### Dev.to JavaScript
-
-- [JavaScript Proxy: One more way to use it I wish I’d known 3 years ago](https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk)
-- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
-- [I Built 67+ Free Browser Developer Tools — No API, No Signup, No Ads](https://dev.to/mayank_mehra_c244c9d92cc2/i-built-65-free-browser-developer-tools-no-api-no-signup-no-ads-3njp)
-
-#### Dev.to React
-
-- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
-- [Great Components Are Designed Like APIs](https://dev.to/dev_ahmed1/great-components-are-designed-like-apis-24ho)
-- [How do you design a poker game engine that supports multiple poker variants without code duplication?](https://dev.to/stojankojo/how-do-you-design-a-poker-game-engine-that-supports-multiple-poker-variants-without-code-5b99)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-10",
+    "formattedDate": "June 10, 2026",
+    "news": [
+      {
+        "title": "The Messages Array, in 4 GIFs",
+        "link": "https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+        "link": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Push Notifications in React Native: The Complete 2026 Guide",
+        "link": "https://dev.to/russel_dsouza_bd584a3cb2a/push-notifications-in-react-native-the-complete-2026-guide-2d4g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TanStack Start Is Kind of a Big Deal",
+        "link": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Add drawing tools, indicators and replay to Lightweight Charts without stitching six repos together",
+        "link": "https://dev.to/rohanbeingsocial/add-drawing-tools-indicators-and-replay-to-lightweight-charts-without-stitching-six-repos-together-51ad",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop UI Freezes: Master React useDeferredValue ⚡",
+        "link": "https://dev.to/iprajapatiparesh/stop-ui-freezes-master-react-usedeferredvalue-3jih",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-09",
     "formattedDate": "June 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How do you handle \"Hackathon Burnout\" after shipping two projects back-to-back?",
         "link": "https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "formattedDate": "June 7, 2026",
-    "news": [
-      {
-        "title": "JavaScript Proxy: One more way to use it I wish I’d known 3 years ago",
-        "link": "https://dev.to/revolist/javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago-40lk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Code smell or not - useEffect with extra dependecies?",
-        "link": "https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built 67+ Free Browser Developer Tools — No API, No Signup, No Ads",
-        "link": "https://dev.to/mayank_mehra_c244c9d92cc2/i-built-65-free-browser-developer-tools-no-api-no-signup-no-ads-3njp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Code smell or not - useEffect with extra dependecies?",
-        "link": "https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Great Components Are Designed Like APIs",
-        "link": "https://dev.to/dev_ahmed1/great-components-are-designed-like-apis-24ho",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How do you design a poker game engine that supports multiple poker variants without code duplication?",
-        "link": "https://dev.to/stojankojo/how-do-you-design-a-poker-game-engine-that-supports-multiple-poker-variants-without-code-5b99",
         "source": "Dev.to React"
       },
       {
