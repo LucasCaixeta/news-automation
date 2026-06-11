@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.](https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc)
-- [npm audit cries wolf. I built a zero-dep CLI that tells you what to actually fix](https://dev.to/_06a3df6b50aec966668fb/npm-audit-cries-wolf-i-built-a-zero-dep-cli-that-tells-you-what-to-actually-fix-3bom)
-- [I Added WeChat to My Claude Code and Codex Workflow](https://dev.to/codekingai/i-added-wechat-to-my-claude-code-and-codex-workflow-395b)
+- [I Built 40+ Free Browser Games in Vanilla JS — Here's What I Learned](https://dev.to/mahesh_b6e3c28712732016c1/i-built-40-free-browser-games-in-vanilla-js-heres-what-i-learned-4bek)
+- [Making Pretty-Printed JSON Readable Again in JavaScript](https://dev.to/yairlenga/making-pretty-printed-json-readable-again-in-javascript-3g3n)
+- [What is new in `solid-js@2.0`?](https://dev.to/lexlohr/what-is-new-in-solid-js20-11hk)
 
 #### Dev.to React
 
-- [Why Your Zod Validation Fails Before It Even Runs (And How to Fix It)](https://dev.to/mohammad_rostami_/why-your-zod-validation-fails-before-it-even-runs-and-how-to-fix-it-51d3)
-- [66% of devs say AI generates 'almost right' code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67)
-- [How to Fix React (Vite) & Next.js Auto-Refresh Not Working on Windows](https://dev.to/abdulrdeveloper/how-to-fix-react-vite-nextjs-auto-refresh-not-working-on-windows-1ea8)
+- [My React App Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Rule About Scope.](https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-4fin)
+- [Understanding the use of the React Compiler](https://dev.to/kansoldev/understanding-the-use-of-the-react-compiler-5c1d)
+- [Why we built 78 tarot cards in SVG — and the export bug that nearly killed it](https://dev.to/astic_ai/why-we-built-78-tarot-cards-in-svg-and-the-export-bug-that-nearly-killed-it-31p5)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 11, 2026",
     "news": [
       {
-        "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-        "link": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+        "title": "I Built 40+ Free Browser Games in Vanilla JS — Here's What I Learned",
+        "link": "https://dev.to/mahesh_b6e3c28712732016c1/i-built-40-free-browser-games-in-vanilla-js-heres-what-i-learned-4bek",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "npm audit cries wolf. I built a zero-dep CLI that tells you what to actually fix",
-        "link": "https://dev.to/_06a3df6b50aec966668fb/npm-audit-cries-wolf-i-built-a-zero-dep-cli-that-tells-you-what-to-actually-fix-3bom",
+        "title": "Making Pretty-Printed JSON Readable Again in JavaScript",
+        "link": "https://dev.to/yairlenga/making-pretty-printed-json-readable-again-in-javascript-3g3n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Added WeChat to My Claude Code and Codex Workflow",
-        "link": "https://dev.to/codekingai/i-added-wechat-to-my-claude-code-and-codex-workflow-395b",
+        "title": "What is new in `solid-js@2.0`?",
+        "link": "https://dev.to/lexlohr/what-is-new-in-solid-js20-11hk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Your Zod Validation Fails Before It Even Runs (And How to Fix It)",
-        "link": "https://dev.to/mohammad_rostami_/why-your-zod-validation-fails-before-it-even-runs-and-how-to-fix-it-51d3",
+        "title": "My React App Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Rule About Scope.",
+        "link": "https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-4fin",
         "source": "Dev.to React"
       },
       {
-        "title": "66% of devs say AI generates 'almost right' code. I made it generate exactly the right code — first try.",
-        "link": "https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67",
+        "title": "Understanding the use of the React Compiler",
+        "link": "https://dev.to/kansoldev/understanding-the-use-of-the-react-compiler-5c1d",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Fix React (Vite) & Next.js Auto-Refresh Not Working on Windows",
-        "link": "https://dev.to/abdulrdeveloper/how-to-fix-react-vite-nextjs-auto-refresh-not-working-on-windows-1ea8",
+        "title": "Why we built 78 tarot cards in SVG — and the export bug that nearly killed it",
+        "link": "https://dev.to/astic_ai/why-we-built-78-tarot-cards-in-svg-and-the-export-bug-that-nearly-killed-it-31p5",
         "source": "Dev.to React"
       },
       {
