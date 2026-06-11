@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 10, 2026)
+### Today's Updates (June 11, 2026)
+
+#### Dev.to JavaScript
+
+- [I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.](https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc)
+- [npm audit cries wolf. I built a zero-dep CLI that tells you what to actually fix](https://dev.to/_06a3df6b50aec966668fb/npm-audit-cries-wolf-i-built-a-zero-dep-cli-that-tells-you-what-to-actually-fix-3bom)
+- [I Added WeChat to My Claude Code and Codex Workflow](https://dev.to/codekingai/i-added-wechat-to-my-claude-code-and-codex-workflow-395b)
+
+#### Dev.to React
+
+- [Why Your Zod Validation Fails Before It Even Runs (And How to Fix It)](https://dev.to/mohammad_rostami_/why-your-zod-validation-fails-before-it-even-runs-and-how-to-fix-it-51d3)
+- [66% of devs say AI generates 'almost right' code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67)
+- [How to Fix React (Vite) & Next.js Auto-Refresh Not Working on Windows](https://dev.to/abdulrdeveloper/how-to-fix-react-vite-nextjs-auto-refresh-not-working-on-windows-1ea8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 9, 2026)
+### 2 Days Ago (June 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
 - [Picking Svelte in 2026: the honest tradeoff nobody tells you](https://dev.to/dimonb19a/picking-svelte-in-2026-the-honest-tradeoff-nobody-tells-you-3adc)
 - [ConfigMaps for Environment Variables in a React App: Stop Rebuilding, Start Injecting](https://dev.to/sohanaakbar7/configmaps-for-environment-variables-in-a-react-app-stop-rebuilding-start-injecting-1ibg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 8, 2026)
-
-#### Dev.to JavaScript
-
-- [Replacing five Figma files with one HTML renderer for our content brand](https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej)
-- [I replaced a language model with geometry: building a deterministic UI compiler that runs in your browser in 300ms](https://dev.to/mevirajsheoran/i-replaced-a-language-model-with-geometry-building-a-deterministic-ui-compiler-that-runs-in-your-44go)
-- [10 JSON Errors Every Developer Hits (And Exactly How to Fix Them)](https://dev.to/99tools/10-json-errors-every-developer-hits-and-exactly-how-to-fix-them-39eg)
-
-#### Dev.to React
-
-- [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
-- [I Missed Engine Debug Views in Three.js, So I Built a WebGPU Helper](https://dev.to/tonyblu331/i-missed-engine-debug-views-in-threejs-so-i-built-a-webgpu-helper-3o32)
-- [How do you handle "Hackathon Burnout" after shipping two projects back-to-back?](https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-11",
+    "formattedDate": "June 11, 2026",
+    "news": [
+      {
+        "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+        "link": "https://dev.to/shubhradev/i-thought-my-nextjs-16-auth-was-solid-one-afternoon-proved-otherwise-4dhc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "npm audit cries wolf. I built a zero-dep CLI that tells you what to actually fix",
+        "link": "https://dev.to/_06a3df6b50aec966668fb/npm-audit-cries-wolf-i-built-a-zero-dep-cli-that-tells-you-what-to-actually-fix-3bom",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Added WeChat to My Claude Code and Codex Workflow",
+        "link": "https://dev.to/codekingai/i-added-wechat-to-my-claude-code-and-codex-workflow-395b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Your Zod Validation Fails Before It Even Runs (And How to Fix It)",
+        "link": "https://dev.to/mohammad_rostami_/why-your-zod-validation-fails-before-it-even-runs-and-how-to-fix-it-51d3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "66% of devs say AI generates 'almost right' code. I made it generate exactly the right code — first try.",
+        "link": "https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Fix React (Vite) & Next.js Auto-Refresh Not Working on Windows",
+        "link": "https://dev.to/abdulrdeveloper/how-to-fix-react-vite-nextjs-auto-refresh-not-working-on-windows-1ea8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-10",
     "formattedDate": "June 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "ConfigMaps for Environment Variables in a React App: Stop Rebuilding, Start Injecting",
         "link": "https://dev.to/sohanaakbar7/configmaps-for-environment-variables-in-a-react-app-stop-rebuilding-start-injecting-1ibg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-08",
-    "formattedDate": "June 8, 2026",
-    "news": [
-      {
-        "title": "Replacing five Figma files with one HTML renderer for our content brand",
-        "link": "https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I replaced a language model with geometry: building a deterministic UI compiler that runs in your browser in 300ms",
-        "link": "https://dev.to/mevirajsheoran/i-replaced-a-language-model-with-geometry-building-a-deterministic-ui-compiler-that-runs-in-your-44go",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "10 JSON Errors Every Developer Hits (And Exactly How to Fix Them)",
-        "link": "https://dev.to/99tools/10-json-errors-every-developer-hits-and-exactly-how-to-fix-them-39eg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TanStack Start Is Kind of a Big Deal",
-        "link": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Missed Engine Debug Views in Three.js, So I Built a WebGPU Helper",
-        "link": "https://dev.to/tonyblu331/i-missed-engine-debug-views-in-threejs-so-i-built-a-webgpu-helper-3o32",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How do you handle \"Hackathon Burnout\" after shipping two projects back-to-back?",
-        "link": "https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne",
         "source": "Dev.to React"
       },
       {
