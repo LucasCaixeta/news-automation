@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts](https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na)
-- [Treating the LLM Like an Unreliable Dependency](https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf)
-- [What I Learned Building a JavaScript Framework from Scratch at 18!](https://dev.to/motionmind2007/what-i-learned-building-a-javascript-framework-from-scratch-at-18-5252)
+- [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+- [When JavaScript Isn't Fast Enough](https://dev.to/boris9027/when-javascript-isnt-fast-enough-3ia2)
+- [Your package.json diffs are noisy for no reason. I built a zero-dep fixer.](https://dev.to/_06a3df6b50aec966668fb/your-packagejson-diffs-are-noisy-for-no-reason-i-built-a-zero-dep-fixer-5fjf)
 
 #### Dev.to React
 
-- [Treating the LLM Like an Unreliable Dependency](https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf)
-- [How I Built a Prompt-to-Music AI Agent & Browser-Based Karaoke Separator with React & ONNX](https://dev.to/elavarasan_shankar_d8cfcf/how-i-built-a-prompt-to-music-ai-agent-browser-based-karaoke-separator-with-react-onnx-12j3)
-- [Stop Declaring Tools Dead — lucide-react is Still Fine](https://dev.to/zeeshan_farooq_4ead3782d8/stop-declaring-tools-dead-lucide-react-is-still-fine-13bi)
+- [The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel](https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch)
+- [Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit](https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6)
+- [Why modal.open() should return Promise<TResult>, not Promise<any>](https://dev.to/alexey79/why-modalopen-should-return-promise-not-promise-12g)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 12, 2026",
     "news": [
       {
-        "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
-        "link": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+        "title": "Why I still teach Singleton even though modules make it redundant",
+        "link": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Treating the LLM Like an Unreliable Dependency",
-        "link": "https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf",
+        "title": "When JavaScript Isn't Fast Enough",
+        "link": "https://dev.to/boris9027/when-javascript-isnt-fast-enough-3ia2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What I Learned Building a JavaScript Framework from Scratch at 18!",
-        "link": "https://dev.to/motionmind2007/what-i-learned-building-a-javascript-framework-from-scratch-at-18-5252",
+        "title": "Your package.json diffs are noisy for no reason. I built a zero-dep fixer.",
+        "link": "https://dev.to/_06a3df6b50aec966668fb/your-packagejson-diffs-are-noisy-for-no-reason-i-built-a-zero-dep-fixer-5fjf",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Treating the LLM Like an Unreliable Dependency",
-        "link": "https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf",
+        "title": "The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel",
+        "link": "https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built a Prompt-to-Music AI Agent & Browser-Based Karaoke Separator with React & ONNX",
-        "link": "https://dev.to/elavarasan_shankar_d8cfcf/how-i-built-a-prompt-to-music-ai-agent-browser-based-karaoke-separator-with-react-onnx-12j3",
+        "title": "Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit",
+        "link": "https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Declaring Tools Dead — lucide-react is Still Fine",
-        "link": "https://dev.to/zeeshan_farooq_4ead3782d8/stop-declaring-tools-dead-lucide-react-is-still-fine-13bi",
+        "title": "Why modal.open() should return Promise<TResult>, not Promise<any>",
+        "link": "https://dev.to/alexey79/why-modalopen-should-return-promise-not-promise-12g",
         "source": "Dev.to React"
       },
       {
