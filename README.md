@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 11, 2026)
+### Today's Updates (June 12, 2026)
+
+#### Dev.to JavaScript
+
+- [Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts](https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na)
+- [Treating the LLM Like an Unreliable Dependency](https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf)
+- [What I Learned Building a JavaScript Framework from Scratch at 18!](https://dev.to/motionmind2007/what-i-learned-building-a-javascript-framework-from-scratch-at-18-5252)
+
+#### Dev.to React
+
+- [Treating the LLM Like an Unreliable Dependency](https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf)
+- [How I Built a Prompt-to-Music AI Agent & Browser-Based Karaoke Separator with React & ONNX](https://dev.to/elavarasan_shankar_d8cfcf/how-i-built-a-prompt-to-music-ai-agent-browser-based-karaoke-separator-with-react-onnx-12j3)
+- [Stop Declaring Tools Dead — lucide-react is Still Fine](https://dev.to/zeeshan_farooq_4ead3782d8/stop-declaring-tools-dead-lucide-react-is-still-fine-13bi)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 10, 2026)
+### 2 Days Ago (June 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways](https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b)
 - [I Shipped a Realtime Collab App in 3 Lines of React — No WebSocket Plumbing](https://dev.to/dev48v/i-shipped-a-realtime-collab-app-in-3-lines-of-react-no-websocket-plumbing-125g)
 - [Your Coding DNA: The Three Files That Shape Every Line Claude Writes](https://dev.to/panditabhis/your-coding-dna-the-three-files-that-shape-every-line-claude-writes-378g)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 9, 2026)
-
-#### Dev.to JavaScript
-
-- [why element.click() does nothing on gmail's delete button](https://dev.to/tiltedlunar123/why-elementclick-does-nothing-on-gmails-delete-button-3464)
-- [The Messages Array, in 4 GIFs](https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j)
-- [12 Tricky TypeScript Questions That Separate Good Developers From Great Ones](https://dev.to/vitalyobolensky/12-tricky-typescript-questions-that-separate-good-developers-from-great-ones-318e)
-
-#### Dev.to React
-
-- [TanStack Start Is Kind of a Big Deal](https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec)
-- [Picking Svelte in 2026: the honest tradeoff nobody tells you](https://dev.to/dimonb19a/picking-svelte-in-2026-the-honest-tradeoff-nobody-tells-you-3adc)
-- [ConfigMaps for Environment Variables in a React App: Stop Rebuilding, Start Injecting](https://dev.to/sohanaakbar7/configmaps-for-environment-variables-in-a-react-app-stop-rebuilding-start-injecting-1ibg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-12",
+    "formattedDate": "June 12, 2026",
+    "news": [
+      {
+        "title": "Parallel AI Coding with Git Worktrees: Run Multiple Agents Without Conflicts",
+        "link": "https://dev.to/jsmanifest/parallel-ai-coding-with-git-worktrees-run-multiple-agents-without-conflicts-11na",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Treating the LLM Like an Unreliable Dependency",
+        "link": "https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What I Learned Building a JavaScript Framework from Scratch at 18!",
+        "link": "https://dev.to/motionmind2007/what-i-learned-building-a-javascript-framework-from-scratch-at-18-5252",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Treating the LLM Like an Unreliable Dependency",
+        "link": "https://dev.to/khalidhossain/treating-the-llm-like-an-unreliable-dependency-32lf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a Prompt-to-Music AI Agent & Browser-Based Karaoke Separator with React & ONNX",
+        "link": "https://dev.to/elavarasan_shankar_d8cfcf/how-i-built-a-prompt-to-music-ai-agent-browser-based-karaoke-separator-with-react-onnx-12j3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Declaring Tools Dead — lucide-react is Still Fine",
+        "link": "https://dev.to/zeeshan_farooq_4ead3782d8/stop-declaring-tools-dead-lucide-react-is-still-fine-13bi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-11",
     "formattedDate": "June 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Your Coding DNA: The Three Files That Shape Every Line Claude Writes",
         "link": "https://dev.to/panditabhis/your-coding-dna-the-three-files-that-shape-every-line-claude-writes-378g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "formattedDate": "June 9, 2026",
-    "news": [
-      {
-        "title": "why element.click() does nothing on gmail's delete button",
-        "link": "https://dev.to/tiltedlunar123/why-elementclick-does-nothing-on-gmails-delete-button-3464",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Messages Array, in 4 GIFs",
-        "link": "https://dev.to/jasmin/the-messages-array-in-4-gifs-1k1j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "12 Tricky TypeScript Questions That Separate Good Developers From Great Ones",
-        "link": "https://dev.to/vitalyobolensky/12-tricky-typescript-questions-that-separate-good-developers-from-great-ones-318e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TanStack Start Is Kind of a Big Deal",
-        "link": "https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Picking Svelte in 2026: the honest tradeoff nobody tells you",
-        "link": "https://dev.to/dimonb19a/picking-svelte-in-2026-the-honest-tradeoff-nobody-tells-you-3adc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "ConfigMaps for Environment Variables in a React App: Stop Rebuilding, Start Injecting",
-        "link": "https://dev.to/sohanaakbar7/configmaps-for-environment-variables-in-a-react-app-stop-rebuilding-start-injecting-1ibg",
         "source": "Dev.to React"
       },
       {
