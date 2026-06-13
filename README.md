@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 12, 2026)
+### Today's Updates (June 13, 2026)
+
+#### Dev.to JavaScript
+
+- [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
+- [Two Bugs That Taught Me More Than Any Tutorial](https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7)
+- [Why Retry Is One Of The Most Dangerous Keywords In Software](https://dev.to/amrishkhan05/why-retry-is-one-of-the-most-dangerous-keywords-in-software-1m43)
+
+#### Dev.to React
+
+- [I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple](https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd)
+- [The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel](https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch)
+- [Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit](https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 11, 2026)
+### 2 Days Ago (June 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [My React App Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Rule About Scope.](https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-4fin)
 - [Understanding the use of the React Compiler](https://dev.to/kansoldev/understanding-the-use-of-the-react-compiler-5c1d)
 - [Why we built 78 tarot cards in SVG — and the export bug that nearly killed it](https://dev.to/astic_ai/why-we-built-78-tarot-cards-in-svg-and-the-export-bug-that-nearly-killed-it-31p5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 10, 2026)
-
-#### Dev.to JavaScript
-
-- [How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways](https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b)
-- [JavaScript Asynchronous APIs: The Misconception That Confused Me](https://dev.to/tejas_khanolkar_473f3ed1a/javascript-asynchronous-apis-the-misconception-that-confused-me-16p)
-- [Building a Static Site with Astro and Cosmic CMS](https://dev.to/tonyspiro/building-a-static-site-with-astro-and-cosmic-cms-d95)
-
-#### Dev.to React
-
-- [How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways](https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b)
-- [I Shipped a Realtime Collab App in 3 Lines of React — No WebSocket Plumbing](https://dev.to/dev48v/i-shipped-a-realtime-collab-app-in-3-lines-of-react-no-websocket-plumbing-125g)
-- [Your Coding DNA: The Three Files That Shape Every Line Claude Writes](https://dev.to/panditabhis/your-coding-dna-the-three-files-that-shape-every-line-claude-writes-378g)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-13",
+    "formattedDate": "June 13, 2026",
+    "news": [
+      {
+        "title": "Why I still teach Singleton even though modules make it redundant",
+        "link": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Two Bugs That Taught Me More Than Any Tutorial",
+        "link": "https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Retry Is One Of The Most Dangerous Keywords In Software",
+        "link": "https://dev.to/amrishkhan05/why-retry-is-one-of-the-most-dangerous-keywords-in-software-1m43",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple",
+        "link": "https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel",
+        "link": "https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit",
+        "link": "https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-12",
     "formattedDate": "June 12, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why we built 78 tarot cards in SVG — and the export bug that nearly killed it",
         "link": "https://dev.to/astic_ai/why-we-built-78-tarot-cards-in-svg-and-the-export-bug-that-nearly-killed-it-31p5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "formattedDate": "June 10, 2026",
-    "news": [
-      {
-        "title": "How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways",
-        "link": "https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript Asynchronous APIs: The Misconception That Confused Me",
-        "link": "https://dev.to/tejas_khanolkar_473f3ed1a/javascript-asynchronous-apis-the-misconception-that-confused-me-16p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Static Site with Astro and Cosmic CMS",
-        "link": "https://dev.to/tonyspiro/building-a-static-site-with-astro-and-cosmic-cms-d95",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Real-Time Multiplayer Game with Socket.IO, Firebase & Pakistani Payment Gateways",
-        "link": "https://dev.to/faizullahpk/how-i-built-a-real-time-multiplayer-game-with-socketio-firebase-pakistani-payment-gateways-426b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Shipped a Realtime Collab App in 3 Lines of React — No WebSocket Plumbing",
-        "link": "https://dev.to/dev48v/i-shipped-a-realtime-collab-app-in-3-lines-of-react-no-websocket-plumbing-125g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Your Coding DNA: The Three Files That Shape Every Line Claude Writes",
-        "link": "https://dev.to/panditabhis/your-coding-dna-the-three-files-that-shape-every-line-claude-writes-378g",
         "source": "Dev.to React"
       },
       {
