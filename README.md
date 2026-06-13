@@ -10,9 +10,9 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Why I still teach Singleton even though modules make it redundant](https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m)
-- [Two Bugs That Taught Me More Than Any Tutorial](https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7)
-- [Why Retry Is One Of The Most Dangerous Keywords In Software](https://dev.to/amrishkhan05/why-retry-is-one-of-the-most-dangerous-keywords-in-software-1m43)
+- [Reading a Paginated API Without Holding the Whole Thing in Memory](https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip)
+- [I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)](https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm)
+- [Behind the Green Tests: My Honest HNG Internship Experience](https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8)
 
 #### Dev.to React
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 13, 2026",
     "news": [
       {
-        "title": "Why I still teach Singleton even though modules make it redundant",
-        "link": "https://dev.to/dsheiko/why-i-still-teach-singleton-even-though-modules-make-it-redundant-1a7m",
+        "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
+        "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Two Bugs That Taught Me More Than Any Tutorial",
-        "link": "https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7",
+        "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
+        "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Retry Is One Of The Most Dangerous Keywords In Software",
-        "link": "https://dev.to/amrishkhan05/why-retry-is-one-of-the-most-dangerous-keywords-in-software-1m43",
+        "title": "Behind the Green Tests: My Honest HNG Internship Experience",
+        "link": "https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8",
         "source": "Dev.to JavaScript"
       },
       {
