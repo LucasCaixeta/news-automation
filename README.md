@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 13, 2026)
+### Today's Updates (June 14, 2026)
+
+#### Dev.to JavaScript
+
+- [Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p)
+- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
+- [TypeScript Template Literal Types: Turn Your Strings Into Type-Safe Contracts](https://dev.to/kaithorne/typescript-template-literal-types-turn-your-strings-into-type-safe-contracts-529f)
+
+#### Dev.to React
+
+- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
+- [TypeScript Best Practices for Next.js Projects in 2026](https://dev.to/thekitbase/typescript-best-practices-for-nextjs-projects-in-2026-40pi)
+- [5 AI Tools Every "Vibe Coder" Needs in Their Bookmarks (2026 Edition)](https://dev.to/aswini-sm/5-ai-tools-every-vibe-coder-needs-in-their-bookmarks-2026-edition-3jn5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 12, 2026)
+### 2 Days Ago (June 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel](https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch)
 - [Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit](https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6)
 - [Why modal.open() should return Promise<TResult>, not Promise<any>](https://dev.to/alexey79/why-modalopen-should-return-promise-not-promise-12g)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 11, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built 40+ Free Browser Games in Vanilla JS — Here's What I Learned](https://dev.to/mahesh_b6e3c28712732016c1/i-built-40-free-browser-games-in-vanilla-js-heres-what-i-learned-4bek)
-- [Making Pretty-Printed JSON Readable Again in JavaScript](https://dev.to/yairlenga/making-pretty-printed-json-readable-again-in-javascript-3g3n)
-- [What is new in `solid-js@2.0`?](https://dev.to/lexlohr/what-is-new-in-solid-js20-11hk)
-
-#### Dev.to React
-
-- [My React App Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Rule About Scope.](https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-4fin)
-- [Understanding the use of the React Compiler](https://dev.to/kansoldev/understanding-the-use-of-the-react-compiler-5c1d)
-- [Why we built 78 tarot cards in SVG — and the export bug that nearly killed it](https://dev.to/astic_ai/why-we-built-78-tarot-cards-in-svg-and-the-export-bug-that-nearly-killed-it-31p5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-14",
+    "formattedDate": "June 14, 2026",
+    "news": [
+      {
+        "title": "Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥",
+        "link": "https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Stale Closure Bug That Haunted My Chat App",
+        "link": "https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript Template Literal Types: Turn Your Strings Into Type-Safe Contracts",
+        "link": "https://dev.to/kaithorne/typescript-template-literal-types-turn-your-strings-into-type-safe-contracts-529f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Stale Closure Bug That Haunted My Chat App",
+        "link": "https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TypeScript Best Practices for Next.js Projects in 2026",
+        "link": "https://dev.to/thekitbase/typescript-best-practices-for-nextjs-projects-in-2026-40pi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "5 AI Tools Every \"Vibe Coder\" Needs in Their Bookmarks (2026 Edition)",
+        "link": "https://dev.to/aswini-sm/5-ai-tools-every-vibe-coder-needs-in-their-bookmarks-2026-edition-3jn5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-13",
     "formattedDate": "June 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why modal.open() should return Promise<TResult>, not Promise<any>",
         "link": "https://dev.to/alexey79/why-modalopen-should-return-promise-not-promise-12g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "formattedDate": "June 11, 2026",
-    "news": [
-      {
-        "title": "I Built 40+ Free Browser Games in Vanilla JS — Here's What I Learned",
-        "link": "https://dev.to/mahesh_b6e3c28712732016c1/i-built-40-free-browser-games-in-vanilla-js-heres-what-i-learned-4bek",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Making Pretty-Printed JSON Readable Again in JavaScript",
-        "link": "https://dev.to/yairlenga/making-pretty-printed-json-readable-again-in-javascript-3g3n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What is new in `solid-js@2.0`?",
-        "link": "https://dev.to/lexlohr/what-is-new-in-solid-js20-11hk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My React App Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Rule About Scope.",
-        "link": "https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-4fin",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Understanding the use of the React Compiler",
-        "link": "https://dev.to/kansoldev/understanding-the-use-of-the-react-compiler-5c1d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why we built 78 tarot cards in SVG — and the export bug that nearly killed it",
-        "link": "https://dev.to/astic_ai/why-we-built-78-tarot-cards-in-svg-and-the-export-bug-that-nearly-killed-it-31p5",
         "source": "Dev.to React"
       },
       {
