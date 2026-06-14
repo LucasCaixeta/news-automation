@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p)
-- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
-- [TypeScript Template Literal Types: Turn Your Strings Into Type-Safe Contracts](https://dev.to/kaithorne/typescript-template-literal-types-turn-your-strings-into-type-safe-contracts-529f)
+- [3 Base64 Tricks Every Developer Should Know](https://dev.to/zhihu_wu_dea1d82af01a04d7/3-base64-tricks-every-developer-should-know-25p7)
+- [I Built Minesweeper in ~50 Lines — the Only Hard Part Is Flood-Fill](https://dev.to/dev48v/i-built-minesweeper-in-50-lines-the-only-hard-part-is-flood-fill-1an8)
 
 #### Dev.to React
 
-- [The Stale Closure Bug That Haunted My Chat App](https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp)
-- [TypeScript Best Practices for Next.js Projects in 2026](https://dev.to/thekitbase/typescript-best-practices-for-nextjs-projects-in-2026-40pi)
-- [5 AI Tools Every "Vibe Coder" Needs in Their Bookmarks (2026 Edition)](https://dev.to/aswini-sm/5-ai-tools-every-vibe-coder-needs-in-their-bookmarks-2026-edition-3jn5)
+- [SSR-Safe Internationalization in TanStack Start with i18next](https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k)
+- [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
+- [My Redirects Worked in the Browser. Googlebot Saw Soft 404s.](https://dev.to/henry_dan_81513dd35a2f540/my-redirects-worked-in-the-browser-googlebot-saw-soft-404s-1pl4)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Stale Closure Bug That Haunted My Chat App",
-        "link": "https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp",
+        "title": "3 Base64 Tricks Every Developer Should Know",
+        "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/3-base64-tricks-every-developer-should-know-25p7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript Template Literal Types: Turn Your Strings Into Type-Safe Contracts",
-        "link": "https://dev.to/kaithorne/typescript-template-literal-types-turn-your-strings-into-type-safe-contracts-529f",
+        "title": "I Built Minesweeper in ~50 Lines — the Only Hard Part Is Flood-Fill",
+        "link": "https://dev.to/dev48v/i-built-minesweeper-in-50-lines-the-only-hard-part-is-flood-fill-1an8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Stale Closure Bug That Haunted My Chat App",
-        "link": "https://dev.to/nikhilsharma6/the-stale-closure-bug-that-haunted-my-chat-app-khp",
+        "title": "SSR-Safe Internationalization in TanStack Start with i18next",
+        "link": "https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k",
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript Best Practices for Next.js Projects in 2026",
-        "link": "https://dev.to/thekitbase/typescript-best-practices-for-nextjs-projects-in-2026-40pi",
+        "title": "What I learned building a take-home pay calculator for all 50 US states",
+        "link": "https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp",
         "source": "Dev.to React"
       },
       {
-        "title": "5 AI Tools Every \"Vibe Coder\" Needs in Their Bookmarks (2026 Edition)",
-        "link": "https://dev.to/aswini-sm/5-ai-tools-every-vibe-coder-needs-in-their-bookmarks-2026-edition-3jn5",
+        "title": "My Redirects Worked in the Browser. Googlebot Saw Soft 404s.",
+        "link": "https://dev.to/henry_dan_81513dd35a2f540/my-redirects-worked-in-the-browser-googlebot-saw-soft-404s-1pl4",
         "source": "Dev.to React"
       },
       {
