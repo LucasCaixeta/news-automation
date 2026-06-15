@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p)
-- [I Built an Interactive JS Learning Site — No Courses, No Paywalls, Just Animated Examples](https://dev.to/mankal27/i-built-an-interactive-js-learning-site-no-courses-no-paywalls-just-animated-examples-4gjf)
-- ["I Added a /yolo Button to My Local AI Assistant"](https://dev.to/codekingai/i-added-a-yolo-button-to-my-local-ai-assistant-4klh)
+- [android doze kills your react native background tasks--here's why and how to fix it](https://dev.to/srahman0203/android-doze-kills-your-react-native-background-tasks-heres-why-and-how-to-fix-it-2299)
+- [Your Next.js API Route Is Leaking Diagnostics in Its 400 Responses](https://dev.to/oopssec-store/your-nextjs-api-route-is-leaking-diagnostics-in-its-400-responses-1d4l)
+- [I built a 1:1 solar system with Fable 5 in the days before it was pulled offline](https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni)
 
 #### Dev.to React
 
-- [you can run my soc triage tool without an api key, and that was kind of the point](https://dev.to/tiltedlunar123/you-can-run-my-soc-triage-tool-without-an-api-key-and-that-was-kind-of-the-point-19a)
-- [SSR-Safe Internationalization in TanStack Start with i18next](https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k)
-- [How I'm Preventing Most of the Bugs Before They Ship — Bear UI 1.2.4](https://dev.to/john_yaghobieh_8f294091f6/how-im-preventing-most-of-the-bugs-before-they-ship-bear-ui-124-1l44)
+- [React Server Components in Production: What We Learned After Migrating a Client Dashboard](https://dev.to/paradane/react-server-components-in-production-what-we-learned-after-migrating-a-client-dashboard-2e0g)
+- [Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic](https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0)
+- [I Built a Tailwind CSS Bloat Scanner — Here's What I Found in My Own Code](https://dev.to/aymanabdimohamed/i-built-a-tailwind-css-bloat-scanner-heres-what-i-found-in-my-own-code-2fck)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 15, 2026",
     "news": [
       {
-        "title": "Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥",
-        "link": "https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p",
+        "title": "android doze kills your react native background tasks--here's why and how to fix it",
+        "link": "https://dev.to/srahman0203/android-doze-kills-your-react-native-background-tasks-heres-why-and-how-to-fix-it-2299",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built an Interactive JS Learning Site — No Courses, No Paywalls, Just Animated Examples",
-        "link": "https://dev.to/mankal27/i-built-an-interactive-js-learning-site-no-courses-no-paywalls-just-animated-examples-4gjf",
+        "title": "Your Next.js API Route Is Leaking Diagnostics in Its 400 Responses",
+        "link": "https://dev.to/oopssec-store/your-nextjs-api-route-is-leaking-diagnostics-in-its-400-responses-1d4l",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"I Added a /yolo Button to My Local AI Assistant\"",
-        "link": "https://dev.to/codekingai/i-added-a-yolo-button-to-my-local-ai-assistant-4klh",
+        "title": "I built a 1:1 solar system with Fable 5 in the days before it was pulled offline",
+        "link": "https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "you can run my soc triage tool without an api key, and that was kind of the point",
-        "link": "https://dev.to/tiltedlunar123/you-can-run-my-soc-triage-tool-without-an-api-key-and-that-was-kind-of-the-point-19a",
+        "title": "React Server Components in Production: What We Learned After Migrating a Client Dashboard",
+        "link": "https://dev.to/paradane/react-server-components-in-production-what-we-learned-after-migrating-a-client-dashboard-2e0g",
         "source": "Dev.to React"
       },
       {
-        "title": "SSR-Safe Internationalization in TanStack Start with i18next",
-        "link": "https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k",
+        "title": "Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic",
+        "link": "https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0",
         "source": "Dev.to React"
       },
       {
-        "title": "How I'm Preventing Most of the Bugs Before They Ship — Bear UI 1.2.4",
-        "link": "https://dev.to/john_yaghobieh_8f294091f6/how-im-preventing-most-of-the-bugs-before-they-ship-bear-ui-124-1l44",
+        "title": "I Built a Tailwind CSS Bloat Scanner — Here's What I Found in My Own Code",
+        "link": "https://dev.to/aymanabdimohamed/i-built-a-tailwind-css-bloat-scanner-heres-what-i-found-in-my-own-code-2fck",
         "source": "Dev.to React"
       },
       {
