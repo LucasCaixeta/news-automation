@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 15, 2026)
+### Today's Updates (June 16, 2026)
+
+#### Dev.to JavaScript
+
+- [How I cut my AWS bill to $0 by moving my backend to the browser (WebAssembly)](https://dev.to/rahul33859111/how-i-cut-my-aws-bill-to-0-by-moving-my-backend-to-the-browser-webassembly-1nkb)
+- [The exact math that made $40,000,000 out of Polymarket (Full roadmap)](https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6)
+- [Hexabot Introduction: Build AI Workflows That Talk, Act, and Remember](https://dev.to/marrouchi/hexabot-introduction-build-ai-workflows-that-talk-act-and-remember-3683)
+
+#### Dev.to React
+
+- [Selecting Your Frontend Foundation: React vs. Next.js](https://dev.to/hamza_amir/selecting-your-frontend-foundation-react-vs-nextjs-3898)
+- [Escaping the Trap: Fixing Stale Closures in React Hooks ⚡](https://dev.to/iprajapatiparesh/escaping-the-trap-fixing-stale-closures-in-react-hooks-4gg7)
+- [Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic](https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 14, 2026)
+### 2 Days Ago (June 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [SSR-Safe Internationalization in TanStack Start with i18next](https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k)
 - [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
 - [My Redirects Worked in the Browser. Googlebot Saw Soft 404s.](https://dev.to/henry_dan_81513dd35a2f540/my-redirects-worked-in-the-browser-googlebot-saw-soft-404s-1pl4)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 13, 2026)
-
-#### Dev.to JavaScript
-
-- [Reading a Paginated API Without Holding the Whole Thing in Memory](https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip)
-- [I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)](https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm)
-- [Behind the Green Tests: My Honest HNG Internship Experience](https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8)
-
-#### Dev.to React
-
-- [I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple](https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd)
-- [The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel](https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch)
-- [Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit](https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-16",
+    "formattedDate": "June 16, 2026",
+    "news": [
+      {
+        "title": "How I cut my AWS bill to $0 by moving my backend to the browser (WebAssembly)",
+        "link": "https://dev.to/rahul33859111/how-i-cut-my-aws-bill-to-0-by-moving-my-backend-to-the-browser-webassembly-1nkb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The exact math that made $40,000,000 out of Polymarket (Full roadmap)",
+        "link": "https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Hexabot Introduction: Build AI Workflows That Talk, Act, and Remember",
+        "link": "https://dev.to/marrouchi/hexabot-introduction-build-ai-workflows-that-talk-act-and-remember-3683",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Selecting Your Frontend Foundation: React vs. Next.js",
+        "link": "https://dev.to/hamza_amir/selecting-your-frontend-foundation-react-vs-nextjs-3898",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Escaping the Trap: Fixing Stale Closures in React Hooks ⚡",
+        "link": "https://dev.to/iprajapatiparesh/escaping-the-trap-fixing-stale-closures-in-react-hooks-4gg7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic",
+        "link": "https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-15",
     "formattedDate": "June 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "My Redirects Worked in the Browser. Googlebot Saw Soft 404s.",
         "link": "https://dev.to/henry_dan_81513dd35a2f540/my-redirects-worked-in-the-browser-googlebot-saw-soft-404s-1pl4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "formattedDate": "June 13, 2026",
-    "news": [
-      {
-        "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
-        "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
-        "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Behind the Green Tests: My Honest HNG Internship Experience",
-        "link": "https://dev.to/joyigbonekwu/behind-the-green-tests-my-honest-hng-internship-experience-3hn8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an Open-Source JavaScript Data Grid Because Tables Never Stay Simple",
-        "link": "https://dev.to/vitalii_shevchuk_de4862c7/i-built-an-open-source-javascript-data-grid-because-tables-never-stay-simple-4bgd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel",
-        "link": "https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Localizing a Shopify Customer Account Extension: 42 Languages, One Rails Server, and a Cache That Never Hit",
-        "link": "https://dev.to/hanswys/localizing-a-shopify-customer-account-extension-42-languages-one-rails-server-and-a-cache-that-oh6",
         "source": "Dev.to React"
       },
       {
