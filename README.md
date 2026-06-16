@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How I cut my AWS bill to $0 by moving my backend to the browser (WebAssembly)](https://dev.to/rahul33859111/how-i-cut-my-aws-bill-to-0-by-moving-my-backend-to-the-browser-webassembly-1nkb)
-- [The exact math that made $40,000,000 out of Polymarket (Full roadmap)](https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6)
-- [Hexabot Introduction: Build AI Workflows That Talk, Act, and Remember](https://dev.to/marrouchi/hexabot-introduction-build-ai-workflows-that-talk-act-and-remember-3683)
+- [Wuchale: One Year of Compile-Time i18n](https://dev.to/k1dv5/wuchale-one-year-of-compile-time-i18n-178a)
+- [I built an Aadhaar QR reader that works 100% offline — no server, no data leak](https://dev.to/ptprashanttripathi/i-built-an-aadhaar-qr-reader-that-works-100-offline-no-server-no-data-leak-5dcg)
+- [20 Frontend Starter Templates — React, Vue, Svelte, SolidJS, Webpack, Vite and More](https://dev.to/dsheiko/20-frontend-starter-templates-react-vue-svelte-solidjs-webpack-vite-and-more-1i9h)
 
 #### Dev.to React
 
-- [Selecting Your Frontend Foundation: React vs. Next.js](https://dev.to/hamza_amir/selecting-your-frontend-foundation-react-vs-nextjs-3898)
-- [Escaping the Trap: Fixing Stale Closures in React Hooks ⚡](https://dev.to/iprajapatiparesh/escaping-the-trap-fixing-stale-closures-in-react-hooks-4gg7)
-- [Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic](https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0)
+- [Focus Issues and Refinement Support](https://dev.to/shaynaproductions/focus-issues-and-refinement-support-417l)
+- [Building Real-Time Features with React, FastAPI, and WebSockets](https://dev.to/uaslimcreate/building-real-time-features-with-react-fastapi-and-websockets-p6f)
+- [Building SaaS with React and TanStack Query: A Complete Architecture Guide](https://dev.to/uaslimcreate/building-saas-with-react-and-tanstack-query-a-complete-architecture-guide-203)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 16, 2026",
     "news": [
       {
-        "title": "How I cut my AWS bill to $0 by moving my backend to the browser (WebAssembly)",
-        "link": "https://dev.to/rahul33859111/how-i-cut-my-aws-bill-to-0-by-moving-my-backend-to-the-browser-webassembly-1nkb",
+        "title": "Wuchale: One Year of Compile-Time i18n",
+        "link": "https://dev.to/k1dv5/wuchale-one-year-of-compile-time-i18n-178a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The exact math that made $40,000,000 out of Polymarket (Full roadmap)",
-        "link": "https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6",
+        "title": "I built an Aadhaar QR reader that works 100% offline — no server, no data leak",
+        "link": "https://dev.to/ptprashanttripathi/i-built-an-aadhaar-qr-reader-that-works-100-offline-no-server-no-data-leak-5dcg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Hexabot Introduction: Build AI Workflows That Talk, Act, and Remember",
-        "link": "https://dev.to/marrouchi/hexabot-introduction-build-ai-workflows-that-talk-act-and-remember-3683",
+        "title": "20 Frontend Starter Templates — React, Vue, Svelte, SolidJS, Webpack, Vite and More",
+        "link": "https://dev.to/dsheiko/20-frontend-starter-templates-react-vue-svelte-solidjs-webpack-vite-and-more-1i9h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Selecting Your Frontend Foundation: React vs. Next.js",
-        "link": "https://dev.to/hamza_amir/selecting-your-frontend-foundation-react-vs-nextjs-3898",
+        "title": "Focus Issues and Refinement Support",
+        "link": "https://dev.to/shaynaproductions/focus-issues-and-refinement-support-417l",
         "source": "Dev.to React"
       },
       {
-        "title": "Escaping the Trap: Fixing Stale Closures in React Hooks ⚡",
-        "link": "https://dev.to/iprajapatiparesh/escaping-the-trap-fixing-stale-closures-in-react-hooks-4gg7",
+        "title": "Building Real-Time Features with React, FastAPI, and WebSockets",
+        "link": "https://dev.to/uaslimcreate/building-real-time-features-with-react-fastapi-and-websockets-p6f",
         "source": "Dev.to React"
       },
       {
-        "title": "Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic",
-        "link": "https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0",
+        "title": "Building SaaS with React and TanStack Query: A Complete Architecture Guide",
+        "link": "https://dev.to/uaslimcreate/building-saas-with-react-and-tanstack-query-a-complete-architecture-guide-203",
         "source": "Dev.to React"
       },
       {
