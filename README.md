@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c)
-- [Add rug-pull protection to your Ethereum bot in 5 lines](https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf)
-- [Your MERN CRUD App Works, But Would It Survive Real Users?](https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof)
+- [I built a roguelike whose dungeon master is an LLM running 100% in the browser](https://dev.to/aipredictions_dev/i-built-a-roguelike-whose-dungeon-master-is-an-llm-running-100-in-the-browser-4pke)
+- [Beyond Missing Exports: Building an Early Garbage Collector for Webpack’s TypeDoc AST](https://dev.to/moshams272/beyond-missing-exports-building-an-early-garbage-collector-for-webpacks-typedoc-ast-5ep7)
 
 #### Dev.to React
 
-- [React Internationalization Complete Guide (2026): From Zero to Production-Ready Multilingual Apps](https://dev.to/feidou/react-internationalization-complete-guide-2026-from-zero-to-production-ready-multilingual-apps-4pen)
-- [I Built a Real Weather App With React Native — Same React, Now on Your Phone](https://dev.to/dev48v/i-built-a-real-weather-app-with-react-native-same-react-now-on-your-phone-jm3)
-- [Building SaaS Applications with React and TypeScript: A Complete Guide](https://dev.to/uaslimcreate/building-saas-applications-with-react-and-typescript-a-complete-guide-470)
+- [Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent](https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon)
+- [I Built a Free Expense Tracker Because I Was Terrible With Money](https://dev.to/backend_null/i-built-a-free-expense-tracker-because-i-was-terrible-with-money-4jmo)
+- [I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue](https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
-        "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
+        "title": "I built a roguelike whose dungeon master is an LLM running 100% in the browser",
+        "link": "https://dev.to/aipredictions_dev/i-built-a-roguelike-whose-dungeon-master-is-an-llm-running-100-in-the-browser-4pke",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
-        "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
+        "title": "Beyond Missing Exports: Building an Early Garbage Collector for Webpack’s TypeDoc AST",
+        "link": "https://dev.to/moshams272/beyond-missing-exports-building-an-early-garbage-collector-for-webpacks-typedoc-ast-5ep7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Internationalization Complete Guide (2026): From Zero to Production-Ready Multilingual Apps",
-        "link": "https://dev.to/feidou/react-internationalization-complete-guide-2026-from-zero-to-production-ready-multilingual-apps-4pen",
+        "title": "Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent",
+        "link": "https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Real Weather App With React Native — Same React, Now on Your Phone",
-        "link": "https://dev.to/dev48v/i-built-a-real-weather-app-with-react-native-same-react-now-on-your-phone-jm3",
+        "title": "I Built a Free Expense Tracker Because I Was Terrible With Money",
+        "link": "https://dev.to/backend_null/i-built-a-free-expense-tracker-because-i-was-terrible-with-money-4jmo",
         "source": "Dev.to React"
       },
       {
-        "title": "Building SaaS Applications with React and TypeScript: A Complete Guide",
-        "link": "https://dev.to/uaslimcreate/building-saas-applications-with-react-and-typescript-a-complete-guide-470",
+        "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
+        "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
         "source": "Dev.to React"
       },
       {
