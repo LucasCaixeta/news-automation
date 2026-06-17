@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 16, 2026)
+### Today's Updates (June 17, 2026)
+
+#### Dev.to JavaScript
+
+- [I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c)
+- [Add rug-pull protection to your Ethereum bot in 5 lines](https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf)
+- [Your MERN CRUD App Works, But Would It Survive Real Users?](https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof)
+
+#### Dev.to React
+
+- [React Internationalization Complete Guide (2026): From Zero to Production-Ready Multilingual Apps](https://dev.to/feidou/react-internationalization-complete-guide-2026-from-zero-to-production-ready-multilingual-apps-4pen)
+- [I Built a Real Weather App With React Native — Same React, Now on Your Phone](https://dev.to/dev48v/i-built-a-real-weather-app-with-react-native-same-react-now-on-your-phone-jm3)
+- [Building SaaS Applications with React and TypeScript: A Complete Guide](https://dev.to/uaslimcreate/building-saas-applications-with-react-and-typescript-a-complete-guide-470)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 15, 2026)
+### 2 Days Ago (June 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Server Components in Production: What We Learned After Migrating a Client Dashboard](https://dev.to/paradane/react-server-components-in-production-what-we-learned-after-migrating-a-client-dashboard-2e0g)
 - [Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic](https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0)
 - [I Built a Tailwind CSS Bloat Scanner — Here's What I Found in My Own Code](https://dev.to/aymanabdimohamed/i-built-a-tailwind-css-bloat-scanner-heres-what-i-found-in-my-own-code-2fck)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 14, 2026)
-
-#### Dev.to JavaScript
-
-- [Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥](https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p)
-- [3 Base64 Tricks Every Developer Should Know](https://dev.to/zhihu_wu_dea1d82af01a04d7/3-base64-tricks-every-developer-should-know-25p7)
-- [I Built Minesweeper in ~50 Lines — the Only Hard Part Is Flood-Fill](https://dev.to/dev48v/i-built-minesweeper-in-50-lines-the-only-hard-part-is-flood-fill-1an8)
-
-#### Dev.to React
-
-- [SSR-Safe Internationalization in TanStack Start with i18next](https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k)
-- [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
-- [My Redirects Worked in the Browser. Googlebot Saw Soft 404s.](https://dev.to/henry_dan_81513dd35a2f540/my-redirects-worked-in-the-browser-googlebot-saw-soft-404s-1pl4)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-17",
+    "formattedDate": "June 17, 2026",
+    "news": [
+      {
+        "title": "I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why",
+        "link": "https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
+        "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
+        "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Internationalization Complete Guide (2026): From Zero to Production-Ready Multilingual Apps",
+        "link": "https://dev.to/feidou/react-internationalization-complete-guide-2026-from-zero-to-production-ready-multilingual-apps-4pen",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Real Weather App With React Native — Same React, Now on Your Phone",
+        "link": "https://dev.to/dev48v/i-built-a-real-weather-app-with-react-native-same-react-now-on-your-phone-jm3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building SaaS Applications with React and TypeScript: A Complete Guide",
+        "link": "https://dev.to/uaslimcreate/building-saas-applications-with-react-and-typescript-a-complete-guide-470",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-16",
     "formattedDate": "June 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Tailwind CSS Bloat Scanner — Here's What I Found in My Own Code",
         "link": "https://dev.to/aymanabdimohamed/i-built-a-tailwind-css-bloat-scanner-heres-what-i-found-in-my-own-code-2fck",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-14",
-    "formattedDate": "June 14, 2026",
-    "news": [
-      {
-        "title": "Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥",
-        "link": "https://dev.to/fvds/building-an-interactive-festa-junina-with-vanilla-js-4d4p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "3 Base64 Tricks Every Developer Should Know",
-        "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/3-base64-tricks-every-developer-should-know-25p7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built Minesweeper in ~50 Lines — the Only Hard Part Is Flood-Fill",
-        "link": "https://dev.to/dev48v/i-built-minesweeper-in-50-lines-the-only-hard-part-is-flood-fill-1an8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "SSR-Safe Internationalization in TanStack Start with i18next",
-        "link": "https://dev.to/ookamiiixd/ssr-safe-internationalization-in-tanstack-start-with-i18next-3o1k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What I learned building a take-home pay calculator for all 50 US states",
-        "link": "https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My Redirects Worked in the Browser. Googlebot Saw Soft 404s.",
-        "link": "https://dev.to/henry_dan_81513dd35a2f540/my-redirects-worked-in-the-browser-googlebot-saw-soft-404s-1pl4",
         "source": "Dev.to React"
       },
       {
