@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c)
-- [Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step](https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p)
+- [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
+- [Codewars did not teach me JavaScript. My job did.](https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k)
 
 #### Dev.to React
 
 - [Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications](https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59)
-- [I built a free AI nutrition tracker as a solo dev — here's what I learned](https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29)
-- [Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed)
+- [Next.js 15 Error Handling: error.tsx, Server Actions, and Sentry (2026)](https://dev.to/stacknotice/nextjs-15-error-handling-errortsx-server-actions-and-sentry-2026-ej1)
+- [Are UI Component Libraries Becoming a Liability for Long-Term React Native Projects?](https://dev.to/haleyy/are-ui-component-libraries-becoming-a-liability-for-long-term-react-native-projects-5g8b)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why",
-        "link": "https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c",
+        "title": "How to Read a webrtc-internals Dump, Section by Section",
+        "link": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
-        "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+        "title": "Codewars did not teach me JavaScript. My job did.",
+        "link": "https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
-        "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
+        "title": "Next.js 15 Error Handling: error.tsx, Server Actions, and Sentry (2026)",
+        "link": "https://dev.to/stacknotice/nextjs-15-error-handling-errortsx-server-actions-and-sentry-2026-ej1",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
-        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
+        "title": "Are UI Component Libraries Becoming a Liability for Long-Term React Native Projects?",
+        "link": "https://dev.to/haleyy/are-ui-component-libraries-becoming-a-liability-for-long-term-react-native-projects-5g8b",
         "source": "Dev.to React"
       },
       {
