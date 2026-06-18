@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 17, 2026)
+### Today's Updates (June 18, 2026)
+
+#### Dev.to JavaScript
+
+- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
+- [I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c)
+- [Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step](https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p)
+
+#### Dev.to React
+
+- [Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications](https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59)
+- [I built a free AI nutrition tracker as a solo dev — here's what I learned](https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29)
+- [Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 16, 2026)
+### 2 Days Ago (June 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Focus Issues and Refinement Support](https://dev.to/shaynaproductions/focus-issues-and-refinement-support-417l)
 - [Building Real-Time Features with React, FastAPI, and WebSockets](https://dev.to/uaslimcreate/building-real-time-features-with-react-fastapi-and-websockets-p6f)
 - [Building SaaS with React and TanStack Query: A Complete Architecture Guide](https://dev.to/uaslimcreate/building-saas-with-react-and-tanstack-query-a-complete-architecture-guide-203)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 15, 2026)
-
-#### Dev.to JavaScript
-
-- [android doze kills your react native background tasks--here's why and how to fix it](https://dev.to/srahman0203/android-doze-kills-your-react-native-background-tasks-heres-why-and-how-to-fix-it-2299)
-- [Your Next.js API Route Is Leaking Diagnostics in Its 400 Responses](https://dev.to/oopssec-store/your-nextjs-api-route-is-leaking-diagnostics-in-its-400-responses-1d4l)
-- [I built a 1:1 solar system with Fable 5 in the days before it was pulled offline](https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni)
-
-#### Dev.to React
-
-- [React Server Components in Production: What We Learned After Migrating a Client Dashboard](https://dev.to/paradane/react-server-components-in-production-what-we-learned-after-migrating-a-client-dashboard-2e0g)
-- [Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic](https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0)
-- [I Built a Tailwind CSS Bloat Scanner — Here's What I Found in My Own Code](https://dev.to/aymanabdimohamed/i-built-a-tailwind-css-bloat-scanner-heres-what-i-found-in-my-own-code-2fck)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-18",
+    "formattedDate": "June 18, 2026",
+    "news": [
+      {
+        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why",
+        "link": "https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
+        "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
+        "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
+        "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
+        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-17",
     "formattedDate": "June 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building SaaS with React and TanStack Query: A Complete Architecture Guide",
         "link": "https://dev.to/uaslimcreate/building-saas-with-react-and-tanstack-query-a-complete-architecture-guide-203",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-15",
-    "formattedDate": "June 15, 2026",
-    "news": [
-      {
-        "title": "android doze kills your react native background tasks--here's why and how to fix it",
-        "link": "https://dev.to/srahman0203/android-doze-kills-your-react-native-background-tasks-heres-why-and-how-to-fix-it-2299",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Next.js API Route Is Leaking Diagnostics in Its 400 Responses",
-        "link": "https://dev.to/oopssec-store/your-nextjs-api-route-is-leaking-diagnostics-in-its-400-responses-1d4l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a 1:1 solar system with Fable 5 in the days before it was pulled offline",
-        "link": "https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Server Components in Production: What We Learned After Migrating a Client Dashboard",
-        "link": "https://dev.to/paradane/react-server-components-in-production-what-we-learned-after-migrating-a-client-dashboard-2e0g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building PWAs: My “Neo‑In‑The‑Matrix” Quest for Offline‑First Magic",
-        "link": "https://dev.to/timevolt/building-pwas-my-neo-in-the-matrix-quest-for-offline-first-magic-4ie0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Tailwind CSS Bloat Scanner — Here's What I Found in My Own Code",
-        "link": "https://dev.to/aymanabdimohamed/i-built-a-tailwind-css-bloat-scanner-heres-what-i-found-in-my-own-code-2fck",
         "source": "Dev.to React"
       },
       {
