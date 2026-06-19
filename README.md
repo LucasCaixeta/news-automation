@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 18, 2026)
+### Today's Updates (June 19, 2026)
+
+#### Dev.to JavaScript
+
+- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
+- [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
+- [We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.](https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef)
+
+#### Dev.to React
+
+- [We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.](https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef)
+- [How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)](https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30)
+- [Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React](https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 17, 2026)
+### 2 Days Ago (June 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent](https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon)
 - [I Built a Free Expense Tracker Because I Was Terrible With Money](https://dev.to/backend_null/i-built-a-free-expense-tracker-because-i-was-terrible-with-money-4jmo)
 - [I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue](https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 16, 2026)
-
-#### Dev.to JavaScript
-
-- [Wuchale: One Year of Compile-Time i18n](https://dev.to/k1dv5/wuchale-one-year-of-compile-time-i18n-178a)
-- [I built an Aadhaar QR reader that works 100% offline — no server, no data leak](https://dev.to/ptprashanttripathi/i-built-an-aadhaar-qr-reader-that-works-100-offline-no-server-no-data-leak-5dcg)
-- [20 Frontend Starter Templates — React, Vue, Svelte, SolidJS, Webpack, Vite and More](https://dev.to/dsheiko/20-frontend-starter-templates-react-vue-svelte-solidjs-webpack-vite-and-more-1i9h)
-
-#### Dev.to React
-
-- [Focus Issues and Refinement Support](https://dev.to/shaynaproductions/focus-issues-and-refinement-support-417l)
-- [Building Real-Time Features with React, FastAPI, and WebSockets](https://dev.to/uaslimcreate/building-real-time-features-with-react-fastapi-and-websockets-p6f)
-- [Building SaaS with React and TanStack Query: A Complete Architecture Guide](https://dev.to/uaslimcreate/building-saas-with-react-and-tanstack-query-a-complete-architecture-guide-203)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-19",
+    "formattedDate": "June 19, 2026",
+    "news": [
+      {
+        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Read a webrtc-internals Dump, Section by Section",
+        "link": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+        "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+        "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
+        "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
+        "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-18",
     "formattedDate": "June 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
         "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-16",
-    "formattedDate": "June 16, 2026",
-    "news": [
-      {
-        "title": "Wuchale: One Year of Compile-Time i18n",
-        "link": "https://dev.to/k1dv5/wuchale-one-year-of-compile-time-i18n-178a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built an Aadhaar QR reader that works 100% offline — no server, no data leak",
-        "link": "https://dev.to/ptprashanttripathi/i-built-an-aadhaar-qr-reader-that-works-100-offline-no-server-no-data-leak-5dcg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "20 Frontend Starter Templates — React, Vue, Svelte, SolidJS, Webpack, Vite and More",
-        "link": "https://dev.to/dsheiko/20-frontend-starter-templates-react-vue-svelte-solidjs-webpack-vite-and-more-1i9h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Focus Issues and Refinement Support",
-        "link": "https://dev.to/shaynaproductions/focus-issues-and-refinement-support-417l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Real-Time Features with React, FastAPI, and WebSockets",
-        "link": "https://dev.to/uaslimcreate/building-real-time-features-with-react-fastapi-and-websockets-p6f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building SaaS with React and TanStack Query: A Complete Architecture Guide",
-        "link": "https://dev.to/uaslimcreate/building-saas-with-react-and-tanstack-query-a-complete-architecture-guide-203",
         "source": "Dev.to React"
       },
       {
