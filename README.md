@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
-- [We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.](https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef)
+- [Understanding Prisma and Sql — Relationships, Schema, and Querying](https://dev.to/chinwuba_jeffrey/understanding-prisma-and-sql-relationships-schema-and-querying-l7k)
+- [I Built an AI Text Detector from Scratch — Here's What I Learned About Doing It the Hard Way First](https://dev.to/getinfotoyou/i-built-an-ai-text-detector-from-scratch-heres-what-i-learned-about-doing-it-the-hard-way-first-1p09)
 
 #### Dev.to React
 
-- [We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.](https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef)
+- [TypeScript Utility Types: The Complete Guide (2026)](https://dev.to/stacknotice/typescript-utility-types-the-complete-guide-2026-9li)
+- [Cómo solucionar el bucle infinito en useEffect con objetos y arrays](https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-4pc5)
 - [How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)](https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30)
-- [Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React](https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Read a webrtc-internals Dump, Section by Section",
-        "link": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
+        "title": "Understanding Prisma and Sql — Relationships, Schema, and Querying",
+        "link": "https://dev.to/chinwuba_jeffrey/understanding-prisma-and-sql-relationships-schema-and-querying-l7k",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
-        "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+        "title": "I Built an AI Text Detector from Scratch — Here's What I Learned About Doing It the Hard Way First",
+        "link": "https://dev.to/getinfotoyou/i-built-an-ai-text-detector-from-scratch-heres-what-i-learned-about-doing-it-the-hard-way-first-1p09",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
-        "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+        "title": "TypeScript Utility Types: The Complete Guide (2026)",
+        "link": "https://dev.to/stacknotice/typescript-utility-types-the-complete-guide-2026-9li",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cómo solucionar el bucle infinito en useEffect con objetos y arrays",
+        "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-4pc5",
         "source": "Dev.to React"
       },
       {
         "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
         "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
-        "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
         "source": "Dev.to React"
       },
       {
