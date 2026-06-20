@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [Building Privacy-First Bioinformatics Tools in the Browser: A Technical Deep Dive](https://dev.to/seqbench/building-privacy-first-bioinformatics-tools-in-the-browser-a-technical-deep-dive-1j3j)
-- [Passkeys in 2026: A Practical Engineering Guide to Passwordless Auth](https://dev.to/moksh/passkeys-in-2026-a-practical-engineering-guide-to-passwordless-auth-15pj)
+- [I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated](https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db)
+- [Australian ABN validation for SaaS developers](https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp)
 
 #### Dev.to React
 
-- [HireHub: Launch Your Own Job Board Platform Without Spending Months on Development](https://dev.to/myogeshchavan97/hirehub-launch-your-own-job-board-platform-without-spending-months-on-development-54g)
-- [Migrating Ekehi from Vanilla JS to a TypeScript Stack](https://dev.to/aj1732/migrating-ekehi-from-vanilla-js-to-a-typescript-stack-16nm)
-- [The CSS-in-JS Penalty: Zero-Runtime Styling in React ⚡](https://dev.to/iprajapatiparesh/the-css-in-js-penalty-zero-runtime-styling-in-react-n2h)
+- [I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated](https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db)
+- [Security Pitfalls in React Apps I Learned the Hard Way](https://dev.to/adhikareeprayush/security-pitfalls-in-react-apps-i-learned-the-hard-way-56e0)
+- [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building Privacy-First Bioinformatics Tools in the Browser: A Technical Deep Dive",
-        "link": "https://dev.to/seqbench/building-privacy-first-bioinformatics-tools-in-the-browser-a-technical-deep-dive-1j3j",
+        "title": "I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated",
+        "link": "https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Passkeys in 2026: A Practical Engineering Guide to Passwordless Auth",
-        "link": "https://dev.to/moksh/passkeys-in-2026-a-practical-engineering-guide-to-passwordless-auth-15pj",
+        "title": "Australian ABN validation for SaaS developers",
+        "link": "https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "HireHub: Launch Your Own Job Board Platform Without Spending Months on Development",
-        "link": "https://dev.to/myogeshchavan97/hirehub-launch-your-own-job-board-platform-without-spending-months-on-development-54g",
+        "title": "I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated",
+        "link": "https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db",
         "source": "Dev.to React"
       },
       {
-        "title": "Migrating Ekehi from Vanilla JS to a TypeScript Stack",
-        "link": "https://dev.to/aj1732/migrating-ekehi-from-vanilla-js-to-a-typescript-stack-16nm",
+        "title": "Security Pitfalls in React Apps I Learned the Hard Way",
+        "link": "https://dev.to/adhikareeprayush/security-pitfalls-in-react-apps-i-learned-the-hard-way-56e0",
         "source": "Dev.to React"
       },
       {
-        "title": "The CSS-in-JS Penalty: Zero-Runtime Styling in React ⚡",
-        "link": "https://dev.to/iprajapatiparesh/the-css-in-js-penalty-zero-runtime-styling-in-react-n2h",
+        "title": "Building Velodrome: A Real-Time Multiplayer Typing Race Game",
+        "link": "https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i",
         "source": "Dev.to React"
       },
       {
