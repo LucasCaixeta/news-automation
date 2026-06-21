@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 20, 2026)
+### Today's Updates (June 21, 2026)
+
+#### Dev.to JavaScript
+
+- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
+- [When an AI Agent Joins Your Yjs Room, Three Assumptions Break](https://dev.to/norfolkd/when-an-ai-agent-joins-your-yjs-room-three-assumptions-break-50h8)
+- [Show OS: Universal Uploader – Zero-dependency, stream-based file uploading with transparent XHR fallback](https://dev.to/hj_rr_54c6382012a2bb57813/show-os-universal-uploader-zero-dependency-stream-based-file-uploading-with-transparent-xhr-162g)
+
+#### Dev.to React
+
+- [Mastering Focus Management in React 19: Solving the Single-Page Application Routing Gap for WCAG 2.1 and EN 301 549 Compliance](https://dev.to/priya_nair/mastering-focus-management-in-react-19-solving-the-single-page-application-routing-gap-for-wcag-3dfi)
+- [Building a Dark Mode System in Next.js App Router — Without Layout Flash](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-dark-mode-system-in-nextjs-app-router-without-layout-flash-5gf9)
+- [Stop Race Conditions: React AbortControllers ⚡](https://dev.to/iprajapatiparesh/stop-race-conditions-react-abortcontrollers-2899)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 19, 2026)
+### 2 Days Ago (June 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TypeScript Utility Types: The Complete Guide (2026)](https://dev.to/stacknotice/typescript-utility-types-the-complete-guide-2026-9li)
 - [Cómo solucionar el bucle infinito en useEffect con objetos y arrays](https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-4pc5)
 - [How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)](https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 18, 2026)
-
-#### Dev.to JavaScript
-
-- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [How to Read a webrtc-internals Dump, Section by Section](https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a)
-- [Codewars did not teach me JavaScript. My job did.](https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k)
-
-#### Dev.to React
-
-- [Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications](https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59)
-- [Next.js 15 Error Handling: error.tsx, Server Actions, and Sentry (2026)](https://dev.to/stacknotice/nextjs-15-error-handling-errortsx-server-actions-and-sentry-2026-ej1)
-- [Are UI Component Libraries Becoming a Liability for Long-Term React Native Projects?](https://dev.to/haleyy/are-ui-component-libraries-becoming-a-liability-for-long-term-react-native-projects-5g8b)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-21",
+    "formattedDate": "June 21, 2026",
+    "news": [
+      {
+        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "When an AI Agent Joins Your Yjs Room, Three Assumptions Break",
+        "link": "https://dev.to/norfolkd/when-an-ai-agent-joins-your-yjs-room-three-assumptions-break-50h8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Show OS: Universal Uploader – Zero-dependency, stream-based file uploading with transparent XHR fallback",
+        "link": "https://dev.to/hj_rr_54c6382012a2bb57813/show-os-universal-uploader-zero-dependency-stream-based-file-uploading-with-transparent-xhr-162g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Mastering Focus Management in React 19: Solving the Single-Page Application Routing Gap for WCAG 2.1 and EN 301 549 Compliance",
+        "link": "https://dev.to/priya_nair/mastering-focus-management-in-react-19-solving-the-single-page-application-routing-gap-for-wcag-3dfi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Dark Mode System in Next.js App Router — Without Layout Flash",
+        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-dark-mode-system-in-nextjs-app-router-without-layout-flash-5gf9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Race Conditions: React AbortControllers ⚡",
+        "link": "https://dev.to/iprajapatiparesh/stop-race-conditions-react-abortcontrollers-2899",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-20",
     "formattedDate": "June 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
         "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-18",
-    "formattedDate": "June 18, 2026",
-    "news": [
-      {
-        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
-        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Read a webrtc-internals Dump, Section by Section",
-        "link": "https://dev.to/tsahil/how-to-read-a-webrtc-internals-dump-section-by-section-598a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Codewars did not teach me JavaScript. My job did.",
-        "link": "https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
-        "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js 15 Error Handling: error.tsx, Server Actions, and Sentry (2026)",
-        "link": "https://dev.to/stacknotice/nextjs-15-error-handling-errortsx-server-actions-and-sentry-2026-ej1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Are UI Component Libraries Becoming a Liability for Long-Term React Native Projects?",
-        "link": "https://dev.to/haleyy/are-ui-component-libraries-becoming-a-liability-for-long-term-react-native-projects-5g8b",
         "source": "Dev.to React"
       },
       {
