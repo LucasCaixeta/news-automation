@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [When an AI Agent Joins Your Yjs Room, Three Assumptions Break](https://dev.to/norfolkd/when-an-ai-agent-joins-your-yjs-room-three-assumptions-break-50h8)
-- [Show OS: Universal Uploader – Zero-dependency, stream-based file uploading with transparent XHR fallback](https://dev.to/hj_rr_54c6382012a2bb57813/show-os-universal-uploader-zero-dependency-stream-based-file-uploading-with-transparent-xhr-162g)
+- [SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)](https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm)
+- [Reverse once, run forever: designing client-side defenses that assume the attacker has already read every line](https://dev.to/trustsig/reverse-once-run-forever-designing-client-side-defenses-that-assume-the-attacker-has-already-read-1ilg)
 
 #### Dev.to React
 
-- [Mastering Focus Management in React 19: Solving the Single-Page Application Routing Gap for WCAG 2.1 and EN 301 549 Compliance](https://dev.to/priya_nair/mastering-focus-management-in-react-19-solving-the-single-page-application-routing-gap-for-wcag-3dfi)
-- [Building a Dark Mode System in Next.js App Router — Without Layout Flash](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-dark-mode-system-in-nextjs-app-router-without-layout-flash-5gf9)
-- [Stop Race Conditions: React AbortControllers ⚡](https://dev.to/iprajapatiparesh/stop-race-conditions-react-abortcontrollers-2899)
+- [React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams](https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2)
+- [Cloudflare Pages Blank Page? The index.txt Trap with Next.js Static Export](https://dev.to/utlkit/cloudflare-pages-blank-page-the-indextxt-trap-with-nextjs-static-export-3g7n)
+- [What I learned refactoring a codebase with a 7,558-line constants file"](https://dev.to/raviraj_jariwala/what-i-learned-refactoring-a-codebase-with-a-7558-line-constants-file-2abg)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "When an AI Agent Joins Your Yjs Room, Three Assumptions Break",
-        "link": "https://dev.to/norfolkd/when-an-ai-agent-joins-your-yjs-room-three-assumptions-break-50h8",
+        "title": "SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)",
+        "link": "https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Show OS: Universal Uploader – Zero-dependency, stream-based file uploading with transparent XHR fallback",
-        "link": "https://dev.to/hj_rr_54c6382012a2bb57813/show-os-universal-uploader-zero-dependency-stream-based-file-uploading-with-transparent-xhr-162g",
+        "title": "Reverse once, run forever: designing client-side defenses that assume the attacker has already read every line",
+        "link": "https://dev.to/trustsig/reverse-once-run-forever-designing-client-side-defenses-that-assume-the-attacker-has-already-read-1ilg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Mastering Focus Management in React 19: Solving the Single-Page Application Routing Gap for WCAG 2.1 and EN 301 549 Compliance",
-        "link": "https://dev.to/priya_nair/mastering-focus-management-in-react-19-solving-the-single-page-application-routing-gap-for-wcag-3dfi",
+        "title": "React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams",
+        "link": "https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Dark Mode System in Next.js App Router — Without Layout Flash",
-        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-dark-mode-system-in-nextjs-app-router-without-layout-flash-5gf9",
+        "title": "Cloudflare Pages Blank Page? The index.txt Trap with Next.js Static Export",
+        "link": "https://dev.to/utlkit/cloudflare-pages-blank-page-the-indextxt-trap-with-nextjs-static-export-3g7n",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Race Conditions: React AbortControllers ⚡",
-        "link": "https://dev.to/iprajapatiparesh/stop-race-conditions-react-abortcontrollers-2899",
+        "title": "What I learned refactoring a codebase with a 7,558-line constants file\"",
+        "link": "https://dev.to/raviraj_jariwala/what-i-learned-refactoring-a-codebase-with-a-7558-line-constants-file-2abg",
         "source": "Dev.to React"
       },
       {
