@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 21, 2026)
+### Today's Updates (June 22, 2026)
+
+#### Dev.to JavaScript
+
+- [SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)](https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm)
+- [When Render No Longer Owns the Entire Data Flow](https://dev.to/luciano0322/when-render-no-longer-owns-the-entire-data-flow-20co)
+- [I built a tool that catches leaked secrets before `npm publish` — then GitHub caught mine](https://dev.to/creativeartbd/i-built-a-tool-that-catches-leaked-secrets-before-npm-publish-then-github-caught-mine-can)
+
+#### Dev.to React
+
+- [What AI Still Misses in Production Next.js Apps](https://dev.to/femi_akinyemi/what-ai-still-misses-in-production-nextjs-apps-pcg)
+- [The RSC Payload Trap: Thinning Next.js Component Props ⚡](https://dev.to/iprajapatiparesh/the-rsc-payload-trap-thinning-nextjs-component-props-44oi)
+- [The Matrix of Real-Time: Building WebSocket Apps for Chat, Notifications, and Live Updates](https://dev.to/timevolt/the-matrix-of-real-time-building-websocket-apps-for-chat-notifications-and-live-updates-3ja1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 20, 2026)
+### 2 Days Ago (June 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated](https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db)
 - [Security Pitfalls in React Apps I Learned the Hard Way](https://dev.to/adhikareeprayush/security-pitfalls-in-react-apps-i-learned-the-hard-way-56e0)
 - [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 19, 2026)
-
-#### Dev.to JavaScript
-
-- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [Understanding Prisma and Sql — Relationships, Schema, and Querying](https://dev.to/chinwuba_jeffrey/understanding-prisma-and-sql-relationships-schema-and-querying-l7k)
-- [I Built an AI Text Detector from Scratch — Here's What I Learned About Doing It the Hard Way First](https://dev.to/getinfotoyou/i-built-an-ai-text-detector-from-scratch-heres-what-i-learned-about-doing-it-the-hard-way-first-1p09)
-
-#### Dev.to React
-
-- [TypeScript Utility Types: The Complete Guide (2026)](https://dev.to/stacknotice/typescript-utility-types-the-complete-guide-2026-9li)
-- [Cómo solucionar el bucle infinito en useEffect con objetos y arrays](https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-4pc5)
-- [How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)](https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-22",
+    "formattedDate": "June 22, 2026",
+    "news": [
+      {
+        "title": "SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)",
+        "link": "https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "When Render No Longer Owns the Entire Data Flow",
+        "link": "https://dev.to/luciano0322/when-render-no-longer-owns-the-entire-data-flow-20co",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a tool that catches leaked secrets before `npm publish` — then GitHub caught mine",
+        "link": "https://dev.to/creativeartbd/i-built-a-tool-that-catches-leaked-secrets-before-npm-publish-then-github-caught-mine-can",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What AI Still Misses in Production Next.js Apps",
+        "link": "https://dev.to/femi_akinyemi/what-ai-still-misses-in-production-nextjs-apps-pcg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The RSC Payload Trap: Thinning Next.js Component Props ⚡",
+        "link": "https://dev.to/iprajapatiparesh/the-rsc-payload-trap-thinning-nextjs-component-props-44oi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Matrix of Real-Time: Building WebSocket Apps for Chat, Notifications, and Live Updates",
+        "link": "https://dev.to/timevolt/the-matrix-of-real-time-building-websocket-apps-for-chat-notifications-and-live-updates-3ja1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-21",
     "formattedDate": "June 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building Velodrome: A Real-Time Multiplayer Typing Race Game",
         "link": "https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "formattedDate": "June 19, 2026",
-    "news": [
-      {
-        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
-        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Understanding Prisma and Sql — Relationships, Schema, and Querying",
-        "link": "https://dev.to/chinwuba_jeffrey/understanding-prisma-and-sql-relationships-schema-and-querying-l7k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an AI Text Detector from Scratch — Here's What I Learned About Doing It the Hard Way First",
-        "link": "https://dev.to/getinfotoyou/i-built-an-ai-text-detector-from-scratch-heres-what-i-learned-about-doing-it-the-hard-way-first-1p09",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript Utility Types: The Complete Guide (2026)",
-        "link": "https://dev.to/stacknotice/typescript-utility-types-the-complete-guide-2026-9li",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Cómo solucionar el bucle infinito en useEffect con objetos y arrays",
-        "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-4pc5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
-        "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
         "source": "Dev.to React"
       },
       {
