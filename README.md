@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)](https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm)
-- [When Render No Longer Owns the Entire Data Flow](https://dev.to/luciano0322/when-render-no-longer-owns-the-entire-data-flow-20co)
-- [I built a tool that catches leaked secrets before `npm publish` — then GitHub caught mine](https://dev.to/creativeartbd/i-built-a-tool-that-catches-leaked-secrets-before-npm-publish-then-github-caught-mine-can)
+- [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm)
+- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
+- [I got tired of rewriting the same AI boilerplate so I built a library to fix it](https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8)
 
 #### Dev.to React
 
-- [What AI Still Misses in Production Next.js Apps](https://dev.to/femi_akinyemi/what-ai-still-misses-in-production-nextjs-apps-pcg)
-- [The RSC Payload Trap: Thinning Next.js Component Props ⚡](https://dev.to/iprajapatiparesh/the-rsc-payload-trap-thinning-nextjs-component-props-44oi)
-- [The Matrix of Real-Time: Building WebSocket Apps for Chat, Notifications, and Live Updates](https://dev.to/timevolt/the-matrix-of-real-time-building-websocket-apps-for-chat-notifications-and-live-updates-3ja1)
+- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
+- [I got tired of rewriting the same AI boilerplate so I built a library to fix it](https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8)
+- [Form drafts that survive a closed tab — and the 5 bugs everyone ships first](https://dev.to/mzsleepyzzz/form-drafts-that-survive-a-closed-tab-and-the-5-bugs-everyone-ships-first-5aic)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 22, 2026",
     "news": [
       {
-        "title": "SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)",
-        "link": "https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm",
+        "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
+        "link": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "When Render No Longer Owns the Entire Data Flow",
-        "link": "https://dev.to/luciano0322/when-render-no-longer-owns-the-entire-data-flow-20co",
+        "title": "🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements",
+        "link": "https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a tool that catches leaked secrets before `npm publish` — then GitHub caught mine",
-        "link": "https://dev.to/creativeartbd/i-built-a-tool-that-catches-leaked-secrets-before-npm-publish-then-github-caught-mine-can",
+        "title": "I got tired of rewriting the same AI boilerplate so I built a library to fix it",
+        "link": "https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What AI Still Misses in Production Next.js Apps",
-        "link": "https://dev.to/femi_akinyemi/what-ai-still-misses-in-production-nextjs-apps-pcg",
+        "title": "🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements",
+        "link": "https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61",
         "source": "Dev.to React"
       },
       {
-        "title": "The RSC Payload Trap: Thinning Next.js Component Props ⚡",
-        "link": "https://dev.to/iprajapatiparesh/the-rsc-payload-trap-thinning-nextjs-component-props-44oi",
+        "title": "I got tired of rewriting the same AI boilerplate so I built a library to fix it",
+        "link": "https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8",
         "source": "Dev.to React"
       },
       {
-        "title": "The Matrix of Real-Time: Building WebSocket Apps for Chat, Notifications, and Live Updates",
-        "link": "https://dev.to/timevolt/the-matrix-of-real-time-building-websocket-apps-for-chat-notifications-and-live-updates-3ja1",
+        "title": "Form drafts that survive a closed tab — and the 5 bugs everyone ships first",
+        "link": "https://dev.to/mzsleepyzzz/form-drafts-that-survive-a-closed-tab-and-the-5-bugs-everyone-ships-first-5aic",
         "source": "Dev.to React"
       },
       {
