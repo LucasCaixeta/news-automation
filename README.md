@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 22, 2026)
+### Today's Updates (June 23, 2026)
+
+#### Dev.to JavaScript
+
+- [Optimizing Next.js App Router for Core Web Vitals — A Practical Guide](https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if)
+- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-3891)
+- [Convert Word and Excel to PDF in the browser (no server, no upload)](https://dev.to/omermirza09/convert-word-and-excel-to-pdf-in-the-browser-no-server-no-upload-3aal)
+
+#### Dev.to React
+
+- [React in Production — Ship It, Monitor It, Sleep at Night](https://dev.to/kushang_tailor/react-in-production-ship-it-monitor-it-sleep-at-night-4le)
+- [React Performance Optimization: Beyond Code Splitting](https://dev.to/uaslimcreate/react-performance-optimization-beyond-code-splitting-4178)
+- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 21, 2026)
+### 2 Days Ago (June 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams](https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2)
 - [Cloudflare Pages Blank Page? The index.txt Trap with Next.js Static Export](https://dev.to/utlkit/cloudflare-pages-blank-page-the-indextxt-trap-with-nextjs-static-export-3g7n)
 - [What I learned refactoring a codebase with a 7,558-line constants file"](https://dev.to/raviraj_jariwala/what-i-learned-refactoring-a-codebase-with-a-7558-line-constants-file-2abg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 20, 2026)
-
-#### Dev.to JavaScript
-
-- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated](https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db)
-- [Australian ABN validation for SaaS developers](https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp)
-
-#### Dev.to React
-
-- [I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated](https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db)
-- [Security Pitfalls in React Apps I Learned the Hard Way](https://dev.to/adhikareeprayush/security-pitfalls-in-react-apps-i-learned-the-hard-way-56e0)
-- [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-23",
+    "formattedDate": "June 23, 2026",
+    "news": [
+      {
+        "title": "Optimizing Next.js App Router for Core Web Vitals — A Practical Guide",
+        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr",
+        "link": "https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-3891",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Convert Word and Excel to PDF in the browser (no server, no upload)",
+        "link": "https://dev.to/omermirza09/convert-word-and-excel-to-pdf-in-the-browser-no-server-no-upload-3aal",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React in Production — Ship It, Monitor It, Sleep at Night",
+        "link": "https://dev.to/kushang_tailor/react-in-production-ship-it-monitor-it-sleep-at-night-4le",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Performance Optimization: Beyond Code Splitting",
+        "link": "https://dev.to/uaslimcreate/react-performance-optimization-beyond-code-splitting-4178",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements",
+        "link": "https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-22",
     "formattedDate": "June 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "What I learned refactoring a codebase with a 7,558-line constants file\"",
         "link": "https://dev.to/raviraj_jariwala/what-i-learned-refactoring-a-codebase-with-a-7558-line-constants-file-2abg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "formattedDate": "June 20, 2026",
-    "news": [
-      {
-        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
-        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated",
-        "link": "https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Australian ABN validation for SaaS developers",
-        "link": "https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Neural Network You Can Watch Train — Forward Pass, Loss, and Backprop, Animated",
-        "link": "https://dev.to/amargul/i-built-a-neural-network-you-can-watch-train-forward-pass-loss-and-backprop-animated-45db",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Security Pitfalls in React Apps I Learned the Hard Way",
-        "link": "https://dev.to/adhikareeprayush/security-pitfalls-in-react-apps-i-learned-the-hard-way-56e0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Velodrome: A Real-Time Multiplayer Typing Race Game",
-        "link": "https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i",
         "source": "Dev.to React"
       },
       {
