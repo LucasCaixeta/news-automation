@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Optimizing Next.js App Router for Core Web Vitals — A Practical Guide](https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if)
-- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-3891)
-- [Convert Word and Excel to PDF in the browser (no server, no upload)](https://dev.to/omermirza09/convert-word-and-excel-to-pdf-in-the-browser-no-server-no-upload-3aal)
+- [The Node.js Mistake That Cost My Client $3,000 in AWS Bills](https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5)
+- [10 Cool CodePen Demos (May 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2026-42ni)
+- [Render any font to a crisp SVG path in the browser with opentype.js](https://dev.to/fontbox/render-any-font-to-a-crisp-svg-path-in-the-browser-with-opentypejs-24j4)
 
 #### Dev.to React
 
-- [React in Production — Ship It, Monitor It, Sleep at Night](https://dev.to/kushang_tailor/react-in-production-ship-it-monitor-it-sleep-at-night-4le)
-- [React Performance Optimization: Beyond Code Splitting](https://dev.to/uaslimcreate/react-performance-optimization-beyond-code-splitting-4178)
-- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
+- [Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images](https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6)
+- [How We Built an AI-Powered Career RPG Quest for the YouthCodeX Hackathon 🚀🎮](https://dev.to/divinefavour1234567/how-we-built-an-ai-powered-career-rpg-quest-for-the-youthcodex-hackathon-bk7)
+- [Your AI isn't too weak. Your evals are missing.](https://dev.to/adrianszablowski/your-ai-isnt-too-weak-your-evals-are-missing-3apg)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 23, 2026",
     "news": [
       {
-        "title": "Optimizing Next.js App Router for Core Web Vitals — A Practical Guide",
-        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/optimizing-nextjs-app-router-for-core-web-vitals-a-practical-guide-11if",
+        "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
+        "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr",
-        "link": "https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-3891",
+        "title": "10 Cool CodePen Demos (May 2026)",
+        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2026-42ni",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Convert Word and Excel to PDF in the browser (no server, no upload)",
-        "link": "https://dev.to/omermirza09/convert-word-and-excel-to-pdf-in-the-browser-no-server-no-upload-3aal",
+        "title": "Render any font to a crisp SVG path in the browser with opentype.js",
+        "link": "https://dev.to/fontbox/render-any-font-to-a-crisp-svg-path-in-the-browser-with-opentypejs-24j4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React in Production — Ship It, Monitor It, Sleep at Night",
-        "link": "https://dev.to/kushang_tailor/react-in-production-ship-it-monitor-it-sleep-at-night-4le",
+        "title": "Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images",
+        "link": "https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6",
         "source": "Dev.to React"
       },
       {
-        "title": "React Performance Optimization: Beyond Code Splitting",
-        "link": "https://dev.to/uaslimcreate/react-performance-optimization-beyond-code-splitting-4178",
+        "title": "How We Built an AI-Powered Career RPG Quest for the YouthCodeX Hackathon 🚀🎮",
+        "link": "https://dev.to/divinefavour1234567/how-we-built-an-ai-powered-career-rpg-quest-for-the-youthcodex-hackathon-bk7",
         "source": "Dev.to React"
       },
       {
-        "title": "🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements",
-        "link": "https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61",
+        "title": "Your AI isn't too weak. Your evals are missing.",
+        "link": "https://dev.to/adrianszablowski/your-ai-isnt-too-weak-your-evals-are-missing-3apg",
         "source": "Dev.to React"
       },
       {
