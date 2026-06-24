@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 23, 2026)
+### Today's Updates (June 24, 2026)
+
+#### Dev.to JavaScript
+
+- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
+- [Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)](https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j)
+- [Eclipse mechanics for programmers: turning ephemeris data into a "next eclipse from here" countdown](https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp)
+
+#### Dev.to React
+
+- [How I hit 100/100/100/100 on Google PageSpeed with TanStack Start](https://dev.to/usmansheikh9/how-i-hit-100100100100-on-google-pagespeed-with-tanstack-start-54b3)
+- [I Built a Puzzle Game to make Graph Coloring Easier to Understand](https://dev.to/dialosall/i-built-a-puzzle-game-to-make-graph-coloring-easier-to-understand-ada)
+- [Building a High-Performance Dynamic Product Filter Component in React and Tailwind CSS](https://dev.to/idan_dev/building-a-high-performance-dynamic-product-filter-component-in-react-and-tailwind-css-h0f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 22, 2026)
+### 2 Days Ago (June 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
 - [I got tired of rewriting the same AI boilerplate so I built a library to fix it](https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8)
 - [Form drafts that survive a closed tab — and the 5 bugs everyone ships first](https://dev.to/mzsleepyzzz/form-drafts-that-survive-a-closed-tab-and-the-5-bugs-everyone-ships-first-5aic)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 21, 2026)
-
-#### Dev.to JavaScript
-
-- [Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets](https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk)
-- [SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)](https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm)
-- [Reverse once, run forever: designing client-side defenses that assume the attacker has already read every line](https://dev.to/trustsig/reverse-once-run-forever-designing-client-side-defenses-that-assume-the-attacker-has-already-read-1ilg)
-
-#### Dev.to React
-
-- [React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams](https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2)
-- [Cloudflare Pages Blank Page? The index.txt Trap with Next.js Static Export](https://dev.to/utlkit/cloudflare-pages-blank-page-the-indextxt-trap-with-nextjs-static-export-3g7n)
-- [What I learned refactoring a codebase with a 7,558-line constants file"](https://dev.to/raviraj_jariwala/what-i-learned-refactoring-a-codebase-with-a-7558-line-constants-file-2abg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-24",
+    "formattedDate": "June 24, 2026",
+    "news": [
+      {
+        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
+        "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
+        "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I hit 100/100/100/100 on Google PageSpeed with TanStack Start",
+        "link": "https://dev.to/usmansheikh9/how-i-hit-100100100100-on-google-pagespeed-with-tanstack-start-54b3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Puzzle Game to make Graph Coloring Easier to Understand",
+        "link": "https://dev.to/dialosall/i-built-a-puzzle-game-to-make-graph-coloring-easier-to-understand-ada",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a High-Performance Dynamic Product Filter Component in React and Tailwind CSS",
+        "link": "https://dev.to/idan_dev/building-a-high-performance-dynamic-product-filter-component-in-react-and-tailwind-css-h0f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-23",
     "formattedDate": "June 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Form drafts that survive a closed tab — and the 5 bugs everyone ships first",
         "link": "https://dev.to/mzsleepyzzz/form-drafts-that-survive-a-closed-tab-and-the-5-bugs-everyone-ships-first-5aic",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-21",
-    "formattedDate": "June 21, 2026",
-    "news": [
-      {
-        "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
-        "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "SOLSTICE — feed the light, hold back the night (an ode to Alan Turing)",
-        "link": "https://dev.to/stackmasteraliza/solstice-feed-the-light-hold-back-the-night-an-ode-to-alan-turing-41hm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Reverse once, run forever: designing client-side defenses that assume the attacker has already read every line",
-        "link": "https://dev.to/trustsig/reverse-once-run-forever-designing-client-side-defenses-that-assume-the-attacker-has-already-read-1ilg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams",
-        "link": "https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Cloudflare Pages Blank Page? The index.txt Trap with Next.js Static Export",
-        "link": "https://dev.to/utlkit/cloudflare-pages-blank-page-the-indextxt-trap-with-nextjs-static-export-3g7n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What I learned refactoring a codebase with a 7,558-line constants file\"",
-        "link": "https://dev.to/raviraj_jariwala/what-i-learned-refactoring-a-codebase-with-a-7558-line-constants-file-2abg",
         "source": "Dev.to React"
       },
       {
