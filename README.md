@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)](https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j)
-- [Eclipse mechanics for programmers: turning ephemeris data into a "next eclipse from here" countdown](https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp)
+- [Next.js 16 Server Actions Security: The Auth Check Most Developers Miss](https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1)
+- [TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)](https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg)
 
 #### Dev.to React
 
-- [How I hit 100/100/100/100 on Google PageSpeed with TanStack Start](https://dev.to/usmansheikh9/how-i-hit-100100100100-on-google-pagespeed-with-tanstack-start-54b3)
-- [I Built a Puzzle Game to make Graph Coloring Easier to Understand](https://dev.to/dialosall/i-built-a-puzzle-game-to-make-graph-coloring-easier-to-understand-ada)
-- [Building a High-Performance Dynamic Product Filter Component in React and Tailwind CSS](https://dev.to/idan_dev/building-a-high-performance-dynamic-product-filter-component-in-react-and-tailwind-css-h0f)
+- [You don't need NextJS: here's why](https://dev.to/moruno21/you-dont-need-nextjs-heres-why-708)
+- [Scoping multi-brand CSS variables using data attributes](https://dev.to/alexandersstudi/scoping-multi-brand-css-variables-using-data-attributes-3ia2)
+- [Cómo solucionar el bucle infinito en `useEffect` con objetos y arrays](https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-3h90)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
-        "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
+        "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
+        "link": "https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
-        "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
+        "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
+        "link": "https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I hit 100/100/100/100 on Google PageSpeed with TanStack Start",
-        "link": "https://dev.to/usmansheikh9/how-i-hit-100100100100-on-google-pagespeed-with-tanstack-start-54b3",
+        "title": "You don't need NextJS: here's why",
+        "link": "https://dev.to/moruno21/you-dont-need-nextjs-heres-why-708",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Puzzle Game to make Graph Coloring Easier to Understand",
-        "link": "https://dev.to/dialosall/i-built-a-puzzle-game-to-make-graph-coloring-easier-to-understand-ada",
+        "title": "Scoping multi-brand CSS variables using data attributes",
+        "link": "https://dev.to/alexandersstudi/scoping-multi-brand-css-variables-using-data-attributes-3ia2",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a High-Performance Dynamic Product Filter Component in React and Tailwind CSS",
-        "link": "https://dev.to/idan_dev/building-a-high-performance-dynamic-product-filter-component-in-react-and-tailwind-css-h0f",
+        "title": "Cómo solucionar el bucle infinito en `useEffect` con objetos y arrays",
+        "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-3h90",
         "source": "Dev.to React"
       },
       {
