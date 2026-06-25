@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)](https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg)
+- [The Security Bug Every Node.js Developer Ships to Production](https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6)
 - [Next.js 16 Server Actions Security: The Auth Check Most Developers Miss](https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1)
 
 #### Dev.to React
 
-- [Colocate Your API Layer: A Next.js App Router Pattern That Scales](https://dev.to/tegadaniel/colocate-your-api-layer-a-nextjs-app-router-pattern-that-scales-5126)
-- [Demystifying SVG to React Component: Stop Breaking Your Build Pipelines](https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc)
-- [Why I Built BONDING on My Son's Birthday](https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622)
+- [🚀 Day 4 of Learning React: What Actually Makes React... React? (Hooks, useState, and State Explained)](https://dev.to/bismay-exe/day-4-of-learning-react-what-actually-makes-react-react-hooks-usestate-and-state-198g)
+- [GraphQL Fragments: Let Each Component Own Its Data](https://dev.to/grimicorn/graphql-fragments-let-each-component-own-its-data-5359)
+- [Setting Up a Controlled Component](https://dev.to/shaynaproductions/setting-up-a-controlled-component-3bgg)
 
 #### React Blog
 
@@ -94,8 +94,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
-        "link": "https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg",
+        "title": "The Security Bug Every Node.js Developer Ships to Production",
+        "link": "https://dev.to/manolito99/the-security-bug-every-nodejs-developer-ships-to-production-49e6",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Colocate Your API Layer: A Next.js App Router Pattern That Scales",
-        "link": "https://dev.to/tegadaniel/colocate-your-api-layer-a-nextjs-app-router-pattern-that-scales-5126",
+        "title": "🚀 Day 4 of Learning React: What Actually Makes React... React? (Hooks, useState, and State Explained)",
+        "link": "https://dev.to/bismay-exe/day-4-of-learning-react-what-actually-makes-react-react-hooks-usestate-and-state-198g",
         "source": "Dev.to React"
       },
       {
-        "title": "Demystifying SVG to React Component: Stop Breaking Your Build Pipelines",
-        "link": "https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc",
+        "title": "GraphQL Fragments: Let Each Component Own Its Data",
+        "link": "https://dev.to/grimicorn/graphql-fragments-let-each-component-own-its-data-5359",
         "source": "Dev.to React"
       },
       {
-        "title": "Why I Built BONDING on My Son's Birthday",
-        "link": "https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622",
+        "title": "Setting Up a Controlled Component",
+        "link": "https://dev.to/shaynaproductions/setting-up-a-controlled-component-3bgg",
         "source": "Dev.to React"
       },
       {
