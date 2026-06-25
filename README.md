@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 24, 2026)
+### Today's Updates (June 25, 2026)
+
+#### Dev.to JavaScript
+
+- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
+- [TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)](https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg)
+- [Next.js 16 Server Actions Security: The Auth Check Most Developers Miss](https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1)
+
+#### Dev.to React
+
+- [Colocate Your API Layer: A Next.js App Router Pattern That Scales](https://dev.to/tegadaniel/colocate-your-api-layer-a-nextjs-app-router-pattern-that-scales-5126)
+- [Demystifying SVG to React Component: Stop Breaking Your Build Pipelines](https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc)
+- [Why I Built BONDING on My Son's Birthday](https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 23, 2026)
+### 2 Days Ago (June 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images](https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6)
 - [How We Built an AI-Powered Career RPG Quest for the YouthCodeX Hackathon 🚀🎮](https://dev.to/divinefavour1234567/how-we-built-an-ai-powered-career-rpg-quest-for-the-youthcodex-hackathon-bk7)
 - [Your AI isn't too weak. Your evals are missing.](https://dev.to/adrianszablowski/your-ai-isnt-too-weak-your-evals-are-missing-3apg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 22, 2026)
-
-#### Dev.to JavaScript
-
-- [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm)
-- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
-- [I got tired of rewriting the same AI boilerplate so I built a library to fix it](https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8)
-
-#### Dev.to React
-
-- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
-- [I got tired of rewriting the same AI boilerplate so I built a library to fix it](https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8)
-- [Form drafts that survive a closed tab — and the 5 bugs everyone ships first](https://dev.to/mzsleepyzzz/form-drafts-that-survive-a-closed-tab-and-the-5-bugs-everyone-ships-first-5aic)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-25",
+    "formattedDate": "June 25, 2026",
+    "news": [
+      {
+        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
+        "link": "https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
+        "link": "https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Colocate Your API Layer: A Next.js App Router Pattern That Scales",
+        "link": "https://dev.to/tegadaniel/colocate-your-api-layer-a-nextjs-app-router-pattern-that-scales-5126",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Demystifying SVG to React Component: Stop Breaking Your Build Pipelines",
+        "link": "https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Built BONDING on My Son's Birthday",
+        "link": "https://dev.to/trimtabsignal/why-i-built-bonding-on-my-sons-birthday-622",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-24",
     "formattedDate": "June 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Your AI isn't too weak. Your evals are missing.",
         "link": "https://dev.to/adrianszablowski/your-ai-isnt-too-weak-your-evals-are-missing-3apg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-22",
-    "formattedDate": "June 22, 2026",
-    "news": [
-      {
-        "title": "Coding an Extension that Summarises Web Pages with HTML, CSS, and JS",
-        "link": "https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements",
-        "link": "https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I got tired of rewriting the same AI boilerplate so I built a library to fix it",
-        "link": "https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM & React Elements",
-        "link": "https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I got tired of rewriting the same AI boilerplate so I built a library to fix it",
-        "link": "https://dev.to/sbullocks/i-got-tired-of-rewriting-the-same-ai-boilerplate-so-i-built-a-library-to-fix-it-4ff8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Form drafts that survive a closed tab — and the 5 bugs everyone ships first",
-        "link": "https://dev.to/mzsleepyzzz/form-drafts-that-survive-a-closed-tab-and-the-5-bugs-everyone-ships-first-5aic",
         "source": "Dev.to React"
       },
       {
