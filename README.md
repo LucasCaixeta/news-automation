@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [Everyone's migrating to Playwright. But why, actually?](https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09)
-- [_action: Declarative Event Handlers in an Attribute](https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35)
+- [Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)](https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1)
+- [Ember.js End of Life: The LTS Cadence & Every Version EOL Date](https://dev.to/endoflifeai/emberjs-end-of-life-the-lts-cadence-every-version-eol-date-1463)
 
 #### Dev.to React
 
-- [Handling React Dialog Flows with async/await](https://dev.to/__17eb47db77811432075a/handling-react-dialog-flows-with-asyncawait-2b74)
-- [Stop Impossible States: State Machines in React ⚡](https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn)
-- [React.js ~The best practice for conditional statement~](https://dev.to/kkr0423/reactjs-the-best-practice-for-conditional-statement-4ma2)
+- [Next.js Dynamic Imports & Lazy Loading: The Complete Guide (2026)](https://dev.to/stacknotice/nextjs-dynamic-imports-lazy-loading-the-complete-guide-2026-402a)
+- [What Building Pagelyze Taught Me About React Best Practices](https://dev.to/pktechie/what-building-pagelyze-taught-me-about-react-best-practices-5fhb)
+- [React lost the mass and Vercel is wearing its skin](https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Everyone's migrating to Playwright. But why, actually?",
-        "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+        "title": "Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)",
+        "link": "https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "_action: Declarative Event Handlers in an Attribute",
-        "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+        "title": "Ember.js End of Life: The LTS Cadence & Every Version EOL Date",
+        "link": "https://dev.to/endoflifeai/emberjs-end-of-life-the-lts-cadence-every-version-eol-date-1463",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Handling React Dialog Flows with async/await",
-        "link": "https://dev.to/__17eb47db77811432075a/handling-react-dialog-flows-with-asyncawait-2b74",
+        "title": "Next.js Dynamic Imports & Lazy Loading: The Complete Guide (2026)",
+        "link": "https://dev.to/stacknotice/nextjs-dynamic-imports-lazy-loading-the-complete-guide-2026-402a",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Impossible States: State Machines in React ⚡",
-        "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+        "title": "What Building Pagelyze Taught Me About React Best Practices",
+        "link": "https://dev.to/pktechie/what-building-pagelyze-taught-me-about-react-best-practices-5fhb",
         "source": "Dev.to React"
       },
       {
-        "title": "React.js ~The best practice for conditional statement~",
-        "link": "https://dev.to/kkr0423/reactjs-the-best-practice-for-conditional-statement-4ma2",
+        "title": "React lost the mass and Vercel is wearing its skin",
+        "link": "https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc",
         "source": "Dev.to React"
       },
       {
