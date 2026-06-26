@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 25, 2026)
+### Today's Updates (June 26, 2026)
+
+#### Dev.to JavaScript
+
+- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
+- [Everyone's migrating to Playwright. But why, actually?](https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09)
+- [_action: Declarative Event Handlers in an Attribute](https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35)
+
+#### Dev.to React
+
+- [Handling React Dialog Flows with async/await](https://dev.to/__17eb47db77811432075a/handling-react-dialog-flows-with-asyncawait-2b74)
+- [Stop Impossible States: State Machines in React ⚡](https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn)
+- [React.js ~The best practice for conditional statement~](https://dev.to/kkr0423/reactjs-the-best-practice-for-conditional-statement-4ma2)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 24, 2026)
+### 2 Days Ago (June 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [You don't need NextJS: here's why](https://dev.to/moruno21/you-dont-need-nextjs-heres-why-708)
 - [Scoping multi-brand CSS variables using data attributes](https://dev.to/alexandersstudi/scoping-multi-brand-css-variables-using-data-attributes-3ia2)
 - [Cómo solucionar el bucle infinito en `useEffect` con objetos y arrays](https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-3h90)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 23, 2026)
-
-#### Dev.to JavaScript
-
-- [The Node.js Mistake That Cost My Client $3,000 in AWS Bills](https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5)
-- [10 Cool CodePen Demos (May 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2026-42ni)
-- [Render any font to a crisp SVG path in the browser with opentype.js](https://dev.to/fontbox/render-any-font-to-a-crisp-svg-path-in-the-browser-with-opentypejs-24j4)
-
-#### Dev.to React
-
-- [Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images](https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6)
-- [How We Built an AI-Powered Career RPG Quest for the YouthCodeX Hackathon 🚀🎮](https://dev.to/divinefavour1234567/how-we-built-an-ai-powered-career-rpg-quest-for-the-youthcodex-hackathon-bk7)
-- [Your AI isn't too weak. Your evals are missing.](https://dev.to/adrianszablowski/your-ai-isnt-too-weak-your-evals-are-missing-3apg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-26",
+    "formattedDate": "June 26, 2026",
+    "news": [
+      {
+        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Everyone's migrating to Playwright. But why, actually?",
+        "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "_action: Declarative Event Handlers in an Attribute",
+        "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Handling React Dialog Flows with async/await",
+        "link": "https://dev.to/__17eb47db77811432075a/handling-react-dialog-flows-with-asyncawait-2b74",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Impossible States: State Machines in React ⚡",
+        "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React.js ~The best practice for conditional statement~",
+        "link": "https://dev.to/kkr0423/reactjs-the-best-practice-for-conditional-statement-4ma2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-25",
     "formattedDate": "June 25, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Cómo solucionar el bucle infinito en `useEffect` con objetos y arrays",
         "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-3h90",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "formattedDate": "June 23, 2026",
-    "news": [
-      {
-        "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
-        "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "10 Cool CodePen Demos (May 2026)",
-        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2026-42ni",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Render any font to a crisp SVG path in the browser with opentype.js",
-        "link": "https://dev.to/fontbox/render-any-font-to-a-crisp-svg-path-in-the-browser-with-opentypejs-24j4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images",
-        "link": "https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How We Built an AI-Powered Career RPG Quest for the YouthCodeX Hackathon 🚀🎮",
-        "link": "https://dev.to/divinefavour1234567/how-we-built-an-ai-powered-career-rpg-quest-for-the-youthcodex-hackathon-bk7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Your AI isn't too weak. Your evals are missing.",
-        "link": "https://dev.to/adrianszablowski/your-ai-isnt-too-weak-your-evals-are-missing-3apg",
         "source": "Dev.to React"
       },
       {
