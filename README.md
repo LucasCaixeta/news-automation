@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [Replaced My App's Database With My Daughter's Google Drive Folder](https://dev.to/vankadn/replaced-my-apps-database-with-my-daughters-google-drive-folder-1455)
-- [I Built a Tribology Expert System from Scratch — No Frameworks, No Backend, Just Vanilla JavaScript](https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad)
+- [I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-qr-code-generator-in-pure-vanilla-js-no-libraries-no-server-202-tests-7h)
+- [Choreography of validation: how to make your auth form seamless and usable](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm)
 
 #### Dev.to React
 
-- [Skeleton Loading Screens in Next.js App Router — The Right Way to Handle Async UI](https://dev.to/aon_infotech_3a1b6ff525fc/skeleton-loading-screens-in-nextjs-app-router-the-right-way-to-handle-async-ui-3hj1)
-- [I Built a Snooker Scoring PWA Because the Game Room Scoreboard Only Had 2 Slots](https://dev.to/addictedk0126/i-built-a-snooker-scoring-pwa-because-the-game-room-scoreboard-only-had-2-slots-1f8g)
-- [React lost the mass and Vercel is wearing its skin](https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc)
+- [Choreography of validation: how to make your auth form seamless and usable](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm)
+- [Building Ekehi: My Week in Reviews and a New Submissions Page](https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn)
+- [Building an AI-Powered CRM System: A Practical Overview](https://dev.to/karishmadigital_2abfac046/building-an-ai-powered-crm-system-a-practical-overview-42ko)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Replaced My App's Database With My Daughter's Google Drive Folder",
-        "link": "https://dev.to/vankadn/replaced-my-apps-database-with-my-daughters-google-drive-folder-1455",
+        "title": "I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests",
+        "link": "https://dev.to/dev_nestio_229945f10652e4/i-built-a-qr-code-generator-in-pure-vanilla-js-no-libraries-no-server-202-tests-7h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Tribology Expert System from Scratch — No Frameworks, No Backend, Just Vanilla JavaScript",
-        "link": "https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad",
+        "title": "Choreography of validation: how to make your auth form seamless and usable",
+        "link": "https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Skeleton Loading Screens in Next.js App Router — The Right Way to Handle Async UI",
-        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/skeleton-loading-screens-in-nextjs-app-router-the-right-way-to-handle-async-ui-3hj1",
+        "title": "Choreography of validation: how to make your auth form seamless and usable",
+        "link": "https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Snooker Scoring PWA Because the Game Room Scoreboard Only Had 2 Slots",
-        "link": "https://dev.to/addictedk0126/i-built-a-snooker-scoring-pwa-because-the-game-room-scoreboard-only-had-2-slots-1f8g",
+        "title": "Building Ekehi: My Week in Reviews and a New Submissions Page",
+        "link": "https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn",
         "source": "Dev.to React"
       },
       {
-        "title": "React lost the mass and Vercel is wearing its skin",
-        "link": "https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc",
+        "title": "Building an AI-Powered CRM System: A Practical Overview",
+        "link": "https://dev.to/karishmadigital_2abfac046/building-an-ai-powered-crm-system-a-practical-overview-42ko",
         "source": "Dev.to React"
       },
       {
