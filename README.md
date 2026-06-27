@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 26, 2026)
+### Today's Updates (June 27, 2026)
+
+#### Dev.to JavaScript
+
+- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
+- [Replaced My App's Database With My Daughter's Google Drive Folder](https://dev.to/vankadn/replaced-my-apps-database-with-my-daughters-google-drive-folder-1455)
+- [I Built a Tribology Expert System from Scratch — No Frameworks, No Backend, Just Vanilla JavaScript](https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad)
+
+#### Dev.to React
+
+- [Skeleton Loading Screens in Next.js App Router — The Right Way to Handle Async UI](https://dev.to/aon_infotech_3a1b6ff525fc/skeleton-loading-screens-in-nextjs-app-router-the-right-way-to-handle-async-ui-3hj1)
+- [I Built a Snooker Scoring PWA Because the Game Room Scoreboard Only Had 2 Slots](https://dev.to/addictedk0126/i-built-a-snooker-scoring-pwa-because-the-game-room-scoreboard-only-had-2-slots-1f8g)
+- [React lost the mass and Vercel is wearing its skin](https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 25, 2026)
+### 2 Days Ago (June 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 Day 4 of Learning React: What Actually Makes React... React? (Hooks, useState, and State Explained)](https://dev.to/bismay-exe/day-4-of-learning-react-what-actually-makes-react-react-hooks-usestate-and-state-198g)
 - [GraphQL Fragments: Let Each Component Own Its Data](https://dev.to/grimicorn/graphql-fragments-let-each-component-own-its-data-5359)
 - [Setting Up a Controlled Component](https://dev.to/shaynaproductions/setting-up-a-controlled-component-3bgg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 24, 2026)
-
-#### Dev.to JavaScript
-
-- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [Next.js 16 Server Actions Security: The Auth Check Most Developers Miss](https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1)
-- [TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)](https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg)
-
-#### Dev.to React
-
-- [You don't need NextJS: here's why](https://dev.to/moruno21/you-dont-need-nextjs-heres-why-708)
-- [Scoping multi-brand CSS variables using data attributes](https://dev.to/alexandersstudi/scoping-multi-brand-css-variables-using-data-attributes-3ia2)
-- [Cómo solucionar el bucle infinito en `useEffect` con objetos y arrays](https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-3h90)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-27",
+    "formattedDate": "June 27, 2026",
+    "news": [
+      {
+        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Replaced My App's Database With My Daughter's Google Drive Folder",
+        "link": "https://dev.to/vankadn/replaced-my-apps-database-with-my-daughters-google-drive-folder-1455",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Tribology Expert System from Scratch — No Frameworks, No Backend, Just Vanilla JavaScript",
+        "link": "https://dev.to/arashkabiri/i-built-a-tribology-expert-system-from-scratch-no-frameworks-no-backend-just-vanilla-javascript-5gad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Skeleton Loading Screens in Next.js App Router — The Right Way to Handle Async UI",
+        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/skeleton-loading-screens-in-nextjs-app-router-the-right-way-to-handle-async-ui-3hj1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Snooker Scoring PWA Because the Game Room Scoreboard Only Had 2 Slots",
+        "link": "https://dev.to/addictedk0126/i-built-a-snooker-scoring-pwa-because-the-game-room-scoreboard-only-had-2-slots-1f8g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React lost the mass and Vercel is wearing its skin",
+        "link": "https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-26",
     "formattedDate": "June 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Setting Up a Controlled Component",
         "link": "https://dev.to/shaynaproductions/setting-up-a-controlled-component-3bgg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-24",
-    "formattedDate": "June 24, 2026",
-    "news": [
-      {
-        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
-        "link": "https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
-        "link": "https://dev.to/gavincettolo/typescript-tips-that-actually-matter-in-real-projects-including-the-satisfies-operator-2cfg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You don't need NextJS: here's why",
-        "link": "https://dev.to/moruno21/you-dont-need-nextjs-heres-why-708",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Scoping multi-brand CSS variables using data attributes",
-        "link": "https://dev.to/alexandersstudi/scoping-multi-brand-css-variables-using-data-attributes-3ia2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Cómo solucionar el bucle infinito en `useEffect` con objetos y arrays",
-        "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-bucle-infinito-en-useeffect-con-objetos-y-arrays-3h90",
         "source": "Dev.to React"
       },
       {
