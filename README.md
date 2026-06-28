@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [Engineering a Brainrot art installation on an Orange Pi Zero 🍊](https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk)
-- [I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-qr-code-generator-in-pure-vanilla-js-no-libraries-no-server-202-tests-7h)
+- [How CascadeFlow Cut Our Review Cost Without Hurting Quality](https://dev.to/vishalsomaraju/how-cascadeflow-cut-our-review-cost-without-hurting-quality-3h3e)
+- [scheduler.yield(): The One-Liner That Fixes Your INP](https://dev.to/grimicorn/scheduleryield-the-one-liner-that-fixes-your-inp-4342)
+- [I Open-Sourced My AI Dashboard -- and Found My 'Secure' Proxy Was an Open ATM](https://dev.to/payallenka/i-open-sourced-my-ai-dashboard-and-found-my-secure-proxy-was-an-open-atm-311g)
 
 #### Dev.to React
 
-- [Building a Type-Safe API Layer in Next.js App Router With Zod and Server Actions](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-type-safe-api-layer-in-nextjs-app-router-with-zod-and-server-actions-ma2)
-- [Building Ekehi: My Week in Reviews and a New Submissions Page](https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn)
-- [React vs. Angular in 2026: Choosing the Right Architecture for Enterprise Applications](https://dev.to/idan_dev/react-vs-angular-in-2026-choosing-the-right-architecture-for-enterprise-applications-3d59)
+- [How I Rebuilt Incident Classification With Cascadeflow Hook](https://dev.to/anu_alleshwaram_4911c831e/how-i-rebuilt-incident-classification-with-cascadeflowhook-2p9d)
+- [Stop Copying shadcn Components Across Projects — Use This Turborepo Starter Instead](https://dev.to/sharathmohan007/stop-copying-shadcn-components-across-projects-use-this-turborepo-starter-instead-3ma1)
+- [5 React Server Components Mistakes I See in Almost Every Codebase](https://dev.to/vitalii_6f4b1c4e619379ee6/5-react-server-components-mistakes-i-see-in-almost-every-codebase-3df7)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 28, 2026",
     "news": [
       {
-        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
+        "title": "How CascadeFlow Cut Our Review Cost Without Hurting Quality",
+        "link": "https://dev.to/vishalsomaraju/how-cascadeflow-cut-our-review-cost-without-hurting-quality-3h3e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Engineering a Brainrot art installation on an Orange Pi Zero 🍊",
-        "link": "https://dev.to/googleai/engineering-a-brainrot-art-installation-on-an-orange-pi-zero-4gmk",
+        "title": "scheduler.yield(): The One-Liner That Fixes Your INP",
+        "link": "https://dev.to/grimicorn/scheduleryield-the-one-liner-that-fixes-your-inp-4342",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests",
-        "link": "https://dev.to/dev_nestio_229945f10652e4/i-built-a-qr-code-generator-in-pure-vanilla-js-no-libraries-no-server-202-tests-7h",
+        "title": "I Open-Sourced My AI Dashboard -- and Found My 'Secure' Proxy Was an Open ATM",
+        "link": "https://dev.to/payallenka/i-open-sourced-my-ai-dashboard-and-found-my-secure-proxy-was-an-open-atm-311g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Type-Safe API Layer in Next.js App Router With Zod and Server Actions",
-        "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-type-safe-api-layer-in-nextjs-app-router-with-zod-and-server-actions-ma2",
+        "title": "How I Rebuilt Incident Classification With Cascadeflow Hook",
+        "link": "https://dev.to/anu_alleshwaram_4911c831e/how-i-rebuilt-incident-classification-with-cascadeflowhook-2p9d",
         "source": "Dev.to React"
       },
       {
-        "title": "Building Ekehi: My Week in Reviews and a New Submissions Page",
-        "link": "https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn",
+        "title": "Stop Copying shadcn Components Across Projects — Use This Turborepo Starter Instead",
+        "link": "https://dev.to/sharathmohan007/stop-copying-shadcn-components-across-projects-use-this-turborepo-starter-instead-3ma1",
         "source": "Dev.to React"
       },
       {
-        "title": "React vs. Angular in 2026: Choosing the Right Architecture for Enterprise Applications",
-        "link": "https://dev.to/idan_dev/react-vs-angular-in-2026-choosing-the-right-architecture-for-enterprise-applications-3d59",
+        "title": "5 React Server Components Mistakes I See in Almost Every Codebase",
+        "link": "https://dev.to/vitalii_6f4b1c4e619379ee6/5-react-server-components-mistakes-i-see-in-almost-every-codebase-3df7",
         "source": "Dev.to React"
       },
       {
