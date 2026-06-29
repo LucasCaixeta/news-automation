@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 28, 2026)
+### Today's Updates (June 29, 2026)
+
+#### Dev.to JavaScript
+
+- [Deconstructing the Semantic Confusion Between State, Derived State, and Effects](https://dev.to/luciano0322/deconstructing-the-semantic-confusion-between-state-derived-state-and-effects-31i)
+- [I upgraded my AI concierge by turning it to a plain search box](https://dev.to/tomer_liran/i-upgraded-my-ai-concierge-by-turning-it-to-a-plain-search-box-2nma)
+- [Satori's CSS limits: what it can and can't render](https://dev.to/accreditly/satoris-css-limits-what-it-can-and-cant-render-1fd)
+
+#### Dev.to React
+
+- [Form validation without Formik or React Hook Form: treat your rules as domain logic](https://dev.to/chacaponquin/form-validation-without-formik-or-react-hook-form-treat-your-rules-as-domain-logic-2j8e)
+- [The URL Is Your Best State Manager](https://dev.to/parsajiravand/the-url-is-your-best-state-manager-5hl8)
+- [Validación de formularios sin dependencias: trata las reglas como lógica de dominio en el frontend](https://dev.to/chacaponquin/validacion-de-formularios-sin-dependencias-trata-las-reglas-como-logica-de-dominio-en-el-frontend-4h4o)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 27, 2026)
+### 2 Days Ago (June 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Choreography of validation: how to make your auth form seamless and usable](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm)
 - [Building Ekehi: My Week in Reviews and a New Submissions Page](https://dev.to/aj1732/building-ekehi-my-week-in-reviews-and-a-new-submissions-page-2mdn)
 - [Building an AI-Powered CRM System: A Practical Overview](https://dev.to/karishmadigital_2abfac046/building-an-ai-powered-crm-system-a-practical-overview-42ko)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 26, 2026)
-
-#### Dev.to JavaScript
-
-- [7 New JavaScript Features (And 2 I'm Still Waiting For)](https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8)
-- [Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)](https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1)
-- [Ember.js End of Life: The LTS Cadence & Every Version EOL Date](https://dev.to/endoflifeai/emberjs-end-of-life-the-lts-cadence-every-version-eol-date-1463)
-
-#### Dev.to React
-
-- [Next.js Dynamic Imports & Lazy Loading: The Complete Guide (2026)](https://dev.to/stacknotice/nextjs-dynamic-imports-lazy-loading-the-complete-guide-2026-402a)
-- [What Building Pagelyze Taught Me About React Best Practices](https://dev.to/pktechie/what-building-pagelyze-taught-me-about-react-best-practices-5fhb)
-- [React lost the mass and Vercel is wearing its skin](https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-06-29",
+    "formattedDate": "June 29, 2026",
+    "news": [
+      {
+        "title": "Deconstructing the Semantic Confusion Between State, Derived State, and Effects",
+        "link": "https://dev.to/luciano0322/deconstructing-the-semantic-confusion-between-state-derived-state-and-effects-31i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I upgraded my AI concierge by turning it to a plain search box",
+        "link": "https://dev.to/tomer_liran/i-upgraded-my-ai-concierge-by-turning-it-to-a-plain-search-box-2nma",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Satori's CSS limits: what it can and can't render",
+        "link": "https://dev.to/accreditly/satoris-css-limits-what-it-can-and-cant-render-1fd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Form validation without Formik or React Hook Form: treat your rules as domain logic",
+        "link": "https://dev.to/chacaponquin/form-validation-without-formik-or-react-hook-form-treat-your-rules-as-domain-logic-2j8e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The URL Is Your Best State Manager",
+        "link": "https://dev.to/parsajiravand/the-url-is-your-best-state-manager-5hl8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Validación de formularios sin dependencias: trata las reglas como lógica de dominio en el frontend",
+        "link": "https://dev.to/chacaponquin/validacion-de-formularios-sin-dependencias-trata-las-reglas-como-logica-de-dominio-en-el-frontend-4h4o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-28",
     "formattedDate": "June 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building an AI-Powered CRM System: A Practical Overview",
         "link": "https://dev.to/karishmadigital_2abfac046/building-an-ai-powered-crm-system-a-practical-overview-42ko",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-26",
-    "formattedDate": "June 26, 2026",
-    "news": [
-      {
-        "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-        "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Getting an LLM to Actually Follow Your Output Format (Without Fighting It Every Request)",
-        "link": "https://dev.to/knallhartdev/getting-an-llm-to-actually-follow-your-output-format-without-fighting-it-every-request-1kn1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Ember.js End of Life: The LTS Cadence & Every Version EOL Date",
-        "link": "https://dev.to/endoflifeai/emberjs-end-of-life-the-lts-cadence-every-version-eol-date-1463",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js Dynamic Imports & Lazy Loading: The Complete Guide (2026)",
-        "link": "https://dev.to/stacknotice/nextjs-dynamic-imports-lazy-loading-the-complete-guide-2026-402a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What Building Pagelyze Taught Me About React Best Practices",
-        "link": "https://dev.to/pktechie/what-building-pagelyze-taught-me-about-react-best-practices-5fhb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React lost the mass and Vercel is wearing its skin",
-        "link": "https://dev.to/adioof/react-lost-the-mass-and-vercel-is-wearing-its-skin-27fc",
         "source": "Dev.to React"
       },
       {
