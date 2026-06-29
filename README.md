@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Deconstructing the Semantic Confusion Between State, Derived State, and Effects](https://dev.to/luciano0322/deconstructing-the-semantic-confusion-between-state-derived-state-and-effects-31i)
-- [I upgraded my AI concierge by turning it to a plain search box](https://dev.to/tomer_liran/i-upgraded-my-ai-concierge-by-turning-it-to-a-plain-search-box-2nma)
-- [Satori's CSS limits: what it can and can't render](https://dev.to/accreditly/satoris-css-limits-what-it-can-and-cant-render-1fd)
+- [I built a tool to check what AI agents actually understand about your website](https://dev.to/tommy2970/i-built-a-tool-to-check-what-ai-agents-actually-understand-about-your-website-3n09)
+- [JavaScript Under the Hood: Scope, Closures, Prototypes &](https://dev.to/m_toqeer/javascript-under-the-hood-scope-closures-prototypes--48o3)
+- [Maintaining State Across Separate Screenshots: How Procshot Sequences Steps Automatically](https://dev.to/ktg0215/maintaining-state-across-separate-screenshots-how-procshot-sequences-steps-automatically-10k7)
 
 #### Dev.to React
 
 - [Form validation without Formik or React Hook Form: treat your rules as domain logic](https://dev.to/chacaponquin/form-validation-without-formik-or-react-hook-form-treat-your-rules-as-domain-logic-2j8e)
-- [The URL Is Your Best State Manager](https://dev.to/parsajiravand/the-url-is-your-best-state-manager-5hl8)
-- [Validación de formularios sin dependencias: trata las reglas como lógica de dominio en el frontend](https://dev.to/chacaponquin/validacion-de-formularios-sin-dependencias-trata-las-reglas-como-logica-de-dominio-en-el-frontend-4h4o)
+- [Typing Object Keys in TypeScript with keyof typeof](https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05)
+- [ReAct Inside — From Message to State, Understanding How AI Agents Really Work](https://dev.to/eyanpen/react-inside-from-message-to-state-understanding-how-ai-agents-really-work-3epf)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 29, 2026",
     "news": [
       {
-        "title": "Deconstructing the Semantic Confusion Between State, Derived State, and Effects",
-        "link": "https://dev.to/luciano0322/deconstructing-the-semantic-confusion-between-state-derived-state-and-effects-31i",
+        "title": "I built a tool to check what AI agents actually understand about your website",
+        "link": "https://dev.to/tommy2970/i-built-a-tool-to-check-what-ai-agents-actually-understand-about-your-website-3n09",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I upgraded my AI concierge by turning it to a plain search box",
-        "link": "https://dev.to/tomer_liran/i-upgraded-my-ai-concierge-by-turning-it-to-a-plain-search-box-2nma",
+        "title": "JavaScript Under the Hood: Scope, Closures, Prototypes &",
+        "link": "https://dev.to/m_toqeer/javascript-under-the-hood-scope-closures-prototypes--48o3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Satori's CSS limits: what it can and can't render",
-        "link": "https://dev.to/accreditly/satoris-css-limits-what-it-can-and-cant-render-1fd",
+        "title": "Maintaining State Across Separate Screenshots: How Procshot Sequences Steps Automatically",
+        "link": "https://dev.to/ktg0215/maintaining-state-across-separate-screenshots-how-procshot-sequences-steps-automatically-10k7",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "The URL Is Your Best State Manager",
-        "link": "https://dev.to/parsajiravand/the-url-is-your-best-state-manager-5hl8",
+        "title": "Typing Object Keys in TypeScript with keyof typeof",
+        "link": "https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05",
         "source": "Dev.to React"
       },
       {
-        "title": "Validación de formularios sin dependencias: trata las reglas como lógica de dominio en el frontend",
-        "link": "https://dev.to/chacaponquin/validacion-de-formularios-sin-dependencias-trata-las-reglas-como-logica-de-dominio-en-el-frontend-4h4o",
+        "title": "ReAct Inside — From Message to State, Understanding How AI Agents Really Work",
+        "link": "https://dev.to/eyanpen/react-inside-from-message-to-state-understanding-how-ai-agents-really-work-3epf",
         "source": "Dev.to React"
       },
       {
