@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [My Next.js 16 Auth Passed Every Test. Five Bugs That Only Showed Up When I Wired It Together.](https://dev.to/shubhradev/my-nextjs-16-auth-passed-every-test-five-bugs-that-only-showed-up-when-i-wired-it-together-bgh)
-- [Learn JavaScript with Claude in 2026: build real skills, not AI dependency](https://dev.to/ohugonnot/learn-javascript-with-claude-in-2026-build-real-skills-not-ai-dependency-28mf)
-- [How Does a Senior Front-End Developer Think?](https://dev.to/ahmed_niazy/how-does-a-senior-front-end-developer-think-11en)
+- [The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
+- [Your video plays without sound in VS Code — here's how I fixed it](https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk)
+- [Pasting a JWT Into an Online Base64 Decoder Is a Credential Leak — Here's the Browser-Only Fix](https://dev.to/orthogonalinfo/pasting-a-jwt-into-an-online-base64-decoder-is-a-credential-leak-heres-the-browser-only-fix-lmo)
 
 #### Dev.to React
 
-- [Performance Optimization Patterns in React: Beyond the Basics](https://dev.to/uaslimcreate/performance-optimization-patterns-in-react-beyond-the-basics-3lom)
-- [Ditch Redux: Atomic State Management with Zustand ⚡](https://dev.to/iprajapatiparesh/ditch-redux-atomic-state-management-with-zustand-4j67)
-- [React Performance in 2026: Profiling, Lazy Loading, and Emerging Patterns](https://dev.to/etriti00_19/react-performance-in-2026-profiling-lazy-loading-and-emerging-patterns-o4f)
+- [The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
+- [How I built a real-time collaborative diagram canvas (React + Go)](https://dev.to/victor_agudogonzalez_51b/how-i-built-a-real-time-collaborative-diagram-canvas-react-go-4g2o)
+- [We wanted a simple forms API, so I built my own library](https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "June 30, 2026",
     "news": [
       {
-        "title": "My Next.js 16 Auth Passed Every Test. Five Bugs That Only Showed Up When I Wired It Together.",
-        "link": "https://dev.to/shubhradev/my-nextjs-16-auth-passed-every-test-five-bugs-that-only-showed-up-when-i-wired-it-together-bgh",
+        "title": "The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing",
+        "link": "https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Learn JavaScript with Claude in 2026: build real skills, not AI dependency",
-        "link": "https://dev.to/ohugonnot/learn-javascript-with-claude-in-2026-build-real-skills-not-ai-dependency-28mf",
+        "title": "Your video plays without sound in VS Code — here's how I fixed it",
+        "link": "https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How Does a Senior Front-End Developer Think?",
-        "link": "https://dev.to/ahmed_niazy/how-does-a-senior-front-end-developer-think-11en",
+        "title": "Pasting a JWT Into an Online Base64 Decoder Is a Credential Leak — Here's the Browser-Only Fix",
+        "link": "https://dev.to/orthogonalinfo/pasting-a-jwt-into-an-online-base64-decoder-is-a-credential-leak-heres-the-browser-only-fix-lmo",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Performance Optimization Patterns in React: Beyond the Basics",
-        "link": "https://dev.to/uaslimcreate/performance-optimization-patterns-in-react-beyond-the-basics-3lom",
+        "title": "The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing",
+        "link": "https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8",
         "source": "Dev.to React"
       },
       {
-        "title": "Ditch Redux: Atomic State Management with Zustand ⚡",
-        "link": "https://dev.to/iprajapatiparesh/ditch-redux-atomic-state-management-with-zustand-4j67",
+        "title": "How I built a real-time collaborative diagram canvas (React + Go)",
+        "link": "https://dev.to/victor_agudogonzalez_51b/how-i-built-a-real-time-collaborative-diagram-canvas-react-go-4g2o",
         "source": "Dev.to React"
       },
       {
-        "title": "React Performance in 2026: Profiling, Lazy Loading, and Emerging Patterns",
-        "link": "https://dev.to/etriti00_19/react-performance-in-2026-profiling-lazy-loading-and-emerging-patterns-o4f",
+        "title": "We wanted a simple forms API, so I built my own library",
+        "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
         "source": "Dev.to React"
       },
       {
