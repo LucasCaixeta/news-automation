@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Electron vs PWA in 2026: The Trade-offs Nobody Puts in the Comparison Table](https://dev.to/alex_truhniy/electron-vs-pwa-in-2026-the-trade-offs-nobody-puts-in-the-comparison-table-5dd8)
-- [Building a color replacer: why RGB matching fails on photos and how HSV fixes it](https://dev.to/irrationalapps/building-a-color-replacer-why-rgb-matching-fails-on-photos-and-how-hsv-fixes-it-1n8)
-- [I Built a Live Video Streaming Engine That Heals Itself](https://dev.to/chaitaneya/i-built-a-live-video-streaming-engine-that-heals-itself-3oji)
+- [TypeScript Infers the Last Overload... So I Changed the Order](https://dev.to/svs-nickm/typescript-infers-the-last-overload-so-i-changed-the-order-3018)
+- [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
+- [Fallow: A Codebase Truth Layer for Agent-Written Code](https://dev.to/grimicorn/fallow-a-codebase-truth-layer-for-agent-written-code-3gk4)
 
 #### Dev.to React
 
-- [What the React 19 codemod doesn't tell you](https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik)
-- [A sign-up flow that writes itself — then hands you the pen](https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o)
-- [Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?](https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i)
+- [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
+- [From Frontend to Full-Stack: Building a Type-Safe App with React, TypeScript, and Tailwind](https://dev.to/idan_dev/from-frontend-to-full-stack-building-a-type-safe-app-with-react-typescript-and-tailwind-1lna)
+- [Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026](https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 1, 2026",
     "news": [
       {
-        "title": "Electron vs PWA in 2026: The Trade-offs Nobody Puts in the Comparison Table",
-        "link": "https://dev.to/alex_truhniy/electron-vs-pwa-in-2026-the-trade-offs-nobody-puts-in-the-comparison-table-5dd8",
+        "title": "TypeScript Infers the Last Overload... So I Changed the Order",
+        "link": "https://dev.to/svs-nickm/typescript-infers-the-last-overload-so-i-changed-the-order-3018",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a color replacer: why RGB matching fails on photos and how HSV fixes it",
-        "link": "https://dev.to/irrationalapps/building-a-color-replacer-why-rgb-matching-fails-on-photos-and-how-hsv-fixes-it-1n8",
+        "title": "We benchmarked React data grids with 50,000 rows. The winner was not the whole story.",
+        "link": "https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Live Video Streaming Engine That Heals Itself",
-        "link": "https://dev.to/chaitaneya/i-built-a-live-video-streaming-engine-that-heals-itself-3oji",
+        "title": "Fallow: A Codebase Truth Layer for Agent-Written Code",
+        "link": "https://dev.to/grimicorn/fallow-a-codebase-truth-layer-for-agent-written-code-3gk4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What the React 19 codemod doesn't tell you",
-        "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+        "title": "We benchmarked React data grids with 50,000 rows. The winner was not the whole story.",
+        "link": "https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj",
         "source": "Dev.to React"
       },
       {
-        "title": "A sign-up flow that writes itself — then hands you the pen",
-        "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+        "title": "From Frontend to Full-Stack: Building a Type-Safe App with React, TypeScript, and Tailwind",
+        "link": "https://dev.to/idan_dev/from-frontend-to-full-stack-building-a-type-safe-app-with-react-typescript-and-tailwind-1lna",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
-        "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+        "title": "Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026",
+        "link": "https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97",
         "source": "Dev.to React"
       },
       {
