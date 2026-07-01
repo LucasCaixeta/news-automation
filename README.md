@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (June 30, 2026)
+### Today's Updates (July 1, 2026)
+
+#### Dev.to JavaScript
+
+- [Electron vs PWA in 2026: The Trade-offs Nobody Puts in the Comparison Table](https://dev.to/alex_truhniy/electron-vs-pwa-in-2026-the-trade-offs-nobody-puts-in-the-comparison-table-5dd8)
+- [Building a color replacer: why RGB matching fails on photos and how HSV fixes it](https://dev.to/irrationalapps/building-a-color-replacer-why-rgb-matching-fails-on-photos-and-how-hsv-fixes-it-1n8)
+- [I Built a Live Video Streaming Engine That Heals Itself](https://dev.to/chaitaneya/i-built-a-live-video-streaming-engine-that-heals-itself-3oji)
+
+#### Dev.to React
+
+- [What the React 19 codemod doesn't tell you](https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik)
+- [A sign-up flow that writes itself — then hands you the pen](https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o)
+- [Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?](https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (June 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 29, 2026)
+### 2 Days Ago (June 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Form validation without Formik or React Hook Form: treat your rules as domain logic](https://dev.to/chacaponquin/form-validation-without-formik-or-react-hook-form-treat-your-rules-as-domain-logic-2j8e)
 - [Typing Object Keys in TypeScript with keyof typeof](https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05)
 - [ReAct Inside — From Message to State, Understanding How AI Agents Really Work](https://dev.to/eyanpen/react-inside-from-message-to-state-understanding-how-ai-agents-really-work-3epf)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 28, 2026)
-
-#### Dev.to JavaScript
-
-- [How CascadeFlow Cut Our Review Cost Without Hurting Quality](https://dev.to/vishalsomaraju/how-cascadeflow-cut-our-review-cost-without-hurting-quality-3h3e)
-- [scheduler.yield(): The One-Liner That Fixes Your INP](https://dev.to/grimicorn/scheduleryield-the-one-liner-that-fixes-your-inp-4342)
-- [I Open-Sourced My AI Dashboard -- and Found My 'Secure' Proxy Was an Open ATM](https://dev.to/payallenka/i-open-sourced-my-ai-dashboard-and-found-my-secure-proxy-was-an-open-atm-311g)
-
-#### Dev.to React
-
-- [How I Rebuilt Incident Classification With Cascadeflow Hook](https://dev.to/anu_alleshwaram_4911c831e/how-i-rebuilt-incident-classification-with-cascadeflowhook-2p9d)
-- [Stop Copying shadcn Components Across Projects — Use This Turborepo Starter Instead](https://dev.to/sharathmohan007/stop-copying-shadcn-components-across-projects-use-this-turborepo-starter-instead-3ma1)
-- [5 React Server Components Mistakes I See in Almost Every Codebase](https://dev.to/vitalii_6f4b1c4e619379ee6/5-react-server-components-mistakes-i-see-in-almost-every-codebase-3df7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-01",
+    "formattedDate": "July 1, 2026",
+    "news": [
+      {
+        "title": "Electron vs PWA in 2026: The Trade-offs Nobody Puts in the Comparison Table",
+        "link": "https://dev.to/alex_truhniy/electron-vs-pwa-in-2026-the-trade-offs-nobody-puts-in-the-comparison-table-5dd8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a color replacer: why RGB matching fails on photos and how HSV fixes it",
+        "link": "https://dev.to/irrationalapps/building-a-color-replacer-why-rgb-matching-fails-on-photos-and-how-hsv-fixes-it-1n8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Live Video Streaming Engine That Heals Itself",
+        "link": "https://dev.to/chaitaneya/i-built-a-live-video-streaming-engine-that-heals-itself-3oji",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What the React 19 codemod doesn't tell you",
+        "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A sign-up flow that writes itself — then hands you the pen",
+        "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
+        "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-06-30",
     "formattedDate": "June 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "ReAct Inside — From Message to State, Understanding How AI Agents Really Work",
         "link": "https://dev.to/eyanpen/react-inside-from-message-to-state-understanding-how-ai-agents-really-work-3epf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-28",
-    "formattedDate": "June 28, 2026",
-    "news": [
-      {
-        "title": "How CascadeFlow Cut Our Review Cost Without Hurting Quality",
-        "link": "https://dev.to/vishalsomaraju/how-cascadeflow-cut-our-review-cost-without-hurting-quality-3h3e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "scheduler.yield(): The One-Liner That Fixes Your INP",
-        "link": "https://dev.to/grimicorn/scheduleryield-the-one-liner-that-fixes-your-inp-4342",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Open-Sourced My AI Dashboard -- and Found My 'Secure' Proxy Was an Open ATM",
-        "link": "https://dev.to/payallenka/i-open-sourced-my-ai-dashboard-and-found-my-secure-proxy-was-an-open-atm-311g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Rebuilt Incident Classification With Cascadeflow Hook",
-        "link": "https://dev.to/anu_alleshwaram_4911c831e/how-i-rebuilt-incident-classification-with-cascadeflowhook-2p9d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Copying shadcn Components Across Projects — Use This Turborepo Starter Instead",
-        "link": "https://dev.to/sharathmohan007/stop-copying-shadcn-components-across-projects-use-this-turborepo-starter-instead-3ma1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "5 React Server Components Mistakes I See in Almost Every Codebase",
-        "link": "https://dev.to/vitalii_6f4b1c4e619379ee6/5-react-server-components-mistakes-i-see-in-almost-every-codebase-3df7",
         "source": "Dev.to React"
       },
       {
