@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 1, 2026)
+### Today's Updates (July 2, 2026)
+
+#### Dev.to JavaScript
+
+- [The Invisible Frontend: Small Decisions That Quietly Save a Product](https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl)
+- [Building a Notification Center in a Firebase PWA — Firestore vs RTDB and Three Bootstrap Fallback Levels](https://dev.to/androve2k/building-a-notification-center-in-a-firebase-pwa-firestore-vs-rtdb-and-three-bootstrap-fallback-5feb)
+- [What is Content Security Policy (CSP)?](https://dev.to/aymaneldawy/what-is-content-security-policy-csp-p6p)
+
+#### Dev.to React
+
+- [The Invisible Frontend: Small Decisions That Quietly Save a Product](https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl)
+- [🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates](https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k)
+- [Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router](https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (June 30, 2026)
+### 2 Days Ago (June 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
 - [How I built a real-time collaborative diagram canvas (React + Go)](https://dev.to/victor_agudogonzalez_51b/how-i-built-a-real-time-collaborative-diagram-canvas-react-go-4g2o)
 - [We wanted a simple forms API, so I built my own library](https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 29, 2026)
-
-#### Dev.to JavaScript
-
-- [I built a tool to check what AI agents actually understand about your website](https://dev.to/tommy2970/i-built-a-tool-to-check-what-ai-agents-actually-understand-about-your-website-3n09)
-- [JavaScript Under the Hood: Scope, Closures, Prototypes &](https://dev.to/m_toqeer/javascript-under-the-hood-scope-closures-prototypes--48o3)
-- [Maintaining State Across Separate Screenshots: How Procshot Sequences Steps Automatically](https://dev.to/ktg0215/maintaining-state-across-separate-screenshots-how-procshot-sequences-steps-automatically-10k7)
-
-#### Dev.to React
-
-- [Form validation without Formik or React Hook Form: treat your rules as domain logic](https://dev.to/chacaponquin/form-validation-without-formik-or-react-hook-form-treat-your-rules-as-domain-logic-2j8e)
-- [Typing Object Keys in TypeScript with keyof typeof](https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05)
-- [ReAct Inside — From Message to State, Understanding How AI Agents Really Work](https://dev.to/eyanpen/react-inside-from-message-to-state-understanding-how-ai-agents-really-work-3epf)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-02",
+    "formattedDate": "July 2, 2026",
+    "news": [
+      {
+        "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+        "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Notification Center in a Firebase PWA — Firestore vs RTDB and Three Bootstrap Fallback Levels",
+        "link": "https://dev.to/androve2k/building-a-notification-center-in-a-firebase-pwa-firestore-vs-rtdb-and-three-bootstrap-fallback-5feb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What is Content Security Policy (CSP)?",
+        "link": "https://dev.to/aymaneldawy/what-is-content-security-policy-csp-p6p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+        "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+        "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
+        "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-01",
     "formattedDate": "July 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "We wanted a simple forms API, so I built my own library",
         "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-29",
-    "formattedDate": "June 29, 2026",
-    "news": [
-      {
-        "title": "I built a tool to check what AI agents actually understand about your website",
-        "link": "https://dev.to/tommy2970/i-built-a-tool-to-check-what-ai-agents-actually-understand-about-your-website-3n09",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript Under the Hood: Scope, Closures, Prototypes &",
-        "link": "https://dev.to/m_toqeer/javascript-under-the-hood-scope-closures-prototypes--48o3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Maintaining State Across Separate Screenshots: How Procshot Sequences Steps Automatically",
-        "link": "https://dev.to/ktg0215/maintaining-state-across-separate-screenshots-how-procshot-sequences-steps-automatically-10k7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Form validation without Formik or React Hook Form: treat your rules as domain logic",
-        "link": "https://dev.to/chacaponquin/form-validation-without-formik-or-react-hook-form-treat-your-rules-as-domain-logic-2j8e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Typing Object Keys in TypeScript with keyof typeof",
-        "link": "https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "ReAct Inside — From Message to State, Understanding How AI Agents Really Work",
-        "link": "https://dev.to/eyanpen/react-inside-from-message-to-state-understanding-how-ai-agents-really-work-3epf",
         "source": "Dev.to React"
       },
       {
