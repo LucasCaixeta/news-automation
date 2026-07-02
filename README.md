@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Invisible Frontend: Small Decisions That Quietly Save a Product](https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl)
-- [Building a Notification Center in a Firebase PWA — Firestore vs RTDB and Three Bootstrap Fallback Levels](https://dev.to/androve2k/building-a-notification-center-in-a-firebase-pwa-firestore-vs-rtdb-and-three-bootstrap-fallback-5feb)
-- [What is Content Security Policy (CSP)?](https://dev.to/aymaneldawy/what-is-content-security-policy-csp-p6p)
+- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb)
+- [:has() isn't a parent selector. It deletes JavaScript.](https://dev.to/parsajiravand/has-isnt-a-parent-selector-it-deletes-javascript-4hej)
+- [Block Google's AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii)
 
 #### Dev.to React
 
-- [The Invisible Frontend: Small Decisions That Quietly Save a Product](https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl)
-- [🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates](https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k)
-- [Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router](https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d)
+- [🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform](https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66)
+- [🚀 Understanding Rendering in Next.js — From CSR to React Server Components (RSC)](https://dev.to/mdfahim18/understanding-rendering-in-nextjs-from-csr-to-react-server-components-rsc-b57)
+- [I built a 30MB database client in Rust. Here's what it cost me.](https://dev.to/raphplt/i-built-a-30mb-database-client-in-rust-heres-what-it-cost-me-1pjb)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 2, 2026",
     "news": [
       {
-        "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
-        "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+        "title": "The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key",
+        "link": "https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Notification Center in a Firebase PWA — Firestore vs RTDB and Three Bootstrap Fallback Levels",
-        "link": "https://dev.to/androve2k/building-a-notification-center-in-a-firebase-pwa-firestore-vs-rtdb-and-three-bootstrap-fallback-5feb",
+        "title": ":has() isn't a parent selector. It deletes JavaScript.",
+        "link": "https://dev.to/parsajiravand/has-isnt-a-parent-selector-it-deletes-javascript-4hej",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What is Content Security Policy (CSP)?",
-        "link": "https://dev.to/aymaneldawy/what-is-content-security-policy-csp-p6p",
+        "title": "Block Google's AI Overviews at the Network Layer, Not the DOM",
+        "link": "https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
-        "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+        "title": "🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform",
+        "link": "https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66",
         "source": "Dev.to React"
       },
       {
-        "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
-        "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
+        "title": "🚀 Understanding Rendering in Next.js — From CSR to React Server Components (RSC)",
+        "link": "https://dev.to/mdfahim18/understanding-rendering-in-nextjs-from-csr-to-react-server-components-rsc-b57",
         "source": "Dev.to React"
       },
       {
-        "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
-        "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+        "title": "I built a 30MB database client in Rust. Here's what it cost me.",
+        "link": "https://dev.to/raphplt/i-built-a-30mb-database-client-in-rust-heres-what-it-cost-me-1pjb",
         "source": "Dev.to React"
       },
       {
