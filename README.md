@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 2, 2026)
+### Today's Updates (July 3, 2026)
+
+#### Dev.to JavaScript
+
+- [TypeScript `using` Keyword and Explicit Resource Management: Done Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
+- [The page transition you pay a library for is now free](https://dev.to/parsajiravand/the-page-transition-you-pay-a-library-for-is-now-free-2e5d)
+- [Who's Online on the Site, Without Tidio: Live Presence and Visitor History with Firebase](https://dev.to/androve2k/whos-online-on-the-site-without-tidio-live-presence-and-visitor-history-with-firebase-37il)
+
+#### Dev.to React
+
+- [TypeScript `using` Keyword and Explicit Resource Management: Done Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
+- [One React Component, Three Display Technologies — Flip Cards, Pixel LEDs, and Seven-Segment Digits in Pure CSS](https://dev.to/yyj/one-react-component-three-display-technologies-flip-cards-pixel-leds-and-seven-segment-digits-3dbn)
+- [How to Test React Invite Emails in Preview Environments Without Inbox Collisions](https://dev.to/ryanlee91/how-to-test-react-invite-emails-in-preview-environments-without-inbox-collisions-3mnp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 1, 2026)
+### 2 Days Ago (July 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
 - [From Frontend to Full-Stack: Building a Type-Safe App with React, TypeScript, and Tailwind](https://dev.to/idan_dev/from-frontend-to-full-stack-building-a-type-safe-app-with-react-typescript-and-tailwind-1lna)
 - [Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026](https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (June 30, 2026)
-
-#### Dev.to JavaScript
-
-- [The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
-- [Your video plays without sound in VS Code — here's how I fixed it](https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk)
-- [Pasting a JWT Into an Online Base64 Decoder Is a Credential Leak — Here's the Browser-Only Fix](https://dev.to/orthogonalinfo/pasting-a-jwt-into-an-online-base64-decoder-is-a-credential-leak-heres-the-browser-only-fix-lmo)
-
-#### Dev.to React
-
-- [The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
-- [How I built a real-time collaborative diagram canvas (React + Go)](https://dev.to/victor_agudogonzalez_51b/how-i-built-a-real-time-collaborative-diagram-canvas-react-go-4g2o)
-- [We wanted a simple forms API, so I built my own library](https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-03",
+    "formattedDate": "July 3, 2026",
+    "news": [
+      {
+        "title": "TypeScript `using` Keyword and Explicit Resource Management: Done Right",
+        "link": "https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The page transition you pay a library for is now free",
+        "link": "https://dev.to/parsajiravand/the-page-transition-you-pay-a-library-for-is-now-free-2e5d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Who's Online on the Site, Without Tidio: Live Presence and Visitor History with Firebase",
+        "link": "https://dev.to/androve2k/whos-online-on-the-site-without-tidio-live-presence-and-visitor-history-with-firebase-37il",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `using` Keyword and Explicit Resource Management: Done Right",
+        "link": "https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "One React Component, Three Display Technologies — Flip Cards, Pixel LEDs, and Seven-Segment Digits in Pure CSS",
+        "link": "https://dev.to/yyj/one-react-component-three-display-technologies-flip-cards-pixel-leds-and-seven-segment-digits-3dbn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Test React Invite Emails in Preview Environments Without Inbox Collisions",
+        "link": "https://dev.to/ryanlee91/how-to-test-react-invite-emails-in-preview-environments-without-inbox-collisions-3mnp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-02",
     "formattedDate": "July 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026",
         "link": "https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "formattedDate": "June 30, 2026",
-    "news": [
-      {
-        "title": "The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing",
-        "link": "https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your video plays without sound in VS Code — here's how I fixed it",
-        "link": "https://dev.to/brodazz/your-video-plays-without-sound-in-vs-code-heres-how-i-fixed-it-2efk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Pasting a JWT Into an Online Base64 Decoder Is a Credential Leak — Here's the Browser-Only Fix",
-        "link": "https://dev.to/orthogonalinfo/pasting-a-jwt-into-an-online-base64-decoder-is-a-credential-leak-heres-the-browser-only-fix-lmo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The TypeScript `satisfies` Operator in 2026: Patterns You're Probably Missing",
-        "link": "https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built a real-time collaborative diagram canvas (React + Go)",
-        "link": "https://dev.to/victor_agudogonzalez_51b/how-i-built-a-real-time-collaborative-diagram-canvas-react-go-4g2o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "We wanted a simple forms API, so I built my own library",
-        "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
         "source": "Dev.to React"
       },
       {
