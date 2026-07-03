@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [TypeScript `using` Keyword and Explicit Resource Management: Done Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
-- [The page transition you pay a library for is now free](https://dev.to/parsajiravand/the-page-transition-you-pay-a-library-for-is-now-free-2e5d)
-- [Who's Online on the Site, Without Tidio: Live Presence and Visitor History with Firebase](https://dev.to/androve2k/whos-online-on-the-site-without-tidio-live-presence-and-visitor-history-with-firebase-37il)
+- [The 3-Second Rule of Web Performance — And How to Beat It](https://dev.to/utkarshbansal01/the-3-second-rule-of-web-performance-and-how-to-beat-it-1he1)
+- [Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)](https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6)
+- [The Pragmatic Migration: Moving from AngularJS to Angular v22](https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e)
 
 #### Dev.to React
 
-- [TypeScript `using` Keyword and Explicit Resource Management: Done Right](https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg)
-- [One React Component, Three Display Technologies — Flip Cards, Pixel LEDs, and Seven-Segment Digits in Pure CSS](https://dev.to/yyj/one-react-component-three-display-technologies-flip-cards-pixel-leds-and-seven-segment-digits-3dbn)
-- [How to Test React Invite Emails in Preview Environments Without Inbox Collisions](https://dev.to/ryanlee91/how-to-test-react-invite-emails-in-preview-environments-without-inbox-collisions-3mnp)
+- [Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)](https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6)
+- [Every Optimization Behind a Perfect Lighthouse Score](https://dev.to/nathan-brodin/every-optimization-behind-a-perfect-lighthouse-score-283n)
+- [Frontend For Dummies: The Architecture Every Team Should Steal](https://dev.to/anas_arafeh/frontend-for-dummies-the-architecture-every-team-should-steal-23dd)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 3, 2026",
     "news": [
       {
-        "title": "TypeScript `using` Keyword and Explicit Resource Management: Done Right",
-        "link": "https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg",
+        "title": "The 3-Second Rule of Web Performance — And How to Beat It",
+        "link": "https://dev.to/utkarshbansal01/the-3-second-rule-of-web-performance-and-how-to-beat-it-1he1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The page transition you pay a library for is now free",
-        "link": "https://dev.to/parsajiravand/the-page-transition-you-pay-a-library-for-is-now-free-2e5d",
+        "title": "Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)",
+        "link": "https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Who's Online on the Site, Without Tidio: Live Presence and Visitor History with Firebase",
-        "link": "https://dev.to/androve2k/whos-online-on-the-site-without-tidio-live-presence-and-visitor-history-with-firebase-37il",
+        "title": "The Pragmatic Migration: Moving from AngularJS to Angular v22",
+        "link": "https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `using` Keyword and Explicit Resource Management: Done Right",
-        "link": "https://dev.to/jsmanifest/typescript-using-keyword-and-explicit-resource-management-done-right-22pg",
+        "title": "Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)",
+        "link": "https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6",
         "source": "Dev.to React"
       },
       {
-        "title": "One React Component, Three Display Technologies — Flip Cards, Pixel LEDs, and Seven-Segment Digits in Pure CSS",
-        "link": "https://dev.to/yyj/one-react-component-three-display-technologies-flip-cards-pixel-leds-and-seven-segment-digits-3dbn",
+        "title": "Every Optimization Behind a Perfect Lighthouse Score",
+        "link": "https://dev.to/nathan-brodin/every-optimization-behind-a-perfect-lighthouse-score-283n",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Test React Invite Emails in Preview Environments Without Inbox Collisions",
-        "link": "https://dev.to/ryanlee91/how-to-test-react-invite-emails-in-preview-environments-without-inbox-collisions-3mnp",
+        "title": "Frontend For Dummies: The Architecture Every Team Should Steal",
+        "link": "https://dev.to/anas_arafeh/frontend-for-dummies-the-architecture-every-team-should-steal-23dd",
         "source": "Dev.to React"
       },
       {
