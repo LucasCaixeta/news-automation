@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 3, 2026)
+### Today's Updates (July 4, 2026)
+
+#### Dev.to JavaScript
+
+- [You reached for !important again. @layer is the real fix.](https://dev.to/parsajiravand/you-reached-for-important-again-layer-is-the-real-fix-g8f)
+- [OrinIDE v1.0.8 is here and it's a whole vibe upgrade 🚀](https://dev.to/nandan_das_369/orinide-v109-is-here-and-its-a-whole-vibe-upgrade-3cpf)
+- [One headless table engine, every React UI kit](https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4)
+
+#### Dev.to React
+
+- [One headless table engine, every React UI kit](https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4)
+- [Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
+- [I Built a Free PDF Tool That Runs 100% in Your Browser (No Uploads, No Servers)](https://dev.to/pirate_haizei/i-built-a-free-pdf-tool-that-runs-100-in-your-browser-no-uploads-no-servers-2lle)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 2, 2026)
+### 2 Days Ago (July 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform](https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66)
 - [🚀 Understanding Rendering in Next.js — From CSR to React Server Components (RSC)](https://dev.to/mdfahim18/understanding-rendering-in-nextjs-from-csr-to-react-server-components-rsc-b57)
 - [I built a 30MB database client in Rust. Here's what it cost me.](https://dev.to/raphplt/i-built-a-30mb-database-client-in-rust-heres-what-it-cost-me-1pjb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 1, 2026)
-
-#### Dev.to JavaScript
-
-- [TypeScript Infers the Last Overload... So I Changed the Order](https://dev.to/svs-nickm/typescript-infers-the-last-overload-so-i-changed-the-order-3018)
-- [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
-- [Fallow: A Codebase Truth Layer for Agent-Written Code](https://dev.to/grimicorn/fallow-a-codebase-truth-layer-for-agent-written-code-3gk4)
-
-#### Dev.to React
-
-- [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
-- [From Frontend to Full-Stack: Building a Type-Safe App with React, TypeScript, and Tailwind](https://dev.to/idan_dev/from-frontend-to-full-stack-building-a-type-safe-app-with-react-typescript-and-tailwind-1lna)
-- [Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026](https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-04",
+    "formattedDate": "July 4, 2026",
+    "news": [
+      {
+        "title": "You reached for !important again. @layer is the real fix.",
+        "link": "https://dev.to/parsajiravand/you-reached-for-important-again-layer-is-the-real-fix-g8f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "OrinIDE v1.0.8 is here and it's a whole vibe upgrade 🚀",
+        "link": "https://dev.to/nandan_das_369/orinide-v109-is-here-and-its-a-whole-vibe-upgrade-3cpf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "One headless table engine, every React UI kit",
+        "link": "https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "One headless table engine, every React UI kit",
+        "link": "https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)",
+        "link": "https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Free PDF Tool That Runs 100% in Your Browser (No Uploads, No Servers)",
+        "link": "https://dev.to/pirate_haizei/i-built-a-free-pdf-tool-that-runs-100-in-your-browser-no-uploads-no-servers-2lle",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-03",
     "formattedDate": "July 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I built a 30MB database client in Rust. Here's what it cost me.",
         "link": "https://dev.to/raphplt/i-built-a-30mb-database-client-in-rust-heres-what-it-cost-me-1pjb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-01",
-    "formattedDate": "July 1, 2026",
-    "news": [
-      {
-        "title": "TypeScript Infers the Last Overload... So I Changed the Order",
-        "link": "https://dev.to/svs-nickm/typescript-infers-the-last-overload-so-i-changed-the-order-3018",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "We benchmarked React data grids with 50,000 rows. The winner was not the whole story.",
-        "link": "https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Fallow: A Codebase Truth Layer for Agent-Written Code",
-        "link": "https://dev.to/grimicorn/fallow-a-codebase-truth-layer-for-agent-written-code-3gk4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "We benchmarked React data grids with 50,000 rows. The winner was not the whole story.",
-        "link": "https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Frontend to Full-Stack: Building a Type-Safe App with React, TypeScript, and Tailwind",
-        "link": "https://dev.to/idan_dev/from-frontend-to-full-stack-building-a-type-safe-app-with-react-typescript-and-tailwind-1lna",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026",
-        "link": "https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97",
         "source": "Dev.to React"
       },
       {
