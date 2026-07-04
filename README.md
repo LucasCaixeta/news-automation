@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [You reached for !important again. @layer is the real fix.](https://dev.to/parsajiravand/you-reached-for-important-again-layer-is-the-real-fix-g8f)
-- [OrinIDE v1.0.8 is here and it's a whole vibe upgrade 🚀](https://dev.to/nandan_das_369/orinide-v109-is-here-and-its-a-whole-vibe-upgrade-3cpf)
-- [One headless table engine, every React UI kit](https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4)
+- [From 0 Likes to Meme Engineer](https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l)
+- [How I Built a Browser-Based Video to PowerPoint Converter](https://dev.to/larryxue/how-i-built-a-browser-based-video-to-powerpoint-converter-ag0)
+- [Position: fixed is a paint trick, not an event boundary](https://dev.to/earthbound_misfit/position-fixed-is-a-paint-trick-not-an-event-boundary-3cgp)
 
 #### Dev.to React
 
-- [One headless table engine, every React UI kit](https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4)
-- [Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
-- [I Built a Free PDF Tool That Runs 100% in Your Browser (No Uploads, No Servers)](https://dev.to/pirate_haizei/i-built-a-free-pdf-tool-that-runs-100-in-your-browser-no-uploads-no-servers-2lle)
+- [Hiding the Button Isn't Authorization: Why You Must Gate the Request](https://dev.to/nwosaemeka/hiding-the-button-isnt-authorization-why-you-must-gate-the-request-156k)
+- [5 idiomas, 8,560 skills: cómo construimos un marketplace MCP multilingüe](https://dev.to/edison_flores_6d2cd381b13/5-idiomas-8560-skills-como-construimos-un-marketplace-mcp-multilingue-30j4)
+- [I Almost Gave Up... But One Console Log Changed Everything](https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 4, 2026",
     "news": [
       {
-        "title": "You reached for !important again. @layer is the real fix.",
-        "link": "https://dev.to/parsajiravand/you-reached-for-important-again-layer-is-the-real-fix-g8f",
+        "title": "From 0 Likes to Meme Engineer",
+        "link": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "OrinIDE v1.0.8 is here and it's a whole vibe upgrade 🚀",
-        "link": "https://dev.to/nandan_das_369/orinide-v109-is-here-and-its-a-whole-vibe-upgrade-3cpf",
+        "title": "How I Built a Browser-Based Video to PowerPoint Converter",
+        "link": "https://dev.to/larryxue/how-i-built-a-browser-based-video-to-powerpoint-converter-ag0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "One headless table engine, every React UI kit",
-        "link": "https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4",
+        "title": "Position: fixed is a paint trick, not an event boundary",
+        "link": "https://dev.to/earthbound_misfit/position-fixed-is-a-paint-trick-not-an-event-boundary-3cgp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "One headless table engine, every React UI kit",
-        "link": "https://dev.to/orwamahmoud/one-headless-table-engine-every-react-ui-kit-2dm4",
+        "title": "Hiding the Button Isn't Authorization: Why You Must Gate the Request",
+        "link": "https://dev.to/nwosaemeka/hiding-the-button-isnt-authorization-why-you-must-gate-the-request-156k",
         "source": "Dev.to React"
       },
       {
-        "title": "Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)",
-        "link": "https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6",
+        "title": "5 idiomas, 8,560 skills: cómo construimos un marketplace MCP multilingüe",
+        "link": "https://dev.to/edison_flores_6d2cd381b13/5-idiomas-8560-skills-como-construimos-un-marketplace-mcp-multilingue-30j4",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Free PDF Tool That Runs 100% in Your Browser (No Uploads, No Servers)",
-        "link": "https://dev.to/pirate_haizei/i-built-a-free-pdf-tool-that-runs-100-in-your-browser-no-uploads-no-servers-2lle",
+        "title": "I Almost Gave Up... But One Console Log Changed Everything",
+        "link": "https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23",
         "source": "Dev.to React"
       },
       {
