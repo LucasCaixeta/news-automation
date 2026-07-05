@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [5 mistakes I made building an AI Chrome extension — and the readers who caught them](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64)
-- [I built a Chrome extension used daily for PR review — 5 decisions I'd make differently](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-2mnc)
-- [Your fetch() Is Still Running After the User Left](https://dev.to/parsajiravand/your-fetch-is-still-running-after-the-user-left-cmf)
+- [At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet](https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd)
+- [Watermark removal isn't lossy — you've been using the wrong tool](https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg)
+- [10 Cool CodePen Demos (June 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2026-559)
 
 #### Dev.to React
 
-- [The Mall of React: An Uncle-Nephew Guide](https://dev.to/surajrkhonde/the-mall-of-react-an-uncle-nephew-guide-4def)
-- [TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters](https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716)
-- [Building the Login Page in React with Reusable Components](https://dev.to/sandhyaallgandhuala/building-the-login-page-in-react-with-reusable-components-3he6)
+- [Why Your React App Freezes Even With Zero API Calls (And How Web Workers Fix It)](https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203)
+- [React 19 Features — What Actually Changed and What I Use](https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l)
+- [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 5, 2026",
     "news": [
       {
-        "title": "5 mistakes I made building an AI Chrome extension — and the readers who caught them",
-        "link": "https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64",
+        "title": "At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet",
+        "link": "https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a Chrome extension used daily for PR review — 5 decisions I'd make differently",
-        "link": "https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-2mnc",
+        "title": "Watermark removal isn't lossy — you've been using the wrong tool",
+        "link": "https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your fetch() Is Still Running After the User Left",
-        "link": "https://dev.to/parsajiravand/your-fetch-is-still-running-after-the-user-left-cmf",
+        "title": "10 Cool CodePen Demos (June 2026)",
+        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2026-559",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Mall of React: An Uncle-Nephew Guide",
-        "link": "https://dev.to/surajrkhonde/the-mall-of-react-an-uncle-nephew-guide-4def",
+        "title": "Why Your React App Freezes Even With Zero API Calls (And How Web Workers Fix It)",
+        "link": "https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203",
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters",
-        "link": "https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716",
+        "title": "React 19 Features — What Actually Changed and What I Use",
+        "link": "https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l",
         "source": "Dev.to React"
       },
       {
-        "title": "Building the Login Page in React with Reusable Components",
-        "link": "https://dev.to/sandhyaallgandhuala/building-the-login-page-in-react-with-reusable-components-3he6",
+        "title": "How to build a Bento portfolio using ReactJs + Typescript",
+        "link": "https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj",
         "source": "Dev.to React"
       },
       {
