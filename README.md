@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 4, 2026)
+### Today's Updates (July 5, 2026)
+
+#### Dev.to JavaScript
+
+- [5 mistakes I made building an AI Chrome extension — and the readers who caught them](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64)
+- [I built a Chrome extension used daily for PR review — 5 decisions I'd make differently](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-2mnc)
+- [Your fetch() Is Still Running After the User Left](https://dev.to/parsajiravand/your-fetch-is-still-running-after-the-user-left-cmf)
+
+#### Dev.to React
+
+- [The Mall of React: An Uncle-Nephew Guide](https://dev.to/surajrkhonde/the-mall-of-react-an-uncle-nephew-guide-4def)
+- [TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters](https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716)
+- [Building the Login Page in React with Reusable Components](https://dev.to/sandhyaallgandhuala/building-the-login-page-in-react-with-reusable-components-3he6)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 3, 2026)
+### 2 Days Ago (July 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)](https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6)
 - [Every Optimization Behind a Perfect Lighthouse Score](https://dev.to/nathan-brodin/every-optimization-behind-a-perfect-lighthouse-score-283n)
 - [Frontend For Dummies: The Architecture Every Team Should Steal](https://dev.to/anas_arafeh/frontend-for-dummies-the-architecture-every-team-should-steal-23dd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 2, 2026)
-
-#### Dev.to JavaScript
-
-- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb)
-- [:has() isn't a parent selector. It deletes JavaScript.](https://dev.to/parsajiravand/has-isnt-a-parent-selector-it-deletes-javascript-4hej)
-- [Block Google's AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii)
-
-#### Dev.to React
-
-- [🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform](https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66)
-- [🚀 Understanding Rendering in Next.js — From CSR to React Server Components (RSC)](https://dev.to/mdfahim18/understanding-rendering-in-nextjs-from-csr-to-react-server-components-rsc-b57)
-- [I built a 30MB database client in Rust. Here's what it cost me.](https://dev.to/raphplt/i-built-a-30mb-database-client-in-rust-heres-what-it-cost-me-1pjb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-05",
+    "formattedDate": "July 5, 2026",
+    "news": [
+      {
+        "title": "5 mistakes I made building an AI Chrome extension — and the readers who caught them",
+        "link": "https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a Chrome extension used daily for PR review — 5 decisions I'd make differently",
+        "link": "https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-2mnc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your fetch() Is Still Running After the User Left",
+        "link": "https://dev.to/parsajiravand/your-fetch-is-still-running-after-the-user-left-cmf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Mall of React: An Uncle-Nephew Guide",
+        "link": "https://dev.to/surajrkhonde/the-mall-of-react-an-uncle-nephew-guide-4def",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters",
+        "link": "https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building the Login Page in React with Reusable Components",
+        "link": "https://dev.to/sandhyaallgandhuala/building-the-login-page-in-react-with-reusable-components-3he6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-04",
     "formattedDate": "July 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Frontend For Dummies: The Architecture Every Team Should Steal",
         "link": "https://dev.to/anas_arafeh/frontend-for-dummies-the-architecture-every-team-should-steal-23dd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-02",
-    "formattedDate": "July 2, 2026",
-    "news": [
-      {
-        "title": "The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key",
-        "link": "https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": ":has() isn't a parent selector. It deletes JavaScript.",
-        "link": "https://dev.to/parsajiravand/has-isnt-a-parent-selector-it-deletes-javascript-4hej",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Block Google's AI Overviews at the Network Layer, Not the DOM",
-        "link": "https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform",
-        "link": "https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🚀 Understanding Rendering in Next.js — From CSR to React Server Components (RSC)",
-        "link": "https://dev.to/mdfahim18/understanding-rendering-in-nextjs-from-csr-to-react-server-components-rsc-b57",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a 30MB database client in Rust. Here's what it cost me.",
-        "link": "https://dev.to/raphplt/i-built-a-30mb-database-client-in-rust-heres-what-it-cost-me-1pjb",
         "source": "Dev.to React"
       },
       {
