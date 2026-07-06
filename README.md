@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How I made a scroll-scrubbed video portfolio fast (Next.js 15 + GSAP + canvas)](https://dev.to/pratham7711/how-i-made-a-scroll-scrubbed-video-portfolio-fast-nextjs-15-gsap-canvas-1mj6)
-- [Your scroll listener is doing CSS's job](https://dev.to/parsajiravand/your-scroll-listener-is-doing-csss-job-3f7p)
-- ["Error: Cannot find module 'aws-sdk'" on Lambda — migrating to @aws-sdk v3](https://dev.to/ntoledo319/error-cannot-find-module-aws-sdk-on-lambda-migrating-to-aws-sdk-v3-2n9k)
+- [How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests](https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8)
+- [Meteor 3.5 is out!](https://dev.to/meteor/meteor-35-is-out-j13)
+- [await doesn't mean 'meanwhile': the bug every JavaScript engineer writes in Python](https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14)
 
 #### Dev.to React
 
-- [I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time](https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m)
-- [I Built a Bilingual Profit Tracker for My Father's Cyber Café — Here's the Stack and a Few Decisions Behind It](https://dev.to/backend_null/i-built-a-bilingual-profit-tracker-for-my-fathers-cyber-cafe-heres-the-stack-and-a-few-49kk)
 - [How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests](https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8)
+- [Upgrading to Next.js 16: Field Notes from Two Production Apps](https://dev.to/ahmed_mahmoud360/upgrading-to-nextjs-16-field-notes-from-two-production-apps-mj7)
+- [I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time](https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 6, 2026",
     "news": [
       {
-        "title": "How I made a scroll-scrubbed video portfolio fast (Next.js 15 + GSAP + canvas)",
-        "link": "https://dev.to/pratham7711/how-i-made-a-scroll-scrubbed-video-portfolio-fast-nextjs-15-gsap-canvas-1mj6",
+        "title": "How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests",
+        "link": "https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your scroll listener is doing CSS's job",
-        "link": "https://dev.to/parsajiravand/your-scroll-listener-is-doing-csss-job-3f7p",
+        "title": "Meteor 3.5 is out!",
+        "link": "https://dev.to/meteor/meteor-35-is-out-j13",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"Error: Cannot find module 'aws-sdk'\" on Lambda — migrating to @aws-sdk v3",
-        "link": "https://dev.to/ntoledo319/error-cannot-find-module-aws-sdk-on-lambda-migrating-to-aws-sdk-v3-2n9k",
+        "title": "await doesn't mean 'meanwhile': the bug every JavaScript engineer writes in Python",
+        "link": "https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14",
         "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time",
-        "link": "https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Bilingual Profit Tracker for My Father's Cyber Café — Here's the Stack and a Few Decisions Behind It",
-        "link": "https://dev.to/backend_null/i-built-a-bilingual-profit-tracker-for-my-fathers-cyber-cafe-heres-the-stack-and-a-few-49kk",
-        "source": "Dev.to React"
       },
       {
         "title": "How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests",
         "link": "https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Upgrading to Next.js 16: Field Notes from Two Production Apps",
+        "link": "https://dev.to/ahmed_mahmoud360/upgrading-to-nextjs-16-field-notes-from-two-production-apps-mj7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time",
+        "link": "https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m",
         "source": "Dev.to React"
       },
       {
