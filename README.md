@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 5, 2026)
+### Today's Updates (July 6, 2026)
+
+#### Dev.to JavaScript
+
+- [How I made a scroll-scrubbed video portfolio fast (Next.js 15 + GSAP + canvas)](https://dev.to/pratham7711/how-i-made-a-scroll-scrubbed-video-portfolio-fast-nextjs-15-gsap-canvas-1mj6)
+- [Your scroll listener is doing CSS's job](https://dev.to/parsajiravand/your-scroll-listener-is-doing-csss-job-3f7p)
+- ["Error: Cannot find module 'aws-sdk'" on Lambda — migrating to @aws-sdk v3](https://dev.to/ntoledo319/error-cannot-find-module-aws-sdk-on-lambda-migrating-to-aws-sdk-v3-2n9k)
+
+#### Dev.to React
+
+- [I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time](https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m)
+- [I Built a Bilingual Profit Tracker for My Father's Cyber Café — Here's the Stack and a Few Decisions Behind It](https://dev.to/backend_null/i-built-a-bilingual-profit-tracker-for-my-fathers-cyber-cafe-heres-the-stack-and-a-few-49kk)
+- [How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests](https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 4, 2026)
+### 2 Days Ago (July 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Hiding the Button Isn't Authorization: Why You Must Gate the Request](https://dev.to/nwosaemeka/hiding-the-button-isnt-authorization-why-you-must-gate-the-request-156k)
 - [5 idiomas, 8,560 skills: cómo construimos un marketplace MCP multilingüe](https://dev.to/edison_flores_6d2cd381b13/5-idiomas-8560-skills-como-construimos-un-marketplace-mcp-multilingue-30j4)
 - [I Almost Gave Up... But One Console Log Changed Everything](https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 3, 2026)
-
-#### Dev.to JavaScript
-
-- [The 3-Second Rule of Web Performance — And How to Beat It](https://dev.to/utkarshbansal01/the-3-second-rule-of-web-performance-and-how-to-beat-it-1he1)
-- [Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)](https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6)
-- [The Pragmatic Migration: Moving from AngularJS to Angular v22](https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e)
-
-#### Dev.to React
-
-- [Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)](https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6)
-- [Every Optimization Behind a Perfect Lighthouse Score](https://dev.to/nathan-brodin/every-optimization-behind-a-perfect-lighthouse-score-283n)
-- [Frontend For Dummies: The Architecture Every Team Should Steal](https://dev.to/anas_arafeh/frontend-for-dummies-the-architecture-every-team-should-steal-23dd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-06",
+    "formattedDate": "July 6, 2026",
+    "news": [
+      {
+        "title": "How I made a scroll-scrubbed video portfolio fast (Next.js 15 + GSAP + canvas)",
+        "link": "https://dev.to/pratham7711/how-i-made-a-scroll-scrubbed-video-portfolio-fast-nextjs-15-gsap-canvas-1mj6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your scroll listener is doing CSS's job",
+        "link": "https://dev.to/parsajiravand/your-scroll-listener-is-doing-csss-job-3f7p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"Error: Cannot find module 'aws-sdk'\" on Lambda — migrating to @aws-sdk v3",
+        "link": "https://dev.to/ntoledo319/error-cannot-find-module-aws-sdk-on-lambda-migrating-to-aws-sdk-v3-2n9k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time",
+        "link": "https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Bilingual Profit Tracker for My Father's Cyber Café — Here's the Stack and a Few Decisions Behind It",
+        "link": "https://dev.to/backend_null/i-built-a-bilingual-profit-tracker-for-my-fathers-cyber-cafe-heres-the-stack-and-a-few-49kk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests",
+        "link": "https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-05",
     "formattedDate": "July 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Almost Gave Up... But One Console Log Changed Everything",
         "link": "https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "formattedDate": "July 3, 2026",
-    "news": [
-      {
-        "title": "The 3-Second Rule of Web Performance — And How to Beat It",
-        "link": "https://dev.to/utkarshbansal01/the-3-second-rule-of-web-performance-and-how-to-beat-it-1he1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)",
-        "link": "https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Pragmatic Migration: Moving from AngularJS to Angular v22",
-        "link": "https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop building marketing sites with React, Next.js, and Angular (you're overengineering them)",
-        "link": "https://dev.to/web_dev-usman/stop-building-marketing-sites-with-react-nextjs-and-angular-youre-overengineering-them-1jp6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Every Optimization Behind a Perfect Lighthouse Score",
-        "link": "https://dev.to/nathan-brodin/every-optimization-behind-a-perfect-lighthouse-score-283n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Frontend For Dummies: The Architecture Every Team Should Steal",
-        "link": "https://dev.to/anas_arafeh/frontend-for-dummies-the-architecture-every-team-should-steal-23dd",
         "source": "Dev.to React"
       },
       {
