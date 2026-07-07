@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why](https://dev.to/gavincettolo/i-built-a-zero-dependency-env-validator-with-full-typescript-inference-heres-why-2f4n)
-- [Stop Putting Everything in useState](https://dev.to/ysndmr/stop-putting-everything-in-usestate-4oeg)
-- [Tower of Hanoi from scratch: the four-line recursion behind 2^n-1 moves](https://dev.to/dev48v/tower-of-hanoi-from-scratch-the-four-line-recursion-behind-2n-1-moves-120i)
+- [This Post Was Published by Nevo David's Postiz](https://dev.to/lovestaco/this-post-was-published-by-nevo-davids-postiz-1c20)
+- [How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about](https://dev.to/mbilalkhan192003/how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-3239)
 
 #### Dev.to React
 
-- [My React Search Box Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Scope Rule.](https://dev.to/tahosin/my-react-search-box-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-scope-rule-k2i)
-- [Building Quote Management for a Payout Confirmation Flow](https://dev.to/angojay/building-quote-management-for-a-payout-confirmation-flow-2hgb)
-- [Why I built an API-first e-commerce platform](https://dev.to/luca_at_webround/why-i-built-an-api-first-e-commerce-platform-2f3m)
+- [Atlases: 16 Interactive Learning Guides That Run Code in Your Browser](https://dev.to/bsymbolic/atlases-16-interactive-learning-guides-that-run-code-in-your-browser-5650)
+- [Zustand vs Redux Toolkit — Which State Manager in 2026?](https://dev.to/safdarali25/zustand-vs-redux-toolkit-which-state-manager-in-2026-1dee)
+- [Every MCP client rebuilds the same seven screens](https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Putting Everything in useState",
-        "link": "https://dev.to/ysndmr/stop-putting-everything-in-usestate-4oeg",
+        "title": "This Post Was Published by Nevo David's Postiz",
+        "link": "https://dev.to/lovestaco/this-post-was-published-by-nevo-davids-postiz-1c20",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Tower of Hanoi from scratch: the four-line recursion behind 2^n-1 moves",
-        "link": "https://dev.to/dev48v/tower-of-hanoi-from-scratch-the-four-line-recursion-behind-2n-1-moves-120i",
+        "title": "How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about",
+        "link": "https://dev.to/mbilalkhan192003/how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-3239",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My React Search Box Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Scope Rule.",
-        "link": "https://dev.to/tahosin/my-react-search-box-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-scope-rule-k2i",
+        "title": "Atlases: 16 Interactive Learning Guides That Run Code in Your Browser",
+        "link": "https://dev.to/bsymbolic/atlases-16-interactive-learning-guides-that-run-code-in-your-browser-5650",
         "source": "Dev.to React"
       },
       {
-        "title": "Building Quote Management for a Payout Confirmation Flow",
-        "link": "https://dev.to/angojay/building-quote-management-for-a-payout-confirmation-flow-2hgb",
+        "title": "Zustand vs Redux Toolkit — Which State Manager in 2026?",
+        "link": "https://dev.to/safdarali25/zustand-vs-redux-toolkit-which-state-manager-in-2026-1dee",
         "source": "Dev.to React"
       },
       {
-        "title": "Why I built an API-first e-commerce platform",
-        "link": "https://dev.to/luca_at_webround/why-i-built-an-api-first-e-commerce-platform-2f3m",
+        "title": "Every MCP client rebuilds the same seven screens",
+        "link": "https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764",
         "source": "Dev.to React"
       },
       {
