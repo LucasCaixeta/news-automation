@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 6, 2026)
+### Today's Updates (July 7, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why](https://dev.to/gavincettolo/i-built-a-zero-dependency-env-validator-with-full-typescript-inference-heres-why-2f4n)
+- [Stop Putting Everything in useState](https://dev.to/ysndmr/stop-putting-everything-in-usestate-4oeg)
+- [Tower of Hanoi from scratch: the four-line recursion behind 2^n-1 moves](https://dev.to/dev48v/tower-of-hanoi-from-scratch-the-four-line-recursion-behind-2n-1-moves-120i)
+
+#### Dev.to React
+
+- [My React Search Box Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Scope Rule.](https://dev.to/tahosin/my-react-search-box-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-scope-rule-k2i)
+- [Building Quote Management for a Payout Confirmation Flow](https://dev.to/angojay/building-quote-management-for-a-payout-confirmation-flow-2hgb)
+- [Why I built an API-first e-commerce platform](https://dev.to/luca_at_webround/why-i-built-an-api-first-e-commerce-platform-2f3m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 5, 2026)
+### 2 Days Ago (July 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why Your React App Freezes Even With Zero API Calls (And How Web Workers Fix It)](https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203)
 - [React 19 Features — What Actually Changed and What I Use](https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l)
 - [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 4, 2026)
-
-#### Dev.to JavaScript
-
-- [From 0 Likes to Meme Engineer](https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l)
-- [How I Built a Browser-Based Video to PowerPoint Converter](https://dev.to/larryxue/how-i-built-a-browser-based-video-to-powerpoint-converter-ag0)
-- [Position: fixed is a paint trick, not an event boundary](https://dev.to/earthbound_misfit/position-fixed-is-a-paint-trick-not-an-event-boundary-3cgp)
-
-#### Dev.to React
-
-- [Hiding the Button Isn't Authorization: Why You Must Gate the Request](https://dev.to/nwosaemeka/hiding-the-button-isnt-authorization-why-you-must-gate-the-request-156k)
-- [5 idiomas, 8,560 skills: cómo construimos un marketplace MCP multilingüe](https://dev.to/edison_flores_6d2cd381b13/5-idiomas-8560-skills-como-construimos-un-marketplace-mcp-multilingue-30j4)
-- [I Almost Gave Up... But One Console Log Changed Everything](https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-07",
+    "formattedDate": "July 7, 2026",
+    "news": [
+      {
+        "title": "I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why",
+        "link": "https://dev.to/gavincettolo/i-built-a-zero-dependency-env-validator-with-full-typescript-inference-heres-why-2f4n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Putting Everything in useState",
+        "link": "https://dev.to/ysndmr/stop-putting-everything-in-usestate-4oeg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Tower of Hanoi from scratch: the four-line recursion behind 2^n-1 moves",
+        "link": "https://dev.to/dev48v/tower-of-hanoi-from-scratch-the-four-line-recursion-behind-2n-1-moves-120i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My React Search Box Froze on Every Keystroke. I Fixed It by Stealing Python's #1 Scope Rule.",
+        "link": "https://dev.to/tahosin/my-react-search-box-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-scope-rule-k2i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Quote Management for a Payout Confirmation Flow",
+        "link": "https://dev.to/angojay/building-quote-management-for-a-payout-confirmation-flow-2hgb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I built an API-first e-commerce platform",
+        "link": "https://dev.to/luca_at_webround/why-i-built-an-api-first-e-commerce-platform-2f3m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-06",
     "formattedDate": "July 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to build a Bento portfolio using ReactJs + Typescript",
         "link": "https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-04",
-    "formattedDate": "July 4, 2026",
-    "news": [
-      {
-        "title": "From 0 Likes to Meme Engineer",
-        "link": "https://dev.to/konark_13/from-0-likes-to-meme-engineer-2p8l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Browser-Based Video to PowerPoint Converter",
-        "link": "https://dev.to/larryxue/how-i-built-a-browser-based-video-to-powerpoint-converter-ag0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Position: fixed is a paint trick, not an event boundary",
-        "link": "https://dev.to/earthbound_misfit/position-fixed-is-a-paint-trick-not-an-event-boundary-3cgp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Hiding the Button Isn't Authorization: Why You Must Gate the Request",
-        "link": "https://dev.to/nwosaemeka/hiding-the-button-isnt-authorization-why-you-must-gate-the-request-156k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "5 idiomas, 8,560 skills: cómo construimos un marketplace MCP multilingüe",
-        "link": "https://dev.to/edison_flores_6d2cd381b13/5-idiomas-8560-skills-como-construimos-un-marketplace-mcp-multilingue-30j4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Almost Gave Up... But One Console Log Changed Everything",
-        "link": "https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23",
         "source": "Dev.to React"
       },
       {
