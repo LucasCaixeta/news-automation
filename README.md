@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 7, 2026)
+### Today's Updates (July 8, 2026)
+
+#### Dev.to JavaScript
+
+- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
+- [Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b)
+- [HTTP client outbound como ciudadano de primera clase: cero deps, paridad bit-a-bit, async natural](https://dev.to/martin_palopoli/http-client-outbound-como-ciudadano-de-primera-clase-cero-deps-paridad-bit-a-bit-async-natural-29j8)
+
+#### Dev.to React
+
+- [TanStack Start vs Nuxt: One Framework to rule them all?](https://dev.to/erikch/tanstack-vs-nuxt-one-framework-to-rule-them-all-4acl)
+- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
+- [🚀React Router Setup Using createBrowserRouter (v6+ Pattern)](https://dev.to/codeek/react-router-setup-using-createbrowserrouter-v6-pattern-fk1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 6, 2026)
+### 2 Days Ago (July 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests](https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8)
 - [Upgrading to Next.js 16: Field Notes from Two Production Apps](https://dev.to/ahmed_mahmoud360/upgrading-to-nextjs-16-field-notes-from-two-production-apps-mj7)
 - [I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time](https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 5, 2026)
-
-#### Dev.to JavaScript
-
-- [At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet](https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd)
-- [Watermark removal isn't lossy — you've been using the wrong tool](https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg)
-- [10 Cool CodePen Demos (June 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2026-559)
-
-#### Dev.to React
-
-- [Why Your React App Freezes Even With Zero API Calls (And How Web Workers Fix It)](https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203)
-- [React 19 Features — What Actually Changed and What I Use](https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l)
-- [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-08",
+    "formattedDate": "July 8, 2026",
+    "news": [
+      {
+        "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
+        "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
+        "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "HTTP client outbound como ciudadano de primera clase: cero deps, paridad bit-a-bit, async natural",
+        "link": "https://dev.to/martin_palopoli/http-client-outbound-como-ciudadano-de-primera-clase-cero-deps-paridad-bit-a-bit-async-natural-29j8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TanStack Start vs Nuxt: One Framework to rule them all?",
+        "link": "https://dev.to/erikch/tanstack-vs-nuxt-one-framework-to-rule-them-all-4acl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
+        "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀React Router Setup Using createBrowserRouter (v6+ Pattern)",
+        "link": "https://dev.to/codeek/react-router-setup-using-createbrowserrouter-v6-pattern-fk1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-07",
     "formattedDate": "July 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time",
         "link": "https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "formattedDate": "July 5, 2026",
-    "news": [
-      {
-        "title": "At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet",
-        "link": "https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Watermark removal isn't lossy — you've been using the wrong tool",
-        "link": "https://dev.to/katyswift/watermark-removal-isnt-lossy-youve-been-using-the-wrong-tool-1hpg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "10 Cool CodePen Demos (June 2026)",
-        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2026-559",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Your React App Freezes Even With Zero API Calls (And How Web Workers Fix It)",
-        "link": "https://dev.to/dev-arafat-alim/why-your-react-app-freezes-even-with-zero-api-calls-and-how-web-workers-fix-it-4203",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React 19 Features — What Actually Changed and What I Use",
-        "link": "https://dev.to/safdarali25/react-19-features-what-actually-changed-and-what-i-use-m8l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to build a Bento portfolio using ReactJs + Typescript",
-        "link": "https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj",
         "source": "Dev.to React"
       },
       {
