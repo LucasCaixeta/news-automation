@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
+- [You can't transition a CSS variable. @property says otherwise.](https://dev.to/parsajiravand/you-cant-transition-a-css-variable-property-says-otherwise-50a0)
+- [What is a Transient Prop?](https://dev.to/usama_dev/what-is-a-transient-prop-2pkj)
 - [Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b)
-- [HTTP client outbound como ciudadano de primera clase: cero deps, paridad bit-a-bit, async natural](https://dev.to/martin_palopoli/http-client-outbound-como-ciudadano-de-primera-clase-cero-deps-paridad-bit-a-bit-async-natural-29j8)
 
 #### Dev.to React
 
-- [TanStack Start vs Nuxt: One Framework to rule them all?](https://dev.to/erikch/tanstack-vs-nuxt-one-framework-to-rule-them-all-4acl)
 - [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
-- [🚀React Router Setup Using createBrowserRouter (v6+ Pattern)](https://dev.to/codeek/react-router-setup-using-createbrowserrouter-v6-pattern-fk1)
+- [Next.js vs React in 2026](https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf)
+- [React useCallback vs useMemo — When You Actually Need Them](https://dev.to/safdarali25/react-usecallback-vs-usememo-when-you-actually-need-them-1bef)
 
 #### React Blog
 
@@ -89,8 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 8, 2026",
     "news": [
       {
-        "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
-        "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
+        "title": "You can't transition a CSS variable. @property says otherwise.",
+        "link": "https://dev.to/parsajiravand/you-cant-transition-a-css-variable-property-says-otherwise-50a0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What is a Transient Prop?",
+        "link": "https://dev.to/usama_dev/what-is-a-transient-prop-2pkj",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "HTTP client outbound como ciudadano de primera clase: cero deps, paridad bit-a-bit, async natural",
-        "link": "https://dev.to/martin_palopoli/http-client-outbound-como-ciudadano-de-primera-clase-cero-deps-paridad-bit-a-bit-async-natural-29j8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TanStack Start vs Nuxt: One Framework to rule them all?",
-        "link": "https://dev.to/erikch/tanstack-vs-nuxt-one-framework-to-rule-them-all-4acl",
-        "source": "Dev.to React"
-      },
-      {
         "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
         "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
         "source": "Dev.to React"
       },
       {
-        "title": "🚀React Router Setup Using createBrowserRouter (v6+ Pattern)",
-        "link": "https://dev.to/codeek/react-router-setup-using-createbrowserrouter-v6-pattern-fk1",
+        "title": "Next.js vs React in 2026",
+        "link": "https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useCallback vs useMemo — When You Actually Need Them",
+        "link": "https://dev.to/safdarali25/react-usecallback-vs-usememo-when-you-actually-need-them-1bef",
         "source": "Dev.to React"
       },
       {
