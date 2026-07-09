@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [You kept Sass for one reason. Native CSS nesting just ended it.](https://dev.to/parsajiravand/you-kept-sass-for-one-reason-native-css-nesting-just-ended-it-2l1g)
-- [How I Built a High-Performance, Treadmill Calorie Core Suite (Vanilla JS)](https://dev.to/farhan_adil1/how-i-built-a-high-performance-treadmill-calorie-core-suite-vanilla-js-aad)
-- [Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀](https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik)
+- [Migrating a Wix blog to Markdown: the server-HTML trap and the zero-width regex that pegged my CPU](https://dev.to/devalexmartinez/migrating-a-wix-blog-to-markdown-the-server-html-trap-and-the-zero-width-regex-that-pegged-my-cpu-1lhc)
+- [Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance](https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k)
+- [How I Built a Local AI Orchestrator and City AI: My Journey as a Developer](https://dev.to/lostxmusafir/how-i-built-a-local-ai-orchestrator-and-city-ai-my-journey-as-a-developer-46ea)
 
 #### Dev.to React
 
-- [I Rebuilt My Habit Tracker's Core Logic as One Hook. Here's What I Learned.](https://dev.to/alexkazanski/i-rebuilt-my-habit-trackers-core-logic-as-one-hook-heres-what-i-learned-28pl)
-- [hulianui: a React component library with 349 components, OKLCH runtime theming, and its own llms.txt for AI coding assistants](https://dev.to/zhanglala103838/hulianui-a-react-component-library-with-349-components-oklch-runtime-theming-and-its-own-2jl3)
-- [Next.js vs React in 2026](https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf)
+- [WCAG 2.2 Accessibility for React Developers — Practical Guide](https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o)
+- [Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5](https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l)
+- [React Auth Emails Without State Drift](https://dev.to/ryanlee91/react-auth-emails-without-state-drift-ec1)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 9, 2026",
     "news": [
       {
-        "title": "You kept Sass for one reason. Native CSS nesting just ended it.",
-        "link": "https://dev.to/parsajiravand/you-kept-sass-for-one-reason-native-css-nesting-just-ended-it-2l1g",
+        "title": "Migrating a Wix blog to Markdown: the server-HTML trap and the zero-width regex that pegged my CPU",
+        "link": "https://dev.to/devalexmartinez/migrating-a-wix-blog-to-markdown-the-server-html-trap-and-the-zero-width-regex-that-pegged-my-cpu-1lhc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Built a High-Performance, Treadmill Calorie Core Suite (Vanilla JS)",
-        "link": "https://dev.to/farhan_adil1/how-i-built-a-high-performance-treadmill-calorie-core-suite-vanilla-js-aad",
+        "title": "Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance",
+        "link": "https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
-        "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+        "title": "How I Built a Local AI Orchestrator and City AI: My Journey as a Developer",
+        "link": "https://dev.to/lostxmusafir/how-i-built-a-local-ai-orchestrator-and-city-ai-my-journey-as-a-developer-46ea",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Rebuilt My Habit Tracker's Core Logic as One Hook. Here's What I Learned.",
-        "link": "https://dev.to/alexkazanski/i-rebuilt-my-habit-trackers-core-logic-as-one-hook-heres-what-i-learned-28pl",
+        "title": "WCAG 2.2 Accessibility for React Developers — Practical Guide",
+        "link": "https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o",
         "source": "Dev.to React"
       },
       {
-        "title": "hulianui: a React component library with 349 components, OKLCH runtime theming, and its own llms.txt for AI coding assistants",
-        "link": "https://dev.to/zhanglala103838/hulianui-a-react-component-library-with-349-components-oklch-runtime-theming-and-its-own-2jl3",
+        "title": "Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5",
+        "link": "https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js vs React in 2026",
-        "link": "https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf",
+        "title": "React Auth Emails Without State Drift",
+        "link": "https://dev.to/ryanlee91/react-auth-emails-without-state-drift-ec1",
         "source": "Dev.to React"
       },
       {
