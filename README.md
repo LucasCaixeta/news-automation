@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 8, 2026)
+### Today's Updates (July 9, 2026)
+
+#### Dev.to JavaScript
+
+- [You kept Sass for one reason. Native CSS nesting just ended it.](https://dev.to/parsajiravand/you-kept-sass-for-one-reason-native-css-nesting-just-ended-it-2l1g)
+- [How I Built a High-Performance, Treadmill Calorie Core Suite (Vanilla JS)](https://dev.to/farhan_adil1/how-i-built-a-high-performance-treadmill-calorie-core-suite-vanilla-js-aad)
+- [Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀](https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik)
+
+#### Dev.to React
+
+- [I Rebuilt My Habit Tracker's Core Logic as One Hook. Here's What I Learned.](https://dev.to/alexkazanski/i-rebuilt-my-habit-trackers-core-logic-as-one-hook-heres-what-i-learned-28pl)
+- [hulianui: a React component library with 349 components, OKLCH runtime theming, and its own llms.txt for AI coding assistants](https://dev.to/zhanglala103838/hulianui-a-react-component-library-with-349-components-oklch-runtime-theming-and-its-own-2jl3)
+- [Next.js vs React in 2026](https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 7, 2026)
+### 2 Days Ago (July 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Atlases: 16 Interactive Learning Guides That Run Code in Your Browser](https://dev.to/bsymbolic/atlases-16-interactive-learning-guides-that-run-code-in-your-browser-5650)
 - [Zustand vs Redux Toolkit — Which State Manager in 2026?](https://dev.to/safdarali25/zustand-vs-redux-toolkit-which-state-manager-in-2026-1dee)
 - [Every MCP client rebuilds the same seven screens](https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 6, 2026)
-
-#### Dev.to JavaScript
-
-- [How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests](https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8)
-- [Meteor 3.5 is out!](https://dev.to/meteor/meteor-35-is-out-j13)
-- [await doesn't mean 'meanwhile': the bug every JavaScript engineer writes in Python](https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14)
-
-#### Dev.to React
-
-- [How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests](https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8)
-- [Upgrading to Next.js 16: Field Notes from Two Production Apps](https://dev.to/ahmed_mahmoud360/upgrading-to-nextjs-16-field-notes-from-two-production-apps-mj7)
-- [I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time](https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-09",
+    "formattedDate": "July 9, 2026",
+    "news": [
+      {
+        "title": "You kept Sass for one reason. Native CSS nesting just ended it.",
+        "link": "https://dev.to/parsajiravand/you-kept-sass-for-one-reason-native-css-nesting-just-ended-it-2l1g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a High-Performance, Treadmill Calorie Core Suite (Vanilla JS)",
+        "link": "https://dev.to/farhan_adil1/how-i-built-a-high-performance-treadmill-calorie-core-suite-vanilla-js-aad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
+        "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Rebuilt My Habit Tracker's Core Logic as One Hook. Here's What I Learned.",
+        "link": "https://dev.to/alexkazanski/i-rebuilt-my-habit-trackers-core-logic-as-one-hook-heres-what-i-learned-28pl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "hulianui: a React component library with 349 components, OKLCH runtime theming, and its own llms.txt for AI coding assistants",
+        "link": "https://dev.to/zhanglala103838/hulianui-a-react-component-library-with-349-components-oklch-runtime-theming-and-its-own-2jl3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js vs React in 2026",
+        "link": "https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-08",
     "formattedDate": "July 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Every MCP client rebuilds the same seven screens",
         "link": "https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-06",
-    "formattedDate": "July 6, 2026",
-    "news": [
-      {
-        "title": "How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests",
-        "link": "https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Meteor 3.5 is out!",
-        "link": "https://dev.to/meteor/meteor-35-is-out-j13",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "await doesn't mean 'meanwhile': the bug every JavaScript engineer writes in Python",
-        "link": "https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Test 40+ UI Components in Under a Minute: Speeding Up Screenshot Tests",
-        "link": "https://dev.to/aatrishin/how-to-test-40-ui-components-in-under-a-minute-speeding-up-screenshot-tests-35p8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Upgrading to Next.js 16: Field Notes from Two Production Apps",
-        "link": "https://dev.to/ahmed_mahmoud360/upgrading-to-nextjs-16-field-notes-from-two-production-apps-mj7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a fitness SaaS in Next.js — here are the 3 problems that ate all my time",
-        "link": "https://dev.to/nuttzzz_/i-built-a-fitness-saas-in-nextjs-here-are-the-3-problems-that-ate-all-my-time-2p6m",
         "source": "Dev.to React"
       },
       {
