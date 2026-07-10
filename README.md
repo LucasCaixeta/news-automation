@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 9, 2026)
+### Today's Updates (July 10, 2026)
+
+#### Dev.to JavaScript
+
+- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
+- [Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n)
+- [You've been deep-cloning objects with a JSON hack. `structuredClone` does it right.](https://dev.to/parsajiravand/youve-been-deep-cloning-objects-with-a-json-hack-structuredclone-does-it-right-2j0f)
+
+#### Dev.to React
+
+- [Building PWAs: Offline-First Like a Jedi](https://dev.to/timevolt/building-pwas-offline-first-like-a-jedi-4i3a)
+- [TanStack Table v8: Complete React Data Table Guide (2026)](https://dev.to/stacknotice/tanstack-table-v8-complete-react-data-table-guide-2026-4chg)
+- [Building Maintainable Frontend Systems](https://dev.to/ufomadu_nnaemeka_89/building-maintainable-frontend-systems-hie)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 8, 2026)
+### 2 Days Ago (July 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
 - [Next.js vs React in 2026](https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf)
 - [React useCallback vs useMemo — When You Actually Need Them](https://dev.to/safdarali25/react-usecallback-vs-usememo-when-you-actually-need-them-1bef)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 7, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why](https://dev.to/gavincettolo/i-built-a-zero-dependency-env-validator-with-full-typescript-inference-heres-why-2f4n)
-- [This Post Was Published by Nevo David's Postiz](https://dev.to/lovestaco/this-post-was-published-by-nevo-davids-postiz-1c20)
-- [How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about](https://dev.to/mbilalkhan192003/how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-3239)
-
-#### Dev.to React
-
-- [Atlases: 16 Interactive Learning Guides That Run Code in Your Browser](https://dev.to/bsymbolic/atlases-16-interactive-learning-guides-that-run-code-in-your-browser-5650)
-- [Zustand vs Redux Toolkit — Which State Manager in 2026?](https://dev.to/safdarali25/zustand-vs-redux-toolkit-which-state-manager-in-2026-1dee)
-- [Every MCP client rebuilds the same seven screens](https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-10",
+    "formattedDate": "July 10, 2026",
+    "news": [
+      {
+        "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
+        "link": "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
+        "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You've been deep-cloning objects with a JSON hack. `structuredClone` does it right.",
+        "link": "https://dev.to/parsajiravand/youve-been-deep-cloning-objects-with-a-json-hack-structuredclone-does-it-right-2j0f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building PWAs: Offline-First Like a Jedi",
+        "link": "https://dev.to/timevolt/building-pwas-offline-first-like-a-jedi-4i3a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TanStack Table v8: Complete React Data Table Guide (2026)",
+        "link": "https://dev.to/stacknotice/tanstack-table-v8-complete-react-data-table-guide-2026-4chg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Maintainable Frontend Systems",
+        "link": "https://dev.to/ufomadu_nnaemeka_89/building-maintainable-frontend-systems-hie",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-09",
     "formattedDate": "July 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React useCallback vs useMemo — When You Actually Need Them",
         "link": "https://dev.to/safdarali25/react-usecallback-vs-usememo-when-you-actually-need-them-1bef",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-07",
-    "formattedDate": "July 7, 2026",
-    "news": [
-      {
-        "title": "I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why",
-        "link": "https://dev.to/gavincettolo/i-built-a-zero-dependency-env-validator-with-full-typescript-inference-heres-why-2f4n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "This Post Was Published by Nevo David's Postiz",
-        "link": "https://dev.to/lovestaco/this-post-was-published-by-nevo-davids-postiz-1c20",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about",
-        "link": "https://dev.to/mbilalkhan192003/how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-3239",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Atlases: 16 Interactive Learning Guides That Run Code in Your Browser",
-        "link": "https://dev.to/bsymbolic/atlases-16-interactive-learning-guides-that-run-code-in-your-browser-5650",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Zustand vs Redux Toolkit — Which State Manager in 2026?",
-        "link": "https://dev.to/safdarali25/zustand-vs-redux-toolkit-which-state-manager-in-2026-1dee",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Every MCP client rebuilds the same seven screens",
-        "link": "https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764",
         "source": "Dev.to React"
       },
       {
