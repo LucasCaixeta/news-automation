@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
+- [Make AI Agents See Your Website](https://dev.to/kumakint/make-ai-agents-see-your-website-1d23)
 - [Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n)
-- [You've been deep-cloning objects with a JSON hack. `structuredClone` does it right.](https://dev.to/parsajiravand/youve-been-deep-cloning-objects-with-a-json-hack-structuredclone-does-it-right-2j0f)
 
 #### Dev.to React
 
-- [Building PWAs: Offline-First Like a Jedi](https://dev.to/timevolt/building-pwas-offline-first-like-a-jedi-4i3a)
-- [TanStack Table v8: Complete React Data Table Guide (2026)](https://dev.to/stacknotice/tanstack-table-v8-complete-react-data-table-guide-2026-4chg)
-- [Building Maintainable Frontend Systems](https://dev.to/ufomadu_nnaemeka_89/building-maintainable-frontend-systems-hie)
+- [I Built a Rubik’s Cube Solver That Verifies Every Solution by Replaying It](https://dev.to/wozzp/i-built-a-rubiks-cube-solver-that-verifies-every-solution-by-replaying-it-44f0)
+- [RivalryFuel: AI Hype Commentary for Any Rivalry](https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303)
+- [OG Images Without an Image CDN](https://dev.to/nathan-brodin/og-images-without-an-image-cdn-2g0l)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
+        "title": "Make AI Agents See Your Website",
+        "link": "https://dev.to/kumakint/make-ai-agents-see-your-website-1d23",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
         "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "You've been deep-cloning objects with a JSON hack. `structuredClone` does it right.",
-        "link": "https://dev.to/parsajiravand/youve-been-deep-cloning-objects-with-a-json-hack-structuredclone-does-it-right-2j0f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building PWAs: Offline-First Like a Jedi",
-        "link": "https://dev.to/timevolt/building-pwas-offline-first-like-a-jedi-4i3a",
+        "title": "I Built a Rubik’s Cube Solver That Verifies Every Solution by Replaying It",
+        "link": "https://dev.to/wozzp/i-built-a-rubiks-cube-solver-that-verifies-every-solution-by-replaying-it-44f0",
         "source": "Dev.to React"
       },
       {
-        "title": "TanStack Table v8: Complete React Data Table Guide (2026)",
-        "link": "https://dev.to/stacknotice/tanstack-table-v8-complete-react-data-table-guide-2026-4chg",
+        "title": "RivalryFuel: AI Hype Commentary for Any Rivalry",
+        "link": "https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303",
         "source": "Dev.to React"
       },
       {
-        "title": "Building Maintainable Frontend Systems",
-        "link": "https://dev.to/ufomadu_nnaemeka_89/building-maintainable-frontend-systems-hie",
+        "title": "OG Images Without an Image CDN",
+        "link": "https://dev.to/nathan-brodin/og-images-without-an-image-cdn-2g0l",
         "source": "Dev.to React"
       },
       {
