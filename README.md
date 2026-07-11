@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
-- [Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n)
-- [Scraping Booking.com Without Touching the Search Box (City Landings + the Apollo Cache)](https://dev.to/jdpg23/scraping-bookingcom-without-touching-the-search-box-city-landings-the-apollo-cache-b7f)
+- [Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it](https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7)
+- [I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does](https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef)
+- [I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
 
 #### Dev.to React
 
-- [I Deployed My Entire Realtime App — Frontend, Node Backend, and Database — on PocketBase Cloud](https://dev.to/tienbuilds/i-deployed-my-entire-realtime-app-frontend-node-backend-and-database-on-pocketbase-cloud-462m)
-- [I've maintained Linaria for six years. Here's why I built something new](https://dev.to/anber/ive-maintained-linaria-for-six-years-heres-why-i-built-something-new-5eae)
-- [Type-Safe Email Events for React Teams](https://dev.to/ryanlee91/type-safe-email-events-for-react-teams-196l)
+- [I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
+- [React Approval Emails Without Effect Loops](https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp)
+- [Swiper: the touch slider that won't wreck your sprint](https://dev.to/jtorchia/swiper-the-touch-slider-that-wont-wreck-your-sprint-291m)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 11, 2026",
     "news": [
       {
-        "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
-        "link": "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+        "title": "Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it",
+        "link": "https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-        "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
+        "title": "I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does",
+        "link": "https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Scraping Booking.com Without Touching the Search Box (City Landings + the Apollo Cache)",
-        "link": "https://dev.to/jdpg23/scraping-bookingcom-without-touching-the-search-box-city-landings-the-apollo-cache-b7f",
+        "title": "I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected",
+        "link": "https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Deployed My Entire Realtime App — Frontend, Node Backend, and Database — on PocketBase Cloud",
-        "link": "https://dev.to/tienbuilds/i-deployed-my-entire-realtime-app-frontend-node-backend-and-database-on-pocketbase-cloud-462m",
+        "title": "I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected",
+        "link": "https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f",
         "source": "Dev.to React"
       },
       {
-        "title": "I've maintained Linaria for six years. Here's why I built something new",
-        "link": "https://dev.to/anber/ive-maintained-linaria-for-six-years-heres-why-i-built-something-new-5eae",
+        "title": "React Approval Emails Without Effect Loops",
+        "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
         "source": "Dev.to React"
       },
       {
-        "title": "Type-Safe Email Events for React Teams",
-        "link": "https://dev.to/ryanlee91/type-safe-email-events-for-react-teams-196l",
+        "title": "Swiper: the touch slider that won't wreck your sprint",
+        "link": "https://dev.to/jtorchia/swiper-the-touch-slider-that-wont-wreck-your-sprint-291m",
         "source": "Dev.to React"
       },
       {
