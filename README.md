@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 10, 2026)
+### Today's Updates (July 11, 2026)
+
+#### Dev.to JavaScript
+
+- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
+- [Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n)
+- [Scraping Booking.com Without Touching the Search Box (City Landings + the Apollo Cache)](https://dev.to/jdpg23/scraping-bookingcom-without-touching-the-search-box-city-landings-the-apollo-cache-b7f)
+
+#### Dev.to React
+
+- [I Deployed My Entire Realtime App — Frontend, Node Backend, and Database — on PocketBase Cloud](https://dev.to/tienbuilds/i-deployed-my-entire-realtime-app-frontend-node-backend-and-database-on-pocketbase-cloud-462m)
+- [I've maintained Linaria for six years. Here's why I built something new](https://dev.to/anber/ive-maintained-linaria-for-six-years-heres-why-i-built-something-new-5eae)
+- [Type-Safe Email Events for React Teams](https://dev.to/ryanlee91/type-safe-email-events-for-react-teams-196l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 9, 2026)
+### 2 Days Ago (July 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [WCAG 2.2 Accessibility for React Developers — Practical Guide](https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o)
 - [Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5](https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l)
 - [React Auth Emails Without State Drift](https://dev.to/ryanlee91/react-auth-emails-without-state-drift-ec1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 8, 2026)
-
-#### Dev.to JavaScript
-
-- [You can't transition a CSS variable. @property says otherwise.](https://dev.to/parsajiravand/you-cant-transition-a-css-variable-property-says-otherwise-50a0)
-- [What is a Transient Prop?](https://dev.to/usama_dev/what-is-a-transient-prop-2pkj)
-- [Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b)
-
-#### Dev.to React
-
-- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
-- [Next.js vs React in 2026](https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf)
-- [React useCallback vs useMemo — When You Actually Need Them](https://dev.to/safdarali25/react-usecallback-vs-usememo-when-you-actually-need-them-1bef)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-11",
+    "formattedDate": "July 11, 2026",
+    "news": [
+      {
+        "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
+        "link": "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
+        "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Scraping Booking.com Without Touching the Search Box (City Landings + the Apollo Cache)",
+        "link": "https://dev.to/jdpg23/scraping-bookingcom-without-touching-the-search-box-city-landings-the-apollo-cache-b7f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Deployed My Entire Realtime App — Frontend, Node Backend, and Database — on PocketBase Cloud",
+        "link": "https://dev.to/tienbuilds/i-deployed-my-entire-realtime-app-frontend-node-backend-and-database-on-pocketbase-cloud-462m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I've maintained Linaria for six years. Here's why I built something new",
+        "link": "https://dev.to/anber/ive-maintained-linaria-for-six-years-heres-why-i-built-something-new-5eae",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Type-Safe Email Events for React Teams",
+        "link": "https://dev.to/ryanlee91/type-safe-email-events-for-react-teams-196l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-10",
     "formattedDate": "July 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Auth Emails Without State Drift",
         "link": "https://dev.to/ryanlee91/react-auth-emails-without-state-drift-ec1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-08",
-    "formattedDate": "July 8, 2026",
-    "news": [
-      {
-        "title": "You can't transition a CSS variable. @property says otherwise.",
-        "link": "https://dev.to/parsajiravand/you-cant-transition-a-css-variable-property-says-otherwise-50a0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What is a Transient Prop?",
-        "link": "https://dev.to/usama_dev/what-is-a-transient-prop-2pkj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
-        "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
-        "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js vs React in 2026",
-        "link": "https://dev.to/agenyc/nextjs-vs-react-in-2026-4hnf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React useCallback vs useMemo — When You Actually Need Them",
-        "link": "https://dev.to/safdarali25/react-usecallback-vs-usememo-when-you-actually-need-them-1bef",
         "source": "Dev.to React"
       },
       {
