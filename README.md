@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Your dropdown is a div. The browser has a native popover now.](https://dev.to/parsajiravand/your-dropdown-is-a-div-the-browser-has-a-native-popover-now-43d6)
-- [The Hotel Upgrade Hack: Mass Assignment Vulnerabilities in APIs](https://dev.to/khuepm/the-hotel-upgrade-hack-mass-assignment-vulnerabilities-in-apis-3h62)
-- [I Built a Chrome Dictionary Extension in 2 Weeks:](https://dev.to/shanbasu/i-built-a-chrome-dictionary-extension-in-2-weeks-4k39)
+- [I Built An AI That Roasts Me. It Hurt.](https://dev.to/nandan_das_369/i-built-an-ai-that-roasts-me-it-hurt-381f)
+- [Compressing images in the browser with the Canvas API (no server needed)](https://dev.to/swifttooly/compressing-images-in-the-browser-with-the-canvas-api-no-server-needed-1ga7)
+- [typeof null is "object" — a bug from 1995 nobody can fix](https://dev.to/parthctrl/typeof-null-is-object-a-bug-from-1995-nobody-can-fix-268g)
 
 #### Dev.to React
 
-- [What actually crosses the React Server Component boundary](https://dev.to/seydi_charyev_3772861015f/what-actually-crosses-the-react-server-component-boundary-4fjg)
-- [Whether it's "coding," "cooking," "rock climbing," or "helping others" -- the AI will craft something beautiful just for you.](https://dev.to/karleeov/whether-its-coding-cooking-rock-climbing-or-helping-others-the-ai-will-craft-4j41)
-- [TanStack Query in 2026: What Server Components Didn't Replace](https://dev.to/ahmed_mahmoud360/tanstack-query-in-2026-what-server-components-didnt-replace-5d49)
+- [Sentry Source Map Upload Debugging: From 0% Adoption to Full Resolution](https://dev.to/utlkit/sentry-source-map-upload-debugging-from-0-adoption-to-full-resolution-28l3)
+- [How I Built a GeoGuessr Game for Super Mario Odyssey](https://dev.to/timexo/how-i-built-a-geoguessr-game-for-super-mario-odyssey-g04)
+- [From Raw SVG to Production JSX: DOMParser, TypeScript, and Manifest V3](https://dev.to/vcoder_studio/from-raw-svg-to-production-jsx-domparser-typescript-and-manifest-v3-450m)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 12, 2026",
     "news": [
       {
-        "title": "Your dropdown is a div. The browser has a native popover now.",
-        "link": "https://dev.to/parsajiravand/your-dropdown-is-a-div-the-browser-has-a-native-popover-now-43d6",
+        "title": "I Built An AI That Roasts Me. It Hurt.",
+        "link": "https://dev.to/nandan_das_369/i-built-an-ai-that-roasts-me-it-hurt-381f",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Hotel Upgrade Hack: Mass Assignment Vulnerabilities in APIs",
-        "link": "https://dev.to/khuepm/the-hotel-upgrade-hack-mass-assignment-vulnerabilities-in-apis-3h62",
+        "title": "Compressing images in the browser with the Canvas API (no server needed)",
+        "link": "https://dev.to/swifttooly/compressing-images-in-the-browser-with-the-canvas-api-no-server-needed-1ga7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Chrome Dictionary Extension in 2 Weeks:",
-        "link": "https://dev.to/shanbasu/i-built-a-chrome-dictionary-extension-in-2-weeks-4k39",
+        "title": "typeof null is \"object\" — a bug from 1995 nobody can fix",
+        "link": "https://dev.to/parthctrl/typeof-null-is-object-a-bug-from-1995-nobody-can-fix-268g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What actually crosses the React Server Component boundary",
-        "link": "https://dev.to/seydi_charyev_3772861015f/what-actually-crosses-the-react-server-component-boundary-4fjg",
+        "title": "Sentry Source Map Upload Debugging: From 0% Adoption to Full Resolution",
+        "link": "https://dev.to/utlkit/sentry-source-map-upload-debugging-from-0-adoption-to-full-resolution-28l3",
         "source": "Dev.to React"
       },
       {
-        "title": "Whether it's \"coding,\" \"cooking,\" \"rock climbing,\" or \"helping others\" -- the AI will craft something beautiful just for you.",
-        "link": "https://dev.to/karleeov/whether-its-coding-cooking-rock-climbing-or-helping-others-the-ai-will-craft-4j41",
+        "title": "How I Built a GeoGuessr Game for Super Mario Odyssey",
+        "link": "https://dev.to/timexo/how-i-built-a-geoguessr-game-for-super-mario-odyssey-g04",
         "source": "Dev.to React"
       },
       {
-        "title": "TanStack Query in 2026: What Server Components Didn't Replace",
-        "link": "https://dev.to/ahmed_mahmoud360/tanstack-query-in-2026-what-server-components-didnt-replace-5d49",
+        "title": "From Raw SVG to Production JSX: DOMParser, TypeScript, and Manifest V3",
+        "link": "https://dev.to/vcoder_studio/from-raw-svg-to-production-jsx-domparser-typescript-and-manifest-v3-450m",
         "source": "Dev.to React"
       },
       {
