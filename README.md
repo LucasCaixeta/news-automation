@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 11, 2026)
+### Today's Updates (July 12, 2026)
+
+#### Dev.to JavaScript
+
+- [Your dropdown is a div. The browser has a native popover now.](https://dev.to/parsajiravand/your-dropdown-is-a-div-the-browser-has-a-native-popover-now-43d6)
+- [The Hotel Upgrade Hack: Mass Assignment Vulnerabilities in APIs](https://dev.to/khuepm/the-hotel-upgrade-hack-mass-assignment-vulnerabilities-in-apis-3h62)
+- [I Built a Chrome Dictionary Extension in 2 Weeks:](https://dev.to/shanbasu/i-built-a-chrome-dictionary-extension-in-2-weeks-4k39)
+
+#### Dev.to React
+
+- [What actually crosses the React Server Component boundary](https://dev.to/seydi_charyev_3772861015f/what-actually-crosses-the-react-server-component-boundary-4fjg)
+- [Whether it's "coding," "cooking," "rock climbing," or "helping others" -- the AI will craft something beautiful just for you.](https://dev.to/karleeov/whether-its-coding-cooking-rock-climbing-or-helping-others-the-ai-will-craft-4j41)
+- [TanStack Query in 2026: What Server Components Didn't Replace](https://dev.to/ahmed_mahmoud360/tanstack-query-in-2026-what-server-components-didnt-replace-5d49)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 10, 2026)
+### 2 Days Ago (July 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Rubik’s Cube Solver That Verifies Every Solution by Replaying It](https://dev.to/wozzp/i-built-a-rubiks-cube-solver-that-verifies-every-solution-by-replaying-it-44f0)
 - [RivalryFuel: AI Hype Commentary for Any Rivalry](https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303)
 - [OG Images Without an Image CDN](https://dev.to/nathan-brodin/og-images-without-an-image-cdn-2g0l)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 9, 2026)
-
-#### Dev.to JavaScript
-
-- [Migrating a Wix blog to Markdown: the server-HTML trap and the zero-width regex that pegged my CPU](https://dev.to/devalexmartinez/migrating-a-wix-blog-to-markdown-the-server-html-trap-and-the-zero-width-regex-that-pegged-my-cpu-1lhc)
-- [Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance](https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k)
-- [How I Built a Local AI Orchestrator and City AI: My Journey as a Developer](https://dev.to/lostxmusafir/how-i-built-a-local-ai-orchestrator-and-city-ai-my-journey-as-a-developer-46ea)
-
-#### Dev.to React
-
-- [WCAG 2.2 Accessibility for React Developers — Practical Guide](https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o)
-- [Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5](https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l)
-- [React Auth Emails Without State Drift](https://dev.to/ryanlee91/react-auth-emails-without-state-drift-ec1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-12",
+    "formattedDate": "July 12, 2026",
+    "news": [
+      {
+        "title": "Your dropdown is a div. The browser has a native popover now.",
+        "link": "https://dev.to/parsajiravand/your-dropdown-is-a-div-the-browser-has-a-native-popover-now-43d6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Hotel Upgrade Hack: Mass Assignment Vulnerabilities in APIs",
+        "link": "https://dev.to/khuepm/the-hotel-upgrade-hack-mass-assignment-vulnerabilities-in-apis-3h62",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Chrome Dictionary Extension in 2 Weeks:",
+        "link": "https://dev.to/shanbasu/i-built-a-chrome-dictionary-extension-in-2-weeks-4k39",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What actually crosses the React Server Component boundary",
+        "link": "https://dev.to/seydi_charyev_3772861015f/what-actually-crosses-the-react-server-component-boundary-4fjg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Whether it's \"coding,\" \"cooking,\" \"rock climbing,\" or \"helping others\" -- the AI will craft something beautiful just for you.",
+        "link": "https://dev.to/karleeov/whether-its-coding-cooking-rock-climbing-or-helping-others-the-ai-will-craft-4j41",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TanStack Query in 2026: What Server Components Didn't Replace",
+        "link": "https://dev.to/ahmed_mahmoud360/tanstack-query-in-2026-what-server-components-didnt-replace-5d49",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-11",
     "formattedDate": "July 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "OG Images Without an Image CDN",
         "link": "https://dev.to/nathan-brodin/og-images-without-an-image-cdn-2g0l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-09",
-    "formattedDate": "July 9, 2026",
-    "news": [
-      {
-        "title": "Migrating a Wix blog to Markdown: the server-HTML trap and the zero-width regex that pegged my CPU",
-        "link": "https://dev.to/devalexmartinez/migrating-a-wix-blog-to-markdown-the-server-html-trap-and-the-zero-width-regex-that-pegged-my-cpu-1lhc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance",
-        "link": "https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a Local AI Orchestrator and City AI: My Journey as a Developer",
-        "link": "https://dev.to/lostxmusafir/how-i-built-a-local-ai-orchestrator-and-city-ai-my-journey-as-a-developer-46ea",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "WCAG 2.2 Accessibility for React Developers — Practical Guide",
-        "link": "https://dev.to/safdarali25/wcag-22-accessibility-for-react-developers-practical-guide-1b7o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Modular Panel-Based Management Software with React 19, TypeScript, and Dockview 5",
-        "link": "https://dev.to/fedesw5402/building-a-modular-panel-based-management-software-with-react-19-typescript-and-dockview-5-2h1l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Auth Emails Without State Drift",
-        "link": "https://dev.to/ryanlee91/react-auth-emails-without-state-drift-ec1",
         "source": "Dev.to React"
       },
       {
