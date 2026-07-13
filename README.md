@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 12, 2026)
+### Today's Updates (July 13, 2026)
+
+#### Dev.to JavaScript
+
+- [You reach for `Promise.all` for every concurrent request. Here's when to use the other three.](https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6)
+- [The Everyday Backend Engineer: Step 1 — The Singleton Pattern](https://dev.to/aabiskar/the-everyday-backend-engineer-step-1-the-singleton-pattern-39pg)
+- [The Prompt Loop Problem: When Every Fix Breaks Something Else](https://dev.to/mateo_ruiz_6992b1fce47843/the-prompt-loop-problem-when-every-fix-breaks-something-else-4dd8)
+
+#### Dev.to React
+
+- [Stop Letting AI Write Your Entire Component](https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280)
+- [next-safe-action: Type-Safe Server Actions in Next.js (2026)](https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl)
+- [Optimizing React Suspense: How Concurrent Mode Handles Data Fetching and Rendering](https://dev.to/mspk97/optimizing-react-suspense-how-concurrent-mode-handles-data-fetching-and-rendering-5efc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 11, 2026)
+### 2 Days Ago (July 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
 - [React Approval Emails Without Effect Loops](https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp)
 - [Swiper: the touch slider that won't wreck your sprint](https://dev.to/jtorchia/swiper-the-touch-slider-that-wont-wreck-your-sprint-291m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 10, 2026)
-
-#### Dev.to JavaScript
-
-- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
-- [Make AI Agents See Your Website](https://dev.to/kumakint/make-ai-agents-see-your-website-1d23)
-- [Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap](https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n)
-
-#### Dev.to React
-
-- [I Built a Rubik’s Cube Solver That Verifies Every Solution by Replaying It](https://dev.to/wozzp/i-built-a-rubiks-cube-solver-that-verifies-every-solution-by-replaying-it-44f0)
-- [RivalryFuel: AI Hype Commentary for Any Rivalry](https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303)
-- [OG Images Without an Image CDN](https://dev.to/nathan-brodin/og-images-without-an-image-cdn-2g0l)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-13",
+    "formattedDate": "July 13, 2026",
+    "news": [
+      {
+        "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
+        "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Everyday Backend Engineer: Step 1 — The Singleton Pattern",
+        "link": "https://dev.to/aabiskar/the-everyday-backend-engineer-step-1-the-singleton-pattern-39pg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Prompt Loop Problem: When Every Fix Breaks Something Else",
+        "link": "https://dev.to/mateo_ruiz_6992b1fce47843/the-prompt-loop-problem-when-every-fix-breaks-something-else-4dd8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Letting AI Write Your Entire Component",
+        "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
+        "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Optimizing React Suspense: How Concurrent Mode Handles Data Fetching and Rendering",
+        "link": "https://dev.to/mspk97/optimizing-react-suspense-how-concurrent-mode-handles-data-fetching-and-rendering-5efc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-12",
     "formattedDate": "July 12, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Swiper: the touch slider that won't wreck your sprint",
         "link": "https://dev.to/jtorchia/swiper-the-touch-slider-that-wont-wreck-your-sprint-291m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-10",
-    "formattedDate": "July 10, 2026",
-    "news": [
-      {
-        "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
-        "link": "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Make AI Agents See Your Website",
-        "link": "https://dev.to/kumakint/make-ai-agents-see-your-website-1d23",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-        "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Rubik’s Cube Solver That Verifies Every Solution by Replaying It",
-        "link": "https://dev.to/wozzp/i-built-a-rubiks-cube-solver-that-verifies-every-solution-by-replaying-it-44f0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "RivalryFuel: AI Hype Commentary for Any Rivalry",
-        "link": "https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "OG Images Without an Image CDN",
-        "link": "https://dev.to/nathan-brodin/og-images-without-an-image-cdn-2g0l",
         "source": "Dev.to React"
       },
       {
