@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [You reach for `Promise.all` for every concurrent request. Here's when to use the other three.](https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6)
-- [The Everyday Backend Engineer: Step 1 — The Singleton Pattern](https://dev.to/aabiskar/the-everyday-backend-engineer-step-1-the-singleton-pattern-39pg)
-- [The Prompt Loop Problem: When Every Fix Breaks Something Else](https://dev.to/mateo_ruiz_6992b1fce47843/the-prompt-loop-problem-when-every-fix-breaks-something-else-4dd8)
+- [What is going on?](https://dev.to/micaavigliano/what-is-going-on-fho)
+- [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
+- [How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform](https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70)
 
 #### Dev.to React
 
-- [Stop Letting AI Write Your Entire Component](https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280)
-- [next-safe-action: Type-Safe Server Actions in Next.js (2026)](https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl)
-- [Optimizing React Suspense: How Concurrent Mode Handles Data Fetching and Rendering](https://dev.to/mspk97/optimizing-react-suspense-how-concurrent-mode-handles-data-fetching-and-rendering-5efc)
+- [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
+- [How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform](https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70)
+- [The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)](https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 13, 2026",
     "news": [
       {
-        "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
-        "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+        "title": "What is going on?",
+        "link": "https://dev.to/micaavigliano/what-is-going-on-fho",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Everyday Backend Engineer: Step 1 — The Singleton Pattern",
-        "link": "https://dev.to/aabiskar/the-everyday-backend-engineer-step-1-the-singleton-pattern-39pg",
+        "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
+        "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Prompt Loop Problem: When Every Fix Breaks Something Else",
-        "link": "https://dev.to/mateo_ruiz_6992b1fce47843/the-prompt-loop-problem-when-every-fix-breaks-something-else-4dd8",
+        "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
+        "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Letting AI Write Your Entire Component",
-        "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
+        "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
+        "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
         "source": "Dev.to React"
       },
       {
-        "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
-        "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
+        "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
+        "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
         "source": "Dev.to React"
       },
       {
-        "title": "Optimizing React Suspense: How Concurrent Mode Handles Data Fetching and Rendering",
-        "link": "https://dev.to/mspk97/optimizing-react-suspense-how-concurrent-mode-handles-data-fetching-and-rendering-5efc",
+        "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
+        "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
         "source": "Dev.to React"
       },
       {
