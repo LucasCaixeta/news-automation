@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [🚀 HTTP Just Got a New Method: Meet `QUERY` (And Why It Matters)](https://dev.to/darshanraval/http-just-got-a-new-method-meet-query-and-why-it-matters-4pa)
 - [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
-- [I Built a Free ATS Resume Checker for Indian Job Seekers — No LLM, No Build Step, No Framework](https://dev.to/aravindhraja123/i-built-a-free-ats-resume-checker-for-indian-job-seekers-no-llm-no-build-step-no-framework-5ki)
-- [Token Jaccard Similarity in TypeScript: Simple Text Comparison](https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl)
+- [Why Meteor 3.5 Is the Most Important Release in Years](https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g)
 
 #### Dev.to React
 
 - [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
-- [nuqs: URL State Management in Next.js (2026)](https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn)
-- [Managing i18n keys in React without losing your mind (without leaving your IDE)](https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7)
+- [Building React Native Shouldn't Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit](https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef)
+- [How I built an interactive atlas of 767 train routes (React + MapLibre + open data)](https://dev.to/flightmussy/how-i-built-an-interactive-atlas-of-767-train-routes-react-maplibre-open-data-315n)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 14, 2026",
     "news": [
       {
+        "title": "🚀 HTTP Just Got a New Method: Meet `QUERY` (And Why It Matters)",
+        "link": "https://dev.to/darshanraval/http-just-got-a-new-method-meet-query-and-why-it-matters-4pa",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
         "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Free ATS Resume Checker for Indian Job Seekers — No LLM, No Build Step, No Framework",
-        "link": "https://dev.to/aravindhraja123/i-built-a-free-ats-resume-checker-for-indian-job-seekers-no-llm-no-build-step-no-framework-5ki",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Token Jaccard Similarity in TypeScript: Simple Text Comparison",
-        "link": "https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl",
+        "title": "Why Meteor 3.5 Is the Most Important Release in Years",
+        "link": "https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "nuqs: URL State Management in Next.js (2026)",
-        "link": "https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn",
+        "title": "Building React Native Shouldn't Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit",
+        "link": "https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef",
         "source": "Dev.to React"
       },
       {
-        "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
-        "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+        "title": "How I built an interactive atlas of 767 train routes (React + MapLibre + open data)",
+        "link": "https://dev.to/flightmussy/how-i-built-an-interactive-atlas-of-767-train-routes-react-maplibre-open-data-315n",
         "source": "Dev.to React"
       },
       {
