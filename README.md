@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 13, 2026)
+### Today's Updates (July 14, 2026)
+
+#### Dev.to JavaScript
+
+- [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
+- [I Built a Free ATS Resume Checker for Indian Job Seekers — No LLM, No Build Step, No Framework](https://dev.to/aravindhraja123/i-built-a-free-ats-resume-checker-for-indian-job-seekers-no-llm-no-build-step-no-framework-5ki)
+- [Token Jaccard Similarity in TypeScript: Simple Text Comparison](https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl)
+
+#### Dev.to React
+
+- [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
+- [nuqs: URL State Management in Next.js (2026)](https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn)
+- [Managing i18n keys in React without losing your mind (without leaving your IDE)](https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 12, 2026)
+### 2 Days Ago (July 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Sentry Source Map Upload Debugging: From 0% Adoption to Full Resolution](https://dev.to/utlkit/sentry-source-map-upload-debugging-from-0-adoption-to-full-resolution-28l3)
 - [How I Built a GeoGuessr Game for Super Mario Odyssey](https://dev.to/timexo/how-i-built-a-geoguessr-game-for-super-mario-odyssey-g04)
 - [From Raw SVG to Production JSX: DOMParser, TypeScript, and Manifest V3](https://dev.to/vcoder_studio/from-raw-svg-to-production-jsx-domparser-typescript-and-manifest-v3-450m)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 11, 2026)
-
-#### Dev.to JavaScript
-
-- [Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it](https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7)
-- [I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does](https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef)
-- [I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
-
-#### Dev.to React
-
-- [I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
-- [React Approval Emails Without Effect Loops](https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp)
-- [Swiper: the touch slider that won't wreck your sprint](https://dev.to/jtorchia/swiper-the-touch-slider-that-wont-wreck-your-sprint-291m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-14",
+    "formattedDate": "July 14, 2026",
+    "news": [
+      {
+        "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
+        "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Free ATS Resume Checker for Indian Job Seekers — No LLM, No Build Step, No Framework",
+        "link": "https://dev.to/aravindhraja123/i-built-a-free-ats-resume-checker-for-indian-job-seekers-no-llm-no-build-step-no-framework-5ki",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Token Jaccard Similarity in TypeScript: Simple Text Comparison",
+        "link": "https://dev.to/codingsimba/token-jaccard-similarity-in-typescript-simple-text-comparison-5ajl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
+        "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "nuqs: URL State Management in Next.js (2026)",
+        "link": "https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
+        "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-13",
     "formattedDate": "July 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "From Raw SVG to Production JSX: DOMParser, TypeScript, and Manifest V3",
         "link": "https://dev.to/vcoder_studio/from-raw-svg-to-production-jsx-domparser-typescript-and-manifest-v3-450m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-11",
-    "formattedDate": "July 11, 2026",
-    "news": [
-      {
-        "title": "Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it",
-        "link": "https://dev.to/mohanvenkatakrishnan/building-launchpad-one-product-brief-42-launch-channels-and-the-bugs-that-almost-sank-it-3ii7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Browser From Scratch, and It Finally Renders the World's First Website Like Chrome Does",
-        "link": "https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected",
-        "link": "https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a tiny permission-checking library because our backend's permission strings never matched what the UI expected",
-        "link": "https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Approval Emails Without Effect Loops",
-        "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Swiper: the touch slider that won't wreck your sprint",
-        "link": "https://dev.to/jtorchia/swiper-the-touch-slider-that-wont-wreck-your-sprint-291m",
         "source": "Dev.to React"
       },
       {
