@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [How We Cut Our Browser Video Renderer's Frame Time by 80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1)
-- [auto-animate now speaks marko](https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7)
-- [Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)](https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2)
+- [I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.](https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc)
+- [I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.](https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah)
 
 #### Dev.to React
 
-- [Cleanup Functions in useEffect: Stop Leaks Before They Start](https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54)
-- [How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs](https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8)
-- [Introducing GeoIcons: 422 tree-shakable geographic icons](https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i)
+- [I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
+- [TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`](https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523)
+- [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "auto-animate now speaks marko",
-        "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+        "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
+        "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
-        "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
+        "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
+        "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
-        "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+        "title": "I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)",
+        "link": "https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo",
         "source": "Dev.to React"
       },
       {
-        "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
-        "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+        "title": "TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`",
+        "link": "https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523",
         "source": "Dev.to React"
       },
       {
-        "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
-        "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+        "title": "I Built a Dashboard to Make Security Reports Easier to Read",
+        "link": "https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9",
         "source": "Dev.to React"
       },
       {
