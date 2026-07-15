@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 14, 2026)
+### Today's Updates (July 15, 2026)
+
+#### Dev.to JavaScript
+
+- [How We Cut Our Browser Video Renderer's Frame Time by 80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1)
+- [auto-animate now speaks marko](https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7)
+- [Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)](https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2)
+
+#### Dev.to React
+
+- [Cleanup Functions in useEffect: Stop Leaks Before They Start](https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54)
+- [How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs](https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8)
+- [Introducing GeoIcons: 422 tree-shakable geographic icons](https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 13, 2026)
+### 2 Days Ago (July 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
 - [How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform](https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70)
 - [The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)](https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 12, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built An AI That Roasts Me. It Hurt.](https://dev.to/nandan_das_369/i-built-an-ai-that-roasts-me-it-hurt-381f)
-- [Compressing images in the browser with the Canvas API (no server needed)](https://dev.to/swifttooly/compressing-images-in-the-browser-with-the-canvas-api-no-server-needed-1ga7)
-- [typeof null is "object" — a bug from 1995 nobody can fix](https://dev.to/parthctrl/typeof-null-is-object-a-bug-from-1995-nobody-can-fix-268g)
-
-#### Dev.to React
-
-- [Sentry Source Map Upload Debugging: From 0% Adoption to Full Resolution](https://dev.to/utlkit/sentry-source-map-upload-debugging-from-0-adoption-to-full-resolution-28l3)
-- [How I Built a GeoGuessr Game for Super Mario Odyssey](https://dev.to/timexo/how-i-built-a-geoguessr-game-for-super-mario-odyssey-g04)
-- [From Raw SVG to Production JSX: DOMParser, TypeScript, and Manifest V3](https://dev.to/vcoder_studio/from-raw-svg-to-production-jsx-domparser-typescript-and-manifest-v3-450m)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-15",
+    "formattedDate": "July 15, 2026",
+    "news": [
+      {
+        "title": "How We Cut Our Browser Video Renderer's Frame Time by 80%",
+        "link": "https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "auto-animate now speaks marko",
+        "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
+        "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
+        "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
+        "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
+        "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-14",
     "formattedDate": "July 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
         "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-12",
-    "formattedDate": "July 12, 2026",
-    "news": [
-      {
-        "title": "I Built An AI That Roasts Me. It Hurt.",
-        "link": "https://dev.to/nandan_das_369/i-built-an-ai-that-roasts-me-it-hurt-381f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Compressing images in the browser with the Canvas API (no server needed)",
-        "link": "https://dev.to/swifttooly/compressing-images-in-the-browser-with-the-canvas-api-no-server-needed-1ga7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "typeof null is \"object\" — a bug from 1995 nobody can fix",
-        "link": "https://dev.to/parthctrl/typeof-null-is-object-a-bug-from-1995-nobody-can-fix-268g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Sentry Source Map Upload Debugging: From 0% Adoption to Full Resolution",
-        "link": "https://dev.to/utlkit/sentry-source-map-upload-debugging-from-0-adoption-to-full-resolution-28l3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a GeoGuessr Game for Super Mario Odyssey",
-        "link": "https://dev.to/timexo/how-i-built-a-geoguessr-game-for-super-mario-odyssey-g04",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From Raw SVG to Production JSX: DOMParser, TypeScript, and Manifest V3",
-        "link": "https://dev.to/vcoder_studio/from-raw-svg-to-production-jsx-domparser-typescript-and-manifest-v3-450m",
         "source": "Dev.to React"
       },
       {
