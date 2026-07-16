@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [5 Things I Learned Building a Chrome Extension That Watches ChatGPT, Claude & Gemini](https://dev.to/juliedechili/5-things-i-learned-building-a-chrome-extension-that-watches-chatgpt-claude-gemini-4a4i)
-- [Why I built SVOCS: Svelte-first docs in 2026](https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk)
-- [How We Cut Our Browser Video Renderer's Frame Time by 80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1)
+- [Dá pra fazer jogos usando JS/TS sem game engine?](https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah)
+- [Your Browser Is a Supercomputer. Stop Sending Your Data to Someone Else's server.](https://dev.to/debasish_debroy_c77a16df9/your-browser-is-a-supercomputer-stop-sending-your-data-to-someone-elses-server-2j98)
+- [Building a 3-tier on-device AI concierge: Gemini Nano -> MiniLM -> keyword, $0/query](https://dev.to/tony_hildn_26f6eb18f87d2/building-a-3-tier-on-device-ai-concierge-gemini-nano-minilm-keyword-0query-30aj)
 
 #### Dev.to React
 
 - [I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
-- [Part 4: You Probably Don't Need That useEffect (event handlers are usually the better place for side effect)](https://dev.to/alejandrodeveloper/you-probably-dont-need-that-useeffect-event-handlers-are-usually-the-better-place-for-side-effect-4phf)
-- [I Got Tired of Fighting AI-Generated Spaghetti Code, So I Built a Framework That Tames It](https://dev.to/ynwd/i-got-tired-of-fighting-ai-generated-spaghetti-code-so-i-built-a-framework-that-tames-it-2on0)
+- [Lint your React Email templates in CI (before Gmail strips half your CSS)](https://dev.to/ouranos27/lint-your-react-email-templates-in-ci-before-gmail-strips-half-your-css-1d27)
+- [Part 5: Stop Using Effects for State Resets](https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 16, 2026",
     "news": [
       {
-        "title": "5 Things I Learned Building a Chrome Extension That Watches ChatGPT, Claude & Gemini",
-        "link": "https://dev.to/juliedechili/5-things-i-learned-building-a-chrome-extension-that-watches-chatgpt-claude-gemini-4a4i",
+        "title": "Dá pra fazer jogos usando JS/TS sem game engine?",
+        "link": "https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why I built SVOCS: Svelte-first docs in 2026",
-        "link": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+        "title": "Your Browser Is a Supercomputer. Stop Sending Your Data to Someone Else's server.",
+        "link": "https://dev.to/debasish_debroy_c77a16df9/your-browser-is-a-supercomputer-stop-sending-your-data-to-someone-elses-server-2j98",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How We Cut Our Browser Video Renderer's Frame Time by 80%",
-        "link": "https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1",
+        "title": "Building a 3-tier on-device AI concierge: Gemini Nano -> MiniLM -> keyword, $0/query",
+        "link": "https://dev.to/tony_hildn_26f6eb18f87d2/building-a-3-tier-on-device-ai-concierge-gemini-nano-minilm-keyword-0query-30aj",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Part 4: You Probably Don't Need That useEffect (event handlers are usually the better place for side effect)",
-        "link": "https://dev.to/alejandrodeveloper/you-probably-dont-need-that-useeffect-event-handlers-are-usually-the-better-place-for-side-effect-4phf",
+        "title": "Lint your React Email templates in CI (before Gmail strips half your CSS)",
+        "link": "https://dev.to/ouranos27/lint-your-react-email-templates-in-ci-before-gmail-strips-half-your-css-1d27",
         "source": "Dev.to React"
       },
       {
-        "title": "I Got Tired of Fighting AI-Generated Spaghetti Code, So I Built a Framework That Tames It",
-        "link": "https://dev.to/ynwd/i-got-tired-of-fighting-ai-generated-spaghetti-code-so-i-built-a-framework-that-tames-it-2on0",
+        "title": "Part 5: Stop Using Effects for State Resets",
+        "link": "https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado",
         "source": "Dev.to React"
       },
       {
