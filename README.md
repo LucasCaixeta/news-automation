@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Build a Movie/TV Show Tracker with MongoDB and TanStack Start](https://dev.to/didicodes/build-a-movietv-show-tracker-with-mongodb-and-tanstack-start-24hb)
-- [Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)](https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh)
-- [I filed a critical bug against my own tool. Then I read the code — and my own root cause was wrong.](https://dev.to/achiya-automation/i-filed-a-critical-bug-against-my-own-tool-then-i-read-the-code-and-my-own-root-cause-was-wrong-3692)
+- [Experiments with On-device AI — What building on Gemini Nano actually teaches you](https://dev.to/mohanvenkatakrishnan/experiments-with-on-device-ai-what-building-on-gemini-nano-actually-teaches-you-5deo)
+- [Keeping code alive on a DOM you don't own: 12-year Chrome extension story](https://dev.to/svyatov/keeping-code-alive-on-a-dom-you-dont-own-12-year-chrome-extension-story-2g3o)
+- [Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript](https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp)
 
 #### Dev.to React
 
-- [Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)](https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh)
-- [I am Building an AI Court with AI Judges, AI Lawyers.](https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0)
-- [719 React Native Interview Questions and Answers — 2026 Edition](https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9)
+- [React Native Interview Handbook — Part 5 of 10: Senior & System Design](https://dev.to/amitkumar13/react-native-interview-handbook-part-5-of-5-senior-system-design-5jb)
+- [React Native Interview Handbook — Part 3 of 10: React Native](https://dev.to/amitkumar13/react-native-interview-handbook-part-3-of-5-react-native-27in)
+- [React Native Interview Handbook — Part 4 of 10: Performance & Architecture](https://dev.to/amitkumar13/react-native-interview-handbook-part-4-of-5-performance-architecture-3cjh)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 17, 2026",
     "news": [
       {
-        "title": "Build a Movie/TV Show Tracker with MongoDB and TanStack Start",
-        "link": "https://dev.to/didicodes/build-a-movietv-show-tracker-with-mongodb-and-tanstack-start-24hb",
+        "title": "Experiments with On-device AI — What building on Gemini Nano actually teaches you",
+        "link": "https://dev.to/mohanvenkatakrishnan/experiments-with-on-device-ai-what-building-on-gemini-nano-actually-teaches-you-5deo",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)",
-        "link": "https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh",
+        "title": "Keeping code alive on a DOM you don't own: 12-year Chrome extension story",
+        "link": "https://dev.to/svyatov/keeping-code-alive-on-a-dom-you-dont-own-12-year-chrome-extension-story-2g3o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I filed a critical bug against my own tool. Then I read the code — and my own root cause was wrong.",
-        "link": "https://dev.to/achiya-automation/i-filed-a-critical-bug-against-my-own-tool-then-i-read-the-code-and-my-own-root-cause-was-wrong-3692",
+        "title": "Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript",
+        "link": "https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)",
-        "link": "https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh",
+        "title": "React Native Interview Handbook — Part 5 of 10: Senior & System Design",
+        "link": "https://dev.to/amitkumar13/react-native-interview-handbook-part-5-of-5-senior-system-design-5jb",
         "source": "Dev.to React"
       },
       {
-        "title": "I am Building an AI Court with AI Judges, AI Lawyers.",
-        "link": "https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0",
+        "title": "React Native Interview Handbook — Part 3 of 10: React Native",
+        "link": "https://dev.to/amitkumar13/react-native-interview-handbook-part-3-of-5-react-native-27in",
         "source": "Dev.to React"
       },
       {
-        "title": "719 React Native Interview Questions and Answers — 2026 Edition",
-        "link": "https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9",
+        "title": "React Native Interview Handbook — Part 4 of 10: Performance & Architecture",
+        "link": "https://dev.to/amitkumar13/react-native-interview-handbook-part-4-of-5-performance-architecture-3cjh",
         "source": "Dev.to React"
       },
       {
