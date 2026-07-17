@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 16, 2026)
+### Today's Updates (July 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Build a Movie/TV Show Tracker with MongoDB and TanStack Start](https://dev.to/didicodes/build-a-movietv-show-tracker-with-mongodb-and-tanstack-start-24hb)
+- [Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)](https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh)
+- [I filed a critical bug against my own tool. Then I read the code — and my own root cause was wrong.](https://dev.to/achiya-automation/i-filed-a-critical-bug-against-my-own-tool-then-i-read-the-code-and-my-own-root-cause-was-wrong-3692)
+
+#### Dev.to React
+
+- [Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)](https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh)
+- [I am Building an AI Court with AI Judges, AI Lawyers.](https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0)
+- [719 React Native Interview Questions and Answers — 2026 Edition](https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 15, 2026)
+### 2 Days Ago (July 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
 - [TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`](https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523)
 - [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 14, 2026)
-
-#### Dev.to JavaScript
-
-- [🚀 HTTP Just Got a New Method: Meet `QUERY` (And Why It Matters)](https://dev.to/darshanraval/http-just-got-a-new-method-meet-query-and-why-it-matters-4pa)
-- [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
-- [Why Meteor 3.5 Is the Most Important Release in Years](https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g)
-
-#### Dev.to React
-
-- [🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up](https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek)
-- [Building React Native Shouldn't Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit](https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef)
-- [How I built an interactive atlas of 767 train routes (React + MapLibre + open data)](https://dev.to/flightmussy/how-i-built-an-interactive-atlas-of-767-train-routes-react-maplibre-open-data-315n)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-17",
+    "formattedDate": "July 17, 2026",
+    "news": [
+      {
+        "title": "Build a Movie/TV Show Tracker with MongoDB and TanStack Start",
+        "link": "https://dev.to/didicodes/build-a-movietv-show-tracker-with-mongodb-and-tanstack-start-24hb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)",
+        "link": "https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I filed a critical bug against my own tool. Then I read the code — and my own root cause was wrong.",
+        "link": "https://dev.to/achiya-automation/i-filed-a-critical-bug-against-my-own-tool-then-i-read-the-code-and-my-own-root-cause-was-wrong-3692",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vite 8 Complete Guide: Rolldown, Oxc, and 10x Faster Builds (2026)",
+        "link": "https://dev.to/stacknotice/vite-8-complete-guide-rolldown-oxc-and-10x-faster-builds-2026-48lh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I am Building an AI Court with AI Judges, AI Lawyers.",
+        "link": "https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "719 React Native Interview Questions and Answers — 2026 Edition",
+        "link": "https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-16",
     "formattedDate": "July 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Dashboard to Make Security Reports Easier to Read",
         "link": "https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-14",
-    "formattedDate": "July 14, 2026",
-    "news": [
-      {
-        "title": "🚀 HTTP Just Got a New Method: Meet `QUERY` (And Why It Matters)",
-        "link": "https://dev.to/darshanraval/http-just-got-a-new-method-meet-query-and-why-it-matters-4pa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-        "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Meteor 3.5 Is the Most Important Release in Years",
-        "link": "https://dev.to/meteorjs/why-meteor-35-is-the-most-important-release-in-years-2k1g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-        "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building React Native Shouldn't Feel Like Assembling IKEA Furniture: A Modern Monorepo Starter Kit",
-        "link": "https://dev.to/sanjaysah/building-react-native-shouldnt-feel-like-assembling-ikea-furniture-a-modern-monorepo-starter-kit-pef",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built an interactive atlas of 767 train routes (React + MapLibre + open data)",
-        "link": "https://dev.to/flightmussy/how-i-built-an-interactive-atlas-of-767-train-routes-react-maplibre-open-data-315n",
         "source": "Dev.to React"
       },
       {
