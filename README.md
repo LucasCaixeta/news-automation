@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 17, 2026)
+### Today's Updates (July 18, 2026)
+
+#### Dev.to JavaScript
+
+- [Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript](https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp)
+- [Next.js 16: Every Change That Actually Matters for Developers](https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1)
+- [You're using Floating UI to position your tooltip. The browser does it natively now.](https://dev.to/parsajiravand/youre-using-floating-ui-to-position-your-tooltip-the-browser-does-it-natively-now-g00)
+
+#### Dev.to React
+
+- [Next.js 16: Every Change That Actually Matters for Developers](https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1)
+- [View Transitions in Next.js: How I Added Animated Page Changes Without a Library](https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a)
+- [Next.js 16: React 19.2 Features, Breaking Changes, and How to Upgrade](https://dev.to/lettstartdesign-official/nextjs-16-react-192-features-breaking-changes-and-how-to-upgrade-494a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 16, 2026)
+### 2 Days Ago (July 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
 - [Lint your React Email templates in CI (before Gmail strips half your CSS)](https://dev.to/ouranos27/lint-your-react-email-templates-in-ci-before-gmail-strips-half-your-css-1d27)
 - [Part 5: Stop Using Effects for State Resets](https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 15, 2026)
-
-#### Dev.to JavaScript
-
-- [How We Cut Our Browser Video Renderer's Frame Time by 80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1)
-- [I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.](https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc)
-- [I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.](https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah)
-
-#### Dev.to React
-
-- [I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
-- [TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`](https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523)
-- [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-18",
+    "formattedDate": "July 18, 2026",
+    "news": [
+      {
+        "title": "Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript",
+        "link": "https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js 16: Every Change That Actually Matters for Developers",
+        "link": "https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You're using Floating UI to position your tooltip. The browser does it natively now.",
+        "link": "https://dev.to/parsajiravand/youre-using-floating-ui-to-position-your-tooltip-the-browser-does-it-natively-now-g00",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js 16: Every Change That Actually Matters for Developers",
+        "link": "https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "View Transitions in Next.js: How I Added Animated Page Changes Without a Library",
+        "link": "https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js 16: React 19.2 Features, Breaking Changes, and How to Upgrade",
+        "link": "https://dev.to/lettstartdesign-official/nextjs-16-react-192-features-breaking-changes-and-how-to-upgrade-494a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-17",
     "formattedDate": "July 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Part 5: Stop Using Effects for State Resets",
         "link": "https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-15",
-    "formattedDate": "July 15, 2026",
-    "news": [
-      {
-        "title": "How We Cut Our Browser Video Renderer's Frame Time by 80%",
-        "link": "https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
-        "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
-        "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)",
-        "link": "https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript `const` Type Parameters: Immutable Inference and When It Beats `as const`",
-        "link": "https://dev.to/jsmanifest/typescript-const-type-parameters-immutable-inference-and-when-it-beats-as-const-5523",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Dashboard to Make Security Reports Easier to Read",
-        "link": "https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9",
         "source": "Dev.to React"
       },
       {
