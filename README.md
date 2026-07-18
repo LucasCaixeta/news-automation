@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [I Built a Password Strength Checker That Actually Works (Here's Why Most Fail)](https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj)
+- [Building a country-based redirect — the right way (and the wrong ways)](https://dev.to/vix_2f14d2f56c1/building-a-country-based-redirect-the-right-way-and-the-wrong-ways-1p64)
 - [Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript](https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp)
-- [Next.js 16: Every Change That Actually Matters for Developers](https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1)
-- [You're using Floating UI to position your tooltip. The browser does it natively now.](https://dev.to/parsajiravand/youre-using-floating-ui-to-position-your-tooltip-the-browser-does-it-natively-now-g00)
 
 #### Dev.to React
 
-- [Next.js 16: Every Change That Actually Matters for Developers](https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1)
-- [View Transitions in Next.js: How I Added Animated Page Changes Without a Library](https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a)
-- [Next.js 16: React 19.2 Features, Breaking Changes, and How to Upgrade](https://dev.to/lettstartdesign-official/nextjs-16-react-192-features-breaking-changes-and-how-to-upgrade-494a)
+- [I was tired of studying security tools from static cheatsheets, so I built ShellStack](https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6)
+- [Stop Over Engineering Your Frontend State: A Developer's Guide to "Less is More"](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp)
+- [Building FlowOps AI: How I Designed a Volunteer's Co-Pilot for FIFA World Cup 2026 Stadiums](https://dev.to/adarsh_n_cfb490febe0ea8fa/building-flowops-ai-how-i-designed-a-volunteers-co-pilot-for-fifa-world-cup-2026-stadiums-3ne1)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 18, 2026",
     "news": [
       {
+        "title": "I Built a Password Strength Checker That Actually Works (Here's Why Most Fail)",
+        "link": "https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a country-based redirect — the right way (and the wrong ways)",
+        "link": "https://dev.to/vix_2f14d2f56c1/building-a-country-based-redirect-the-right-way-and-the-wrong-ways-1p64",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript",
         "link": "https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Next.js 16: Every Change That Actually Matters for Developers",
-        "link": "https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You're using Floating UI to position your tooltip. The browser does it natively now.",
-        "link": "https://dev.to/parsajiravand/youre-using-floating-ui-to-position-your-tooltip-the-browser-does-it-natively-now-g00",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js 16: Every Change That Actually Matters for Developers",
-        "link": "https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1",
+        "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
+        "link": "https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6",
         "source": "Dev.to React"
       },
       {
-        "title": "View Transitions in Next.js: How I Added Animated Page Changes Without a Library",
-        "link": "https://dev.to/ahmed_mahmoud360/view-transitions-in-nextjs-how-i-added-animated-page-changes-without-a-library-2a1a",
+        "title": "Stop Over Engineering Your Frontend State: A Developer's Guide to \"Less is More\"",
+        "link": "https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js 16: React 19.2 Features, Breaking Changes, and How to Upgrade",
-        "link": "https://dev.to/lettstartdesign-official/nextjs-16-react-192-features-breaking-changes-and-how-to-upgrade-494a",
+        "title": "Building FlowOps AI: How I Designed a Volunteer's Co-Pilot for FIFA World Cup 2026 Stadiums",
+        "link": "https://dev.to/adarsh_n_cfb490febe0ea8fa/building-flowops-ai-how-i-designed-a-volunteers-co-pilot-for-fifa-world-cup-2026-stadiums-3ne1",
         "source": "Dev.to React"
       },
       {
