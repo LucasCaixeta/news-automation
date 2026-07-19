@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Your scroll listener fires on every pixel. `IntersectionObserver` fires when visibility actually changes.](https://dev.to/parsajiravand/your-scroll-listener-fires-on-every-pixel-intersectionobserver-fires-when-visibility-actually-460c)
+- [How I Built an AI Accountability App for Myself — and It Actually Works](https://dev.to/zenithfortify/how-i-built-an-ai-accountability-app-for-myself-and-it-actually-works-2c5k)
+- [Building Reliable Barcode Lookup for a Nutrition App](https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926)
 - [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c)
-- [Build Authentication in Next.js 15 From Scratch — No Libraries](https://dev.to/anas_sheikh_2/build-authentication-in-nextjs-15-from-scratch-no-libraries-ej4)
 
 #### Dev.to React
 
-- [I was tired of studying security tools from static cheatsheets, so I built ShellStack](https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6)
-- [Stop Guessing: Diagnosing React Re-Renders with the New useRenderReason Hook](https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9)
-- [Stop Over Engineering Your Frontend State: A Developer's Guide to "Less is More"](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp)
+- [The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah)
+- [Client-Side Encryption with Web Crypto API](https://dev.to/utlkit/client-side-encryption-with-web-crypto-api-2b1e)
+- [I Built an Architecture Intelligence Tool for React & Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
 
 #### React Blog
 
@@ -89,8 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 19, 2026",
     "news": [
       {
-        "title": "Your scroll listener fires on every pixel. `IntersectionObserver` fires when visibility actually changes.",
-        "link": "https://dev.to/parsajiravand/your-scroll-listener-fires-on-every-pixel-intersectionobserver-fires-when-visibility-actually-460c",
+        "title": "How I Built an AI Accountability App for Myself — and It Actually Works",
+        "link": "https://dev.to/zenithfortify/how-i-built-an-ai-accountability-app-for-myself-and-it-actually-works-2c5k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Reliable Barcode Lookup for a Nutrition App",
+        "link": "https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build Authentication in Next.js 15 From Scratch — No Libraries",
-        "link": "https://dev.to/anas_sheikh_2/build-authentication-in-nextjs-15-from-scratch-no-libraries-ej4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
-        "link": "https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6",
+        "title": "The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail",
+        "link": "https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Guessing: Diagnosing React Re-Renders with the New useRenderReason Hook",
-        "link": "https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9",
+        "title": "Client-Side Encryption with Web Crypto API",
+        "link": "https://dev.to/utlkit/client-side-encryption-with-web-crypto-api-2b1e",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Over Engineering Your Frontend State: A Developer's Guide to \"Less is More\"",
-        "link": "https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp",
+        "title": "I Built an Architecture Intelligence Tool for React & Next.js During the OpenAI Build Week Hackathon",
+        "link": "https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba",
         "source": "Dev.to React"
       },
       {
