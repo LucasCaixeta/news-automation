@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 18, 2026)
+### Today's Updates (July 19, 2026)
+
+#### Dev.to JavaScript
+
+- [Your scroll listener fires on every pixel. `IntersectionObserver` fires when visibility actually changes.](https://dev.to/parsajiravand/your-scroll-listener-fires-on-every-pixel-intersectionobserver-fires-when-visibility-actually-460c)
+- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c)
+- [Build Authentication in Next.js 15 From Scratch — No Libraries](https://dev.to/anas_sheikh_2/build-authentication-in-nextjs-15-from-scratch-no-libraries-ej4)
+
+#### Dev.to React
+
+- [I was tired of studying security tools from static cheatsheets, so I built ShellStack](https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6)
+- [Stop Guessing: Diagnosing React Re-Renders with the New useRenderReason Hook](https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9)
+- [Stop Over Engineering Your Frontend State: A Developer's Guide to "Less is More"](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 17, 2026)
+### 2 Days Ago (July 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React Native Interview Handbook — Part 5 of 10: Senior & System Design](https://dev.to/amitkumar13/react-native-interview-handbook-part-5-of-5-senior-system-design-5jb)
 - [React Native Interview Handbook — Part 3 of 10: React Native](https://dev.to/amitkumar13/react-native-interview-handbook-part-3-of-5-react-native-27in)
 - [React Native Interview Handbook — Part 4 of 10: Performance & Architecture](https://dev.to/amitkumar13/react-native-interview-handbook-part-4-of-5-performance-architecture-3cjh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 16, 2026)
-
-#### Dev.to JavaScript
-
-- [Dá pra fazer jogos usando JS/TS sem game engine?](https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah)
-- [Your Browser Is a Supercomputer. Stop Sending Your Data to Someone Else's server.](https://dev.to/debasish_debroy_c77a16df9/your-browser-is-a-supercomputer-stop-sending-your-data-to-someone-elses-server-2j98)
-- [Building a 3-tier on-device AI concierge: Gemini Nano -> MiniLM -> keyword, $0/query](https://dev.to/tony_hildn_26f6eb18f87d2/building-a-3-tier-on-device-ai-concierge-gemini-nano-minilm-keyword-0query-30aj)
-
-#### Dev.to React
-
-- [I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
-- [Lint your React Email templates in CI (before Gmail strips half your CSS)](https://dev.to/ouranos27/lint-your-react-email-templates-in-ci-before-gmail-strips-half-your-css-1d27)
-- [Part 5: Stop Using Effects for State Resets](https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-19",
+    "formattedDate": "July 19, 2026",
+    "news": [
+      {
+        "title": "Your scroll listener fires on every pixel. `IntersectionObserver` fires when visibility actually changes.",
+        "link": "https://dev.to/parsajiravand/your-scroll-listener-fires-on-every-pixel-intersectionobserver-fires-when-visibility-actually-460c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You Deleted It. The Crawler Still Sees It.",
+        "link": "https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build Authentication in Next.js 15 From Scratch — No Libraries",
+        "link": "https://dev.to/anas_sheikh_2/build-authentication-in-nextjs-15-from-scratch-no-libraries-ej4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
+        "link": "https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Guessing: Diagnosing React Re-Renders with the New useRenderReason Hook",
+        "link": "https://dev.to/saurav_tb_pandey/stop-guessing-diagnosing-react-re-renders-with-the-new-userenderreason-hook-19l9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Over Engineering Your Frontend State: A Developer's Guide to \"Less is More\"",
+        "link": "https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-18",
     "formattedDate": "July 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Native Interview Handbook — Part 4 of 10: Performance & Architecture",
         "link": "https://dev.to/amitkumar13/react-native-interview-handbook-part-4-of-5-performance-architecture-3cjh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "formattedDate": "July 16, 2026",
-    "news": [
-      {
-        "title": "Dá pra fazer jogos usando JS/TS sem game engine?",
-        "link": "https://dev.to/patrik_malta_7b819da6a37a/da-pra-fazer-jogos-usando-jsts-sem-game-engine-48ah",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Browser Is a Supercomputer. Stop Sending Your Data to Someone Else's server.",
-        "link": "https://dev.to/debasish_debroy_c77a16df9/your-browser-is-a-supercomputer-stop-sending-your-data-to-someone-elses-server-2j98",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a 3-tier on-device AI concierge: Gemini Nano -> MiniLM -> keyword, $0/query",
-        "link": "https://dev.to/tony_hildn_26f6eb18f87d2/building-a-3-tier-on-device-ai-concierge-gemini-nano-minilm-keyword-0query-30aj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)",
-        "link": "https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Lint your React Email templates in CI (before Gmail strips half your CSS)",
-        "link": "https://dev.to/ouranos27/lint-your-react-email-templates-in-ci-before-gmail-strips-half-your-css-1d27",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Part 5: Stop Using Effects for State Resets",
-        "link": "https://dev.to/alejandrodeveloper/part-5-stop-using-effects-for-state-resets-4ado",
         "source": "Dev.to React"
       },
       {
