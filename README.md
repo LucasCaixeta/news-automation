@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Timeline Was Split, but the Audio Wasn't: Fixing Source Offsets in a Browser Video Editor](https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02)
 - [Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.](https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4)
-- [Google Trends will 429 you into the ground — here's how I got past it](https://dev.to/votiakov/google-trends-will-429-you-into-the-ground-heres-how-i-got-past-it-50hk)
+- [The Timeline Was Split, but the Audio Wasn't: Fixing Source Offsets in a Browser Video Editor](https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02)
+- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad)
 
 #### Dev.to React
 
-- [Streaming LLM responses in TypeScript: SSE, ReadableStream, and the React 19 useChat hook.](https://dev.to/thegdsks/streaming-llm-responses-in-typescript-sse-readablestream-and-the-react-19-usechat-hook-36la)
-- [Breaking the Chain: Eliminating Data Waterfalls in Next.js ⚡](https://dev.to/iprajapatiparesh/breaking-the-chain-eliminating-data-waterfalls-in-nextjs-2350)
-- [Top 10 CSS Animation Tricks Most Developers Don’t Know](https://dev.to/deepakjaiswal/top-10-css-animation-tricks-most-developers-dont-know-234f)
+- [React Server Components - The Mental Model Shift](https://dev.to/dimidan/rsc-the-mental-model-shift-5efg)
+- [7 Next.js Features That Made Me Delete 200 Lines of Code](https://dev.to/franklinmayoyo/7-nextjs-features-that-made-me-delete-200-lines-of-code-6hc)
+- [Set up React Query on an Expo Project](https://dev.to/hokagedemehin/set-up-react-query-on-an-expo-project-5e58)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 20, 2026",
     "news": [
       {
-        "title": "The Timeline Was Split, but the Audio Wasn't: Fixing Source Offsets in a Browser Video Editor",
-        "link": "https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
         "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Google Trends will 429 you into the ground — here's how I got past it",
-        "link": "https://dev.to/votiakov/google-trends-will-429-you-into-the-ground-heres-how-i-got-past-it-50hk",
+        "title": "The Timeline Was Split, but the Audio Wasn't: Fixing Source Offsets in a Browser Video Editor",
+        "link": "https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Streaming LLM responses in TypeScript: SSE, ReadableStream, and the React 19 useChat hook.",
-        "link": "https://dev.to/thegdsks/streaming-llm-responses-in-typescript-sse-readablestream-and-the-react-19-usechat-hook-36la",
+        "title": "A Smaller Foundation for JavaScript Reactivity",
+        "link": "https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Server Components - The Mental Model Shift",
+        "link": "https://dev.to/dimidan/rsc-the-mental-model-shift-5efg",
         "source": "Dev.to React"
       },
       {
-        "title": "Breaking the Chain: Eliminating Data Waterfalls in Next.js ⚡",
-        "link": "https://dev.to/iprajapatiparesh/breaking-the-chain-eliminating-data-waterfalls-in-nextjs-2350",
+        "title": "7 Next.js Features That Made Me Delete 200 Lines of Code",
+        "link": "https://dev.to/franklinmayoyo/7-nextjs-features-that-made-me-delete-200-lines-of-code-6hc",
         "source": "Dev.to React"
       },
       {
-        "title": "Top 10 CSS Animation Tricks Most Developers Don’t Know",
-        "link": "https://dev.to/deepakjaiswal/top-10-css-animation-tricks-most-developers-dont-know-234f",
+        "title": "Set up React Query on an Expo Project",
+        "link": "https://dev.to/hokagedemehin/set-up-react-query-on-an-expo-project-5e58",
         "source": "Dev.to React"
       },
       {
