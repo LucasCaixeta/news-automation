@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 20, 2026)
+### Today's Updates (July 21, 2026)
+
+#### Dev.to JavaScript
+
+- [I built 118+ device tests that run entirely in your browser — no server, no uploads](https://dev.to/kaan_tokali_5a4828a3f897c/i-built-118-device-tests-that-run-entirely-in-your-browser-no-server-no-uploads-5d1n)
+- [Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game](https://dev.to/sunnhappy/preventing-focus-loss-from-launching-a-charged-jump-in-a-threejs-arcade-game-415p)
+- [React useResizeObserver Hook: Track Element Size Changes (2026)](https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43)
+
+#### Dev.to React
+
+- [React useResizeObserver Hook: Track Element Size Changes (2026)](https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43)
+- [AI Agents Don’t Fix Bad Architecture. They Accelerate It.](https://dev.to/luciano0322/ai-agents-dont-fix-bad-architecture-they-accelerate-it-2h2i)
+- [Why Google Translate Crashes Your React App (and How to Fix It)](https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 19, 2026)
+### 2 Days Ago (July 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah)
 - [Client-Side Encryption with Web Crypto API](https://dev.to/utlkit/client-side-encryption-with-web-crypto-api-2b1e)
 - [I Built an Architecture Intelligence Tool for React & Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 18, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Password Strength Checker That Actually Works (Here's Why Most Fail)](https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj)
-- [Building a country-based redirect — the right way (and the wrong ways)](https://dev.to/vix_2f14d2f56c1/building-a-country-based-redirect-the-right-way-and-the-wrong-ways-1p64)
-- [Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript](https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp)
-
-#### Dev.to React
-
-- [I was tired of studying security tools from static cheatsheets, so I built ShellStack](https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6)
-- [Stop Over Engineering Your Frontend State: A Developer's Guide to "Less is More"](https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp)
-- [Building FlowOps AI: How I Designed a Volunteer's Co-Pilot for FIFA World Cup 2026 Stadiums](https://dev.to/adarsh_n_cfb490febe0ea8fa/building-flowops-ai-how-i-designed-a-volunteers-co-pilot-for-fifa-world-cup-2026-stadiums-3ne1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-21",
+    "formattedDate": "July 21, 2026",
+    "news": [
+      {
+        "title": "I built 118+ device tests that run entirely in your browser — no server, no uploads",
+        "link": "https://dev.to/kaan_tokali_5a4828a3f897c/i-built-118-device-tests-that-run-entirely-in-your-browser-no-server-no-uploads-5d1n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game",
+        "link": "https://dev.to/sunnhappy/preventing-focus-loss-from-launching-a-charged-jump-in-a-threejs-arcade-game-415p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React useResizeObserver Hook: Track Element Size Changes (2026)",
+        "link": "https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React useResizeObserver Hook: Track Element Size Changes (2026)",
+        "link": "https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "AI Agents Don’t Fix Bad Architecture. They Accelerate It.",
+        "link": "https://dev.to/luciano0322/ai-agents-dont-fix-bad-architecture-they-accelerate-it-2h2i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Google Translate Crashes Your React App (and How to Fix It)",
+        "link": "https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-20",
     "formattedDate": "July 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built an Architecture Intelligence Tool for React & Next.js During the OpenAI Build Week Hackathon",
         "link": "https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-18",
-    "formattedDate": "July 18, 2026",
-    "news": [
-      {
-        "title": "I Built a Password Strength Checker That Actually Works (Here's Why Most Fail)",
-        "link": "https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a country-based redirect — the right way (and the wrong ways)",
-        "link": "https://dev.to/vix_2f14d2f56c1/building-a-country-based-redirect-the-right-way-and-the-wrong-ways-1p64",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Free Online Burraco, From Scratch: Rules, Wildcards, and a Three-Tier AI in Vanilla JavaScript",
-        "link": "https://dev.to/androve2k/free-online-burraco-from-scratch-rules-wildcards-and-a-three-tier-ai-in-vanilla-javascript-5fp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
-        "link": "https://dev.to/shlokkokk/i-was-tired-of-studying-security-tools-from-static-cheatsheets-so-i-built-shellstack-46d6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop Over Engineering Your Frontend State: A Developer's Guide to \"Less is More\"",
-        "link": "https://dev.to/idan_dev/stop-over-engineering-your-frontend-state-a-developers-guide-to-less-is-more-5dhp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building FlowOps AI: How I Designed a Volunteer's Co-Pilot for FIFA World Cup 2026 Stadiums",
-        "link": "https://dev.to/adarsh_n_cfb490febe0ea8fa/building-flowops-ai-how-i-designed-a-volunteers-co-pilot-for-fifa-world-cup-2026-stadiums-3ne1",
         "source": "Dev.to React"
       },
       {
