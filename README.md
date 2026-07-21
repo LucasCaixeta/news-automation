@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built 118+ device tests that run entirely in your browser — no server, no uploads](https://dev.to/kaan_tokali_5a4828a3f897c/i-built-118-device-tests-that-run-entirely-in-your-browser-no-server-no-uploads-5d1n)
-- [Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game](https://dev.to/sunnhappy/preventing-focus-loss-from-launching-a-charged-jump-in-a-threejs-arcade-game-415p)
-- [React useResizeObserver Hook: Track Element Size Changes (2026)](https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43)
+- [🐘 TypeScript for PHP? YES, that's possible! And it's not what you think...](https://dev.to/0x1/typescript-for-php-yes-thats-possible-and-its-not-what-you-think-394f)
+- [Your Clock Can Go Backward—Use the Right One for Durations](https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic)
+- [Making a WebSocket survive Chrome's Manifest V3](https://dev.to/mfauveau/making-a-websocket-survive-chromes-manifest-v3-1p0h)
 
 #### Dev.to React
 
-- [React useResizeObserver Hook: Track Element Size Changes (2026)](https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43)
-- [AI Agents Don’t Fix Bad Architecture. They Accelerate It.](https://dev.to/luciano0322/ai-agents-dont-fix-bad-architecture-they-accelerate-it-2h2i)
-- [Why Google Translate Crashes Your React App (and How to Fix It)](https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391)
+- [The Optimistic UI Race Condition That Only Showed Up on the Fifth Click](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55)
+- [How I Built an AI Pet Video Generator with TanStack Start and ByteDance Seedance](https://dev.to/tianyizhang/how-i-built-an-ai-pet-video-generator-with-tanstack-start-and-bytedance-seedance-25h1)
+- [Handling File Downloads and System Notifications in React Made Easy](https://dev.to/saurav_tb_pandey/handling-file-downloads-and-system-notifications-in-react-made-easy-227)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 21, 2026",
     "news": [
       {
-        "title": "I built 118+ device tests that run entirely in your browser — no server, no uploads",
-        "link": "https://dev.to/kaan_tokali_5a4828a3f897c/i-built-118-device-tests-that-run-entirely-in-your-browser-no-server-no-uploads-5d1n",
+        "title": "🐘 TypeScript for PHP? YES, that's possible! And it's not what you think...",
+        "link": "https://dev.to/0x1/typescript-for-php-yes-thats-possible-and-its-not-what-you-think-394f",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game",
-        "link": "https://dev.to/sunnhappy/preventing-focus-loss-from-launching-a-charged-jump-in-a-threejs-arcade-game-415p",
+        "title": "Your Clock Can Go Backward—Use the Right One for Durations",
+        "link": "https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React useResizeObserver Hook: Track Element Size Changes (2026)",
-        "link": "https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43",
+        "title": "Making a WebSocket survive Chrome's Manifest V3",
+        "link": "https://dev.to/mfauveau/making-a-websocket-survive-chromes-manifest-v3-1p0h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React useResizeObserver Hook: Track Element Size Changes (2026)",
-        "link": "https://dev.to/childrentime/react-useresizeobserver-hook-track-element-size-changes-2026-4l43",
+        "title": "The Optimistic UI Race Condition That Only Showed Up on the Fifth Click",
+        "link": "https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55",
         "source": "Dev.to React"
       },
       {
-        "title": "AI Agents Don’t Fix Bad Architecture. They Accelerate It.",
-        "link": "https://dev.to/luciano0322/ai-agents-dont-fix-bad-architecture-they-accelerate-it-2h2i",
+        "title": "How I Built an AI Pet Video Generator with TanStack Start and ByteDance Seedance",
+        "link": "https://dev.to/tianyizhang/how-i-built-an-ai-pet-video-generator-with-tanstack-start-and-bytedance-seedance-25h1",
         "source": "Dev.to React"
       },
       {
-        "title": "Why Google Translate Crashes Your React App (and How to Fix It)",
-        "link": "https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391",
+        "title": "Handling File Downloads and System Notifications in React Made Easy",
+        "link": "https://dev.to/saurav_tb_pandey/handling-file-downloads-and-system-notifications-in-react-made-easy-227",
         "source": "Dev.to React"
       },
       {
