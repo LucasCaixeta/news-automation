@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Nuxt vs SvelteKit: What works better?](https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h)
-- [React useCookie Hook: Cookies as Reactive State (2026)](https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369)
-- [Your Clock Can Go Backward—Use the Right One for Durations](https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic)
+- [Every JWT debugger tells you not to paste real tokens. So I built one where it doesn't matter.](https://dev.to/mike_0f35516d33902a0d2546/every-jwt-debugger-tells-you-not-to-paste-real-tokens-so-i-built-one-where-it-doesnt-matter-3cf3)
+- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
+- [I built a CLI so I'd stop typing ImageMagick flags wrong.](https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61)
 
 #### Dev.to React
 
-- [The Optimistic UI Race Condition That Only Showed Up on the Fifth Click](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55)
-- [React useCookie Hook: Cookies as Reactive State (2026)](https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369)
-- [Can UI Code Read Like the UI Itself?](https://dev.to/ahmad_wasfi_f88513699c56d/can-ui-code-read-like-the-ui-itself-2ka1)
+- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
+- [React Native Hooks in Depth — Examples, Scenarios & Production Patterns](https://dev.to/amitkumar13/react-native-hooks-in-depth-examples-scenarios-production-patterns-2fem)
+- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 22, 2026",
     "news": [
       {
-        "title": "Nuxt vs SvelteKit: What works better?",
-        "link": "https://dev.to/erikch/nuxt-vs-sveltekit-what-works-better-132h",
+        "title": "Every JWT debugger tells you not to paste real tokens. So I built one where it doesn't matter.",
+        "link": "https://dev.to/mike_0f35516d33902a0d2546/every-jwt-debugger-tells-you-not-to-paste-real-tokens-so-i-built-one-where-it-doesnt-matter-3cf3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React useCookie Hook: Cookies as Reactive State (2026)",
-        "link": "https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369",
+        "title": "The Button That Sent People to a Blank Form",
+        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your Clock Can Go Backward—Use the Right One for Durations",
-        "link": "https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic",
+        "title": "I built a CLI so I'd stop typing ImageMagick flags wrong.",
+        "link": "https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Optimistic UI Race Condition That Only Showed Up on the Fifth Click",
-        "link": "https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55",
+        "title": "The Button That Sent People to a Blank Form",
+        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
         "source": "Dev.to React"
       },
       {
-        "title": "React useCookie Hook: Cookies as Reactive State (2026)",
-        "link": "https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369",
+        "title": "React Native Hooks in Depth — Examples, Scenarios & Production Patterns",
+        "link": "https://dev.to/amitkumar13/react-native-hooks-in-depth-examples-scenarios-production-patterns-2fem",
         "source": "Dev.to React"
       },
       {
-        "title": "Can UI Code Read Like the UI Itself?",
-        "link": "https://dev.to/ahmad_wasfi_f88513699c56d/can-ui-code-read-like-the-ui-itself-2ka1",
+        "title": "TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again",
+        "link": "https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb",
         "source": "Dev.to React"
       },
       {
