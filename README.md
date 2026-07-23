@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 22, 2026)
+### Today's Updates (July 23, 2026)
+
+#### Dev.to JavaScript
+
+- [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
+- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
+- [Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs](https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2)
+
+#### Dev.to React
+
+- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
+- [Schemas Won. Form Libraries Haven't Noticed Yet](https://dev.to/oluwawunmiadesewa/schemas-won-form-libraries-havent-noticed-yet-2ek6)
+- [Cool shadcn libraries](https://dev.to/shreyvijayvargiya/cool-shadcn-libraries-b36)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 21, 2026)
+### 2 Days Ago (July 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Optimistic UI Race Condition That Only Showed Up on the Fifth Click](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55)
 - [How I Built an AI Pet Video Generator with TanStack Start and ByteDance Seedance](https://dev.to/tianyizhang/how-i-built-an-ai-pet-video-generator-with-tanstack-start-and-bytedance-seedance-25h1)
 - [Handling File Downloads and System Notifications in React Made Easy](https://dev.to/saurav_tb_pandey/handling-file-downloads-and-system-notifications-in-react-made-easy-227)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 20, 2026)
-
-#### Dev.to JavaScript
-
-- [Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.](https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4)
-- [The Timeline Was Split, but the Audio Wasn't: Fixing Source Offsets in a Browser Video Editor](https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02)
-- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad)
-
-#### Dev.to React
-
-- [React Server Components - The Mental Model Shift](https://dev.to/dimidan/rsc-the-mental-model-shift-5efg)
-- [7 Next.js Features That Made Me Delete 200 Lines of Code](https://dev.to/franklinmayoyo/7-nextjs-features-that-made-me-delete-200-lines-of-code-6hc)
-- [Set up React Query on an Expo Project](https://dev.to/hokagedemehin/set-up-react-query-on-an-expo-project-5e58)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-23",
+    "formattedDate": "July 23, 2026",
+    "news": [
+      {
+        "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Button That Sent People to a Blank Form",
+        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs",
+        "link": "https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Button That Sent People to a Blank Form",
+        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Schemas Won. Form Libraries Haven't Noticed Yet",
+        "link": "https://dev.to/oluwawunmiadesewa/schemas-won-form-libraries-havent-noticed-yet-2ek6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cool shadcn libraries",
+        "link": "https://dev.to/shreyvijayvargiya/cool-shadcn-libraries-b36",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-22",
     "formattedDate": "July 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Handling File Downloads and System Notifications in React Made Easy",
         "link": "https://dev.to/saurav_tb_pandey/handling-file-downloads-and-system-notifications-in-react-made-easy-227",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "formattedDate": "July 20, 2026",
-    "news": [
-      {
-        "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
-        "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Timeline Was Split, but the Audio Wasn't: Fixing Source Offsets in a Browser Video Editor",
-        "link": "https://dev.to/martindelophy/the-timeline-was-split-but-the-audio-wasnt-fixing-source-offsets-in-a-browser-video-editor-2m02",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A Smaller Foundation for JavaScript Reactivity",
-        "link": "https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Server Components - The Mental Model Shift",
-        "link": "https://dev.to/dimidan/rsc-the-mental-model-shift-5efg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "7 Next.js Features That Made Me Delete 200 Lines of Code",
-        "link": "https://dev.to/franklinmayoyo/7-nextjs-features-that-made-me-delete-200-lines-of-code-6hc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Set up React Query on an Expo Project",
-        "link": "https://dev.to/hokagedemehin/set-up-react-query-on-an-expo-project-5e58",
         "source": "Dev.to React"
       },
       {
