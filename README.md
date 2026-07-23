@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
-- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
-- [Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs](https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2)
+- [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09)
+- [Roll your own file-based router in under 50 lines of code](https://dev.to/wasp/roll-your-own-file-based-router-in-under-50-lines-of-code-2kb4)
 
 #### Dev.to React
 
-- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
-- [Schemas Won. Form Libraries Haven't Noticed Yet](https://dev.to/oluwawunmiadesewa/schemas-won-form-libraries-havent-noticed-yet-2ek6)
-- [Cool shadcn libraries](https://dev.to/shreyvijayvargiya/cool-shadcn-libraries-b36)
+- [Crucible v1.2 — Interactive TUI, Component Lifecycle Commands, React Native, and Security Hardening](https://dev.to/naveen2070/crucible-v12-interactive-tui-component-lifecycle-commands-react-native-and-security-hardening-3nkm)
+- [I Built a React Component That Turns Any Portfolio Into a 3D Minecraft World](https://dev.to/tech-aficionado/i-built-a-react-component-that-turns-any-portfolio-into-a-3d-minecraft-world-196p)
+- [React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible](https://dev.to/bishoy_bishai/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered-before-the-child-40fe)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Button That Sent People to a Blank Form",
-        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
+        "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+        "link": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs",
-        "link": "https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2",
+        "title": "Roll your own file-based router in under 50 lines of code",
+        "link": "https://dev.to/wasp/roll-your-own-file-based-router-in-under-50-lines-of-code-2kb4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Button That Sent People to a Blank Form",
-        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
+        "title": "Crucible v1.2 — Interactive TUI, Component Lifecycle Commands, React Native, and Security Hardening",
+        "link": "https://dev.to/naveen2070/crucible-v12-interactive-tui-component-lifecycle-commands-react-native-and-security-hardening-3nkm",
         "source": "Dev.to React"
       },
       {
-        "title": "Schemas Won. Form Libraries Haven't Noticed Yet",
-        "link": "https://dev.to/oluwawunmiadesewa/schemas-won-form-libraries-havent-noticed-yet-2ek6",
+        "title": "I Built a React Component That Turns Any Portfolio Into a 3D Minecraft World",
+        "link": "https://dev.to/tech-aficionado/i-built-a-react-component-that-turns-any-portfolio-into-a-3d-minecraft-world-196p",
         "source": "Dev.to React"
       },
       {
-        "title": "Cool shadcn libraries",
-        "link": "https://dev.to/shreyvijayvargiya/cool-shadcn-libraries-b36",
+        "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
+        "link": "https://dev.to/bishoy_bishai/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered-before-the-child-40fe",
         "source": "Dev.to React"
       },
       {
