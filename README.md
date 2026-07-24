@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
 - [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
-- [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09)
+- [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
+- [I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline](https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m)
 
 #### Dev.to React
 
-- [The Hidden Part of Refresh Token Implementation that every developers should know](https://dev.to/nileshcodehub/the-hidden-part-of-refresh-token-implementation-that-every-developers-should-know-260b)
-- [How I Built an SSR Valorant Tracker with React, Supabase and Live Esports Data](https://dev.to/_790a2066fe960225cb5f7/how-i-built-an-ssr-valorant-tracker-with-react-supabase-and-live-esports-data-4fbl)
-- [Designing the SaaS Dashboard](https://dev.to/moose978/designing-the-saas-dashboard-5h2l)
+- [Why I’m Building an Open-Source Frontend Engineering Handbook](https://dev.to/indexphp/why-im-building-an-open-source-frontend-engineering-handbook-2oj5)
+- [React Component Lifecycle Methods: Explained with an Interactive Diagram](https://dev.to/uiuxsatyam/react-lifecycle-methods-explained-with-an-interactive-diagram-3ljp)
+- [Why Some Next.js Sites Show Empty HTML in Page Source (It's Not a Bug)](https://dev.to/joodi/why-some-nextjs-sites-show-empty-html-in-page-source-its-not-a-bug-gjb)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 24, 2026",
     "news": [
       {
-        "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
         "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-        "link": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
+        "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Hidden Part of Refresh Token Implementation that every developers should know",
-        "link": "https://dev.to/nileshcodehub/the-hidden-part-of-refresh-token-implementation-that-every-developers-should-know-260b",
+        "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+        "link": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I’m Building an Open-Source Frontend Engineering Handbook",
+        "link": "https://dev.to/indexphp/why-im-building-an-open-source-frontend-engineering-handbook-2oj5",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built an SSR Valorant Tracker with React, Supabase and Live Esports Data",
-        "link": "https://dev.to/_790a2066fe960225cb5f7/how-i-built-an-ssr-valorant-tracker-with-react-supabase-and-live-esports-data-4fbl",
+        "title": "React Component Lifecycle Methods: Explained with an Interactive Diagram",
+        "link": "https://dev.to/uiuxsatyam/react-lifecycle-methods-explained-with-an-interactive-diagram-3ljp",
         "source": "Dev.to React"
       },
       {
-        "title": "Designing the SaaS Dashboard",
-        "link": "https://dev.to/moose978/designing-the-saas-dashboard-5h2l",
+        "title": "Why Some Next.js Sites Show Empty HTML in Page Source (It's Not a Bug)",
+        "link": "https://dev.to/joodi/why-some-nextjs-sites-show-empty-html-in-page-source-its-not-a-bug-gjb",
         "source": "Dev.to React"
       },
       {
