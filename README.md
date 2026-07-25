@@ -16,9 +16,9 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to React
 
-- [A Smarter Way to Deep Clone in React: Introducing useDeepClone](https://dev.to/saurav_tb_pandey/a-smarter-way-to-deep-clone-in-react-introducing-usedeepclone-1n30)
-- [New Portfolio!](https://dev.to/tsubasacodes/new-portfolio-1ppl)
-- [Why I’m Building an Open-Source Frontend Engineering Handbook](https://dev.to/indexphp/why-im-building-an-open-source-frontend-engineering-handbook-2oj5)
+- [The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs](https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6)
+- [How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev](https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98)
+- [Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)](https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5)
 
 #### React Blog
 
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A Smarter Way to Deep Clone in React: Introducing useDeepClone",
-        "link": "https://dev.to/saurav_tb_pandey/a-smarter-way-to-deep-clone-in-react-introducing-usedeepclone-1n30",
+        "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
+        "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
         "source": "Dev.to React"
       },
       {
-        "title": "New Portfolio!",
-        "link": "https://dev.to/tsubasacodes/new-portfolio-1ppl",
+        "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
+        "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
         "source": "Dev.to React"
       },
       {
-        "title": "Why I’m Building an Open-Source Frontend Engineering Handbook",
-        "link": "https://dev.to/indexphp/why-im-building-an-open-source-frontend-engineering-handbook-2oj5",
+        "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
+        "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
         "source": "Dev.to React"
       },
       {
