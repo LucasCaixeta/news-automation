@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 24, 2026)
+### Today's Updates (July 25, 2026)
+
+#### Dev.to JavaScript
+
+- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
+- [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
+- [I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline](https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m)
+
+#### Dev.to React
+
+- [A Smarter Way to Deep Clone in React: Introducing useDeepClone](https://dev.to/saurav_tb_pandey/a-smarter-way-to-deep-clone-in-react-introducing-usedeepclone-1n30)
+- [New Portfolio!](https://dev.to/tsubasacodes/new-portfolio-1ppl)
+- [Why I’m Building an Open-Source Frontend Engineering Handbook](https://dev.to/indexphp/why-im-building-an-open-source-frontend-engineering-handbook-2oj5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 23, 2026)
+### 2 Days Ago (July 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Crucible v1.2 — Interactive TUI, Component Lifecycle Commands, React Native, and Security Hardening](https://dev.to/naveen2070/crucible-v12-interactive-tui-component-lifecycle-commands-react-native-and-security-hardening-3nkm)
 - [I Built a React Component That Turns Any Portfolio Into a 3D Minecraft World](https://dev.to/tech-aficionado/i-built-a-react-component-that-turns-any-portfolio-into-a-3d-minecraft-world-196p)
 - [React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible](https://dev.to/bishoy_bishai/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered-before-the-child-40fe)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 22, 2026)
-
-#### Dev.to JavaScript
-
-- [Every JWT debugger tells you not to paste real tokens. So I built one where it doesn't matter.](https://dev.to/mike_0f35516d33902a0d2546/every-jwt-debugger-tells-you-not-to-paste-real-tokens-so-i-built-one-where-it-doesnt-matter-3cf3)
-- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
-- [I built a CLI so I'd stop typing ImageMagick flags wrong.](https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61)
-
-#### Dev.to React
-
-- [The Button That Sent People to a Blank Form](https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj)
-- [React Native Hooks in Depth — Examples, Scenarios & Production Patterns](https://dev.to/amitkumar13/react-native-hooks-in-depth-examples-scenarios-production-patterns-2fem)
-- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-25",
+    "formattedDate": "July 25, 2026",
+    "news": [
+      {
+        "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+        "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+        "link": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+        "link": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A Smarter Way to Deep Clone in React: Introducing useDeepClone",
+        "link": "https://dev.to/saurav_tb_pandey/a-smarter-way-to-deep-clone-in-react-introducing-usedeepclone-1n30",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "New Portfolio!",
+        "link": "https://dev.to/tsubasacodes/new-portfolio-1ppl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I’m Building an Open-Source Frontend Engineering Handbook",
+        "link": "https://dev.to/indexphp/why-im-building-an-open-source-frontend-engineering-handbook-2oj5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-24",
     "formattedDate": "July 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Native Nested FlatList: Child FlatList viewability callbacks are triggered before the child is actually visible",
         "link": "https://dev.to/bishoy_bishai/react-native-nested-flatlist-child-flatlist-viewability-callbacks-are-triggered-before-the-child-40fe",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "formattedDate": "July 22, 2026",
-    "news": [
-      {
-        "title": "Every JWT debugger tells you not to paste real tokens. So I built one where it doesn't matter.",
-        "link": "https://dev.to/mike_0f35516d33902a0d2546/every-jwt-debugger-tells-you-not-to-paste-real-tokens-so-i-built-one-where-it-doesnt-matter-3cf3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Button That Sent People to a Blank Form",
-        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a CLI so I'd stop typing ImageMagick flags wrong.",
-        "link": "https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Button That Sent People to a Blank Form",
-        "link": "https://dev.to/highcenburg/the-button-that-sent-people-to-a-blank-form-42hj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Native Hooks in Depth — Examples, Scenarios & Production Patterns",
-        "link": "https://dev.to/amitkumar13/react-native-hooks-in-depth-examples-scenarios-production-patterns-2fem",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again",
-        "link": "https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb",
         "source": "Dev.to React"
       },
       {
