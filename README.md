@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
-- [You're watching `window` to detect element size changes. `ResizeObserver` watches the element itself.](https://dev.to/parsajiravand/youre-watching-window-to-detect-element-size-changes-resizeobserver-watches-the-element-46dp)
-- [I built an open-source screening tool for ADHD & Dyslexia](https://dev.to/aryanbarnvanshi/i-built-an-open-source-screening-tool-for-adhd-dyslexia-1gdm)
+- [No backend, no database, no network calls. I still found 3 security holes.](https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5)
+- [I shipped a neural-network opponent into the browser: no backend, no accounts, 120 ms per move](https://dev.to/selectany/i-shipped-a-neural-network-opponent-into-the-browser-no-backend-no-accounts-120-ms-per-move-3l09)
 
 #### Dev.to React
 
-- [JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)](https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6)
-- [The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs](https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6)
-- [I built shared-element transitions for React Router — here’s how they work](https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn)
+- [How to Build a Custom Debounce Hook in React (Complete Guide)](https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4)
+- [Mutation Lifecycle in Frontend Applications: A Practical Approach](https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm)
+- [Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI](https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "You're watching `window` to detect element size changes. `ResizeObserver` watches the element itself.",
-        "link": "https://dev.to/parsajiravand/youre-watching-window-to-detect-element-size-changes-resizeobserver-watches-the-element-46dp",
+        "title": "No backend, no database, no network calls. I still found 3 security holes.",
+        "link": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built an open-source screening tool for ADHD & Dyslexia",
-        "link": "https://dev.to/aryanbarnvanshi/i-built-an-open-source-screening-tool-for-adhd-dyslexia-1gdm",
+        "title": "I shipped a neural-network opponent into the browser: no backend, no accounts, 120 ms per move",
+        "link": "https://dev.to/selectany/i-shipped-a-neural-network-opponent-into-the-browser-no-backend-no-accounts-120-ms-per-move-3l09",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-        "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+        "title": "How to Build a Custom Debounce Hook in React (Complete Guide)",
+        "link": "https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4",
         "source": "Dev.to React"
       },
       {
-        "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-        "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
+        "title": "Mutation Lifecycle in Frontend Applications: A Practical Approach",
+        "link": "https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm",
         "source": "Dev.to React"
       },
       {
-        "title": "I built shared-element transitions for React Router — here’s how they work",
-        "link": "https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn",
+        "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
+        "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
         "source": "Dev.to React"
       },
       {
