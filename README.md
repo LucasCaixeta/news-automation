@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Most free mahjong games can deal you a board you can't finish. I built mine backwards.](https://dev.to/dev_nash/most-free-mahjong-games-can-deal-you-a-board-you-cant-finish-i-built-mine-backwards-1cia)
 - [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
-- [Understanding JavaScript Execution Context: The Foundation of Interactivity](https://dev.to/ale3oula/understanding-javascript-execution-context-the-foundation-of-interactivity-2dah)
+- [Claude Code, Bun and TypeScript](https://dev.to/dimidan/claude-code-bun-and-typescript-cjj)
 
 #### Dev.to React
 
-- [Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo](https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e)
-- [The state of zero-runtime CSS-in-JS, mid-2026](https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6)
-- [Stop Writing API Routes: Next.js Server Actions](https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj)
+- [I Replaced ESLint and Prettier with Biome](https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5)
+- [Optimistic React UIs that don't drift from the server](https://dev.to/yaseenyk04/optimistic-react-uis-that-dont-drift-from-the-server-536l)
+- [Building a Small, Local-First Web Audio Tool (and the Edge Cases I Didn't Expect)](https://dev.to/zack_e36e64fd6fcd12ebbc13/building-a-small-local-first-web-audio-tool-and-the-edge-cases-i-didnt-expect-o1f)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Understanding JavaScript Execution Context: The Foundation of Interactivity",
-        "link": "https://dev.to/ale3oula/understanding-javascript-execution-context-the-foundation-of-interactivity-2dah",
+        "title": "Claude Code, Bun and TypeScript",
+        "link": "https://dev.to/dimidan/claude-code-bun-and-typescript-cjj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
-        "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+        "title": "I Replaced ESLint and Prettier with Biome",
+        "link": "https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5",
         "source": "Dev.to React"
       },
       {
-        "title": "The state of zero-runtime CSS-in-JS, mid-2026",
-        "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+        "title": "Optimistic React UIs that don't drift from the server",
+        "link": "https://dev.to/yaseenyk04/optimistic-react-uis-that-dont-drift-from-the-server-536l",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Writing API Routes: Next.js Server Actions",
-        "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+        "title": "Building a Small, Local-First Web Audio Tool (and the Edge Cases I Didn't Expect)",
+        "link": "https://dev.to/zack_e36e64fd6fcd12ebbc13/building-a-small-local-first-web-audio-tool-and-the-edge-cases-i-didnt-expect-o1f",
         "source": "Dev.to React"
       },
       {
