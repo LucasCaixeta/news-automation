@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 27, 2026)
+### Today's Updates (July 28, 2026)
+
+#### Dev.to JavaScript
+
+- ["I built a Python compiler that runs in browser using WebAssembly"](https://dev.to/shrirang_8770f57b6607952a/i-built-a-python-compiler-that-runs-in-browser-using-webassembly-26if)
+- [JavaScript Interview Questions Every Dev Should Know — Part 1: Fundamentals & Data Types](https://dev.to/keyurgohil13/10-javascript-interview-questions-every-dev-should-know-part-1-fundamentals-data-types-ic8)
+- [You hand-edit headlines to avoid orphaned words. `text-wrap: balance` does it natively.](https://dev.to/parsajiravand/you-hand-edit-headlines-to-avoid-orphaned-words-text-wrap-balance-does-it-natively-286f)
+
+#### Dev.to React
+
+- [React useDropZone Hook: Build a File Drop Zone (2026)](https://dev.to/childrentime/react-usedropzone-hook-build-a-file-drop-zone-2026-5chi)
+- [React Performance Optimization Techniques That Actually Work](https://dev.to/software_solutions_740799/react-performance-optimization-techniques-that-actually-work-2e1k)
+- [Building a Modern CRM Dashboard with React, Tailwind CSS, and Recharts](https://dev.to/software_solutions_740799/building-a-modern-crm-dashboard-with-react-tailwind-css-and-recharts-8mf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 26, 2026)
+### 2 Days Ago (July 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Build a Custom Debounce Hook in React (Complete Guide)](https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4)
 - [Mutation Lifecycle in Frontend Applications: A Practical Approach](https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm)
 - [Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI](https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 25, 2026)
-
-#### Dev.to JavaScript
-
-- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
-- [The Dirty Secret Behind AI Agents (Demo 🚀)](https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d)
-- [I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline](https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m)
-
-#### Dev.to React
-
-- [The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs](https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6)
-- [How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev](https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98)
-- [Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)](https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-28",
+    "formattedDate": "July 28, 2026",
+    "news": [
+      {
+        "title": "\"I built a Python compiler that runs in browser using WebAssembly\"",
+        "link": "https://dev.to/shrirang_8770f57b6607952a/i-built-a-python-compiler-that-runs-in-browser-using-webassembly-26if",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript Interview Questions Every Dev Should Know — Part 1: Fundamentals & Data Types",
+        "link": "https://dev.to/keyurgohil13/10-javascript-interview-questions-every-dev-should-know-part-1-fundamentals-data-types-ic8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You hand-edit headlines to avoid orphaned words. `text-wrap: balance` does it natively.",
+        "link": "https://dev.to/parsajiravand/you-hand-edit-headlines-to-avoid-orphaned-words-text-wrap-balance-does-it-natively-286f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React useDropZone Hook: Build a File Drop Zone (2026)",
+        "link": "https://dev.to/childrentime/react-usedropzone-hook-build-a-file-drop-zone-2026-5chi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Performance Optimization Techniques That Actually Work",
+        "link": "https://dev.to/software_solutions_740799/react-performance-optimization-techniques-that-actually-work-2e1k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Modern CRM Dashboard with React, Tailwind CSS, and Recharts",
+        "link": "https://dev.to/software_solutions_740799/building-a-modern-crm-dashboard-with-react-tailwind-css-and-recharts-8mf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-27",
     "formattedDate": "July 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
         "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "formattedDate": "July 25, 2026",
-    "news": [
-      {
-        "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
-        "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-        "link": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-        "link": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-        "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
-        "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
-        "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
         "source": "Dev.to React"
       },
       {
