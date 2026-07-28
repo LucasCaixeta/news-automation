@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- ["I built a Python compiler that runs in browser using WebAssembly"](https://dev.to/shrirang_8770f57b6607952a/i-built-a-python-compiler-that-runs-in-browser-using-webassembly-26if)
-- [JavaScript Interview Questions Every Dev Should Know — Part 1: Fundamentals & Data Types](https://dev.to/keyurgohil13/10-javascript-interview-questions-every-dev-should-know-part-1-fundamentals-data-types-ic8)
-- [You hand-edit headlines to avoid orphaned words. `text-wrap: balance` does it natively.](https://dev.to/parsajiravand/you-hand-edit-headlines-to-avoid-orphaned-words-text-wrap-balance-does-it-natively-286f)
+- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+- [Responsive Images in Modern Ember](https://dev.to/ijlee2/responsive-images-in-modern-ember-48c)
+- [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4)
 
 #### Dev.to React
 
-- [React useDropZone Hook: Build a File Drop Zone (2026)](https://dev.to/childrentime/react-usedropzone-hook-build-a-file-drop-zone-2026-5chi)
-- [React Performance Optimization Techniques That Actually Work](https://dev.to/software_solutions_740799/react-performance-optimization-techniques-that-actually-work-2e1k)
-- [Building a Modern CRM Dashboard with React, Tailwind CSS, and Recharts](https://dev.to/software_solutions_740799/building-a-modern-crm-dashboard-with-react-tailwind-css-and-recharts-8mf)
+- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+- [Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)](https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b)
+- [MongoDB + Mongoose Patterns I Use in Every Next.js Project](https://dev.to/anas_sheikh_2/mongodb-mongoose-patterns-i-use-in-every-nextjs-project-32b)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 28, 2026",
     "news": [
       {
-        "title": "\"I built a Python compiler that runs in browser using WebAssembly\"",
-        "link": "https://dev.to/shrirang_8770f57b6607952a/i-built-a-python-compiler-that-runs-in-browser-using-webassembly-26if",
+        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "JavaScript Interview Questions Every Dev Should Know — Part 1: Fundamentals & Data Types",
-        "link": "https://dev.to/keyurgohil13/10-javascript-interview-questions-every-dev-should-know-part-1-fundamentals-data-types-ic8",
+        "title": "Responsive Images in Modern Ember",
+        "link": "https://dev.to/ijlee2/responsive-images-in-modern-ember-48c",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "You hand-edit headlines to avoid orphaned words. `text-wrap: balance` does it natively.",
-        "link": "https://dev.to/parsajiravand/you-hand-edit-headlines-to-avoid-orphaned-words-text-wrap-balance-does-it-natively-286f",
+        "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
+        "link": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React useDropZone Hook: Build a File Drop Zone (2026)",
-        "link": "https://dev.to/childrentime/react-usedropzone-hook-build-a-file-drop-zone-2026-5chi",
+        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
         "source": "Dev.to React"
       },
       {
-        "title": "React Performance Optimization Techniques That Actually Work",
-        "link": "https://dev.to/software_solutions_740799/react-performance-optimization-techniques-that-actually-work-2e1k",
+        "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
+        "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Modern CRM Dashboard with React, Tailwind CSS, and Recharts",
-        "link": "https://dev.to/software_solutions_740799/building-a-modern-crm-dashboard-with-react-tailwind-css-and-recharts-8mf",
+        "title": "MongoDB + Mongoose Patterns I Use in Every Next.js Project",
+        "link": "https://dev.to/anas_sheikh_2/mongodb-mongoose-patterns-i-use-in-every-nextjs-project-32b",
         "source": "Dev.to React"
       },
       {
