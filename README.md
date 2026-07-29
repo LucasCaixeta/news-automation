@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
-- [Multithreading in Node.js: A Complete Guide with Theory and Practical Examples](https://dev.to/abanoubkerols/multithreading-in-nodejs-a-complete-guide-with-theory-and-practical-examples-3m30)
-- [Custom Cell Renderers & Action Buttons in Joget Spreadsheet Elements](https://dev.to/exploringmylifeworks/custom-cell-renderers-action-buttons-in-joget-spreadsheet-elements-29bb)
+- [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+- [How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)](https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4)
+- [How an Unindexed Column Silently Killed Our Database under Load (and the 5-Minute Fix)](https://dev.to/mia_keller_ffd2584c046ecb/how-an-unindexed-column-silently-killed-our-database-under-load-and-the-5-minute-fix-m32)
 
 #### Dev.to React
 
-- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
-- [What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features](https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc)
-- [A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form](https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o)
+- [Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine](https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb)
+- [Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
+- [One analytics codebase, three runtimes (web, native, offline)](https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "July 29, 2026",
     "news": [
       {
-        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+        "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Multithreading in Node.js: A Complete Guide with Theory and Practical Examples",
-        "link": "https://dev.to/abanoubkerols/multithreading-in-nodejs-a-complete-guide-with-theory-and-practical-examples-3m30",
+        "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
+        "link": "https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Custom Cell Renderers & Action Buttons in Joget Spreadsheet Elements",
-        "link": "https://dev.to/exploringmylifeworks/custom-cell-renderers-action-buttons-in-joget-spreadsheet-elements-29bb",
+        "title": "How an Unindexed Column Silently Killed Our Database under Load (and the 5-Minute Fix)",
+        "link": "https://dev.to/mia_keller_ffd2584c046ecb/how-an-unindexed-column-silently-killed-our-database-under-load-and-the-5-minute-fix-m32",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+        "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
+        "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
         "source": "Dev.to React"
       },
       {
-        "title": "What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features",
-        "link": "https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc",
+        "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
+        "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
         "source": "Dev.to React"
       },
       {
-        "title": "A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form",
-        "link": "https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o",
+        "title": "One analytics codebase, three runtimes (web, native, offline)",
+        "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
         "source": "Dev.to React"
       },
       {
