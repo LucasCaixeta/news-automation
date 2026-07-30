@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
 - [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
-- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+- [What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)
 
 #### Dev.to React
 
-- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
-- [React useUpdateEffect Hook: Skip the First Render (2026)](https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d)
-- [Enterprise State Management: React & Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
+- [You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.](https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m)
+- [I Built a Free, Privacy-First File Compressor & Converter That Runs Entirely in Your Browser](https://dev.to/sk8162053hash/i-built-a-free-privacy-first-file-compressor-converter-that-runs-entirely-in-your-browser-26a4)
+- [How to Become a Full-Stack Developer by Contributing to a Real Open Source Project (No Experience Needed)](https://dev.to/muhammadtahamirza/how-to-become-a-full-stack-developer-by-contributing-to-a-real-open-source-project-no-experience-4n0c)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+        "title": "What Actually Happens After You Send a Webhook",
+        "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+        "title": "You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.",
+        "link": "https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m",
         "source": "Dev.to React"
       },
       {
-        "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
-        "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+        "title": "I Built a Free, Privacy-First File Compressor & Converter That Runs Entirely in Your Browser",
+        "link": "https://dev.to/sk8162053hash/i-built-a-free-privacy-first-file-compressor-converter-that-runs-entirely-in-your-browser-26a4",
         "source": "Dev.to React"
       },
       {
-        "title": "Enterprise State Management: React & Zustand 🐻",
-        "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
+        "title": "How to Become a Full-Stack Developer by Contributing to a Real Open Source Project (No Experience Needed)",
+        "link": "https://dev.to/muhammadtahamirza/how-to-become-a-full-stack-developer-by-contributing-to-a-real-open-source-project-no-experience-4n0c",
         "source": "Dev.to React"
       },
       {
