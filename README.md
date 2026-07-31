@@ -16,9 +16,9 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to React
 
-- [Cache-Busting a React Micro-Frontend Inside an Angular Shell](https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k)
-- [Kill the API Layer: Next.js Server Actions ⚡](https://dev.to/iprajapatiparesh/kill-the-api-layer-nextjs-server-actions-3fe3)
-- [React useThrottle Hook: Throttle Values & Callbacks (2026)](https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf)
+- [TypeScript `readonly` Arrays and Tuples: When Immutability Saves You and When It Fights You](https://dev.to/jsmanifest/typescript-readonly-arrays-and-tuples-when-immutability-saves-you-and-when-it-fights-you-324c)
+- [This Week In React #292 : Octane, TanStack, StableRef, Next.js | Workers, SafeAreaView, backgroundImage, WebGPU | TC39, Web Vitals](https://dev.to/sebastienlorber/this-week-in-react-292-octane-tanstack-stableref-nextjs-workers-safeareaview-55bp)
+- [Webviews Aren't Slow. Your 'Native' Framework Is in Debt.](https://dev.to/jeffsynister/webviews-arent-slow-your-native-framework-is-in-debt-3n43)
 
 #### React Blog
 
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
-        "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+        "title": "TypeScript `readonly` Arrays and Tuples: When Immutability Saves You and When It Fights You",
+        "link": "https://dev.to/jsmanifest/typescript-readonly-arrays-and-tuples-when-immutability-saves-you-and-when-it-fights-you-324c",
         "source": "Dev.to React"
       },
       {
-        "title": "Kill the API Layer: Next.js Server Actions ⚡",
-        "link": "https://dev.to/iprajapatiparesh/kill-the-api-layer-nextjs-server-actions-3fe3",
+        "title": "This Week In React #292 : Octane, TanStack, StableRef, Next.js | Workers, SafeAreaView, backgroundImage, WebGPU | TC39, Web Vitals",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-292-octane-tanstack-stableref-nextjs-workers-safeareaview-55bp",
         "source": "Dev.to React"
       },
       {
-        "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
-        "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+        "title": "Webviews Aren't Slow. Your 'Native' Framework Is in Debt.",
+        "link": "https://dev.to/jeffsynister/webviews-arent-slow-your-native-framework-is-in-debt-3n43",
         "source": "Dev.to React"
       },
       {
