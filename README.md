@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 30, 2026)
+### Today's Updates (July 31, 2026)
+
+#### Dev.to JavaScript
+
+- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+- [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+- [What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)
+
+#### Dev.to React
+
+- [Cache-Busting a React Micro-Frontend Inside an Angular Shell](https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k)
+- [Kill the API Layer: Next.js Server Actions ⚡](https://dev.to/iprajapatiparesh/kill-the-api-layer-nextjs-server-actions-3fe3)
+- [React useThrottle Hook: Throttle Values & Callbacks (2026)](https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 29, 2026)
+### 2 Days Ago (July 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine](https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb)
 - [Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
 - [One analytics codebase, three runtimes (web, native, offline)](https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 28, 2026)
-
-#### Dev.to JavaScript
-
-- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
-- [Responsive Images in Modern Ember](https://dev.to/ijlee2/responsive-images-in-modern-ember-48c)
-- [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4)
-
-#### Dev.to React
-
-- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
-- [Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)](https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b)
-- [MongoDB + Mongoose Patterns I Use in Every Next.js Project](https://dev.to/anas_sheikh_2/mongodb-mongoose-patterns-i-use-in-every-nextjs-project-32b)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-07-31",
+    "formattedDate": "July 31, 2026",
+    "news": [
+      {
+        "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+        "link": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What Actually Happens After You Send a Webhook",
+        "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
+        "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Kill the API Layer: Next.js Server Actions ⚡",
+        "link": "https://dev.to/iprajapatiparesh/kill-the-api-layer-nextjs-server-actions-3fe3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+        "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-30",
     "formattedDate": "July 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "One analytics codebase, three runtimes (web, native, offline)",
         "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "formattedDate": "July 28, 2026",
-    "news": [
-      {
-        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Responsive Images in Modern Ember",
-        "link": "https://dev.to/ijlee2/responsive-images-in-modern-ember-48c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
-        "link": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-        "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
-        "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MongoDB + Mongoose Patterns I Use in Every Next.js Project",
-        "link": "https://dev.to/anas_sheikh_2/mongodb-mongoose-patterns-i-use-in-every-nextjs-project-32b",
         "source": "Dev.to React"
       },
       {
