@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (July 31, 2026)
+### Today's Updates (August 1, 2026)
+
+#### Dev.to JavaScript
+
+- [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+- [I Built a Clinic Web App by Shipping Phase 1 First (No, It's Not Done Yet)](https://dev.to/sorooshaghaei/i-built-a-clinic-web-app-by-shipping-phase-1-first-no-its-not-done-yet-2p75)
+- [AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App](https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n)
+
+#### Dev.to React
+
+- [How Frontend Developers Can Easily Deploy a Project on VPS (Beginner Friendly)](https://dev.to/rakibulislamdev/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki)
+- [AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App](https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n)
+- [Fixing a Memory Leak in React by Cleaning Up useEffect](https://dev.to/prince_patel_09/fixing-a-memory-leak-in-react-by-cleaning-up-useeffect-4ifl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (July 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (July 30, 2026)
+### 2 Days Ago (July 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.](https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m)
 - [I Built a Free, Privacy-First File Compressor & Converter That Runs Entirely in Your Browser](https://dev.to/sk8162053hash/i-built-a-free-privacy-first-file-compressor-converter-that-runs-entirely-in-your-browser-26a4)
 - [How to Become a Full-Stack Developer by Contributing to a Real Open Source Project (No Experience Needed)](https://dev.to/muhammadtahamirza/how-to-become-a-full-stack-developer-by-contributing-to-a-real-open-source-project-no-experience-4n0c)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 29, 2026)
-
-#### Dev.to JavaScript
-
-- [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
-- [How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)](https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4)
-- [How an Unindexed Column Silently Killed Our Database under Load (and the 5-Minute Fix)](https://dev.to/mia_keller_ffd2584c046ecb/how-an-unindexed-column-silently-killed-our-database-under-load-and-the-5-minute-fix-m32)
-
-#### Dev.to React
-
-- [Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine](https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb)
-- [Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
-- [One analytics codebase, three runtimes (web, native, offline)](https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-01",
+    "formattedDate": "August 1, 2026",
+    "news": [
+      {
+        "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Clinic Web App by Shipping Phase 1 First (No, It's Not Done Yet)",
+        "link": "https://dev.to/sorooshaghaei/i-built-a-clinic-web-app-by-shipping-phase-1-first-no-its-not-done-yet-2p75",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App",
+        "link": "https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How Frontend Developers Can Easily Deploy a Project on VPS (Beginner Friendly)",
+        "link": "https://dev.to/rakibulislamdev/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App",
+        "link": "https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Fixing a Memory Leak in React by Cleaning Up useEffect",
+        "link": "https://dev.to/prince_patel_09/fixing-a-memory-leak-in-react-by-cleaning-up-useeffect-4ifl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-07-31",
     "formattedDate": "July 31, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Become a Full-Stack Developer by Contributing to a Real Open Source Project (No Experience Needed)",
         "link": "https://dev.to/muhammadtahamirza/how-to-become-a-full-stack-developer-by-contributing-to-a-real-open-source-project-no-experience-4n0c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "formattedDate": "July 29, 2026",
-    "news": [
-      {
-        "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
-        "link": "https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How an Unindexed Column Silently Killed Our Database under Load (and the 5-Minute Fix)",
-        "link": "https://dev.to/mia_keller_ffd2584c046ecb/how-an-unindexed-column-silently-killed-our-database-under-load-and-the-5-minute-fix-m32",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
-        "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
-        "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "One analytics codebase, three runtimes (web, native, offline)",
-        "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
         "source": "Dev.to React"
       },
       {
