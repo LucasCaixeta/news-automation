@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
-- [I Built a Clinic Web App by Shipping Phase 1 First (No, It's Not Done Yet)](https://dev.to/sorooshaghaei/i-built-a-clinic-web-app-by-shipping-phase-1-first-no-its-not-done-yet-2p75)
-- [AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App](https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n)
+- [JOLLOF, A Love Letter. One Pot, Zero Photographs, All CSS](https://dev.to/ndcodes/jollof-a-love-letter-one-pot-zero-photographs-all-css-4b8i)
+- [var, let, const — and why JavaScript changed its mind](https://dev.to/parthctrl/var-let-const-and-why-javascript-changed-its-mind-5f2o)
 
 #### Dev.to React
 
-- [How Frontend Developers Can Easily Deploy a Project on VPS (Beginner Friendly)](https://dev.to/rakibulislamdev/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki)
-- [AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App](https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n)
-- [Fixing a Memory Leak in React by Cleaning Up useEffect](https://dev.to/prince_patel_09/fixing-a-memory-leak-in-react-by-cleaning-up-useeffect-4ifl)
+- [Stop Unnecessary Re-renders in React: A Practical Guide to Faster Applications](https://dev.to/biteglitz/stop-unnecessary-re-renders-in-react-a-practical-guide-to-faster-applications-c7)
+- [Next.js Build Output Symbols Explained: , , ƒ and](https://dev.to/dineshstack/nextjs-build-output-symbols-explained-f-and--6n9)
+- [Setup Husky, EsLint and Prettier in React + Vite Projects](https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Clinic Web App by Shipping Phase 1 First (No, It's Not Done Yet)",
-        "link": "https://dev.to/sorooshaghaei/i-built-a-clinic-web-app-by-shipping-phase-1-first-no-its-not-done-yet-2p75",
+        "title": "JOLLOF, A Love Letter. One Pot, Zero Photographs, All CSS",
+        "link": "https://dev.to/ndcodes/jollof-a-love-letter-one-pot-zero-photographs-all-css-4b8i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App",
-        "link": "https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n",
+        "title": "var, let, const — and why JavaScript changed its mind",
+        "link": "https://dev.to/parthctrl/var-let-const-and-why-javascript-changed-its-mind-5f2o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How Frontend Developers Can Easily Deploy a Project on VPS (Beginner Friendly)",
-        "link": "https://dev.to/rakibulislamdev/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki",
+        "title": "Stop Unnecessary Re-renders in React: A Practical Guide to Faster Applications",
+        "link": "https://dev.to/biteglitz/stop-unnecessary-re-renders-in-react-a-practical-guide-to-faster-applications-c7",
         "source": "Dev.to React"
       },
       {
-        "title": "AbortController Beyond fetch: The Cancellation Patterns I Use in Every React App",
-        "link": "https://dev.to/ahmed_mahmoud360/abortcontroller-beyond-fetch-the-cancellation-patterns-i-use-in-every-react-app-3i3n",
+        "title": "Next.js Build Output Symbols Explained: , , ƒ and",
+        "link": "https://dev.to/dineshstack/nextjs-build-output-symbols-explained-f-and--6n9",
         "source": "Dev.to React"
       },
       {
-        "title": "Fixing a Memory Leak in React by Cleaning Up useEffect",
-        "link": "https://dev.to/prince_patel_09/fixing-a-memory-leak-in-react-by-cleaning-up-useeffect-4ifl",
+        "title": "Setup Husky, EsLint and Prettier in React + Vite Projects",
+        "link": "https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh",
         "source": "Dev.to React"
       },
       {
