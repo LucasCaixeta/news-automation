@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Comfort Atlas: What Does Home Taste Like?](https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i)
+- [The Bowl That Remembers: 3D CSS Art Edition 🥣](https://dev.to/pawar-shivam7/the-bowl-that-remembers-3d-css-art-edition-54p9)
 - [Amma's Kitchen — A Love Letter to South Indian Comfort Food 🍛](https://dev.to/karthik_n/ammas-kitchen-a-love-letter-to-south-indian-comfort-food-2g7g)
-- [I Turned Staff Interview Prep Into a Midnight Ramen Bowl 🍜](https://dev.to/numb_code_07/i-turned-staff-interview-prep-into-a-midnight-ramen-bowl-3g68)
+- [Added Tutorial Mode | Moksha](https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af)
 
 #### Dev.to React
 
-- [React Mastery Series – Day 19: Routing in React – Building Single Page Applications with React Router](https://dev.to/siva_samanthapudi/react-mastery-series-day-19-routing-in-react-building-single-page-applications-with-react-2op8)
-- [React Mastery Series – Day 17: Advanced State Management – Mastering useReducer](https://dev.to/siva_samanthapudi/react-mastery-series-day-17-advanced-state-management-mastering-usereducer-10ca)
-- [Misusing React Context, Then Blaming React Context](https://dev.to/afiiif/misusing-react-context-then-blaming-react-context-300c)
+- [How I handle 80,000+ data records without a Database in my Next.js Game](https://dev.to/futbolle_a0483c636fd9581a/how-i-handle-80000-data-records-without-a-database-in-my-nextjs-game-1lcl)
+- [React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture](https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd)
+- [Cloudflare Cache Hit Rate: 7% to 90%](https://dev.to/utlkit/cloudflare-cache-hit-rate-7-90-4nm2)
 
 #### React Blog
 
@@ -89,8 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 2, 2026",
     "news": [
       {
-        "title": "The Comfort Atlas: What Does Home Taste Like?",
-        "link": "https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i",
+        "title": "The Bowl That Remembers: 3D CSS Art Edition 🥣",
+        "link": "https://dev.to/pawar-shivam7/the-bowl-that-remembers-3d-css-art-edition-54p9",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Turned Staff Interview Prep Into a Midnight Ramen Bowl 🍜",
-        "link": "https://dev.to/numb_code_07/i-turned-staff-interview-prep-into-a-midnight-ramen-bowl-3g68",
+        "title": "Added Tutorial Mode | Moksha",
+        "link": "https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Mastery Series – Day 19: Routing in React – Building Single Page Applications with React Router",
-        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-19-routing-in-react-building-single-page-applications-with-react-2op8",
+        "title": "How I handle 80,000+ data records without a Database in my Next.js Game",
+        "link": "https://dev.to/futbolle_a0483c636fd9581a/how-i-handle-80000-data-records-without-a-database-in-my-nextjs-game-1lcl",
         "source": "Dev.to React"
       },
       {
-        "title": "React Mastery Series – Day 17: Advanced State Management – Mastering useReducer",
-        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-17-advanced-state-management-mastering-usereducer-10ca",
+        "title": "React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture",
+        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd",
         "source": "Dev.to React"
       },
       {
-        "title": "Misusing React Context, Then Blaming React Context",
-        "link": "https://dev.to/afiiif/misusing-react-context-then-blaming-react-context-300c",
+        "title": "Cloudflare Cache Hit Rate: 7% to 90%",
+        "link": "https://dev.to/utlkit/cloudflare-cache-hit-rate-7-90-4nm2",
         "source": "Dev.to React"
       },
       {
