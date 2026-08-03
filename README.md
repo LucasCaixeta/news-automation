@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 2, 2026)
+### Today's Updates (August 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Building a Zero-API-Key Real-Time Market Data Proxy](https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69)
+- [The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order](https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8)
+- [Build a Modern Chat UI with Just CSS and JavaScript](https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah)
+
+#### Dev.to React
+
+- [React Mastery Series – Day 24: React Forms – Controlled Components, Validation & React Hook Form](https://dev.to/siva_samanthapudi/react-mastery-series-day-24-react-forms-controlled-components-validation-react-hook-form-4g3o)
+- [React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)
+- [React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 1, 2026)
+### 2 Days Ago (August 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Stop Unnecessary Re-renders in React: A Practical Guide to Faster Applications](https://dev.to/biteglitz/stop-unnecessary-re-renders-in-react-a-practical-guide-to-faster-applications-c7)
 - [Next.js Build Output Symbols Explained: , , ƒ and](https://dev.to/dineshstack/nextjs-build-output-symbols-explained-f-and--6n9)
 - [Setup Husky, EsLint and Prettier in React + Vite Projects](https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (July 31, 2026)
-
-#### Dev.to JavaScript
-
-- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
-- [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
-- [What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)
-
-#### Dev.to React
-
-- [TypeScript `readonly` Arrays and Tuples: When Immutability Saves You and When It Fights You](https://dev.to/jsmanifest/typescript-readonly-arrays-and-tuples-when-immutability-saves-you-and-when-it-fights-you-324c)
-- [This Week In React #292 : Octane, TanStack, StableRef, Next.js | Workers, SafeAreaView, backgroundImage, WebGPU | TC39, Web Vitals](https://dev.to/sebastienlorber/this-week-in-react-292-octane-tanstack-stableref-nextjs-workers-safeareaview-55bp)
-- [Webviews Aren't Slow. Your 'Native' Framework Is in Debt.](https://dev.to/jeffsynister/webviews-arent-slow-your-native-framework-is-in-debt-3n43)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-03",
+    "formattedDate": "August 3, 2026",
+    "news": [
+      {
+        "title": "Building a Zero-API-Key Real-Time Market Data Proxy",
+        "link": "https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
+        "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build a Modern Chat UI with Just CSS and JavaScript",
+        "link": "https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Mastery Series – Day 24: React Forms – Controlled Components, Validation & React Hook Form",
+        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-24-react-forms-controlled-components-validation-react-hook-form-4g3o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
+        "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications",
+        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-02",
     "formattedDate": "August 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Setup Husky, EsLint and Prettier in React + Vite Projects",
         "link": "https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-31",
-    "formattedDate": "July 31, 2026",
-    "news": [
-      {
-        "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-        "link": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-        "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What Actually Happens After You Send a Webhook",
-        "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript `readonly` Arrays and Tuples: When Immutability Saves You and When It Fights You",
-        "link": "https://dev.to/jsmanifest/typescript-readonly-arrays-and-tuples-when-immutability-saves-you-and-when-it-fights-you-324c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "This Week In React #292 : Octane, TanStack, StableRef, Next.js | Workers, SafeAreaView, backgroundImage, WebGPU | TC39, Web Vitals",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-292-octane-tanstack-stableref-nextjs-workers-safeareaview-55bp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Webviews Aren't Slow. Your 'Native' Framework Is in Debt.",
-        "link": "https://dev.to/jeffsynister/webviews-arent-slow-your-native-framework-is-in-debt-3n43",
         "source": "Dev.to React"
       },
       {
