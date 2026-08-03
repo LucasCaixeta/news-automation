@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [TypeScript 7 Went Native: What Actually Changes And What Doesn't](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3)
 - [Building a Zero-API-Key Real-Time Market Data Proxy](https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69)
-- [The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order](https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8)
-- [Build a Modern Chat UI with Just CSS and JavaScript](https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah)
+- [I put a public graffiti wall on my SaaS homepage](https://dev.to/ownvital/i-put-a-public-graffiti-wall-on-my-saas-homepage-4n4l)
 
 #### Dev.to React
 
-- [React Mastery Series – Day 24: React Forms – Controlled Components, Validation & React Hook Form](https://dev.to/siva_samanthapudi/react-mastery-series-day-24-react-forms-controlled-components-validation-react-hook-form-4g3o)
-- [React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)
-- [React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh)
+- [Build a Production Ready MERN Stack e-Commerce Website with React, Node.js, MongoDB, JWT & Razorpay.](https://dev.to/sudhanshudevelopers/build-a-production-ready-mern-stack-e-commerce-website-with-react-nodejs-mongodb-jwt-razorpay-5d0k)
+- [Understanding Interaction Dialogue Models (IDM) in Web Architecture](https://dev.to/md_ujjalhossain/understanding-interaction-dialogue-models-idm-in-web-architecture-1a87)
+- [React Concurrent Rendering: Scheduling, Interruptions, and Debugging Suspense Boundaries](https://dev.to/mspk97/react-concurrent-rendering-scheduling-interruptions-and-debugging-suspense-boundaries-2899)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 3, 2026",
     "news": [
       {
+        "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+        "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Building a Zero-API-Key Real-Time Market Data Proxy",
         "link": "https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
-        "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+        "title": "I put a public graffiti wall on my SaaS homepage",
+        "link": "https://dev.to/ownvital/i-put-a-public-graffiti-wall-on-my-saas-homepage-4n4l",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build a Modern Chat UI with Just CSS and JavaScript",
-        "link": "https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Mastery Series – Day 24: React Forms – Controlled Components, Validation & React Hook Form",
-        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-24-react-forms-controlled-components-validation-react-hook-form-4g3o",
+        "title": "Build a Production Ready MERN Stack e-Commerce Website with React, Node.js, MongoDB, JWT & Razorpay.",
+        "link": "https://dev.to/sudhanshudevelopers/build-a-production-ready-mern-stack-e-commerce-website-with-react-nodejs-mongodb-jwt-razorpay-5d0k",
         "source": "Dev.to React"
       },
       {
-        "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
-        "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
+        "title": "Understanding Interaction Dialogue Models (IDM) in Web Architecture",
+        "link": "https://dev.to/md_ujjalhossain/understanding-interaction-dialogue-models-idm-in-web-architecture-1a87",
         "source": "Dev.to React"
       },
       {
-        "title": "React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications",
-        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh",
+        "title": "React Concurrent Rendering: Scheduling, Interruptions, and Debugging Suspense Boundaries",
+        "link": "https://dev.to/mspk97/react-concurrent-rendering-scheduling-interruptions-and-debugging-suspense-boundaries-2899",
         "source": "Dev.to React"
       },
       {
