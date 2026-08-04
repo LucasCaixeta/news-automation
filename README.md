@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [TypeScript 7 Went Native: What Actually Changes And What Doesn't](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3)
-- [I built a free fitness tracker with no backend and no account — here's what I learned](https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb)
-- [Building a Zero-API-Key Real-Time Market Data Proxy](https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69)
+- [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
+- [How I built 15 PDF tools that never upload your files (100% in the browser)](https://dev.to/mithomania/how-i-built-15-pdf-tools-that-never-upload-your-files-100-in-the-browser-4n9e)
 
 #### Dev.to React
 
-- [TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly](https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid)
-- [React useDisclosure Hook: Manage Modal & Drawer State (2026)](https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p)
-- [How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)](https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9)
+- [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
+- [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
+- [React Mastery Series – Day 27: Authentication & Authorization in React – JWT, Protected Routes & Role-Based Access Control (RBAC)](https://dev.to/siva_samanthapudi/react-mastery-series-day-27-authentication-authorization-in-react-jwt-protected-routes--55i9)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a free fitness tracker with no backend and no account — here's what I learned",
-        "link": "https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb",
+        "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
+        "link": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Zero-API-Key Real-Time Market Data Proxy",
-        "link": "https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69",
+        "title": "How I built 15 PDF tools that never upload your files (100% in the browser)",
+        "link": "https://dev.to/mithomania/how-i-built-15-pdf-tools-that-never-upload-your-files-100-in-the-browser-4n9e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly",
-        "link": "https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid",
+        "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
+        "link": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
         "source": "Dev.to React"
       },
       {
-        "title": "React useDisclosure Hook: Manage Modal & Drawer State (2026)",
-        "link": "https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p",
+        "title": "Taming a Third-Party React App Inside WordPress — Without Touching Its Code",
+        "link": "https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)",
-        "link": "https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9",
+        "title": "React Mastery Series – Day 27: Authentication & Authorization in React – JWT, Protected Routes & Role-Based Access Control (RBAC)",
+        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-27-authentication-authorization-in-react-jwt-protected-routes--55i9",
         "source": "Dev.to React"
       },
       {
