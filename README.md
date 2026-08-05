@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [TypeScript 7 Went Native: What Actually Changes And What Doesn't](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3)
 - [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
-- [The 10 JS Topics Every Frontend Engineer Should Know](https://dev.to/ale3oula/the-10-js-topics-every-frontend-engineer-should-know-1blj)
+- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
+- [Angular 22.1: what's new](https://dev.to/tomwebwalker/angular-221-whats-new-2d4)
 
 #### Dev.to React
 
-- [React useMeasure Hook: Measure DOM Elements with ResizeObserver (2026)](https://dev.to/childrentime/react-usemeasure-hook-measure-dom-elements-with-resizeobserver-2026-2d8g)
-- [Zero Latency UX: Optimistic UI in Next.js ⚡](https://dev.to/iprajapatiparesh/zero-latency-ux-optimistic-ui-in-nextjs-3nkn)
-- [I Built a VS Code Extension, I would like your feedback!](https://dev.to/abdvlla/i-built-a-vs-code-extension-i-would-like-your-feedback-2jg4)
+- [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
+- [From 3 clicks to 664: what a real SEO audit found in my React SSG site](https://dev.to/forze-dev/from-3-clicks-to-664-what-a-real-seo-audit-found-in-my-react-ssg-site-2cdi)
+- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 5, 2026",
     "news": [
       {
-        "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
-        "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
         "link": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The 10 JS Topics Every Frontend Engineer Should Know",
-        "link": "https://dev.to/ale3oula/the-10-js-topics-every-frontend-engineer-should-know-1blj",
+        "title": "Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time",
+        "link": "https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React useMeasure Hook: Measure DOM Elements with ResizeObserver (2026)",
-        "link": "https://dev.to/childrentime/react-usemeasure-hook-measure-dom-elements-with-resizeobserver-2026-2d8g",
+        "title": "Angular 22.1: what's new",
+        "link": "https://dev.to/tomwebwalker/angular-221-whats-new-2d4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
+        "link": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
         "source": "Dev.to React"
       },
       {
-        "title": "Zero Latency UX: Optimistic UI in Next.js ⚡",
-        "link": "https://dev.to/iprajapatiparesh/zero-latency-ux-optimistic-ui-in-nextjs-3nkn",
+        "title": "From 3 clicks to 664: what a real SEO audit found in my React SSG site",
+        "link": "https://dev.to/forze-dev/from-3-clicks-to-664-what-a-real-seo-audit-found-in-my-react-ssg-site-2cdi",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a VS Code Extension, I would like your feedback!",
-        "link": "https://dev.to/abdvlla/i-built-a-vs-code-extension-i-would-like-your-feedback-2jg4",
+        "title": "Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time",
+        "link": "https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c",
         "source": "Dev.to React"
       },
       {
