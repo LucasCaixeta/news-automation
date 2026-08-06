@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 5, 2026)
+### Today's Updates (August 6, 2026)
+
+#### Dev.to JavaScript
+
+- [The Web Ecosystem Is Missing a Layer](https://dev.to/rejifald/the-web-ecosystem-is-missing-a-layer-4e39)
+- [Express 5 on µWebSockets: same middleware, 2x to 7x](https://dev.to/nigrosimone/express-5-on-uwebsockets-same-middleware-2x-to-7x-h8j)
+- [How I Modeled US Lottery Tax Withholding for 21 Countries Without a Backend](https://dev.to/autumnbuilds/how-i-modeled-us-lottery-tax-withholding-for-21-countries-without-a-backend-4m9)
+
+#### Dev.to React
+
+- [Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)](https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm)
+- [Scaling Frontend Teams: Next.js Multi-Zones 🧩](https://dev.to/iprajapatiparesh/scaling-frontend-teams-nextjs-multi-zones-3bm3)
+- [Cross-Tab State Sync: Introducing useIndexedDB for React](https://dev.to/saurav_tb_pandey/cross-tab-state-sync-introducing-useindexeddb-for-react-6dp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 4, 2026)
+### 2 Days Ago (August 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
 - [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
 - [React Mastery Series – Day 27: Authentication & Authorization in React – JWT, Protected Routes & Role-Based Access Control (RBAC)](https://dev.to/siva_samanthapudi/react-mastery-series-day-27-authentication-authorization-in-react-jwt-protected-routes--55i9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 3, 2026)
-
-#### Dev.to JavaScript
-
-- [TypeScript 7 Went Native: What Actually Changes And What Doesn't](https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3)
-- [Building a Zero-API-Key Real-Time Market Data Proxy](https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69)
-- [I put a public graffiti wall on my SaaS homepage](https://dev.to/ownvital/i-put-a-public-graffiti-wall-on-my-saas-homepage-4n4l)
-
-#### Dev.to React
-
-- [Build a Production Ready MERN Stack e-Commerce Website with React, Node.js, MongoDB, JWT & Razorpay.](https://dev.to/sudhanshudevelopers/build-a-production-ready-mern-stack-e-commerce-website-with-react-nodejs-mongodb-jwt-razorpay-5d0k)
-- [Understanding Interaction Dialogue Models (IDM) in Web Architecture](https://dev.to/md_ujjalhossain/understanding-interaction-dialogue-models-idm-in-web-architecture-1a87)
-- [React Concurrent Rendering: Scheduling, Interruptions, and Debugging Suspense Boundaries](https://dev.to/mspk97/react-concurrent-rendering-scheduling-interruptions-and-debugging-suspense-boundaries-2899)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-06",
+    "formattedDate": "August 6, 2026",
+    "news": [
+      {
+        "title": "The Web Ecosystem Is Missing a Layer",
+        "link": "https://dev.to/rejifald/the-web-ecosystem-is-missing-a-layer-4e39",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Express 5 on µWebSockets: same middleware, 2x to 7x",
+        "link": "https://dev.to/nigrosimone/express-5-on-uwebsockets-same-middleware-2x-to-7x-h8j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Modeled US Lottery Tax Withholding for 21 Countries Without a Backend",
+        "link": "https://dev.to/autumnbuilds/how-i-modeled-us-lottery-tax-withholding-for-21-countries-without-a-backend-4m9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)",
+        "link": "https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Scaling Frontend Teams: Next.js Multi-Zones 🧩",
+        "link": "https://dev.to/iprajapatiparesh/scaling-frontend-teams-nextjs-multi-zones-3bm3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cross-Tab State Sync: Introducing useIndexedDB for React",
+        "link": "https://dev.to/saurav_tb_pandey/cross-tab-state-sync-introducing-useindexeddb-for-react-6dp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-05",
     "formattedDate": "August 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Mastery Series – Day 27: Authentication & Authorization in React – JWT, Protected Routes & Role-Based Access Control (RBAC)",
         "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-27-authentication-authorization-in-react-jwt-protected-routes--55i9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "formattedDate": "August 3, 2026",
-    "news": [
-      {
-        "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
-        "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Zero-API-Key Real-Time Market Data Proxy",
-        "link": "https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I put a public graffiti wall on my SaaS homepage",
-        "link": "https://dev.to/ownvital/i-put-a-public-graffiti-wall-on-my-saas-homepage-4n4l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build a Production Ready MERN Stack e-Commerce Website with React, Node.js, MongoDB, JWT & Razorpay.",
-        "link": "https://dev.to/sudhanshudevelopers/build-a-production-ready-mern-stack-e-commerce-website-with-react-nodejs-mongodb-jwt-razorpay-5d0k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Understanding Interaction Dialogue Models (IDM) in Web Architecture",
-        "link": "https://dev.to/md_ujjalhossain/understanding-interaction-dialogue-models-idm-in-web-architecture-1a87",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Concurrent Rendering: Scheduling, Interruptions, and Debugging Suspense Boundaries",
-        "link": "https://dev.to/mspk97/react-concurrent-rendering-scheduling-interruptions-and-debugging-suspense-boundaries-2899",
         "source": "Dev.to React"
       },
       {
