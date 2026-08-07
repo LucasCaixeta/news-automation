@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum](https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h)
+- [You're installing date-fns for 'X hours ago'. `Intl.RelativeTimeFormat` does it natively.](https://dev.to/parsajiravand/youre-installing-date-fns-for-x-hours-ago-intlrelativetimeformat-does-it-natively-34o)
 - [Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors](https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22)
-- [« J'ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle](https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4)
 
 #### Dev.to React
 
-- [Why Plumeria?](https://dev.to/refirst11/my-article-40o4)
-- [Phase 5: The Numbers Start Talking](https://dev.to/silentcarry/phase-5-the-numbers-start-talking-9on)
-- [React useEvent Hook: Stable Callbacks Without Stale Closures (2026)](https://dev.to/childrentime/react-useevent-hook-stable-callbacks-without-stale-closures-2026-131b)
+- [responsive-tailwind: The Utility That Refuses To Build Your Class Names](https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj)
+- [Why Your JSON Tools Freeze (And How We Fixed It with Web Workers)](https://dev.to/aftandevelops/why-your-json-tools-freeze-and-how-we-fixed-it-with-web-workers-58l1)
+- [Flow Render: Render UI Components Like Calling an Async Functions](https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
+        "title": "You're installing date-fns for 'X hours ago'. `Intl.RelativeTimeFormat` does it natively.",
+        "link": "https://dev.to/parsajiravand/youre-installing-date-fns-for-x-hours-ago-intlrelativetimeformat-does-it-natively-34o",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors",
         "link": "https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "« J'ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle",
-        "link": "https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Plumeria?",
-        "link": "https://dev.to/refirst11/my-article-40o4",
+        "title": "responsive-tailwind: The Utility That Refuses To Build Your Class Names",
+        "link": "https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj",
         "source": "Dev.to React"
       },
       {
-        "title": "Phase 5: The Numbers Start Talking",
-        "link": "https://dev.to/silentcarry/phase-5-the-numbers-start-talking-9on",
+        "title": "Why Your JSON Tools Freeze (And How We Fixed It with Web Workers)",
+        "link": "https://dev.to/aftandevelops/why-your-json-tools-freeze-and-how-we-fixed-it-with-web-workers-58l1",
         "source": "Dev.to React"
       },
       {
-        "title": "React useEvent Hook: Stable Callbacks Without Stale Closures (2026)",
-        "link": "https://dev.to/childrentime/react-useevent-hook-stable-callbacks-without-stale-closures-2026-131b",
+        "title": "Flow Render: Render UI Components Like Calling an Async Functions",
+        "link": "https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h",
         "source": "Dev.to React"
       },
       {
