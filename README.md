@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum](https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h)
-- [This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊](https://dev.to/edmundsparrow/this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing-1p8c)
-- [ffmpeg.wasm 0.12 hung on the first frame — and the real speedup was not the upgrade](https://dev.to/hammad4june1999/ffmpegwasm-012-hung-on-the-first-frame-and-the-real-speedup-was-not-the-upgrade-p45)
+- [Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors](https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22)
+- [« J'ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle](https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4)
 
 #### Dev.to React
 
-- [One line in your root layout can make every Next.js page render on demand](https://dev.to/ricardo_diazmiralles/one-line-in-your-root-layout-can-make-every-nextjs-page-render-on-demand-24o0)
-- [Project Explanation for my Chesso application](https://dev.to/algon31/project-explanation-for-my-chesso-application-3p0m)
-- [Project explaination for my Dockerized-Todo](https://dev.to/algon31/project-explaination-for-my-dockerized-todo-524b)
+- [Why Plumeria?](https://dev.to/refirst11/my-article-40o4)
+- [Phase 5: The Numbers Start Talking](https://dev.to/silentcarry/phase-5-the-numbers-start-talking-9on)
+- [React useEvent Hook: Stable Callbacks Without Stale Closures (2026)](https://dev.to/childrentime/react-useevent-hook-stable-callbacks-without-stale-closures-2026-131b)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊",
-        "link": "https://dev.to/edmundsparrow/this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing-1p8c",
+        "title": "Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors",
+        "link": "https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "ffmpeg.wasm 0.12 hung on the first frame — and the real speedup was not the upgrade",
-        "link": "https://dev.to/hammad4june1999/ffmpegwasm-012-hung-on-the-first-frame-and-the-real-speedup-was-not-the-upgrade-p45",
+        "title": "« J'ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle",
+        "link": "https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "One line in your root layout can make every Next.js page render on demand",
-        "link": "https://dev.to/ricardo_diazmiralles/one-line-in-your-root-layout-can-make-every-nextjs-page-render-on-demand-24o0",
+        "title": "Why Plumeria?",
+        "link": "https://dev.to/refirst11/my-article-40o4",
         "source": "Dev.to React"
       },
       {
-        "title": "Project Explanation for my Chesso application",
-        "link": "https://dev.to/algon31/project-explanation-for-my-chesso-application-3p0m",
+        "title": "Phase 5: The Numbers Start Talking",
+        "link": "https://dev.to/silentcarry/phase-5-the-numbers-start-talking-9on",
         "source": "Dev.to React"
       },
       {
-        "title": "Project explaination for my Dockerized-Todo",
-        "link": "https://dev.to/algon31/project-explaination-for-my-dockerized-todo-524b",
+        "title": "React useEvent Hook: Stable Callbacks Without Stale Closures (2026)",
+        "link": "https://dev.to/childrentime/react-useevent-hook-stable-callbacks-without-stale-closures-2026-131b",
         "source": "Dev.to React"
       },
       {
