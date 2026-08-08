@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors](https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22)
-- [Possessed by Production: The Ghost Execution That Ran Code Nobody Ever Wrote](https://dev.to/bhavnish_e35294bf0fd0b2df/possessed-by-production-the-ghost-execution-that-ran-code-nobody-ever-wrote-50mf)
-- [Node.js Has a Test Runner Now: Field Notes on Dropping Jest for Scripts and Libraries](https://dev.to/ahmed_mahmoud360/nodejs-has-a-test-runner-now-field-notes-on-dropping-jest-for-scripts-and-libraries-i89)
+- [Every web rich-text editor is missing a ruler](https://dev.to/jlc488/every-web-rich-text-editor-is-missing-a-ruler-10go)
+- [I built an embeddable screen-time calculator that doesn't phone home](https://dev.to/samtj/i-built-an-embeddable-screen-time-calculator-that-doesnt-phone-home-4cmk)
+- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
 
 #### Dev.to React
 
-- [Your Figma icons are lying to you — currentColor, dark UI, and React SVG](https://dev.to/roman_riaboshtan/your-figma-icons-are-lying-to-you-currentcolor-dark-ui-and-react-svg-27b8)
-- [I built a headless timeline/Gantt for React — would love some feedback](https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da)
-- [responsive-tailwind: The Utility That Refuses To Build Your Class Names](https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj)
+- [The ₹1 That Costs ₹62,400: Modelling India's Tax Slabs Without Cliff-Edge Bugs](https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm)
+- [MUI to Shadcn: 7 Pitfalls We Hit (And the Fix for Each)](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
+- [Why Vite Asked Me to Choose Between Oxlint and ESLint](https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 8, 2026",
     "news": [
       {
-        "title": "Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors",
-        "link": "https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22",
+        "title": "Every web rich-text editor is missing a ruler",
+        "link": "https://dev.to/jlc488/every-web-rich-text-editor-is-missing-a-ruler-10go",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Possessed by Production: The Ghost Execution That Ran Code Nobody Ever Wrote",
-        "link": "https://dev.to/bhavnish_e35294bf0fd0b2df/possessed-by-production-the-ghost-execution-that-ran-code-nobody-ever-wrote-50mf",
+        "title": "I built an embeddable screen-time calculator that doesn't phone home",
+        "link": "https://dev.to/samtj/i-built-an-embeddable-screen-time-calculator-that-doesnt-phone-home-4cmk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Node.js Has a Test Runner Now: Field Notes on Dropping Jest for Scripts and Libraries",
-        "link": "https://dev.to/ahmed_mahmoud360/nodejs-has-a-test-runner-now-field-notes-on-dropping-jest-for-scripts-and-libraries-i89",
+        "title": "Compressing PDFs in the browser, and the bug that shipped empty files",
+        "link": "https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your Figma icons are lying to you — currentColor, dark UI, and React SVG",
-        "link": "https://dev.to/roman_riaboshtan/your-figma-icons-are-lying-to-you-currentcolor-dark-ui-and-react-svg-27b8",
+        "title": "The ₹1 That Costs ₹62,400: Modelling India's Tax Slabs Without Cliff-Edge Bugs",
+        "link": "https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a headless timeline/Gantt for React — would love some feedback",
-        "link": "https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da",
+        "title": "MUI to Shadcn: 7 Pitfalls We Hit (And the Fix for Each)",
+        "link": "https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh",
         "source": "Dev.to React"
       },
       {
-        "title": "responsive-tailwind: The Utility That Refuses To Build Your Class Names",
-        "link": "https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj",
+        "title": "Why Vite Asked Me to Choose Between Oxlint and ESLint",
+        "link": "https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl",
         "source": "Dev.to React"
       },
       {
