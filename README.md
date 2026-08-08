@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 7, 2026)
+### Today's Updates (August 8, 2026)
+
+#### Dev.to JavaScript
+
+- [Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors](https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22)
+- [Possessed by Production: The Ghost Execution That Ran Code Nobody Ever Wrote](https://dev.to/bhavnish_e35294bf0fd0b2df/possessed-by-production-the-ghost-execution-that-ran-code-nobody-ever-wrote-50mf)
+- [Node.js Has a Test Runner Now: Field Notes on Dropping Jest for Scripts and Libraries](https://dev.to/ahmed_mahmoud360/nodejs-has-a-test-runner-now-field-notes-on-dropping-jest-for-scripts-and-libraries-i89)
+
+#### Dev.to React
+
+- [Your Figma icons are lying to you — currentColor, dark UI, and React SVG](https://dev.to/roman_riaboshtan/your-figma-icons-are-lying-to-you-currentcolor-dark-ui-and-react-svg-27b8)
+- [I built a headless timeline/Gantt for React — would love some feedback](https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da)
+- [responsive-tailwind: The Utility That Refuses To Build Your Class Names](https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 6, 2026)
+### 2 Days Ago (August 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)](https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm)
 - [Scaling Frontend Teams: Next.js Multi-Zones 🧩](https://dev.to/iprajapatiparesh/scaling-frontend-teams-nextjs-multi-zones-3bm3)
 - [Cross-Tab State Sync: Introducing useIndexedDB for React](https://dev.to/saurav_tb_pandey/cross-tab-state-sync-introducing-useindexeddb-for-react-6dp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 5, 2026)
-
-#### Dev.to JavaScript
-
-- [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
-- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
-- [Angular 22.1: what's new](https://dev.to/tomwebwalker/angular-221-whats-new-2d4)
-
-#### Dev.to React
-
-- [React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
-- [From 3 clicks to 664: what a real SEO audit found in my React SSG site](https://dev.to/forze-dev/from-3-clicks-to-664-what-a-real-seo-audit-found-in-my-react-ssg-site-2cdi)
-- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-08",
+    "formattedDate": "August 8, 2026",
+    "news": [
+      {
+        "title": "Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors",
+        "link": "https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Possessed by Production: The Ghost Execution That Ran Code Nobody Ever Wrote",
+        "link": "https://dev.to/bhavnish_e35294bf0fd0b2df/possessed-by-production-the-ghost-execution-that-ran-code-nobody-ever-wrote-50mf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Node.js Has a Test Runner Now: Field Notes on Dropping Jest for Scripts and Libraries",
+        "link": "https://dev.to/ahmed_mahmoud360/nodejs-has-a-test-runner-now-field-notes-on-dropping-jest-for-scripts-and-libraries-i89",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Figma icons are lying to you — currentColor, dark UI, and React SVG",
+        "link": "https://dev.to/roman_riaboshtan/your-figma-icons-are-lying-to-you-currentcolor-dark-ui-and-react-svg-27b8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a headless timeline/Gantt for React — would love some feedback",
+        "link": "https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "responsive-tailwind: The Utility That Refuses To Build Your Class Names",
+        "link": "https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-07",
     "formattedDate": "August 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Cross-Tab State Sync: Introducing useIndexedDB for React",
         "link": "https://dev.to/saurav_tb_pandey/cross-tab-state-sync-introducing-useindexeddb-for-react-6dp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "formattedDate": "August 5, 2026",
-    "news": [
-      {
-        "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
-        "link": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time",
-        "link": "https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Angular 22.1: what's new",
-        "link": "https://dev.to/tomwebwalker/angular-221-whats-new-2d4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button",
-        "link": "https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From 3 clicks to 664: what a real SEO audit found in my React SSG site",
-        "link": "https://dev.to/forze-dev/from-3-clicks-to-664-what-a-real-seo-audit-found-in-my-react-ssg-site-2cdi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time",
-        "link": "https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c",
         "source": "Dev.to React"
       },
       {
