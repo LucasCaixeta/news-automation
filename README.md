@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 8, 2026)
+### Today's Updates (August 9, 2026)
+
+#### Dev.to JavaScript
+
+- [Retrograde motion is a derivative, and 0 Aries will lie to you](https://dev.to/pangol_a2bd4948dc262/retrograde-motion-is-a-derivative-and-0deg-aries-will-lie-to-you-874)
+- [An invisible character broke a security patch. Then it broke my review. Then it broke my review of the fix.](https://dev.to/achiya-automation/an-invisible-character-broke-a-security-patch-then-it-broke-my-review-then-it-broke-my-review-of-444c)
+- [Five AI Companies Just Agreed on a Plugin Format — Here's a Free Validator for It](https://dev.to/ethan_5b3022150e2c07a4030/five-ai-companies-just-agreed-on-a-plugin-format-heres-a-free-validator-for-it-91a)
+
+#### Dev.to React
+
+- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
+- [Should You Build Your Own Cookie Banner? Build vs Buy Guide](https://dev.to/kaylee/should-you-build-your-own-cookie-banner-build-vs-buy-guide-56o2)
+- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 7, 2026)
+### 2 Days Ago (August 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [responsive-tailwind: The Utility That Refuses To Build Your Class Names](https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj)
 - [Why Your JSON Tools Freeze (And How We Fixed It with Web Workers)](https://dev.to/aftandevelops/why-your-json-tools-freeze-and-how-we-fixed-it-with-web-workers-58l1)
 - [Flow Render: Render UI Components Like Calling an Async Functions](https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 6, 2026)
-
-#### Dev.to JavaScript
-
-- [The Web Ecosystem Is Missing a Layer](https://dev.to/rejifald/the-web-ecosystem-is-missing-a-layer-4e39)
-- [Express 5 on µWebSockets: same middleware, 2x to 7x](https://dev.to/nigrosimone/express-5-on-uwebsockets-same-middleware-2x-to-7x-h8j)
-- [How I Modeled US Lottery Tax Withholding for 21 Countries Without a Backend](https://dev.to/autumnbuilds/how-i-modeled-us-lottery-tax-withholding-for-21-countries-without-a-backend-4m9)
-
-#### Dev.to React
-
-- [Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)](https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm)
-- [Scaling Frontend Teams: Next.js Multi-Zones 🧩](https://dev.to/iprajapatiparesh/scaling-frontend-teams-nextjs-multi-zones-3bm3)
-- [Cross-Tab State Sync: Introducing useIndexedDB for React](https://dev.to/saurav_tb_pandey/cross-tab-state-sync-introducing-useindexeddb-for-react-6dp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-09",
+    "formattedDate": "August 9, 2026",
+    "news": [
+      {
+        "title": "Retrograde motion is a derivative, and 0 Aries will lie to you",
+        "link": "https://dev.to/pangol_a2bd4948dc262/retrograde-motion-is-a-derivative-and-0deg-aries-will-lie-to-you-874",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "An invisible character broke a security patch. Then it broke my review. Then it broke my review of the fix.",
+        "link": "https://dev.to/achiya-automation/an-invisible-character-broke-a-security-patch-then-it-broke-my-review-then-it-broke-my-review-of-444c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Five AI Companies Just Agreed on a Plugin Format — Here's a Free Validator for It",
+        "link": "https://dev.to/ethan_5b3022150e2c07a4030/five-ai-companies-just-agreed-on-a-plugin-format-heres-a-free-validator-for-it-91a",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications",
+        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Should You Build Your Own Cookie Banner? Build vs Buy Guide",
+        "link": "https://dev.to/kaylee/should-you-build-your-own-cookie-banner-build-vs-buy-guide-56o2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Find and Fix Slow Components",
+        "link": "https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-08",
     "formattedDate": "August 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Flow Render: Render UI Components Like Calling an Async Functions",
         "link": "https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "formattedDate": "August 6, 2026",
-    "news": [
-      {
-        "title": "The Web Ecosystem Is Missing a Layer",
-        "link": "https://dev.to/rejifald/the-web-ecosystem-is-missing-a-layer-4e39",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Express 5 on µWebSockets: same middleware, 2x to 7x",
-        "link": "https://dev.to/nigrosimone/express-5-on-uwebsockets-same-middleware-2x-to-7x-h8j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Modeled US Lottery Tax Withholding for 21 Countries Without a Backend",
-        "link": "https://dev.to/autumnbuilds/how-i-modeled-us-lottery-tax-withholding-for-21-countries-without-a-backend-4m9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Barrel Files: Why index.ts Re-Exports Hurt Tree Shaking, Next.js Dev Memory, and tsc (2026)",
-        "link": "https://dev.to/childrentime/barrel-files-why-indexts-re-exports-hurt-tree-shaking-nextjs-dev-memory-and-tsc-2026-3kpm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Scaling Frontend Teams: Next.js Multi-Zones 🧩",
-        "link": "https://dev.to/iprajapatiparesh/scaling-frontend-teams-nextjs-multi-zones-3bm3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Cross-Tab State Sync: Introducing useIndexedDB for React",
-        "link": "https://dev.to/saurav_tb_pandey/cross-tab-state-sync-introducing-useindexeddb-for-react-6dp",
         "source": "Dev.to React"
       },
       {
