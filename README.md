@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Retrograde motion is a derivative, and 0 Aries will lie to you](https://dev.to/pangol_a2bd4948dc262/retrograde-motion-is-a-derivative-and-0deg-aries-will-lie-to-you-874)
-- [An invisible character broke a security patch. Then it broke my review. Then it broke my review of the fix.](https://dev.to/achiya-automation/an-invisible-character-broke-a-security-patch-then-it-broke-my-review-then-it-broke-my-review-of-444c)
-- [Five AI Companies Just Agreed on a Plugin Format — Here's a Free Validator for It](https://dev.to/ethan_5b3022150e2c07a4030/five-ai-companies-just-agreed-on-a-plugin-format-heres-a-free-validator-for-it-91a)
+- [Rasa Kenangan — Immersive Scroll Narrative Landing Page](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0)
+- [Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.](https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9)
+- [The Metaverse Failed. Augmented Reality Didn't.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
 
 #### Dev.to React
 
-- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
-- [Should You Build Your Own Cookie Banner? Build vs Buy Guide](https://dev.to/kaylee/should-you-build-your-own-cookie-banner-build-vs-buy-guide-56o2)
-- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
+- [You've kept that axios instance for years — do you really need to rewrite it?](https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0)
+- [I Built a React Performance Analyzer Because Lighthouse Wasn't Telling Me Why](https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal)
+- [Data cache in the Cache Components model](https://dev.to/peterlidee/data-cache-in-the-cache-components-model-51bg)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 9, 2026",
     "news": [
       {
-        "title": "Retrograde motion is a derivative, and 0 Aries will lie to you",
-        "link": "https://dev.to/pangol_a2bd4948dc262/retrograde-motion-is-a-derivative-and-0deg-aries-will-lie-to-you-874",
+        "title": "Rasa Kenangan — Immersive Scroll Narrative Landing Page",
+        "link": "https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "An invisible character broke a security patch. Then it broke my review. Then it broke my review of the fix.",
-        "link": "https://dev.to/achiya-automation/an-invisible-character-broke-a-security-patch-then-it-broke-my-review-then-it-broke-my-review-of-444c",
+        "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
+        "link": "https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Five AI Companies Just Agreed on a Plugin Format — Here's a Free Validator for It",
-        "link": "https://dev.to/ethan_5b3022150e2c07a4030/five-ai-companies-just-agreed-on-a-plugin-format-heres-a-free-validator-for-it-91a",
+        "title": "The Metaverse Failed. Augmented Reality Didn't.",
+        "link": "https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications",
-        "link": "https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4",
+        "title": "You've kept that axios instance for years — do you really need to rewrite it?",
+        "link": "https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0",
         "source": "Dev.to React"
       },
       {
-        "title": "Should You Build Your Own Cookie Banner? Build vs Buy Guide",
-        "link": "https://dev.to/kaylee/should-you-build-your-own-cookie-banner-build-vs-buy-guide-56o2",
+        "title": "I Built a React Performance Analyzer Because Lighthouse Wasn't Telling Me Why",
+        "link": "https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Find and Fix Slow Components",
-        "link": "https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7",
+        "title": "Data cache in the Cache Components model",
+        "link": "https://dev.to/peterlidee/data-cache-in-the-cache-components-model-51bg",
         "source": "Dev.to React"
       },
       {
