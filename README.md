@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 9, 2026)
+### Today's Updates (August 10, 2026)
+
+#### Dev.to JavaScript
+
+- [Debugging Claude Code Agents: Reading Transcripts, Tracing Tool Calls, and Finding Where Your Agent Goes Wrong](https://dev.to/jsmanifest/debugging-claude-code-agents-reading-transcripts-tracing-tool-calls-and-finding-where-your-agent-dag)
+- [Preserve Component State in Vue with KeepAlive](https://dev.to/jacobandrewsky/preserve-component-state-in-vue-with-keepalive-58i1)
+- [Why I Built My Own Local Database for My Node.js Prototypes](https://dev.to/axfab/why-i-built-my-own-local-database-for-my-nodejs-prototypes-5di4)
+
+#### Dev.to React
+
+- [I built an artificial life simulation where nothing is scripted - predators had to evolve](https://dev.to/dominik_vytisk_acab9538fb/i-built-an-artificial-life-simulation-where-nothing-is-scripted-predators-had-to-evolve-26ji)
+- [Build a React client intake form with file uploads](https://dev.to/jafu/build-a-react-client-intake-form-with-file-uploads-5hmd)
+- [Resilient UIs: Next.js Error Handling & Observability 🚨](https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 8, 2026)
+### 2 Days Ago (August 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The ₹1 That Costs ₹62,400: Modelling India's Tax Slabs Without Cliff-Edge Bugs](https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm)
 - [MUI to Shadcn: 7 Pitfalls We Hit (And the Fix for Each)](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
 - [Why Vite Asked Me to Choose Between Oxlint and ESLint](https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 7, 2026)
-
-#### Dev.to JavaScript
-
-- [🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum](https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h)
-- [You're installing date-fns for 'X hours ago'. `Intl.RelativeTimeFormat` does it natively.](https://dev.to/parsajiravand/youre-installing-date-fns-for-x-hours-ago-intlrelativetimeformat-does-it-natively-34o)
-- [Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors](https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22)
-
-#### Dev.to React
-
-- [responsive-tailwind: The Utility That Refuses To Build Your Class Names](https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj)
-- [Why Your JSON Tools Freeze (And How We Fixed It with Web Workers)](https://dev.to/aftandevelops/why-your-json-tools-freeze-and-how-we-fixed-it-with-web-workers-58l1)
-- [Flow Render: Render UI Components Like Calling an Async Functions](https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-10",
+    "formattedDate": "August 10, 2026",
+    "news": [
+      {
+        "title": "Debugging Claude Code Agents: Reading Transcripts, Tracing Tool Calls, and Finding Where Your Agent Goes Wrong",
+        "link": "https://dev.to/jsmanifest/debugging-claude-code-agents-reading-transcripts-tracing-tool-calls-and-finding-where-your-agent-dag",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Preserve Component State in Vue with KeepAlive",
+        "link": "https://dev.to/jacobandrewsky/preserve-component-state-in-vue-with-keepalive-58i1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why I Built My Own Local Database for My Node.js Prototypes",
+        "link": "https://dev.to/axfab/why-i-built-my-own-local-database-for-my-nodejs-prototypes-5di4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built an artificial life simulation where nothing is scripted - predators had to evolve",
+        "link": "https://dev.to/dominik_vytisk_acab9538fb/i-built-an-artificial-life-simulation-where-nothing-is-scripted-predators-had-to-evolve-26ji",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Build a React client intake form with file uploads",
+        "link": "https://dev.to/jafu/build-a-react-client-intake-form-with-file-uploads-5hmd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Resilient UIs: Next.js Error Handling & Observability 🚨",
+        "link": "https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-09",
     "formattedDate": "August 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why Vite Asked Me to Choose Between Oxlint and ESLint",
         "link": "https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "formattedDate": "August 7, 2026",
-    "news": [
-      {
-        "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
-        "link": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You're installing date-fns for 'X hours ago'. `Intl.RelativeTimeFormat` does it natively.",
-        "link": "https://dev.to/parsajiravand/youre-installing-date-fns-for-x-hours-ago-intlrelativetimeformat-does-it-natively-34o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Dead-pixel test sites are just colored divs — the actual engineering problem is the Fullscreen API, not the colors",
-        "link": "https://dev.to/begoodtool/dead-pixel-test-sites-are-just-colored-divs-the-actual-engineering-problem-is-the-fullscreen-api-2a22",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "responsive-tailwind: The Utility That Refuses To Build Your Class Names",
-        "link": "https://dev.to/babyreptile/responsive-tailwind-the-utility-that-refuses-to-build-your-class-names-1hlj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Your JSON Tools Freeze (And How We Fixed It with Web Workers)",
-        "link": "https://dev.to/aftandevelops/why-your-json-tools-freeze-and-how-we-fixed-it-with-web-workers-58l1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Flow Render: Render UI Components Like Calling an Async Functions",
-        "link": "https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h",
         "source": "Dev.to React"
       },
       {
