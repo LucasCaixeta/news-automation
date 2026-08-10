@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [I Built a ₹15 Landing Page About Mumbai's Soul Food](https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78)
+- [Porting qs to Go: an honest account](https://dev.to/realist/porting-qs-to-go-an-honest-account-5e4l)
 - [Debugging Claude Code Agents: Reading Transcripts, Tracing Tool Calls, and Finding Where Your Agent Goes Wrong](https://dev.to/jsmanifest/debugging-claude-code-agents-reading-transcripts-tracing-tool-calls-and-finding-where-your-agent-dag)
-- [Preserve Component State in Vue with KeepAlive](https://dev.to/jacobandrewsky/preserve-component-state-in-vue-with-keepalive-58i1)
-- [Why I Built My Own Local Database for My Node.js Prototypes](https://dev.to/axfab/why-i-built-my-own-local-database-for-my-nodejs-prototypes-5di4)
 
 #### Dev.to React
 
-- [I built an artificial life simulation where nothing is scripted - predators had to evolve](https://dev.to/dominik_vytisk_acab9538fb/i-built-an-artificial-life-simulation-where-nothing-is-scripted-predators-had-to-evolve-26ji)
-- [Build a React client intake form with file uploads](https://dev.to/jafu/build-a-react-client-intake-form-with-file-uploads-5hmd)
-- [Resilient UIs: Next.js Error Handling & Observability 🚨](https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd)
+- [How to speed up a Next.js application without guessing](https://dev.to/zanreal/how-to-speed-up-a-nextjs-application-without-guessing-33fe)
+- [Cómo solucionar el error \"Text content does not match server-rendered HTML\" en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3905)
+- [Two-way is not the same as symmetric](https://dev.to/linb/two-way-is-not-the-same-as-symmetric-362l)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 10, 2026",
     "news": [
       {
+        "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+        "link": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Porting qs to Go: an honest account",
+        "link": "https://dev.to/realist/porting-qs-to-go-an-honest-account-5e4l",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Debugging Claude Code Agents: Reading Transcripts, Tracing Tool Calls, and Finding Where Your Agent Goes Wrong",
         "link": "https://dev.to/jsmanifest/debugging-claude-code-agents-reading-transcripts-tracing-tool-calls-and-finding-where-your-agent-dag",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Preserve Component State in Vue with KeepAlive",
-        "link": "https://dev.to/jacobandrewsky/preserve-component-state-in-vue-with-keepalive-58i1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why I Built My Own Local Database for My Node.js Prototypes",
-        "link": "https://dev.to/axfab/why-i-built-my-own-local-database-for-my-nodejs-prototypes-5di4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built an artificial life simulation where nothing is scripted - predators had to evolve",
-        "link": "https://dev.to/dominik_vytisk_acab9538fb/i-built-an-artificial-life-simulation-where-nothing-is-scripted-predators-had-to-evolve-26ji",
+        "title": "How to speed up a Next.js application without guessing",
+        "link": "https://dev.to/zanreal/how-to-speed-up-a-nextjs-application-without-guessing-33fe",
         "source": "Dev.to React"
       },
       {
-        "title": "Build a React client intake form with file uploads",
-        "link": "https://dev.to/jafu/build-a-react-client-intake-form-with-file-uploads-5hmd",
+        "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
+        "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3905",
         "source": "Dev.to React"
       },
       {
-        "title": "Resilient UIs: Next.js Error Handling & Observability 🚨",
-        "link": "https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd",
+        "title": "Two-way is not the same as symmetric",
+        "link": "https://dev.to/linb/two-way-is-not-the-same-as-symmetric-362l",
         "source": "Dev.to React"
       },
       {
