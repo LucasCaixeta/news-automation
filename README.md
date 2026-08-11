@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
-- [TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases](https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic)
-- [How to Fix 'Cannot Read Properties of Undefined' (Without Losing Your Mind)](https://dev.to/systemcraftdev/how-to-fix-cannot-read-properties-of-undefined-without-losing-your-mind-j8)
+- [Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food](https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli)
+- [How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels](https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50)
 
 #### Dev.to React
 
-- [TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases](https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic)
-- [What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform](https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne)
-- [Stop Polling: Real-Time SSE Architecture in Next.js 📡](https://dev.to/iprajapatiparesh/stop-polling-real-time-sse-architecture-in-nextjs-n2n)
+- [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+- [React DataGrid: A Free, Open-Source React Data Grid with an Enterprise Edition (An AG Grid Alternative)](https://dev.to/hadil/react-datagrid-a-free-open-source-react-data-grid-with-an-enterprise-edition-an-ag-grid-5beg)
+- [How I built a developer-first cloud drive with a "Flat Brutalist" UI 📦](https://dev.to/ib2mofficial/how-i-built-a-developer-first-cloud-drive-with-a-flat-brutalist-ui-54f)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases",
-        "link": "https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic",
+        "title": "Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food",
+        "link": "https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Fix 'Cannot Read Properties of Undefined' (Without Losing Your Mind)",
-        "link": "https://dev.to/systemcraftdev/how-to-fix-cannot-read-properties-of-undefined-without-losing-your-mind-j8",
+        "title": "How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels",
+        "link": "https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases",
-        "link": "https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic",
+        "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+        "link": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
         "source": "Dev.to React"
       },
       {
-        "title": "What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform",
-        "link": "https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne",
+        "title": "React DataGrid: A Free, Open-Source React Data Grid with an Enterprise Edition (An AG Grid Alternative)",
+        "link": "https://dev.to/hadil/react-datagrid-a-free-open-source-react-data-grid-with-an-enterprise-edition-an-ag-grid-5beg",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop Polling: Real-Time SSE Architecture in Next.js 📡",
-        "link": "https://dev.to/iprajapatiparesh/stop-polling-real-time-sse-architecture-in-nextjs-n2n",
+        "title": "How I built a developer-first cloud drive with a \"Flat Brutalist\" UI 📦",
+        "link": "https://dev.to/ib2mofficial/how-i-built-a-developer-first-cloud-drive-with-a-flat-brutalist-ui-54f",
         "source": "Dev.to React"
       },
       {
