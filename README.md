@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 10, 2026)
+### Today's Updates (August 11, 2026)
+
+#### Dev.to JavaScript
+
+- [Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
+- [TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases](https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic)
+- [How to Fix 'Cannot Read Properties of Undefined' (Without Losing Your Mind)](https://dev.to/systemcraftdev/how-to-fix-cannot-read-properties-of-undefined-without-losing-your-mind-j8)
+
+#### Dev.to React
+
+- [TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases](https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic)
+- [What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform](https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne)
+- [Stop Polling: Real-Time SSE Architecture in Next.js 📡](https://dev.to/iprajapatiparesh/stop-polling-real-time-sse-architecture-in-nextjs-n2n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 9, 2026)
+### 2 Days Ago (August 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [You've kept that axios instance for years — do you really need to rewrite it?](https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0)
 - [I Built a React Performance Analyzer Because Lighthouse Wasn't Telling Me Why](https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal)
 - [Data cache in the Cache Components model](https://dev.to/peterlidee/data-cache-in-the-cache-components-model-51bg)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 8, 2026)
-
-#### Dev.to JavaScript
-
-- [Every web rich-text editor is missing a ruler](https://dev.to/jlc488/every-web-rich-text-editor-is-missing-a-ruler-10go)
-- [I built an embeddable screen-time calculator that doesn't phone home](https://dev.to/samtj/i-built-an-embeddable-screen-time-calculator-that-doesnt-phone-home-4cmk)
-- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
-
-#### Dev.to React
-
-- [The ₹1 That Costs ₹62,400: Modelling India's Tax Slabs Without Cliff-Edge Bugs](https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm)
-- [MUI to Shadcn: 7 Pitfalls We Hit (And the Fix for Each)](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
-- [Why Vite Asked Me to Choose Between Oxlint and ESLint](https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-11",
+    "formattedDate": "August 11, 2026",
+    "news": [
+      {
+        "title": "Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)",
+        "link": "https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases",
+        "link": "https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Fix 'Cannot Read Properties of Undefined' (Without Losing Your Mind)",
+        "link": "https://dev.to/systemcraftdev/how-to-fix-cannot-read-properties-of-undefined-without-losing-your-mind-j8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript 6.0 Type-Only Imports Are Now Enforced: What `verbatimModuleSyntax` Actually Breaks in Real Codebases",
+        "link": "https://dev.to/jsmanifest/typescript-60-type-only-imports-are-now-enforced-what-verbatimmodulesyntax-actually-breaks-in-aic",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform",
+        "link": "https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Stop Polling: Real-Time SSE Architecture in Next.js 📡",
+        "link": "https://dev.to/iprajapatiparesh/stop-polling-real-time-sse-architecture-in-nextjs-n2n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-10",
     "formattedDate": "August 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Data cache in the Cache Components model",
         "link": "https://dev.to/peterlidee/data-cache-in-the-cache-components-model-51bg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "formattedDate": "August 8, 2026",
-    "news": [
-      {
-        "title": "Every web rich-text editor is missing a ruler",
-        "link": "https://dev.to/jlc488/every-web-rich-text-editor-is-missing-a-ruler-10go",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built an embeddable screen-time calculator that doesn't phone home",
-        "link": "https://dev.to/samtj/i-built-an-embeddable-screen-time-calculator-that-doesnt-phone-home-4cmk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Compressing PDFs in the browser, and the bug that shipped empty files",
-        "link": "https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The ₹1 That Costs ₹62,400: Modelling India's Tax Slabs Without Cliff-Edge Bugs",
-        "link": "https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MUI to Shadcn: 7 Pitfalls We Hit (And the Fix for Each)",
-        "link": "https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Vite Asked Me to Choose Between Oxlint and ESLint",
-        "link": "https://dev.to/janarthanan_soundararajan/why-vite-asked-me-to-choose-between-oxlint-and-eslint-3ihl",
         "source": "Dev.to React"
       },
       {
