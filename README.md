@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 11, 2026)
+### Today's Updates (August 12, 2026)
+
+#### Dev.to JavaScript
+
+- [You're blocking touchmove events to contain scroll. `overscroll-behavior` does it natively.](https://dev.to/parsajiravand/youre-blocking-touchmove-events-to-contain-scroll-overscroll-behavior-does-it-natively-223o)
+- [edfcore - Parsing EDF EEG files in TypeScript](https://dev.to/sarthak_06679714d79dc1cf7/edfcore-parsing-edf-eeg-files-in-typescript-4p0j)
+- [I Ported decimal.js to Go in 72 Hours — and Found 2 Real Bugs in the Original](https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b)
+
+#### Dev.to React
+
+- [Fullstack Dynamic Filtering: React Query Builder to Spring Boot in One Pipeline](https://dev.to/torshid/fullstack-dynamic-filtering-react-query-builder-to-spring-boot-in-one-pipeline-1ffe)
+- [One Filter Language, Every Database: Type-Safe Filtering from React to Prisma and Drizzle](https://dev.to/torshid/one-filter-language-every-database-type-safe-filtering-from-react-to-prisma-and-drizzle-b55)
+- [TypeScript 6.0 `--noPropertyAccessFromIndexSignature`: The Flag That Forces Honest API Contracts](https://dev.to/jsmanifest/typescript-60-nopropertyaccessfromindexsignature-the-flag-that-forces-honest-api-contracts-2hlc)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 10, 2026)
+### 2 Days Ago (August 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to speed up a Next.js application without guessing](https://dev.to/zanreal/how-to-speed-up-a-nextjs-application-without-guessing-33fe)
 - [Cómo solucionar el error \"Text content does not match server-rendered HTML\" en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3905)
 - [Two-way is not the same as symmetric](https://dev.to/linb/two-way-is-not-the-same-as-symmetric-362l)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 9, 2026)
-
-#### Dev.to JavaScript
-
-- [Rasa Kenangan — Immersive Scroll Narrative Landing Page](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0)
-- [Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.](https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9)
-- [The Metaverse Failed. Augmented Reality Didn't.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
-
-#### Dev.to React
-
-- [You've kept that axios instance for years — do you really need to rewrite it?](https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0)
-- [I Built a React Performance Analyzer Because Lighthouse Wasn't Telling Me Why](https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal)
-- [Data cache in the Cache Components model](https://dev.to/peterlidee/data-cache-in-the-cache-components-model-51bg)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-12",
+    "formattedDate": "August 12, 2026",
+    "news": [
+      {
+        "title": "You're blocking touchmove events to contain scroll. `overscroll-behavior` does it natively.",
+        "link": "https://dev.to/parsajiravand/youre-blocking-touchmove-events-to-contain-scroll-overscroll-behavior-does-it-natively-223o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "edfcore - Parsing EDF EEG files in TypeScript",
+        "link": "https://dev.to/sarthak_06679714d79dc1cf7/edfcore-parsing-edf-eeg-files-in-typescript-4p0j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Ported decimal.js to Go in 72 Hours — and Found 2 Real Bugs in the Original",
+        "link": "https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Fullstack Dynamic Filtering: React Query Builder to Spring Boot in One Pipeline",
+        "link": "https://dev.to/torshid/fullstack-dynamic-filtering-react-query-builder-to-spring-boot-in-one-pipeline-1ffe",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "One Filter Language, Every Database: Type-Safe Filtering from React to Prisma and Drizzle",
+        "link": "https://dev.to/torshid/one-filter-language-every-database-type-safe-filtering-from-react-to-prisma-and-drizzle-b55",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TypeScript 6.0 `--noPropertyAccessFromIndexSignature`: The Flag That Forces Honest API Contracts",
+        "link": "https://dev.to/jsmanifest/typescript-60-nopropertyaccessfromindexsignature-the-flag-that-forces-honest-api-contracts-2hlc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-11",
     "formattedDate": "August 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Two-way is not the same as symmetric",
         "link": "https://dev.to/linb/two-way-is-not-the-same-as-symmetric-362l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "formattedDate": "August 9, 2026",
-    "news": [
-      {
-        "title": "Rasa Kenangan — Immersive Scroll Narrative Landing Page",
-        "link": "https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
-        "link": "https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Metaverse Failed. Augmented Reality Didn't.",
-        "link": "https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You've kept that axios instance for years — do you really need to rewrite it?",
-        "link": "https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a React Performance Analyzer Because Lighthouse Wasn't Telling Me Why",
-        "link": "https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Data cache in the Cache Components model",
-        "link": "https://dev.to/peterlidee/data-cache-in-the-cache-components-model-51bg",
         "source": "Dev.to React"
       },
       {
