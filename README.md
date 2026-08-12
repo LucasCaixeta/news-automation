@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [You're blocking touchmove events to contain scroll. `overscroll-behavior` does it natively.](https://dev.to/parsajiravand/youre-blocking-touchmove-events-to-contain-scroll-overscroll-behavior-does-it-natively-223o)
-- [edfcore - Parsing EDF EEG files in TypeScript](https://dev.to/sarthak_06679714d79dc1cf7/edfcore-parsing-edf-eeg-files-in-typescript-4p0j)
-- [I Ported decimal.js to Go in 72 Hours — and Found 2 Real Bugs in the Original](https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b)
+- [Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a)
+- [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
+- [Meteor pluggable DDP transport: meet uWebSockets.js](https://dev.to/meteor/meteor-pluggable-ddp-transport-meet-uwebsocketsjs-514i)
 
 #### Dev.to React
 
-- [Fullstack Dynamic Filtering: React Query Builder to Spring Boot in One Pipeline](https://dev.to/torshid/fullstack-dynamic-filtering-react-query-builder-to-spring-boot-in-one-pipeline-1ffe)
-- [One Filter Language, Every Database: Type-Safe Filtering from React to Prisma and Drizzle](https://dev.to/torshid/one-filter-language-every-database-type-safe-filtering-from-react-to-prisma-and-drizzle-b55)
-- [TypeScript 6.0 `--noPropertyAccessFromIndexSignature`: The Flag That Forces Honest API Contracts](https://dev.to/jsmanifest/typescript-60-nopropertyaccessfromindexsignature-the-flag-that-forces-honest-api-contracts-2hlc)
+- [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
+- [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+- [React Flow auto layout with dagre for custom, variable-size nodes](https://dev.to/dylanmerigaud/react-flow-auto-layout-with-dagre-for-custom-variable-size-nodes-12p7)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 12, 2026",
     "news": [
       {
-        "title": "You're blocking touchmove events to contain scroll. `overscroll-behavior` does it natively.",
-        "link": "https://dev.to/parsajiravand/youre-blocking-touchmove-events-to-contain-scroll-overscroll-behavior-does-it-natively-223o",
+        "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+        "link": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "edfcore - Parsing EDF EEG files in TypeScript",
-        "link": "https://dev.to/sarthak_06679714d79dc1cf7/edfcore-parsing-edf-eeg-files-in-typescript-4p0j",
+        "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
+        "link": "https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Ported decimal.js to Go in 72 Hours — and Found 2 Real Bugs in the Original",
-        "link": "https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b",
+        "title": "Meteor pluggable DDP transport: meet uWebSockets.js",
+        "link": "https://dev.to/meteor/meteor-pluggable-ddp-transport-meet-uwebsocketsjs-514i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Fullstack Dynamic Filtering: React Query Builder to Spring Boot in One Pipeline",
-        "link": "https://dev.to/torshid/fullstack-dynamic-filtering-react-query-builder-to-spring-boot-in-one-pipeline-1ffe",
+        "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
+        "link": "https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl",
         "source": "Dev.to React"
       },
       {
-        "title": "One Filter Language, Every Database: Type-Safe Filtering from React to Prisma and Drizzle",
-        "link": "https://dev.to/torshid/one-filter-language-every-database-type-safe-filtering-from-react-to-prisma-and-drizzle-b55",
+        "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+        "link": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript 6.0 `--noPropertyAccessFromIndexSignature`: The Flag That Forces Honest API Contracts",
-        "link": "https://dev.to/jsmanifest/typescript-60-nopropertyaccessfromindexsignature-the-flag-that-forces-honest-api-contracts-2hlc",
+        "title": "React Flow auto layout with dagre for custom, variable-size nodes",
+        "link": "https://dev.to/dylanmerigaud/react-flow-auto-layout-with-dagre-for-custom-variable-size-nodes-12p7",
         "source": "Dev.to React"
       },
       {
