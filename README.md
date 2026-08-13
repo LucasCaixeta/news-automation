@@ -10,14 +10,14 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a)
-- [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
-- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
+- [Your hreflang says English-only. Does your language switcher agree?](https://dev.to/codelong888/your-hreflang-says-english-only-does-your-language-switcher-agree-146)
+- [I Built an Open-Source project. It Became the Official MailChannels JS SDK](https://dev.to/yizack/i-built-an-open-source-project-it-became-the-official-mailchannels-js-sdk-1209)
+- [The Determinism Gap: Why Your Playwright Tests Lie to You (And a Systems-Engineering Fix)](https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b)
 
 #### Dev.to React
 
-- [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
 - [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
+- [Mastering Micro-Frontends with Module Federation in 2026: Patterns & Pitfalls](https://dev.to/lakshanmuruganandam/mastering-micro-frontends-with-module-federation-in-2026-patterns-pitfalls-3bnc)
 - [The DOM Is Lying to Your Types: 3 Subtle React + Zod Validation Traps](https://dev.to/janarthanan_soundararajan/the-dom-is-lying-to-your-types-3-subtle-react-zod-validation-traps-2a0p)
 
 #### React Blog
@@ -89,28 +89,28 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 13, 2026",
     "news": [
       {
-        "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-        "link": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+        "title": "Your hreflang says English-only. Does your language switcher agree?",
+        "link": "https://dev.to/codelong888/your-hreflang-says-english-only-does-your-language-switcher-agree-146",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
-        "link": "https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl",
+        "title": "I Built an Open-Source project. It Became the Official MailChannels JS SDK",
+        "link": "https://dev.to/yizack/i-built-an-open-source-project-it-became-the-official-mailchannels-js-sdk-1209",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Determinism Gap: Why Your Playwright Tests Lie to You (And a Systems-Engineering Fix)",
+        "link": "https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b",
         "source": "Dev.to JavaScript"
       },
       {
         "title": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie",
         "link": "https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
-        "link": "https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl",
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie",
-        "link": "https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2",
+        "title": "Mastering Micro-Frontends with Module Federation in 2026: Patterns & Pitfalls",
+        "link": "https://dev.to/lakshanmuruganandam/mastering-micro-frontends-with-module-federation-in-2026-patterns-pitfalls-3bnc",
         "source": "Dev.to React"
       },
       {
