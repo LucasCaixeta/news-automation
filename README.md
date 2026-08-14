@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.](https://dev.to/kenielzep97/i-built-a-puerto-rican-mountain-kitchen-the-only-image-is-the-favicon-27jc)
-- [Building a 60fps Scroll-Driven Showcase with Vanilla HTML, CSS, and GSAP](https://dev.to/inushathathsara/building-a-60fps-scroll-driven-showcase-with-vanilla-html-css-and-gsap-5188)
-- [Why simplified Chinese's 干 becomes three different traditional characters (and how a converter has to guess right)](https://dev.to/begoodtool/why-simplified-chineses-gan-becomes-three-different-traditional-characters-and-how-a-converter-has-l35)
+- [From X/Twitter Bookmarks to a Searchable Static Site](https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd)
+- [A planet in a browser tab](https://dev.to/intframe/a-planet-in-a-browser-tab-4m5)
+- [I ship an Ed25519 public key in my JavaScript bundle and call it a licence](https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h)
 
 #### Dev.to React
 
-- [Build First. Understand What You Build. Then Use AI to Build Faster.](https://dev.to/chuksandroz/build-first-understand-what-you-build-then-use-ai-to-build-faster-4b33)
-- [React useFocus Hook: Track & Control Element Focus State (2026)](https://dev.to/childrentime/react-usefocus-hook-track-control-element-focus-state-2026-5ffh)
-- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
+- [Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?](https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40)
+- [Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic](https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5)
+- [React Email Checks Need One Source of Truth](https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 14, 2026",
     "news": [
       {
-        "title": "I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.",
-        "link": "https://dev.to/kenielzep97/i-built-a-puerto-rican-mountain-kitchen-the-only-image-is-the-favicon-27jc",
+        "title": "From X/Twitter Bookmarks to a Searchable Static Site",
+        "link": "https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a 60fps Scroll-Driven Showcase with Vanilla HTML, CSS, and GSAP",
-        "link": "https://dev.to/inushathathsara/building-a-60fps-scroll-driven-showcase-with-vanilla-html-css-and-gsap-5188",
+        "title": "A planet in a browser tab",
+        "link": "https://dev.to/intframe/a-planet-in-a-browser-tab-4m5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why simplified Chinese's 干 becomes three different traditional characters (and how a converter has to guess right)",
-        "link": "https://dev.to/begoodtool/why-simplified-chineses-gan-becomes-three-different-traditional-characters-and-how-a-converter-has-l35",
+        "title": "I ship an Ed25519 public key in my JavaScript bundle and call it a licence",
+        "link": "https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build First. Understand What You Build. Then Use AI to Build Faster.",
-        "link": "https://dev.to/chuksandroz/build-first-understand-what-you-build-then-use-ai-to-build-faster-4b33",
+        "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
+        "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
         "source": "Dev.to React"
       },
       {
-        "title": "React useFocus Hook: Track & Control Element Focus State (2026)",
-        "link": "https://dev.to/childrentime/react-usefocus-hook-track-control-element-focus-state-2026-5ffh",
+        "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
+        "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie",
-        "link": "https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2",
+        "title": "React Email Checks Need One Source of Truth",
+        "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
         "source": "Dev.to React"
       },
       {
