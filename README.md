@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 13, 2026)
+### Today's Updates (August 14, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.](https://dev.to/kenielzep97/i-built-a-puerto-rican-mountain-kitchen-the-only-image-is-the-favicon-27jc)
+- [Building a 60fps Scroll-Driven Showcase with Vanilla HTML, CSS, and GSAP](https://dev.to/inushathathsara/building-a-60fps-scroll-driven-showcase-with-vanilla-html-css-and-gsap-5188)
+- [Why simplified Chinese's 干 becomes three different traditional characters (and how a converter has to guess right)](https://dev.to/begoodtool/why-simplified-chineses-gan-becomes-three-different-traditional-characters-and-how-a-converter-has-l35)
+
+#### Dev.to React
+
+- [Build First. Understand What You Build. Then Use AI to Build Faster.](https://dev.to/chuksandroz/build-first-understand-what-you-build-then-use-ai-to-build-faster-4b33)
+- [React useFocus Hook: Track & Control Element Focus State (2026)](https://dev.to/childrentime/react-usefocus-hook-track-control-element-focus-state-2026-5ffh)
+- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 12, 2026)
+### 2 Days Ago (August 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
 - [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
 - [React Flow auto layout with dagre for custom, variable-size nodes](https://dev.to/dylanmerigaud/react-flow-auto-layout-with-dagre-for-custom-variable-size-nodes-12p7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 11, 2026)
-
-#### Dev.to JavaScript
-
-- [Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
-- [Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food](https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli)
-- [How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels](https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50)
-
-#### Dev.to React
-
-- [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
-- [React DataGrid: A Free, Open-Source React Data Grid with an Enterprise Edition (An AG Grid Alternative)](https://dev.to/hadil/react-datagrid-a-free-open-source-react-data-grid-with-an-enterprise-edition-an-ag-grid-5beg)
-- [How I built a developer-first cloud drive with a "Flat Brutalist" UI 📦](https://dev.to/ib2mofficial/how-i-built-a-developer-first-cloud-drive-with-a-flat-brutalist-ui-54f)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-14",
+    "formattedDate": "August 14, 2026",
+    "news": [
+      {
+        "title": "I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.",
+        "link": "https://dev.to/kenielzep97/i-built-a-puerto-rican-mountain-kitchen-the-only-image-is-the-favicon-27jc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a 60fps Scroll-Driven Showcase with Vanilla HTML, CSS, and GSAP",
+        "link": "https://dev.to/inushathathsara/building-a-60fps-scroll-driven-showcase-with-vanilla-html-css-and-gsap-5188",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why simplified Chinese's 干 becomes three different traditional characters (and how a converter has to guess right)",
+        "link": "https://dev.to/begoodtool/why-simplified-chineses-gan-becomes-three-different-traditional-characters-and-how-a-converter-has-l35",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build First. Understand What You Build. Then Use AI to Build Faster.",
+        "link": "https://dev.to/chuksandroz/build-first-understand-what-you-build-then-use-ai-to-build-faster-4b33",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useFocus Hook: Track & Control Element Focus State (2026)",
+        "link": "https://dev.to/childrentime/react-usefocus-hook-track-control-element-focus-state-2026-5ffh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie",
+        "link": "https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-13",
     "formattedDate": "August 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Flow auto layout with dagre for custom, variable-size nodes",
         "link": "https://dev.to/dylanmerigaud/react-flow-auto-layout-with-dagre-for-custom-variable-size-nodes-12p7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "formattedDate": "August 11, 2026",
-    "news": [
-      {
-        "title": "Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)",
-        "link": "https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food",
-        "link": "https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels",
-        "link": "https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-        "link": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React DataGrid: A Free, Open-Source React Data Grid with an Enterprise Edition (An AG Grid Alternative)",
-        "link": "https://dev.to/hadil/react-datagrid-a-free-open-source-react-data-grid-with-an-enterprise-edition-an-ag-grid-5beg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built a developer-first cloud drive with a \"Flat Brutalist\" UI 📦",
-        "link": "https://dev.to/ib2mofficial/how-i-built-a-developer-first-cloud-drive-with-a-flat-brutalist-ui-54f",
         "source": "Dev.to React"
       },
       {
