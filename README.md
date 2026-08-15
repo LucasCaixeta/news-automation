@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 14, 2026)
+### Today's Updates (August 15, 2026)
+
+#### Dev.to JavaScript
+
+- [The Color Math Was Never the Slow Part](https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2)
+- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
+- [The file existed, so I assumed the check passed](https://dev.to/hammad4june1999/the-file-existed-so-i-assumed-the-check-passed-46h5)
+
+#### Dev.to React
+
+- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
+- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
+- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 13, 2026)
+### 2 Days Ago (August 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
 - [Mastering Micro-Frontends with Module Federation in 2026: Patterns & Pitfalls](https://dev.to/lakshanmuruganandam/mastering-micro-frontends-with-module-federation-in-2026-patterns-pitfalls-3bnc)
 - [The DOM Is Lying to Your Types: 3 Subtle React + Zod Validation Traps](https://dev.to/janarthanan_soundararajan/the-dom-is-lying-to-your-types-3-subtle-react-zod-validation-traps-2a0p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 12, 2026)
-
-#### Dev.to JavaScript
-
-- [Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a)
-- [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
-- [Meteor pluggable DDP transport: meet uWebSockets.js](https://dev.to/meteor/meteor-pluggable-ddp-transport-meet-uwebsocketsjs-514i)
-
-#### Dev.to React
-
-- [React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False](https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl)
-- [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
-- [React Flow auto layout with dagre for custom, variable-size nodes](https://dev.to/dylanmerigaud/react-flow-auto-layout-with-dagre-for-custom-variable-size-nodes-12p7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-15",
+    "formattedDate": "August 15, 2026",
+    "news": [
+      {
+        "title": "The Color Math Was Never the Slow Part",
+        "link": "https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Rasa — Designing a Landing Page That Feels Like Opening a Food Journal",
+        "link": "https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The file existed, so I assumed the check passed",
+        "link": "https://dev.to/hammad4june1999/the-file-existed-so-i-assumed-the-check-passed-46h5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
+        "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
+        "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
+        "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-14",
     "formattedDate": "August 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The DOM Is Lying to Your Types: 3 Subtle React + Zod Validation Traps",
         "link": "https://dev.to/janarthanan_soundararajan/the-dom-is-lying-to-your-types-3-subtle-react-zod-validation-traps-2a0p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "formattedDate": "August 12, 2026",
-    "news": [
-      {
-        "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-        "link": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
-        "link": "https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Meteor pluggable DDP transport: meet uWebSockets.js",
-        "link": "https://dev.to/meteor/meteor-pluggable-ddp-transport-meet-uwebsocketsjs-514i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useFormStatus Fixed My Prop Drilling. Then It Sat There Returning False",
-        "link": "https://dev.to/shubhradev/react-19s-useformstatus-fixed-my-prop-drilling-then-it-sat-there-returning-false-30dl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-        "link": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Flow auto layout with dagre for custom, variable-size nodes",
-        "link": "https://dev.to/dylanmerigaud/react-flow-auto-layout-with-dagre-for-custom-variable-size-nodes-12p7",
         "source": "Dev.to React"
       },
       {
