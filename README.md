@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Color Math Was Never the Slow Part](https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2)
-- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
-- [The file existed, so I assumed the check passed](https://dev.to/hammad4june1999/the-file-existed-so-i-assumed-the-check-passed-46h5)
+- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
+- [Spicing Up the Web: Building "Angaar", an Immersive Indian Comfort Food Experience](https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go)
+- [Five tabs open, one refresh token — the race nobody noticed](https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8)
 
 #### Dev.to React
 
-- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
+- [Your Date Picker Is Outdated. Here’s a Better Way.](https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2)
+- [Does React Break HTML Rules? Let's Find Out](https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8)
 - [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
-- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 15, 2026",
     "news": [
       {
-        "title": "The Color Math Was Never the Slow Part",
-        "link": "https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2",
+        "title": "Gravy Theory: three chickens, one base",
+        "link": "https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Rasa — Designing a Landing Page That Feels Like Opening a Food Journal",
-        "link": "https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9",
+        "title": "Spicing Up the Web: Building \"Angaar\", an Immersive Indian Comfort Food Experience",
+        "link": "https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The file existed, so I assumed the check passed",
-        "link": "https://dev.to/hammad4june1999/the-file-existed-so-i-assumed-the-check-passed-46h5",
+        "title": "Five tabs open, one refresh token — the race nobody noticed",
+        "link": "https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
-        "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+        "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
+        "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Does React Break HTML Rules? Let's Find Out",
+        "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
         "source": "Dev.to React"
       },
       {
         "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
         "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
-        "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
         "source": "Dev.to React"
       },
       {
