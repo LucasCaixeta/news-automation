@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [React useLatest Hook: Read Fresh State in Async Callbacks (2026)](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
-- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
-- [I built 59 free browser-based dev tools in vanilla JS — here's what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
+- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
+- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
+- [Comfort Food Companion 🍲](https://dev.to/nandhutee/comfort-food-companion-1k83)
 
 #### Dev.to React
 
-- [React useLatest Hook: Read Fresh State in Async Callbacks (2026)](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
-- [A stale response can quietly break a recommendation tool](https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c)
-- [Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong](https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5)
+- [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
+- [Why Does State Management Suddenly Need a Whole New Programming Model?](https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792)
+- [I Tried to "Disable Inspect" — and Learned the Right Question to Ask Instead](https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 16, 2026",
     "news": [
       {
-        "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
-        "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+        "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+        "link": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "😋 I used historical restaurant menus to build a nice landing page",
-        "link": "https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl",
+        "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
+        "link": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa",
+        "title": "Comfort Food Companion 🍲",
+        "link": "https://dev.to/nandhutee/comfort-food-companion-1k83",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
-        "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+        "title": "Why a two-user Convex chat app read tens of MB a day",
+        "link": "https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k",
         "source": "Dev.to React"
       },
       {
-        "title": "A stale response can quietly break a recommendation tool",
-        "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+        "title": "Why Does State Management Suddenly Need a Whole New Programming Model?",
+        "link": "https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792",
         "source": "Dev.to React"
       },
       {
-        "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
-        "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
+        "title": "I Tried to \"Disable Inspect\" — and Learned the Right Question to Ask Instead",
+        "link": "https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb",
         "source": "Dev.to React"
       },
       {
