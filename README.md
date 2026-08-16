@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 15, 2026)
+### Today's Updates (August 16, 2026)
+
+#### Dev.to JavaScript
+
+- [React useLatest Hook: Read Fresh State in Async Callbacks (2026)](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
+- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
+- [I built 59 free browser-based dev tools in vanilla JS — here's what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
+
+#### Dev.to React
+
+- [React useLatest Hook: Read Fresh State in Async Callbacks (2026)](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
+- [A stale response can quietly break a recommendation tool](https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c)
+- [Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong](https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 14, 2026)
+### 2 Days Ago (August 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?](https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40)
 - [Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic](https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5)
 - [React Email Checks Need One Source of Truth](https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 13, 2026)
-
-#### Dev.to JavaScript
-
-- [Your hreflang says English-only. Does your language switcher agree?](https://dev.to/codelong888/your-hreflang-says-english-only-does-your-language-switcher-agree-146)
-- [I Built an Open-Source project. It Became the Official MailChannels JS SDK](https://dev.to/yizack/i-built-an-open-source-project-it-became-the-official-mailchannels-js-sdk-1209)
-- [The Determinism Gap: Why Your Playwright Tests Lie to You (And a Systems-Engineering Fix)](https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b)
-
-#### Dev.to React
-
-- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
-- [Mastering Micro-Frontends with Module Federation in 2026: Patterns & Pitfalls](https://dev.to/lakshanmuruganandam/mastering-micro-frontends-with-module-federation-in-2026-patterns-pitfalls-3bnc)
-- [The DOM Is Lying to Your Types: 3 Subtle React + Zod Validation Traps](https://dev.to/janarthanan_soundararajan/the-dom-is-lying-to-your-types-3-subtle-react-zod-validation-traps-2a0p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-16",
+    "formattedDate": "August 16, 2026",
+    "news": [
+      {
+        "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+        "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "😋 I used historical restaurant menus to build a nice landing page",
+        "link": "https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+        "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A stale response can quietly break a recommendation tool",
+        "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
+        "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-15",
     "formattedDate": "August 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Email Checks Need One Source of Truth",
         "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "formattedDate": "August 13, 2026",
-    "news": [
-      {
-        "title": "Your hreflang says English-only. Does your language switcher agree?",
-        "link": "https://dev.to/codelong888/your-hreflang-says-english-only-does-your-language-switcher-agree-146",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an Open-Source project. It Became the Official MailChannels JS SDK",
-        "link": "https://dev.to/yizack/i-built-an-open-source-project-it-became-the-official-mailchannels-js-sdk-1209",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Determinism Gap: Why Your Playwright Tests Lie to You (And a Systems-Engineering Fix)",
-        "link": "https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie",
-        "link": "https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering Micro-Frontends with Module Federation in 2026: Patterns & Pitfalls",
-        "link": "https://dev.to/lakshanmuruganandam/mastering-micro-frontends-with-module-federation-in-2026-patterns-pitfalls-3bnc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The DOM Is Lying to Your Types: 3 Subtle React + Zod Validation Traps",
-        "link": "https://dev.to/janarthanan_soundararajan/the-dom-is-lying-to-your-types-3-subtle-react-zod-validation-traps-2a0p",
         "source": "Dev.to React"
       },
       {
