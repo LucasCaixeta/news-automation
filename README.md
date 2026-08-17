@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
-- [Supabase in Vue Made Simple](https://dev.to/jacobandrewsky/supabase-in-vue-made-simple-akk)
-- [Reading .xlsx in the browser without a spreadsheet library](https://dev.to/ink_gu/reading-xlsx-in-the-browser-without-a-spreadsheet-library-5937)
+- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
+- [Fulmine.js: a faster drop-in Express 5 replacement on uWebSockets.js](https://dev.to/nigrosimone/fulminejs-a-faster-drop-in-express-5-replacement-on-uwebsocketsjs-3bnn)
+- [I turned a GitHub repo into a 3D city you can walk through](https://dev.to/lutfiemre/i-turned-a-github-repo-into-a-3d-city-you-can-walk-through-15do)
 
 #### Dev.to React
 
-- [revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two](https://dev.to/grimicorn/revalidatetag-vs-updatetag-nextjs-split-cache-invalidation-in-two-bag)
-- [PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed](https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih)
-- [React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)](https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3)
+- [What breaks if I delete this file? React tooling can't answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
+- [Authentication done right: JWT, sessions, and OAuth explained — Like a Marvel superhero assembling the team](https://dev.to/timevolt/authentication-done-right-jwt-sessions-and-oauth-explained-like-a-marvel-superhero-assembling-2ihf)
+- [The React Search Bug That Shows Old Results and How to Fix It](https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 17, 2026",
     "news": [
       {
-        "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
-        "link": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
+        "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+        "link": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Supabase in Vue Made Simple",
-        "link": "https://dev.to/jacobandrewsky/supabase-in-vue-made-simple-akk",
+        "title": "Fulmine.js: a faster drop-in Express 5 replacement on uWebSockets.js",
+        "link": "https://dev.to/nigrosimone/fulminejs-a-faster-drop-in-express-5-replacement-on-uwebsocketsjs-3bnn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Reading .xlsx in the browser without a spreadsheet library",
-        "link": "https://dev.to/ink_gu/reading-xlsx-in-the-browser-without-a-spreadsheet-library-5937",
+        "title": "I turned a GitHub repo into a 3D city you can walk through",
+        "link": "https://dev.to/lutfiemre/i-turned-a-github-repo-into-a-3d-city-you-can-walk-through-15do",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two",
-        "link": "https://dev.to/grimicorn/revalidatetag-vs-updatetag-nextjs-split-cache-invalidation-in-two-bag",
+        "title": "What breaks if I delete this file? React tooling can't answer that.",
+        "link": "https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom",
         "source": "Dev.to React"
       },
       {
-        "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
-        "link": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
+        "title": "Authentication done right: JWT, sessions, and OAuth explained — Like a Marvel superhero assembling the team",
+        "link": "https://dev.to/timevolt/authentication-done-right-jwt-sessions-and-oauth-explained-like-a-marvel-superhero-assembling-2ihf",
         "source": "Dev.to React"
       },
       {
-        "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
-        "link": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
+        "title": "The React Search Bug That Shows Old Results and How to Fix It",
+        "link": "https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7",
         "source": "Dev.to React"
       },
       {
