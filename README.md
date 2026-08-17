@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 16, 2026)
+### Today's Updates (August 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
+- [Supabase in Vue Made Simple](https://dev.to/jacobandrewsky/supabase-in-vue-made-simple-akk)
+- [Reading .xlsx in the browser without a spreadsheet library](https://dev.to/ink_gu/reading-xlsx-in-the-browser-without-a-spreadsheet-library-5937)
+
+#### Dev.to React
+
+- [revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two](https://dev.to/grimicorn/revalidatetag-vs-updatetag-nextjs-split-cache-invalidation-in-two-bag)
+- [PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed](https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih)
+- [React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)](https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 15, 2026)
+### 2 Days Ago (August 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your Date Picker Is Outdated. Here’s a Better Way.](https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2)
 - [Does React Break HTML Rules? Let's Find Out](https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8)
 - [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 14, 2026)
-
-#### Dev.to JavaScript
-
-- [From X/Twitter Bookmarks to a Searchable Static Site](https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd)
-- [A planet in a browser tab](https://dev.to/intframe/a-planet-in-a-browser-tab-4m5)
-- [I ship an Ed25519 public key in my JavaScript bundle and call it a licence](https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h)
-
-#### Dev.to React
-
-- [Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?](https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40)
-- [Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic](https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5)
-- [React Email Checks Need One Source of Truth](https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-17",
+    "formattedDate": "August 17, 2026",
+    "news": [
+      {
+        "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
+        "link": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Supabase in Vue Made Simple",
+        "link": "https://dev.to/jacobandrewsky/supabase-in-vue-made-simple-akk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Reading .xlsx in the browser without a spreadsheet library",
+        "link": "https://dev.to/ink_gu/reading-xlsx-in-the-browser-without-a-spreadsheet-library-5937",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two",
+        "link": "https://dev.to/grimicorn/revalidatetag-vs-updatetag-nextjs-split-cache-invalidation-in-two-bag",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
+        "link": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
+        "link": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-16",
     "formattedDate": "August 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
         "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "formattedDate": "August 14, 2026",
-    "news": [
-      {
-        "title": "From X/Twitter Bookmarks to a Searchable Static Site",
-        "link": "https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A planet in a browser tab",
-        "link": "https://dev.to/intframe/a-planet-in-a-browser-tab-4m5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I ship an Ed25519 public key in my JavaScript bundle and call it a licence",
-        "link": "https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-        "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-        "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Email Checks Need One Source of Truth",
-        "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
         "source": "Dev.to React"
       },
       {
