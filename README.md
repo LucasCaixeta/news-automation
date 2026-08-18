@@ -10,9 +10,9 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Built a Web Framework From Scratch on Bun — Here's What I Learned](https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg)
-- [I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js](https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9)
-- [I built 59 free browser-based dev tools in vanilla JS — here's what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp)
+- [The same Rust gave two different answers, and neither matched JavaScript](https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03)
+- [Four green Mondays that wrote nothing: a uuid above the first step](https://dev.to/marintkael/four-green-mondays-that-wrote-nothing-a-uuid-above-the-first-step-5haj)
+- [Building Suzi Chat: A retro MSN-style chat platform with mini-games](https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431)
 
 #### Dev.to React
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 18, 2026",
     "news": [
       {
-        "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
-        "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
+        "title": "The same Rust gave two different answers, and neither matched JavaScript",
+        "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-        "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
+        "title": "Four green Mondays that wrote nothing: a uuid above the first step",
+        "link": "https://dev.to/marintkael/four-green-mondays-that-wrote-nothing-a-uuid-above-the-first-step-5haj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
+        "title": "Building Suzi Chat: A retro MSN-style chat platform with mini-games",
+        "link": "https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431",
         "source": "Dev.to JavaScript"
       },
       {
