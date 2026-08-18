@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 17, 2026)
+### Today's Updates (August 18, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Web Framework From Scratch on Bun — Here's What I Learned](https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg)
+- [I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js](https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9)
+- [I built 59 free browser-based dev tools in vanilla JS — here's what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp)
+
+#### Dev.to React
+
+- [I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js](https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9)
+- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)
+- [Readme](https://dev.to/iamry02/readme-1j7b)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 16, 2026)
+### 2 Days Ago (August 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
 - [Why Does State Management Suddenly Need a Whole New Programming Model?](https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792)
 - [I Tried to "Disable Inspect" — and Learned the Right Question to Ask Instead](https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 15, 2026)
-
-#### Dev.to JavaScript
-
-- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
-- [Spicing Up the Web: Building "Angaar", an Immersive Indian Comfort Food Experience](https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go)
-- [Five tabs open, one refresh token — the race nobody noticed](https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8)
-
-#### Dev.to React
-
-- [Your Date Picker Is Outdated. Here’s a Better Way.](https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2)
-- [Does React Break HTML Rules? Let's Find Out](https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8)
-- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-18",
+    "formattedDate": "August 18, 2026",
+    "news": [
+      {
+        "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
+        "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
+        "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
+        "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
+        "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Readme",
+        "link": "https://dev.to/iamry02/readme-1j7b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-17",
     "formattedDate": "August 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Tried to \"Disable Inspect\" — and Learned the Right Question to Ask Instead",
         "link": "https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "formattedDate": "August 15, 2026",
-    "news": [
-      {
-        "title": "Gravy Theory: three chickens, one base",
-        "link": "https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Spicing Up the Web: Building \"Angaar\", an Immersive Indian Comfort Food Experience",
-        "link": "https://dev.to/dj29/spicing-up-the-web-building-angaar-an-immersive-indian-comfort-food-experience-38go",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Five tabs open, one refresh token — the race nobody noticed",
-        "link": "https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
-        "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Does React Break HTML Rules? Let's Find Out",
-        "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
-        "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
         "source": "Dev.to React"
       },
       {
