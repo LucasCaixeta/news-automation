@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The same Rust gave two different answers, and neither matched JavaScript](https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03)
-- [Ask Workday's public API for 100 jobs and you get zero — with no error](https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2)
-- [Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)](https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f)
+- [React useScrollLock Hook: Lock Body Scroll for Modals (2026)](https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach)
+- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
+- [Add Google Authenticator 2FA to your Node app in two steps](https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n)
 
 #### Dev.to React
 
-- [Native Modals: Parallel & Intercepted Routes in Next.js 🔀](https://dev.to/iprajapatiparesh/native-modals-parallel-intercepted-routes-in-nextjs-1pao)
-- [Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds.](https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om)
-- [ffmpeg-kit-react-native is dead. Here is a native iOS alternative.](https://dev.to/specvista/ffmpeg-kit-react-native-is-dead-here-is-a-native-ios-alternative-30nj)
+- [React useScrollLock Hook: Lock Body Scroll for Modals (2026)](https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach)
+- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
+- [One line of JavaScript disabled server rendering on 190 pages](https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 19, 2026",
     "news": [
       {
-        "title": "The same Rust gave two different answers, and neither matched JavaScript",
-        "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
+        "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+        "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
-        "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+        "title": "TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts",
+        "link": "https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
-        "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+        "title": "Add Google Authenticator 2FA to your Node app in two steps",
+        "link": "https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Native Modals: Parallel & Intercepted Routes in Next.js 🔀",
-        "link": "https://dev.to/iprajapatiparesh/native-modals-parallel-intercepted-routes-in-nextjs-1pao",
+        "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+        "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds.",
-        "link": "https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om",
+        "title": "TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts",
+        "link": "https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3",
         "source": "Dev.to React"
       },
       {
-        "title": "ffmpeg-kit-react-native is dead. Here is a native iOS alternative.",
-        "link": "https://dev.to/specvista/ffmpeg-kit-react-native-is-dead-here-is-a-native-ios-alternative-30nj",
+        "title": "One line of JavaScript disabled server rendering on 190 pages",
+        "link": "https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb",
         "source": "Dev.to React"
       },
       {
