@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 18, 2026)
+### Today's Updates (August 19, 2026)
+
+#### Dev.to JavaScript
+
+- [The same Rust gave two different answers, and neither matched JavaScript](https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03)
+- [Ask Workday's public API for 100 jobs and you get zero — with no error](https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2)
+- [Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)](https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f)
+
+#### Dev.to React
+
+- [Native Modals: Parallel & Intercepted Routes in Next.js 🔀](https://dev.to/iprajapatiparesh/native-modals-parallel-intercepted-routes-in-nextjs-1pao)
+- [Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds.](https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om)
+- [ffmpeg-kit-react-native is dead. Here is a native iOS alternative.](https://dev.to/specvista/ffmpeg-kit-react-native-is-dead-here-is-a-native-ios-alternative-30nj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 17, 2026)
+### 2 Days Ago (August 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [What breaks if I delete this file? React tooling can't answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
 - [Authentication done right: JWT, sessions, and OAuth explained — Like a Marvel superhero assembling the team](https://dev.to/timevolt/authentication-done-right-jwt-sessions-and-oauth-explained-like-a-marvel-superhero-assembling-2ihf)
 - [The React Search Bug That Shows Old Results and How to Fix It](https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 16, 2026)
-
-#### Dev.to JavaScript
-
-- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
-- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
-- [Comfort Food Companion 🍲](https://dev.to/nandhutee/comfort-food-companion-1k83)
-
-#### Dev.to React
-
-- [Why a two-user Convex chat app read tens of MB a day](https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k)
-- [Why Does State Management Suddenly Need a Whole New Programming Model?](https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792)
-- [I Tried to "Disable Inspect" — and Learned the Right Question to Ask Instead](https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-19",
+    "formattedDate": "August 19, 2026",
+    "news": [
+      {
+        "title": "The same Rust gave two different answers, and neither matched JavaScript",
+        "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+        "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
+        "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Native Modals: Parallel & Intercepted Routes in Next.js 🔀",
+        "link": "https://dev.to/iprajapatiparesh/native-modals-parallel-intercepted-routes-in-nextjs-1pao",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js 16.3's Memory Claim Didn't Hold Up on My App. Its TypeScript Claim Cut My Build by Two Thirds.",
+        "link": "https://dev.to/pfgiiu/nextjs-163s-memory-claim-didnt-hold-up-on-my-app-its-typescript-claim-cut-my-build-by-two-30om",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "ffmpeg-kit-react-native is dead. Here is a native iOS alternative.",
+        "link": "https://dev.to/specvista/ffmpeg-kit-react-native-is-dead-here-is-a-native-ios-alternative-30nj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-18",
     "formattedDate": "August 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The React Search Bug That Shows Old Results and How to Fix It",
         "link": "https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "formattedDate": "August 16, 2026",
-    "news": [
-      {
-        "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-        "link": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
-        "link": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Comfort Food Companion 🍲",
-        "link": "https://dev.to/nandhutee/comfort-food-companion-1k83",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why a two-user Convex chat app read tens of MB a day",
-        "link": "https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Does State Management Suddenly Need a Whole New Programming Model?",
-        "link": "https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Tried to \"Disable Inspect\" — and Learned the Right Question to Ask Instead",
-        "link": "https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb",
         "source": "Dev.to React"
       },
       {
