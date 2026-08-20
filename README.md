@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 19, 2026)
+### Today's Updates (August 20, 2026)
+
+#### Dev.to JavaScript
+
+- [React 20 `ref` as a Prop: Migrating Away From `forwardRef` Across a Large Component Library](https://dev.to/jsmanifest/react-20-ref-as-a-prop-migrating-away-from-forwardref-across-a-large-component-library-3jk0)
+- [I Built ChessIQ to Train Positional Chess Evaluation, Not Just Tactics](https://dev.to/vyom_j_b0def99a225a400789/i-built-chessiq-to-train-positional-chess-evaluation-not-just-tactics-5bk3)
+- [Why input.value = 'x' doesn't fill a React form (and what actually works)](https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7)
+
+#### Dev.to React
+
+- [Why input.value = 'x' doesn't fill a React form (and what actually works)](https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7)
+- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68)
+- [The End of useMemo: React Compiler in Next.js](https://dev.to/iprajapatiparesh/the-end-of-usememo-react-compiler-in-nextjs-d9n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 18, 2026)
+### 2 Days Ago (August 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js](https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9)
 - [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)
 - [Readme](https://dev.to/iamry02/readme-1j7b)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 17, 2026)
-
-#### Dev.to JavaScript
-
-- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
-- [Fulmine.js: a faster drop-in Express 5 replacement on uWebSockets.js](https://dev.to/nigrosimone/fulminejs-a-faster-drop-in-express-5-replacement-on-uwebsocketsjs-3bnn)
-- [I turned a GitHub repo into a 3D city you can walk through](https://dev.to/lutfiemre/i-turned-a-github-repo-into-a-3d-city-you-can-walk-through-15do)
-
-#### Dev.to React
-
-- [What breaks if I delete this file? React tooling can't answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
-- [Authentication done right: JWT, sessions, and OAuth explained — Like a Marvel superhero assembling the team](https://dev.to/timevolt/authentication-done-right-jwt-sessions-and-oauth-explained-like-a-marvel-superhero-assembling-2ihf)
-- [The React Search Bug That Shows Old Results and How to Fix It](https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-20",
+    "formattedDate": "August 20, 2026",
+    "news": [
+      {
+        "title": "React 20 `ref` as a Prop: Migrating Away From `forwardRef` Across a Large Component Library",
+        "link": "https://dev.to/jsmanifest/react-20-ref-as-a-prop-migrating-away-from-forwardref-across-a-large-component-library-3jk0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built ChessIQ to Train Positional Chess Evaluation, Not Just Tactics",
+        "link": "https://dev.to/vyom_j_b0def99a225a400789/i-built-chessiq-to-train-positional-chess-evaluation-not-just-tactics-5bk3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why input.value = 'x' doesn't fill a React form (and what actually works)",
+        "link": "https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why input.value = 'x' doesn't fill a React form (and what actually works)",
+        "link": "https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need",
+        "link": "https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The End of useMemo: React Compiler in Next.js",
+        "link": "https://dev.to/iprajapatiparesh/the-end-of-usememo-react-compiler-in-nextjs-d9n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-19",
     "formattedDate": "August 19, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Readme",
         "link": "https://dev.to/iamry02/readme-1j7b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "formattedDate": "August 17, 2026",
-    "news": [
-      {
-        "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-        "link": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Fulmine.js: a faster drop-in Express 5 replacement on uWebSockets.js",
-        "link": "https://dev.to/nigrosimone/fulminejs-a-faster-drop-in-express-5-replacement-on-uwebsocketsjs-3bnn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I turned a GitHub repo into a 3D city you can walk through",
-        "link": "https://dev.to/lutfiemre/i-turned-a-github-repo-into-a-3d-city-you-can-walk-through-15do",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What breaks if I delete this file? React tooling can't answer that.",
-        "link": "https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Authentication done right: JWT, sessions, and OAuth explained — Like a Marvel superhero assembling the team",
-        "link": "https://dev.to/timevolt/authentication-done-right-jwt-sessions-and-oauth-explained-like-a-marvel-superhero-assembling-2ihf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The React Search Bug That Shows Old Results and How to Fix It",
-        "link": "https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7",
         "source": "Dev.to React"
       },
       {
