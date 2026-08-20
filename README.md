@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [React 20 `ref` as a Prop: Migrating Away From `forwardRef` Across a Large Component Library](https://dev.to/jsmanifest/react-20-ref-as-a-prop-migrating-away-from-forwardref-across-a-large-component-library-3jk0)
-- [I Built ChessIQ to Train Positional Chess Evaluation, Not Just Tactics](https://dev.to/vyom_j_b0def99a225a400789/i-built-chessiq-to-train-positional-chess-evaluation-not-just-tactics-5bk3)
-- [Why input.value = 'x' doesn't fill a React form (and what actually works)](https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7)
+- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+- [Building File Utilities That Run 100% in the Browser](https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4)
+- [Twitter API Guide: Search Tweets, Scrape Data, and Automate](https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn)
 
 #### Dev.to React
 
-- [Why input.value = 'x' doesn't fill a React form (and what actually works)](https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7)
-- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68)
-- [The End of useMemo: React Compiler in Next.js](https://dev.to/iprajapatiparesh/the-end-of-usememo-react-compiler-in-nextjs-d9n)
+- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
+- [Manage State like a Pro: Frontend Edition](https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 20, 2026",
     "news": [
       {
-        "title": "React 20 `ref` as a Prop: Migrating Away From `forwardRef` Across a Large Component Library",
-        "link": "https://dev.to/jsmanifest/react-20-ref-as-a-prop-migrating-away-from-forwardref-across-a-large-component-library-3jk0",
+        "title": "State Management in Front-end Web Development: Mutators",
+        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built ChessIQ to Train Positional Chess Evaluation, Not Just Tactics",
-        "link": "https://dev.to/vyom_j_b0def99a225a400789/i-built-chessiq-to-train-positional-chess-evaluation-not-just-tactics-5bk3",
+        "title": "Building File Utilities That Run 100% in the Browser",
+        "link": "https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why input.value = 'x' doesn't fill a React form (and what actually works)",
-        "link": "https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7",
+        "title": "Twitter API Guide: Search Tweets, Scrape Data, and Automate",
+        "link": "https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why input.value = 'x' doesn't fill a React form (and what actually works)",
-        "link": "https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7",
+        "title": "State Management in Front-end Web Development: Mutators",
+        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
         "source": "Dev.to React"
       },
       {
-        "title": "Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need",
-        "link": "https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68",
+        "title": "Blade, Inertia and Filament, on purpose",
+        "link": "https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn",
         "source": "Dev.to React"
       },
       {
-        "title": "The End of useMemo: React Compiler in Next.js",
-        "link": "https://dev.to/iprajapatiparesh/the-end-of-usememo-react-compiler-in-nextjs-d9n",
+        "title": "Manage State like a Pro: Frontend Edition",
+        "link": "https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0",
         "source": "Dev.to React"
       },
       {
