@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [A missing exchange rate is not an exchange rate of 1](https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474)
-- [Designing Functions That Compound](https://dev.to/codeatlas/designing-functions-that-compound-299f)
-- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+- [A rule-based Korean dialect converter with no LLM: eight guards that keep standard Korean intact](https://dev.to/_e37583b7079a729834958/a-rule-based-korean-dialect-converter-with-no-llm-eight-guards-that-keep-standard-korean-intact-216n)
+- [I Built a QR-Inspired Code That Uses 4 Colors, Stores More Data, and Supports Encryption](https://dev.to/akanshsirohi/i-built-a-qr-inspired-code-that-uses-4-colors-stores-more-data-and-supports-encryption-195d)
 
 #### Dev.to React
 
-- [Reliable Form Submissions: Dirty State, Fingerprints, and Idempotency](https://dev.to/mohammad_rostami_/meaningful-dirty-state-fingerprints-and-idempotency-three-details-that-make-form-submissions-36e0)
-- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
-- [Che framework scegliere oggi? Il paradosso: vince Svelte, ma “nessun framework” è tra i preferiti](https://dev.to/frontendfacile/che-framework-scegliere-oggi-il-paradosso-vince-svelte-ma-nessun-framework-e-tra-i-preferiti-16ll)
+- [This Week In React #294: React Compiler, TanStack, Next.js, GTKX, Effect | RN 0.87, Screens, RNGH, Worklets, Skia | Node, Astro, pnpm](https://dev.to/sebastienlorber/this-week-in-react-294-react-compiler-tanstack-nextjs-gtkx-effect-rn-087-screens-rngh-4p6c)
+- [Wait, Square Brackets Aren't Just for Arrays? — A Controlled Component Gotcha](https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m)
+- [Building PWAs: The Offline-First Awakening (Inspired by *The Matrix*)](https://dev.to/timevolt/building-pwas-the-offline-first-awakening-inspired-by-the-matrix-pke)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Designing Functions That Compound",
-        "link": "https://dev.to/codeatlas/designing-functions-that-compound-299f",
+        "title": "A rule-based Korean dialect converter with no LLM: eight guards that keep standard Korean intact",
+        "link": "https://dev.to/_e37583b7079a729834958/a-rule-based-korean-dialect-converter-with-no-llm-eight-guards-that-keep-standard-korean-intact-216n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "State Management in Front-end Web Development: Mutators",
-        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+        "title": "I Built a QR-Inspired Code That Uses 4 Colors, Stores More Data, and Supports Encryption",
+        "link": "https://dev.to/akanshsirohi/i-built-a-qr-inspired-code-that-uses-4-colors-stores-more-data-and-supports-encryption-195d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Reliable Form Submissions: Dirty State, Fingerprints, and Idempotency",
-        "link": "https://dev.to/mohammad_rostami_/meaningful-dirty-state-fingerprints-and-idempotency-three-details-that-make-form-submissions-36e0",
+        "title": "This Week In React #294: React Compiler, TanStack, Next.js, GTKX, Effect | RN 0.87, Screens, RNGH, Worklets, Skia | Node, Astro, pnpm",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-294-react-compiler-tanstack-nextjs-gtkx-effect-rn-087-screens-rngh-4p6c",
         "source": "Dev.to React"
       },
       {
-        "title": "State Management in Front-end Web Development: Mutators",
-        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+        "title": "Wait, Square Brackets Aren't Just for Arrays? — A Controlled Component Gotcha",
+        "link": "https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m",
         "source": "Dev.to React"
       },
       {
-        "title": "Che framework scegliere oggi? Il paradosso: vince Svelte, ma “nessun framework” è tra i preferiti",
-        "link": "https://dev.to/frontendfacile/che-framework-scegliere-oggi-il-paradosso-vince-svelte-ma-nessun-framework-e-tra-i-preferiti-16ll",
+        "title": "Building PWAs: The Offline-First Awakening (Inspired by *The Matrix*)",
+        "link": "https://dev.to/timevolt/building-pwas-the-offline-first-awakening-inspired-by-the-matrix-pke",
         "source": "Dev.to React"
       },
       {
