@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 20, 2026)
+### Today's Updates (August 21, 2026)
+
+#### Dev.to JavaScript
+
+- [A missing exchange rate is not an exchange rate of 1](https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474)
+- [Designing Functions That Compound](https://dev.to/codeatlas/designing-functions-that-compound-299f)
+- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+
+#### Dev.to React
+
+- [Reliable Form Submissions: Dirty State, Fingerprints, and Idempotency](https://dev.to/mohammad_rostami_/meaningful-dirty-state-fingerprints-and-idempotency-three-details-that-make-form-submissions-36e0)
+- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+- [Che framework scegliere oggi? Il paradosso: vince Svelte, ma “nessun framework” è tra i preferiti](https://dev.to/frontendfacile/che-framework-scegliere-oggi-il-paradosso-vince-svelte-ma-nessun-framework-e-tra-i-preferiti-16ll)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 19, 2026)
+### 2 Days Ago (August 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React useScrollLock Hook: Lock Body Scroll for Modals (2026)](https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach)
 - [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
 - [One line of JavaScript disabled server rendering on 190 pages](https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 18, 2026)
-
-#### Dev.to JavaScript
-
-- [The same Rust gave two different answers, and neither matched JavaScript](https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03)
-- [Four green Mondays that wrote nothing: a uuid above the first step](https://dev.to/marintkael/four-green-mondays-that-wrote-nothing-a-uuid-above-the-first-step-5haj)
-- [Building Suzi Chat: A retro MSN-style chat platform with mini-games](https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431)
-
-#### Dev.to React
-
-- [I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js](https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9)
-- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)
-- [Readme](https://dev.to/iamry02/readme-1j7b)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-21",
+    "formattedDate": "August 21, 2026",
+    "news": [
+      {
+        "title": "A missing exchange rate is not an exchange rate of 1",
+        "link": "https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Designing Functions That Compound",
+        "link": "https://dev.to/codeatlas/designing-functions-that-compound-299f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "State Management in Front-end Web Development: Mutators",
+        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Reliable Form Submissions: Dirty State, Fingerprints, and Idempotency",
+        "link": "https://dev.to/mohammad_rostami_/meaningful-dirty-state-fingerprints-and-idempotency-three-details-that-make-form-submissions-36e0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "State Management in Front-end Web Development: Mutators",
+        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Che framework scegliere oggi? Il paradosso: vince Svelte, ma “nessun framework” è tra i preferiti",
+        "link": "https://dev.to/frontendfacile/che-framework-scegliere-oggi-il-paradosso-vince-svelte-ma-nessun-framework-e-tra-i-preferiti-16ll",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-20",
     "formattedDate": "August 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "One line of JavaScript disabled server rendering on 190 pages",
         "link": "https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "formattedDate": "August 18, 2026",
-    "news": [
-      {
-        "title": "The same Rust gave two different answers, and neither matched JavaScript",
-        "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Four green Mondays that wrote nothing: a uuid above the first step",
-        "link": "https://dev.to/marintkael/four-green-mondays-that-wrote-nothing-a-uuid-above-the-first-step-5haj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Suzi Chat: A retro MSN-style chat platform with mini-games",
-        "link": "https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-        "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
-        "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Readme",
-        "link": "https://dev.to/iamry02/readme-1j7b",
         "source": "Dev.to React"
       },
       {
