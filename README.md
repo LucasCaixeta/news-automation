@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
-- [Two versions of pdf.js in one bundle: what SVG export actually costs](https://dev.to/kyungju_leebenjie_519b/two-versions-of-pdfjs-in-one-bundle-what-svg-export-actually-costs-56j2)
-- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript (Without Losing Your Sanity)](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
+- [Why I Built Amazon Store (So I Don't Have to Pick a Country)](https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95)
+- [Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator](https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on)
+- [Enforcing a style rule with a linter that actually fails the build](https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-a-style-rule-with-a-linter-that-actually-fails-the-build-lj5)
 
 #### Dev.to React
 
-- [Architectural Breakdown: Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho](https://dev.to/agenticstack/architectural-breakdown-ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-13fm)
-- [Are Custom Hooks Ruining Your React App Performance?](https://dev.to/nainikmehta/are-custom-hooks-ruining-your-react-app-performance-1o49)
-- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
+- [I Built a Password Strength Calculator That Never Sends Your Password Anywhere Here's the Entropy Math](https://dev.to/g_s_6bc9d3a878dd452010bec/i-built-a-password-strength-calculator-that-never-sends-your-password-anywhere-heres-the-entropy-59co)
+- [From React Basics to Production Next.js: The Complete Roadmap](https://dev.to/dixonaws/from-react-basics-to-production-nextjs-the-complete-roadmap-22i6)
+- [Building a Real-Time Market Microstructure Analyzer for Indian Equities](https://dev.to/aariiparekh3012/building-a-real-time-market-microstructure-analyzer-for-indian-equities-30j3)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 22, 2026",
     "news": [
       {
-        "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
-        "link": "https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d",
+        "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
+        "link": "https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Two versions of pdf.js in one bundle: what SVG export actually costs",
-        "link": "https://dev.to/kyungju_leebenjie_519b/two-versions-of-pdfjs-in-one-bundle-what-svg-export-actually-costs-56j2",
+        "title": "Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator",
+        "link": "https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript (Without Losing Your Sanity)",
-        "link": "https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885",
+        "title": "Enforcing a style rule with a linter that actually fails the build",
+        "link": "https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-a-style-rule-with-a-linter-that-actually-fails-the-build-lj5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Architectural Breakdown: Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho",
-        "link": "https://dev.to/agenticstack/architectural-breakdown-ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-13fm",
+        "title": "I Built a Password Strength Calculator That Never Sends Your Password Anywhere Here's the Entropy Math",
+        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-built-a-password-strength-calculator-that-never-sends-your-password-anywhere-heres-the-entropy-59co",
         "source": "Dev.to React"
       },
       {
-        "title": "Are Custom Hooks Ruining Your React App Performance?",
-        "link": "https://dev.to/nainikmehta/are-custom-hooks-ruining-your-react-app-performance-1o49",
+        "title": "From React Basics to Production Next.js: The Complete Roadmap",
+        "link": "https://dev.to/dixonaws/from-react-basics-to-production-nextjs-the-complete-roadmap-22i6",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide",
-        "link": "https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip",
+        "title": "Building a Real-Time Market Microstructure Analyzer for Indian Equities",
+        "link": "https://dev.to/aariiparekh3012/building-a-real-time-market-microstructure-analyzer-for-indian-equities-30j3",
         "source": "Dev.to React"
       },
       {
