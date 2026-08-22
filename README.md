@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 21, 2026)
+### Today's Updates (August 22, 2026)
+
+#### Dev.to JavaScript
+
+- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
+- [Two versions of pdf.js in one bundle: what SVG export actually costs](https://dev.to/kyungju_leebenjie_519b/two-versions-of-pdfjs-in-one-bundle-what-svg-export-actually-costs-56j2)
+- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript (Without Losing Your Sanity)](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
+
+#### Dev.to React
+
+- [Architectural Breakdown: Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho](https://dev.to/agenticstack/architectural-breakdown-ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-13fm)
+- [Are Custom Hooks Ruining Your React App Performance?](https://dev.to/nainikmehta/are-custom-hooks-ruining-your-react-app-performance-1o49)
+- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 20, 2026)
+### 2 Days Ago (August 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
 - [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
 - [Manage State like a Pro: Frontend Edition](https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 19, 2026)
-
-#### Dev.to JavaScript
-
-- [React useScrollLock Hook: Lock Body Scroll for Modals (2026)](https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach)
-- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
-- [Add Google Authenticator 2FA to your Node app in two steps](https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n)
-
-#### Dev.to React
-
-- [React useScrollLock Hook: Lock Body Scroll for Modals (2026)](https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach)
-- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
-- [One line of JavaScript disabled server rendering on 190 pages](https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-22",
+    "formattedDate": "August 22, 2026",
+    "news": [
+      {
+        "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
+        "link": "https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Two versions of pdf.js in one bundle: what SVG export actually costs",
+        "link": "https://dev.to/kyungju_leebenjie_519b/two-versions-of-pdfjs-in-one-bundle-what-svg-export-actually-costs-56j2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript (Without Losing Your Sanity)",
+        "link": "https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Architectural Breakdown: Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho",
+        "link": "https://dev.to/agenticstack/architectural-breakdown-ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-13fm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Are Custom Hooks Ruining Your React App Performance?",
+        "link": "https://dev.to/nainikmehta/are-custom-hooks-ruining-your-react-app-performance-1o49",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide",
+        "link": "https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-21",
     "formattedDate": "August 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Manage State like a Pro: Frontend Edition",
         "link": "https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "formattedDate": "August 19, 2026",
-    "news": [
-      {
-        "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
-        "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts",
-        "link": "https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Add Google Authenticator 2FA to your Node app in two steps",
-        "link": "https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
-        "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts",
-        "link": "https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "One line of JavaScript disabled server rendering on 190 pages",
-        "link": "https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb",
         "source": "Dev.to React"
       },
       {
