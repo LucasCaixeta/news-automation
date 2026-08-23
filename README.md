@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 22, 2026)
+### Today's Updates (August 23, 2026)
+
+#### Dev.to JavaScript
+
+- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
+- [I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway](https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g)
+- [One conversation, four cards: the dashboard bug with three root causes stacked on top of each other](https://dev.to/bryanw/one-conversation-four-cards-the-dashboard-bug-with-three-root-causes-stacked-on-top-of-each-other-294p)
+
+#### Dev.to React
+
+- [Building a Live, User-Controlled Canvas Background System That Doesn't Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7)
+- [Someone forked my React component instead of opening an issue](https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37)
+- [More Agent Autonomy Needs Stronger Guardrails: React 19 Linting on ESLint 10](https://dev.to/viglovikov/i-needed-react-linting-on-eslint-10-so-i-built-a-react-19-continuation-39id)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 21, 2026)
+### 2 Days Ago (August 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [This Week In React #294: React Compiler, TanStack, Next.js, GTKX, Effect | RN 0.87, Screens, RNGH, Worklets, Skia | Node, Astro, pnpm](https://dev.to/sebastienlorber/this-week-in-react-294-react-compiler-tanstack-nextjs-gtkx-effect-rn-087-screens-rngh-4p6c)
 - [Wait, Square Brackets Aren't Just for Arrays? — A Controlled Component Gotcha](https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m)
 - [Building PWAs: The Offline-First Awakening (Inspired by *The Matrix*)](https://dev.to/timevolt/building-pwas-the-offline-first-awakening-inspired-by-the-matrix-pke)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 20, 2026)
-
-#### Dev.to JavaScript
-
-- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
-- [Building File Utilities That Run 100% in the Browser](https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4)
-- [Twitter API Guide: Search Tweets, Scrape Data, and Automate](https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn)
-
-#### Dev.to React
-
-- [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
-- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
-- [Manage State like a Pro: Frontend Edition](https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-23",
+    "formattedDate": "August 23, 2026",
+    "news": [
+      {
+        "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
+        "link": "https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
+        "link": "https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "One conversation, four cards: the dashboard bug with three root causes stacked on top of each other",
+        "link": "https://dev.to/bryanw/one-conversation-four-cards-the-dashboard-bug-with-three-root-causes-stacked-on-top-of-each-other-294p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Live, User-Controlled Canvas Background System That Doesn't Kill Low-End Phones",
+        "link": "https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Someone forked my React component instead of opening an issue",
+        "link": "https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "More Agent Autonomy Needs Stronger Guardrails: React 19 Linting on ESLint 10",
+        "link": "https://dev.to/viglovikov/i-needed-react-linting-on-eslint-10-so-i-built-a-react-19-continuation-39id",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-22",
     "formattedDate": "August 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building PWAs: The Offline-First Awakening (Inspired by *The Matrix*)",
         "link": "https://dev.to/timevolt/building-pwas-the-offline-first-awakening-inspired-by-the-matrix-pke",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "formattedDate": "August 20, 2026",
-    "news": [
-      {
-        "title": "State Management in Front-end Web Development: Mutators",
-        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building File Utilities That Run 100% in the Browser",
-        "link": "https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Twitter API Guide: Search Tweets, Scrape Data, and Automate",
-        "link": "https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "State Management in Front-end Web Development: Mutators",
-        "link": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blade, Inertia and Filament, on purpose",
-        "link": "https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Manage State like a Pro: Frontend Edition",
-        "link": "https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0",
         "source": "Dev.to React"
       },
       {
