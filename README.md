@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
-- [I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway](https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g)
-- [One conversation, four cards: the dashboard bug with three root causes stacked on top of each other](https://dev.to/bryanw/one-conversation-four-cards-the-dashboard-bug-with-three-root-causes-stacked-on-top-of-each-other-294p)
+- [Making webpack's Docs Update Themselves | GSoC 2026, wrapped](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn)
+- [GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b)
+- [The test passed because it was reading our own input](https://dev.to/whateverneveranywhere/the-test-passed-because-it-was-reading-our-own-input-458o)
 
 #### Dev.to React
 
-- [Building a Live, User-Controlled Canvas Background System That Doesn't Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7)
-- [Someone forked my React component instead of opening an issue](https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37)
-- [More Agent Autonomy Needs Stronger Guardrails: React 19 Linting on ESLint 10](https://dev.to/viglovikov/i-needed-react-linting-on-eslint-10-so-i-built-a-react-19-continuation-39id)
+- [Why I Built an Open-Source, Zero-Cloud Period Tracker with React 19 & Capacitor](https://dev.to/aradar46/why-i-built-an-open-source-zero-cloud-period-tracker-with-react-19-capacitor-hmb)
+- [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
+- [Connecting a React Dashboard to a Spring Boot Backend: Lessons from Building CropCare AI](https://dev.to/dubaguntla_charansai_e70/connecting-a-react-dashboard-to-a-spring-boot-backend-lessons-from-building-cropcare-ai-5708)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 23, 2026",
     "news": [
       {
-        "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
-        "link": "https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d",
+        "title": "Making webpack's Docs Update Themselves | GSoC 2026, wrapped",
+        "link": "https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
-        "link": "https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g",
+        "title": "GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫",
+        "link": "https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "One conversation, four cards: the dashboard bug with three root causes stacked on top of each other",
-        "link": "https://dev.to/bryanw/one-conversation-four-cards-the-dashboard-bug-with-three-root-causes-stacked-on-top-of-each-other-294p",
+        "title": "The test passed because it was reading our own input",
+        "link": "https://dev.to/whateverneveranywhere/the-test-passed-because-it-was-reading-our-own-input-458o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Live, User-Controlled Canvas Background System That Doesn't Kill Low-End Phones",
-        "link": "https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7",
+        "title": "Why I Built an Open-Source, Zero-Cloud Period Tracker with React 19 & Capacitor",
+        "link": "https://dev.to/aradar46/why-i-built-an-open-source-zero-cloud-period-tracker-with-react-19-capacitor-hmb",
         "source": "Dev.to React"
       },
       {
-        "title": "Someone forked my React component instead of opening an issue",
-        "link": "https://dev.to/piro0919/someone-forked-my-react-component-instead-of-opening-an-issue-3d37",
+        "title": "App-like UX in Next.js 16.3",
+        "link": "https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh",
         "source": "Dev.to React"
       },
       {
-        "title": "More Agent Autonomy Needs Stronger Guardrails: React 19 Linting on ESLint 10",
-        "link": "https://dev.to/viglovikov/i-needed-react-linting-on-eslint-10-so-i-built-a-react-19-continuation-39id",
+        "title": "Connecting a React Dashboard to a Spring Boot Backend: Lessons from Building CropCare AI",
+        "link": "https://dev.to/dubaguntla_charansai_e70/connecting-a-react-dashboard-to-a-spring-boot-backend-lessons-from-building-cropcare-ai-5708",
         "source": "Dev.to React"
       },
       {
