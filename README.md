@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 23, 2026)
+### Today's Updates (August 24, 2026)
+
+#### Dev.to JavaScript
+
+- [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf)
+- [Webhooks in the Next.js App Router: Field Notes on Raw Bodies, Signature Verification, and Returning 200 Before the Work](https://dev.to/ahmed_mahmoud360/webhooks-in-the-nextjs-app-router-field-notes-on-raw-bodies-signature-verification-and-1bc6)
+- [Rendering MP4 travel videos entirely in the browser with WebCodecs](https://dev.to/xiazai77/rendering-mp4-travel-videos-entirely-in-the-browser-with-webcodecs-4cpl)
+
+#### Dev.to React
+
+- [Building Instant, Correct Retained Root Tabs in React Native](https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77)
+- [React 19 Compiler: The End of Manual Memoization?](https://dev.to/nainikmehta/react-19-compiler-the-end-of-manual-memoization-790)
+- [The Evolution of Web Forms — Part 3](https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 22, 2026)
+### 2 Days Ago (August 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built a Password Strength Calculator That Never Sends Your Password Anywhere Here's the Entropy Math](https://dev.to/g_s_6bc9d3a878dd452010bec/i-built-a-password-strength-calculator-that-never-sends-your-password-anywhere-heres-the-entropy-59co)
 - [From React Basics to Production Next.js: The Complete Roadmap](https://dev.to/dixonaws/from-react-basics-to-production-nextjs-the-complete-roadmap-22i6)
 - [Building a Real-Time Market Microstructure Analyzer for Indian Equities](https://dev.to/aariiparekh3012/building-a-real-time-market-microstructure-analyzer-for-indian-equities-30j3)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 21, 2026)
-
-#### Dev.to JavaScript
-
-- [A missing exchange rate is not an exchange rate of 1](https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474)
-- [A rule-based Korean dialect converter with no LLM: eight guards that keep standard Korean intact](https://dev.to/_e37583b7079a729834958/a-rule-based-korean-dialect-converter-with-no-llm-eight-guards-that-keep-standard-korean-intact-216n)
-- [I Built a QR-Inspired Code That Uses 4 Colors, Stores More Data, and Supports Encryption](https://dev.to/akanshsirohi/i-built-a-qr-inspired-code-that-uses-4-colors-stores-more-data-and-supports-encryption-195d)
-
-#### Dev.to React
-
-- [This Week In React #294: React Compiler, TanStack, Next.js, GTKX, Effect | RN 0.87, Screens, RNGH, Worklets, Skia | Node, Astro, pnpm](https://dev.to/sebastienlorber/this-week-in-react-294-react-compiler-tanstack-nextjs-gtkx-effect-rn-087-screens-rngh-4p6c)
-- [Wait, Square Brackets Aren't Just for Arrays? — A Controlled Component Gotcha](https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m)
-- [Building PWAs: The Offline-First Awakening (Inspired by *The Matrix*)](https://dev.to/timevolt/building-pwas-the-offline-first-awakening-inspired-by-the-matrix-pke)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-24",
+    "formattedDate": "August 24, 2026",
+    "news": [
+      {
+        "title": "JavaScript Proxy and Reflect: The Complete Guide",
+        "link": "https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Webhooks in the Next.js App Router: Field Notes on Raw Bodies, Signature Verification, and Returning 200 Before the Work",
+        "link": "https://dev.to/ahmed_mahmoud360/webhooks-in-the-nextjs-app-router-field-notes-on-raw-bodies-signature-verification-and-1bc6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Rendering MP4 travel videos entirely in the browser with WebCodecs",
+        "link": "https://dev.to/xiazai77/rendering-mp4-travel-videos-entirely-in-the-browser-with-webcodecs-4cpl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Instant, Correct Retained Root Tabs in React Native",
+        "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 19 Compiler: The End of Manual Memoization?",
+        "link": "https://dev.to/nainikmehta/react-19-compiler-the-end-of-manual-memoization-790",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Evolution of Web Forms — Part 3",
+        "link": "https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-23",
     "formattedDate": "August 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a Real-Time Market Microstructure Analyzer for Indian Equities",
         "link": "https://dev.to/aariiparekh3012/building-a-real-time-market-microstructure-analyzer-for-indian-equities-30j3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-21",
-    "formattedDate": "August 21, 2026",
-    "news": [
-      {
-        "title": "A missing exchange rate is not an exchange rate of 1",
-        "link": "https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A rule-based Korean dialect converter with no LLM: eight guards that keep standard Korean intact",
-        "link": "https://dev.to/_e37583b7079a729834958/a-rule-based-korean-dialect-converter-with-no-llm-eight-guards-that-keep-standard-korean-intact-216n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a QR-Inspired Code That Uses 4 Colors, Stores More Data, and Supports Encryption",
-        "link": "https://dev.to/akanshsirohi/i-built-a-qr-inspired-code-that-uses-4-colors-stores-more-data-and-supports-encryption-195d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "This Week In React #294: React Compiler, TanStack, Next.js, GTKX, Effect | RN 0.87, Screens, RNGH, Worklets, Skia | Node, Astro, pnpm",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-294-react-compiler-tanstack-nextjs-gtkx-effect-rn-087-screens-rngh-4p6c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Wait, Square Brackets Aren't Just for Arrays? — A Controlled Component Gotcha",
-        "link": "https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building PWAs: The Offline-First Awakening (Inspired by *The Matrix*)",
-        "link": "https://dev.to/timevolt/building-pwas-the-offline-first-awakening-inspired-by-the-matrix-pke",
         "source": "Dev.to React"
       },
       {
