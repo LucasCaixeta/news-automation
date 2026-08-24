@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖](https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b)
+- [Vue Reactivity Explained: ref vs reactive (+ Cheat Sheet)](https://dev.to/parsajiravand/vue-reactivity-explained-ref-vs-reactive-cheat-sheet-4nij)
 - [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf)
-- [Webhooks in the Next.js App Router: Field Notes on Raw Bodies, Signature Verification, and Returning 200 Before the Work](https://dev.to/ahmed_mahmoud360/webhooks-in-the-nextjs-app-router-field-notes-on-raw-bodies-signature-verification-and-1bc6)
-- [Rendering MP4 travel videos entirely in the browser with WebCodecs](https://dev.to/xiazai77/rendering-mp4-travel-videos-entirely-in-the-browser-with-webcodecs-4cpl)
 
 #### Dev.to React
 
-- [Building Instant, Correct Retained Root Tabs in React Native](https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77)
-- [React 19 Compiler: The End of Manual Memoization?](https://dev.to/nainikmehta/react-19-compiler-the-end-of-manual-memoization-790)
-- [The Evolution of Web Forms — Part 3](https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf)
+- [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
+- [I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas](https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg)
+- [My 4KB React package was installing 116 dependencies. Here's what I found when I audited it.](https://dev.to/saadahmad/my-4kb-react-package-was-installing-116-dependencies-heres-what-i-found-when-i-audited-it-47ig)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 24, 2026",
     "news": [
       {
+        "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
+        "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vue Reactivity Explained: ref vs reactive (+ Cheat Sheet)",
+        "link": "https://dev.to/parsajiravand/vue-reactivity-explained-ref-vs-reactive-cheat-sheet-4nij",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "JavaScript Proxy and Reflect: The Complete Guide",
         "link": "https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Webhooks in the Next.js App Router: Field Notes on Raw Bodies, Signature Verification, and Returning 200 Before the Work",
-        "link": "https://dev.to/ahmed_mahmoud360/webhooks-in-the-nextjs-app-router-field-notes-on-raw-bodies-signature-verification-and-1bc6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Rendering MP4 travel videos entirely in the browser with WebCodecs",
-        "link": "https://dev.to/xiazai77/rendering-mp4-travel-videos-entirely-in-the-browser-with-webcodecs-4cpl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Instant, Correct Retained Root Tabs in React Native",
-        "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
+        "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
+        "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
         "source": "Dev.to React"
       },
       {
-        "title": "React 19 Compiler: The End of Manual Memoization?",
-        "link": "https://dev.to/nainikmehta/react-19-compiler-the-end-of-manual-memoization-790",
+        "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
+        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
         "source": "Dev.to React"
       },
       {
-        "title": "The Evolution of Web Forms — Part 3",
-        "link": "https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf",
+        "title": "My 4KB React package was installing 116 dependencies. Here's what I found when I audited it.",
+        "link": "https://dev.to/saadahmad/my-4kb-react-package-was-installing-116-dependencies-heres-what-i-found-when-i-audited-it-47ig",
         "source": "Dev.to React"
       },
       {
