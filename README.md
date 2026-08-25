@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Building a Base64 Tool That Actually Handles UTF-8 (Without Losing Your Mind)](https://dev.to/ggwork/building-a-base64-tool-that-actually-handles-utf-8-without-losing-your-mind-d78)
-- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
-- [CSS Animations Can't Pause. The Web Animations API Can.](https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg)
+- [How I Built a Bulk Image Converter That Runs Entirely in Your Browser](https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0)
+- [Introducing BermudoGreen.js: A Free, Zero-Dependency Excel Spreadsheet & Formula Engine for Vanilla JS](https://dev.to/alexjrb0226a11y/introducing-bermudogreenjs-a-free-zero-dependency-excel-spreadsheet-formula-engine-for-vanilla-47c)
+- [7 Engineering Lessons From Building File Processing Directly in the Browser](https://dev.to/soralabs/7-engineering-lessons-from-building-file-processing-directly-in-the-browser-571d)
 
 #### Dev.to React
 
 - [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
-- [I open-sourced a UI kit — then went looking for everything I got wrong about it](https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72)
-- [React WebSocket Performance: Buffer, Don't Render Every Msg](https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4)
+- [React interview questions seniors actually get asked](https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b)
+- [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 25, 2026",
     "news": [
       {
-        "title": "Building a Base64 Tool That Actually Handles UTF-8 (Without Losing Your Mind)",
-        "link": "https://dev.to/ggwork/building-a-base64-tool-that-actually-handles-utf-8-without-losing-your-mind-d78",
+        "title": "How I Built a Bulk Image Converter That Runs Entirely in Your Browser",
+        "link": "https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What It Takes to Run an AI Video Editor Locally in the Browser",
-        "link": "https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g",
+        "title": "Introducing BermudoGreen.js: A Free, Zero-Dependency Excel Spreadsheet & Formula Engine for Vanilla JS",
+        "link": "https://dev.to/alexjrb0226a11y/introducing-bermudogreenjs-a-free-zero-dependency-excel-spreadsheet-formula-engine-for-vanilla-47c",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "CSS Animations Can't Pause. The Web Animations API Can.",
-        "link": "https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg",
+        "title": "7 Engineering Lessons From Building File Processing Directly in the Browser",
+        "link": "https://dev.to/soralabs/7-engineering-lessons-from-building-file-processing-directly-in-the-browser-571d",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
-        "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
+        "title": "React interview questions seniors actually get asked",
+        "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
         "source": "Dev.to React"
       },
       {
-        "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
-        "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+        "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
+        "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
         "source": "Dev.to React"
       },
       {
