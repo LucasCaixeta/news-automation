@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 24, 2026)
+### Today's Updates (August 25, 2026)
+
+#### Dev.to JavaScript
+
+- [Building a Base64 Tool That Actually Handles UTF-8 (Without Losing Your Mind)](https://dev.to/ggwork/building-a-base64-tool-that-actually-handles-utf-8-without-losing-your-mind-d78)
+- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
+- [CSS Animations Can't Pause. The Web Animations API Can.](https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg)
+
+#### Dev.to React
+
+- [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
+- [I open-sourced a UI kit — then went looking for everything I got wrong about it](https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72)
+- [React WebSocket Performance: Buffer, Don't Render Every Msg](https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 23, 2026)
+### 2 Days Ago (August 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why I Built an Open-Source, Zero-Cloud Period Tracker with React 19 & Capacitor](https://dev.to/aradar46/why-i-built-an-open-source-zero-cloud-period-tracker-with-react-19-capacitor-hmb)
 - [App-like UX in Next.js 16.3](https://dev.to/erfanebrahimnia/app-like-ux-in-nextjs-163-4onh)
 - [Connecting a React Dashboard to a Spring Boot Backend: Lessons from Building CropCare AI](https://dev.to/dubaguntla_charansai_e70/connecting-a-react-dashboard-to-a-spring-boot-backend-lessons-from-building-cropcare-ai-5708)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 22, 2026)
-
-#### Dev.to JavaScript
-
-- [Why I Built Amazon Store (So I Don't Have to Pick a Country)](https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95)
-- [Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator](https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on)
-- [Enforcing a style rule with a linter that actually fails the build](https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-a-style-rule-with-a-linter-that-actually-fails-the-build-lj5)
-
-#### Dev.to React
-
-- [I Built a Password Strength Calculator That Never Sends Your Password Anywhere Here's the Entropy Math](https://dev.to/g_s_6bc9d3a878dd452010bec/i-built-a-password-strength-calculator-that-never-sends-your-password-anywhere-heres-the-entropy-59co)
-- [From React Basics to Production Next.js: The Complete Roadmap](https://dev.to/dixonaws/from-react-basics-to-production-nextjs-the-complete-roadmap-22i6)
-- [Building a Real-Time Market Microstructure Analyzer for Indian Equities](https://dev.to/aariiparekh3012/building-a-real-time-market-microstructure-analyzer-for-indian-equities-30j3)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-25",
+    "formattedDate": "August 25, 2026",
+    "news": [
+      {
+        "title": "Building a Base64 Tool That Actually Handles UTF-8 (Without Losing Your Mind)",
+        "link": "https://dev.to/ggwork/building-a-base64-tool-that-actually-handles-utf-8-without-losing-your-mind-d78",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What It Takes to Run an AI Video Editor Locally in the Browser",
+        "link": "https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "CSS Animations Can't Pause. The Web Animations API Can.",
+        "link": "https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
+        "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
+        "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
+        "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-24",
     "formattedDate": "August 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Connecting a React Dashboard to a Spring Boot Backend: Lessons from Building CropCare AI",
         "link": "https://dev.to/dubaguntla_charansai_e70/connecting-a-react-dashboard-to-a-spring-boot-backend-lessons-from-building-cropcare-ai-5708",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "formattedDate": "August 22, 2026",
-    "news": [
-      {
-        "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
-        "link": "https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your birth time is lying to you: a time-zone rabbit hole in a Chinese astrology calculator",
-        "link": "https://dev.to/shanni/your-birth-time-is-lying-to-you-a-time-zone-rabbit-hole-in-a-chinese-astrology-calculator-46on",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Enforcing a style rule with a linter that actually fails the build",
-        "link": "https://dev.to/takahiro_hashito_a1f3f0dc/enforcing-a-style-rule-with-a-linter-that-actually-fails-the-build-lj5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Password Strength Calculator That Never Sends Your Password Anywhere Here's the Entropy Math",
-        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-built-a-password-strength-calculator-that-never-sends-your-password-anywhere-heres-the-entropy-59co",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "From React Basics to Production Next.js: The Complete Roadmap",
-        "link": "https://dev.to/dixonaws/from-react-basics-to-production-nextjs-the-complete-roadmap-22i6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a Real-Time Market Microstructure Analyzer for Indian Equities",
-        "link": "https://dev.to/aariiparekh3012/building-a-real-time-market-microstructure-analyzer-for-indian-equities-30j3",
         "source": "Dev.to React"
       },
       {
