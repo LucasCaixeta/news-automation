@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Portfolio Update, I Guess](https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3)
-- [TypeScript Path Aliases in 2026: `tsconfig` Paths, Bundler Resolution, and Why They Still Break at Runtime](https://dev.to/jsmanifest/typescript-path-aliases-in-2026-tsconfig-paths-bundler-resolution-and-why-they-still-break-at-47oe)
-- [Delete Your Auto-Resize Textarea JS. CSS Does It Now.](https://dev.to/parsajiravand/delete-your-auto-resize-textarea-js-css-does-it-now-3o5c)
+- [Run AI in the Browser: Client-Side Background Removal and Feature Extraction with ONNX Runtime Web](https://dev.to/programmingcentral/run-ai-in-the-browser-client-side-background-removal-and-feature-extraction-with-onnx-runtime-web-51p4)
+- [Build a Restaurant Website in HTML with a Menu That Updates from Google Sheets](https://dev.to/allenarduino/build-a-restaurant-website-in-html-with-a-menu-that-updates-from-google-sheets-5hic)
+- [Vanilla JavaScript — Why It Still Matters in the Age of React and Next.js](https://dev.to/abumotlaq/vanilla-javascript-why-it-still-matters-in-the-age-of-react-and-nextjs-2a7o)
 
 #### Dev.to React
 
-- [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
-- [Trust the React Compiler — stop premature useMemo](https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec)
-- [Show Dev: I built a 3D circuit simulator in Three.js](https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj)
+- [Building Software for Places Where the Internet Doesn't Work](https://dev.to/parvejshah/building-software-for-places-where-the-internet-doesnt-work-43ec)
+- [The Surprising Complexity of Injecting a UI into Someone Else's Web Page](https://dev.to/parvejshah/the-surprising-complexity-of-injecting-a-ui-into-someone-elses-web-page-32p)
+- [Rendering Math Formulas Without Making Students Wait (Server-Side KaTeX in RSC)](https://dev.to/parvejshah/rendering-math-formulas-without-making-students-wait-server-side-katex-in-rsc-26ik)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 26, 2026",
     "news": [
       {
-        "title": "Portfolio Update, I Guess",
-        "link": "https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3",
+        "title": "Run AI in the Browser: Client-Side Background Removal and Feature Extraction with ONNX Runtime Web",
+        "link": "https://dev.to/programmingcentral/run-ai-in-the-browser-client-side-background-removal-and-feature-extraction-with-onnx-runtime-web-51p4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript Path Aliases in 2026: `tsconfig` Paths, Bundler Resolution, and Why They Still Break at Runtime",
-        "link": "https://dev.to/jsmanifest/typescript-path-aliases-in-2026-tsconfig-paths-bundler-resolution-and-why-they-still-break-at-47oe",
+        "title": "Build a Restaurant Website in HTML with a Menu That Updates from Google Sheets",
+        "link": "https://dev.to/allenarduino/build-a-restaurant-website-in-html-with-a-menu-that-updates-from-google-sheets-5hic",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Delete Your Auto-Resize Textarea JS. CSS Does It Now.",
-        "link": "https://dev.to/parsajiravand/delete-your-auto-resize-textarea-js-css-does-it-now-3o5c",
+        "title": "Vanilla JavaScript — Why It Still Matters in the Age of React and Next.js",
+        "link": "https://dev.to/abumotlaq/vanilla-javascript-why-it-still-matters-in-the-age-of-react-and-nextjs-2a7o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
-        "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
+        "title": "Building Software for Places Where the Internet Doesn't Work",
+        "link": "https://dev.to/parvejshah/building-software-for-places-where-the-internet-doesnt-work-43ec",
         "source": "Dev.to React"
       },
       {
-        "title": "Trust the React Compiler — stop premature useMemo",
-        "link": "https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec",
+        "title": "The Surprising Complexity of Injecting a UI into Someone Else's Web Page",
+        "link": "https://dev.to/parvejshah/the-surprising-complexity-of-injecting-a-ui-into-someone-elses-web-page-32p",
         "source": "Dev.to React"
       },
       {
-        "title": "Show Dev: I built a 3D circuit simulator in Three.js",
-        "link": "https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj",
+        "title": "Rendering Math Formulas Without Making Students Wait (Server-Side KaTeX in RSC)",
+        "link": "https://dev.to/parvejshah/rendering-math-formulas-without-making-students-wait-server-side-katex-in-rsc-26ik",
         "source": "Dev.to React"
       },
       {
