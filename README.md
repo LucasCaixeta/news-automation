@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 26, 2026)
+### Today's Updates (August 27, 2026)
+
+#### Dev.to JavaScript
+
+- [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
+- [Durable Objects without Cloudflare, on the database you already run](https://dev.to/cardmagic/durable-objects-without-cloudflare-on-the-database-you-already-run-71)
+- [How to manage state in URL search params, cookies and localStorage without the glue code](https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5)
+
+#### Dev.to React
+
+- [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
+- [Why Every SaaS Looks the Same (And How I Built a Hand-Drawn UI Library With SVG Filters)](https://dev.to/viditx/why-every-saas-looks-the-same-and-how-i-built-a-hand-drawn-ui-library-with-svg-filters-53l5)
+- [How to manage state in URL search params, cookies and localStorage without the glue code](https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 25, 2026)
+### 2 Days Ago (August 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
 - [React interview questions seniors actually get asked](https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b)
 - [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 24, 2026)
-
-#### Dev.to JavaScript
-
-- [How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖](https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b)
-- [Vue Reactivity Explained: ref vs reactive (+ Cheat Sheet)](https://dev.to/parsajiravand/vue-reactivity-explained-ref-vs-reactive-cheat-sheet-4nij)
-- [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf)
-
-#### Dev.to React
-
-- [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
-- [I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas](https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg)
-- [My 4KB React package was installing 116 dependencies. Here's what I found when I audited it.](https://dev.to/saadahmad/my-4kb-react-package-was-installing-116-dependencies-heres-what-i-found-when-i-audited-it-47ig)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-27",
+    "formattedDate": "August 27, 2026",
+    "news": [
+      {
+        "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind them",
+        "link": "https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Durable Objects without Cloudflare, on the database you already run",
+        "link": "https://dev.to/cardmagic/durable-objects-without-cloudflare-on-the-database-you-already-run-71",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to manage state in URL search params, cookies and localStorage without the glue code",
+        "link": "https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Nobody Argued For Your Stack",
+        "link": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Every SaaS Looks the Same (And How I Built a Hand-Drawn UI Library With SVG Filters)",
+        "link": "https://dev.to/viditx/why-every-saas-looks-the-same-and-how-i-built-a-hand-drawn-ui-library-with-svg-filters-53l5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to manage state in URL search params, cookies and localStorage without the glue code",
+        "link": "https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-26",
     "formattedDate": "August 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
         "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "formattedDate": "August 24, 2026",
-    "news": [
-      {
-        "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
-        "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vue Reactivity Explained: ref vs reactive (+ Cheat Sheet)",
-        "link": "https://dev.to/parsajiravand/vue-reactivity-explained-ref-vs-reactive-cheat-sheet-4nij",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript Proxy and Reflect: The Complete Guide",
-        "link": "https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
-        "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
-        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My 4KB React package was installing 116 dependencies. Here's what I found when I audited it.",
-        "link": "https://dev.to/saadahmad/my-4kb-react-package-was-installing-116-dependencies-heres-what-i-found-when-i-audited-it-47ig",
         "source": "Dev.to React"
       },
       {
