@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 27, 2026)
+### Today's Updates (August 28, 2026)
+
+#### Dev.to JavaScript
+
+- [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
+- [You're truncating bios with `.slice()`. `Intl.Segmenter` knows where the emoji actually end.](https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo)
+- [I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.](https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi)
+
+#### Dev.to React
+
+- [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
+- [useFieldArray is not updating across steps — and why it can't](https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm)
+- [Build a Strapi v5 form with React without using a hosted widget](https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 26, 2026)
+### 2 Days Ago (August 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building Software for Places Where the Internet Doesn't Work](https://dev.to/parvejshah/building-software-for-places-where-the-internet-doesnt-work-43ec)
 - [The Surprising Complexity of Injecting a UI into Someone Else's Web Page](https://dev.to/parvejshah/the-surprising-complexity-of-injecting-a-ui-into-someone-elses-web-page-32p)
 - [Rendering Math Formulas Without Making Students Wait (Server-Side KaTeX in RSC)](https://dev.to/parvejshah/rendering-math-formulas-without-making-students-wait-server-side-katex-in-rsc-26ik)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 25, 2026)
-
-#### Dev.to JavaScript
-
-- [How I Built a Bulk Image Converter That Runs Entirely in Your Browser](https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0)
-- [Introducing BermudoGreen.js: A Free, Zero-Dependency Excel Spreadsheet & Formula Engine for Vanilla JS](https://dev.to/alexjrb0226a11y/introducing-bermudogreenjs-a-free-zero-dependency-excel-spreadsheet-formula-engine-for-vanilla-47c)
-- [7 Engineering Lessons From Building File Processing Directly in the Browser](https://dev.to/soralabs/7-engineering-lessons-from-building-file-processing-directly-in-the-browser-571d)
-
-#### Dev.to React
-
-- [I Used React DataGrid to Build a Real Space Mission Explorer](https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b)
-- [React interview questions seniors actually get asked](https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b)
-- [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-28",
+    "formattedDate": "August 28, 2026",
+    "news": [
+      {
+        "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind them",
+        "link": "https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You're truncating bios with `.slice()`. `Intl.Segmenter` knows where the emoji actually end.",
+        "link": "https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.",
+        "link": "https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Nobody Argued For Your Stack",
+        "link": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "useFieldArray is not updating across steps — and why it can't",
+        "link": "https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Build a Strapi v5 form with React without using a hosted widget",
+        "link": "https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-27",
     "formattedDate": "August 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Rendering Math Formulas Without Making Students Wait (Server-Side KaTeX in RSC)",
         "link": "https://dev.to/parvejshah/rendering-math-formulas-without-making-students-wait-server-side-katex-in-rsc-26ik",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "formattedDate": "August 25, 2026",
-    "news": [
-      {
-        "title": "How I Built a Bulk Image Converter That Runs Entirely in Your Browser",
-        "link": "https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Introducing BermudoGreen.js: A Free, Zero-Dependency Excel Spreadsheet & Formula Engine for Vanilla JS",
-        "link": "https://dev.to/alexjrb0226a11y/introducing-bermudogreenjs-a-free-zero-dependency-excel-spreadsheet-formula-engine-for-vanilla-47c",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "7 Engineering Lessons From Building File Processing Directly in the Browser",
-        "link": "https://dev.to/soralabs/7-engineering-lessons-from-building-file-processing-directly-in-the-browser-571d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
-        "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React interview questions seniors actually get asked",
-        "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
-        "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
         "source": "Dev.to React"
       },
       {
