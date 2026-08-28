@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
-- [You're truncating bios with `.slice()`. `Intl.Segmenter` knows where the emoji actually end.](https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo)
-- [I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.](https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi)
+- [The bug that made my best-dates feature return nothing at 31 people](https://dev.to/janwan2003/the-bug-that-made-my-best-dates-feature-return-nothing-at-31-people-2e4a)
+- [Update: Why non-technical clients hate client portals (and what actually worked)](https://dev.to/aldobarbosa/update-why-non-technical-clients-hate-client-portals-and-what-actually-worked-i2h)
 
 #### Dev.to React
 
 - [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
-- [useFieldArray is not updating across steps — and why it can't](https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm)
-- [Build a Strapi v5 form with React without using a hosted widget](https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f)
+- [I Built an Offline-First HTTP Request Queue for Angular](https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp)
+- [I Built a Voice-First AI Sports Journal (And Why I Didn't Over-Engineer It)](https://dev.to/druedaro/i-built-a-voice-first-ai-sports-journal-and-why-i-didnt-over-engineer-it-2i27)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "You're truncating bios with `.slice()`. `Intl.Segmenter` knows where the emoji actually end.",
-        "link": "https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo",
+        "title": "The bug that made my best-dates feature return nothing at 31 people",
+        "link": "https://dev.to/janwan2003/the-bug-that-made-my-best-dates-feature-return-nothing-at-31-people-2e4a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.",
-        "link": "https://dev.to/salmanahsan/i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you-45pi",
+        "title": "Update: Why non-technical clients hate client portals (and what actually worked)",
+        "link": "https://dev.to/aldobarbosa/update-why-non-technical-clients-hate-client-portals-and-what-actually-worked-i2h",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "useFieldArray is not updating across steps — and why it can't",
-        "link": "https://dev.to/kensaadi/usefieldarray-is-not-updating-across-steps-and-why-it-cant-1gcm",
+        "title": "I Built an Offline-First HTTP Request Queue for Angular",
+        "link": "https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp",
         "source": "Dev.to React"
       },
       {
-        "title": "Build a Strapi v5 form with React without using a hosted widget",
-        "link": "https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f",
+        "title": "I Built a Voice-First AI Sports Journal (And Why I Didn't Over-Engineer It)",
+        "link": "https://dev.to/druedaro/i-built-a-voice-first-ai-sports-journal-and-why-i-didnt-over-engineer-it-2i27",
         "source": "Dev.to React"
       },
       {
