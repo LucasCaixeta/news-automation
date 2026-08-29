@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 28, 2026)
+### Today's Updates (August 29, 2026)
+
+#### Dev.to JavaScript
+
+- [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
+- [Claude Code Tool Result Caching in 2026: Reducing Redundant File Reads and Shell Calls in Long Agent Sessions](https://dev.to/jsmanifest/claude-code-tool-result-caching-in-2026-reducing-redundant-file-reads-and-shell-calls-in-long-209j)
+- [How a WhatsApp Web Extension Interacts With the Chat Interface](https://dev.to/msgai/how-a-whatsapp-web-extension-interacts-with-the-chat-interface-579c)
+
+#### Dev.to React
+
+- [Architectural Breakdown: Building Next-Gen Agentic Architectures: From Local RAG to Sandboxed Execut](https://dev.to/agenticstack/architectural-breakdown-building-next-gen-agentic-architectures-from-local-rag-to-sandboxed-execut-1i7k)
+- [json-pdf-designer: an open-source PDF report designer you actually own the code of](https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8)
+- [I Built an Offline-First HTTP Request Queue for Angular](https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 27, 2026)
+### 2 Days Ago (August 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
 - [Why Every SaaS Looks the Same (And How I Built a Hand-Drawn UI Library With SVG Filters)](https://dev.to/viditx/why-every-saas-looks-the-same-and-how-i-built-a-hand-drawn-ui-library-with-svg-filters-53l5)
 - [How to manage state in URL search params, cookies and localStorage without the glue code](https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 26, 2026)
-
-#### Dev.to JavaScript
-
-- [Run AI in the Browser: Client-Side Background Removal and Feature Extraction with ONNX Runtime Web](https://dev.to/programmingcentral/run-ai-in-the-browser-client-side-background-removal-and-feature-extraction-with-onnx-runtime-web-51p4)
-- [Build a Restaurant Website in HTML with a Menu That Updates from Google Sheets](https://dev.to/allenarduino/build-a-restaurant-website-in-html-with-a-menu-that-updates-from-google-sheets-5hic)
-- [Vanilla JavaScript — Why It Still Matters in the Age of React and Next.js](https://dev.to/abumotlaq/vanilla-javascript-why-it-still-matters-in-the-age-of-react-and-nextjs-2a7o)
-
-#### Dev.to React
-
-- [Building Software for Places Where the Internet Doesn't Work](https://dev.to/parvejshah/building-software-for-places-where-the-internet-doesnt-work-43ec)
-- [The Surprising Complexity of Injecting a UI into Someone Else's Web Page](https://dev.to/parvejshah/the-surprising-complexity-of-injecting-a-ui-into-someone-elses-web-page-32p)
-- [Rendering Math Formulas Without Making Students Wait (Server-Side KaTeX in RSC)](https://dev.to/parvejshah/rendering-math-formulas-without-making-students-wait-server-side-katex-in-rsc-26ik)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-29",
+    "formattedDate": "August 29, 2026",
+    "news": [
+      {
+        "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind them",
+        "link": "https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Claude Code Tool Result Caching in 2026: Reducing Redundant File Reads and Shell Calls in Long Agent Sessions",
+        "link": "https://dev.to/jsmanifest/claude-code-tool-result-caching-in-2026-reducing-redundant-file-reads-and-shell-calls-in-long-209j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How a WhatsApp Web Extension Interacts With the Chat Interface",
+        "link": "https://dev.to/msgai/how-a-whatsapp-web-extension-interacts-with-the-chat-interface-579c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Architectural Breakdown: Building Next-Gen Agentic Architectures: From Local RAG to Sandboxed Execut",
+        "link": "https://dev.to/agenticstack/architectural-breakdown-building-next-gen-agentic-architectures-from-local-rag-to-sandboxed-execut-1i7k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "json-pdf-designer: an open-source PDF report designer you actually own the code of",
+        "link": "https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an Offline-First HTTP Request Queue for Angular",
+        "link": "https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-28",
     "formattedDate": "August 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to manage state in URL search params, cookies and localStorage without the glue code",
         "link": "https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "formattedDate": "August 26, 2026",
-    "news": [
-      {
-        "title": "Run AI in the Browser: Client-Side Background Removal and Feature Extraction with ONNX Runtime Web",
-        "link": "https://dev.to/programmingcentral/run-ai-in-the-browser-client-side-background-removal-and-feature-extraction-with-onnx-runtime-web-51p4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Build a Restaurant Website in HTML with a Menu That Updates from Google Sheets",
-        "link": "https://dev.to/allenarduino/build-a-restaurant-website-in-html-with-a-menu-that-updates-from-google-sheets-5hic",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vanilla JavaScript — Why It Still Matters in the Age of React and Next.js",
-        "link": "https://dev.to/abumotlaq/vanilla-javascript-why-it-still-matters-in-the-age-of-react-and-nextjs-2a7o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Software for Places Where the Internet Doesn't Work",
-        "link": "https://dev.to/parvejshah/building-software-for-places-where-the-internet-doesnt-work-43ec",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Surprising Complexity of Injecting a UI into Someone Else's Web Page",
-        "link": "https://dev.to/parvejshah/the-surprising-complexity-of-injecting-a-ui-into-someone-elses-web-page-32p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Rendering Math Formulas Without Making Students Wait (Server-Side KaTeX in RSC)",
-        "link": "https://dev.to/parvejshah/rendering-math-formulas-without-making-students-wait-server-side-katex-in-rsc-26ik",
         "source": "Dev.to React"
       },
       {
