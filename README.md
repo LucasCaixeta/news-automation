@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
-- [Claude Code Tool Result Caching in 2026: Reducing Redundant File Reads and Shell Calls in Long Agent Sessions](https://dev.to/jsmanifest/claude-code-tool-result-caching-in-2026-reducing-redundant-file-reads-and-shell-calls-in-long-209j)
-- [How a WhatsApp Web Extension Interacts With the Chat Interface](https://dev.to/msgai/how-a-whatsapp-web-extension-interacts-with-the-chat-interface-579c)
+- [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok)
+- [I built a zero-dependency CLI that crawls your site and lints its JSON-LD](https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l)
 
 #### Dev.to React
 
-- [Architectural Breakdown: Building Next-Gen Agentic Architectures: From Local RAG to Sandboxed Execut](https://dev.to/agenticstack/architectural-breakdown-building-next-gen-agentic-architectures-from-local-rag-to-sandboxed-execut-1i7k)
-- [json-pdf-designer: an open-source PDF report designer you actually own the code of](https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8)
-- [I Built an Offline-First HTTP Request Queue for Angular](https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp)
+- [Why I stopped making "landing pages" and turned my portfolio into an OS](https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e)
+- [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok)
+- [Launching SMS AI — A High-Performance Multimodal Interface with Sub-100ms TTFT](https://dev.to/muhammad_sameer/launching-sms-ai-a-high-performance-multimodal-interface-with-sub-100ms-ttft-17ko)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Claude Code Tool Result Caching in 2026: Reducing Redundant File Reads and Shell Calls in Long Agent Sessions",
-        "link": "https://dev.to/jsmanifest/claude-code-tool-result-caching-in-2026-reducing-redundant-file-reads-and-shell-calls-in-long-209j",
+        "title": "React Re-render vs Remount: What Actually Triggers Each",
+        "link": "https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How a WhatsApp Web Extension Interacts With the Chat Interface",
-        "link": "https://dev.to/msgai/how-a-whatsapp-web-extension-interacts-with-the-chat-interface-579c",
+        "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
+        "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Architectural Breakdown: Building Next-Gen Agentic Architectures: From Local RAG to Sandboxed Execut",
-        "link": "https://dev.to/agenticstack/architectural-breakdown-building-next-gen-agentic-architectures-from-local-rag-to-sandboxed-execut-1i7k",
+        "title": "Why I stopped making \"landing pages\" and turned my portfolio into an OS",
+        "link": "https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e",
         "source": "Dev.to React"
       },
       {
-        "title": "json-pdf-designer: an open-source PDF report designer you actually own the code of",
-        "link": "https://dev.to/williamanjo/json-pdf-designer-an-open-source-pdf-report-designer-you-actually-own-the-code-of-d8",
+        "title": "React Re-render vs Remount: What Actually Triggers Each",
+        "link": "https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built an Offline-First HTTP Request Queue for Angular",
-        "link": "https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp",
+        "title": "Launching SMS AI — A High-Performance Multimodal Interface with Sub-100ms TTFT",
+        "link": "https://dev.to/muhammad_sameer/launching-sms-ai-a-high-performance-multimodal-interface-with-sub-100ms-ttft-17ko",
         "source": "Dev.to React"
       },
       {
