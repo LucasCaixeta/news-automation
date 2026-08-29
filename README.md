@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
-- [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok)
-- [I built a zero-dependency CLI that crawls your site and lints its JSON-LD](https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l)
+- [How I Found an SSR Cache Isolation Failure in a React Data Fetching Library](https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0)
+- [The first channelId on a YouTube channel page belongs to a different channel](https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f)
 
 #### Dev.to React
 
+- [How I Found an SSR Cache Isolation Failure in a React Data Fetching Library](https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0)
 - [Why I stopped making "landing pages" and turned my portfolio into an OS](https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e)
 - [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok)
-- [Launching SMS AI — A High-Performance Multimodal Interface with Sub-100ms TTFT](https://dev.to/muhammad_sameer/launching-sms-ai-a-high-performance-multimodal-interface-with-sub-100ms-ttft-17ko)
 
 #### React Blog
 
@@ -94,14 +94,19 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Re-render vs Remount: What Actually Triggers Each",
-        "link": "https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok",
+        "title": "How I Found an SSR Cache Isolation Failure in a React Data Fetching Library",
+        "link": "https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
-        "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
+        "title": "The first channelId on a YouTube channel page belongs to a different channel",
+        "link": "https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Found an SSR Cache Isolation Failure in a React Data Fetching Library",
+        "link": "https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0",
+        "source": "Dev.to React"
       },
       {
         "title": "Why I stopped making \"landing pages\" and turned my portfolio into an OS",
@@ -111,11 +116,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Re-render vs Remount: What Actually Triggers Each",
         "link": "https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Launching SMS AI — A High-Performance Multimodal Interface with Sub-100ms TTFT",
-        "link": "https://dev.to/muhammad_sameer/launching-sms-ai-a-high-performance-multimodal-interface-with-sub-100ms-ttft-17ko",
         "source": "Dev.to React"
       },
       {
