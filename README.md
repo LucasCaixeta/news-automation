@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Nuxt useState vs ref(): Why Server State Leaks Across Users](https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1)
-- [Feature detection lies: two things I learned shipping on WebMCP](https://dev.to/edycutjong/feature-detection-lies-two-things-i-learned-shipping-on-webmcp-328d)
-- [htmx 4.0 Just Shipped: What Changed, What Breaks, and How to Migrate This Weekend](https://dev.to/jamilxt/htmx-40-just-shipped-what-changed-what-breaks-and-how-to-migrate-this-weekend-a4o)
+- [Why asking for help feels harder than solving the problem yourself](https://dev.to/shannonianthe/why-asking-for-help-feels-harder-than-solving-the-problem-yourself-45ge)
+- [WebMCP: Give Browser Agents Tools Instead of Buttons](https://dev.to/toannhu/webmcp-give-browser-agents-tools-instead-of-buttons-4i7f)
+- [Cómo creé un directorio Open Data sin frameworks para apoyar el comercio local de Soria](https://dev.to/andriipython/como-cree-un-directorio-open-data-sin-frameworks-para-apoyar-el-comercio-local-de-soria-4642)
 
 #### Dev.to React
 
-- [Stop Streaming LLMs via Route Handlers: The Server Actions Shift](https://dev.to/nainikmehta/stop-streaming-llms-via-route-handlers-the-server-actions-shift-39o6)
-- [Why Next.js Feels Like Flask, Rewritten in TypeScript](https://dev.to/whaiman/why-nextjs-feels-like-flask-rewritten-in-typescript-1g1b)
-- [Every typing site makes you type prose. I built one that makes you type code.](https://dev.to/typre/every-typing-site-makes-you-type-prose-i-built-one-that-makes-you-type-code-1b0d)
+- [Why Module Federation — Building an Enterprise MFE Platform (Part 1)](https://dev.to/akashpal/why-module-federation-building-an-enterprise-mfe-platform-part-1-2lap)
+- [Reads Are Subscriptions - Migrating from Zustand to Coaction](https://dev.to/unadlib/reads-are-subscriptions-migrating-from-zustand-to-coaction-3228)
+- [Help wanted: validate a React accessibility content auditor SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-react-accessibility-content-auditor-spfx-sample-32k9)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 30, 2026",
     "news": [
       {
-        "title": "Nuxt useState vs ref(): Why Server State Leaks Across Users",
-        "link": "https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1",
+        "title": "Why asking for help feels harder than solving the problem yourself",
+        "link": "https://dev.to/shannonianthe/why-asking-for-help-feels-harder-than-solving-the-problem-yourself-45ge",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Feature detection lies: two things I learned shipping on WebMCP",
-        "link": "https://dev.to/edycutjong/feature-detection-lies-two-things-i-learned-shipping-on-webmcp-328d",
+        "title": "WebMCP: Give Browser Agents Tools Instead of Buttons",
+        "link": "https://dev.to/toannhu/webmcp-give-browser-agents-tools-instead-of-buttons-4i7f",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "htmx 4.0 Just Shipped: What Changed, What Breaks, and How to Migrate This Weekend",
-        "link": "https://dev.to/jamilxt/htmx-40-just-shipped-what-changed-what-breaks-and-how-to-migrate-this-weekend-a4o",
+        "title": "Cómo creé un directorio Open Data sin frameworks para apoyar el comercio local de Soria",
+        "link": "https://dev.to/andriipython/como-cree-un-directorio-open-data-sin-frameworks-para-apoyar-el-comercio-local-de-soria-4642",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Streaming LLMs via Route Handlers: The Server Actions Shift",
-        "link": "https://dev.to/nainikmehta/stop-streaming-llms-via-route-handlers-the-server-actions-shift-39o6",
+        "title": "Why Module Federation — Building an Enterprise MFE Platform (Part 1)",
+        "link": "https://dev.to/akashpal/why-module-federation-building-an-enterprise-mfe-platform-part-1-2lap",
         "source": "Dev.to React"
       },
       {
-        "title": "Why Next.js Feels Like Flask, Rewritten in TypeScript",
-        "link": "https://dev.to/whaiman/why-nextjs-feels-like-flask-rewritten-in-typescript-1g1b",
+        "title": "Reads Are Subscriptions - Migrating from Zustand to Coaction",
+        "link": "https://dev.to/unadlib/reads-are-subscriptions-migrating-from-zustand-to-coaction-3228",
         "source": "Dev.to React"
       },
       {
-        "title": "Every typing site makes you type prose. I built one that makes you type code.",
-        "link": "https://dev.to/typre/every-typing-site-makes-you-type-prose-i-built-one-that-makes-you-type-code-1b0d",
+        "title": "Help wanted: validate a React accessibility content auditor SPFx sample",
+        "link": "https://dev.to/vystartasv/help-wanted-validate-a-react-accessibility-content-auditor-spfx-sample-32k9",
         "source": "Dev.to React"
       },
       {
