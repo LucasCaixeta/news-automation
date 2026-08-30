@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 29, 2026)
+### Today's Updates (August 30, 2026)
+
+#### Dev.to JavaScript
+
+- [Nuxt useState vs ref(): Why Server State Leaks Across Users](https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1)
+- [Feature detection lies: two things I learned shipping on WebMCP](https://dev.to/edycutjong/feature-detection-lies-two-things-i-learned-shipping-on-webmcp-328d)
+- [htmx 4.0 Just Shipped: What Changed, What Breaks, and How to Migrate This Weekend](https://dev.to/jamilxt/htmx-40-just-shipped-what-changed-what-breaks-and-how-to-migrate-this-weekend-a4o)
+
+#### Dev.to React
+
+- [Stop Streaming LLMs via Route Handlers: The Server Actions Shift](https://dev.to/nainikmehta/stop-streaming-llms-via-route-handlers-the-server-actions-shift-39o6)
+- [Why Next.js Feels Like Flask, Rewritten in TypeScript](https://dev.to/whaiman/why-nextjs-feels-like-flask-rewritten-in-typescript-1g1b)
+- [Every typing site makes you type prose. I built one that makes you type code.](https://dev.to/typre/every-typing-site-makes-you-type-prose-i-built-one-that-makes-you-type-code-1b0d)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 28, 2026)
+### 2 Days Ago (August 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
 - [I Built an Offline-First HTTP Request Queue for Angular](https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp)
 - [I Built a Voice-First AI Sports Journal (And Why I Didn't Over-Engineer It)](https://dev.to/druedaro/i-built-a-voice-first-ai-sports-journal-and-why-i-didnt-over-engineer-it-2i27)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 27, 2026)
-
-#### Dev.to JavaScript
-
-- [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
-- [Durable Objects without Cloudflare, on the database you already run](https://dev.to/cardmagic/durable-objects-without-cloudflare-on-the-database-you-already-run-71)
-- [How to manage state in URL search params, cookies and localStorage without the glue code](https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5)
-
-#### Dev.to React
-
-- [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
-- [Why Every SaaS Looks the Same (And How I Built a Hand-Drawn UI Library With SVG Filters)](https://dev.to/viditx/why-every-saas-looks-the-same-and-how-i-built-a-hand-drawn-ui-library-with-svg-filters-53l5)
-- [How to manage state in URL search params, cookies and localStorage without the glue code](https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-30",
+    "formattedDate": "August 30, 2026",
+    "news": [
+      {
+        "title": "Nuxt useState vs ref(): Why Server State Leaks Across Users",
+        "link": "https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Feature detection lies: two things I learned shipping on WebMCP",
+        "link": "https://dev.to/edycutjong/feature-detection-lies-two-things-i-learned-shipping-on-webmcp-328d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "htmx 4.0 Just Shipped: What Changed, What Breaks, and How to Migrate This Weekend",
+        "link": "https://dev.to/jamilxt/htmx-40-just-shipped-what-changed-what-breaks-and-how-to-migrate-this-weekend-a4o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Streaming LLMs via Route Handlers: The Server Actions Shift",
+        "link": "https://dev.to/nainikmehta/stop-streaming-llms-via-route-handlers-the-server-actions-shift-39o6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Next.js Feels Like Flask, Rewritten in TypeScript",
+        "link": "https://dev.to/whaiman/why-nextjs-feels-like-flask-rewritten-in-typescript-1g1b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Every typing site makes you type prose. I built one that makes you type code.",
+        "link": "https://dev.to/typre/every-typing-site-makes-you-type-prose-i-built-one-that-makes-you-type-code-1b0d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-29",
     "formattedDate": "August 29, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built a Voice-First AI Sports Journal (And Why I Didn't Over-Engineer It)",
         "link": "https://dev.to/druedaro/i-built-a-voice-first-ai-sports-journal-and-why-i-didnt-over-engineer-it-2i27",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "formattedDate": "August 27, 2026",
-    "news": [
-      {
-        "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind them",
-        "link": "https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Durable Objects without Cloudflare, on the database you already run",
-        "link": "https://dev.to/cardmagic/durable-objects-without-cloudflare-on-the-database-you-already-run-71",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to manage state in URL search params, cookies and localStorage without the glue code",
-        "link": "https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Nobody Argued For Your Stack",
-        "link": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Every SaaS Looks the Same (And How I Built a Hand-Drawn UI Library With SVG Filters)",
-        "link": "https://dev.to/viditx/why-every-saas-looks-the-same-and-how-i-built-a-hand-drawn-ui-library-with-svg-filters-53l5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to manage state in URL search params, cookies and localStorage without the glue code",
-        "link": "https://dev.to/okdevme/how-to-manage-state-in-url-search-params-cookies-and-localstorage-without-the-glue-code-1oj5",
         "source": "Dev.to React"
       },
       {
