@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 30, 2026)
+### Today's Updates (August 31, 2026)
+
+#### Dev.to JavaScript
+
+- [I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.](https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5)
+- [Debounce and Throttle in JavaScript: The Complete Guide](https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61)
+- [Async Svelte: Using await Directly in Your Components](https://dev.to/grimicorn/async-svelte-using-await-directly-in-your-components-1bgf)
+
+#### Dev.to React
+
+- [I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.](https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5)
+- [What Browserslist Actually Does in Next.js](https://dev.to/alessandro-grosselle/what-browserslist-actually-does-in-nextjs-2hlm)
+- [Why an icon library doesn't have to bloat your bundle](https://dev.to/rushan123/why-an-icon-library-doesnt-have-to-bloat-your-bundle-55na)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 29, 2026)
+### 2 Days Ago (August 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Found an SSR Cache Isolation Failure in a React Data Fetching Library](https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0)
 - [Why I stopped making "landing pages" and turned my portfolio into an OS](https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e)
 - [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 28, 2026)
-
-#### Dev.to JavaScript
-
-- [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
-- [The bug that made my best-dates feature return nothing at 31 people](https://dev.to/janwan2003/the-bug-that-made-my-best-dates-feature-return-nothing-at-31-people-2e4a)
-- [Update: Why non-technical clients hate client portals (and what actually worked)](https://dev.to/aldobarbosa/update-why-non-technical-clients-hate-client-portals-and-what-actually-worked-i2h)
-
-#### Dev.to React
-
-- [Nobody Argued For Your Stack](https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj)
-- [I Built an Offline-First HTTP Request Queue for Angular](https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp)
-- [I Built a Voice-First AI Sports Journal (And Why I Didn't Over-Engineer It)](https://dev.to/druedaro/i-built-a-voice-first-ai-sports-journal-and-why-i-didnt-over-engineer-it-2i27)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-08-31",
+    "formattedDate": "August 31, 2026",
+    "news": [
+      {
+        "title": "I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.",
+        "link": "https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Debounce and Throttle in JavaScript: The Complete Guide",
+        "link": "https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Async Svelte: Using await Directly in Your Components",
+        "link": "https://dev.to/grimicorn/async-svelte-using-await-directly-in-your-components-1bgf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.",
+        "link": "https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What Browserslist Actually Does in Next.js",
+        "link": "https://dev.to/alessandro-grosselle/what-browserslist-actually-does-in-nextjs-2hlm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why an icon library doesn't have to bloat your bundle",
+        "link": "https://dev.to/rushan123/why-an-icon-library-doesnt-have-to-bloat-your-bundle-55na",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-30",
     "formattedDate": "August 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Re-render vs Remount: What Actually Triggers Each",
         "link": "https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "formattedDate": "August 28, 2026",
-    "news": [
-      {
-        "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind them",
-        "link": "https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The bug that made my best-dates feature return nothing at 31 people",
-        "link": "https://dev.to/janwan2003/the-bug-that-made-my-best-dates-feature-return-nothing-at-31-people-2e4a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Update: Why non-technical clients hate client portals (and what actually worked)",
-        "link": "https://dev.to/aldobarbosa/update-why-non-technical-clients-hate-client-portals-and-what-actually-worked-i2h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Nobody Argued For Your Stack",
-        "link": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an Offline-First HTTP Request Queue for Angular",
-        "link": "https://dev.to/del4k1/i-built-an-offline-first-http-request-queue-for-angular-29gp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Voice-First AI Sports Journal (And Why I Didn't Over-Engineer It)",
-        "link": "https://dev.to/druedaro/i-built-a-voice-first-ai-sports-journal-and-why-i-didnt-over-engineer-it-2i27",
         "source": "Dev.to React"
       },
       {
