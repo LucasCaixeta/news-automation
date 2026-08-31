@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.](https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5)
-- [Debounce and Throttle in JavaScript: The Complete Guide](https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61)
-- [Async Svelte: Using await Directly in Your Components](https://dev.to/grimicorn/async-svelte-using-await-directly-in-your-components-1bgf)
+- [React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It](https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo)
+- [A reactive JS framework for server-rendered apps — no Virtual DOM, no eval(), no build step required. Looking for critical feedback.](https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d)
+- [Merge PDFs in the browser with JavaScript (no uploads, no server)](https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o)
 
 #### Dev.to React
 
-- [I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.](https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5)
-- [What Browserslist Actually Does in Next.js](https://dev.to/alessandro-grosselle/what-browserslist-actually-does-in-nextjs-2hlm)
-- [Why an icon library doesn't have to bloat your bundle](https://dev.to/rushan123/why-an-icon-library-doesnt-have-to-bloat-your-bundle-55na)
+- [React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It](https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo)
+- [How Farm.js compiles React components into direct DOM updates](https://dev.to/kinfish/how-farmjs-compiles-react-components-into-direct-dom-updates-375j)
+- [How to Build a Secure Google OAuth 2.0 Login Using React & Node.js](https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "August 31, 2026",
     "news": [
       {
-        "title": "I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.",
-        "link": "https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5",
+        "title": "React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It",
+        "link": "https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Debounce and Throttle in JavaScript: The Complete Guide",
-        "link": "https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61",
+        "title": "A reactive JS framework for server-rendered apps — no Virtual DOM, no eval(), no build step required. Looking for critical feedback.",
+        "link": "https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Async Svelte: Using await Directly in Your Components",
-        "link": "https://dev.to/grimicorn/async-svelte-using-await-directly-in-your-components-1bgf",
+        "title": "Merge PDFs in the browser with JavaScript (no uploads, no server)",
+        "link": "https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Benchmarked 8 React Rich Text Editors. Here Are the Numbers.",
-        "link": "https://dev.to/rudrabuilds/i-benchmarked-8-react-rich-text-editors-here-are-the-numbers-2lh5",
+        "title": "React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It",
+        "link": "https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo",
         "source": "Dev.to React"
       },
       {
-        "title": "What Browserslist Actually Does in Next.js",
-        "link": "https://dev.to/alessandro-grosselle/what-browserslist-actually-does-in-nextjs-2hlm",
+        "title": "How Farm.js compiles React components into direct DOM updates",
+        "link": "https://dev.to/kinfish/how-farmjs-compiles-react-components-into-direct-dom-updates-375j",
         "source": "Dev.to React"
       },
       {
-        "title": "Why an icon library doesn't have to bloat your bundle",
-        "link": "https://dev.to/rushan123/why-an-icon-library-doesnt-have-to-bloat-your-bundle-55na",
+        "title": "How to Build a Secure Google OAuth 2.0 Login Using React & Node.js",
+        "link": "https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp",
         "source": "Dev.to React"
       },
       {
