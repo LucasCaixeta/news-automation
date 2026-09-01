@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
+- [SibuJS 4.0.1: Reactive Interfaces Without a Virtual DOM](https://dev.to/jose_ramirez/sibujs-401-reactive-interfaces-without-a-virtual-dom-2bch)
 - [I Ran My Plugins Against a Competitor's Own Test Suite](https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1)
-- [A calendar library returned the same answer for every year — and my tests agreed with it](https://dev.to/beachcombers/a-calendar-library-returned-the-same-answer-for-every-year-and-my-tests-agreed-with-it-1j93)
 
 #### Dev.to React
 
 - [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
-- [My personal site was invisible to Google for four months](https://dev.to/drjoanneskiles/my-personal-site-was-invisible-to-google-for-four-months-3poo)
-- [How Does useEffect Actually Work?](https://dev.to/tanu_priya/how-does-useeffect-actually-work-3c53)
+- [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
+- [Next.js Cache Components Explained (with Cheat Sheet)](https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Ran My Plugins Against a Competitor's Own Test Suite",
-        "link": "https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1",
+        "title": "SibuJS 4.0.1: Reactive Interfaces Without a Virtual DOM",
+        "link": "https://dev.to/jose_ramirez/sibujs-401-reactive-interfaces-without-a-virtual-dom-2bch",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A calendar library returned the same answer for every year — and my tests agreed with it",
-        "link": "https://dev.to/beachcombers/a-calendar-library-returned-the-same-answer-for-every-year-and-my-tests-agreed-with-it-1j93",
+        "title": "I Ran My Plugins Against a Competitor's Own Test Suite",
+        "link": "https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "My personal site was invisible to Google for four months",
-        "link": "https://dev.to/drjoanneskiles/my-personal-site-was-invisible-to-google-for-four-months-3poo",
+        "title": "I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns",
+        "link": "https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el",
         "source": "Dev.to React"
       },
       {
-        "title": "How Does useEffect Actually Work?",
-        "link": "https://dev.to/tanu_priya/how-does-useeffect-actually-work-3c53",
+        "title": "Next.js Cache Components Explained (with Cheat Sheet)",
+        "link": "https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob",
         "source": "Dev.to React"
       },
       {
