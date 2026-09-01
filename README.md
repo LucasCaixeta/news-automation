@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (August 31, 2026)
+### Today's Updates (September 1, 2026)
+
+#### Dev.to JavaScript
+
+- [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
+- [I Ran My Plugins Against a Competitor's Own Test Suite](https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1)
+- [A calendar library returned the same answer for every year — and my tests agreed with it](https://dev.to/beachcombers/a-calendar-library-returned-the-same-answer-for-every-year-and-my-tests-agreed-with-it-1j93)
+
+#### Dev.to React
+
+- [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
+- [My personal site was invisible to Google for four months](https://dev.to/drjoanneskiles/my-personal-site-was-invisible-to-google-for-four-months-3poo)
+- [How Does useEffect Actually Work?](https://dev.to/tanu_priya/how-does-useeffect-actually-work-3c53)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (August 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 30, 2026)
+### 2 Days Ago (August 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why Module Federation — Building an Enterprise MFE Platform (Part 1)](https://dev.to/akashpal/why-module-federation-building-an-enterprise-mfe-platform-part-1-2lap)
 - [Reads Are Subscriptions - Migrating from Zustand to Coaction](https://dev.to/unadlib/reads-are-subscriptions-migrating-from-zustand-to-coaction-3228)
 - [Help wanted: validate a React accessibility content auditor SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-react-accessibility-content-auditor-spfx-sample-32k9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 29, 2026)
-
-#### Dev.to JavaScript
-
-- [Three small design decisions in a "toggle effects via CSS class" library, and the tradeoffs behind them](https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1)
-- [How I Found an SSR Cache Isolation Failure in a React Data Fetching Library](https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0)
-- [The first channelId on a YouTube channel page belongs to a different channel](https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f)
-
-#### Dev.to React
-
-- [How I Found an SSR Cache Isolation Failure in a React Data Fetching Library](https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0)
-- [Why I stopped making "landing pages" and turned my portfolio into an OS](https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e)
-- [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-01",
+    "formattedDate": "September 1, 2026",
+    "news": [
+      {
+        "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+        "link": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Ran My Plugins Against a Competitor's Own Test Suite",
+        "link": "https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A calendar library returned the same answer for every year — and my tests agreed with it",
+        "link": "https://dev.to/beachcombers/a-calendar-library-returned-the-same-answer-for-every-year-and-my-tests-agreed-with-it-1j93",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+        "link": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My personal site was invisible to Google for four months",
+        "link": "https://dev.to/drjoanneskiles/my-personal-site-was-invisible-to-google-for-four-months-3poo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How Does useEffect Actually Work?",
+        "link": "https://dev.to/tanu_priya/how-does-useeffect-actually-work-3c53",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-08-31",
     "formattedDate": "August 31, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Help wanted: validate a React accessibility content auditor SPFx sample",
         "link": "https://dev.to/vystartasv/help-wanted-validate-a-react-accessibility-content-auditor-spfx-sample-32k9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "formattedDate": "August 29, 2026",
-    "news": [
-      {
-        "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind them",
-        "link": "https://dev.to/iurii_rogulia/three-small-design-decisions-in-a-toggle-effects-via-css-class-library-and-the-tradeoffs-behind-36c1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Found an SSR Cache Isolation Failure in a React Data Fetching Library",
-        "link": "https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The first channelId on a YouTube channel page belongs to a different channel",
-        "link": "https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Found an SSR Cache Isolation Failure in a React Data Fetching Library",
-        "link": "https://dev.to/thecrazyrabbit/how-i-found-an-ssr-cache-isolation-failure-in-a-react-data-fetching-library-36l0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why I stopped making \"landing pages\" and turned my portfolio into an OS",
-        "link": "https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Re-render vs Remount: What Actually Triggers Each",
-        "link": "https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok",
         "source": "Dev.to React"
       },
       {
