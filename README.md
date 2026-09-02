@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 1, 2026)
+### Today's Updates (September 2, 2026)
+
+#### Dev.to JavaScript
+
+- [I Built a Link-in-Bio Platform… Then I Asked: “Why Would Anyone Come Back?”](https://dev.to/puneetkumar2010/i-built-a-link-in-bio-platform-then-i-asked-why-would-anyone-come-back-82b)
+- [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
+- [I made Claude Code and Codex race on my repo. The rule went against the agent that did more.](https://dev.to/upadhyayhari_/i-made-claude-code-and-codex-race-on-my-repo-the-rule-went-against-the-agent-that-did-more-2b8j)
+
+#### Dev.to React
+
+- [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
+- [How I Built a Desktop Movie Streamer with Electron and WebTorrent](https://dev.to/qazi_absaar_404e7c8bb9076/how-i-built-a-desktop-movie-streamer-with-electron-and-webtorrent-ag4)
+- [Drawing day and night on a 3D globe: the shader behind my world clock](https://dev.to/timetate/drawing-day-and-night-on-a-3d-globe-the-shader-behind-my-world-clock-391k)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (August 31, 2026)
+### 2 Days Ago (August 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It](https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo)
 - [How Farm.js compiles React components into direct DOM updates](https://dev.to/kinfish/how-farmjs-compiles-react-components-into-direct-dom-updates-375j)
 - [How to Build a Secure Google OAuth 2.0 Login Using React & Node.js](https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 30, 2026)
-
-#### Dev.to JavaScript
-
-- [Why asking for help feels harder than solving the problem yourself](https://dev.to/shannonianthe/why-asking-for-help-feels-harder-than-solving-the-problem-yourself-45ge)
-- [WebMCP: Give Browser Agents Tools Instead of Buttons](https://dev.to/toannhu/webmcp-give-browser-agents-tools-instead-of-buttons-4i7f)
-- [Cómo creé un directorio Open Data sin frameworks para apoyar el comercio local de Soria](https://dev.to/andriipython/como-cree-un-directorio-open-data-sin-frameworks-para-apoyar-el-comercio-local-de-soria-4642)
-
-#### Dev.to React
-
-- [Why Module Federation — Building an Enterprise MFE Platform (Part 1)](https://dev.to/akashpal/why-module-federation-building-an-enterprise-mfe-platform-part-1-2lap)
-- [Reads Are Subscriptions - Migrating from Zustand to Coaction](https://dev.to/unadlib/reads-are-subscriptions-migrating-from-zustand-to-coaction-3228)
-- [Help wanted: validate a React accessibility content auditor SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-react-accessibility-content-auditor-spfx-sample-32k9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-02",
+    "formattedDate": "September 2, 2026",
+    "news": [
+      {
+        "title": "I Built a Link-in-Bio Platform… Then I Asked: “Why Would Anyone Come Back?”",
+        "link": "https://dev.to/puneetkumar2010/i-built-a-link-in-bio-platform-then-i-asked-why-would-anyone-come-back-82b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns",
+        "link": "https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I made Claude Code and Codex race on my repo. The rule went against the agent that did more.",
+        "link": "https://dev.to/upadhyayhari_/i-made-claude-code-and-codex-race-on-my-repo-the-rule-went-against-the-agent-that-did-more-2b8j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns",
+        "link": "https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a Desktop Movie Streamer with Electron and WebTorrent",
+        "link": "https://dev.to/qazi_absaar_404e7c8bb9076/how-i-built-a-desktop-movie-streamer-with-electron-and-webtorrent-ag4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Drawing day and night on a 3D globe: the shader behind my world clock",
+        "link": "https://dev.to/timetate/drawing-day-and-night-on-a-3d-globe-the-shader-behind-my-world-clock-391k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-01",
     "formattedDate": "September 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Build a Secure Google OAuth 2.0 Login Using React & Node.js",
         "link": "https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "formattedDate": "August 30, 2026",
-    "news": [
-      {
-        "title": "Why asking for help feels harder than solving the problem yourself",
-        "link": "https://dev.to/shannonianthe/why-asking-for-help-feels-harder-than-solving-the-problem-yourself-45ge",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "WebMCP: Give Browser Agents Tools Instead of Buttons",
-        "link": "https://dev.to/toannhu/webmcp-give-browser-agents-tools-instead-of-buttons-4i7f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Cómo creé un directorio Open Data sin frameworks para apoyar el comercio local de Soria",
-        "link": "https://dev.to/andriipython/como-cree-un-directorio-open-data-sin-frameworks-para-apoyar-el-comercio-local-de-soria-4642",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Module Federation — Building an Enterprise MFE Platform (Part 1)",
-        "link": "https://dev.to/akashpal/why-module-federation-building-an-enterprise-mfe-platform-part-1-2lap",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Reads Are Subscriptions - Migrating from Zustand to Coaction",
-        "link": "https://dev.to/unadlib/reads-are-subscriptions-migrating-from-zustand-to-coaction-3228",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Help wanted: validate a React accessibility content auditor SPFx sample",
-        "link": "https://dev.to/vystartasv/help-wanted-validate-a-react-accessibility-content-auditor-spfx-sample-32k9",
         "source": "Dev.to React"
       },
       {
