@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Copy-Paste Fonts Are Not Fonts. Here Is What Broke My Code](https://dev.to/iris_khan_dev/copy-paste-fonts-are-not-fonts-here-is-what-broke-my-code-4kc9)
+- [I Shipped ESLint to the Browser in 362 KB. Now My Blog Posts Lint Your Code, Not Mine.](https://dev.to/ofri-peretz/i-shipped-eslint-to-the-browser-in-362-kb-now-my-blog-posts-lint-your-code-not-mine-3a4m)
 - [I Built a Link-in-Bio Platform… Then I Asked: “Why Would Anyone Come Back?”](https://dev.to/puneetkumar2010/i-built-a-link-in-bio-platform-then-i-asked-why-would-anyone-come-back-82b)
-- [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
-- [I made Claude Code and Codex race on my repo. The rule went against the agent that did more.](https://dev.to/upadhyayhari_/i-made-claude-code-and-codex-race-on-my-repo-the-rule-went-against-the-agent-that-did-more-2b8j)
 
 #### Dev.to React
 
-- [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
-- [How I Built a Desktop Movie Streamer with Electron and WebTorrent](https://dev.to/qazi_absaar_404e7c8bb9076/how-i-built-a-desktop-movie-streamer-with-electron-and-webtorrent-ag4)
-- [Drawing day and night on a 3D globe: the shader behind my world clock](https://dev.to/timetate/drawing-day-and-night-on-a-3d-globe-the-shader-behind-my-world-clock-391k)
+- [Construyendo un Sistema de Streaming Local con Node.js, React y FFmpeg](https://dev.to/rtagl/construyendo-un-sistema-de-streaming-local-con-nodejs-react-y-ffmpeg-42m5)
+- [Learning React - Ep.1](https://dev.to/vidhish_trivedi/learning-react-ep1-lp9)
+- [Structured designs produce better apps, so I built a workspace for making them](https://dev.to/nodlume/structured-designs-produce-better-apps-so-i-built-a-workspace-for-making-them-1p64)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 2, 2026",
     "news": [
       {
+        "title": "Copy-Paste Fonts Are Not Fonts. Here Is What Broke My Code",
+        "link": "https://dev.to/iris_khan_dev/copy-paste-fonts-are-not-fonts-here-is-what-broke-my-code-4kc9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Shipped ESLint to the Browser in 362 KB. Now My Blog Posts Lint Your Code, Not Mine.",
+        "link": "https://dev.to/ofri-peretz/i-shipped-eslint-to-the-browser-in-362-kb-now-my-blog-posts-lint-your-code-not-mine-3a4m",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "I Built a Link-in-Bio Platform… Then I Asked: “Why Would Anyone Come Back?”",
         "link": "https://dev.to/puneetkumar2010/i-built-a-link-in-bio-platform-then-i-asked-why-would-anyone-come-back-82b",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns",
-        "link": "https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I made Claude Code and Codex race on my repo. The rule went against the agent that did more.",
-        "link": "https://dev.to/upadhyayhari_/i-made-claude-code-and-codex-race-on-my-repo-the-rule-went-against-the-agent-that-did-more-2b8j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns",
-        "link": "https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el",
+        "title": "Construyendo un Sistema de Streaming Local con Node.js, React y FFmpeg",
+        "link": "https://dev.to/rtagl/construyendo-un-sistema-de-streaming-local-con-nodejs-react-y-ffmpeg-42m5",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built a Desktop Movie Streamer with Electron and WebTorrent",
-        "link": "https://dev.to/qazi_absaar_404e7c8bb9076/how-i-built-a-desktop-movie-streamer-with-electron-and-webtorrent-ag4",
+        "title": "Learning React - Ep.1",
+        "link": "https://dev.to/vidhish_trivedi/learning-react-ep1-lp9",
         "source": "Dev.to React"
       },
       {
-        "title": "Drawing day and night on a 3D globe: the shader behind my world clock",
-        "link": "https://dev.to/timetate/drawing-day-and-night-on-a-3d-globe-the-shader-behind-my-world-clock-391k",
+        "title": "Structured designs produce better apps, so I built a workspace for making them",
+        "link": "https://dev.to/nodlume/structured-designs-produce-better-apps-so-i-built-a-workspace-for-making-them-1p64",
         "source": "Dev.to React"
       },
       {
