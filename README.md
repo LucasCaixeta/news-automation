@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The rollback in gemini-cli restored an empty directory, and the test for it passed](https://dev.to/mahirhir/the-rollback-in-gemini-cli-restored-an-empty-directory-and-the-test-for-it-passed-1g3e)
-- [A config-driven checkpoint quiz in vanilla JS, no build step](https://dev.to/navcheckniamh/a-config-driven-checkpoint-quiz-in-vanilla-js-no-build-step-2eop)
-- [MyNotes: A Lightweight Offline-First Web App with Vanilla JavaScript](https://dev.to/gurler/mynotes-a-lightweight-offline-first-web-app-with-vanilla-javascript-31af)
+- [The await That Silently Breaks navigator.clipboard.writeText()](https://dev.to/parsajiravand/the-await-that-silently-breaks-navigatorclipboardwritetext-10oe)
+- [The Callback That Kept Rendering Data From Twenty Minutes Ago](https://dev.to/abhishekdutta619/the-callback-that-kept-rendering-data-from-twenty-minutes-ago-4460)
+- [Semantic Vision – interactive call graph, impact analysis, and code-to-data lineage for Python/JS/TS codebases](https://dev.to/venom21adi/semantic-vision-interactive-call-graph-impact-analysis-and-code-to-data-lineage-for-40b1)
 
 #### Dev.to React
 
-- [A button that covers another button passes every test you have](https://dev.to/ytrofr/a-button-that-covers-another-button-passes-every-test-you-have-1j9b)
-- [Dev.to — Laravel with React or Vue through Inertia](https://dev.to/mumbai_web_designer/devto-laravel-with-react-or-vue-through-inertia-nj0)
-- [Your useOptimistic UI Might Be Lying to Users When the Server Action Actually Fails](https://dev.to/anas_sheikh_2/your-useoptimistic-ui-might-be-lying-to-users-when-the-server-action-actually-fails-582j)
+- [When Forms Start Talking to Each Other](https://dev.to/nrazukasi/when-forms-start-talking-to-each-other-53al)
+- [Building Super-Flexible Web Applications](https://dev.to/nrazukasi/building-super-flexible-web-applications-65e)
+- [Wrapping Component Libraries](https://dev.to/nrazukasi/wrapping-component-libraries-3cj)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 3, 2026",
     "news": [
       {
-        "title": "The rollback in gemini-cli restored an empty directory, and the test for it passed",
-        "link": "https://dev.to/mahirhir/the-rollback-in-gemini-cli-restored-an-empty-directory-and-the-test-for-it-passed-1g3e",
+        "title": "The await That Silently Breaks navigator.clipboard.writeText()",
+        "link": "https://dev.to/parsajiravand/the-await-that-silently-breaks-navigatorclipboardwritetext-10oe",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A config-driven checkpoint quiz in vanilla JS, no build step",
-        "link": "https://dev.to/navcheckniamh/a-config-driven-checkpoint-quiz-in-vanilla-js-no-build-step-2eop",
+        "title": "The Callback That Kept Rendering Data From Twenty Minutes Ago",
+        "link": "https://dev.to/abhishekdutta619/the-callback-that-kept-rendering-data-from-twenty-minutes-ago-4460",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "MyNotes: A Lightweight Offline-First Web App with Vanilla JavaScript",
-        "link": "https://dev.to/gurler/mynotes-a-lightweight-offline-first-web-app-with-vanilla-javascript-31af",
+        "title": "Semantic Vision – interactive call graph, impact analysis, and code-to-data lineage for Python/JS/TS codebases",
+        "link": "https://dev.to/venom21adi/semantic-vision-interactive-call-graph-impact-analysis-and-code-to-data-lineage-for-40b1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A button that covers another button passes every test you have",
-        "link": "https://dev.to/ytrofr/a-button-that-covers-another-button-passes-every-test-you-have-1j9b",
+        "title": "When Forms Start Talking to Each Other",
+        "link": "https://dev.to/nrazukasi/when-forms-start-talking-to-each-other-53al",
         "source": "Dev.to React"
       },
       {
-        "title": "Dev.to — Laravel with React or Vue through Inertia",
-        "link": "https://dev.to/mumbai_web_designer/devto-laravel-with-react-or-vue-through-inertia-nj0",
+        "title": "Building Super-Flexible Web Applications",
+        "link": "https://dev.to/nrazukasi/building-super-flexible-web-applications-65e",
         "source": "Dev.to React"
       },
       {
-        "title": "Your useOptimistic UI Might Be Lying to Users When the Server Action Actually Fails",
-        "link": "https://dev.to/anas_sheikh_2/your-useoptimistic-ui-might-be-lying-to-users-when-the-server-action-actually-fails-582j",
+        "title": "Wrapping Component Libraries",
+        "link": "https://dev.to/nrazukasi/wrapping-component-libraries-3cj",
         "source": "Dev.to React"
       },
       {
