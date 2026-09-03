@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 2, 2026)
+### Today's Updates (September 3, 2026)
+
+#### Dev.to JavaScript
+
+- [The rollback in gemini-cli restored an empty directory, and the test for it passed](https://dev.to/mahirhir/the-rollback-in-gemini-cli-restored-an-empty-directory-and-the-test-for-it-passed-1g3e)
+- [A config-driven checkpoint quiz in vanilla JS, no build step](https://dev.to/navcheckniamh/a-config-driven-checkpoint-quiz-in-vanilla-js-no-build-step-2eop)
+- [MyNotes: A Lightweight Offline-First Web App with Vanilla JavaScript](https://dev.to/gurler/mynotes-a-lightweight-offline-first-web-app-with-vanilla-javascript-31af)
+
+#### Dev.to React
+
+- [A button that covers another button passes every test you have](https://dev.to/ytrofr/a-button-that-covers-another-button-passes-every-test-you-have-1j9b)
+- [Dev.to — Laravel with React or Vue through Inertia](https://dev.to/mumbai_web_designer/devto-laravel-with-react-or-vue-through-inertia-nj0)
+- [Your useOptimistic UI Might Be Lying to Users When the Server Action Actually Fails](https://dev.to/anas_sheikh_2/your-useoptimistic-ui-might-be-lying-to-users-when-the-server-action-actually-fails-582j)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 1, 2026)
+### 2 Days Ago (September 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
 - [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
 - [Next.js Cache Components Explained (with Cheat Sheet)](https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (August 31, 2026)
-
-#### Dev.to JavaScript
-
-- [React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It](https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo)
-- [A reactive JS framework for server-rendered apps — no Virtual DOM, no eval(), no build step required. Looking for critical feedback.](https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d)
-- [Merge PDFs in the browser with JavaScript (no uploads, no server)](https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o)
-
-#### Dev.to React
-
-- [React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It](https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo)
-- [How Farm.js compiles React components into direct DOM updates](https://dev.to/kinfish/how-farmjs-compiles-react-components-into-direct-dom-updates-375j)
-- [How to Build a Secure Google OAuth 2.0 Login Using React & Node.js](https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-03",
+    "formattedDate": "September 3, 2026",
+    "news": [
+      {
+        "title": "The rollback in gemini-cli restored an empty directory, and the test for it passed",
+        "link": "https://dev.to/mahirhir/the-rollback-in-gemini-cli-restored-an-empty-directory-and-the-test-for-it-passed-1g3e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A config-driven checkpoint quiz in vanilla JS, no build step",
+        "link": "https://dev.to/navcheckniamh/a-config-driven-checkpoint-quiz-in-vanilla-js-no-build-step-2eop",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "MyNotes: A Lightweight Offline-First Web App with Vanilla JavaScript",
+        "link": "https://dev.to/gurler/mynotes-a-lightweight-offline-first-web-app-with-vanilla-javascript-31af",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A button that covers another button passes every test you have",
+        "link": "https://dev.to/ytrofr/a-button-that-covers-another-button-passes-every-test-you-have-1j9b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Dev.to — Laravel with React or Vue through Inertia",
+        "link": "https://dev.to/mumbai_web_designer/devto-laravel-with-react-or-vue-through-inertia-nj0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your useOptimistic UI Might Be Lying to Users When the Server Action Actually Fails",
+        "link": "https://dev.to/anas_sheikh_2/your-useoptimistic-ui-might-be-lying-to-users-when-the-server-action-actually-fails-582j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-02",
     "formattedDate": "September 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Next.js Cache Components Explained (with Cheat Sheet)",
         "link": "https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "formattedDate": "August 31, 2026",
-    "news": [
-      {
-        "title": "React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It",
-        "link": "https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A reactive JS framework for server-rendered apps — no Virtual DOM, no eval(), no build step required. Looking for critical feedback.",
-        "link": "https://dev.to/kwy404/built-voodoojs-an-html-first-javascript-framework-with-reactivity-http-forms-and-no-virtual-249d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Merge PDFs in the browser with JavaScript (no uploads, no server)",
-        "link": "https://dev.to/jalalkhn/merge-pdfs-in-the-browser-with-javascript-no-uploads-no-server-213o",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React `useSyncExternalStore` in 2026: The Hook Every State Library Uses and Why You Should Understand It",
-        "link": "https://dev.to/jsmanifest/react-usesyncexternalstore-in-2026-the-hook-every-state-library-uses-and-why-you-should-4fmo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How Farm.js compiles React components into direct DOM updates",
-        "link": "https://dev.to/kinfish/how-farmjs-compiles-react-components-into-direct-dom-updates-375j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Build a Secure Google OAuth 2.0 Login Using React & Node.js",
-        "link": "https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp",
         "source": "Dev.to React"
       },
       {
