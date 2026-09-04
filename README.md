@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner](https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p)
-- [Stop Regex-Parsing document.cookie. Use CookieStore](https://dev.to/parsajiravand/stop-regex-parsing-documentcookie-use-cookiestore-5c41)
-- [10 Tips to Improve Performance in React Native Apps](https://dev.to/jahanzaibramzan/10-tips-to-improve-performance-in-react-native-apps-2aif)
+- [Break-even is not a profit, and my calculator said it was](https://dev.to/hammad4june1999/break-even-is-not-a-profit-and-my-calculator-said-it-was-pha)
+- [Vanilla Disintegrate — Modern and Impressive Animations for the Web](https://dev.to/uvarov-frontend/vanilla-disintegrate-modern-particle-effects-for-the-web-3bhd)
 
 #### Dev.to React
 
+- [Vue vs React: The Things Developers Notice After Building Real Applications](https://dev.to/hosseinhezami/vue-vs-react-the-things-developers-notice-after-building-real-applications-3bp6)
 - [revalidatePath es fuerza bruta, revalidateTag es precisión](https://dev.to/jtorchia/revalidatepath-es-fuerza-bruta-revalidatetag-es-precision-7e2)
-- [Your React app unmounts when a reader turns on Chrome translate](https://dev.to/davlat_aliev_392c20ec5c92/your-react-app-unmounts-when-a-reader-turns-on-chrome-translate-2hn3)
-- [revalidatePath is brute force, revalidateTag is precision](https://dev.to/jtorchia/revalidatepath-is-brute-force-revalidatetag-is-precision-8p3)
+- [I Rebuilt the Electrician's Conduit Bending Calculator Because Trig Shouldn't Require Dodging Popups](https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-electricians-conduit-bending-calculator-because-trig-shouldnt-require-dodging-popups-2g6d)
 
 #### React Blog
 
@@ -94,14 +94,19 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Regex-Parsing document.cookie. Use CookieStore",
-        "link": "https://dev.to/parsajiravand/stop-regex-parsing-documentcookie-use-cookiestore-5c41",
+        "title": "Break-even is not a profit, and my calculator said it was",
+        "link": "https://dev.to/hammad4june1999/break-even-is-not-a-profit-and-my-calculator-said-it-was-pha",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "10 Tips to Improve Performance in React Native Apps",
-        "link": "https://dev.to/jahanzaibramzan/10-tips-to-improve-performance-in-react-native-apps-2aif",
+        "title": "Vanilla Disintegrate — Modern and Impressive Animations for the Web",
+        "link": "https://dev.to/uvarov-frontend/vanilla-disintegrate-modern-particle-effects-for-the-web-3bhd",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vue vs React: The Things Developers Notice After Building Real Applications",
+        "link": "https://dev.to/hosseinhezami/vue-vs-react-the-things-developers-notice-after-building-real-applications-3bp6",
+        "source": "Dev.to React"
       },
       {
         "title": "revalidatePath es fuerza bruta, revalidateTag es precisión",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Your React app unmounts when a reader turns on Chrome translate",
-        "link": "https://dev.to/davlat_aliev_392c20ec5c92/your-react-app-unmounts-when-a-reader-turns-on-chrome-translate-2hn3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "revalidatePath is brute force, revalidateTag is precision",
-        "link": "https://dev.to/jtorchia/revalidatepath-is-brute-force-revalidatetag-is-precision-8p3",
+        "title": "I Rebuilt the Electrician's Conduit Bending Calculator Because Trig Shouldn't Require Dodging Popups",
+        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-electricians-conduit-bending-calculator-because-trig-shouldnt-require-dodging-popups-2g6d",
         "source": "Dev.to React"
       },
       {
