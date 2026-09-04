@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 3, 2026)
+### Today's Updates (September 4, 2026)
+
+#### Dev.to JavaScript
+
+- [[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner](https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p)
+- [Stop Regex-Parsing document.cookie. Use CookieStore](https://dev.to/parsajiravand/stop-regex-parsing-documentcookie-use-cookiestore-5c41)
+- [10 Tips to Improve Performance in React Native Apps](https://dev.to/jahanzaibramzan/10-tips-to-improve-performance-in-react-native-apps-2aif)
+
+#### Dev.to React
+
+- [revalidatePath es fuerza bruta, revalidateTag es precisión](https://dev.to/jtorchia/revalidatepath-es-fuerza-bruta-revalidatetag-es-precision-7e2)
+- [Your React app unmounts when a reader turns on Chrome translate](https://dev.to/davlat_aliev_392c20ec5c92/your-react-app-unmounts-when-a-reader-turns-on-chrome-translate-2hn3)
+- [revalidatePath is brute force, revalidateTag is precision](https://dev.to/jtorchia/revalidatepath-is-brute-force-revalidatetag-is-precision-8p3)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 2, 2026)
+### 2 Days Ago (September 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Construyendo un Sistema de Streaming Local con Node.js, React y FFmpeg](https://dev.to/rtagl/construyendo-un-sistema-de-streaming-local-con-nodejs-react-y-ffmpeg-42m5)
 - [Learning React - Ep.1](https://dev.to/vidhish_trivedi/learning-react-ep1-lp9)
 - [Structured designs produce better apps, so I built a workspace for making them](https://dev.to/nodlume/structured-designs-produce-better-apps-so-i-built-a-workspace-for-making-them-1p64)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 1, 2026)
-
-#### Dev.to JavaScript
-
-- [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
-- [SibuJS 4.0.1: Reactive Interfaces Without a Virtual DOM](https://dev.to/jose_ramirez/sibujs-401-reactive-interfaces-without-a-virtual-dom-2bch)
-- [I Ran My Plugins Against a Competitor's Own Test Suite](https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1)
-
-#### Dev.to React
-
-- [React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is](https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79)
-- [I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns](https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el)
-- [Next.js Cache Components Explained (with Cheat Sheet)](https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-04",
+    "formattedDate": "September 4, 2026",
+    "news": [
+      {
+        "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
+        "link": "https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Regex-Parsing document.cookie. Use CookieStore",
+        "link": "https://dev.to/parsajiravand/stop-regex-parsing-documentcookie-use-cookiestore-5c41",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "10 Tips to Improve Performance in React Native Apps",
+        "link": "https://dev.to/jahanzaibramzan/10-tips-to-improve-performance-in-react-native-apps-2aif",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "revalidatePath es fuerza bruta, revalidateTag es precisión",
+        "link": "https://dev.to/jtorchia/revalidatepath-es-fuerza-bruta-revalidatetag-es-precision-7e2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your React app unmounts when a reader turns on Chrome translate",
+        "link": "https://dev.to/davlat_aliev_392c20ec5c92/your-react-app-unmounts-when-a-reader-turns-on-chrome-translate-2hn3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "revalidatePath is brute force, revalidateTag is precision",
+        "link": "https://dev.to/jtorchia/revalidatepath-is-brute-force-revalidatetag-is-precision-8p3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-03",
     "formattedDate": "September 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Structured designs produce better apps, so I built a workspace for making them",
         "link": "https://dev.to/nodlume/structured-designs-produce-better-apps-so-i-built-a-workspace-for-making-them-1p64",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "formattedDate": "September 1, 2026",
-    "news": [
-      {
-        "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
-        "link": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "SibuJS 4.0.1: Reactive Interfaces Without a Virtual DOM",
-        "link": "https://dev.to/jose_ramirez/sibujs-401-reactive-interfaces-without-a-virtual-dom-2bch",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Ran My Plugins Against a Competitor's Own Test Suite",
-        "link": "https://dev.to/ofri-peretz/i-ran-my-plugins-against-a-competitors-own-test-suite-3ad1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
-        "link": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built a Browser-Based Tool That Turns Photos Into Cross-Stitch Patterns",
-        "link": "https://dev.to/taylorjojo/i-built-a-browser-based-tool-that-turns-photos-into-cross-stitch-patterns-el",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js Cache Components Explained (with Cheat Sheet)",
-        "link": "https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob",
         "source": "Dev.to React"
       },
       {
