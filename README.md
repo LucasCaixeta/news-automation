@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 4, 2026)
+### Today's Updates (September 5, 2026)
+
+#### Dev.to JavaScript
+
+- [toISOString() put 328 invoices in the wrong tax month](https://dev.to/stackedboost/toisostring-put-328-invoices-in-the-wrong-tax-month-2fj4)
+- [Designing Type-Safe Multi-Calendar Primitives in TypeScript Without 'any'](https://dev.to/parkpawapon/designing-type-safe-multi-calendar-primitives-in-typescript-without-any-g49)
+- [Web Workers in the Next.js App Router: Field Notes on import.meta.url, DataCloneError, and What a Worker Cannot Fix](https://dev.to/ahmed_mahmoud360/web-workers-in-the-nextjs-app-router-field-notes-on-importmetaurl-datacloneerror-and-what-a-ood)
+
+#### Dev.to React
+
+- [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm)
+- [Your coding agent can write the UI. It can't see that it broke it.](https://dev.to/igrlk/your-coding-agent-can-write-the-ui-it-cant-see-that-it-broke-it-3bi)
+- [I added Chess to my typing-practice app — you move pieces by writing code](https://dev.to/typre/i-added-chess-to-my-typing-practice-app-you-move-pieces-by-writing-code-2lf)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 3, 2026)
+### 2 Days Ago (September 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [When Forms Start Talking to Each Other](https://dev.to/nrazukasi/when-forms-start-talking-to-each-other-53al)
 - [Building Super-Flexible Web Applications](https://dev.to/nrazukasi/building-super-flexible-web-applications-65e)
 - [Wrapping Component Libraries](https://dev.to/nrazukasi/wrapping-component-libraries-3cj)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 2, 2026)
-
-#### Dev.to JavaScript
-
-- [Copy-Paste Fonts Are Not Fonts. Here Is What Broke My Code](https://dev.to/iris_khan_dev/copy-paste-fonts-are-not-fonts-here-is-what-broke-my-code-4kc9)
-- [I Shipped ESLint to the Browser in 362 KB. Now My Blog Posts Lint Your Code, Not Mine.](https://dev.to/ofri-peretz/i-shipped-eslint-to-the-browser-in-362-kb-now-my-blog-posts-lint-your-code-not-mine-3a4m)
-- [I Built a Link-in-Bio Platform… Then I Asked: “Why Would Anyone Come Back?”](https://dev.to/puneetkumar2010/i-built-a-link-in-bio-platform-then-i-asked-why-would-anyone-come-back-82b)
-
-#### Dev.to React
-
-- [Construyendo un Sistema de Streaming Local con Node.js, React y FFmpeg](https://dev.to/rtagl/construyendo-un-sistema-de-streaming-local-con-nodejs-react-y-ffmpeg-42m5)
-- [Learning React - Ep.1](https://dev.to/vidhish_trivedi/learning-react-ep1-lp9)
-- [Structured designs produce better apps, so I built a workspace for making them](https://dev.to/nodlume/structured-designs-produce-better-apps-so-i-built-a-workspace-for-making-them-1p64)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-05",
+    "formattedDate": "September 5, 2026",
+    "news": [
+      {
+        "title": "toISOString() put 328 invoices in the wrong tax month",
+        "link": "https://dev.to/stackedboost/toisostring-put-328-invoices-in-the-wrong-tax-month-2fj4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Designing Type-Safe Multi-Calendar Primitives in TypeScript Without 'any'",
+        "link": "https://dev.to/parkpawapon/designing-type-safe-multi-calendar-primitives-in-typescript-without-any-g49",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Web Workers in the Next.js App Router: Field Notes on import.meta.url, DataCloneError, and What a Worker Cannot Fix",
+        "link": "https://dev.to/ahmed_mahmoud360/web-workers-in-the-nextjs-app-router-field-notes-on-importmetaurl-datacloneerror-and-what-a-ood",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Compiler 1.0: What useMemo You Can Delete",
+        "link": "https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your coding agent can write the UI. It can't see that it broke it.",
+        "link": "https://dev.to/igrlk/your-coding-agent-can-write-the-ui-it-cant-see-that-it-broke-it-3bi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I added Chess to my typing-practice app — you move pieces by writing code",
+        "link": "https://dev.to/typre/i-added-chess-to-my-typing-practice-app-you-move-pieces-by-writing-code-2lf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-04",
     "formattedDate": "September 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Wrapping Component Libraries",
         "link": "https://dev.to/nrazukasi/wrapping-component-libraries-3cj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "formattedDate": "September 2, 2026",
-    "news": [
-      {
-        "title": "Copy-Paste Fonts Are Not Fonts. Here Is What Broke My Code",
-        "link": "https://dev.to/iris_khan_dev/copy-paste-fonts-are-not-fonts-here-is-what-broke-my-code-4kc9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Shipped ESLint to the Browser in 362 KB. Now My Blog Posts Lint Your Code, Not Mine.",
-        "link": "https://dev.to/ofri-peretz/i-shipped-eslint-to-the-browser-in-362-kb-now-my-blog-posts-lint-your-code-not-mine-3a4m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Link-in-Bio Platform… Then I Asked: “Why Would Anyone Come Back?”",
-        "link": "https://dev.to/puneetkumar2010/i-built-a-link-in-bio-platform-then-i-asked-why-would-anyone-come-back-82b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Construyendo un Sistema de Streaming Local con Node.js, React y FFmpeg",
-        "link": "https://dev.to/rtagl/construyendo-un-sistema-de-streaming-local-con-nodejs-react-y-ffmpeg-42m5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Learning React - Ep.1",
-        "link": "https://dev.to/vidhish_trivedi/learning-react-ep1-lp9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Structured designs produce better apps, so I built a workspace for making them",
-        "link": "https://dev.to/nodlume/structured-designs-produce-better-apps-so-i-built-a-workspace-for-making-them-1p64",
         "source": "Dev.to React"
       },
       {
