@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [toISOString() put 328 invoices in the wrong tax month](https://dev.to/stackedboost/toisostring-put-328-invoices-in-the-wrong-tax-month-2fj4)
-- [Designing Type-Safe Multi-Calendar Primitives in TypeScript Without 'any'](https://dev.to/parkpawapon/designing-type-safe-multi-calendar-primitives-in-typescript-without-any-g49)
-- [Web Workers in the Next.js App Router: Field Notes on import.meta.url, DataCloneError, and What a Worker Cannot Fix](https://dev.to/ahmed_mahmoud360/web-workers-in-the-nextjs-app-router-field-notes-on-importmetaurl-datacloneerror-and-what-a-ood)
+- [How do you prove you didn't do something? Two verifier scripts, one answer.](https://dev.to/palak1/how-do-you-prove-you-didnt-do-something-two-verifier-scripts-one-answer-29h7)
+- [Your Image Converter Probably Doesn't Need Your Image on a Server](https://dev.to/muhayminbinmehmood/your-image-converter-probably-doesnt-need-your-image-on-a-server-4415)
+- [I Used Google Apps Script to Automate My Most Boring Spreadsheet Tasks](https://dev.to/mahrosh_ishere_10687b6a5/i-used-google-apps-script-to-automate-my-most-boring-spreadsheet-tasks-l5d)
 
 #### Dev.to React
 
-- [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm)
+- [How to measure a Next.js memory leak and prove the diagnosis](https://dev.to/xabierlameiro/how-to-measure-a-nextjs-memory-leak-and-prove-the-diagnosis-59bg)
 - [Your coding agent can write the UI. It can't see that it broke it.](https://dev.to/igrlk/your-coding-agent-can-write-the-ui-it-cant-see-that-it-broke-it-3bi)
-- [I added Chess to my typing-practice app — you move pieces by writing code](https://dev.to/typre/i-added-chess-to-my-typing-practice-app-you-move-pieces-by-writing-code-2lf)
+- [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm)
 
 #### React Blog
 
@@ -89,23 +89,23 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 5, 2026",
     "news": [
       {
-        "title": "toISOString() put 328 invoices in the wrong tax month",
-        "link": "https://dev.to/stackedboost/toisostring-put-328-invoices-in-the-wrong-tax-month-2fj4",
+        "title": "How do you prove you didn't do something? Two verifier scripts, one answer.",
+        "link": "https://dev.to/palak1/how-do-you-prove-you-didnt-do-something-two-verifier-scripts-one-answer-29h7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Designing Type-Safe Multi-Calendar Primitives in TypeScript Without 'any'",
-        "link": "https://dev.to/parkpawapon/designing-type-safe-multi-calendar-primitives-in-typescript-without-any-g49",
+        "title": "Your Image Converter Probably Doesn't Need Your Image on a Server",
+        "link": "https://dev.to/muhayminbinmehmood/your-image-converter-probably-doesnt-need-your-image-on-a-server-4415",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Web Workers in the Next.js App Router: Field Notes on import.meta.url, DataCloneError, and What a Worker Cannot Fix",
-        "link": "https://dev.to/ahmed_mahmoud360/web-workers-in-the-nextjs-app-router-field-notes-on-importmetaurl-datacloneerror-and-what-a-ood",
+        "title": "I Used Google Apps Script to Automate My Most Boring Spreadsheet Tasks",
+        "link": "https://dev.to/mahrosh_ishere_10687b6a5/i-used-google-apps-script-to-automate-my-most-boring-spreadsheet-tasks-l5d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Compiler 1.0: What useMemo You Can Delete",
-        "link": "https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm",
+        "title": "How to measure a Next.js memory leak and prove the diagnosis",
+        "link": "https://dev.to/xabierlameiro/how-to-measure-a-nextjs-memory-leak-and-prove-the-diagnosis-59bg",
         "source": "Dev.to React"
       },
       {
@@ -114,8 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I added Chess to my typing-practice app — you move pieces by writing code",
-        "link": "https://dev.to/typre/i-added-chess-to-my-typing-practice-app-you-move-pieces-by-writing-code-2lf",
+        "title": "React Compiler 1.0: What useMemo You Can Delete",
+        "link": "https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm",
         "source": "Dev.to React"
       },
       {
