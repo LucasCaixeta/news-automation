@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.](https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b)
 - [Posting from a shed with one bar of signal: an offline write queue in plain JS](https://dev.to/canad1an/posting-from-a-shed-with-one-bar-of-signal-an-offline-write-queue-in-plain-js-4n6p)
-- [Building DevLog: What Happens When You Tell an AI to Think Like a Security Engineer First](https://dev.to/sa_a_334b500fa1f/building-devlog-what-happens-when-you-tell-an-ai-to-think-like-a-security-engineer-first-5b1b)
+- [Decompiling activetheory.net: Zero-GC Memory Management & GPGPU Particle Systems](https://dev.to/ddw-x/decompiling-activetheorynet-zero-gc-memory-management-gpgpu-particle-systems-11da)
 
 #### Dev.to React
 
-- [Master React 19 useOptimistic: The Git Rebase Model](https://dev.to/nainikmehta/master-react-19-useoptimistic-the-git-rebase-model-5dde)
-- [React & Frontend Engineer Career Path — Beyond Knowing React (2026)](https://dev.to/ciphemic_academia_3dad1a0/react-frontend-engineer-career-path-beyond-knowing-react-2026-1e76)
-- [How a University Student Built a 64+ Client-Side Utility Suite in 30 Days (React, WASM & AI)](https://dev.to/muhammad_abdullahsattar_/how-a-university-student-built-a-64-client-side-utility-suite-in-30-days-react-wasm-ai-1pi)
+- [The concepts that trip up senior engineers when they switch stacks](https://dev.to/kalavathibathula/the-concepts-that-trip-up-senior-engineers-when-they-switch-stacks-5ddi)
+- [This Week In React #295 : StyleX, browser(), Next.js, React Compiler | C++ API, Margelo, | Zod, pnpm, vgpu, Remix](https://dev.to/sebastienlorber/this-week-in-react-295-stylex-browser-nextjs-react-compiler-c-api-margelo-zod-5ggk)
+- [We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out](https://dev.to/syncstays_37e6c2e6e83a3a1/we-built-a-21-microfrontend-dashboard-with-module-federation-then-ripped-it-all-out-3ki8)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building DevLog: What Happens When You Tell an AI to Think Like a Security Engineer First",
-        "link": "https://dev.to/sa_a_334b500fa1f/building-devlog-what-happens-when-you-tell-an-ai-to-think-like-a-security-engineer-first-5b1b",
+        "title": "Decompiling activetheory.net: Zero-GC Memory Management & GPGPU Particle Systems",
+        "link": "https://dev.to/ddw-x/decompiling-activetheorynet-zero-gc-memory-management-gpgpu-particle-systems-11da",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Master React 19 useOptimistic: The Git Rebase Model",
-        "link": "https://dev.to/nainikmehta/master-react-19-useoptimistic-the-git-rebase-model-5dde",
+        "title": "The concepts that trip up senior engineers when they switch stacks",
+        "link": "https://dev.to/kalavathibathula/the-concepts-that-trip-up-senior-engineers-when-they-switch-stacks-5ddi",
         "source": "Dev.to React"
       },
       {
-        "title": "React & Frontend Engineer Career Path — Beyond Knowing React (2026)",
-        "link": "https://dev.to/ciphemic_academia_3dad1a0/react-frontend-engineer-career-path-beyond-knowing-react-2026-1e76",
+        "title": "This Week In React #295 : StyleX, browser(), Next.js, React Compiler | C++ API, Margelo, | Zod, pnpm, vgpu, Remix",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-295-stylex-browser-nextjs-react-compiler-c-api-margelo-zod-5ggk",
         "source": "Dev.to React"
       },
       {
-        "title": "How a University Student Built a 64+ Client-Side Utility Suite in 30 Days (React, WASM & AI)",
-        "link": "https://dev.to/muhammad_abdullahsattar_/how-a-university-student-built-a-64-client-side-utility-suite-in-30-days-react-wasm-ai-1pi",
+        "title": "We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out",
+        "link": "https://dev.to/syncstays_37e6c2e6e83a3a1/we-built-a-21-microfrontend-dashboard-with-module-federation-then-ripped-it-all-out-3ki8",
         "source": "Dev.to React"
       },
       {
