@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
-- [What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)](https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4)
-- [We checked every single-typo of the 30 most popular npm and PyPI packages. Here's what's actually registered.](https://dev.to/rushabh5000/we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-29j9)
+- [Web Workers in JavaScript: The Complete Guide](https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17)
+- [Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh)
+- [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
 
 #### Dev.to React
 
-- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
-- [What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)](https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4)
+- [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
 - [I built The Repair Line: turning small repairs into shared relief](https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg)
+- [GiveNext: Find a need. Offer what you have. Make an impact.](https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 7, 2026",
     "news": [
       {
-        "title": "This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm",
-        "link": "https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0",
+        "title": "Web Workers in JavaScript: The Complete Guide",
+        "link": "https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)",
-        "link": "https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4",
+        "title": "Our regex found 199 records in a 1,723-record corpus and reported no errors",
+        "link": "https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "We checked every single-typo of the 30 most popular npm and PyPI packages. Here's what's actually registered.",
-        "link": "https://dev.to/rushabh5000/we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-29j9",
+        "title": "How I Made My React Website Load Faster by Fixing Images",
+        "link": "https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm",
-        "link": "https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)",
-        "link": "https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4",
+        "title": "How I Made My React Website Load Faster by Fixing Images",
+        "link": "https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d",
         "source": "Dev.to React"
       },
       {
         "title": "I built The Repair Line: turning small repairs into shared relief",
         "link": "https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "GiveNext: Find a need. Offer what you have. Make an impact.",
+        "link": "https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om",
         "source": "Dev.to React"
       },
       {
