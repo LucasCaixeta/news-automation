@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 6, 2026)
+### Today's Updates (September 7, 2026)
+
+#### Dev.to JavaScript
+
+- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
+- [What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)](https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4)
+- [We checked every single-typo of the 30 most popular npm and PyPI packages. Here's what's actually registered.](https://dev.to/rushabh5000/we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-29j9)
+
+#### Dev.to React
+
+- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
+- [What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)](https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4)
+- [I built The Repair Line: turning small repairs into shared relief](https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 5, 2026)
+### 2 Days Ago (September 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to measure a Next.js memory leak and prove the diagnosis](https://dev.to/xabierlameiro/how-to-measure-a-nextjs-memory-leak-and-prove-the-diagnosis-59bg)
 - [Your coding agent can write the UI. It can't see that it broke it.](https://dev.to/igrlk/your-coding-agent-can-write-the-ui-it-cant-see-that-it-broke-it-3bi)
 - [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 4, 2026)
-
-#### Dev.to JavaScript
-
-- [[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner](https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p)
-- [Break-even is not a profit, and my calculator said it was](https://dev.to/hammad4june1999/break-even-is-not-a-profit-and-my-calculator-said-it-was-pha)
-- [Vanilla Disintegrate — Modern and Impressive Animations for the Web](https://dev.to/uvarov-frontend/vanilla-disintegrate-modern-particle-effects-for-the-web-3bhd)
-
-#### Dev.to React
-
-- [Vue vs React: The Things Developers Notice After Building Real Applications](https://dev.to/hosseinhezami/vue-vs-react-the-things-developers-notice-after-building-real-applications-3bp6)
-- [revalidatePath es fuerza bruta, revalidateTag es precisión](https://dev.to/jtorchia/revalidatepath-es-fuerza-bruta-revalidatetag-es-precision-7e2)
-- [I Rebuilt the Electrician's Conduit Bending Calculator Because Trig Shouldn't Require Dodging Popups](https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-electricians-conduit-bending-calculator-because-trig-shouldnt-require-dodging-popups-2g6d)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-07",
+    "formattedDate": "September 7, 2026",
+    "news": [
+      {
+        "title": "This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm",
+        "link": "https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)",
+        "link": "https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We checked every single-typo of the 30 most popular npm and PyPI packages. Here's what's actually registered.",
+        "link": "https://dev.to/rushabh5000/we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-29j9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm",
+        "link": "https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What’s the Fastest React Data Grid? Let’s Find Out (Benchmarks)",
+        "link": "https://dev.to/sylwia-lask/whats-the-fastest-react-data-grid-lets-find-out-benchmarks-58c4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built The Repair Line: turning small repairs into shared relief",
+        "link": "https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-06",
     "formattedDate": "September 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React Compiler 1.0: What useMemo You Can Delete",
         "link": "https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-04",
-    "formattedDate": "September 4, 2026",
-    "news": [
-      {
-        "title": "[Open Source Sharing] How I Built Three Small Party Games for a Spring Dinner",
-        "link": "https://dev.to/begoodtool/how-i-built-three-small-party-games-for-a-spring-dinner-1c5p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Break-even is not a profit, and my calculator said it was",
-        "link": "https://dev.to/hammad4june1999/break-even-is-not-a-profit-and-my-calculator-said-it-was-pha",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vanilla Disintegrate — Modern and Impressive Animations for the Web",
-        "link": "https://dev.to/uvarov-frontend/vanilla-disintegrate-modern-particle-effects-for-the-web-3bhd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vue vs React: The Things Developers Notice After Building Real Applications",
-        "link": "https://dev.to/hosseinhezami/vue-vs-react-the-things-developers-notice-after-building-real-applications-3bp6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "revalidatePath es fuerza bruta, revalidateTag es precisión",
-        "link": "https://dev.to/jtorchia/revalidatepath-es-fuerza-bruta-revalidatetag-es-precision-7e2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Rebuilt the Electrician's Conduit Bending Calculator Because Trig Shouldn't Require Dodging Popups",
-        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-electricians-conduit-bending-calculator-because-trig-shouldnt-require-dodging-popups-2g6d",
         "source": "Dev.to React"
       },
       {
