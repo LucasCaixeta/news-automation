@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 7, 2026)
+### Today's Updates (September 8, 2026)
+
+#### Dev.to JavaScript
+
+- [Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict](https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3)
+- ["Application error: a client-side exception has occurred" Is a Stale Chunk 404](https://dev.to/ai_changewatch/application-error-a-client-side-exception-has-occurred-is-a-stale-chunk-404-28nk)
+- [I built a drone Ground Control Station in Electron, using LiDAR for autonomous navigation](https://dev.to/lluisestape/i-built-a-drone-ground-control-station-in-electron-using-lidar-for-autonomous-navigation-2phn)
+
+#### Dev.to React
+
+- [Start Your React Rule File With State. Here Is How to Write That Section.](https://dev.to/avery_code/start-your-react-rule-file-with-state-here-is-how-to-write-that-section-2ngb)
+- [How We Optimized ScribeToAny: From 3.5s Cloudflare Cold Starts to a 95+ Lighthouse Score](https://dev.to/ray_mac/how-we-optimized-scribetoany-from-35s-cloudflare-cold-starts-to-a-95-lighthouse-score-be)
+- [Making a React Video Editor Agent-Friendly with Timeline Markers and MCP](https://dev.to/martindelophy/making-a-react-video-editor-agent-friendly-with-timeline-markers-and-mcp-k7h)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 6, 2026)
+### 2 Days Ago (September 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The concepts that trip up senior engineers when they switch stacks](https://dev.to/kalavathibathula/the-concepts-that-trip-up-senior-engineers-when-they-switch-stacks-5ddi)
 - [This Week In React #295 : StyleX, browser(), Next.js, React Compiler | C++ API, Margelo, | Zod, pnpm, vgpu, Remix](https://dev.to/sebastienlorber/this-week-in-react-295-stylex-browser-nextjs-react-compiler-c-api-margelo-zod-5ggk)
 - [We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out](https://dev.to/syncstays_37e6c2e6e83a3a1/we-built-a-21-microfrontend-dashboard-with-module-federation-then-ripped-it-all-out-3ki8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 5, 2026)
-
-#### Dev.to JavaScript
-
-- [How do you prove you didn't do something? Two verifier scripts, one answer.](https://dev.to/palak1/how-do-you-prove-you-didnt-do-something-two-verifier-scripts-one-answer-29h7)
-- [Your Image Converter Probably Doesn't Need Your Image on a Server](https://dev.to/muhayminbinmehmood/your-image-converter-probably-doesnt-need-your-image-on-a-server-4415)
-- [I Used Google Apps Script to Automate My Most Boring Spreadsheet Tasks](https://dev.to/mahrosh_ishere_10687b6a5/i-used-google-apps-script-to-automate-my-most-boring-spreadsheet-tasks-l5d)
-
-#### Dev.to React
-
-- [How to measure a Next.js memory leak and prove the diagnosis](https://dev.to/xabierlameiro/how-to-measure-a-nextjs-memory-leak-and-prove-the-diagnosis-59bg)
-- [Your coding agent can write the UI. It can't see that it broke it.](https://dev.to/igrlk/your-coding-agent-can-write-the-ui-it-cant-see-that-it-broke-it-3bi)
-- [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-08",
+    "formattedDate": "September 8, 2026",
+    "news": [
+      {
+        "title": "Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict",
+        "link": "https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "\"Application error: a client-side exception has occurred\" Is a Stale Chunk 404",
+        "link": "https://dev.to/ai_changewatch/application-error-a-client-side-exception-has-occurred-is-a-stale-chunk-404-28nk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a drone Ground Control Station in Electron, using LiDAR for autonomous navigation",
+        "link": "https://dev.to/lluisestape/i-built-a-drone-ground-control-station-in-electron-using-lidar-for-autonomous-navigation-2phn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Start Your React Rule File With State. Here Is How to Write That Section.",
+        "link": "https://dev.to/avery_code/start-your-react-rule-file-with-state-here-is-how-to-write-that-section-2ngb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How We Optimized ScribeToAny: From 3.5s Cloudflare Cold Starts to a 95+ Lighthouse Score",
+        "link": "https://dev.to/ray_mac/how-we-optimized-scribetoany-from-35s-cloudflare-cold-starts-to-a-95-lighthouse-score-be",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Making a React Video Editor Agent-Friendly with Timeline Markers and MCP",
+        "link": "https://dev.to/martindelophy/making-a-react-video-editor-agent-friendly-with-timeline-markers-and-mcp-k7h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-07",
     "formattedDate": "September 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out",
         "link": "https://dev.to/syncstays_37e6c2e6e83a3a1/we-built-a-21-microfrontend-dashboard-with-module-federation-then-ripped-it-all-out-3ki8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "formattedDate": "September 5, 2026",
-    "news": [
-      {
-        "title": "How do you prove you didn't do something? Two verifier scripts, one answer.",
-        "link": "https://dev.to/palak1/how-do-you-prove-you-didnt-do-something-two-verifier-scripts-one-answer-29h7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Image Converter Probably Doesn't Need Your Image on a Server",
-        "link": "https://dev.to/muhayminbinmehmood/your-image-converter-probably-doesnt-need-your-image-on-a-server-4415",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Used Google Apps Script to Automate My Most Boring Spreadsheet Tasks",
-        "link": "https://dev.to/mahrosh_ishere_10687b6a5/i-used-google-apps-script-to-automate-my-most-boring-spreadsheet-tasks-l5d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to measure a Next.js memory leak and prove the diagnosis",
-        "link": "https://dev.to/xabierlameiro/how-to-measure-a-nextjs-memory-leak-and-prove-the-diagnosis-59bg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Your coding agent can write the UI. It can't see that it broke it.",
-        "link": "https://dev.to/igrlk/your-coding-agent-can-write-the-ui-it-cant-see-that-it-broke-it-3bi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Compiler 1.0: What useMemo You Can Delete",
-        "link": "https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm",
         "source": "Dev.to React"
       },
       {
