@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict](https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3)
-- ["Application error: a client-side exception has occurred" Is a Stale Chunk 404](https://dev.to/ai_changewatch/application-error-a-client-side-exception-has-occurred-is-a-stale-chunk-404-28nk)
-- [I built a drone Ground Control Station in Electron, using LiDAR for autonomous navigation](https://dev.to/lluisestape/i-built-a-drone-ground-control-station-in-electron-using-lidar-for-autonomous-navigation-2phn)
+- [How to split one monthly savings budget across competing goals](https://dev.to/begoodtool/how-to-split-one-monthly-savings-budget-across-competing-goals-42ep)
+- [300+ Iterations Later: My Two-Year Journey Designing a New Reactive Paradigm](https://dev.to/soffinal/i-spent-two-years-building-a-reactive-library-heres-what-i-learned-53gn)
+- [I'm 12. I built 4 apps. Now I'm stuck. I'm looking for a co-founder.](https://dev.to/koda2026/im-12-i-built-4-apps-now-im-stuck-im-looking-for-a-co-founder-586b)
 
 #### Dev.to React
 
-- [Start Your React Rule File With State. Here Is How to Write That Section.](https://dev.to/avery_code/start-your-react-rule-file-with-state-here-is-how-to-write-that-section-2ngb)
-- [How We Optimized ScribeToAny: From 3.5s Cloudflare Cold Starts to a 95+ Lighthouse Score](https://dev.to/ray_mac/how-we-optimized-scribetoany-from-35s-cloudflare-cold-starts-to-a-95-lighthouse-score-be)
-- [Making a React Video Editor Agent-Friendly with Timeline Markers and MCP](https://dev.to/martindelophy/making-a-react-video-editor-agent-friendly-with-timeline-markers-and-mcp-k7h)
+- [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4)
+- [I Wired the Boring 80% So You Can Build the Interesting 20%](https://dev.to/ihssmaheel/i-wired-the-boring-80-so-you-can-build-the-interesting-20-3dfm)
+- [Mastering React Server Components: Understanding the Server/Client Boundary](https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 8, 2026",
     "news": [
       {
-        "title": "Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict",
-        "link": "https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3",
+        "title": "How to split one monthly savings budget across competing goals",
+        "link": "https://dev.to/begoodtool/how-to-split-one-monthly-savings-budget-across-competing-goals-42ep",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "\"Application error: a client-side exception has occurred\" Is a Stale Chunk 404",
-        "link": "https://dev.to/ai_changewatch/application-error-a-client-side-exception-has-occurred-is-a-stale-chunk-404-28nk",
+        "title": "300+ Iterations Later: My Two-Year Journey Designing a New Reactive Paradigm",
+        "link": "https://dev.to/soffinal/i-spent-two-years-building-a-reactive-library-heres-what-i-learned-53gn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a drone Ground Control Station in Electron, using LiDAR for autonomous navigation",
-        "link": "https://dev.to/lluisestape/i-built-a-drone-ground-control-station-in-electron-using-lidar-for-autonomous-navigation-2phn",
+        "title": "I'm 12. I built 4 apps. Now I'm stuck. I'm looking for a co-founder.",
+        "link": "https://dev.to/koda2026/im-12-i-built-4-apps-now-im-stuck-im-looking-for-a-co-founder-586b",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Start Your React Rule File With State. Here Is How to Write That Section.",
-        "link": "https://dev.to/avery_code/start-your-react-rule-file-with-state-here-is-how-to-write-that-section-2ngb",
+        "title": "Would You Choose a Library Because AI Writes It Better?",
+        "link": "https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4",
         "source": "Dev.to React"
       },
       {
-        "title": "How We Optimized ScribeToAny: From 3.5s Cloudflare Cold Starts to a 95+ Lighthouse Score",
-        "link": "https://dev.to/ray_mac/how-we-optimized-scribetoany-from-35s-cloudflare-cold-starts-to-a-95-lighthouse-score-be",
+        "title": "I Wired the Boring 80% So You Can Build the Interesting 20%",
+        "link": "https://dev.to/ihssmaheel/i-wired-the-boring-80-so-you-can-build-the-interesting-20-3dfm",
         "source": "Dev.to React"
       },
       {
-        "title": "Making a React Video Editor Agent-Friendly with Timeline Markers and MCP",
-        "link": "https://dev.to/martindelophy/making-a-react-video-editor-agent-friendly-with-timeline-markers-and-mcp-k7h",
+        "title": "Mastering React Server Components: Understanding the Server/Client Boundary",
+        "link": "https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1",
         "source": "Dev.to React"
       },
       {
