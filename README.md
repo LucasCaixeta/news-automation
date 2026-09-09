@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
-- [Building a serverless Chrome Extension to safely extract Facebook Group data](https://dev.to/anton_prokopets_0f79fa54d/building-a-serverless-chrome-extension-to-safely-extract-facebook-group-data-4fjp)
-- [How I Built a 100% Client-Side 8MB Video Compressor in Next.js with WebAssembly](https://dev.to/anaslaribi95/how-i-built-a-100-client-side-8mb-video-compressor-in-nextjs-with-webassembly-77f)
+- [I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week](https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi)
+- [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4)
 
 #### Dev.to React
 
 - [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
-- [How I stop re-renders in big React forms: uncontrolled refs](https://dev.to/yaseenyk04/how-i-stop-re-renders-in-big-react-forms-uncontrolled-refs-4k5m)
-- [Surviving Dropped SSE Connections in Multi-Agent Streaming UIs](https://dev.to/ken_2234/surviving-dropped-sse-connections-in-multi-agent-streaming-uis-265f)
+- [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4)
+- [5 more React interview questions I'd actually ask (and how I'd answer them)](https://dev.to/101beardo/5-more-react-interview-questions-id-actually-ask-and-how-id-answer-them-1pj)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a serverless Chrome Extension to safely extract Facebook Group data",
-        "link": "https://dev.to/anton_prokopets_0f79fa54d/building-a-serverless-chrome-extension-to-safely-extract-facebook-group-data-4fjp",
+        "title": "I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week",
+        "link": "https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Built a 100% Client-Side 8MB Video Compressor in Next.js with WebAssembly",
-        "link": "https://dev.to/anaslaribi95/how-i-built-a-100-client-side-8mb-video-compressor-in-nextjs-with-webassembly-77f",
+        "title": "Bridging RxJS BehaviorSubject and React with useSyncExternalStore",
+        "link": "https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How I stop re-renders in big React forms: uncontrolled refs",
-        "link": "https://dev.to/yaseenyk04/how-i-stop-re-renders-in-big-react-forms-uncontrolled-refs-4k5m",
+        "title": "Bridging RxJS BehaviorSubject and React with useSyncExternalStore",
+        "link": "https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4",
         "source": "Dev.to React"
       },
       {
-        "title": "Surviving Dropped SSE Connections in Multi-Agent Streaming UIs",
-        "link": "https://dev.to/ken_2234/surviving-dropped-sse-connections-in-multi-agent-streaming-uis-265f",
+        "title": "5 more React interview questions I'd actually ask (and how I'd answer them)",
+        "link": "https://dev.to/101beardo/5-more-react-interview-questions-id-actually-ask-and-how-id-answer-them-1pj",
         "source": "Dev.to React"
       },
       {
