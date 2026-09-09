@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 8, 2026)
+### Today's Updates (September 9, 2026)
+
+#### Dev.to JavaScript
+
+- [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
+- [Building a serverless Chrome Extension to safely extract Facebook Group data](https://dev.to/anton_prokopets_0f79fa54d/building-a-serverless-chrome-extension-to-safely-extract-facebook-group-data-4fjp)
+- [How I Built a 100% Client-Side 8MB Video Compressor in Next.js with WebAssembly](https://dev.to/anaslaribi95/how-i-built-a-100-client-side-8mb-video-compressor-in-nextjs-with-webassembly-77f)
+
+#### Dev.to React
+
+- [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
+- [How I stop re-renders in big React forms: uncontrolled refs](https://dev.to/yaseenyk04/how-i-stop-re-renders-in-big-react-forms-uncontrolled-refs-4k5m)
+- [Surviving Dropped SSE Connections in Multi-Agent Streaming UIs](https://dev.to/ken_2234/surviving-dropped-sse-connections-in-multi-agent-streaming-uis-265f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 7, 2026)
+### 2 Days Ago (September 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
 - [I built The Repair Line: turning small repairs into shared relief](https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg)
 - [GiveNext: Find a need. Offer what you have. Make an impact.](https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 6, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.](https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b)
-- [Posting from a shed with one bar of signal: an offline write queue in plain JS](https://dev.to/canad1an/posting-from-a-shed-with-one-bar-of-signal-an-offline-write-queue-in-plain-js-4n6p)
-- [Decompiling activetheory.net: Zero-GC Memory Management & GPGPU Particle Systems](https://dev.to/ddw-x/decompiling-activetheorynet-zero-gc-memory-management-gpgpu-particle-systems-11da)
-
-#### Dev.to React
-
-- [The concepts that trip up senior engineers when they switch stacks](https://dev.to/kalavathibathula/the-concepts-that-trip-up-senior-engineers-when-they-switch-stacks-5ddi)
-- [This Week In React #295 : StyleX, browser(), Next.js, React Compiler | C++ API, Margelo, | Zod, pnpm, vgpu, Remix](https://dev.to/sebastienlorber/this-week-in-react-295-stylex-browser-nextjs-react-compiler-c-api-margelo-zod-5ggk)
-- [We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out](https://dev.to/syncstays_37e6c2e6e83a3a1/we-built-a-21-microfrontend-dashboard-with-module-federation-then-ripped-it-all-out-3ki8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-09",
+    "formattedDate": "September 9, 2026",
+    "news": [
+      {
+        "title": "I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice",
+        "link": "https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a serverless Chrome Extension to safely extract Facebook Group data",
+        "link": "https://dev.to/anton_prokopets_0f79fa54d/building-a-serverless-chrome-extension-to-safely-extract-facebook-group-data-4fjp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a 100% Client-Side 8MB Video Compressor in Next.js with WebAssembly",
+        "link": "https://dev.to/anaslaribi95/how-i-built-a-100-client-side-8mb-video-compressor-in-nextjs-with-webassembly-77f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice",
+        "link": "https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I stop re-renders in big React forms: uncontrolled refs",
+        "link": "https://dev.to/yaseenyk04/how-i-stop-re-renders-in-big-react-forms-uncontrolled-refs-4k5m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Surviving Dropped SSE Connections in Multi-Agent Streaming UIs",
+        "link": "https://dev.to/ken_2234/surviving-dropped-sse-connections-in-multi-agent-streaming-uis-265f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-08",
     "formattedDate": "September 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "GiveNext: Find a need. Offer what you have. Make an impact.",
         "link": "https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "formattedDate": "September 6, 2026",
-    "news": [
-      {
-        "title": "I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.",
-        "link": "https://dev.to/wiseai/i-built-a-version-bump-tool-in-rust-that-is-10000x-faster-than-its-python-counterparts-i6b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Posting from a shed with one bar of signal: an offline write queue in plain JS",
-        "link": "https://dev.to/canad1an/posting-from-a-shed-with-one-bar-of-signal-an-offline-write-queue-in-plain-js-4n6p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Decompiling activetheory.net: Zero-GC Memory Management & GPGPU Particle Systems",
-        "link": "https://dev.to/ddw-x/decompiling-activetheorynet-zero-gc-memory-management-gpgpu-particle-systems-11da",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The concepts that trip up senior engineers when they switch stacks",
-        "link": "https://dev.to/kalavathibathula/the-concepts-that-trip-up-senior-engineers-when-they-switch-stacks-5ddi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "This Week In React #295 : StyleX, browser(), Next.js, React Compiler | C++ API, Margelo, | Zod, pnpm, vgpu, Remix",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-295-stylex-browser-nextjs-react-compiler-c-api-margelo-zod-5ggk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out",
-        "link": "https://dev.to/syncstays_37e6c2e6e83a3a1/we-built-a-21-microfrontend-dashboard-with-module-federation-then-ripped-it-all-out-3ki8",
         "source": "Dev.to React"
       },
       {
