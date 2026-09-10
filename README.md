@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 9, 2026)
+### Today's Updates (September 10, 2026)
+
+#### Dev.to JavaScript
+
+- [My number-to-words converter was lying about big numbers. Here's the fix (36 digits, no floats)](https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io)
+- [I Shipped 'Passwordless Login.' It Still Asked for a Username.](https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7)
+- [How We Built the AgenticOS Desktop Pets](https://dev.to/deenuu1/how-we-built-the-agenticos-desktop-pets-5e93)
+
+#### Dev.to React
+
+- [Building a Fast Multi-Source Music Discovery Pipeline with FastAPI](https://dev.to/nidhaldal/building-a-fast-multi-source-music-discovery-pipeline-with-fastapi-3ai5)
+- [Profiling a React app from request to paint](https://dev.to/yaseenyk04/profiling-a-react-app-from-request-to-paint-5hgp)
+- [Build a Keyword-Based Resume Analyzer with FastAPI and React](https://dev.to/prakrati_pawar_11/build-a-keyword-based-resume-analyzer-with-fastapi-and-react-kkl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 8, 2026)
+### 2 Days Ago (September 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4)
 - [I Wired the Boring 80% So You Can Build the Interesting 20%](https://dev.to/ihssmaheel/i-wired-the-boring-80-so-you-can-build-the-interesting-20-3dfm)
 - [Mastering React Server Components: Understanding the Server/Client Boundary](https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 7, 2026)
-
-#### Dev.to JavaScript
-
-- [Web Workers in JavaScript: The Complete Guide](https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17)
-- [Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh)
-- [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
-
-#### Dev.to React
-
-- [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
-- [I built The Repair Line: turning small repairs into shared relief](https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg)
-- [GiveNext: Find a need. Offer what you have. Make an impact.](https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-10",
+    "formattedDate": "September 10, 2026",
+    "news": [
+      {
+        "title": "My number-to-words converter was lying about big numbers. Here's the fix (36 digits, no floats)",
+        "link": "https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Shipped 'Passwordless Login.' It Still Asked for a Username.",
+        "link": "https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How We Built the AgenticOS Desktop Pets",
+        "link": "https://dev.to/deenuu1/how-we-built-the-agenticos-desktop-pets-5e93",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Fast Multi-Source Music Discovery Pipeline with FastAPI",
+        "link": "https://dev.to/nidhaldal/building-a-fast-multi-source-music-discovery-pipeline-with-fastapi-3ai5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Profiling a React app from request to paint",
+        "link": "https://dev.to/yaseenyk04/profiling-a-react-app-from-request-to-paint-5hgp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Build a Keyword-Based Resume Analyzer with FastAPI and React",
+        "link": "https://dev.to/prakrati_pawar_11/build-a-keyword-based-resume-analyzer-with-fastapi-and-react-kkl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-09",
     "formattedDate": "September 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering React Server Components: Understanding the Server/Client Boundary",
         "link": "https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "formattedDate": "September 7, 2026",
-    "news": [
-      {
-        "title": "Web Workers in JavaScript: The Complete Guide",
-        "link": "https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Our regex found 199 records in a 1,723-record corpus and reported no errors",
-        "link": "https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Made My React Website Load Faster by Fixing Images",
-        "link": "https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Made My React Website Load Faster by Fixing Images",
-        "link": "https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built The Repair Line: turning small repairs into shared relief",
-        "link": "https://dev.to/reet_singh_ee97da2986538e/i-built-the-repair-line-turning-small-repairs-into-shared-relief-39bg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "GiveNext: Find a need. Offer what you have. Make an impact.",
-        "link": "https://dev.to/amelia2802/givenext-find-a-need-offer-what-you-have-make-an-impact-54om",
         "source": "Dev.to React"
       },
       {
