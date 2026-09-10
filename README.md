@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [My number-to-words converter was lying about big numbers. Here's the fix (36 digits, no floats)](https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io)
-- [I Shipped 'Passwordless Login.' It Still Asked for a Username.](https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7)
-- [How We Built the AgenticOS Desktop Pets](https://dev.to/deenuu1/how-we-built-the-agenticos-desktop-pets-5e93)
+- [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8)
+- [HTTP QUERY Has Arrived: The Method That Fills the Gap Between GET and POST](https://dev.to/danilo_bossanova/http-query-has-arrived-the-method-that-fills-the-gap-between-get-and-post-5cnp)
+- [Designing a Crash-Style Demo Interface in the Browser](https://dev.to/bairam_bekk_4325ff4b3f076/designing-a-crash-style-demo-interface-in-the-browser-29on)
 
 #### Dev.to React
 
-- [Building a Fast Multi-Source Music Discovery Pipeline with FastAPI](https://dev.to/nidhaldal/building-a-fast-multi-source-music-discovery-pipeline-with-fastapi-3ai5)
-- [Profiling a React app from request to paint](https://dev.to/yaseenyk04/profiling-a-react-app-from-request-to-paint-5hgp)
-- [Build a Keyword-Based Resume Analyzer with FastAPI and React](https://dev.to/prakrati_pawar_11/build-a-keyword-based-resume-analyzer-with-fastapi-and-react-kkl)
+- [An Aspiring Game Dev Makes a Web Game](https://dev.to/jaggeredshane/an-aspiring-game-dev-makes-a-web-game-1ijb)
+- [How to build an Indian State & District Dependent Dropdown in React (Clean JSON Dataset)](https://dev.to/codingmation/how-to-build-an-indian-state-district-dependent-dropdown-in-react-clean-json-dataset-84g)
+- [Stop Using a mounted Flag to Fix Theme Flash: Use useSyncExternalStore Instead](https://dev.to/udlxix/stop-using-a-mounted-flag-to-fix-theme-flash-use-usesyncexternalstore-instead-4emo)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 10, 2026",
     "news": [
       {
-        "title": "My number-to-words converter was lying about big numbers. Here's the fix (36 digits, no floats)",
-        "link": "https://dev.to/farcrak/my-number-to-words-converter-was-lying-about-big-numbers-heres-the-fix-36-digits-no-floats-42io",
+        "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+        "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Shipped 'Passwordless Login.' It Still Asked for a Username.",
-        "link": "https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7",
+        "title": "HTTP QUERY Has Arrived: The Method That Fills the Gap Between GET and POST",
+        "link": "https://dev.to/danilo_bossanova/http-query-has-arrived-the-method-that-fills-the-gap-between-get-and-post-5cnp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How We Built the AgenticOS Desktop Pets",
-        "link": "https://dev.to/deenuu1/how-we-built-the-agenticos-desktop-pets-5e93",
+        "title": "Designing a Crash-Style Demo Interface in the Browser",
+        "link": "https://dev.to/bairam_bekk_4325ff4b3f076/designing-a-crash-style-demo-interface-in-the-browser-29on",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Fast Multi-Source Music Discovery Pipeline with FastAPI",
-        "link": "https://dev.to/nidhaldal/building-a-fast-multi-source-music-discovery-pipeline-with-fastapi-3ai5",
+        "title": "An Aspiring Game Dev Makes a Web Game",
+        "link": "https://dev.to/jaggeredshane/an-aspiring-game-dev-makes-a-web-game-1ijb",
         "source": "Dev.to React"
       },
       {
-        "title": "Profiling a React app from request to paint",
-        "link": "https://dev.to/yaseenyk04/profiling-a-react-app-from-request-to-paint-5hgp",
+        "title": "How to build an Indian State & District Dependent Dropdown in React (Clean JSON Dataset)",
+        "link": "https://dev.to/codingmation/how-to-build-an-indian-state-district-dependent-dropdown-in-react-clean-json-dataset-84g",
         "source": "Dev.to React"
       },
       {
-        "title": "Build a Keyword-Based Resume Analyzer with FastAPI and React",
-        "link": "https://dev.to/prakrati_pawar_11/build-a-keyword-based-resume-analyzer-with-fastapi-and-react-kkl",
+        "title": "Stop Using a mounted Flag to Fix Theme Flash: Use useSyncExternalStore Instead",
+        "link": "https://dev.to/udlxix/stop-using-a-mounted-flag-to-fix-theme-flash-use-usesyncexternalstore-instead-4emo",
         "source": "Dev.to React"
       },
       {
