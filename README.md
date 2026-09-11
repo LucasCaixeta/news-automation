@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 10, 2026)
+### Today's Updates (September 11, 2026)
+
+#### Dev.to JavaScript
+
+- [Server Components vs Client Components: A Mental Model That Actually Sticks](https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg)
+- [Inertia.js Infinite Scroll: Why Page 2 Replaced Existing Posts Instead of Appending Them](https://dev.to/xmarynkam/inertiajs-infinite-scroll-why-page-2-replaced-existing-posts-instead-of-appending-them-1jad)
+- [Stop Writing Smart Code. Start Writing Dumb Code.](https://dev.to/hizba_31d77c41803163b8ff0/stop-writing-smart-code-start-writing-dumb-code-338k)
+
+#### Dev.to React
+
+- [Server Components vs Client Components: A Mental Model That Actually Sticks](https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg)
+- [Latency under load: the same story as throughput, from the other side](https://dev.to/sunnysahijwani/latency-under-load-the-same-story-as-throughput-from-the-other-side-544j)
+- [Building an AI-Powered Multiplayer Quiz Platform Without a Traditional Backend](https://dev.to/jeswin_madona/building-an-ai-powered-multiplayer-quiz-platform-without-a-traditional-backend-5ke)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 9, 2026)
+### 2 Days Ago (September 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
 - [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4)
 - [5 more React interview questions I'd actually ask (and how I'd answer them)](https://dev.to/101beardo/5-more-react-interview-questions-id-actually-ask-and-how-id-answer-them-1pj)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 8, 2026)
-
-#### Dev.to JavaScript
-
-- [How to split one monthly savings budget across competing goals](https://dev.to/begoodtool/how-to-split-one-monthly-savings-budget-across-competing-goals-42ep)
-- [300+ Iterations Later: My Two-Year Journey Designing a New Reactive Paradigm](https://dev.to/soffinal/i-spent-two-years-building-a-reactive-library-heres-what-i-learned-53gn)
-- [I'm 12. I built 4 apps. Now I'm stuck. I'm looking for a co-founder.](https://dev.to/koda2026/im-12-i-built-4-apps-now-im-stuck-im-looking-for-a-co-founder-586b)
-
-#### Dev.to React
-
-- [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4)
-- [I Wired the Boring 80% So You Can Build the Interesting 20%](https://dev.to/ihssmaheel/i-wired-the-boring-80-so-you-can-build-the-interesting-20-3dfm)
-- [Mastering React Server Components: Understanding the Server/Client Boundary](https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-11",
+    "formattedDate": "September 11, 2026",
+    "news": [
+      {
+        "title": "Server Components vs Client Components: A Mental Model That Actually Sticks",
+        "link": "https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Inertia.js Infinite Scroll: Why Page 2 Replaced Existing Posts Instead of Appending Them",
+        "link": "https://dev.to/xmarynkam/inertiajs-infinite-scroll-why-page-2-replaced-existing-posts-instead-of-appending-them-1jad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Writing Smart Code. Start Writing Dumb Code.",
+        "link": "https://dev.to/hizba_31d77c41803163b8ff0/stop-writing-smart-code-start-writing-dumb-code-338k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Server Components vs Client Components: A Mental Model That Actually Sticks",
+        "link": "https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Latency under load: the same story as throughput, from the other side",
+        "link": "https://dev.to/sunnysahijwani/latency-under-load-the-same-story-as-throughput-from-the-other-side-544j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building an AI-Powered Multiplayer Quiz Platform Without a Traditional Backend",
+        "link": "https://dev.to/jeswin_madona/building-an-ai-powered-multiplayer-quiz-platform-without-a-traditional-backend-5ke",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-10",
     "formattedDate": "September 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "5 more React interview questions I'd actually ask (and how I'd answer them)",
         "link": "https://dev.to/101beardo/5-more-react-interview-questions-id-actually-ask-and-how-id-answer-them-1pj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-08",
-    "formattedDate": "September 8, 2026",
-    "news": [
-      {
-        "title": "How to split one monthly savings budget across competing goals",
-        "link": "https://dev.to/begoodtool/how-to-split-one-monthly-savings-budget-across-competing-goals-42ep",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "300+ Iterations Later: My Two-Year Journey Designing a New Reactive Paradigm",
-        "link": "https://dev.to/soffinal/i-spent-two-years-building-a-reactive-library-heres-what-i-learned-53gn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I'm 12. I built 4 apps. Now I'm stuck. I'm looking for a co-founder.",
-        "link": "https://dev.to/koda2026/im-12-i-built-4-apps-now-im-stuck-im-looking-for-a-co-founder-586b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Would You Choose a Library Because AI Writes It Better?",
-        "link": "https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Wired the Boring 80% So You Can Build the Interesting 20%",
-        "link": "https://dev.to/ihssmaheel/i-wired-the-boring-80-so-you-can-build-the-interesting-20-3dfm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering React Server Components: Understanding the Server/Client Boundary",
-        "link": "https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1",
         "source": "Dev.to React"
       },
       {
