@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Server Components vs Client Components: A Mental Model That Actually Sticks](https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg)
-- [Inertia.js Infinite Scroll: Why Page 2 Replaced Existing Posts Instead of Appending Them](https://dev.to/xmarynkam/inertiajs-infinite-scroll-why-page-2-replaced-existing-posts-instead-of-appending-them-1jad)
-- [Stop Writing Smart Code. Start Writing Dumb Code.](https://dev.to/hizba_31d77c41803163b8ff0/stop-writing-smart-code-start-writing-dumb-code-338k)
+- [Matching Blood Donors by GPS: The Geospatial Query Design Behind GeoBlood](https://dev.to/obaid03/matching-blood-donors-by-gps-the-geospatial-query-design-behind-geoblood-26dg)
+- [Mohdel 1.0: a self-hosted LLM gateway and SDK for Node](https://dev.to/clbrge/mohdel-10-a-self-hosted-llm-gateway-and-sdk-for-node-3n03)
+- [A pure, seeded game engine gives you multiplayer almost for free](https://dev.to/mighty840/a-pure-seeded-game-engine-gives-you-multiplayer-almost-for-free-4412)
 
 #### Dev.to React
 
-- [Server Components vs Client Components: A Mental Model That Actually Sticks](https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg)
-- [Latency under load: the same story as throughput, from the other side](https://dev.to/sunnysahijwani/latency-under-load-the-same-story-as-throughput-from-the-other-side-544j)
-- [Building an AI-Powered Multiplayer Quiz Platform Without a Traditional Backend](https://dev.to/jeswin_madona/building-an-ai-powered-multiplayer-quiz-platform-without-a-traditional-backend-5ke)
+- [React Compiler Automatic Memoization Guide](https://dev.to/locionic/react-compiler-automatic-memoization-guide-3jcj)
+- [Migrating to React Native Skia without a feature freeze](https://dev.to/techamit95ch/migrating-to-react-native-skia-without-a-feature-freeze-3a21)
+- [React 19 Ref as Prop: Simplify TypeScript Components](https://dev.to/nainikmehta/react-19-ref-as-prop-simplify-typescript-components-1g0d)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 11, 2026",
     "news": [
       {
-        "title": "Server Components vs Client Components: A Mental Model That Actually Sticks",
-        "link": "https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg",
+        "title": "Matching Blood Donors by GPS: The Geospatial Query Design Behind GeoBlood",
+        "link": "https://dev.to/obaid03/matching-blood-donors-by-gps-the-geospatial-query-design-behind-geoblood-26dg",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Inertia.js Infinite Scroll: Why Page 2 Replaced Existing Posts Instead of Appending Them",
-        "link": "https://dev.to/xmarynkam/inertiajs-infinite-scroll-why-page-2-replaced-existing-posts-instead-of-appending-them-1jad",
+        "title": "Mohdel 1.0: a self-hosted LLM gateway and SDK for Node",
+        "link": "https://dev.to/clbrge/mohdel-10-a-self-hosted-llm-gateway-and-sdk-for-node-3n03",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Writing Smart Code. Start Writing Dumb Code.",
-        "link": "https://dev.to/hizba_31d77c41803163b8ff0/stop-writing-smart-code-start-writing-dumb-code-338k",
+        "title": "A pure, seeded game engine gives you multiplayer almost for free",
+        "link": "https://dev.to/mighty840/a-pure-seeded-game-engine-gives-you-multiplayer-almost-for-free-4412",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Server Components vs Client Components: A Mental Model That Actually Sticks",
-        "link": "https://dev.to/hinlocaesar/server-components-vs-client-components-a-mental-model-that-actually-sticks-3olg",
+        "title": "React Compiler Automatic Memoization Guide",
+        "link": "https://dev.to/locionic/react-compiler-automatic-memoization-guide-3jcj",
         "source": "Dev.to React"
       },
       {
-        "title": "Latency under load: the same story as throughput, from the other side",
-        "link": "https://dev.to/sunnysahijwani/latency-under-load-the-same-story-as-throughput-from-the-other-side-544j",
+        "title": "Migrating to React Native Skia without a feature freeze",
+        "link": "https://dev.to/techamit95ch/migrating-to-react-native-skia-without-a-feature-freeze-3a21",
         "source": "Dev.to React"
       },
       {
-        "title": "Building an AI-Powered Multiplayer Quiz Platform Without a Traditional Backend",
-        "link": "https://dev.to/jeswin_madona/building-an-ai-powered-multiplayer-quiz-platform-without-a-traditional-backend-5ke",
+        "title": "React 19 Ref as Prop: Simplify TypeScript Components",
+        "link": "https://dev.to/nainikmehta/react-19-ref-as-prop-simplify-typescript-components-1g0d",
         "source": "Dev.to React"
       },
       {
