@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)
 - [addDays() Mutated a Date Three Components Away From Where I Called It](https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400)
-- [React Form Actions: useActionState & useFormStatus Guide](https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf)
+- [Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)
+- [Linus torvalds exposing parts about AI and code quality](https://dev.to/drvcodenta/linus-torvalds-exposing-parts-about-ai-and-code-quality-2f82)
 
 #### Dev.to React
 
-- [React Form Actions: useActionState & useFormStatus Guide](https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf)
-- [The Invisible Memory Leaks Killing Your React & Node.js Apps](https://dev.to/zidane1688/the-invisible-memory-leaks-killing-your-react-nodejs-apps-338h)
-- [I Built an AI Money Agent That's Structurally Incapable of Touching the Money](https://dev.to/yaseenyk04/i-built-an-ai-money-agent-thats-structurally-incapable-of-touching-the-money-5h0j)
+- [I don't open a video editor any more. I ask Claude instead.](https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi)
+- [SSR vs CSR — What Actually Happens When Your Page Loads?](https://dev.to/koushik_hazra_49067f40231/ssr-vs-csr-what-actually-happens-when-your-page-loads-4490)
+- [Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay](https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 12, 2026",
     "news": [
       {
-        "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-        "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
         "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Form Actions: useActionState & useFormStatus Guide",
-        "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
+        "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
+        "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React Form Actions: useActionState & useFormStatus Guide",
-        "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
+        "title": "Linus torvalds exposing parts about AI and code quality",
+        "link": "https://dev.to/drvcodenta/linus-torvalds-exposing-parts-about-ai-and-code-quality-2f82",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I don't open a video editor any more. I ask Claude instead.",
+        "link": "https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi",
         "source": "Dev.to React"
       },
       {
-        "title": "The Invisible Memory Leaks Killing Your React & Node.js Apps",
-        "link": "https://dev.to/zidane1688/the-invisible-memory-leaks-killing-your-react-nodejs-apps-338h",
+        "title": "SSR vs CSR — What Actually Happens When Your Page Loads?",
+        "link": "https://dev.to/koushik_hazra_49067f40231/ssr-vs-csr-what-actually-happens-when-your-page-loads-4490",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built an AI Money Agent That's Structurally Incapable of Touching the Money",
-        "link": "https://dev.to/yaseenyk04/i-built-an-ai-money-agent-thats-structurally-incapable-of-touching-the-money-5h0j",
+        "title": "Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay",
+        "link": "https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0",
         "source": "Dev.to React"
       },
       {
