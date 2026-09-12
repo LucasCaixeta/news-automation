@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 11, 2026)
+### Today's Updates (September 12, 2026)
+
+#### Dev.to JavaScript
+
+- [Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)
+- [addDays() Mutated a Date Three Components Away From Where I Called It](https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400)
+- [React Form Actions: useActionState & useFormStatus Guide](https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf)
+
+#### Dev.to React
+
+- [React Form Actions: useActionState & useFormStatus Guide](https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf)
+- [The Invisible Memory Leaks Killing Your React & Node.js Apps](https://dev.to/zidane1688/the-invisible-memory-leaks-killing-your-react-nodejs-apps-338h)
+- [I Built an AI Money Agent That's Structurally Incapable of Touching the Money](https://dev.to/yaseenyk04/i-built-an-ai-money-agent-thats-structurally-incapable-of-touching-the-money-5h0j)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 10, 2026)
+### 2 Days Ago (September 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [An Aspiring Game Dev Makes a Web Game](https://dev.to/jaggeredshane/an-aspiring-game-dev-makes-a-web-game-1ijb)
 - [How to build an Indian State & District Dependent Dropdown in React (Clean JSON Dataset)](https://dev.to/codingmation/how-to-build-an-indian-state-district-dependent-dropdown-in-react-clean-json-dataset-84g)
 - [Stop Using a mounted Flag to Fix Theme Flash: Use useSyncExternalStore Instead](https://dev.to/udlxix/stop-using-a-mounted-flag-to-fix-theme-flash-use-usesyncexternalstore-instead-4emo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 9, 2026)
-
-#### Dev.to JavaScript
-
-- [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
-- [I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week](https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi)
-- [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4)
-
-#### Dev.to React
-
-- [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
-- [Bridging RxJS BehaviorSubject and React with useSyncExternalStore](https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4)
-- [5 more React interview questions I'd actually ask (and how I'd answer them)](https://dev.to/101beardo/5-more-react-interview-questions-id-actually-ask-and-how-id-answer-them-1pj)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-12",
+    "formattedDate": "September 12, 2026",
+    "news": [
+      {
+        "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
+        "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
+        "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Form Actions: useActionState & useFormStatus Guide",
+        "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Form Actions: useActionState & useFormStatus Guide",
+        "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Invisible Memory Leaks Killing Your React & Node.js Apps",
+        "link": "https://dev.to/zidane1688/the-invisible-memory-leaks-killing-your-react-nodejs-apps-338h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an AI Money Agent That's Structurally Incapable of Touching the Money",
+        "link": "https://dev.to/yaseenyk04/i-built-an-ai-money-agent-thats-structurally-incapable-of-touching-the-money-5h0j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-11",
     "formattedDate": "September 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Using a mounted Flag to Fix Theme Flash: Use useSyncExternalStore Instead",
         "link": "https://dev.to/udlxix/stop-using-a-mounted-flag-to-fix-theme-flash-use-usesyncexternalstore-instead-4emo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "formattedDate": "September 9, 2026",
-    "news": [
-      {
-        "title": "I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice",
-        "link": "https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I shipped a Chrome extension, then found a permission bug and a hidden analytics call in the same week",
-        "link": "https://dev.to/tuna_ergnay_d1a1a5bf2f10/i-shipped-a-chrome-extension-then-found-a-permission-bug-and-a-hidden-analytics-call-in-the-same-5adi",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Bridging RxJS BehaviorSubject and React with useSyncExternalStore",
-        "link": "https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice",
-        "link": "https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Bridging RxJS BehaviorSubject and React with useSyncExternalStore",
-        "link": "https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "5 more React interview questions I'd actually ask (and how I'd answer them)",
-        "link": "https://dev.to/101beardo/5-more-react-interview-questions-id-actually-ask-and-how-id-answer-them-1pj",
         "source": "Dev.to React"
       },
       {
