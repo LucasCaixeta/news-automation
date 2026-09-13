@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)
-- [React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode](https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp)
-- [Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it](https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe)
+- [The Search Highlight That Deletes Your Selection](https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb)
+- [A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it](https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e)
+- [I built BoardEject: an open-source Apple Freeform Excalidraw converter](https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka)
 
 #### Dev.to React
 
-- [React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode](https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp)
-- [Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx](https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m)
-- [Mengelola State Kompleks di React: Mengapa Saya Berpindah ke Zustand](https://dev.to/hellogung/mengelola-state-kompleks-di-react-mengapa-saya-berpindah-ke-zustand-561m)
+- [How We Built Webruno: A Website, Ecommerce & CRM Platform with Next.js, React, Node.js, and MongoDB](https://dev.to/idehweb/how-we-built-webruno-a-website-ecommerce-crm-platform-with-nextjs-react-nodejs-and-mongodb-4adn)
+- [Add AI search to existing application](https://dev.to/codegino/add-ai-search-to-existing-application-225f)
+- [The Good, The Bad, and The Hydration Errors: Migrating a Production React SPA to Next.js App Router](https://dev.to/mhk_sameera/the-good-the-bad-and-the-hydration-errors-migrating-a-production-react-spa-to-nextjs-app-router-2hmd)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 13, 2026",
     "news": [
       {
-        "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-        "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
+        "title": "The Search Highlight That Deletes Your Selection",
+        "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
-        "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+        "title": "A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it",
+        "link": "https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it",
-        "link": "https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe",
+        "title": "I built BoardEject: an open-source Apple Freeform Excalidraw converter",
+        "link": "https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
-        "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+        "title": "How We Built Webruno: A Website, Ecommerce & CRM Platform with Next.js, React, Node.js, and MongoDB",
+        "link": "https://dev.to/idehweb/how-we-built-webruno-a-website-ecommerce-crm-platform-with-nextjs-react-nodejs-and-mongodb-4adn",
         "source": "Dev.to React"
       },
       {
-        "title": "Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx",
-        "link": "https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m",
+        "title": "Add AI search to existing application",
+        "link": "https://dev.to/codegino/add-ai-search-to-existing-application-225f",
         "source": "Dev.to React"
       },
       {
-        "title": "Mengelola State Kompleks di React: Mengapa Saya Berpindah ke Zustand",
-        "link": "https://dev.to/hellogung/mengelola-state-kompleks-di-react-mengapa-saya-berpindah-ke-zustand-561m",
+        "title": "The Good, The Bad, and The Hydration Errors: Migrating a Production React SPA to Next.js App Router",
+        "link": "https://dev.to/mhk_sameera/the-good-the-bad-and-the-hydration-errors-migrating-a-production-react-spa-to-nextjs-app-router-2hmd",
         "source": "Dev.to React"
       },
       {
