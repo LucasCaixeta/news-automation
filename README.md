@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Building Real-Time AI Suggestions Without a Meeting Bot](https://dev.to/florian13/building-real-time-ai-suggestions-without-a-meeting-bot-22ef)
 - [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
-- [I built a branching-narrative engine in one HTML file (no Twine, no Ren'Py, no build step)](https://dev.to/avagreenly/i-built-a-branching-narrative-engine-in-one-html-file-no-twine-no-renpy-no-build-step-52ci)
-- [Your `window.onerror` Handler Has Never Seen a Rejected Promise](https://dev.to/session_replay/your-windowonerror-handler-has-never-seen-a-rejected-promise-4il2)
+- [JavaScript heap out of memory: read the GC line before you raise the heap size](https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp)
 
 #### Dev.to React
 
-- [React Context in 2026: When It Still Beats Zustand and When It Quietly Destroys Performance](https://dev.to/jsmanifest/react-context-in-2026-when-it-still-beats-zustand-and-when-it-quietly-destroys-performance-51hn)
-- [Who Actually Builds Your HTML? A Field Guide to CSR, SSR, SSG, ISR and Server Components 🏗️](https://dev.to/_akashkmt_/who-actually-builds-your-html-a-field-guide-to-csr-ssr-ssg-isr-and-server-components-1job)
-- [60fps live meters in React without re-rendering the tree](https://dev.to/yaseenyk04/60fps-live-meters-in-react-without-re-rendering-the-tree-ain)
+- [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
+- [Storing a 36-item checklist in a 7-character URL, with no backend](https://dev.to/hblai_filmlook/storing-a-36-item-checklist-in-a-7-character-url-with-no-backend-3eo8)
+- [My Dog Ate Chocolate at 2AM and Every Tool Was Buried Under Ads, So I Built an Instant Next.js Vet Calculator](https://dev.to/g_s_6bc9d3a878dd452010bec/my-dog-ate-chocolate-at-2am-and-every-tool-was-buried-under-ads-so-i-built-an-instant-nextjs-vet-2nk2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 14, 2026",
     "news": [
       {
+        "title": "Building Real-Time AI Suggestions Without a Meeting Bot",
+        "link": "https://dev.to/florian13/building-real-time-ai-suggestions-without-a-meeting-bot-22ef",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Implementing Named Slots in React With Child Type Inspection",
         "link": "https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a branching-narrative engine in one HTML file (no Twine, no Ren'Py, no build step)",
-        "link": "https://dev.to/avagreenly/i-built-a-branching-narrative-engine-in-one-html-file-no-twine-no-renpy-no-build-step-52ci",
+        "title": "JavaScript heap out of memory: read the GC line before you raise the heap size",
+        "link": "https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your `window.onerror` Handler Has Never Seen a Rejected Promise",
-        "link": "https://dev.to/session_replay/your-windowonerror-handler-has-never-seen-a-rejected-promise-4il2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Context in 2026: When It Still Beats Zustand and When It Quietly Destroys Performance",
-        "link": "https://dev.to/jsmanifest/react-context-in-2026-when-it-still-beats-zustand-and-when-it-quietly-destroys-performance-51hn",
+        "title": "Implementing Named Slots in React With Child Type Inspection",
+        "link": "https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4",
         "source": "Dev.to React"
       },
       {
-        "title": "Who Actually Builds Your HTML? A Field Guide to CSR, SSR, SSG, ISR and Server Components 🏗️",
-        "link": "https://dev.to/_akashkmt_/who-actually-builds-your-html-a-field-guide-to-csr-ssr-ssg-isr-and-server-components-1job",
+        "title": "Storing a 36-item checklist in a 7-character URL, with no backend",
+        "link": "https://dev.to/hblai_filmlook/storing-a-36-item-checklist-in-a-7-character-url-with-no-backend-3eo8",
         "source": "Dev.to React"
       },
       {
-        "title": "60fps live meters in React without re-rendering the tree",
-        "link": "https://dev.to/yaseenyk04/60fps-live-meters-in-react-without-re-rendering-the-tree-ain",
+        "title": "My Dog Ate Chocolate at 2AM and Every Tool Was Buried Under Ads, So I Built an Instant Next.js Vet Calculator",
+        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/my-dog-ate-chocolate-at-2am-and-every-tool-was-buried-under-ads-so-i-built-an-instant-nextjs-vet-2nk2",
         "source": "Dev.to React"
       },
       {
