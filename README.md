@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 13, 2026)
+### Today's Updates (September 14, 2026)
+
+#### Dev.to JavaScript
+
+- [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
+- [I built a branching-narrative engine in one HTML file (no Twine, no Ren'Py, no build step)](https://dev.to/avagreenly/i-built-a-branching-narrative-engine-in-one-html-file-no-twine-no-renpy-no-build-step-52ci)
+- [Your `window.onerror` Handler Has Never Seen a Rejected Promise](https://dev.to/session_replay/your-windowonerror-handler-has-never-seen-a-rejected-promise-4il2)
+
+#### Dev.to React
+
+- [React Context in 2026: When It Still Beats Zustand and When It Quietly Destroys Performance](https://dev.to/jsmanifest/react-context-in-2026-when-it-still-beats-zustand-and-when-it-quietly-destroys-performance-51hn)
+- [Who Actually Builds Your HTML? A Field Guide to CSR, SSR, SSG, ISR and Server Components 🏗️](https://dev.to/_akashkmt_/who-actually-builds-your-html-a-field-guide-to-csr-ssr-ssg-isr-and-server-components-1job)
+- [60fps live meters in React without re-rendering the tree](https://dev.to/yaseenyk04/60fps-live-meters-in-react-without-re-rendering-the-tree-ain)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 12, 2026)
+### 2 Days Ago (September 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I don't open a video editor any more. I ask Claude instead.](https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi)
 - [SSR vs CSR — What Actually Happens When Your Page Loads?](https://dev.to/koushik_hazra_49067f40231/ssr-vs-csr-what-actually-happens-when-your-page-loads-4490)
 - [Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay](https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 11, 2026)
-
-#### Dev.to JavaScript
-
-- [Matching Blood Donors by GPS: The Geospatial Query Design Behind GeoBlood](https://dev.to/obaid03/matching-blood-donors-by-gps-the-geospatial-query-design-behind-geoblood-26dg)
-- [Mohdel 1.0: a self-hosted LLM gateway and SDK for Node](https://dev.to/clbrge/mohdel-10-a-self-hosted-llm-gateway-and-sdk-for-node-3n03)
-- [A pure, seeded game engine gives you multiplayer almost for free](https://dev.to/mighty840/a-pure-seeded-game-engine-gives-you-multiplayer-almost-for-free-4412)
-
-#### Dev.to React
-
-- [React Compiler Automatic Memoization Guide](https://dev.to/locionic/react-compiler-automatic-memoization-guide-3jcj)
-- [Migrating to React Native Skia without a feature freeze](https://dev.to/techamit95ch/migrating-to-react-native-skia-without-a-feature-freeze-3a21)
-- [React 19 Ref as Prop: Simplify TypeScript Components](https://dev.to/nainikmehta/react-19-ref-as-prop-simplify-typescript-components-1g0d)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-14",
+    "formattedDate": "September 14, 2026",
+    "news": [
+      {
+        "title": "Implementing Named Slots in React With Child Type Inspection",
+        "link": "https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a branching-narrative engine in one HTML file (no Twine, no Ren'Py, no build step)",
+        "link": "https://dev.to/avagreenly/i-built-a-branching-narrative-engine-in-one-html-file-no-twine-no-renpy-no-build-step-52ci",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your `window.onerror` Handler Has Never Seen a Rejected Promise",
+        "link": "https://dev.to/session_replay/your-windowonerror-handler-has-never-seen-a-rejected-promise-4il2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React Context in 2026: When It Still Beats Zustand and When It Quietly Destroys Performance",
+        "link": "https://dev.to/jsmanifest/react-context-in-2026-when-it-still-beats-zustand-and-when-it-quietly-destroys-performance-51hn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Who Actually Builds Your HTML? A Field Guide to CSR, SSR, SSG, ISR and Server Components 🏗️",
+        "link": "https://dev.to/_akashkmt_/who-actually-builds-your-html-a-field-guide-to-csr-ssr-ssg-isr-and-server-components-1job",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "60fps live meters in React without re-rendering the tree",
+        "link": "https://dev.to/yaseenyk04/60fps-live-meters-in-react-without-re-rendering-the-tree-ain",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-13",
     "formattedDate": "September 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay",
         "link": "https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "formattedDate": "September 11, 2026",
-    "news": [
-      {
-        "title": "Matching Blood Donors by GPS: The Geospatial Query Design Behind GeoBlood",
-        "link": "https://dev.to/obaid03/matching-blood-donors-by-gps-the-geospatial-query-design-behind-geoblood-26dg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Mohdel 1.0: a self-hosted LLM gateway and SDK for Node",
-        "link": "https://dev.to/clbrge/mohdel-10-a-self-hosted-llm-gateway-and-sdk-for-node-3n03",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A pure, seeded game engine gives you multiplayer almost for free",
-        "link": "https://dev.to/mighty840/a-pure-seeded-game-engine-gives-you-multiplayer-almost-for-free-4412",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React Compiler Automatic Memoization Guide",
-        "link": "https://dev.to/locionic/react-compiler-automatic-memoization-guide-3jcj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Migrating to React Native Skia without a feature freeze",
-        "link": "https://dev.to/techamit95ch/migrating-to-react-native-skia-without-a-feature-freeze-3a21",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React 19 Ref as Prop: Simplify TypeScript Components",
-        "link": "https://dev.to/nainikmehta/react-19-ref-as-prop-simplify-typescript-components-1g0d",
         "source": "Dev.to React"
       },
       {
