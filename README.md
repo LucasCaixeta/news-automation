@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 14, 2026)
+### Today's Updates (September 15, 2026)
+
+#### Dev.to JavaScript
+
+- [I Throttled My App to Slow 3G. Here's What My Tests Never Caught](https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m)
+- [🧩 Don't make Tech your entire personality.](https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc)
+- [I deleted a condition from a library with 100% coverage. CI stayed green.](https://dev.to/anatolykhelmer/i-deleted-a-condition-from-a-library-with-100-coverage-ci-stayed-green-o6k)
+
+#### Dev.to React
+
+- [Next.js Parallel & Intercepting Routes: Modals Done Right](https://dev.to/parsajiravand/nextjs-parallel-intercepting-routes-modals-done-right-41fj)
+- [Building Design Systems That Ship: A Design Engineer's Framework](https://dev.to/sumaiyya_mahinn/building-design-systems-that-ship-a-design-engineers-framework-4hoh)
+- [Mic Doesn't Return Even After Reconnecting — It Was the Old Microphone Marked for Disposal That Was Enabled](https://dev.to/orca_forge/mic-doesnt-return-even-after-reconnecting-it-was-the-old-microphone-marked-for-disposal-that-was-27ge)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 13, 2026)
+### 2 Days Ago (September 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How We Built Webruno: A Website, Ecommerce & CRM Platform with Next.js, React, Node.js, and MongoDB](https://dev.to/idehweb/how-we-built-webruno-a-website-ecommerce-crm-platform-with-nextjs-react-nodejs-and-mongodb-4adn)
 - [Add AI search to existing application](https://dev.to/codegino/add-ai-search-to-existing-application-225f)
 - [The Good, The Bad, and The Hydration Errors: Migrating a Production React SPA to Next.js App Router](https://dev.to/mhk_sameera/the-good-the-bad-and-the-hydration-errors-migrating-a-production-react-spa-to-nextjs-app-router-2hmd)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 12, 2026)
-
-#### Dev.to JavaScript
-
-- [addDays() Mutated a Date Three Components Away From Where I Called It](https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400)
-- [Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)
-- [Linus torvalds exposing parts about AI and code quality](https://dev.to/drvcodenta/linus-torvalds-exposing-parts-about-ai-and-code-quality-2f82)
-
-#### Dev.to React
-
-- [I don't open a video editor any more. I ask Claude instead.](https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi)
-- [SSR vs CSR — What Actually Happens When Your Page Loads?](https://dev.to/koushik_hazra_49067f40231/ssr-vs-csr-what-actually-happens-when-your-page-loads-4490)
-- [Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay](https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-15",
+    "formattedDate": "September 15, 2026",
+    "news": [
+      {
+        "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
+        "link": "https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧩 Don't make Tech your entire personality.",
+        "link": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I deleted a condition from a library with 100% coverage. CI stayed green.",
+        "link": "https://dev.to/anatolykhelmer/i-deleted-a-condition-from-a-library-with-100-coverage-ci-stayed-green-o6k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js Parallel & Intercepting Routes: Modals Done Right",
+        "link": "https://dev.to/parsajiravand/nextjs-parallel-intercepting-routes-modals-done-right-41fj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Design Systems That Ship: A Design Engineer's Framework",
+        "link": "https://dev.to/sumaiyya_mahinn/building-design-systems-that-ship-a-design-engineers-framework-4hoh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Mic Doesn't Return Even After Reconnecting — It Was the Old Microphone Marked for Disposal That Was Enabled",
+        "link": "https://dev.to/orca_forge/mic-doesnt-return-even-after-reconnecting-it-was-the-old-microphone-marked-for-disposal-that-was-27ge",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-14",
     "formattedDate": "September 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The Good, The Bad, and The Hydration Errors: Migrating a Production React SPA to Next.js App Router",
         "link": "https://dev.to/mhk_sameera/the-good-the-bad-and-the-hydration-errors-migrating-a-production-react-spa-to-nextjs-app-router-2hmd",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-12",
-    "formattedDate": "September 12, 2026",
-    "news": [
-      {
-        "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-        "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-        "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Linus torvalds exposing parts about AI and code quality",
-        "link": "https://dev.to/drvcodenta/linus-torvalds-exposing-parts-about-ai-and-code-quality-2f82",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I don't open a video editor any more. I ask Claude instead.",
-        "link": "https://dev.to/jeet_adeshara_1e1108ba7da/i-dont-open-a-video-editor-any-more-i-ask-claude-instead-36bi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "SSR vs CSR — What Actually Happens When Your Page Loads?",
-        "link": "https://dev.to/koushik_hazra_49067f40231/ssr-vs-csr-what-actually-happens-when-your-page-loads-4490",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay",
-        "link": "https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0",
         "source": "Dev.to React"
       },
       {
