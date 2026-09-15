@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I Throttled My App to Slow 3G. Here's What My Tests Never Caught](https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m)
 - [🧩 Don't make Tech your entire personality.](https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc)
-- [I deleted a condition from a library with 100% coverage. CI stayed green.](https://dev.to/anatolykhelmer/i-deleted-a-condition-from-a-library-with-100-coverage-ci-stayed-green-o6k)
+- [I Throttled My App to Slow 3G. Here's What My Tests Never Caught](https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m)
+- [Frontend Isn't Dead. But the Job Title Is Changing](https://dev.to/erikch/frontend-isnt-dead-but-the-job-title-is-changing-2fj7)
 
 #### Dev.to React
 
-- [Next.js Parallel & Intercepting Routes: Modals Done Right](https://dev.to/parsajiravand/nextjs-parallel-intercepting-routes-modals-done-right-41fj)
-- [Building Design Systems That Ship: A Design Engineer's Framework](https://dev.to/sumaiyya_mahinn/building-design-systems-that-ship-a-design-engineers-framework-4hoh)
-- [Mic Doesn't Return Even After Reconnecting — It Was the Old Microphone Marked for Disposal That Was Enabled](https://dev.to/orca_forge/mic-doesnt-return-even-after-reconnecting-it-was-the-old-microphone-marked-for-disposal-that-was-27ge)
+- [The reconnect backoff that punished you for reconnecting](https://dev.to/daniel_pertu/the-reconnect-backoff-that-punished-you-for-reconnecting-4eae)
+- [React interview practice: explain a stale search result before fixing it](https://dev.to/rwadile/react-interview-practice-explain-a-stale-search-result-before-fixing-it-4i7b)
+- [Authenticating React Telegram Mini Apps with InitData and JWT](https://dev.to/serhii_a9c08345ac360cf5c8/authenticating-react-telegram-mini-apps-with-initdata-and-jwt-ho7)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 15, 2026",
     "news": [
       {
-        "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
-        "link": "https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "🧩 Don't make Tech your entire personality.",
         "link": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I deleted a condition from a library with 100% coverage. CI stayed green.",
-        "link": "https://dev.to/anatolykhelmer/i-deleted-a-condition-from-a-library-with-100-coverage-ci-stayed-green-o6k",
+        "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
+        "link": "https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Next.js Parallel & Intercepting Routes: Modals Done Right",
-        "link": "https://dev.to/parsajiravand/nextjs-parallel-intercepting-routes-modals-done-right-41fj",
+        "title": "Frontend Isn't Dead. But the Job Title Is Changing",
+        "link": "https://dev.to/erikch/frontend-isnt-dead-but-the-job-title-is-changing-2fj7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The reconnect backoff that punished you for reconnecting",
+        "link": "https://dev.to/daniel_pertu/the-reconnect-backoff-that-punished-you-for-reconnecting-4eae",
         "source": "Dev.to React"
       },
       {
-        "title": "Building Design Systems That Ship: A Design Engineer's Framework",
-        "link": "https://dev.to/sumaiyya_mahinn/building-design-systems-that-ship-a-design-engineers-framework-4hoh",
+        "title": "React interview practice: explain a stale search result before fixing it",
+        "link": "https://dev.to/rwadile/react-interview-practice-explain-a-stale-search-result-before-fixing-it-4i7b",
         "source": "Dev.to React"
       },
       {
-        "title": "Mic Doesn't Return Even After Reconnecting — It Was the Old Microphone Marked for Disposal That Was Enabled",
-        "link": "https://dev.to/orca_forge/mic-doesnt-return-even-after-reconnecting-it-was-the-old-microphone-marked-for-disposal-that-was-27ge",
+        "title": "Authenticating React Telegram Mini Apps with InitData and JWT",
+        "link": "https://dev.to/serhii_a9c08345ac360cf5c8/authenticating-react-telegram-mini-apps-with-initdata-and-jwt-ho7",
         "source": "Dev.to React"
       },
       {
