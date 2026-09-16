@@ -10,9 +10,9 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [What I’ve Learned as a Frontend Developer After 3+ Years](https://dev.to/nazmul_himel/what-ive-learned-as-a-frontend-developer-after-3-years-16h1)
-- [Chrome fires onerror, WebKit shows it: feature-detect HEIC before you preview](https://dev.to/iterandum/chrome-fires-onerror-webkit-shows-it-feature-detect-heic-before-you-preview-3ake)
-- [billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker](https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp)
+- [CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch](https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf)
+- [I scanned 13 popular AI-app starter repos. 4 were clean, and the same bug was in 6 of them.](https://dev.to/vibecheckai/i-scanned-13-popular-ai-app-starter-repos-4-were-clean-and-the-same-bug-was-in-6-of-them-4hdm)
+- [How to Track Costs Across Multiple AI APIs Without a Backend](https://dev.to/anoop_kumar_63925e275ea06/how-to-track-costs-across-multiple-ai-apis-without-a-backend-3pd5)
 
 #### Dev.to React
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 16, 2026",
     "news": [
       {
-        "title": "What I’ve Learned as a Frontend Developer After 3+ Years",
-        "link": "https://dev.to/nazmul_himel/what-ive-learned-as-a-frontend-developer-after-3-years-16h1",
+        "title": "CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch",
+        "link": "https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Chrome fires onerror, WebKit shows it: feature-detect HEIC before you preview",
-        "link": "https://dev.to/iterandum/chrome-fires-onerror-webkit-shows-it-feature-detect-heic-before-you-preview-3ake",
+        "title": "I scanned 13 popular AI-app starter repos. 4 were clean, and the same bug was in 6 of them.",
+        "link": "https://dev.to/vibecheckai/i-scanned-13-popular-ai-app-starter-repos-4-were-clean-and-the-same-bug-was-in-6-of-them-4hdm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker",
-        "link": "https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp",
+        "title": "How to Track Costs Across Multiple AI APIs Without a Backend",
+        "link": "https://dev.to/anoop_kumar_63925e275ea06/how-to-track-costs-across-multiple-ai-apis-without-a-backend-3pd5",
         "source": "Dev.to JavaScript"
       },
       {
