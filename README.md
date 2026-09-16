@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 15, 2026)
+### Today's Updates (September 16, 2026)
+
+#### Dev.to JavaScript
+
+- [What I’ve Learned as a Frontend Developer After 3+ Years](https://dev.to/nazmul_himel/what-ive-learned-as-a-frontend-developer-after-3-years-16h1)
+- [Chrome fires onerror, WebKit shows it: feature-detect HEIC before you preview](https://dev.to/iterandum/chrome-fires-onerror-webkit-shows-it-feature-detect-heic-before-you-preview-3ake)
+- [billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker](https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp)
+
+#### Dev.to React
+
+- [How to Avoid Unnecessary Re-renders in React Without Memoizing Everything](https://dev.to/janarthanan_soundararajan/how-to-avoid-unnecessary-re-renders-in-react-without-memoizing-everything-1adi)
+- [I prerendered my React SPA for SEO. I forgot the links.](https://dev.to/ok1mind/i-prerendered-my-react-spa-for-seo-i-forgot-the-links-2d3l)
+- [billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker](https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 14, 2026)
+### 2 Days Ago (September 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
 - [Storing a 36-item checklist in a 7-character URL, with no backend](https://dev.to/hblai_filmlook/storing-a-36-item-checklist-in-a-7-character-url-with-no-backend-3eo8)
 - [My Dog Ate Chocolate at 2AM and Every Tool Was Buried Under Ads, So I Built an Instant Next.js Vet Calculator](https://dev.to/g_s_6bc9d3a878dd452010bec/my-dog-ate-chocolate-at-2am-and-every-tool-was-buried-under-ads-so-i-built-an-instant-nextjs-vet-2nk2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 13, 2026)
-
-#### Dev.to JavaScript
-
-- [The Search Highlight That Deletes Your Selection](https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb)
-- [A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it](https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e)
-- [I built BoardEject: an open-source Apple Freeform Excalidraw converter](https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka)
-
-#### Dev.to React
-
-- [How We Built Webruno: A Website, Ecommerce & CRM Platform with Next.js, React, Node.js, and MongoDB](https://dev.to/idehweb/how-we-built-webruno-a-website-ecommerce-crm-platform-with-nextjs-react-nodejs-and-mongodb-4adn)
-- [Add AI search to existing application](https://dev.to/codegino/add-ai-search-to-existing-application-225f)
-- [The Good, The Bad, and The Hydration Errors: Migrating a Production React SPA to Next.js App Router](https://dev.to/mhk_sameera/the-good-the-bad-and-the-hydration-errors-migrating-a-production-react-spa-to-nextjs-app-router-2hmd)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-16",
+    "formattedDate": "September 16, 2026",
+    "news": [
+      {
+        "title": "What I’ve Learned as a Frontend Developer After 3+ Years",
+        "link": "https://dev.to/nazmul_himel/what-ive-learned-as-a-frontend-developer-after-3-years-16h1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Chrome fires onerror, WebKit shows it: feature-detect HEIC before you preview",
+        "link": "https://dev.to/iterandum/chrome-fires-onerror-webkit-shows-it-feature-detect-heic-before-you-preview-3ake",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker",
+        "link": "https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Avoid Unnecessary Re-renders in React Without Memoizing Everything",
+        "link": "https://dev.to/janarthanan_soundararajan/how-to-avoid-unnecessary-re-renders-in-react-without-memoizing-everything-1adi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I prerendered my React SPA for SEO. I forgot the links.",
+        "link": "https://dev.to/ok1mind/i-prerendered-my-react-spa-for-seo-i-forgot-the-links-2d3l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker",
+        "link": "https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-15",
     "formattedDate": "September 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "My Dog Ate Chocolate at 2AM and Every Tool Was Buried Under Ads, So I Built an Instant Next.js Vet Calculator",
         "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/my-dog-ate-chocolate-at-2am-and-every-tool-was-buried-under-ads-so-i-built-an-instant-nextjs-vet-2nk2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "formattedDate": "September 13, 2026",
-    "news": [
-      {
-        "title": "The Search Highlight That Deletes Your Selection",
-        "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A 100 PageSpeed score does not contain INP, and that is the most expensive thing about it",
-        "link": "https://dev.to/413x/a-100-pagespeed-score-does-not-contain-inp-and-that-is-the-most-expensive-thing-about-it-260e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built BoardEject: an open-source Apple Freeform Excalidraw converter",
-        "link": "https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How We Built Webruno: A Website, Ecommerce & CRM Platform with Next.js, React, Node.js, and MongoDB",
-        "link": "https://dev.to/idehweb/how-we-built-webruno-a-website-ecommerce-crm-platform-with-nextjs-react-nodejs-and-mongodb-4adn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Add AI search to existing application",
-        "link": "https://dev.to/codegino/add-ai-search-to-existing-application-225f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Good, The Bad, and The Hydration Errors: Migrating a Production React SPA to Next.js App Router",
-        "link": "https://dev.to/mhk_sameera/the-good-the-bad-and-the-hydration-errors-migrating-a-production-react-spa-to-nextjs-app-router-2hmd",
         "source": "Dev.to React"
       },
       {
