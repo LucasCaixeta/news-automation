@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Deno 2.6's minimum dependency age flag ignores year and month durations](https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5)
 - [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6)
-- [I Built a Morse Code Translator in the Browser With Plain JavaScript](https://dev.to/kal_oliver/i-built-a-morse-code-translator-in-the-browser-with-plain-javascript-cif)
+- [My Benchmark Judged Five Models Against a Threshold Built for Three](https://dev.to/ofri-peretz/my-benchmark-judged-five-models-against-a-threshold-built-for-three-a0l)
+- [Deno 2.6's minimum dependency age flag ignores year and month durations](https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5)
 
 #### Dev.to React
 
 - [The Code I Couldn't Leave Alone](https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf)
-- [Our design tokens are a package, and the marketing site is deliberately not a consumer](https://dev.to/daniel_pertu/our-design-tokens-are-a-package-and-the-marketing-site-is-deliberately-not-a-consumer-3bg8)
-- [React Router Data Mode : Introduction (Part 1)](https://dev.to/supracoder19/react-router-data-mode-introduction-part-1-2dik)
+- [What If Your Mock API Actually Remembered Your POST Requests?](https://dev.to/nileslabs/what-if-your-mock-api-actually-remembered-your-post-requests-m1g)
+- [How I Built an Open-Source Restaurant Storefront with React 19, Tailwind v4 & Direct WhatsApp Checkout (LCP < 0.8s)](https://dev.to/soycheppi/how-i-built-an-open-source-restaurant-storefront-with-react-19-tailwind-v4-direct-whatsapp-12jp)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 17, 2026",
     "news": [
       {
-        "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
-        "link": "https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "Stop Debouncing Resize. The Browser Already Watches It.",
         "link": "https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Morse Code Translator in the Browser With Plain JavaScript",
-        "link": "https://dev.to/kal_oliver/i-built-a-morse-code-translator-in-the-browser-with-plain-javascript-cif",
+        "title": "My Benchmark Judged Five Models Against a Threshold Built for Three",
+        "link": "https://dev.to/ofri-peretz/my-benchmark-judged-five-models-against-a-threshold-built-for-three-a0l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
+        "link": "https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Our design tokens are a package, and the marketing site is deliberately not a consumer",
-        "link": "https://dev.to/daniel_pertu/our-design-tokens-are-a-package-and-the-marketing-site-is-deliberately-not-a-consumer-3bg8",
+        "title": "What If Your Mock API Actually Remembered Your POST Requests?",
+        "link": "https://dev.to/nileslabs/what-if-your-mock-api-actually-remembered-your-post-requests-m1g",
         "source": "Dev.to React"
       },
       {
-        "title": "React Router Data Mode : Introduction (Part 1)",
-        "link": "https://dev.to/supracoder19/react-router-data-mode-introduction-part-1-2dik",
+        "title": "How I Built an Open-Source Restaurant Storefront with React 19, Tailwind v4 & Direct WhatsApp Checkout (LCP < 0.8s)",
+        "link": "https://dev.to/soycheppi/how-i-built-an-open-source-restaurant-storefront-with-react-19-tailwind-v4-direct-whatsapp-12jp",
         "source": "Dev.to React"
       },
       {
