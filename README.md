@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 16, 2026)
+### Today's Updates (September 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Deno 2.6's minimum dependency age flag ignores year and month durations](https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5)
+- [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6)
+- [I Built a Morse Code Translator in the Browser With Plain JavaScript](https://dev.to/kal_oliver/i-built-a-morse-code-translator-in-the-browser-with-plain-javascript-cif)
+
+#### Dev.to React
+
+- [The Code I Couldn't Leave Alone](https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf)
+- [Our design tokens are a package, and the marketing site is deliberately not a consumer](https://dev.to/daniel_pertu/our-design-tokens-are-a-package-and-the-marketing-site-is-deliberately-not-a-consumer-3bg8)
+- [React Router Data Mode : Introduction (Part 1)](https://dev.to/supracoder19/react-router-data-mode-introduction-part-1-2dik)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 15, 2026)
+### 2 Days Ago (September 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The reconnect backoff that punished you for reconnecting](https://dev.to/daniel_pertu/the-reconnect-backoff-that-punished-you-for-reconnecting-4eae)
 - [React interview practice: explain a stale search result before fixing it](https://dev.to/rwadile/react-interview-practice-explain-a-stale-search-result-before-fixing-it-4i7b)
 - [Authenticating React Telegram Mini Apps with InitData and JWT](https://dev.to/serhii_a9c08345ac360cf5c8/authenticating-react-telegram-mini-apps-with-initdata-and-jwt-ho7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 14, 2026)
-
-#### Dev.to JavaScript
-
-- [Building Real-Time AI Suggestions Without a Meeting Bot](https://dev.to/florian13/building-real-time-ai-suggestions-without-a-meeting-bot-22ef)
-- [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
-- [JavaScript heap out of memory: read the GC line before you raise the heap size](https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp)
-
-#### Dev.to React
-
-- [Implementing Named Slots in React With Child Type Inspection](https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4)
-- [Storing a 36-item checklist in a 7-character URL, with no backend](https://dev.to/hblai_filmlook/storing-a-36-item-checklist-in-a-7-character-url-with-no-backend-3eo8)
-- [My Dog Ate Chocolate at 2AM and Every Tool Was Buried Under Ads, So I Built an Instant Next.js Vet Calculator](https://dev.to/g_s_6bc9d3a878dd452010bec/my-dog-ate-chocolate-at-2am-and-every-tool-was-buried-under-ads-so-i-built-an-instant-nextjs-vet-2nk2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-17",
+    "formattedDate": "September 17, 2026",
+    "news": [
+      {
+        "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
+        "link": "https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Debouncing Resize. The Browser Already Watches It.",
+        "link": "https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Morse Code Translator in the Browser With Plain JavaScript",
+        "link": "https://dev.to/kal_oliver/i-built-a-morse-code-translator-in-the-browser-with-plain-javascript-cif",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Code I Couldn't Leave Alone",
+        "link": "https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Our design tokens are a package, and the marketing site is deliberately not a consumer",
+        "link": "https://dev.to/daniel_pertu/our-design-tokens-are-a-package-and-the-marketing-site-is-deliberately-not-a-consumer-3bg8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React Router Data Mode : Introduction (Part 1)",
+        "link": "https://dev.to/supracoder19/react-router-data-mode-introduction-part-1-2dik",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-16",
     "formattedDate": "September 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Authenticating React Telegram Mini Apps with InitData and JWT",
         "link": "https://dev.to/serhii_a9c08345ac360cf5c8/authenticating-react-telegram-mini-apps-with-initdata-and-jwt-ho7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "formattedDate": "September 14, 2026",
-    "news": [
-      {
-        "title": "Building Real-Time AI Suggestions Without a Meeting Bot",
-        "link": "https://dev.to/florian13/building-real-time-ai-suggestions-without-a-meeting-bot-22ef",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Implementing Named Slots in React With Child Type Inspection",
-        "link": "https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript heap out of memory: read the GC line before you raise the heap size",
-        "link": "https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Implementing Named Slots in React With Child Type Inspection",
-        "link": "https://dev.to/hi_iam_chris/implementing-named-slots-in-react-with-child-type-inspection-oh4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Storing a 36-item checklist in a 7-character URL, with no backend",
-        "link": "https://dev.to/hblai_filmlook/storing-a-36-item-checklist-in-a-7-character-url-with-no-backend-3eo8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My Dog Ate Chocolate at 2AM and Every Tool Was Buried Under Ads, So I Built an Instant Next.js Vet Calculator",
-        "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/my-dog-ate-chocolate-at-2am-and-every-tool-was-buried-under-ads-so-i-built-an-instant-nextjs-vet-2nk2",
         "source": "Dev.to React"
       },
       {
