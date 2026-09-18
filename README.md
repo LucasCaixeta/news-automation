@@ -10,13 +10,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The clipboard bridge that had to wait for the device](https://dev.to/joduchan/the-clipboard-bridge-that-had-to-wait-for-the-device-31jb)
-- [The Agent That Cached an Authorization Decision: A Take-Home Packet](https://dev.to/appjs_3979/the-agent-that-cached-an-authorization-decision-a-take-home-packet-517i)
-- [Adding syntax colors without changing the diff](https://dev.to/devyuuun/adding-syntax-colors-without-changing-the-diff-4na0)
+- [Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call](https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj)
+- [💻 A Full-Fledged Trading Engine for the Node.js Ecosystem](https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj)
+- [The iOS camera lies for about a tenth of a second, and that is why nobody noticed it](https://dev.to/lagudafuad/the-ios-camera-lies-for-about-a-tenth-of-a-second-and-that-is-why-nobody-noticed-it-5802)
 
 #### Dev.to React
 
-- [How declarative mode </> was lagging!](https://dev.to/supracoder19/how-declarative-mode-was-lagging-4h6h)
+- [Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite](https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m)
 - [Eradicating Slow TTFB: Streaming SSR in Next.js ⚡](https://dev.to/iprajapatiparesh/eradicating-slow-ttfb-streaming-ssr-in-nextjs-22dm)
 - [Best React Chart Libraries Ranked by Performance and Use Case](https://dev.to/charttech/best-react-chart-libraries-ranked-by-performance-and-use-case-30cb)
 
@@ -89,23 +89,23 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 18, 2026",
     "news": [
       {
-        "title": "The clipboard bridge that had to wait for the device",
-        "link": "https://dev.to/joduchan/the-clipboard-bridge-that-had-to-wait-for-the-device-31jb",
+        "title": "Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call",
+        "link": "https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Agent That Cached an Authorization Decision: A Take-Home Packet",
-        "link": "https://dev.to/appjs_3979/the-agent-that-cached-an-authorization-decision-a-take-home-packet-517i",
+        "title": "💻 A Full-Fledged Trading Engine for the Node.js Ecosystem",
+        "link": "https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Adding syntax colors without changing the diff",
-        "link": "https://dev.to/devyuuun/adding-syntax-colors-without-changing-the-diff-4na0",
+        "title": "The iOS camera lies for about a tenth of a second, and that is why nobody noticed it",
+        "link": "https://dev.to/lagudafuad/the-ios-camera-lies-for-about-a-tenth-of-a-second-and-that-is-why-nobody-noticed-it-5802",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How declarative mode </> was lagging!",
-        "link": "https://dev.to/supracoder19/how-declarative-mode-was-lagging-4h6h",
+        "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
+        "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
         "source": "Dev.to React"
       },
       {
