@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 17, 2026)
+### Today's Updates (September 18, 2026)
+
+#### Dev.to JavaScript
+
+- [The clipboard bridge that had to wait for the device](https://dev.to/joduchan/the-clipboard-bridge-that-had-to-wait-for-the-device-31jb)
+- [The Agent That Cached an Authorization Decision: A Take-Home Packet](https://dev.to/appjs_3979/the-agent-that-cached-an-authorization-decision-a-take-home-packet-517i)
+- [Adding syntax colors without changing the diff](https://dev.to/devyuuun/adding-syntax-colors-without-changing-the-diff-4na0)
+
+#### Dev.to React
+
+- [How declarative mode </> was lagging!](https://dev.to/supracoder19/how-declarative-mode-was-lagging-4h6h)
+- [Eradicating Slow TTFB: Streaming SSR in Next.js ⚡](https://dev.to/iprajapatiparesh/eradicating-slow-ttfb-streaming-ssr-in-nextjs-22dm)
+- [Best React Chart Libraries Ranked by Performance and Use Case](https://dev.to/charttech/best-react-chart-libraries-ranked-by-performance-and-use-case-30cb)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 16, 2026)
+### 2 Days Ago (September 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Avoid Unnecessary Re-renders in React Without Memoizing Everything](https://dev.to/janarthanan_soundararajan/how-to-avoid-unnecessary-re-renders-in-react-without-memoizing-everything-1adi)
 - [I prerendered my React SPA for SEO. I forgot the links.](https://dev.to/ok1mind/i-prerendered-my-react-spa-for-seo-i-forgot-the-links-2d3l)
 - [billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker](https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 15, 2026)
-
-#### Dev.to JavaScript
-
-- [🧩 Don't make Tech your entire personality.](https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc)
-- [I Throttled My App to Slow 3G. Here's What My Tests Never Caught](https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m)
-- [Frontend Isn't Dead. But the Job Title Is Changing](https://dev.to/erikch/frontend-isnt-dead-but-the-job-title-is-changing-2fj7)
-
-#### Dev.to React
-
-- [The reconnect backoff that punished you for reconnecting](https://dev.to/daniel_pertu/the-reconnect-backoff-that-punished-you-for-reconnecting-4eae)
-- [React interview practice: explain a stale search result before fixing it](https://dev.to/rwadile/react-interview-practice-explain-a-stale-search-result-before-fixing-it-4i7b)
-- [Authenticating React Telegram Mini Apps with InitData and JWT](https://dev.to/serhii_a9c08345ac360cf5c8/authenticating-react-telegram-mini-apps-with-initdata-and-jwt-ho7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-18",
+    "formattedDate": "September 18, 2026",
+    "news": [
+      {
+        "title": "The clipboard bridge that had to wait for the device",
+        "link": "https://dev.to/joduchan/the-clipboard-bridge-that-had-to-wait-for-the-device-31jb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Agent That Cached an Authorization Decision: A Take-Home Packet",
+        "link": "https://dev.to/appjs_3979/the-agent-that-cached-an-authorization-decision-a-take-home-packet-517i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Adding syntax colors without changing the diff",
+        "link": "https://dev.to/devyuuun/adding-syntax-colors-without-changing-the-diff-4na0",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How declarative mode </> was lagging!",
+        "link": "https://dev.to/supracoder19/how-declarative-mode-was-lagging-4h6h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Eradicating Slow TTFB: Streaming SSR in Next.js ⚡",
+        "link": "https://dev.to/iprajapatiparesh/eradicating-slow-ttfb-streaming-ssr-in-nextjs-22dm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Best React Chart Libraries Ranked by Performance and Use Case",
+        "link": "https://dev.to/charttech/best-react-chart-libraries-ranked-by-performance-and-use-case-30cb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-17",
     "formattedDate": "September 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "billboard.js 4.1.0: Live resizing, configurable subchart, React subpath & CSP-safe worker",
         "link": "https://dev.to/netil/billboardjs-410-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-2mkp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "formattedDate": "September 15, 2026",
-    "news": [
-      {
-        "title": "🧩 Don't make Tech your entire personality.",
-        "link": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
-        "link": "https://dev.to/shubhradev/i-throttled-my-app-to-slow-3g-heres-what-my-tests-never-caught-h7m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Frontend Isn't Dead. But the Job Title Is Changing",
-        "link": "https://dev.to/erikch/frontend-isnt-dead-but-the-job-title-is-changing-2fj7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The reconnect backoff that punished you for reconnecting",
-        "link": "https://dev.to/daniel_pertu/the-reconnect-backoff-that-punished-you-for-reconnecting-4eae",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React interview practice: explain a stale search result before fixing it",
-        "link": "https://dev.to/rwadile/react-interview-practice-explain-a-stale-search-result-before-fixing-it-4i7b",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Authenticating React Telegram Mini Apps with InitData and JWT",
-        "link": "https://dev.to/serhii_a9c08345ac360cf5c8/authenticating-react-telegram-mini-apps-with-initdata-and-jwt-ho7",
         "source": "Dev.to React"
       },
       {
