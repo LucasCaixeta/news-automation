@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Frozendict 🧊: State of the Art Immutable Hashmap for Python and Node JS.](https://dev.to/wiseai/frozendict-state-of-the-art-immutable-hashmap-for-python-and-node-js-284o)
-- [How to Load the Omniston Widget with @ston-fi/omniston-widget-loader](https://dev.to/ivan_cryptovazimazima/how-to-load-the-omniston-widget-with-ston-fiomniston-widget-loader-47i7)
-- [Why I stopped handing agents a framework](https://dev.to/jgauffin/why-i-stopped-handing-agents-a-framework-3efh)
+- [Claude Code Session Compaction in 2026: How Context Summarization Works and What Your Agent Forgets](https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0)
+- [USAspending API, No API Key: Federal Contract Awards](https://dev.to/mayd-it/usaspending-api-no-api-key-federal-contract-awards-1320)
+- [Cutting a Three.js product configurator from 16.7 MB to 2.4 MB](https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka)
 
 #### Dev.to React
 
-- [Taming Async Race Conditions and Unmounted State in React: What's New in react-hook-lab](https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e)
-- [Architectural Breakdown: A logo at 1.00:1 contrast passed every check we had](https://dev.to/agenticstack/architectural-breakdown-a-logo-at-1001-contrast-passed-every-check-we-had-2ak5)
-- [Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite](https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m)
+- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
+- [Auto-localize prices in React with react-currency-localizer-realtime](https://dev.to/viraj_geeth_e6dc448fe4d43/auto-localize-prices-in-react-with-react-currency-localizer-realtime-mg2)
+- [I extracted the SVG animation engine from my project and open-sourced it](https://dev.to/pratik_singh_tomar/i-extracted-the-svg-animation-engine-from-my-project-and-open-sourced-it-1hkm)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 19, 2026",
     "news": [
       {
-        "title": "Frozendict 🧊: State of the Art Immutable Hashmap for Python and Node JS.",
-        "link": "https://dev.to/wiseai/frozendict-state-of-the-art-immutable-hashmap-for-python-and-node-js-284o",
+        "title": "Claude Code Session Compaction in 2026: How Context Summarization Works and What Your Agent Forgets",
+        "link": "https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Load the Omniston Widget with @ston-fi/omniston-widget-loader",
-        "link": "https://dev.to/ivan_cryptovazimazima/how-to-load-the-omniston-widget-with-ston-fiomniston-widget-loader-47i7",
+        "title": "USAspending API, No API Key: Federal Contract Awards",
+        "link": "https://dev.to/mayd-it/usaspending-api-no-api-key-federal-contract-awards-1320",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why I stopped handing agents a framework",
-        "link": "https://dev.to/jgauffin/why-i-stopped-handing-agents-a-framework-3efh",
+        "title": "Cutting a Three.js product configurator from 16.7 MB to 2.4 MB",
+        "link": "https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Taming Async Race Conditions and Unmounted State in React: What's New in react-hook-lab",
-        "link": "https://dev.to/saurav_tb_pandey/taming-async-race-conditions-and-unmounted-state-in-react-whats-new-in-react-hook-lab-45e",
+        "title": "anything2explainer Packages Remotion Explainers as an Agent Skill",
+        "link": "https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9",
         "source": "Dev.to React"
       },
       {
-        "title": "Architectural Breakdown: A logo at 1.00:1 contrast passed every check we had",
-        "link": "https://dev.to/agenticstack/architectural-breakdown-a-logo-at-1001-contrast-passed-every-check-we-had-2ak5",
+        "title": "Auto-localize prices in React with react-currency-localizer-realtime",
+        "link": "https://dev.to/viraj_geeth_e6dc448fe4d43/auto-localize-prices-in-react-with-react-currency-localizer-realtime-mg2",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
-        "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
+        "title": "I extracted the SVG animation engine from my project and open-sourced it",
+        "link": "https://dev.to/pratik_singh_tomar/i-extracted-the-svg-animation-engine-from-my-project-and-open-sourced-it-1hkm",
         "source": "Dev.to React"
       },
       {
