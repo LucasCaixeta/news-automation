@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 19, 2026)
+### Today's Updates (September 20, 2026)
+
+#### Dev.to JavaScript
+
+- [I Resurrected a Dead CRC Crate and It Suddenly Went Viral](https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894)
+- [I missed Go's `if err != nil`, so I built errval for TypeScript](https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga)
+- [Crowdwide Is Now Public for Testing 🚀](https://dev.to/puneetkumar2010/crowdwide-is-now-public-for-testing-4nb5)
+
+#### Dev.to React
+
+- [Your Inertia SSR server is down and your site still returns 200](https://dev.to/datum_games/your-inertia-ssr-server-is-down-and-your-site-still-returns-200-3hc7)
+- [How I Built Authentication in Go and React: Doing It Right](https://dev.to/prajwalkpatil/how-i-built-authentication-in-go-and-react-doing-it-right-4ihd)
+- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 18, 2026)
+### 2 Days Ago (September 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite](https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m)
 - [Eradicating Slow TTFB: Streaming SSR in Next.js ⚡](https://dev.to/iprajapatiparesh/eradicating-slow-ttfb-streaming-ssr-in-nextjs-22dm)
 - [Best React Chart Libraries Ranked by Performance and Use Case](https://dev.to/charttech/best-react-chart-libraries-ranked-by-performance-and-use-case-30cb)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 17, 2026)
-
-#### Dev.to JavaScript
-
-- [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6)
-- [My Benchmark Judged Five Models Against a Threshold Built for Three](https://dev.to/ofri-peretz/my-benchmark-judged-five-models-against-a-threshold-built-for-three-a0l)
-- [Deno 2.6's minimum dependency age flag ignores year and month durations](https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5)
-
-#### Dev.to React
-
-- [The Code I Couldn't Leave Alone](https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf)
-- [What If Your Mock API Actually Remembered Your POST Requests?](https://dev.to/nileslabs/what-if-your-mock-api-actually-remembered-your-post-requests-m1g)
-- [How I Built an Open-Source Restaurant Storefront with React 19, Tailwind v4 & Direct WhatsApp Checkout (LCP < 0.8s)](https://dev.to/soycheppi/how-i-built-an-open-source-restaurant-storefront-with-react-19-tailwind-v4-direct-whatsapp-12jp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-20",
+    "formattedDate": "September 20, 2026",
+    "news": [
+      {
+        "title": "I Resurrected a Dead CRC Crate and It Suddenly Went Viral",
+        "link": "https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I missed Go's `if err != nil`, so I built errval for TypeScript",
+        "link": "https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Crowdwide Is Now Public for Testing 🚀",
+        "link": "https://dev.to/puneetkumar2010/crowdwide-is-now-public-for-testing-4nb5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Inertia SSR server is down and your site still returns 200",
+        "link": "https://dev.to/datum_games/your-inertia-ssr-server-is-down-and-your-site-still-returns-200-3hc7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built Authentication in Go and React: Doing It Right",
+        "link": "https://dev.to/prajwalkpatil/how-i-built-authentication-in-go-and-react-doing-it-right-4ihd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "anything2explainer Packages Remotion Explainers as an Agent Skill",
+        "link": "https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-19",
     "formattedDate": "September 19, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Best React Chart Libraries Ranked by Performance and Use Case",
         "link": "https://dev.to/charttech/best-react-chart-libraries-ranked-by-performance-and-use-case-30cb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "formattedDate": "September 17, 2026",
-    "news": [
-      {
-        "title": "Stop Debouncing Resize. The Browser Already Watches It.",
-        "link": "https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My Benchmark Judged Five Models Against a Threshold Built for Three",
-        "link": "https://dev.to/ofri-peretz/my-benchmark-judged-five-models-against-a-threshold-built-for-three-a0l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
-        "link": "https://dev.to/alexgeorgiev17/deno-26s-minimum-dependency-age-flag-ignores-year-and-month-durations-1ac5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Code I Couldn't Leave Alone",
-        "link": "https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What If Your Mock API Actually Remembered Your POST Requests?",
-        "link": "https://dev.to/nileslabs/what-if-your-mock-api-actually-remembered-your-post-requests-m1g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built an Open-Source Restaurant Storefront with React 19, Tailwind v4 & Direct WhatsApp Checkout (LCP < 0.8s)",
-        "link": "https://dev.to/soycheppi/how-i-built-an-open-source-restaurant-storefront-with-react-19-tailwind-v4-direct-whatsapp-12jp",
         "source": "Dev.to React"
       },
       {
