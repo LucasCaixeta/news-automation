@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I Resurrected a Dead CRC Crate and It Suddenly Went Viral](https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894)
-- [I missed Go's `if err != nil`, so I built errval for TypeScript](https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga)
-- [Crowdwide Is Now Public for Testing 🚀](https://dev.to/puneetkumar2010/crowdwide-is-now-public-for-testing-4nb5)
+- [Your Browser Is Rejecting Every Drop On Purpose](https://dev.to/parsajiravand/your-browser-is-rejecting-every-drop-on-purpose-4jji)
+- [Nuxt Hydration Mismatch: Why It Happens and How to Fix It](https://dev.to/parsajiravand/nuxt-hydration-mismatch-why-it-happens-and-how-to-fix-it-5b7i)
 
 #### Dev.to React
 
 - [Your Inertia SSR server is down and your site still returns 200](https://dev.to/datum_games/your-inertia-ssr-server-is-down-and-your-site-still-returns-200-3hc7)
-- [How I Built Authentication in Go and React: Doing It Right](https://dev.to/prajwalkpatil/how-i-built-authentication-in-go-and-react-doing-it-right-4ihd)
-- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
+- [React Derived State: Why That useState Is Probably a Bug](https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0)
+- [Designing an offline notes app for sync that doesn't exist yet (and a landing page with zero build tools)](https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I missed Go's `if err != nil`, so I built errval for TypeScript",
-        "link": "https://dev.to/aymanepraxe/i-missed-gos-if-err-nil-so-i-built-errval-for-typescript-iga",
+        "title": "Your Browser Is Rejecting Every Drop On Purpose",
+        "link": "https://dev.to/parsajiravand/your-browser-is-rejecting-every-drop-on-purpose-4jji",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Crowdwide Is Now Public for Testing 🚀",
-        "link": "https://dev.to/puneetkumar2010/crowdwide-is-now-public-for-testing-4nb5",
+        "title": "Nuxt Hydration Mismatch: Why It Happens and How to Fix It",
+        "link": "https://dev.to/parsajiravand/nuxt-hydration-mismatch-why-it-happens-and-how-to-fix-it-5b7i",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built Authentication in Go and React: Doing It Right",
-        "link": "https://dev.to/prajwalkpatil/how-i-built-authentication-in-go-and-react-doing-it-right-4ihd",
+        "title": "React Derived State: Why That useState Is Probably a Bug",
+        "link": "https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0",
         "source": "Dev.to React"
       },
       {
-        "title": "anything2explainer Packages Remotion Explainers as an Agent Skill",
-        "link": "https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9",
+        "title": "Designing an offline notes app for sync that doesn't exist yet (and a landing page with zero build tools)",
+        "link": "https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md",
         "source": "Dev.to React"
       },
       {
