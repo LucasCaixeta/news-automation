@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [10 Cool CodePen Demos (August 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2026-2nmm)
-- [OCR that looked like it worked](https://dev.to/jaaaco/ocr-that-looked-like-it-worked-na5)
-- [Trying Jev: What Happens When the Model Only Picks](https://dev.to/alistairjcbrown/trying-jev-what-happens-when-the-model-only-picks-2ip5)
+- [React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One](https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk)
+- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
 
 #### Dev.to React
 
-- [Is that free data grid free for your project? Checks you can run in a terminal](https://dev.to/kanunilabs/is-that-free-data-grid-free-for-your-project-checks-you-can-run-in-a-terminal-4anf)
-- [I Built a Visual JavaScript Execution Tool Because Reading the Event Loop Wasn’t Enough](https://dev.to/sazid_khan_42435bbe1c9a9c/i-built-a-visual-javascript-execution-tool-because-reading-the-event-loop-wasnt-enough-1l51)
-- [A missing 'use client' shipped 165 games to play one of them](https://dev.to/daniel_pertu/a-missing-use-client-shipped-165-games-to-play-one-of-them-59gb)
+- [React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One](https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk)
+- [React is Officially Dead in 2026 (Thanks to AI)](https://dev.to/holasoymalva/react-is-officially-dead-in-2026-thanks-to-ai-290m)
+- [I stopped rewriting the same Electron boilerplate — so I packaged it](https://dev.to/hubert_larosesurprenant_/i-stopped-rewriting-the-same-electron-boilerplate-so-i-packaged-it-3i8n)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "OCR that looked like it worked",
-        "link": "https://dev.to/jaaaco/ocr-that-looked-like-it-worked-na5",
+        "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
+        "link": "https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Trying Jev: What Happens When the Model Only Picks",
-        "link": "https://dev.to/alistairjcbrown/trying-jev-what-happens-when-the-model-only-picks-2ip5",
+        "title": "[quick-revisit]: Event Loop - Browser vs. Node.js",
+        "link": "https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Is that free data grid free for your project? Checks you can run in a terminal",
-        "link": "https://dev.to/kanunilabs/is-that-free-data-grid-free-for-your-project-checks-you-can-run-in-a-terminal-4anf",
+        "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
+        "link": "https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Visual JavaScript Execution Tool Because Reading the Event Loop Wasn’t Enough",
-        "link": "https://dev.to/sazid_khan_42435bbe1c9a9c/i-built-a-visual-javascript-execution-tool-because-reading-the-event-loop-wasnt-enough-1l51",
+        "title": "React is Officially Dead in 2026 (Thanks to AI)",
+        "link": "https://dev.to/holasoymalva/react-is-officially-dead-in-2026-thanks-to-ai-290m",
         "source": "Dev.to React"
       },
       {
-        "title": "A missing 'use client' shipped 165 games to play one of them",
-        "link": "https://dev.to/daniel_pertu/a-missing-use-client-shipped-165-games-to-play-one-of-them-59gb",
+        "title": "I stopped rewriting the same Electron boilerplate — so I packaged it",
+        "link": "https://dev.to/hubert_larosesurprenant_/i-stopped-rewriting-the-same-electron-boilerplate-so-i-packaged-it-3i8n",
         "source": "Dev.to React"
       },
       {
