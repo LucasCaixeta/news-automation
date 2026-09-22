@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built ChibiRigKit: turning a single character image into an animated 2D rig](https://dev.to/milkc0de/i-built-chibirigkit-turning-a-single-character-image-into-an-animated-2d-rig-2j36)
-- [I Built a Browser Tool That Detects What You Paste](https://dev.to/user_177da31cc3/i-built-a-browser-tool-that-detects-what-you-paste-334p)
-- [I rebuilt the archived repo-visualizer as a zero-dependency, theme-aware codebase map](https://dev.to/aurelionakamura/i-rebuilt-the-archived-repo-visualizer-as-a-zero-dependency-theme-aware-codebase-map-4mmi)
+- [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+- [Vue Composables: The Shared State Trap (+ Cheat Sheet)](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia)
+- [title: We Built a Full Game IDE in a Browser Tab and Our CPU Barely Complained](https://dev.to/evolvedtech_27a34e6a5cf9/title-we-built-a-full-game-ide-in-a-browser-tab-and-our-cpu-barely-complained-5efd)
 
 #### Dev.to React
 
-- [Offline-First React: TanStack Query + IndexedDB Patterns](https://dev.to/nainikmehta/offline-first-react-tanstack-query-indexeddb-patterns-13o4)
-- [What Shipping a WordPress CRM Taught Me About Being a Developer](https://dev.to/shakurshirajul/what-shipping-a-wordpress-crm-taught-me-about-being-a-developer-17po)
-- [A request for /.env shouldn't render your React app](https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p)
+- [How We Added Browser Calling to Our Open-Source CRM with Asterisk and WebRTC](https://dev.to/eurodoo/how-we-added-browser-calling-to-our-open-source-crm-with-asterisk-and-webrtc-1dm5)
+- [Chromium will not page-break inside a column flexbox](https://dev.to/resumarc/chromium-will-not-page-break-inside-a-column-flexbox-9a0)
+- [Building a Real-Time Cricket Scorecard Library in React: Handling High-Frequency WebSockets at 60 FPS](https://dev.to/ashish_verma_0f878dafa2cf/building-a-real-time-cricket-scorecard-library-in-react-handling-high-frequency-websockets-at-60-1ckj)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 22, 2026",
     "news": [
       {
-        "title": "I built ChibiRigKit: turning a single character image into an animated 2D rig",
-        "link": "https://dev.to/milkc0de/i-built-chibirigkit-turning-a-single-character-image-into-an-animated-2d-rig-2j36",
+        "title": "The Grand Unifying Architecture of Frontend",
+        "link": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Browser Tool That Detects What You Paste",
-        "link": "https://dev.to/user_177da31cc3/i-built-a-browser-tool-that-detects-what-you-paste-334p",
+        "title": "Vue Composables: The Shared State Trap (+ Cheat Sheet)",
+        "link": "https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I rebuilt the archived repo-visualizer as a zero-dependency, theme-aware codebase map",
-        "link": "https://dev.to/aurelionakamura/i-rebuilt-the-archived-repo-visualizer-as-a-zero-dependency-theme-aware-codebase-map-4mmi",
+        "title": "title: We Built a Full Game IDE in a Browser Tab and Our CPU Barely Complained",
+        "link": "https://dev.to/evolvedtech_27a34e6a5cf9/title-we-built-a-full-game-ide-in-a-browser-tab-and-our-cpu-barely-complained-5efd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Offline-First React: TanStack Query + IndexedDB Patterns",
-        "link": "https://dev.to/nainikmehta/offline-first-react-tanstack-query-indexeddb-patterns-13o4",
+        "title": "How We Added Browser Calling to Our Open-Source CRM with Asterisk and WebRTC",
+        "link": "https://dev.to/eurodoo/how-we-added-browser-calling-to-our-open-source-crm-with-asterisk-and-webrtc-1dm5",
         "source": "Dev.to React"
       },
       {
-        "title": "What Shipping a WordPress CRM Taught Me About Being a Developer",
-        "link": "https://dev.to/shakurshirajul/what-shipping-a-wordpress-crm-taught-me-about-being-a-developer-17po",
+        "title": "Chromium will not page-break inside a column flexbox",
+        "link": "https://dev.to/resumarc/chromium-will-not-page-break-inside-a-column-flexbox-9a0",
         "source": "Dev.to React"
       },
       {
-        "title": "A request for /.env shouldn't render your React app",
-        "link": "https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p",
+        "title": "Building a Real-Time Cricket Scorecard Library in React: Handling High-Frequency WebSockets at 60 FPS",
+        "link": "https://dev.to/ashish_verma_0f878dafa2cf/building-a-real-time-cricket-scorecard-library-in-react-handling-high-frequency-websockets-at-60-1ckj",
         "source": "Dev.to React"
       },
       {
