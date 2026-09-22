@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 21, 2026)
+### Today's Updates (September 22, 2026)
+
+#### Dev.to JavaScript
+
+- [I built ChibiRigKit: turning a single character image into an animated 2D rig](https://dev.to/milkc0de/i-built-chibirigkit-turning-a-single-character-image-into-an-animated-2d-rig-2j36)
+- [I Built a Browser Tool That Detects What You Paste](https://dev.to/user_177da31cc3/i-built-a-browser-tool-that-detects-what-you-paste-334p)
+- [I rebuilt the archived repo-visualizer as a zero-dependency, theme-aware codebase map](https://dev.to/aurelionakamura/i-rebuilt-the-archived-repo-visualizer-as-a-zero-dependency-theme-aware-codebase-map-4mmi)
+
+#### Dev.to React
+
+- [Offline-First React: TanStack Query + IndexedDB Patterns](https://dev.to/nainikmehta/offline-first-react-tanstack-query-indexeddb-patterns-13o4)
+- [What Shipping a WordPress CRM Taught Me About Being a Developer](https://dev.to/shakurshirajul/what-shipping-a-wordpress-crm-taught-me-about-being-a-developer-17po)
+- [A request for /.env shouldn't render your React app](https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 20, 2026)
+### 2 Days Ago (September 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your Inertia SSR server is down and your site still returns 200](https://dev.to/datum_games/your-inertia-ssr-server-is-down-and-your-site-still-returns-200-3hc7)
 - [React Derived State: Why That useState Is Probably a Bug](https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0)
 - [Designing an offline notes app for sync that doesn't exist yet (and a landing page with zero build tools)](https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 19, 2026)
-
-#### Dev.to JavaScript
-
-- [Claude Code Session Compaction in 2026: How Context Summarization Works and What Your Agent Forgets](https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0)
-- [USAspending API, No API Key: Federal Contract Awards](https://dev.to/mayd-it/usaspending-api-no-api-key-federal-contract-awards-1320)
-- [Cutting a Three.js product configurator from 16.7 MB to 2.4 MB](https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka)
-
-#### Dev.to React
-
-- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
-- [Auto-localize prices in React with react-currency-localizer-realtime](https://dev.to/viraj_geeth_e6dc448fe4d43/auto-localize-prices-in-react-with-react-currency-localizer-realtime-mg2)
-- [I extracted the SVG animation engine from my project and open-sourced it](https://dev.to/pratik_singh_tomar/i-extracted-the-svg-animation-engine-from-my-project-and-open-sourced-it-1hkm)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-22",
+    "formattedDate": "September 22, 2026",
+    "news": [
+      {
+        "title": "I built ChibiRigKit: turning a single character image into an animated 2D rig",
+        "link": "https://dev.to/milkc0de/i-built-chibirigkit-turning-a-single-character-image-into-an-animated-2d-rig-2j36",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Browser Tool That Detects What You Paste",
+        "link": "https://dev.to/user_177da31cc3/i-built-a-browser-tool-that-detects-what-you-paste-334p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I rebuilt the archived repo-visualizer as a zero-dependency, theme-aware codebase map",
+        "link": "https://dev.to/aurelionakamura/i-rebuilt-the-archived-repo-visualizer-as-a-zero-dependency-theme-aware-codebase-map-4mmi",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Offline-First React: TanStack Query + IndexedDB Patterns",
+        "link": "https://dev.to/nainikmehta/offline-first-react-tanstack-query-indexeddb-patterns-13o4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What Shipping a WordPress CRM Taught Me About Being a Developer",
+        "link": "https://dev.to/shakurshirajul/what-shipping-a-wordpress-crm-taught-me-about-being-a-developer-17po",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A request for /.env shouldn't render your React app",
+        "link": "https://dev.to/lomray-software/a-request-for-env-shouldnt-render-your-react-app-4j0p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-21",
     "formattedDate": "September 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Designing an offline notes app for sync that doesn't exist yet (and a landing page with zero build tools)",
         "link": "https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "formattedDate": "September 19, 2026",
-    "news": [
-      {
-        "title": "Claude Code Session Compaction in 2026: How Context Summarization Works and What Your Agent Forgets",
-        "link": "https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "USAspending API, No API Key: Federal Contract Awards",
-        "link": "https://dev.to/mayd-it/usaspending-api-no-api-key-federal-contract-awards-1320",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Cutting a Three.js product configurator from 16.7 MB to 2.4 MB",
-        "link": "https://dev.to/rifatsarkerraju/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "anything2explainer Packages Remotion Explainers as an Agent Skill",
-        "link": "https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Auto-localize prices in React with react-currency-localizer-realtime",
-        "link": "https://dev.to/viraj_geeth_e6dc448fe4d43/auto-localize-prices-in-react-with-react-currency-localizer-realtime-mg2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I extracted the SVG animation engine from my project and open-sourced it",
-        "link": "https://dev.to/pratik_singh_tomar/i-extracted-the-svg-animation-engine-from-my-project-and-open-sourced-it-1hkm",
         "source": "Dev.to React"
       },
       {
