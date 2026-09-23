@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
 - [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
-- [12 Important Concepts All Software Developers Should Know](https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj)
-- [Vue 3 image upload, crop, and adjustment in one component?](https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1)
+- [INP and Partytown: give the main thread back to your users](https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m)
 
 #### Dev.to React
 
 - [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
-- [🚀 New React Challenge: OTP Input](https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9)
-- [Which Rendering Engine Should You Use for React Charts?](https://dev.to/andyb1979/which-rendering-engine-should-you-use-for-react-charts-58ao)
+- [TypeScript Generic Default Types in 2026: The Underused Feature That Cleans Up Your Component Prop Signatures](https://dev.to/jsmanifest/typescript-generic-default-types-in-2026-the-underused-feature-that-cleans-up-your-component-prop-5gb7)
+- [🔥 30 Days of Frontend - Day 1](https://dev.to/alaa-samy/30-days-of-frontend-day-1-37d7)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 23, 2026",
     "news": [
       {
+        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "My OSS Projects: Piral",
         "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "12 Important Concepts All Software Developers Should Know",
-        "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Vue 3 image upload, crop, and adjustment in one component?",
-        "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
+        "title": "INP and Partytown: give the main thread back to your users",
+        "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "🚀 New React Challenge: OTP Input",
-        "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
+        "title": "TypeScript Generic Default Types in 2026: The Underused Feature That Cleans Up Your Component Prop Signatures",
+        "link": "https://dev.to/jsmanifest/typescript-generic-default-types-in-2026-the-underused-feature-that-cleans-up-your-component-prop-5gb7",
         "source": "Dev.to React"
       },
       {
-        "title": "Which Rendering Engine Should You Use for React Charts?",
-        "link": "https://dev.to/andyb1979/which-rendering-engine-should-you-use-for-react-charts-58ao",
+        "title": "🔥 30 Days of Frontend - Day 1",
+        "link": "https://dev.to/alaa-samy/30-days-of-frontend-day-1-37d7",
         "source": "Dev.to React"
       },
       {
