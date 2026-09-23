@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 22, 2026)
+### Today's Updates (September 23, 2026)
+
+#### Dev.to JavaScript
+
+- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+- [12 Important Concepts All Software Developers Should Know](https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj)
+- [Vue 3 image upload, crop, and adjustment in one component?](https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1)
+
+#### Dev.to React
+
+- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+- [🚀 New React Challenge: OTP Input](https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9)
+- [Which Rendering Engine Should You Use for React Charts?](https://dev.to/andyb1979/which-rendering-engine-should-you-use-for-react-charts-58ao)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 21, 2026)
+### 2 Days Ago (September 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One](https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk)
 - [React is Officially Dead in 2026 (Thanks to AI)](https://dev.to/holasoymalva/react-is-officially-dead-in-2026-thanks-to-ai-290m)
 - [I stopped rewriting the same Electron boilerplate — so I packaged it](https://dev.to/hubert_larosesurprenant_/i-stopped-rewriting-the-same-electron-boilerplate-so-i-packaged-it-3i8n)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 20, 2026)
-
-#### Dev.to JavaScript
-
-- [I Resurrected a Dead CRC Crate and It Suddenly Went Viral](https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894)
-- [Your Browser Is Rejecting Every Drop On Purpose](https://dev.to/parsajiravand/your-browser-is-rejecting-every-drop-on-purpose-4jji)
-- [Nuxt Hydration Mismatch: Why It Happens and How to Fix It](https://dev.to/parsajiravand/nuxt-hydration-mismatch-why-it-happens-and-how-to-fix-it-5b7i)
-
-#### Dev.to React
-
-- [Your Inertia SSR server is down and your site still returns 200](https://dev.to/datum_games/your-inertia-ssr-server-is-down-and-your-site-still-returns-200-3hc7)
-- [React Derived State: Why That useState Is Probably a Bug](https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0)
-- [Designing an offline notes app for sync that doesn't exist yet (and a landing page with zero build tools)](https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-23",
+    "formattedDate": "September 23, 2026",
+    "news": [
+      {
+        "title": "My OSS Projects: Piral",
+        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "12 Important Concepts All Software Developers Should Know",
+        "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Vue 3 image upload, crop, and adjustment in one component?",
+        "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My OSS Projects: Piral",
+        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 New React Challenge: OTP Input",
+        "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Which Rendering Engine Should You Use for React Charts?",
+        "link": "https://dev.to/andyb1979/which-rendering-engine-should-you-use-for-react-charts-58ao",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-22",
     "formattedDate": "September 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I stopped rewriting the same Electron boilerplate — so I packaged it",
         "link": "https://dev.to/hubert_larosesurprenant_/i-stopped-rewriting-the-same-electron-boilerplate-so-i-packaged-it-3i8n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "formattedDate": "September 20, 2026",
-    "news": [
-      {
-        "title": "I Resurrected a Dead CRC Crate and It Suddenly Went Viral",
-        "link": "https://dev.to/wiseai/i-resurrected-a-dead-crc-crate-and-it-suddenly-went-viral-3894",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Browser Is Rejecting Every Drop On Purpose",
-        "link": "https://dev.to/parsajiravand/your-browser-is-rejecting-every-drop-on-purpose-4jji",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Nuxt Hydration Mismatch: Why It Happens and How to Fix It",
-        "link": "https://dev.to/parsajiravand/nuxt-hydration-mismatch-why-it-happens-and-how-to-fix-it-5b7i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Inertia SSR server is down and your site still returns 200",
-        "link": "https://dev.to/datum_games/your-inertia-ssr-server-is-down-and-your-site-still-returns-200-3hc7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Derived State: Why That useState Is Probably a Bug",
-        "link": "https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Designing an offline notes app for sync that doesn't exist yet (and a landing page with zero build tools)",
-        "link": "https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md",
         "source": "Dev.to React"
       },
       {
