@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 23, 2026)
+### Today's Updates (September 24, 2026)
+
+#### Dev.to JavaScript
+
+- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
+- [Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i)
+- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+
+#### Dev.to React
+
+- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+- [I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe](https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp)
+- [A four-phase state machine, 88 CSS rules, and no video in our hero](https://dev.to/daniel_pertu/a-four-phase-state-machine-88-css-rules-and-no-video-in-our-hero-55ca)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 22, 2026)
+### 2 Days Ago (September 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How We Added Browser Calling to Our Open-Source CRM with Asterisk and WebRTC](https://dev.to/eurodoo/how-we-added-browser-calling-to-our-open-source-crm-with-asterisk-and-webrtc-1dm5)
 - [Chromium will not page-break inside a column flexbox](https://dev.to/resumarc/chromium-will-not-page-break-inside-a-column-flexbox-9a0)
 - [Building a Real-Time Cricket Scorecard Library in React: Handling High-Frequency WebSockets at 60 FPS](https://dev.to/ashish_verma_0f878dafa2cf/building-a-real-time-cricket-scorecard-library-in-react-handling-high-frequency-websockets-at-60-1ckj)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 21, 2026)
-
-#### Dev.to JavaScript
-
-- [10 Cool CodePen Demos (August 2026)](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2026-2nmm)
-- [React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One](https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk)
-- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
-
-#### Dev.to React
-
-- [React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One](https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk)
-- [React is Officially Dead in 2026 (Thanks to AI)](https://dev.to/holasoymalva/react-is-officially-dead-in-2026-thanks-to-ai-290m)
-- [I stopped rewriting the same Electron boilerplate — so I packaged it](https://dev.to/hubert_larosesurprenant_/i-stopped-rewriting-the-same-electron-boilerplate-so-i-packaged-it-3i8n)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-24",
+    "formattedDate": "September 24, 2026",
+    "news": [
+      {
+        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+        "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My OSS Projects: Piral",
+        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My OSS Projects: Piral",
+        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe",
+        "link": "https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "A four-phase state machine, 88 CSS rules, and no video in our hero",
+        "link": "https://dev.to/daniel_pertu/a-four-phase-state-machine-88-css-rules-and-no-video-in-our-hero-55ca",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-23",
     "formattedDate": "September 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a Real-Time Cricket Scorecard Library in React: Handling High-Frequency WebSockets at 60 FPS",
         "link": "https://dev.to/ashish_verma_0f878dafa2cf/building-a-real-time-cricket-scorecard-library-in-react-handling-high-frequency-websockets-at-60-1ckj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "formattedDate": "September 21, 2026",
-    "news": [
-      {
-        "title": "10 Cool CodePen Demos (August 2026)",
-        "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2026-2nmm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
-        "link": "https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "[quick-revisit]: Event Loop - Browser vs. Node.js",
-        "link": "https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
-        "link": "https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React is Officially Dead in 2026 (Thanks to AI)",
-        "link": "https://dev.to/holasoymalva/react-is-officially-dead-in-2026-thanks-to-ai-290m",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I stopped rewriting the same Electron boilerplate — so I packaged it",
-        "link": "https://dev.to/hubert_larosesurprenant_/i-stopped-rewriting-the-same-electron-boilerplate-so-i-packaged-it-3i8n",
         "source": "Dev.to React"
       },
       {
