@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
 - [Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i)
-- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+- [This video is about how this video was made](https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl)
+- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
 
 #### Dev.to React
 
+- [How to Build a Task Management App with React & TypeScript](https://dev.to/codewithsadee/how-to-build-a-task-management-app-with-react-typescript-106o)
 - [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
 - [I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe](https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp)
-- [A four-phase state machine, 88 CSS rules, and no video in our hero](https://dev.to/daniel_pertu/a-four-phase-state-machine-88-css-rules-and-no-video-in-our-hero-55ca)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 24, 2026",
     "news": [
       {
-        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
-        "source": "Dev.to JavaScript"
-      },
-      {
         "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
         "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My OSS Projects: Piral",
-        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+        "title": "This video is about how this video was made",
+        "link": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Build a Task Management App with React & TypeScript",
+        "link": "https://dev.to/codewithsadee/how-to-build-a-task-management-app-with-react-typescript-106o",
+        "source": "Dev.to React"
       },
       {
         "title": "My OSS Projects: Piral",
@@ -111,11 +116,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe",
         "link": "https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A four-phase state machine, 88 CSS rules, and no video in our hero",
-        "link": "https://dev.to/daniel_pertu/a-four-phase-state-machine-88-css-rules-and-no-video-in-our-hero-55ca",
         "source": "Dev.to React"
       },
       {
