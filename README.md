@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
-- [Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i)
-- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+- [How Fillable finds the blanks in a flat PDF form](https://dev.to/nobody_4fb7fd10637d3b88a3/how-fillable-finds-the-blanks-in-a-flat-pdf-form-68g)
+- [MC/DC coverage for JavaScript](https://dev.to/nedomas/mcdc-coverage-for-javascript-4388)
+- [Building 24 Classroom Tools That Load Fast on a School Chromebook (No Login, No Student Data)](https://dev.to/akbo_ichou_c41c249cc2783d/building-24-classroom-tools-that-load-fast-on-a-school-chromebook-no-login-no-student-data-1gk4)
 
 #### Dev.to React
 
+- [CaptchaKit: A Self-Hosted CAPTCHA Package for React & Next.js + Try It Live](https://dev.to/joodi/captchakit-a-self-hosted-captcha-package-for-react-nextjs-try-it-live-23j9)
 - [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
-- [Why We Replaced WordPress with Next.js 16 for High-Traffic E-Commerce in Morocco](https://dev.to/amsomr/why-we-replaced-wordpress-with-nextjs-16-for-high-traffic-e-commerce-in-morocco-4gj0)
-- [Beyond a Country Explorer: Accessibility & Architecture in React](https://dev.to/ahmed_sayed_01c0dad16b6a5/beyond-a-country-explorer-accessibility-architecture-in-react-4hmk)
+- [Stop Failing Mid-Level React Interviews: 5 Core Concepts Seniors Actually Look For](https://dev.to/amitsrivastava_dev/stop-failing-mid-level-react-interviews-5-core-concepts-seniors-actually-look-for-3ka)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 25, 2026",
     "news": [
       {
-        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+        "title": "How Fillable finds the blanks in a flat PDF form",
+        "link": "https://dev.to/nobody_4fb7fd10637d3b88a3/how-fillable-finds-the-blanks-in-a-flat-pdf-form-68g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
-        "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+        "title": "MC/DC coverage for JavaScript",
+        "link": "https://dev.to/nedomas/mcdc-coverage-for-javascript-4388",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My OSS Projects: Piral",
-        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
+        "title": "Building 24 Classroom Tools That Load Fast on a School Chromebook (No Login, No Student Data)",
+        "link": "https://dev.to/akbo_ichou_c41c249cc2783d/building-24-classroom-tools-that-load-fast-on-a-school-chromebook-no-login-no-student-data-1gk4",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "CaptchaKit: A Self-Hosted CAPTCHA Package for React & Next.js + Try It Live",
+        "link": "https://dev.to/joodi/captchakit-a-self-hosted-captcha-package-for-react-nextjs-try-it-live-23j9",
+        "source": "Dev.to React"
       },
       {
         "title": "My OSS Projects: Piral",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Why We Replaced WordPress with Next.js 16 for High-Traffic E-Commerce in Morocco",
-        "link": "https://dev.to/amsomr/why-we-replaced-wordpress-with-nextjs-16-for-high-traffic-e-commerce-in-morocco-4gj0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Beyond a Country Explorer: Accessibility & Architecture in React",
-        "link": "https://dev.to/ahmed_sayed_01c0dad16b6a5/beyond-a-country-explorer-accessibility-architecture-in-react-4hmk",
+        "title": "Stop Failing Mid-Level React Interviews: 5 Core Concepts Seniors Actually Look For",
+        "link": "https://dev.to/amitsrivastava_dev/stop-failing-mid-level-react-interviews-5-core-concepts-seniors-actually-look-for-3ka",
         "source": "Dev.to React"
       },
       {
