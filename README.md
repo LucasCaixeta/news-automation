@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 25, 2026)
+### Today's Updates (September 26, 2026)
+
+#### Dev.to JavaScript
+
+- [localStorage Isn't Free — It's Blocking Your Main Thread](https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn)
+- [The Background Task That Waited 40 Seconds for 'Idle'](https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736)
+- [JSON.stringify Is Quietly Deleting Your File Uploads](https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka)
+
+#### Dev.to React
+
+- [Next.js v16.3.6 vs v15.5.26: qué contiene cada rama, según el changelog](https://dev.to/jtorchia/nextjs-v1636-vs-v15526-que-contiene-cada-rama-segun-el-changelog-545j)
+- [Next.js v16.3.6 vs v15.5.26: what's in each branch, according to the changelog](https://dev.to/jtorchia/nextjs-v1636-vs-v15526-whats-in-each-branch-according-to-the-changelog-578n)
+- [How I made my React portfolio 2x faster (Lighthouse 30 to 80) by prerendering a Vite app](https://dev.to/shreyashtripathi/how-i-made-my-react-portfolio-2x-faster-lighthouse-30-to-80-by-prerendering-a-vite-app-3j03)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 24, 2026)
+### 2 Days Ago (September 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Build a Task Management App with React & TypeScript](https://dev.to/codewithsadee/how-to-build-a-task-management-app-with-react-typescript-106o)
 - [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
 - [I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe](https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 23, 2026)
-
-#### Dev.to JavaScript
-
-- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
-- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
-- [INP and Partytown: give the main thread back to your users](https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m)
-
-#### Dev.to React
-
-- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
-- [TypeScript Generic Default Types in 2026: The Underused Feature That Cleans Up Your Component Prop Signatures](https://dev.to/jsmanifest/typescript-generic-default-types-in-2026-the-underused-feature-that-cleans-up-your-component-prop-5gb7)
-- [🔥 30 Days of Frontend - Day 1](https://dev.to/alaa-samy/30-days-of-frontend-day-1-37d7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-26",
+    "formattedDate": "September 26, 2026",
+    "news": [
+      {
+        "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
+        "link": "https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The Background Task That Waited 40 Seconds for 'Idle'",
+        "link": "https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JSON.stringify Is Quietly Deleting Your File Uploads",
+        "link": "https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js v16.3.6 vs v15.5.26: qué contiene cada rama, según el changelog",
+        "link": "https://dev.to/jtorchia/nextjs-v1636-vs-v15526-que-contiene-cada-rama-segun-el-changelog-545j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js v16.3.6 vs v15.5.26: what's in each branch, according to the changelog",
+        "link": "https://dev.to/jtorchia/nextjs-v1636-vs-v15526-whats-in-each-branch-according-to-the-changelog-578n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I made my React portfolio 2x faster (Lighthouse 30 to 80) by prerendering a Vite app",
+        "link": "https://dev.to/shreyashtripathi/how-i-made-my-react-portfolio-2x-faster-lighthouse-30-to-80-by-prerendering-a-vite-app-3j03",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-25",
     "formattedDate": "September 25, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe",
         "link": "https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "formattedDate": "September 23, 2026",
-    "news": [
-      {
-        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My OSS Projects: Piral",
-        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "INP and Partytown: give the main thread back to your users",
-        "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My OSS Projects: Piral",
-        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript Generic Default Types in 2026: The Underused Feature That Cleans Up Your Component Prop Signatures",
-        "link": "https://dev.to/jsmanifest/typescript-generic-default-types-in-2026-the-underused-feature-that-cleans-up-your-component-prop-5gb7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "🔥 30 Days of Frontend - Day 1",
-        "link": "https://dev.to/alaa-samy/30-days-of-frontend-day-1-37d7",
         "source": "Dev.to React"
       },
       {
