@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [getCurrentPosition() Doesn't Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap)
 - [localStorage Isn't Free — It's Blocking Your Main Thread](https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn)
-- [The Background Task That Waited 40 Seconds for 'Idle'](https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736)
 - [JSON.stringify Is Quietly Deleting Your File Uploads](https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka)
 
 #### Dev.to React
 
-- [Next.js v16.3.6 vs v15.5.26: qué contiene cada rama, según el changelog](https://dev.to/jtorchia/nextjs-v1636-vs-v15526-que-contiene-cada-rama-segun-el-changelog-545j)
-- [Next.js v16.3.6 vs v15.5.26: what's in each branch, according to the changelog](https://dev.to/jtorchia/nextjs-v1636-vs-v15526-whats-in-each-branch-according-to-the-changelog-578n)
-- [How I made my React portfolio 2x faster (Lighthouse 30 to 80) by prerendering a Vite app](https://dev.to/shreyashtripathi/how-i-made-my-react-portfolio-2x-faster-lighthouse-30-to-80-by-prerendering-a-vite-app-3j03)
+- [How I Built a .NET + React Islands Site With a Playwright Snapshot Worker](https://dev.to/frorning/how-i-built-a-net-react-islands-site-with-a-playwright-snapshot-worker-56h7)
+- [Introducing RemotionUI](https://dev.to/riazul_islam_7d76022b1557/introducing-remotionui-2d1p)
+- [How I Built a Cinematic 3D Fitness Website with React Three Fiber and Three.js](https://dev.to/officialasforge/how-i-built-a-cinematic-3d-fitness-website-with-react-three-fiber-and-threejs-4dk2)
 
 #### React Blog
 
@@ -89,13 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 26, 2026",
     "news": [
       {
-        "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
-        "link": "https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn",
+        "title": "getCurrentPosition() Doesn't Just Check — It Prompts",
+        "link": "https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "The Background Task That Waited 40 Seconds for 'Idle'",
-        "link": "https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736",
+        "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
+        "link": "https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Next.js v16.3.6 vs v15.5.26: qué contiene cada rama, según el changelog",
-        "link": "https://dev.to/jtorchia/nextjs-v1636-vs-v15526-que-contiene-cada-rama-segun-el-changelog-545j",
+        "title": "How I Built a .NET + React Islands Site With a Playwright Snapshot Worker",
+        "link": "https://dev.to/frorning/how-i-built-a-net-react-islands-site-with-a-playwright-snapshot-worker-56h7",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js v16.3.6 vs v15.5.26: what's in each branch, according to the changelog",
-        "link": "https://dev.to/jtorchia/nextjs-v1636-vs-v15526-whats-in-each-branch-according-to-the-changelog-578n",
+        "title": "Introducing RemotionUI",
+        "link": "https://dev.to/riazul_islam_7d76022b1557/introducing-remotionui-2d1p",
         "source": "Dev.to React"
       },
       {
-        "title": "How I made my React portfolio 2x faster (Lighthouse 30 to 80) by prerendering a Vite app",
-        "link": "https://dev.to/shreyashtripathi/how-i-made-my-react-portfolio-2x-faster-lighthouse-30-to-80-by-prerendering-a-vite-app-3j03",
+        "title": "How I Built a Cinematic 3D Fitness Website with React Three Fiber and Three.js",
+        "link": "https://dev.to/officialasforge/how-i-built-a-cinematic-3d-fitness-website-with-react-three-fiber-and-threejs-4dk2",
         "source": "Dev.to React"
       },
       {
