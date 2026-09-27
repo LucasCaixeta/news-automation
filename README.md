@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 26, 2026)
+### Today's Updates (September 27, 2026)
+
+#### Dev.to JavaScript
+
+- [Your last error never arrives — flush before exit in Node (and Go)](https://dev.to/amorizz/your-last-error-never-arrives-flush-before-exit-in-node-and-go-53co)
+- [Web3 Architecture Explained Like You're 5 (From a Front-End Perspective)](https://dev.to/noahayo/web3-architecture-explained-like-youre-5-from-a-front-end-perspective-2edg)
+- [Expo Framework for React Native](https://dev.to/godofgeeks/expo-framework-for-react-native-3acd)
+
+#### Dev.to React
+
+- [I built a password manager because I’m picky about the apps I use](https://dev.to/dortanes/i-built-a-password-manager-because-im-picky-about-the-apps-i-use-5028)
+- [I found the Clash of Clans API and ended up building a war simulator](https://dev.to/kavinkumarr/i-found-the-clash-of-clans-api-and-ended-up-building-a-war-simulator-58n9)
+- [The hard part of micro frontends is the contract, not the bundler](https://dev.to/theadnansaleem/the-dashboard-is-blank-for-some-users-f2l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 25, 2026)
+### 2 Days Ago (September 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [CaptchaKit: A Self-Hosted CAPTCHA Package for React & Next.js + Try It Live](https://dev.to/joodi/captchakit-a-self-hosted-captcha-package-for-react-nextjs-try-it-live-23j9)
 - [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
 - [Stop Failing Mid-Level React Interviews: 5 Core Concepts Seniors Actually Look For](https://dev.to/amitsrivastava_dev/stop-failing-mid-level-react-interviews-5-core-concepts-seniors-actually-look-for-3ka)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 24, 2026)
-
-#### Dev.to JavaScript
-
-- [Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own](https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i)
-- [This video is about how this video was made](https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl)
-- [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
-
-#### Dev.to React
-
-- [How to Build a Task Management App with React & TypeScript](https://dev.to/codewithsadee/how-to-build-a-task-management-app-with-react-typescript-106o)
-- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
-- [I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe](https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-27",
+    "formattedDate": "September 27, 2026",
+    "news": [
+      {
+        "title": "Your last error never arrives — flush before exit in Node (and Go)",
+        "link": "https://dev.to/amorizz/your-last-error-never-arrives-flush-before-exit-in-node-and-go-53co",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Web3 Architecture Explained Like You're 5 (From a Front-End Perspective)",
+        "link": "https://dev.to/noahayo/web3-architecture-explained-like-youre-5-from-a-front-end-perspective-2edg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Expo Framework for React Native",
+        "link": "https://dev.to/godofgeeks/expo-framework-for-react-native-3acd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a password manager because I’m picky about the apps I use",
+        "link": "https://dev.to/dortanes/i-built-a-password-manager-because-im-picky-about-the-apps-i-use-5028",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I found the Clash of Clans API and ended up building a war simulator",
+        "link": "https://dev.to/kavinkumarr/i-found-the-clash-of-clans-api-and-ended-up-building-a-war-simulator-58n9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The hard part of micro frontends is the contract, not the bundler",
+        "link": "https://dev.to/theadnansaleem/the-dashboard-is-blank-for-some-users-f2l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-26",
     "formattedDate": "September 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop Failing Mid-Level React Interviews: 5 Core Concepts Seniors Actually Look For",
         "link": "https://dev.to/amitsrivastava_dev/stop-failing-mid-level-react-interviews-5-core-concepts-seniors-actually-look-for-3ka",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "formattedDate": "September 24, 2026",
-    "news": [
-      {
-        "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
-        "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "This video is about how this video was made",
-        "link": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-        "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Build a Task Management App with React & TypeScript",
-        "link": "https://dev.to/codewithsadee/how-to-build-a-task-management-app-with-react-typescript-106o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "My OSS Projects: Piral",
-        "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe",
-        "link": "https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp",
         "source": "Dev.to React"
       },
       {
