@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Your last error never arrives — flush before exit in Node (and Go)](https://dev.to/amorizz/your-last-error-never-arrives-flush-before-exit-in-node-and-go-53co)
-- [Web3 Architecture Explained Like You're 5 (From a Front-End Perspective)](https://dev.to/noahayo/web3-architecture-explained-like-youre-5-from-a-front-end-perspective-2edg)
-- [Expo Framework for React Native](https://dev.to/godofgeeks/expo-framework-for-react-native-3acd)
+- [Building a 3D Exploration Game with Three.js](https://dev.to/vampirejs/building-a-3d-exploration-game-with-threejs-2198)
+- [Building a Production B2B Lead Enrichment & Scoring Agent in n8n for $0.008/Run](https://dev.to/reigen/building-a-production-b2b-lead-enrichment-scoring-agent-in-n8n-for-0008run-3aj5)
+- [The Boring Backend Work That Made PayEcho's Memory Actually Reliable](https://dev.to/aparna8074/the-boring-backend-work-that-made-payechos-memory-actually-reliable-n7j)
 
 #### Dev.to React
 
-- [I built a password manager because I’m picky about the apps I use](https://dev.to/dortanes/i-built-a-password-manager-because-im-picky-about-the-apps-i-use-5028)
-- [I found the Clash of Clans API and ended up building a war simulator](https://dev.to/kavinkumarr/i-found-the-clash-of-clans-api-and-ended-up-building-a-war-simulator-58n9)
-- [The hard part of micro frontends is the contract, not the bundler](https://dev.to/theadnansaleem/the-dashboard-is-blank-for-some-users-f2l)
+- [Two Real VS Code Extensions, Built with vsceasy (and What Each Feature Does)](https://dev.to/jairofernandez/two-real-vs-code-extensions-built-with-vsceasy-and-what-each-feature-does-3opc)
+- [Screenshot testing a design system with Playwright and Docker](https://dev.to/artembelik/screenshot-testing-a-design-system-with-playwright-and-docker-1pci)
+- [Why Our App Hung Forever on Some iPads (and Nowhere Else)](https://dev.to/srijeetpatil/why-our-app-hung-forever-on-some-ipads-and-nowhere-else-55mj)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 27, 2026",
     "news": [
       {
-        "title": "Your last error never arrives — flush before exit in Node (and Go)",
-        "link": "https://dev.to/amorizz/your-last-error-never-arrives-flush-before-exit-in-node-and-go-53co",
+        "title": "Building a 3D Exploration Game with Three.js",
+        "link": "https://dev.to/vampirejs/building-a-3d-exploration-game-with-threejs-2198",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Web3 Architecture Explained Like You're 5 (From a Front-End Perspective)",
-        "link": "https://dev.to/noahayo/web3-architecture-explained-like-youre-5-from-a-front-end-perspective-2edg",
+        "title": "Building a Production B2B Lead Enrichment & Scoring Agent in n8n for $0.008/Run",
+        "link": "https://dev.to/reigen/building-a-production-b2b-lead-enrichment-scoring-agent-in-n8n-for-0008run-3aj5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Expo Framework for React Native",
-        "link": "https://dev.to/godofgeeks/expo-framework-for-react-native-3acd",
+        "title": "The Boring Backend Work That Made PayEcho's Memory Actually Reliable",
+        "link": "https://dev.to/aparna8074/the-boring-backend-work-that-made-payechos-memory-actually-reliable-n7j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a password manager because I’m picky about the apps I use",
-        "link": "https://dev.to/dortanes/i-built-a-password-manager-because-im-picky-about-the-apps-i-use-5028",
+        "title": "Two Real VS Code Extensions, Built with vsceasy (and What Each Feature Does)",
+        "link": "https://dev.to/jairofernandez/two-real-vs-code-extensions-built-with-vsceasy-and-what-each-feature-does-3opc",
         "source": "Dev.to React"
       },
       {
-        "title": "I found the Clash of Clans API and ended up building a war simulator",
-        "link": "https://dev.to/kavinkumarr/i-found-the-clash-of-clans-api-and-ended-up-building-a-war-simulator-58n9",
+        "title": "Screenshot testing a design system with Playwright and Docker",
+        "link": "https://dev.to/artembelik/screenshot-testing-a-design-system-with-playwright-and-docker-1pci",
         "source": "Dev.to React"
       },
       {
-        "title": "The hard part of micro frontends is the contract, not the bundler",
-        "link": "https://dev.to/theadnansaleem/the-dashboard-is-blank-for-some-users-f2l",
+        "title": "Why Our App Hung Forever on Some iPads (and Nowhere Else)",
+        "link": "https://dev.to/srijeetpatil/why-our-app-hung-forever-on-some-ipads-and-nowhere-else-55mj",
         "source": "Dev.to React"
       },
       {
