@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 28, 2026)
+### Today's Updates (September 29, 2026)
+
+#### Dev.to JavaScript
+
+- [The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them](https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk)
+- [I gave 24 awkward JSON documents to 6 parsers. Five behaved the same everywhere.](https://dev.to/remdore/i-gave-24-awkward-json-documents-to-6-parsers-five-behaved-the-same-everywhere-4p5p)
+- [I built a handwriting engine in zero-dependency TypeScript (text, icons and charts that draw themselves)](https://dev.to/a_elhaag/i-built-a-handwriting-engine-in-zero-dependency-typescript-text-icons-and-charts-that-draw-3mh1)
+
+#### Dev.to React
+
+- [7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads](https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i)
+- [Visualize your data live to reveal the multidimensional truth..](https://dev.to/atlastrackapp/visualize-your-data-live-to-reveal-the-multidimensional-truth-ia3)
+- [DebugHindsight: Building an AI Debugging Agent with Persistent Memory](https://dev.to/deepthireddy2410/debughindsight-building-an-ai-debugging-agent-with-persistent-memory-25ge)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 27, 2026)
+### 2 Days Ago (September 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Two Real VS Code Extensions, Built with vsceasy (and What Each Feature Does)](https://dev.to/jairofernandez/two-real-vs-code-extensions-built-with-vsceasy-and-what-each-feature-does-3opc)
 - [Screenshot testing a design system with Playwright and Docker](https://dev.to/artembelik/screenshot-testing-a-design-system-with-playwright-and-docker-1pci)
 - [Why Our App Hung Forever on Some iPads (and Nowhere Else)](https://dev.to/srijeetpatil/why-our-app-hung-forever-on-some-ipads-and-nowhere-else-55mj)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 26, 2026)
-
-#### Dev.to JavaScript
-
-- [getCurrentPosition() Doesn't Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap)
-- [localStorage Isn't Free — It's Blocking Your Main Thread](https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn)
-- [JSON.stringify Is Quietly Deleting Your File Uploads](https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka)
-
-#### Dev.to React
-
-- [How I Built a .NET + React Islands Site With a Playwright Snapshot Worker](https://dev.to/frorning/how-i-built-a-net-react-islands-site-with-a-playwright-snapshot-worker-56h7)
-- [Introducing RemotionUI](https://dev.to/riazul_islam_7d76022b1557/introducing-remotionui-2d1p)
-- [How I Built a Cinematic 3D Fitness Website with React Three Fiber and Three.js](https://dev.to/officialasforge/how-i-built-a-cinematic-3d-fitness-website-with-react-three-fiber-and-threejs-4dk2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-29",
+    "formattedDate": "September 29, 2026",
+    "news": [
+      {
+        "title": "The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them",
+        "link": "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I gave 24 awkward JSON documents to 6 parsers. Five behaved the same everywhere.",
+        "link": "https://dev.to/remdore/i-gave-24-awkward-json-documents-to-6-parsers-five-behaved-the-same-everywhere-4p5p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a handwriting engine in zero-dependency TypeScript (text, icons and charts that draw themselves)",
+        "link": "https://dev.to/a_elhaag/i-built-a-handwriting-engine-in-zero-dependency-typescript-text-icons-and-charts-that-draw-3mh1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads",
+        "link": "https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Visualize your data live to reveal the multidimensional truth..",
+        "link": "https://dev.to/atlastrackapp/visualize-your-data-live-to-reveal-the-multidimensional-truth-ia3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "DebugHindsight: Building an AI Debugging Agent with Persistent Memory",
+        "link": "https://dev.to/deepthireddy2410/debughindsight-building-an-ai-debugging-agent-with-persistent-memory-25ge",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-28",
     "formattedDate": "September 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why Our App Hung Forever on Some iPads (and Nowhere Else)",
         "link": "https://dev.to/srijeetpatil/why-our-app-hung-forever-on-some-ipads-and-nowhere-else-55mj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "formattedDate": "September 26, 2026",
-    "news": [
-      {
-        "title": "getCurrentPosition() Doesn't Just Check — It Prompts",
-        "link": "https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "localStorage Isn't Free — It's Blocking Your Main Thread",
-        "link": "https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JSON.stringify Is Quietly Deleting Your File Uploads",
-        "link": "https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built a .NET + React Islands Site With a Playwright Snapshot Worker",
-        "link": "https://dev.to/frorning/how-i-built-a-net-react-islands-site-with-a-playwright-snapshot-worker-56h7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Introducing RemotionUI",
-        "link": "https://dev.to/riazul_islam_7d76022b1557/introducing-remotionui-2d1p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Cinematic 3D Fitness Website with React Three Fiber and Three.js",
-        "link": "https://dev.to/officialasforge/how-i-built-a-cinematic-3d-fitness-website-with-react-three-fiber-and-threejs-4dk2",
         "source": "Dev.to React"
       },
       {
