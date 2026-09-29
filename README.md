@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them](https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk)
-- [I gave 24 awkward JSON documents to 6 parsers. Five behaved the same everywhere.](https://dev.to/remdore/i-gave-24-awkward-json-documents-to-6-parsers-five-behaved-the-same-everywhere-4p5p)
-- [I built a handwriting engine in zero-dependency TypeScript (text, icons and charts that draw themselves)](https://dev.to/a_elhaag/i-built-a-handwriting-engine-in-zero-dependency-typescript-text-icons-and-charts-that-draw-3mh1)
+- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
+- [How to Draw a Circle in Minecraft Blocks: the Math Behind a Pixel Circle Generator](https://dev.to/pixelcircles/how-to-draw-a-circle-in-minecraft-blocks-the-math-behind-a-pixel-circle-generator-44nm)
+- [Service discovery and load balancing in Node.js — without Consul or Kubernetes](https://dev.to/icebob/service-discovery-and-load-balancing-in-nodejs-without-consul-or-kubernetes-3odb)
 
 #### Dev.to React
 
-- [7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads](https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i)
-- [Visualize your data live to reveal the multidimensional truth..](https://dev.to/atlastrackapp/visualize-your-data-live-to-reveal-the-multidimensional-truth-ia3)
-- [DebugHindsight: Building an AI Debugging Agent with Persistent Memory](https://dev.to/deepthireddy2410/debughindsight-building-an-ai-debugging-agent-with-persistent-memory-25ge)
+- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
+- [How to build a sales dashboard on a million real rows in React DataGrid](https://dev.to/kanunilabs/how-to-build-a-sales-dashboard-on-a-million-real-rows-in-react-datagrid-4io8)
+- [RecallDesk: Turning Persistent AI Memory into a Practical Support Workspace](https://dev.to/kampelli_akshitha_511c230/recalldesk-turning-persistent-ai-memory-into-a-practical-support-workspace-5an0)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 29, 2026",
     "news": [
       {
-        "title": "The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them",
-        "link": "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
+        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
+        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I gave 24 awkward JSON documents to 6 parsers. Five behaved the same everywhere.",
-        "link": "https://dev.to/remdore/i-gave-24-awkward-json-documents-to-6-parsers-five-behaved-the-same-everywhere-4p5p",
+        "title": "How to Draw a Circle in Minecraft Blocks: the Math Behind a Pixel Circle Generator",
+        "link": "https://dev.to/pixelcircles/how-to-draw-a-circle-in-minecraft-blocks-the-math-behind-a-pixel-circle-generator-44nm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a handwriting engine in zero-dependency TypeScript (text, icons and charts that draw themselves)",
-        "link": "https://dev.to/a_elhaag/i-built-a-handwriting-engine-in-zero-dependency-typescript-text-icons-and-charts-that-draw-3mh1",
+        "title": "Service discovery and load balancing in Node.js — without Consul or Kubernetes",
+        "link": "https://dev.to/icebob/service-discovery-and-load-balancing-in-nodejs-without-consul-or-kubernetes-3odb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads",
-        "link": "https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i",
+        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
+        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
         "source": "Dev.to React"
       },
       {
-        "title": "Visualize your data live to reveal the multidimensional truth..",
-        "link": "https://dev.to/atlastrackapp/visualize-your-data-live-to-reveal-the-multidimensional-truth-ia3",
+        "title": "How to build a sales dashboard on a million real rows in React DataGrid",
+        "link": "https://dev.to/kanunilabs/how-to-build-a-sales-dashboard-on-a-million-real-rows-in-react-datagrid-4io8",
         "source": "Dev.to React"
       },
       {
-        "title": "DebugHindsight: Building an AI Debugging Agent with Persistent Memory",
-        "link": "https://dev.to/deepthireddy2410/debughindsight-building-an-ai-debugging-agent-with-persistent-memory-25ge",
+        "title": "RecallDesk: Turning Persistent AI Memory into a Practical Support Workspace",
+        "link": "https://dev.to/kampelli_akshitha_511c230/recalldesk-turning-persistent-ai-memory-into-a-practical-support-workspace-5an0",
         "source": "Dev.to React"
       },
       {
