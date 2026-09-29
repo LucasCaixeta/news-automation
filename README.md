@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
-- [How to Draw a Circle in Minecraft Blocks: the Math Behind a Pixel Circle Generator](https://dev.to/pixelcircles/how-to-draw-a-circle-in-minecraft-blocks-the-math-behind-a-pixel-circle-generator-44nm)
-- [Service discovery and load balancing in Node.js — without Consul or Kubernetes](https://dev.to/icebob/service-discovery-and-load-balancing-in-nodejs-without-consul-or-kubernetes-3odb)
+- [Left-pad incident explained: how 11 lines of JavaScript broke npm](https://dev.to/axrisi/left-pad-incident-explained-how-11-lines-of-javascript-broke-npm-54ol)
+- [Building an Open-Source Git Client with a Tool-Use AI Agent Loop (Electron + React + TS)](https://dev.to/mirocow/building-an-open-source-git-client-with-a-tool-use-ai-agent-loop-electron-react-ts-3mo)
 
 #### Dev.to React
 
 - [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
-- [How to build a sales dashboard on a million real rows in React DataGrid](https://dev.to/kanunilabs/how-to-build-a-sales-dashboard-on-a-million-real-rows-in-react-datagrid-4io8)
-- [RecallDesk: Turning Persistent AI Memory into a Practical Support Workspace](https://dev.to/kampelli_akshitha_511c230/recalldesk-turning-persistent-ai-memory-into-a-practical-support-workspace-5an0)
+- [I built a 3D system design simulator to stop hand-waving architectures](https://dev.to/irfan_wani/i-built-a-3d-system-design-simulator-to-stop-hand-waving-architectures-4nd6)
+- [Deploying React 19 Server Actions to production — CSRF, edge caching, and the failure modes the demo never shows](https://dev.to/letusai15/deploying-react-19-server-actions-to-production-csrf-edge-caching-and-the-failure-modes-the-25kh)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to Draw a Circle in Minecraft Blocks: the Math Behind a Pixel Circle Generator",
-        "link": "https://dev.to/pixelcircles/how-to-draw-a-circle-in-minecraft-blocks-the-math-behind-a-pixel-circle-generator-44nm",
+        "title": "Left-pad incident explained: how 11 lines of JavaScript broke npm",
+        "link": "https://dev.to/axrisi/left-pad-incident-explained-how-11-lines-of-javascript-broke-npm-54ol",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Service discovery and load balancing in Node.js — without Consul or Kubernetes",
-        "link": "https://dev.to/icebob/service-discovery-and-load-balancing-in-nodejs-without-consul-or-kubernetes-3odb",
+        "title": "Building an Open-Source Git Client with a Tool-Use AI Agent Loop (Electron + React + TS)",
+        "link": "https://dev.to/mirocow/building-an-open-source-git-client-with-a-tool-use-ai-agent-loop-electron-react-ts-3mo",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How to build a sales dashboard on a million real rows in React DataGrid",
-        "link": "https://dev.to/kanunilabs/how-to-build-a-sales-dashboard-on-a-million-real-rows-in-react-datagrid-4io8",
+        "title": "I built a 3D system design simulator to stop hand-waving architectures",
+        "link": "https://dev.to/irfan_wani/i-built-a-3d-system-design-simulator-to-stop-hand-waving-architectures-4nd6",
         "source": "Dev.to React"
       },
       {
-        "title": "RecallDesk: Turning Persistent AI Memory into a Practical Support Workspace",
-        "link": "https://dev.to/kampelli_akshitha_511c230/recalldesk-turning-persistent-ai-memory-into-a-practical-support-workspace-5an0",
+        "title": "Deploying React 19 Server Actions to production — CSRF, edge caching, and the failure modes the demo never shows",
+        "link": "https://dev.to/letusai15/deploying-react-19-server-actions-to-production-csrf-edge-caching-and-the-failure-modes-the-25kh",
         "source": "Dev.to React"
       },
       {
