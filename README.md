@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
-- [Decoding iPhone HEIC images in the browser with WebAssembly (no server, no uploads)](https://dev.to/james_100000/decoding-iphone-heic-images-in-the-browser-with-webassembly-no-server-no-uploads-2281)
-- [A SELECT that returned more rows than its LIMIT](https://dev.to/alphanumericentity/a-select-that-returned-more-rows-than-its-limit-42kl)
+- [Use this PIPE to feel the FLOW](https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j)
+- [TensorFlow.js in the browser: why one new tensor shape cost 8-17 seconds, and how I cut a 40 s freeze](https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3)
+- [I built a lightweight 2D Web Game Engine in Pure Vanilla JS (BeeEngine v2.8.4)](https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9)
 
 #### Dev.to React
 
-- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
-- [Why I built a fully MIT, Notion-style block editor for React](https://dev.to/buiducnhat/why-i-built-a-fully-mit-notion-style-block-editor-for-react-2d6p)
-- [Generating 1.5 Million Unique QR Codes for Print, With Zero Duplicates: The Two Scripts I Open-Sourced](https://dev.to/mhk_sameera/generating-15-million-unique-qr-codes-for-print-with-zero-duplicates-the-two-scripts-i-490b)
+- [Facebook as a headless CMS: building a Sri Lankan F1 fan site on Next.js 16](https://dev.to/vhxnga/facebook-as-a-headless-cms-building-a-sri-lankan-f1-fan-site-on-nextjs-16-5e1l)
+- [Streaming YouTube into a Discord voice channel: the four bugs that nearly killed it](https://dev.to/vhxnga/streaming-youtube-into-a-discord-voice-channel-the-four-bugs-that-nearly-killed-it-1c16)
+- [How I Cut a React App's Initial Bundle by 89%!](https://dev.to/sourav_bhowmik_73d35592ab/how-i-cut-a-react-apps-initial-bundle-by-89-58k2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "September 30, 2026",
     "news": [
       {
-        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
-        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
+        "title": "Use this PIPE to feel the FLOW",
+        "link": "https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Decoding iPhone HEIC images in the browser with WebAssembly (no server, no uploads)",
-        "link": "https://dev.to/james_100000/decoding-iphone-heic-images-in-the-browser-with-webassembly-no-server-no-uploads-2281",
+        "title": "TensorFlow.js in the browser: why one new tensor shape cost 8-17 seconds, and how I cut a 40 s freeze",
+        "link": "https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A SELECT that returned more rows than its LIMIT",
-        "link": "https://dev.to/alphanumericentity/a-select-that-returned-more-rows-than-its-limit-42kl",
+        "title": "I built a lightweight 2D Web Game Engine in Pure Vanilla JS (BeeEngine v2.8.4)",
+        "link": "https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
-        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
+        "title": "Facebook as a headless CMS: building a Sri Lankan F1 fan site on Next.js 16",
+        "link": "https://dev.to/vhxnga/facebook-as-a-headless-cms-building-a-sri-lankan-f1-fan-site-on-nextjs-16-5e1l",
         "source": "Dev.to React"
       },
       {
-        "title": "Why I built a fully MIT, Notion-style block editor for React",
-        "link": "https://dev.to/buiducnhat/why-i-built-a-fully-mit-notion-style-block-editor-for-react-2d6p",
+        "title": "Streaming YouTube into a Discord voice channel: the four bugs that nearly killed it",
+        "link": "https://dev.to/vhxnga/streaming-youtube-into-a-discord-voice-channel-the-four-bugs-that-nearly-killed-it-1c16",
         "source": "Dev.to React"
       },
       {
-        "title": "Generating 1.5 Million Unique QR Codes for Print, With Zero Duplicates: The Two Scripts I Open-Sourced",
-        "link": "https://dev.to/mhk_sameera/generating-15-million-unique-qr-codes-for-print-with-zero-duplicates-the-two-scripts-i-490b",
+        "title": "How I Cut a React App's Initial Bundle by 89%!",
+        "link": "https://dev.to/sourav_bhowmik_73d35592ab/how-i-cut-a-react-apps-initial-bundle-by-89-58k2",
         "source": "Dev.to React"
       },
       {
