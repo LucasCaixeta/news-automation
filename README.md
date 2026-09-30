@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 29, 2026)
+### Today's Updates (September 30, 2026)
+
+#### Dev.to JavaScript
+
+- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
+- [Decoding iPhone HEIC images in the browser with WebAssembly (no server, no uploads)](https://dev.to/james_100000/decoding-iphone-heic-images-in-the-browser-with-webassembly-no-server-no-uploads-2281)
+- [A SELECT that returned more rows than its LIMIT](https://dev.to/alphanumericentity/a-select-that-returned-more-rows-than-its-limit-42kl)
+
+#### Dev.to React
+
+- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
+- [Why I built a fully MIT, Notion-style block editor for React](https://dev.to/buiducnhat/why-i-built-a-fully-mit-notion-style-block-editor-for-react-2d6p)
+- [Generating 1.5 Million Unique QR Codes for Print, With Zero Duplicates: The Two Scripts I Open-Sourced](https://dev.to/mhk_sameera/generating-15-million-unique-qr-codes-for-print-with-zero-duplicates-the-two-scripts-i-490b)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 28, 2026)
+### 2 Days Ago (September 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React and Vue Are Turning Into the Same Framework](https://dev.to/nazar-boyko/react-and-vue-are-turning-into-the-same-framework-2aph)
 - [7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads](https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i)
 - [How I Wrote My Own State Manager](https://dev.to/voodoofugu/how-i-wrote-my-own-state-manager-434h)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 27, 2026)
-
-#### Dev.to JavaScript
-
-- [Building a 3D Exploration Game with Three.js](https://dev.to/vampirejs/building-a-3d-exploration-game-with-threejs-2198)
-- [Building a Production B2B Lead Enrichment & Scoring Agent in n8n for $0.008/Run](https://dev.to/reigen/building-a-production-b2b-lead-enrichment-scoring-agent-in-n8n-for-0008run-3aj5)
-- [The Boring Backend Work That Made PayEcho's Memory Actually Reliable](https://dev.to/aparna8074/the-boring-backend-work-that-made-payechos-memory-actually-reliable-n7j)
-
-#### Dev.to React
-
-- [Two Real VS Code Extensions, Built with vsceasy (and What Each Feature Does)](https://dev.to/jairofernandez/two-real-vs-code-extensions-built-with-vsceasy-and-what-each-feature-does-3opc)
-- [Screenshot testing a design system with Playwright and Docker](https://dev.to/artembelik/screenshot-testing-a-design-system-with-playwright-and-docker-1pci)
-- [Why Our App Hung Forever on Some iPads (and Nowhere Else)](https://dev.to/srijeetpatil/why-our-app-hung-forever-on-some-ipads-and-nowhere-else-55mj)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-09-30",
+    "formattedDate": "September 30, 2026",
+    "news": [
+      {
+        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
+        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Decoding iPhone HEIC images in the browser with WebAssembly (no server, no uploads)",
+        "link": "https://dev.to/james_100000/decoding-iphone-heic-images-in-the-browser-with-webassembly-no-server-no-uploads-2281",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A SELECT that returned more rows than its LIMIT",
+        "link": "https://dev.to/alphanumericentity/a-select-that-returned-more-rows-than-its-limit-42kl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
+        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why I built a fully MIT, Notion-style block editor for React",
+        "link": "https://dev.to/buiducnhat/why-i-built-a-fully-mit-notion-style-block-editor-for-react-2d6p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Generating 1.5 Million Unique QR Codes for Print, With Zero Duplicates: The Two Scripts I Open-Sourced",
+        "link": "https://dev.to/mhk_sameera/generating-15-million-unique-qr-codes-for-print-with-zero-duplicates-the-two-scripts-i-490b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-29",
     "formattedDate": "September 29, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Wrote My Own State Manager",
         "link": "https://dev.to/voodoofugu/how-i-wrote-my-own-state-manager-434h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-27",
-    "formattedDate": "September 27, 2026",
-    "news": [
-      {
-        "title": "Building a 3D Exploration Game with Three.js",
-        "link": "https://dev.to/vampirejs/building-a-3d-exploration-game-with-threejs-2198",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a Production B2B Lead Enrichment & Scoring Agent in n8n for $0.008/Run",
-        "link": "https://dev.to/reigen/building-a-production-b2b-lead-enrichment-scoring-agent-in-n8n-for-0008run-3aj5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Boring Backend Work That Made PayEcho's Memory Actually Reliable",
-        "link": "https://dev.to/aparna8074/the-boring-backend-work-that-made-payechos-memory-actually-reliable-n7j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Two Real VS Code Extensions, Built with vsceasy (and What Each Feature Does)",
-        "link": "https://dev.to/jairofernandez/two-real-vs-code-extensions-built-with-vsceasy-and-what-each-feature-does-3opc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Screenshot testing a design system with Playwright and Docker",
-        "link": "https://dev.to/artembelik/screenshot-testing-a-design-system-with-playwright-and-docker-1pci",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Our App Hung Forever on Some iPads (and Nowhere Else)",
-        "link": "https://dev.to/srijeetpatil/why-our-app-hung-forever-on-some-ipads-and-nowhere-else-55mj",
         "source": "Dev.to React"
       },
       {
