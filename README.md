@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (September 30, 2026)
+### Today's Updates (October 1, 2026)
+
+#### Dev.to JavaScript
+
+- [I built a free file compressor that never uploads your files, and checks its own quality](https://dev.to/s_b_338d557aee06b6436d328/i-built-a-free-file-compressor-that-never-uploads-your-files-and-checks-its-own-quality-25d9)
+- [I built 59 free browser-based dev tools in vanilla JS — here's what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3d8g)
+- [Stripping EXIF without re-encoding the JPEG, in about 600 lines of TypeScript](https://dev.to/keenanlk/stripping-exif-without-re-encoding-the-jpeg-in-about-600-lines-of-typescript-3na2)
+
+#### Dev.to React
+
+- [Building IntelliDesk AI: How I Architected a Production-Grade Enterprise ITSM Platform with RAG, WebSockets, and Celery](https://dev.to/pruthviraj_janwade_180b10/building-intellidesk-ai-how-i-architected-a-production-grade-enterprise-itsm-platform-with-rag-25j4)
+- [Building DevToolbox: 37 Local-First Developer Tools in One Browser Workspace](https://dev.to/yusufcanozan/building-devtoolbox-37-local-first-developer-tools-in-one-browser-workspace-3d6)
+- [I Built AgentComposerUI: UI Components for AI Agents That Actually Need Human Approval](https://dev.to/theajmalrazaq/i-built-agentcomposerui-ui-components-for-ai-agents-that-actually-need-human-approval-4g7a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (September 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 29, 2026)
+### 2 Days Ago (September 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
 - [I built a 3D system design simulator to stop hand-waving architectures](https://dev.to/irfan_wani/i-built-a-3d-system-design-simulator-to-stop-hand-waving-architectures-4nd6)
 - [Deploying React 19 Server Actions to production — CSRF, edge caching, and the failure modes the demo never shows](https://dev.to/letusai15/deploying-react-19-server-actions-to-production-csrf-edge-caching-and-the-failure-modes-the-25kh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 28, 2026)
-
-#### Dev.to JavaScript
-
-- [The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them](https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk)
-- [React and Vue Are Turning Into the Same Framework](https://dev.to/nazar-boyko/react-and-vue-are-turning-into-the-same-framework-2aph)
-- [What I learned building a 3D browser RTS with three.js and no build step](https://dev.to/webgamerush/what-i-learned-building-a-3d-browser-rts-with-threejs-and-no-build-step-1a31)
-
-#### Dev.to React
-
-- [React and Vue Are Turning Into the Same Framework](https://dev.to/nazar-boyko/react-and-vue-are-turning-into-the-same-framework-2aph)
-- [7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads](https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i)
-- [How I Wrote My Own State Manager](https://dev.to/voodoofugu/how-i-wrote-my-own-state-manager-434h)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-01",
+    "formattedDate": "October 1, 2026",
+    "news": [
+      {
+        "title": "I built a free file compressor that never uploads your files, and checks its own quality",
+        "link": "https://dev.to/s_b_338d557aee06b6436d328/i-built-a-free-file-compressor-that-never-uploads-your-files-and-checks-its-own-quality-25d9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3d8g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stripping EXIF without re-encoding the JPEG, in about 600 lines of TypeScript",
+        "link": "https://dev.to/keenanlk/stripping-exif-without-re-encoding-the-jpeg-in-about-600-lines-of-typescript-3na2",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building IntelliDesk AI: How I Architected a Production-Grade Enterprise ITSM Platform with RAG, WebSockets, and Celery",
+        "link": "https://dev.to/pruthviraj_janwade_180b10/building-intellidesk-ai-how-i-architected-a-production-grade-enterprise-itsm-platform-with-rag-25j4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building DevToolbox: 37 Local-First Developer Tools in One Browser Workspace",
+        "link": "https://dev.to/yusufcanozan/building-devtoolbox-37-local-first-developer-tools-in-one-browser-workspace-3d6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built AgentComposerUI: UI Components for AI Agents That Actually Need Human Approval",
+        "link": "https://dev.to/theajmalrazaq/i-built-agentcomposerui-ui-components-for-ai-agents-that-actually-need-human-approval-4g7a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-09-30",
     "formattedDate": "September 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Deploying React 19 Server Actions to production — CSRF, edge caching, and the failure modes the demo never shows",
         "link": "https://dev.to/letusai15/deploying-react-19-server-actions-to-production-csrf-edge-caching-and-the-failure-modes-the-25kh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "formattedDate": "September 28, 2026",
-    "news": [
-      {
-        "title": "The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them",
-        "link": "https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React and Vue Are Turning Into the Same Framework",
-        "link": "https://dev.to/nazar-boyko/react-and-vue-are-turning-into-the-same-framework-2aph",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What I learned building a 3D browser RTS with three.js and no build step",
-        "link": "https://dev.to/webgamerush/what-i-learned-building-a-3d-browser-rts-with-threejs-and-no-build-step-1a31",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React and Vue Are Turning Into the Same Framework",
-        "link": "https://dev.to/nazar-boyko/react-and-vue-are-turning-into-the-same-framework-2aph",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "7 Years of Chakra UI: The Journey from 0 to 6.1 Million Monthly Downloads",
-        "link": "https://dev.to/_estheradebayo/7-years-of-chakra-ui-the-journey-from-0-to-61-million-monthly-downloads-2m2i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Wrote My Own State Manager",
-        "link": "https://dev.to/voodoofugu/how-i-wrote-my-own-state-manager-434h",
         "source": "Dev.to React"
       },
       {
