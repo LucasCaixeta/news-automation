@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built a free file compressor that never uploads your files, and checks its own quality](https://dev.to/s_b_338d557aee06b6436d328/i-built-a-free-file-compressor-that-never-uploads-your-files-and-checks-its-own-quality-25d9)
-- [I built 59 free browser-based dev tools in vanilla JS — here's what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3d8g)
-- [Stripping EXIF without re-encoding the JPEG, in about 600 lines of TypeScript](https://dev.to/keenanlk/stripping-exif-without-re-encoding-the-jpeg-in-about-600-lines-of-typescript-3na2)
+- [Building a Real Multi-Step AI Agent with Gemini Function Calling (Not Just a Chatbot)](https://dev.to/omuphade/building-a-real-multi-step-ai-agent-with-gemini-function-calling-not-just-a-chatbot-3nl6)
+- [TypeScript 7 Is Up to 10x Faster. Should You Upgrade Now?](https://dev.to/johnnylemonny/typescript-7-is-up-to-10x-faster-should-you-upgrade-now-4d3p)
+- [JetBrains Said No Static Tool Catches This Freeze Bug. We Built One — And Found a Real Instance in Their Own Code.](https://dev.to/gap_hunterlabs/jetbrains-said-no-static-tool-catches-this-freeze-bug-we-built-one-and-found-a-real-instance-in-18c8)
 
 #### Dev.to React
 
-- [Building IntelliDesk AI: How I Architected a Production-Grade Enterprise ITSM Platform with RAG, WebSockets, and Celery](https://dev.to/pruthviraj_janwade_180b10/building-intellidesk-ai-how-i-architected-a-production-grade-enterprise-itsm-platform-with-rag-25j4)
-- [Building DevToolbox: 37 Local-First Developer Tools in One Browser Workspace](https://dev.to/yusufcanozan/building-devtoolbox-37-local-first-developer-tools-in-one-browser-workspace-3d6)
-- [I Built AgentComposerUI: UI Components for AI Agents That Actually Need Human Approval](https://dev.to/theajmalrazaq/i-built-agentcomposerui-ui-components-for-ai-agents-that-actually-need-human-approval-4g7a)
+- [Building Sportivo: How I Engineered a Live Sports Streaming Web App](https://dev.to/dszae/building-sportivo-how-i-engineered-a-live-sports-streaming-web-app-4kh6)
+- [Building an Interactive Git Visualizer to Master Version Control](https://dev.to/dszae/building-an-interactive-git-visualizer-to-master-version-control-4noa)
+- [Building CoTally — A Privacy-First Family Expense Tracker PWA with Offline Sync & Multi-Currency](https://dev.to/levinsiju/building-cotally-a-privacy-first-family-expense-tracker-pwa-with-offline-sync-multi-currency-89g)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 1, 2026",
     "news": [
       {
-        "title": "I built a free file compressor that never uploads your files, and checks its own quality",
-        "link": "https://dev.to/s_b_338d557aee06b6436d328/i-built-a-free-file-compressor-that-never-uploads-your-files-and-checks-its-own-quality-25d9",
+        "title": "Building a Real Multi-Step AI Agent with Gemini Function Calling (Not Just a Chatbot)",
+        "link": "https://dev.to/omuphade/building-a-real-multi-step-ai-agent-with-gemini-function-calling-not-just-a-chatbot-3nl6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-        "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3d8g",
+        "title": "TypeScript 7 Is Up to 10x Faster. Should You Upgrade Now?",
+        "link": "https://dev.to/johnnylemonny/typescript-7-is-up-to-10x-faster-should-you-upgrade-now-4d3p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stripping EXIF without re-encoding the JPEG, in about 600 lines of TypeScript",
-        "link": "https://dev.to/keenanlk/stripping-exif-without-re-encoding-the-jpeg-in-about-600-lines-of-typescript-3na2",
+        "title": "JetBrains Said No Static Tool Catches This Freeze Bug. We Built One — And Found a Real Instance in Their Own Code.",
+        "link": "https://dev.to/gap_hunterlabs/jetbrains-said-no-static-tool-catches-this-freeze-bug-we-built-one-and-found-a-real-instance-in-18c8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building IntelliDesk AI: How I Architected a Production-Grade Enterprise ITSM Platform with RAG, WebSockets, and Celery",
-        "link": "https://dev.to/pruthviraj_janwade_180b10/building-intellidesk-ai-how-i-architected-a-production-grade-enterprise-itsm-platform-with-rag-25j4",
+        "title": "Building Sportivo: How I Engineered a Live Sports Streaming Web App",
+        "link": "https://dev.to/dszae/building-sportivo-how-i-engineered-a-live-sports-streaming-web-app-4kh6",
         "source": "Dev.to React"
       },
       {
-        "title": "Building DevToolbox: 37 Local-First Developer Tools in One Browser Workspace",
-        "link": "https://dev.to/yusufcanozan/building-devtoolbox-37-local-first-developer-tools-in-one-browser-workspace-3d6",
+        "title": "Building an Interactive Git Visualizer to Master Version Control",
+        "link": "https://dev.to/dszae/building-an-interactive-git-visualizer-to-master-version-control-4noa",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built AgentComposerUI: UI Components for AI Agents That Actually Need Human Approval",
-        "link": "https://dev.to/theajmalrazaq/i-built-agentcomposerui-ui-components-for-ai-agents-that-actually-need-human-approval-4g7a",
+        "title": "Building CoTally — A Privacy-First Family Expense Tracker PWA with Offline Sync & Multi-Currency",
+        "link": "https://dev.to/levinsiju/building-cotally-a-privacy-first-family-expense-tracker-pwa-with-offline-sync-multi-currency-89g",
         "source": "Dev.to React"
       },
       {
