@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Frontend machine coding rounds: the 5 patterns I would practice first (with code)](https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p)
-- [🧩 JavaScript Promises Inside Promises: The Hidden Bugs, Execution Flow and How to Fix Them](https://dev.to/fazal_mansuri_/javascript-promises-inside-promises-the-hidden-bugs-execution-flow-and-how-to-fix-them-4p16)
-- [Your file names aren't corrupt. They're just being read in the wrong alphabet.](https://dev.to/istidaaf/your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet-52lk)
+- [How I drew a 4D tesseract in Three.js](https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc)
+- [Why the OpenTelemetry browser SDK wouldn't start on Safari 17](https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5)
+- [How JavaScript Is Defined: From ECMAScript to Array.prototype.map](https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971)
 
 #### Dev.to React
 
+- [A bilingual Next.js site without middleware](https://dev.to/jonasjavier/a-bilingual-nextjs-site-without-middleware-5fp8)
 - [Building Role-Based Authentication with Firebase in a React + Vite SaaS App](https://dev.to/anderson-devvs/building-role-based-authentication-with-firebase-in-a-react-vite-saas-app-4dog)
-- [Frontend machine coding rounds: the 5 patterns I would practice first (with code)](https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p)
-- [I built a chat app where the server has never seen a single message](https://dev.to/techbyvansh/i-built-a-chat-app-where-the-server-has-never-seen-a-single-message-549n)
+- [We Stopped Letting the Model Write JSX](https://dev.to/faisalinfinity/we-stopped-letting-the-model-write-jsx-fik)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 2, 2026",
     "news": [
       {
-        "title": "Frontend machine coding rounds: the 5 patterns I would practice first (with code)",
-        "link": "https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p",
+        "title": "How I drew a 4D tesseract in Three.js",
+        "link": "https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "🧩 JavaScript Promises Inside Promises: The Hidden Bugs, Execution Flow and How to Fix Them",
-        "link": "https://dev.to/fazal_mansuri_/javascript-promises-inside-promises-the-hidden-bugs-execution-flow-and-how-to-fix-them-4p16",
+        "title": "Why the OpenTelemetry browser SDK wouldn't start on Safari 17",
+        "link": "https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your file names aren't corrupt. They're just being read in the wrong alphabet.",
-        "link": "https://dev.to/istidaaf/your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet-52lk",
+        "title": "How JavaScript Is Defined: From ECMAScript to Array.prototype.map",
+        "link": "https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A bilingual Next.js site without middleware",
+        "link": "https://dev.to/jonasjavier/a-bilingual-nextjs-site-without-middleware-5fp8",
+        "source": "Dev.to React"
       },
       {
         "title": "Building Role-Based Authentication with Firebase in a React + Vite SaaS App",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Frontend machine coding rounds: the 5 patterns I would practice first (with code)",
-        "link": "https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a chat app where the server has never seen a single message",
-        "link": "https://dev.to/techbyvansh/i-built-a-chat-app-where-the-server-has-never-seen-a-single-message-549n",
+        "title": "We Stopped Letting the Model Write JSX",
+        "link": "https://dev.to/faisalinfinity/we-stopped-letting-the-model-write-jsx-fik",
         "source": "Dev.to React"
       },
       {
