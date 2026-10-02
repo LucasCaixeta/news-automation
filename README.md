@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 1, 2026)
+### Today's Updates (October 2, 2026)
+
+#### Dev.to JavaScript
+
+- [Frontend machine coding rounds: the 5 patterns I would practice first (with code)](https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p)
+- [🧩 JavaScript Promises Inside Promises: The Hidden Bugs, Execution Flow and How to Fix Them](https://dev.to/fazal_mansuri_/javascript-promises-inside-promises-the-hidden-bugs-execution-flow-and-how-to-fix-them-4p16)
+- [Your file names aren't corrupt. They're just being read in the wrong alphabet.](https://dev.to/istidaaf/your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet-52lk)
+
+#### Dev.to React
+
+- [Building Role-Based Authentication with Firebase in a React + Vite SaaS App](https://dev.to/anderson-devvs/building-role-based-authentication-with-firebase-in-a-react-vite-saas-app-4dog)
+- [Frontend machine coding rounds: the 5 patterns I would practice first (with code)](https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p)
+- [I built a chat app where the server has never seen a single message](https://dev.to/techbyvansh/i-built-a-chat-app-where-the-server-has-never-seen-a-single-message-549n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (September 30, 2026)
+### 2 Days Ago (September 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Facebook as a headless CMS: building a Sri Lankan F1 fan site on Next.js 16](https://dev.to/vhxnga/facebook-as-a-headless-cms-building-a-sri-lankan-f1-fan-site-on-nextjs-16-5e1l)
 - [Streaming YouTube into a Discord voice channel: the four bugs that nearly killed it](https://dev.to/vhxnga/streaming-youtube-into-a-discord-voice-channel-the-four-bugs-that-nearly-killed-it-1c16)
 - [How I Cut a React App's Initial Bundle by 89%!](https://dev.to/sourav_bhowmik_73d35592ab/how-i-cut-a-react-apps-initial-bundle-by-89-58k2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 29, 2026)
-
-#### Dev.to JavaScript
-
-- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
-- [Left-pad incident explained: how 11 lines of JavaScript broke npm](https://dev.to/axrisi/left-pad-incident-explained-how-11-lines-of-javascript-broke-npm-54ol)
-- [Building an Open-Source Git Client with a Tool-Use AI Agent Loop (Electron + React + TS)](https://dev.to/mirocow/building-an-open-source-git-client-with-a-tool-use-ai-agent-loop-electron-react-ts-3mo)
-
-#### Dev.to React
-
-- [React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It](https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j)
-- [I built a 3D system design simulator to stop hand-waving architectures](https://dev.to/irfan_wani/i-built-a-3d-system-design-simulator-to-stop-hand-waving-architectures-4nd6)
-- [Deploying React 19 Server Actions to production — CSRF, edge caching, and the failure modes the demo never shows](https://dev.to/letusai15/deploying-react-19-server-actions-to-production-csrf-edge-caching-and-the-failure-modes-the-25kh)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-02",
+    "formattedDate": "October 2, 2026",
+    "news": [
+      {
+        "title": "Frontend machine coding rounds: the 5 patterns I would practice first (with code)",
+        "link": "https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "🧩 JavaScript Promises Inside Promises: The Hidden Bugs, Execution Flow and How to Fix Them",
+        "link": "https://dev.to/fazal_mansuri_/javascript-promises-inside-promises-the-hidden-bugs-execution-flow-and-how-to-fix-them-4p16",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your file names aren't corrupt. They're just being read in the wrong alphabet.",
+        "link": "https://dev.to/istidaaf/your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet-52lk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building Role-Based Authentication with Firebase in a React + Vite SaaS App",
+        "link": "https://dev.to/anderson-devvs/building-role-based-authentication-with-firebase-in-a-react-vite-saas-app-4dog",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Frontend machine coding rounds: the 5 patterns I would practice first (with code)",
+        "link": "https://dev.to/milindguptacreator/frontend-machine-coding-rounds-the-5-patterns-i-would-practice-first-with-code-74p",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a chat app where the server has never seen a single message",
+        "link": "https://dev.to/techbyvansh/i-built-a-chat-app-where-the-server-has-never-seen-a-single-message-549n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-01",
     "formattedDate": "October 1, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Cut a React App's Initial Bundle by 89%!",
         "link": "https://dev.to/sourav_bhowmik_73d35592ab/how-i-cut-a-react-apps-initial-bundle-by-89-58k2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "formattedDate": "September 29, 2026",
-    "news": [
-      {
-        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
-        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Left-pad incident explained: how 11 lines of JavaScript broke npm",
-        "link": "https://dev.to/axrisi/left-pad-incident-explained-how-11-lines-of-javascript-broke-npm-54ol",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building an Open-Source Git Client with a Tool-Use AI Agent Loop (Electron + React + TS)",
-        "link": "https://dev.to/mirocow/building-an-open-source-git-client-with-a-tool-use-ai-agent-loop-electron-react-ts-3mo",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It",
-        "link": "https://dev.to/shubhradev/react-19-useformstatus-returning-false-i-built-a-submitbutton-that-fixes-it-4o0j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a 3D system design simulator to stop hand-waving architectures",
-        "link": "https://dev.to/irfan_wani/i-built-a-3d-system-design-simulator-to-stop-hand-waving-architectures-4nd6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Deploying React 19 Server Actions to production — CSRF, edge caching, and the failure modes the demo never shows",
-        "link": "https://dev.to/letusai15/deploying-react-19-server-actions-to-production-csrf-edge-caching-and-the-failure-modes-the-25kh",
         "source": "Dev.to React"
       },
       {
