@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 2, 2026)
+### Today's Updates (October 3, 2026)
+
+#### Dev.to JavaScript
+
+- [🛑 Stop Writing Code Like It's 2026: How I Built an Autonomous Agent Pipeline That Actually Works](https://dev.to/hizba_cloud/stop-writing-code-like-its-2025-how-i-built-an-autonomous-agent-pipeline-that-actually-works-2hhn)
+- [Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers](https://dev.to/jwhenry3/five-frameworks-one-page-zero-runtime-tax-micro-frontends-in-web-workers-4ia4)
+- [I made 45 music videos in a month. 21 of them are pure code, and here's how](https://dev.to/branislav_kuga_4118d3b3ab/i-made-45-music-videos-in-a-month-21-of-them-are-pure-code-and-heres-how-20f)
+
+#### Dev.to React
+
+- [Your Search Box Lags. Debounce Hides It; `useTransition` Fixes It](https://dev.to/parsajiravand/your-search-box-lags-debounce-hides-it-usetransition-fixes-it-3l00)
+- [React 19.3 ViewTransition: Animate State Without Losing It](https://dev.to/parsajiravand/react-193-viewtransition-animate-state-without-losing-it-4kpp)
+- [How I Built and Shipped an AI Food Label Scanner to the App Store Using React Native & FastAPI](https://dev.to/furkanilbay/how-i-built-and-shipped-an-ai-food-label-scanner-to-the-app-store-using-react-native-fastapi-1ag1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 1, 2026)
+### 2 Days Ago (October 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Building Sportivo: How I Engineered a Live Sports Streaming Web App](https://dev.to/dszae/building-sportivo-how-i-engineered-a-live-sports-streaming-web-app-4kh6)
 - [Building an Interactive Git Visualizer to Master Version Control](https://dev.to/dszae/building-an-interactive-git-visualizer-to-master-version-control-4noa)
 - [Building CoTally — A Privacy-First Family Expense Tracker PWA with Offline Sync & Multi-Currency](https://dev.to/levinsiju/building-cotally-a-privacy-first-family-expense-tracker-pwa-with-offline-sync-multi-currency-89g)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (September 30, 2026)
-
-#### Dev.to JavaScript
-
-- [Use this PIPE to feel the FLOW](https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j)
-- [TensorFlow.js in the browser: why one new tensor shape cost 8-17 seconds, and how I cut a 40 s freeze](https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3)
-- [I built a lightweight 2D Web Game Engine in Pure Vanilla JS (BeeEngine v2.8.4)](https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9)
-
-#### Dev.to React
-
-- [Facebook as a headless CMS: building a Sri Lankan F1 fan site on Next.js 16](https://dev.to/vhxnga/facebook-as-a-headless-cms-building-a-sri-lankan-f1-fan-site-on-nextjs-16-5e1l)
-- [Streaming YouTube into a Discord voice channel: the four bugs that nearly killed it](https://dev.to/vhxnga/streaming-youtube-into-a-discord-voice-channel-the-four-bugs-that-nearly-killed-it-1c16)
-- [How I Cut a React App's Initial Bundle by 89%!](https://dev.to/sourav_bhowmik_73d35592ab/how-i-cut-a-react-apps-initial-bundle-by-89-58k2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-03",
+    "formattedDate": "October 3, 2026",
+    "news": [
+      {
+        "title": "🛑 Stop Writing Code Like It's 2026: How I Built an Autonomous Agent Pipeline That Actually Works",
+        "link": "https://dev.to/hizba_cloud/stop-writing-code-like-its-2025-how-i-built-an-autonomous-agent-pipeline-that-actually-works-2hhn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers",
+        "link": "https://dev.to/jwhenry3/five-frameworks-one-page-zero-runtime-tax-micro-frontends-in-web-workers-4ia4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I made 45 music videos in a month. 21 of them are pure code, and here's how",
+        "link": "https://dev.to/branislav_kuga_4118d3b3ab/i-made-45-music-videos-in-a-month-21-of-them-are-pure-code-and-heres-how-20f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Search Box Lags. Debounce Hides It; `useTransition` Fixes It",
+        "link": "https://dev.to/parsajiravand/your-search-box-lags-debounce-hides-it-usetransition-fixes-it-3l00",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React 19.3 ViewTransition: Animate State Without Losing It",
+        "link": "https://dev.to/parsajiravand/react-193-viewtransition-animate-state-without-losing-it-4kpp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built and Shipped an AI Food Label Scanner to the App Store Using React Native & FastAPI",
+        "link": "https://dev.to/furkanilbay/how-i-built-and-shipped-an-ai-food-label-scanner-to-the-app-store-using-react-native-fastapi-1ag1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-02",
     "formattedDate": "October 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building CoTally — A Privacy-First Family Expense Tracker PWA with Offline Sync & Multi-Currency",
         "link": "https://dev.to/levinsiju/building-cotally-a-privacy-first-family-expense-tracker-pwa-with-offline-sync-multi-currency-89g",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "formattedDate": "September 30, 2026",
-    "news": [
-      {
-        "title": "Use this PIPE to feel the FLOW",
-        "link": "https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TensorFlow.js in the browser: why one new tensor shape cost 8-17 seconds, and how I cut a 40 s freeze",
-        "link": "https://dev.to/convertilo/tensorflowjs-in-the-browser-why-one-new-tensor-shape-cost-8-17-seconds-and-how-i-cut-a-40-s-4ho3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a lightweight 2D Web Game Engine in Pure Vanilla JS (BeeEngine v2.8.4)",
-        "link": "https://dev.to/antonioprosperi2svg/i-built-a-lightweight-2d-web-game-engine-in-pure-vanilla-js-beeengine-v284-4n9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Facebook as a headless CMS: building a Sri Lankan F1 fan site on Next.js 16",
-        "link": "https://dev.to/vhxnga/facebook-as-a-headless-cms-building-a-sri-lankan-f1-fan-site-on-nextjs-16-5e1l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Streaming YouTube into a Discord voice channel: the four bugs that nearly killed it",
-        "link": "https://dev.to/vhxnga/streaming-youtube-into-a-discord-voice-channel-the-four-bugs-that-nearly-killed-it-1c16",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Cut a React App's Initial Bundle by 89%!",
-        "link": "https://dev.to/sourav_bhowmik_73d35592ab/how-i-cut-a-react-apps-initial-bundle-by-89-58k2",
         "source": "Dev.to React"
       },
       {
