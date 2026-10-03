@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [🛑 Stop Writing Code Like It's 2026: How I Built an Autonomous Agent Pipeline That Actually Works](https://dev.to/hizba_cloud/stop-writing-code-like-its-2025-how-i-built-an-autonomous-agent-pipeline-that-actually-works-2hhn)
-- [Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers](https://dev.to/jwhenry3/five-frameworks-one-page-zero-runtime-tax-micro-frontends-in-web-workers-4ia4)
-- [I made 45 music videos in a month. 21 of them are pure code, and here's how](https://dev.to/branislav_kuga_4118d3b3ab/i-made-45-music-videos-in-a-month-21-of-them-are-pure-code-and-heres-how-20f)
+- [EmbedCatalog is participating in Hacktoberfest 2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)
+- [Claude Code mods: Minesweeper and testkit](https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067)
+- [Why You Should Never Trust the Frontend for Server-Side Verification](https://dev.to/dilutedev/why-you-should-never-trust-the-frontend-for-server-side-verification-230n)
 
 #### Dev.to React
 
-- [Your Search Box Lags. Debounce Hides It; `useTransition` Fixes It](https://dev.to/parsajiravand/your-search-box-lags-debounce-hides-it-usetransition-fixes-it-3l00)
-- [React 19.3 ViewTransition: Animate State Without Losing It](https://dev.to/parsajiravand/react-193-viewtransition-animate-state-without-losing-it-4kpp)
-- [How I Built and Shipped an AI Food Label Scanner to the App Store Using React Native & FastAPI](https://dev.to/furkanilbay/how-i-built-and-shipped-an-ai-food-label-scanner-to-the-app-store-using-react-native-fastapi-1ag1)
+- [I built 'Notion meets Microsoft To Do' — E2EE notes, a PWA, and a Play Store app without Kotlin](https://dev.to/pcpranav/i-built-notion-meets-microsoft-to-do-e2ee-notes-a-pwa-and-a-play-store-app-without-kotlin-4f6h)
+- [Mocking APIs for frontend development: MSW vs Prism vs spec-driven mocks](https://dev.to/jeff_pdc/mocking-apis-for-frontend-development-msw-vs-prism-vs-spec-driven-mocks-9a)
+- [We Built a Free QR Scanner That Never Uploads Your Images](https://dev.to/rahalune-qr-studio/we-built-a-free-qr-scanner-that-never-uploads-your-images-1474)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 3, 2026",
     "news": [
       {
-        "title": "🛑 Stop Writing Code Like It's 2026: How I Built an Autonomous Agent Pipeline That Actually Works",
-        "link": "https://dev.to/hizba_cloud/stop-writing-code-like-its-2025-how-i-built-an-autonomous-agent-pipeline-that-actually-works-2hhn",
+        "title": "EmbedCatalog is participating in Hacktoberfest 2026",
+        "link": "https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Five Frameworks, One Page, Zero Runtime Tax — Micro-frontends in Web Workers",
-        "link": "https://dev.to/jwhenry3/five-frameworks-one-page-zero-runtime-tax-micro-frontends-in-web-workers-4ia4",
+        "title": "Claude Code mods: Minesweeper and testkit",
+        "link": "https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I made 45 music videos in a month. 21 of them are pure code, and here's how",
-        "link": "https://dev.to/branislav_kuga_4118d3b3ab/i-made-45-music-videos-in-a-month-21-of-them-are-pure-code-and-heres-how-20f",
+        "title": "Why You Should Never Trust the Frontend for Server-Side Verification",
+        "link": "https://dev.to/dilutedev/why-you-should-never-trust-the-frontend-for-server-side-verification-230n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your Search Box Lags. Debounce Hides It; `useTransition` Fixes It",
-        "link": "https://dev.to/parsajiravand/your-search-box-lags-debounce-hides-it-usetransition-fixes-it-3l00",
+        "title": "I built 'Notion meets Microsoft To Do' — E2EE notes, a PWA, and a Play Store app without Kotlin",
+        "link": "https://dev.to/pcpranav/i-built-notion-meets-microsoft-to-do-e2ee-notes-a-pwa-and-a-play-store-app-without-kotlin-4f6h",
         "source": "Dev.to React"
       },
       {
-        "title": "React 19.3 ViewTransition: Animate State Without Losing It",
-        "link": "https://dev.to/parsajiravand/react-193-viewtransition-animate-state-without-losing-it-4kpp",
+        "title": "Mocking APIs for frontend development: MSW vs Prism vs spec-driven mocks",
+        "link": "https://dev.to/jeff_pdc/mocking-apis-for-frontend-development-msw-vs-prism-vs-spec-driven-mocks-9a",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built and Shipped an AI Food Label Scanner to the App Store Using React Native & FastAPI",
-        "link": "https://dev.to/furkanilbay/how-i-built-and-shipped-an-ai-food-label-scanner-to-the-app-store-using-react-native-fastapi-1ag1",
+        "title": "We Built a Free QR Scanner That Never Uploads Your Images",
+        "link": "https://dev.to/rahalune-qr-studio/we-built-a-free-qr-scanner-that-never-uploads-your-images-1474",
         "source": "Dev.to React"
       },
       {
