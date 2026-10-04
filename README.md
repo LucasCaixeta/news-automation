@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 3, 2026)
+### Today's Updates (October 4, 2026)
+
+#### Dev.to JavaScript
+
+- [EmbedCatalog is participating in Hacktoberfest 2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)
+- [Claude Code Plan Mode vs Auto-Accept in 2026: When to Let the Agent Drive and When to Stay in the Loop](https://dev.to/jsmanifest/claude-code-plan-mode-vs-auto-accept-in-2026-when-to-let-the-agent-drive-and-when-to-stay-in-the-40fe)
+- [Nuxt 4.5 SSR Streaming: The Route Rules That Disable It](https://dev.to/parsajiravand/nuxt-45-ssr-streaming-the-route-rules-that-disable-it-1daj)
+
+#### Dev.to React
+
+- [Four tools on our marketing site, none of which have a backend, and one that competes with us](https://dev.to/daniel_pertu/four-tools-on-our-marketing-site-none-of-which-have-a-backend-and-one-that-competes-with-us-13k3)
+- [tanstack-fetch 1.6.1: Type-Safe Path Params Without Losing Your DTO Types](https://dev.to/mwmdgmb/tanstack-fetch-161-type-safe-path-params-without-losing-your-dto-types-4a7d)
+- [Our window reloads itself every time you open it, so the renderer may not remember anything](https://dev.to/daniel_pertu/our-window-reloads-itself-every-time-you-open-it-so-the-renderer-may-not-remember-anything-13cj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 2, 2026)
+### 2 Days Ago (October 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [A bilingual Next.js site without middleware](https://dev.to/jonasjavier/a-bilingual-nextjs-site-without-middleware-5fp8)
 - [Building Role-Based Authentication with Firebase in a React + Vite SaaS App](https://dev.to/anderson-devvs/building-role-based-authentication-with-firebase-in-a-react-vite-saas-app-4dog)
 - [We Stopped Letting the Model Write JSX](https://dev.to/faisalinfinity/we-stopped-letting-the-model-write-jsx-fik)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 1, 2026)
-
-#### Dev.to JavaScript
-
-- [Building a Real Multi-Step AI Agent with Gemini Function Calling (Not Just a Chatbot)](https://dev.to/omuphade/building-a-real-multi-step-ai-agent-with-gemini-function-calling-not-just-a-chatbot-3nl6)
-- [TypeScript 7 Is Up to 10x Faster. Should You Upgrade Now?](https://dev.to/johnnylemonny/typescript-7-is-up-to-10x-faster-should-you-upgrade-now-4d3p)
-- [JetBrains Said No Static Tool Catches This Freeze Bug. We Built One — And Found a Real Instance in Their Own Code.](https://dev.to/gap_hunterlabs/jetbrains-said-no-static-tool-catches-this-freeze-bug-we-built-one-and-found-a-real-instance-in-18c8)
-
-#### Dev.to React
-
-- [Building Sportivo: How I Engineered a Live Sports Streaming Web App](https://dev.to/dszae/building-sportivo-how-i-engineered-a-live-sports-streaming-web-app-4kh6)
-- [Building an Interactive Git Visualizer to Master Version Control](https://dev.to/dszae/building-an-interactive-git-visualizer-to-master-version-control-4noa)
-- [Building CoTally — A Privacy-First Family Expense Tracker PWA with Offline Sync & Multi-Currency](https://dev.to/levinsiju/building-cotally-a-privacy-first-family-expense-tracker-pwa-with-offline-sync-multi-currency-89g)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-04",
+    "formattedDate": "October 4, 2026",
+    "news": [
+      {
+        "title": "EmbedCatalog is participating in Hacktoberfest 2026",
+        "link": "https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Claude Code Plan Mode vs Auto-Accept in 2026: When to Let the Agent Drive and When to Stay in the Loop",
+        "link": "https://dev.to/jsmanifest/claude-code-plan-mode-vs-auto-accept-in-2026-when-to-let-the-agent-drive-and-when-to-stay-in-the-40fe",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Nuxt 4.5 SSR Streaming: The Route Rules That Disable It",
+        "link": "https://dev.to/parsajiravand/nuxt-45-ssr-streaming-the-route-rules-that-disable-it-1daj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Four tools on our marketing site, none of which have a backend, and one that competes with us",
+        "link": "https://dev.to/daniel_pertu/four-tools-on-our-marketing-site-none-of-which-have-a-backend-and-one-that-competes-with-us-13k3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "tanstack-fetch 1.6.1: Type-Safe Path Params Without Losing Your DTO Types",
+        "link": "https://dev.to/mwmdgmb/tanstack-fetch-161-type-safe-path-params-without-losing-your-dto-types-4a7d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Our window reloads itself every time you open it, so the renderer may not remember anything",
+        "link": "https://dev.to/daniel_pertu/our-window-reloads-itself-every-time-you-open-it-so-the-renderer-may-not-remember-anything-13cj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-03",
     "formattedDate": "October 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "We Stopped Letting the Model Write JSX",
         "link": "https://dev.to/faisalinfinity/we-stopped-letting-the-model-write-jsx-fik",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-01",
-    "formattedDate": "October 1, 2026",
-    "news": [
-      {
-        "title": "Building a Real Multi-Step AI Agent with Gemini Function Calling (Not Just a Chatbot)",
-        "link": "https://dev.to/omuphade/building-a-real-multi-step-ai-agent-with-gemini-function-calling-not-just-a-chatbot-3nl6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript 7 Is Up to 10x Faster. Should You Upgrade Now?",
-        "link": "https://dev.to/johnnylemonny/typescript-7-is-up-to-10x-faster-should-you-upgrade-now-4d3p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JetBrains Said No Static Tool Catches This Freeze Bug. We Built One — And Found a Real Instance in Their Own Code.",
-        "link": "https://dev.to/gap_hunterlabs/jetbrains-said-no-static-tool-catches-this-freeze-bug-we-built-one-and-found-a-real-instance-in-18c8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building Sportivo: How I Engineered a Live Sports Streaming Web App",
-        "link": "https://dev.to/dszae/building-sportivo-how-i-engineered-a-live-sports-streaming-web-app-4kh6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building an Interactive Git Visualizer to Master Version Control",
-        "link": "https://dev.to/dszae/building-an-interactive-git-visualizer-to-master-version-control-4noa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building CoTally — A Privacy-First Family Expense Tracker PWA with Offline Sync & Multi-Currency",
-        "link": "https://dev.to/levinsiju/building-cotally-a-privacy-first-family-expense-tracker-pwa-with-offline-sync-multi-currency-89g",
         "source": "Dev.to React"
       },
       {
