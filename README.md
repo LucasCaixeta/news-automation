@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [EmbedCatalog is participating in Hacktoberfest 2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)
-- [Claude Code Plan Mode vs Auto-Accept in 2026: When to Let the Agent Drive and When to Stay in the Loop](https://dev.to/jsmanifest/claude-code-plan-mode-vs-auto-accept-in-2026-when-to-let-the-agent-drive-and-when-to-stay-in-the-40fe)
-- [Nuxt 4.5 SSR Streaming: The Route Rules That Disable It](https://dev.to/parsajiravand/nuxt-45-ssr-streaming-the-route-rules-that-disable-it-1daj)
+- [StudyBuddy — Pomodoro, Flashcards & Quiz in One Beautiful App 🦉](https://dev.to/ujjwalgupta2021/studybuddy-pomodoro-flashcards-quiz-in-one-beautiful-app-1kjc)
+- [I Tested 11 HTTP Resilience Libraries](https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312)
 
 #### Dev.to React
 
-- [Four tools on our marketing site, none of which have a backend, and one that competes with us](https://dev.to/daniel_pertu/four-tools-on-our-marketing-site-none-of-which-have-a-backend-and-one-that-competes-with-us-13k3)
-- [tanstack-fetch 1.6.1: Type-Safe Path Params Without Losing Your DTO Types](https://dev.to/mwmdgmb/tanstack-fetch-161-type-safe-path-params-without-losing-your-dto-types-4a7d)
-- [Our window reloads itself every time you open it, so the renderer may not remember anything](https://dev.to/daniel_pertu/our-window-reloads-itself-every-time-you-open-it-so-the-renderer-may-not-remember-anything-13cj)
+- [I Built an AI Study Assistant for My Friend Using Gemma, React and Render...](https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-4l6l)
+- [I Built an AI Notes Simplifier for My Friend Using Gemma, React and Render](https://dev.to/banshraj1/i-built-an-ai-notes-simplifier-for-my-friend-using-gemma-react-and-render-182d)
+- [I Built an AI Study Assistant for My Friend Using Gemma, React and Render](https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-59pa)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Claude Code Plan Mode vs Auto-Accept in 2026: When to Let the Agent Drive and When to Stay in the Loop",
-        "link": "https://dev.to/jsmanifest/claude-code-plan-mode-vs-auto-accept-in-2026-when-to-let-the-agent-drive-and-when-to-stay-in-the-40fe",
+        "title": "StudyBuddy — Pomodoro, Flashcards & Quiz in One Beautiful App 🦉",
+        "link": "https://dev.to/ujjwalgupta2021/studybuddy-pomodoro-flashcards-quiz-in-one-beautiful-app-1kjc",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Nuxt 4.5 SSR Streaming: The Route Rules That Disable It",
-        "link": "https://dev.to/parsajiravand/nuxt-45-ssr-streaming-the-route-rules-that-disable-it-1daj",
+        "title": "I Tested 11 HTTP Resilience Libraries",
+        "link": "https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Four tools on our marketing site, none of which have a backend, and one that competes with us",
-        "link": "https://dev.to/daniel_pertu/four-tools-on-our-marketing-site-none-of-which-have-a-backend-and-one-that-competes-with-us-13k3",
+        "title": "I Built an AI Study Assistant for My Friend Using Gemma, React and Render...",
+        "link": "https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-4l6l",
         "source": "Dev.to React"
       },
       {
-        "title": "tanstack-fetch 1.6.1: Type-Safe Path Params Without Losing Your DTO Types",
-        "link": "https://dev.to/mwmdgmb/tanstack-fetch-161-type-safe-path-params-without-losing-your-dto-types-4a7d",
+        "title": "I Built an AI Notes Simplifier for My Friend Using Gemma, React and Render",
+        "link": "https://dev.to/banshraj1/i-built-an-ai-notes-simplifier-for-my-friend-using-gemma-react-and-render-182d",
         "source": "Dev.to React"
       },
       {
-        "title": "Our window reloads itself every time you open it, so the renderer may not remember anything",
-        "link": "https://dev.to/daniel_pertu/our-window-reloads-itself-every-time-you-open-it-so-the-renderer-may-not-remember-anything-13cj",
+        "title": "I Built an AI Study Assistant for My Friend Using Gemma, React and Render",
+        "link": "https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-59pa",
         "source": "Dev.to React"
       },
       {
