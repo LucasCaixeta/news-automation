@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 4, 2026)
+### Today's Updates (October 5, 2026)
+
+#### Dev.to JavaScript
+
+- [Claude Code mods: but does it run Doom?](https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma)
+- [The file you recovered might be a ghost: checking integrity from the bytes alone](https://dev.to/istidaaf/the-file-you-recovered-might-be-a-ghost-checking-integrity-from-the-bytes-alone-719)
+- [How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch](https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9)
+
+#### Dev.to React
+
+- [How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM](https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d)
+- [I built a sudoku app where the AI coach is never allowed to be wrong](https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03)
+- [How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch](https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 3, 2026)
+### 2 Days Ago (October 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I built 'Notion meets Microsoft To Do' — E2EE notes, a PWA, and a Play Store app without Kotlin](https://dev.to/pcpranav/i-built-notion-meets-microsoft-to-do-e2ee-notes-a-pwa-and-a-play-store-app-without-kotlin-4f6h)
 - [Mocking APIs for frontend development: MSW vs Prism vs spec-driven mocks](https://dev.to/jeff_pdc/mocking-apis-for-frontend-development-msw-vs-prism-vs-spec-driven-mocks-9a)
 - [We Built a Free QR Scanner That Never Uploads Your Images](https://dev.to/rahalune-qr-studio/we-built-a-free-qr-scanner-that-never-uploads-your-images-1474)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 2, 2026)
-
-#### Dev.to JavaScript
-
-- [How I drew a 4D tesseract in Three.js](https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc)
-- [Why the OpenTelemetry browser SDK wouldn't start on Safari 17](https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5)
-- [How JavaScript Is Defined: From ECMAScript to Array.prototype.map](https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971)
-
-#### Dev.to React
-
-- [A bilingual Next.js site without middleware](https://dev.to/jonasjavier/a-bilingual-nextjs-site-without-middleware-5fp8)
-- [Building Role-Based Authentication with Firebase in a React + Vite SaaS App](https://dev.to/anderson-devvs/building-role-based-authentication-with-firebase-in-a-react-vite-saas-app-4dog)
-- [We Stopped Letting the Model Write JSX](https://dev.to/faisalinfinity/we-stopped-letting-the-model-write-jsx-fik)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-05",
+    "formattedDate": "October 5, 2026",
+    "news": [
+      {
+        "title": "Claude Code mods: but does it run Doom?",
+        "link": "https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "The file you recovered might be a ghost: checking integrity from the bytes alone",
+        "link": "https://dev.to/istidaaf/the-file-you-recovered-might-be-a-ghost-checking-integrity-from-the-bytes-alone-719",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch",
+        "link": "https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM",
+        "link": "https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a sudoku app where the AI coach is never allowed to be wrong",
+        "link": "https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch",
+        "link": "https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-04",
     "formattedDate": "October 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "We Built a Free QR Scanner That Never Uploads Your Images",
         "link": "https://dev.to/rahalune-qr-studio/we-built-a-free-qr-scanner-that-never-uploads-your-images-1474",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-02",
-    "formattedDate": "October 2, 2026",
-    "news": [
-      {
-        "title": "How I drew a 4D tesseract in Three.js",
-        "link": "https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why the OpenTelemetry browser SDK wouldn't start on Safari 17",
-        "link": "https://dev.to/adityareddy_dev/why-the-opentelemetry-browser-sdk-wouldnt-start-on-safari-17-55j5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How JavaScript Is Defined: From ECMAScript to Array.prototype.map",
-        "link": "https://dev.to/rafael_dev/how-javascript-is-defined-from-ecmascript-to-arrayprototypemap-5971",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A bilingual Next.js site without middleware",
-        "link": "https://dev.to/jonasjavier/a-bilingual-nextjs-site-without-middleware-5fp8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building Role-Based Authentication with Firebase in a React + Vite SaaS App",
-        "link": "https://dev.to/anderson-devvs/building-role-based-authentication-with-firebase-in-a-react-vite-saas-app-4dog",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "We Stopped Letting the Model Write JSX",
-        "link": "https://dev.to/faisalinfinity/we-stopped-letting-the-model-write-jsx-fik",
         "source": "Dev.to React"
       },
       {
