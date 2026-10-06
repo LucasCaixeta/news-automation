@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Why Your TypeScript Code Still Crashes in Production](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4)
 - [Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.](https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek)
-- [My OSS Projects: Netpack](https://dev.to/florianrappl/my-oss-projects-netpack-3274)
 - [Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second](https://dev.to/alexgeorgiev17/bun-14s-bun-test-parallel-cuts-a-4-second-suite-to-about-1-second-4481)
 
 #### Dev.to React
 
-- [How we made a 9 MB WebAssembly module feel faster without removing a single byte](https://dev.to/bra31k/how-we-made-a-9-mb-webassembly-module-feel-faster-without-removing-a-single-byte-5h3a)
-- [Using react-broadcast-sync in a real app: dashboard filters across tabs](https://dev.to/idanshalem/using-react-broadcast-sync-in-a-real-app-dashboard-filters-across-tabs-38cb)
-- [TypeScript `using` With AsyncDisposableStack: Coordinating Multi-Resource Teardown in Real Server Code](https://dev.to/jsmanifest/typescript-using-with-asyncdisposablestack-coordinating-multi-resource-teardown-in-real-server-3g7e)
+- [Last-Write-Wins Is Not a Sync Strategy: Handling Conflicts in Offline-First Mobile Apps](https://dev.to/liaqat_ali/last-write-wins-is-not-a-sync-strategy-handling-conflicts-in-offline-first-mobile-apps-4p4d)
+- [We Built a 3D Game Where Your Voice Breaks Reality, As Our Hacker House Submission](https://dev.to/kishore1035/we-built-a-3d-game-where-your-voice-breaks-reality-as-our-hacker-house-submission-4gec)
+- [How to Fix the "window is not defined" Error in Next.js 13](https://dev.to/sanjivsutar/how-to-fix-the-window-is-not-defined-error-in-nextjs-13-5922)
 
 #### React Blog
 
@@ -89,13 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 6, 2026",
     "news": [
       {
-        "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
-        "link": "https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek",
+        "title": "Why Your TypeScript Code Still Crashes in Production",
+        "link": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My OSS Projects: Netpack",
-        "link": "https://dev.to/florianrappl/my-oss-projects-netpack-3274",
+        "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
+        "link": "https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How we made a 9 MB WebAssembly module feel faster without removing a single byte",
-        "link": "https://dev.to/bra31k/how-we-made-a-9-mb-webassembly-module-feel-faster-without-removing-a-single-byte-5h3a",
+        "title": "Last-Write-Wins Is Not a Sync Strategy: Handling Conflicts in Offline-First Mobile Apps",
+        "link": "https://dev.to/liaqat_ali/last-write-wins-is-not-a-sync-strategy-handling-conflicts-in-offline-first-mobile-apps-4p4d",
         "source": "Dev.to React"
       },
       {
-        "title": "Using react-broadcast-sync in a real app: dashboard filters across tabs",
-        "link": "https://dev.to/idanshalem/using-react-broadcast-sync-in-a-real-app-dashboard-filters-across-tabs-38cb",
+        "title": "We Built a 3D Game Where Your Voice Breaks Reality, As Our Hacker House Submission",
+        "link": "https://dev.to/kishore1035/we-built-a-3d-game-where-your-voice-breaks-reality-as-our-hacker-house-submission-4gec",
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript `using` With AsyncDisposableStack: Coordinating Multi-Resource Teardown in Real Server Code",
-        "link": "https://dev.to/jsmanifest/typescript-using-with-asyncdisposablestack-coordinating-multi-resource-teardown-in-real-server-3g7e",
+        "title": "How to Fix the \"window is not defined\" Error in Next.js 13",
+        "link": "https://dev.to/sanjivsutar/how-to-fix-the-window-is-not-defined-error-in-nextjs-13-5922",
         "source": "Dev.to React"
       },
       {
