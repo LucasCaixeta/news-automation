@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 5, 2026)
+### Today's Updates (October 6, 2026)
+
+#### Dev.to JavaScript
+
+- [Claude Code mods: but does it run Doom?](https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma)
+- [Server-render an SVG map with no map library](https://dev.to/chasefleming/server-render-an-svg-map-with-no-map-library-16om)
+- [PCN: a text notation for curling games, one line per shot](https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8)
+
+#### Dev.to React
+
+- [How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM](https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d)
+- [I built a sudoku app where the AI coach is never allowed to be wrong](https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03)
+- [The Framework Nobody Wrote Down: Taking a Backbone App to React](https://dev.to/cobuildx-ai/the-framework-nobody-wrote-down-taking-a-backbone-app-to-react-39hi)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 4, 2026)
+### 2 Days Ago (October 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built an AI Study Assistant for My Friend Using Gemma, React and Render...](https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-4l6l)
 - [I Built an AI Notes Simplifier for My Friend Using Gemma, React and Render](https://dev.to/banshraj1/i-built-an-ai-notes-simplifier-for-my-friend-using-gemma-react-and-render-182d)
 - [I Built an AI Study Assistant for My Friend Using Gemma, React and Render](https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-59pa)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 3, 2026)
-
-#### Dev.to JavaScript
-
-- [EmbedCatalog is participating in Hacktoberfest 2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)
-- [Claude Code mods: Minesweeper and testkit](https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067)
-- [Why You Should Never Trust the Frontend for Server-Side Verification](https://dev.to/dilutedev/why-you-should-never-trust-the-frontend-for-server-side-verification-230n)
-
-#### Dev.to React
-
-- [I built 'Notion meets Microsoft To Do' — E2EE notes, a PWA, and a Play Store app without Kotlin](https://dev.to/pcpranav/i-built-notion-meets-microsoft-to-do-e2ee-notes-a-pwa-and-a-play-store-app-without-kotlin-4f6h)
-- [Mocking APIs for frontend development: MSW vs Prism vs spec-driven mocks](https://dev.to/jeff_pdc/mocking-apis-for-frontend-development-msw-vs-prism-vs-spec-driven-mocks-9a)
-- [We Built a Free QR Scanner That Never Uploads Your Images](https://dev.to/rahalune-qr-studio/we-built-a-free-qr-scanner-that-never-uploads-your-images-1474)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-06",
+    "formattedDate": "October 6, 2026",
+    "news": [
+      {
+        "title": "Claude Code mods: but does it run Doom?",
+        "link": "https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Server-render an SVG map with no map library",
+        "link": "https://dev.to/chasefleming/server-render-an-svg-map-with-no-map-library-16om",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "PCN: a text notation for curling games, one line per shot",
+        "link": "https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM",
+        "link": "https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a sudoku app where the AI coach is never allowed to be wrong",
+        "link": "https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Framework Nobody Wrote Down: Taking a Backbone App to React",
+        "link": "https://dev.to/cobuildx-ai/the-framework-nobody-wrote-down-taking-a-backbone-app-to-react-39hi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-05",
     "formattedDate": "October 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Built an AI Study Assistant for My Friend Using Gemma, React and Render",
         "link": "https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-59pa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-03",
-    "formattedDate": "October 3, 2026",
-    "news": [
-      {
-        "title": "EmbedCatalog is participating in Hacktoberfest 2026",
-        "link": "https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Claude Code mods: Minesweeper and testkit",
-        "link": "https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why You Should Never Trust the Frontend for Server-Side Verification",
-        "link": "https://dev.to/dilutedev/why-you-should-never-trust-the-frontend-for-server-side-verification-230n",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built 'Notion meets Microsoft To Do' — E2EE notes, a PWA, and a Play Store app without Kotlin",
-        "link": "https://dev.to/pcpranav/i-built-notion-meets-microsoft-to-do-e2ee-notes-a-pwa-and-a-play-store-app-without-kotlin-4f6h",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mocking APIs for frontend development: MSW vs Prism vs spec-driven mocks",
-        "link": "https://dev.to/jeff_pdc/mocking-apis-for-frontend-development-msw-vs-prism-vs-spec-driven-mocks-9a",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "We Built a Free QR Scanner That Never Uploads Your Images",
-        "link": "https://dev.to/rahalune-qr-studio/we-built-a-free-qr-scanner-that-never-uploads-your-images-1474",
         "source": "Dev.to React"
       },
       {
