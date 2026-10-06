@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Claude Code mods: but does it run Doom?](https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma)
-- [Server-render an SVG map with no map library](https://dev.to/chasefleming/server-render-an-svg-map-with-no-map-library-16om)
-- [PCN: a text notation for curling games, one line per shot](https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8)
+- [Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.](https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek)
+- [My OSS Projects: Netpack](https://dev.to/florianrappl/my-oss-projects-netpack-3274)
+- [Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second](https://dev.to/alexgeorgiev17/bun-14s-bun-test-parallel-cuts-a-4-second-suite-to-about-1-second-4481)
 
 #### Dev.to React
 
-- [How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM](https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d)
-- [I built a sudoku app where the AI coach is never allowed to be wrong](https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03)
-- [The Framework Nobody Wrote Down: Taking a Backbone App to React](https://dev.to/cobuildx-ai/the-framework-nobody-wrote-down-taking-a-backbone-app-to-react-39hi)
+- [How we made a 9 MB WebAssembly module feel faster without removing a single byte](https://dev.to/bra31k/how-we-made-a-9-mb-webassembly-module-feel-faster-without-removing-a-single-byte-5h3a)
+- [Using react-broadcast-sync in a real app: dashboard filters across tabs](https://dev.to/idanshalem/using-react-broadcast-sync-in-a-real-app-dashboard-filters-across-tabs-38cb)
+- [TypeScript `using` With AsyncDisposableStack: Coordinating Multi-Resource Teardown in Real Server Code](https://dev.to/jsmanifest/typescript-using-with-asyncdisposablestack-coordinating-multi-resource-teardown-in-real-server-3g7e)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 6, 2026",
     "news": [
       {
-        "title": "Claude Code mods: but does it run Doom?",
-        "link": "https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma",
+        "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
+        "link": "https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Server-render an SVG map with no map library",
-        "link": "https://dev.to/chasefleming/server-render-an-svg-map-with-no-map-library-16om",
+        "title": "My OSS Projects: Netpack",
+        "link": "https://dev.to/florianrappl/my-oss-projects-netpack-3274",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "PCN: a text notation for curling games, one line per shot",
-        "link": "https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8",
+        "title": "Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second",
+        "link": "https://dev.to/alexgeorgiev17/bun-14s-bun-test-parallel-cuts-a-4-second-suite-to-about-1-second-4481",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM",
-        "link": "https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d",
+        "title": "How we made a 9 MB WebAssembly module feel faster without removing a single byte",
+        "link": "https://dev.to/bra31k/how-we-made-a-9-mb-webassembly-module-feel-faster-without-removing-a-single-byte-5h3a",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a sudoku app where the AI coach is never allowed to be wrong",
-        "link": "https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03",
+        "title": "Using react-broadcast-sync in a real app: dashboard filters across tabs",
+        "link": "https://dev.to/idanshalem/using-react-broadcast-sync-in-a-real-app-dashboard-filters-across-tabs-38cb",
         "source": "Dev.to React"
       },
       {
-        "title": "The Framework Nobody Wrote Down: Taking a Backbone App to React",
-        "link": "https://dev.to/cobuildx-ai/the-framework-nobody-wrote-down-taking-a-backbone-app-to-react-39hi",
+        "title": "TypeScript `using` With AsyncDisposableStack: Coordinating Multi-Resource Teardown in Real Server Code",
+        "link": "https://dev.to/jsmanifest/typescript-using-with-asyncdisposablestack-coordinating-multi-resource-teardown-in-real-server-3g7e",
         "source": "Dev.to React"
       },
       {
