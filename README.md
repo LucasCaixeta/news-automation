@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 6, 2026)
+### Today's Updates (October 7, 2026)
+
+#### Dev.to JavaScript
+
+- [Why Your TypeScript Code Still Crashes in Production](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4)
+- [Same prompt, four models: what Opus, Sonnet, Astra and Sol each got wrong](https://dev.to/eshevtsov/same-prompt-four-models-what-opus-sonnet-astra-and-sol-each-got-wrong-2a3)
+- [I built a video editor that renders sharp 1080p MP4s entirely in the browser](https://dev.to/madalitsonyemba/i-built-a-video-editor-that-renders-sharp-1080p-mp4s-entirely-in-the-browser-5ebl)
+
+#### Dev.to React
+
+- [Designing Human-in-the-Loop AI: Why an AI-Generated Reply Should Be a Draft, Not an Action](https://dev.to/ramji_tripathi_095c7f4810/designing-human-in-the-loop-ai-why-an-ai-generated-reply-should-be-a-draft-not-an-action-55a0)
+- [I Built a Serverless, Offline-First Exam Simulator for the Google Cloud Architect Cert (Beta)](https://dev.to/nhanlnt/i-built-a-serverless-offline-first-exam-simulator-for-the-google-cloud-architect-cert-beta-1i90)
+- [Your useEffect Search Bar Has a Race Condition, and It Only Shows Up When Users Type Fast](https://dev.to/anas_sheikh_2/server-actions-dont-need-csrf-protection-your-api-routes-still-do-and-mixing-that-up-is-a-real-7ep)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 5, 2026)
+### 2 Days Ago (October 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM](https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d)
 - [I built a sudoku app where the AI coach is never allowed to be wrong](https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03)
 - [How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch](https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 4, 2026)
-
-#### Dev.to JavaScript
-
-- [EmbedCatalog is participating in Hacktoberfest 2026](https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4)
-- [StudyBuddy — Pomodoro, Flashcards & Quiz in One Beautiful App 🦉](https://dev.to/ujjwalgupta2021/studybuddy-pomodoro-flashcards-quiz-in-one-beautiful-app-1kjc)
-- [I Tested 11 HTTP Resilience Libraries](https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312)
-
-#### Dev.to React
-
-- [I Built an AI Study Assistant for My Friend Using Gemma, React and Render...](https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-4l6l)
-- [I Built an AI Notes Simplifier for My Friend Using Gemma, React and Render](https://dev.to/banshraj1/i-built-an-ai-notes-simplifier-for-my-friend-using-gemma-react-and-render-182d)
-- [I Built an AI Study Assistant for My Friend Using Gemma, React and Render](https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-59pa)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-07",
+    "formattedDate": "October 7, 2026",
+    "news": [
+      {
+        "title": "Why Your TypeScript Code Still Crashes in Production",
+        "link": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Same prompt, four models: what Opus, Sonnet, Astra and Sol each got wrong",
+        "link": "https://dev.to/eshevtsov/same-prompt-four-models-what-opus-sonnet-astra-and-sol-each-got-wrong-2a3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a video editor that renders sharp 1080p MP4s entirely in the browser",
+        "link": "https://dev.to/madalitsonyemba/i-built-a-video-editor-that-renders-sharp-1080p-mp4s-entirely-in-the-browser-5ebl",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Designing Human-in-the-Loop AI: Why an AI-Generated Reply Should Be a Draft, Not an Action",
+        "link": "https://dev.to/ramji_tripathi_095c7f4810/designing-human-in-the-loop-ai-why-an-ai-generated-reply-should-be-a-draft-not-an-action-55a0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built a Serverless, Offline-First Exam Simulator for the Google Cloud Architect Cert (Beta)",
+        "link": "https://dev.to/nhanlnt/i-built-a-serverless-offline-first-exam-simulator-for-the-google-cloud-architect-cert-beta-1i90",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your useEffect Search Bar Has a Race Condition, and It Only Shows Up When Users Type Fast",
+        "link": "https://dev.to/anas_sheikh_2/server-actions-dont-need-csrf-protection-your-api-routes-still-do-and-mixing-that-up-is-a-real-7ep",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-06",
     "formattedDate": "October 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch",
         "link": "https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-04",
-    "formattedDate": "October 4, 2026",
-    "news": [
-      {
-        "title": "EmbedCatalog is participating in Hacktoberfest 2026",
-        "link": "https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "StudyBuddy — Pomodoro, Flashcards & Quiz in One Beautiful App 🦉",
-        "link": "https://dev.to/ujjwalgupta2021/studybuddy-pomodoro-flashcards-quiz-in-one-beautiful-app-1kjc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Tested 11 HTTP Resilience Libraries",
-        "link": "https://dev.to/gkoos/i-tested-11-http-resilience-libraries-312",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built an AI Study Assistant for My Friend Using Gemma, React and Render...",
-        "link": "https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-4l6l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an AI Notes Simplifier for My Friend Using Gemma, React and Render",
-        "link": "https://dev.to/banshraj1/i-built-an-ai-notes-simplifier-for-my-friend-using-gemma-react-and-render-182d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I Built an AI Study Assistant for My Friend Using Gemma, React and Render",
-        "link": "https://dev.to/banshraj1/i-built-an-ai-study-assistant-for-my-friend-using-gemma-react-and-render-59pa",
         "source": "Dev.to React"
       },
       {
