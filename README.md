@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Why Your TypeScript Code Still Crashes in Production](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4)
-- [Same prompt, four models: what Opus, Sonnet, Astra and Sol each got wrong](https://dev.to/eshevtsov/same-prompt-four-models-what-opus-sonnet-astra-and-sol-each-got-wrong-2a3)
-- [I built a video editor that renders sharp 1080p MP4s entirely in the browser](https://dev.to/madalitsonyemba/i-built-a-video-editor-that-renders-sharp-1080p-mp4s-entirely-in-the-browser-5ebl)
+- [The child that vanished: an order-dependent bug in my 2D render pipeline](https://dev.to/antonioprosperi2svg/the-child-that-vanished-an-order-dependent-bug-in-my-2d-render-pipeline-2f6j)
+- [Your sampleRate won't save you from an error flood. Here's what does](https://dev.to/amorizz/your-samplerate-wont-save-you-from-an-error-flood-heres-what-does-1dbm)
+- [I said SymPy recomputes my app's answer keys. Then I read the gate.](https://dev.to/onurkesim/i-said-sympy-recomputes-my-apps-answer-keys-then-i-read-the-gate-1i7l)
 
 #### Dev.to React
 
 - [Designing Human-in-the-Loop AI: Why an AI-Generated Reply Should Be a Draft, Not an Action](https://dev.to/ramji_tripathi_095c7f4810/designing-human-in-the-loop-ai-why-an-ai-generated-reply-should-be-a-draft-not-an-action-55a0)
-- [I Built a Serverless, Offline-First Exam Simulator for the Google Cloud Architect Cert (Beta)](https://dev.to/nhanlnt/i-built-a-serverless-offline-first-exam-simulator-for-the-google-cloud-architect-cert-beta-1i90)
-- [Your useEffect Search Bar Has a Race Condition, and It Only Shows Up When Users Type Fast](https://dev.to/anas_sheikh_2/server-actions-dont-need-csrf-protection-your-api-routes-still-do-and-mixing-that-up-is-a-real-7ep)
+- [TanStack React Router](https://dev.to/yuripeixinho/tanstack-react-router-ieg)
+- [The Hidden Performance Ceiling of React Native Skia in Production](https://dev.to/techamit95ch/the-hidden-performance-ceiling-of-react-native-skia-in-production-2nfk)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 7, 2026",
     "news": [
       {
-        "title": "Why Your TypeScript Code Still Crashes in Production",
-        "link": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4",
+        "title": "The child that vanished: an order-dependent bug in my 2D render pipeline",
+        "link": "https://dev.to/antonioprosperi2svg/the-child-that-vanished-an-order-dependent-bug-in-my-2d-render-pipeline-2f6j",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Same prompt, four models: what Opus, Sonnet, Astra and Sol each got wrong",
-        "link": "https://dev.to/eshevtsov/same-prompt-four-models-what-opus-sonnet-astra-and-sol-each-got-wrong-2a3",
+        "title": "Your sampleRate won't save you from an error flood. Here's what does",
+        "link": "https://dev.to/amorizz/your-samplerate-wont-save-you-from-an-error-flood-heres-what-does-1dbm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a video editor that renders sharp 1080p MP4s entirely in the browser",
-        "link": "https://dev.to/madalitsonyemba/i-built-a-video-editor-that-renders-sharp-1080p-mp4s-entirely-in-the-browser-5ebl",
+        "title": "I said SymPy recomputes my app's answer keys. Then I read the gate.",
+        "link": "https://dev.to/onurkesim/i-said-sympy-recomputes-my-apps-answer-keys-then-i-read-the-gate-1i7l",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I Built a Serverless, Offline-First Exam Simulator for the Google Cloud Architect Cert (Beta)",
-        "link": "https://dev.to/nhanlnt/i-built-a-serverless-offline-first-exam-simulator-for-the-google-cloud-architect-cert-beta-1i90",
+        "title": "TanStack React Router",
+        "link": "https://dev.to/yuripeixinho/tanstack-react-router-ieg",
         "source": "Dev.to React"
       },
       {
-        "title": "Your useEffect Search Bar Has a Race Condition, and It Only Shows Up When Users Type Fast",
-        "link": "https://dev.to/anas_sheikh_2/server-actions-dont-need-csrf-protection-your-api-routes-still-do-and-mixing-that-up-is-a-real-7ep",
+        "title": "The Hidden Performance Ceiling of React Native Skia in Production",
+        "link": "https://dev.to/techamit95ch/the-hidden-performance-ceiling-of-react-native-skia-in-production-2nfk",
         "source": "Dev.to React"
       },
       {
