@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 7, 2026)
+### Today's Updates (October 8, 2026)
+
+#### Dev.to JavaScript
+
+- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
+- [Why Your TypeScript Code Still Crashes in Production](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4)
+- [Web Components did not fail!](https://dev.to/dannyengelman/web-components-did-not-fail-3a2b)
+
+#### Dev.to React
+
+- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
+- [I built a copy-paste JSON viewer for shadcn/ui](https://dev.to/mnove/i-built-a-copy-paste-json-viewer-for-shadcnui-1k15)
+- [Building a notes + whiteboard + graph app where losing data is not an option](https://dev.to/gordey_pro/building-a-notes-whiteboard-graph-app-where-losing-data-is-not-an-option-4nc4)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 6, 2026)
+### 2 Days Ago (October 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Last-Write-Wins Is Not a Sync Strategy: Handling Conflicts in Offline-First Mobile Apps](https://dev.to/liaqat_ali/last-write-wins-is-not-a-sync-strategy-handling-conflicts-in-offline-first-mobile-apps-4p4d)
 - [We Built a 3D Game Where Your Voice Breaks Reality, As Our Hacker House Submission](https://dev.to/kishore1035/we-built-a-3d-game-where-your-voice-breaks-reality-as-our-hacker-house-submission-4gec)
 - [How to Fix the "window is not defined" Error in Next.js 13](https://dev.to/sanjivsutar/how-to-fix-the-window-is-not-defined-error-in-nextjs-13-5922)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 5, 2026)
-
-#### Dev.to JavaScript
-
-- [Claude Code mods: but does it run Doom?](https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma)
-- [The file you recovered might be a ghost: checking integrity from the bytes alone](https://dev.to/istidaaf/the-file-you-recovered-might-be-a-ghost-checking-integrity-from-the-bytes-alone-719)
-- [How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch](https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9)
-
-#### Dev.to React
-
-- [How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM](https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d)
-- [I built a sudoku app where the AI coach is never allowed to be wrong](https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03)
-- [How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch](https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-08",
+    "formattedDate": "October 8, 2026",
+    "news": [
+      {
+        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
+        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Your TypeScript Code Still Crashes in Production",
+        "link": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Web Components did not fail!",
+        "link": "https://dev.to/dannyengelman/web-components-did-not-fail-3a2b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
+        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a copy-paste JSON viewer for shadcn/ui",
+        "link": "https://dev.to/mnove/i-built-a-copy-paste-json-viewer-for-shadcnui-1k15",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a notes + whiteboard + graph app where losing data is not an option",
+        "link": "https://dev.to/gordey_pro/building-a-notes-whiteboard-graph-app-where-losing-data-is-not-an-option-4nc4",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-07",
     "formattedDate": "October 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Fix the \"window is not defined\" Error in Next.js 13",
         "link": "https://dev.to/sanjivsutar/how-to-fix-the-window-is-not-defined-error-in-nextjs-13-5922",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "formattedDate": "October 5, 2026",
-    "news": [
-      {
-        "title": "Claude Code mods: but does it run Doom?",
-        "link": "https://dev.to/reporails/claude-code-mods-but-does-it-run-doom-2mma",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The file you recovered might be a ghost: checking integrity from the bytes alone",
-        "link": "https://dev.to/istidaaf/the-file-you-recovered-might-be-a-ghost-checking-integrity-from-the-bytes-alone-719",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch",
-        "link": "https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I Built an Autonomous AI Refund Decision Engine with FastAPI, React, and LiteLLM",
-        "link": "https://dev.to/abbeymaniak/how-i-built-an-autonomous-ai-refund-decision-engine-with-fastapi-react-and-litellm-2e0d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a sudoku app where the AI coach is never allowed to be wrong",
-        "link": "https://dev.to/raz_chiriac_b5dbbe8de7932/i-built-a-sudoku-app-where-the-ai-coach-is-never-allowed-to-be-wrong-3g03",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Add Award-Winning Website Interactions to React Without Building Every Effect From Scratch",
-        "link": "https://dev.to/jyotipathak__/how-to-add-award-winning-website-interactions-to-react-without-building-every-effect-from-scratch-5ao9",
         "source": "Dev.to React"
       },
       {
