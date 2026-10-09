@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 8, 2026)
+### Today's Updates (October 9, 2026)
+
+#### Dev.to JavaScript
+
+- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
+- [Web Components did not fail!](https://dev.to/dannyengelman/web-components-did-not-fail-3a2b)
+- [Your Page Loaded Fast. So Why Does It Still Feel Slow?](https://dev.to/johnnylemonny/your-page-loaded-fast-so-why-does-it-still-feel-slow-3npm)
+
+#### Dev.to React
+
+- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
+- [How the Browser Renders a Page](https://dev.to/sri2614/how-the-browser-renders-a-page-4ckc)
+- [Why We Built a Zero-Signup, Ephemeral AI Text Humanizer in React](https://dev.to/sarmad_hussain_771d6c87fa/why-we-built-a-zero-signup-ephemeral-ai-text-humanizer-in-react-5bjh)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 7, 2026)
+### 2 Days Ago (October 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Designing Human-in-the-Loop AI: Why an AI-Generated Reply Should Be a Draft, Not an Action](https://dev.to/ramji_tripathi_095c7f4810/designing-human-in-the-loop-ai-why-an-ai-generated-reply-should-be-a-draft-not-an-action-55a0)
 - [TanStack React Router](https://dev.to/yuripeixinho/tanstack-react-router-ieg)
 - [The Hidden Performance Ceiling of React Native Skia in Production](https://dev.to/techamit95ch/the-hidden-performance-ceiling-of-react-native-skia-in-production-2nfk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 6, 2026)
-
-#### Dev.to JavaScript
-
-- [Why Your TypeScript Code Still Crashes in Production](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4)
-- [Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.](https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek)
-- [Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second](https://dev.to/alexgeorgiev17/bun-14s-bun-test-parallel-cuts-a-4-second-suite-to-about-1-second-4481)
-
-#### Dev.to React
-
-- [Last-Write-Wins Is Not a Sync Strategy: Handling Conflicts in Offline-First Mobile Apps](https://dev.to/liaqat_ali/last-write-wins-is-not-a-sync-strategy-handling-conflicts-in-offline-first-mobile-apps-4p4d)
-- [We Built a 3D Game Where Your Voice Breaks Reality, As Our Hacker House Submission](https://dev.to/kishore1035/we-built-a-3d-game-where-your-voice-breaks-reality-as-our-hacker-house-submission-4gec)
-- [How to Fix the "window is not defined" Error in Next.js 13](https://dev.to/sanjivsutar/how-to-fix-the-window-is-not-defined-error-in-nextjs-13-5922)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-09",
+    "formattedDate": "October 9, 2026",
+    "news": [
+      {
+        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
+        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Web Components did not fail!",
+        "link": "https://dev.to/dannyengelman/web-components-did-not-fail-3a2b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Page Loaded Fast. So Why Does It Still Feel Slow?",
+        "link": "https://dev.to/johnnylemonny/your-page-loaded-fast-so-why-does-it-still-feel-slow-3npm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
+        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How the Browser Renders a Page",
+        "link": "https://dev.to/sri2614/how-the-browser-renders-a-page-4ckc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why We Built a Zero-Signup, Ephemeral AI Text Humanizer in React",
+        "link": "https://dev.to/sarmad_hussain_771d6c87fa/why-we-built-a-zero-signup-ephemeral-ai-text-humanizer-in-react-5bjh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-08",
     "formattedDate": "October 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The Hidden Performance Ceiling of React Native Skia in Production",
         "link": "https://dev.to/techamit95ch/the-hidden-performance-ceiling-of-react-native-skia-in-production-2nfk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-06",
-    "formattedDate": "October 6, 2026",
-    "news": [
-      {
-        "title": "Why Your TypeScript Code Still Crashes in Production",
-        "link": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Aborting a Fetch Doesn't Stop Your Node.js Server. Here's What Does.",
-        "link": "https://dev.to/shubhradev/aborting-a-fetch-doesnt-stop-your-nodejs-server-heres-what-does-2fek",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Bun 1.4's bun test --parallel cuts a 4-second suite to about 1 second",
-        "link": "https://dev.to/alexgeorgiev17/bun-14s-bun-test-parallel-cuts-a-4-second-suite-to-about-1-second-4481",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Last-Write-Wins Is Not a Sync Strategy: Handling Conflicts in Offline-First Mobile Apps",
-        "link": "https://dev.to/liaqat_ali/last-write-wins-is-not-a-sync-strategy-handling-conflicts-in-offline-first-mobile-apps-4p4d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "We Built a 3D Game Where Your Voice Breaks Reality, As Our Hacker House Submission",
-        "link": "https://dev.to/kishore1035/we-built-a-3d-game-where-your-voice-breaks-reality-as-our-hacker-house-submission-4gec",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Fix the \"window is not defined\" Error in Next.js 13",
-        "link": "https://dev.to/sanjivsutar/how-to-fix-the-window-is-not-defined-error-in-nextjs-13-5922",
         "source": "Dev.to React"
       },
       {
