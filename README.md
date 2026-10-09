@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.](https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-4gh6)
-- [Bitsets, popcount, and a scheduler tick that re-scans nothing](https://dev.to/vzn-vx/bitsets-popcount-and-a-scheduler-tick-that-re-scans-nothing-31g5)
-- [I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.](https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-2a65)
+- [A user couldn't read my app. He was right.](https://dev.to/wafflehacker/a-user-couldnt-read-my-app-he-was-right-7i)
+- [I ported Meta's MMS forced aligner to TypeScript: word-level timestamps in Node.js, 42% faster than Python](https://dev.to/arhamsayyed/i-ported-metas-mms-forced-aligner-to-typescript-word-level-timestamps-in-nodejs-42-faster-than-34c5)
+- [Nikal Pado: An offline-first outdoor adventure planner for the Touch Grass challenge](https://dev.to/sachin_pal_b79db3f5f19592/nikal-pado-an-offline-first-outdoor-adventure-planner-for-the-touch-grass-challenge-1oc8)
 
 #### Dev.to React
 
-- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
-- [Declarative vs Imperative Animation in React: Where Each Model Wins](https://dev.to/hyperiux-immersion-labs/declarative-vs-imperative-animation-in-react-where-each-model-wins-368)
-- [WildLens 🌱 — AI Nature Companion that Tells You to Put Your Phone Away](https://dev.to/keerthisree25/wildlens-ai-nature-companion-that-tells-you-to-put-your-phone-away-bmf)
+- [The 30 lines of GLSL that make UI look printed, not rendered](https://dev.to/ashishgogula/the-30-lines-of-glsl-that-make-ui-look-printed-not-rendered-18o1)
+- [Why @next/bundle-analyzer wasn't enough for our team (So we built an automated PR bot)](https://dev.to/yash_khandelwal_10433a39f/why-nextbundle-analyzer-wasnt-enough-for-our-team-so-we-built-an-automated-pr-bot-3i2d)
+- [[FRONTEND] Tipos de Component/Libraries](https://dev.to/yuripeixinho/frontend-tipos-de-componentlibraries-iog)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 9, 2026",
     "news": [
       {
-        "title": "I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.",
-        "link": "https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-4gh6",
+        "title": "A user couldn't read my app. He was right.",
+        "link": "https://dev.to/wafflehacker/a-user-couldnt-read-my-app-he-was-right-7i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Bitsets, popcount, and a scheduler tick that re-scans nothing",
-        "link": "https://dev.to/vzn-vx/bitsets-popcount-and-a-scheduler-tick-that-re-scans-nothing-31g5",
+        "title": "I ported Meta's MMS forced aligner to TypeScript: word-level timestamps in Node.js, 42% faster than Python",
+        "link": "https://dev.to/arhamsayyed/i-ported-metas-mms-forced-aligner-to-typescript-word-level-timestamps-in-nodejs-42-faster-than-34c5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.",
-        "link": "https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-2a65",
+        "title": "Nikal Pado: An offline-first outdoor adventure planner for the Touch Grass challenge",
+        "link": "https://dev.to/sachin_pal_b79db3f5f19592/nikal-pado-an-offline-first-outdoor-adventure-planner-for-the-touch-grass-challenge-1oc8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
-        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
+        "title": "The 30 lines of GLSL that make UI look printed, not rendered",
+        "link": "https://dev.to/ashishgogula/the-30-lines-of-glsl-that-make-ui-look-printed-not-rendered-18o1",
         "source": "Dev.to React"
       },
       {
-        "title": "Declarative vs Imperative Animation in React: Where Each Model Wins",
-        "link": "https://dev.to/hyperiux-immersion-labs/declarative-vs-imperative-animation-in-react-where-each-model-wins-368",
+        "title": "Why @next/bundle-analyzer wasn't enough for our team (So we built an automated PR bot)",
+        "link": "https://dev.to/yash_khandelwal_10433a39f/why-nextbundle-analyzer-wasnt-enough-for-our-team-so-we-built-an-automated-pr-bot-3i2d",
         "source": "Dev.to React"
       },
       {
-        "title": "WildLens 🌱 — AI Nature Companion that Tells You to Put Your Phone Away",
-        "link": "https://dev.to/keerthisree25/wildlens-ai-nature-companion-that-tells-you-to-put-your-phone-away-bmf",
+        "title": "[FRONTEND] Tipos de Component/Libraries",
+        "link": "https://dev.to/yuripeixinho/frontend-tipos-de-componentlibraries-iog",
         "source": "Dev.to React"
       },
       {
