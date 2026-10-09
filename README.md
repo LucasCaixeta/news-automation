@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
-- [Web Components did not fail!](https://dev.to/dannyengelman/web-components-did-not-fail-3a2b)
-- [Your Page Loaded Fast. So Why Does It Still Feel Slow?](https://dev.to/johnnylemonny/your-page-loaded-fast-so-why-does-it-still-feel-slow-3npm)
+- [I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.](https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-4gh6)
+- [Bitsets, popcount, and a scheduler tick that re-scans nothing](https://dev.to/vzn-vx/bitsets-popcount-and-a-scheduler-tick-that-re-scans-nothing-31g5)
+- [I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.](https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-2a65)
 
 #### Dev.to React
 
 - [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
-- [How the Browser Renders a Page](https://dev.to/sri2614/how-the-browser-renders-a-page-4ckc)
-- [Why We Built a Zero-Signup, Ephemeral AI Text Humanizer in React](https://dev.to/sarmad_hussain_771d6c87fa/why-we-built-a-zero-signup-ephemeral-ai-text-humanizer-in-react-5bjh)
+- [Declarative vs Imperative Animation in React: Where Each Model Wins](https://dev.to/hyperiux-immersion-labs/declarative-vs-imperative-animation-in-react-where-each-model-wins-368)
+- [WildLens 🌱 — AI Nature Companion that Tells You to Put Your Phone Away](https://dev.to/keerthisree25/wildlens-ai-nature-companion-that-tells-you-to-put-your-phone-away-bmf)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 9, 2026",
     "news": [
       {
-        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
-        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
+        "title": "I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.",
+        "link": "https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-4gh6",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Web Components did not fail!",
-        "link": "https://dev.to/dannyengelman/web-components-did-not-fail-3a2b",
+        "title": "Bitsets, popcount, and a scheduler tick that re-scans nothing",
+        "link": "https://dev.to/vzn-vx/bitsets-popcount-and-a-scheduler-tick-that-re-scans-nothing-31g5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your Page Loaded Fast. So Why Does It Still Feel Slow?",
-        "link": "https://dev.to/johnnylemonny/your-page-loaded-fast-so-why-does-it-still-feel-slow-3npm",
+        "title": "I built a free calorie tracker with a metabolic safety floor. No card, no email, no paywall.",
+        "link": "https://dev.to/forkcount/i-built-a-free-calorie-tracker-with-a-metabolic-safety-floor-no-card-no-email-no-paywall-2a65",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How the Browser Renders a Page",
-        "link": "https://dev.to/sri2614/how-the-browser-renders-a-page-4ckc",
+        "title": "Declarative vs Imperative Animation in React: Where Each Model Wins",
+        "link": "https://dev.to/hyperiux-immersion-labs/declarative-vs-imperative-animation-in-react-where-each-model-wins-368",
         "source": "Dev.to React"
       },
       {
-        "title": "Why We Built a Zero-Signup, Ephemeral AI Text Humanizer in React",
-        "link": "https://dev.to/sarmad_hussain_771d6c87fa/why-we-built-a-zero-signup-ephemeral-ai-text-humanizer-in-react-5bjh",
+        "title": "WildLens 🌱 — AI Nature Companion that Tells You to Put Your Phone Away",
+        "link": "https://dev.to/keerthisree25/wildlens-ai-nature-companion-that-tells-you-to-put-your-phone-away-bmf",
         "source": "Dev.to React"
       },
       {
