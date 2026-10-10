@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 9, 2026)
+### Today's Updates (October 10, 2026)
+
+#### Dev.to JavaScript
+
+- [Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has](https://dev.to/alexgeorgiev17/nodejs-26s-default-temporal-api-fixes-a-one-hour-dst-drift-that-date-still-has-16ad)
+- [Why agents draw bad maps, and a checklist that catches them](https://dev.to/arthur031221/why-agents-draw-bad-maps-and-a-checklist-that-catches-them-3g92)
+- [Escape Does Not Have to Exit Full Screen](https://dev.to/nerfsaksham/escape-does-not-have-to-exit-full-screen-kca)
+
+#### Dev.to React
+
+- [Our activation screen asks the local server where the website is, then hardcodes the price anyway](https://dev.to/daniel_pertu/our-activation-screen-asks-the-local-server-where-the-website-is-then-hardcodes-the-price-anyway-29h0)
+- [TouchGrass 🌿 — Turning Screen Time into Outdoor Adventures with Local AI | Hacktoberfest 2026](https://dev.to/samruddhi_patil_6bd47607e/touchgrass-turning-screen-time-into-outdoor-adventures-with-local-ai-hacktoberfest-2026-16l8)
+- [Two localStorage keys written by the same layout, one first touch and one last touch](https://dev.to/daniel_pertu/two-localstorage-keys-written-by-the-same-layout-one-first-touch-and-one-last-touch-4d1n)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 8, 2026)
+### 2 Days Ago (October 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
 - [I built a copy-paste JSON viewer for shadcn/ui](https://dev.to/mnove/i-built-a-copy-paste-json-viewer-for-shadcnui-1k15)
 - [Building a notes + whiteboard + graph app where losing data is not an option](https://dev.to/gordey_pro/building-a-notes-whiteboard-graph-app-where-losing-data-is-not-an-option-4nc4)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 7, 2026)
-
-#### Dev.to JavaScript
-
-- [The child that vanished: an order-dependent bug in my 2D render pipeline](https://dev.to/antonioprosperi2svg/the-child-that-vanished-an-order-dependent-bug-in-my-2d-render-pipeline-2f6j)
-- [Your sampleRate won't save you from an error flood. Here's what does](https://dev.to/amorizz/your-samplerate-wont-save-you-from-an-error-flood-heres-what-does-1dbm)
-- [I said SymPy recomputes my app's answer keys. Then I read the gate.](https://dev.to/onurkesim/i-said-sympy-recomputes-my-apps-answer-keys-then-i-read-the-gate-1i7l)
-
-#### Dev.to React
-
-- [Designing Human-in-the-Loop AI: Why an AI-Generated Reply Should Be a Draft, Not an Action](https://dev.to/ramji_tripathi_095c7f4810/designing-human-in-the-loop-ai-why-an-ai-generated-reply-should-be-a-draft-not-an-action-55a0)
-- [TanStack React Router](https://dev.to/yuripeixinho/tanstack-react-router-ieg)
-- [The Hidden Performance Ceiling of React Native Skia in Production](https://dev.to/techamit95ch/the-hidden-performance-ceiling-of-react-native-skia-in-production-2nfk)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-10",
+    "formattedDate": "October 10, 2026",
+    "news": [
+      {
+        "title": "Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has",
+        "link": "https://dev.to/alexgeorgiev17/nodejs-26s-default-temporal-api-fixes-a-one-hour-dst-drift-that-date-still-has-16ad",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why agents draw bad maps, and a checklist that catches them",
+        "link": "https://dev.to/arthur031221/why-agents-draw-bad-maps-and-a-checklist-that-catches-them-3g92",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Escape Does Not Have to Exit Full Screen",
+        "link": "https://dev.to/nerfsaksham/escape-does-not-have-to-exit-full-screen-kca",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Our activation screen asks the local server where the website is, then hardcodes the price anyway",
+        "link": "https://dev.to/daniel_pertu/our-activation-screen-asks-the-local-server-where-the-website-is-then-hardcodes-the-price-anyway-29h0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TouchGrass 🌿 — Turning Screen Time into Outdoor Adventures with Local AI | Hacktoberfest 2026",
+        "link": "https://dev.to/samruddhi_patil_6bd47607e/touchgrass-turning-screen-time-into-outdoor-adventures-with-local-ai-hacktoberfest-2026-16l8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Two localStorage keys written by the same layout, one first touch and one last touch",
+        "link": "https://dev.to/daniel_pertu/two-localstorage-keys-written-by-the-same-layout-one-first-touch-and-one-last-touch-4d1n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-09",
     "formattedDate": "October 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building a notes + whiteboard + graph app where losing data is not an option",
         "link": "https://dev.to/gordey_pro/building-a-notes-whiteboard-graph-app-where-losing-data-is-not-an-option-4nc4",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "formattedDate": "October 7, 2026",
-    "news": [
-      {
-        "title": "The child that vanished: an order-dependent bug in my 2D render pipeline",
-        "link": "https://dev.to/antonioprosperi2svg/the-child-that-vanished-an-order-dependent-bug-in-my-2d-render-pipeline-2f6j",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your sampleRate won't save you from an error flood. Here's what does",
-        "link": "https://dev.to/amorizz/your-samplerate-wont-save-you-from-an-error-flood-heres-what-does-1dbm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I said SymPy recomputes my app's answer keys. Then I read the gate.",
-        "link": "https://dev.to/onurkesim/i-said-sympy-recomputes-my-apps-answer-keys-then-i-read-the-gate-1i7l",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Designing Human-in-the-Loop AI: Why an AI-Generated Reply Should Be a Draft, Not an Action",
-        "link": "https://dev.to/ramji_tripathi_095c7f4810/designing-human-in-the-loop-ai-why-an-ai-generated-reply-should-be-a-draft-not-an-action-55a0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TanStack React Router",
-        "link": "https://dev.to/yuripeixinho/tanstack-react-router-ieg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Hidden Performance Ceiling of React Native Skia in Production",
-        "link": "https://dev.to/techamit95ch/the-hidden-performance-ceiling-of-react-native-skia-in-production-2nfk",
         "source": "Dev.to React"
       },
       {
