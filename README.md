@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has](https://dev.to/alexgeorgiev17/nodejs-26s-default-temporal-api-fixes-a-one-hour-dst-drift-that-date-still-has-16ad)
-- [Why agents draw bad maps, and a checklist that catches them](https://dev.to/arthur031221/why-agents-draw-bad-maps-and-a-checklist-that-catches-them-3g92)
-- [Escape Does Not Have to Exit Full Screen](https://dev.to/nerfsaksham/escape-does-not-have-to-exit-full-screen-kca)
+- [How to Make Playwright Autonomous (Without Letting an AI Agent Run Wild)](https://dev.to/orbitpickle307/how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild-3ck4)
+- [Deno Has One Year Left. Node Won Without a Fight.](https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp)
 
 #### Dev.to React
 
-- [Our activation screen asks the local server where the website is, then hardcodes the price anyway](https://dev.to/daniel_pertu/our-activation-screen-asks-the-local-server-where-the-website-is-then-hardcodes-the-price-anyway-29h0)
-- [TouchGrass 🌿 — Turning Screen Time into Outdoor Adventures with Local AI | Hacktoberfest 2026](https://dev.to/samruddhi_patil_6bd47607e/touchgrass-turning-screen-time-into-outdoor-adventures-with-local-ai-hacktoberfest-2026-16l8)
-- [Two localStorage keys written by the same layout, one first touch and one last touch](https://dev.to/daniel_pertu/two-localstorage-keys-written-by-the-same-layout-one-first-touch-and-one-last-touch-4d1n)
+- [Panel web con React y MQTT sobre AWS IoT Core](https://dev.to/stevencarvajal/panel-web-con-react-y-mqtt-sobre-aws-iot-core-1gn)
+- [State Lifting in React](https://dev.to/abimanyu_p_9e75124634d2a4/state-lifting-in-react-1027)
+- [The UI Said 'Saved.' Did the Audit Log Agree?](https://dev.to/raju_dandigam/the-ui-said-saved-did-the-audit-log-agree-46k2)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why agents draw bad maps, and a checklist that catches them",
-        "link": "https://dev.to/arthur031221/why-agents-draw-bad-maps-and-a-checklist-that-catches-them-3g92",
+        "title": "How to Make Playwright Autonomous (Without Letting an AI Agent Run Wild)",
+        "link": "https://dev.to/orbitpickle307/how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild-3ck4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Escape Does Not Have to Exit Full Screen",
-        "link": "https://dev.to/nerfsaksham/escape-does-not-have-to-exit-full-screen-kca",
+        "title": "Deno Has One Year Left. Node Won Without a Fight.",
+        "link": "https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Our activation screen asks the local server where the website is, then hardcodes the price anyway",
-        "link": "https://dev.to/daniel_pertu/our-activation-screen-asks-the-local-server-where-the-website-is-then-hardcodes-the-price-anyway-29h0",
+        "title": "Panel web con React y MQTT sobre AWS IoT Core",
+        "link": "https://dev.to/stevencarvajal/panel-web-con-react-y-mqtt-sobre-aws-iot-core-1gn",
         "source": "Dev.to React"
       },
       {
-        "title": "TouchGrass 🌿 — Turning Screen Time into Outdoor Adventures with Local AI | Hacktoberfest 2026",
-        "link": "https://dev.to/samruddhi_patil_6bd47607e/touchgrass-turning-screen-time-into-outdoor-adventures-with-local-ai-hacktoberfest-2026-16l8",
+        "title": "State Lifting in React",
+        "link": "https://dev.to/abimanyu_p_9e75124634d2a4/state-lifting-in-react-1027",
         "source": "Dev.to React"
       },
       {
-        "title": "Two localStorage keys written by the same layout, one first touch and one last touch",
-        "link": "https://dev.to/daniel_pertu/two-localstorage-keys-written-by-the-same-layout-one-first-touch-and-one-last-touch-4d1n",
+        "title": "The UI Said 'Saved.' Did the Audit Log Agree?",
+        "link": "https://dev.to/raju_dandigam/the-ui-said-saved-did-the-audit-log-agree-46k2",
         "source": "Dev.to React"
       },
       {
