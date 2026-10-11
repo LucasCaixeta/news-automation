@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Calendar Math vs. Duration Math: Lessons From an Open-Source Bug](https://dev.to/h1manshu01/calendar-math-vs-duration-math-lessons-from-an-open-source-bug-1mpb)
+- [A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page](https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa)
 - [NanoScript Update: Traversal Methods Are Finally Here!](https://dev.to/codemaster_121482/nanoscript-update-traversal-methods-are-finally-here-55ck)
-- [Write a Docker Compose healthcheck that actually checks your app](https://dev.to/amorizz/write-a-docker-compose-healthcheck-that-actually-checks-your-app-b59)
+- [Building a free Urdu AI voice with Gemini TTS: three bugs we hit](https://dev.to/siteypk/building-a-free-urdu-ai-voice-with-gemini-tts-three-bugs-we-hit-2ji4)
 
 #### Dev.to React
 
-- [Building a pet-only meme video page: what the sample needs to prove](https://dev.to/nongyi531415/building-a-pet-only-meme-video-page-what-the-sample-needs-to-prove-2die)
-- [Deploy Static Next.js App to S3 Bucket](https://dev.to/vladimirvovk/deploy-static-nextjs-app-to-s3-bucket-1984)
-- [SvelteKit vs React di 2026: Berhenti Membandingkan, Mulai Memilih Berdasarkan Kebutuhan](https://dev.to/hellogung/sveltekit-vs-react-di-2026-berhenti-membandingkan-mulai-memilih-berdasarkan-kebutuhan-22o1)
+- [A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page](https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa)
+- [How we built streaming-safe Markdown for AI chat in React](https://dev.to/anythic/how-we-built-streaming-safe-markdown-for-ai-chat-in-react-2hdm)
+- [Integrating Real-Time Email Validation into a Next.js Signup Flow](https://dev.to/gamalogic_64e23/integrating-real-time-email-validation-into-a-nextjs-signup-flow-33kk)
 
 #### React Blog
 
@@ -89,8 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 11, 2026",
     "news": [
       {
-        "title": "Calendar Math vs. Duration Math: Lessons From an Open-Source Bug",
-        "link": "https://dev.to/h1manshu01/calendar-math-vs-duration-math-lessons-from-an-open-source-bug-1mpb",
+        "title": "A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page",
+        "link": "https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Write a Docker Compose healthcheck that actually checks your app",
-        "link": "https://dev.to/amorizz/write-a-docker-compose-healthcheck-that-actually-checks-your-app-b59",
+        "title": "Building a free Urdu AI voice with Gemini TTS: three bugs we hit",
+        "link": "https://dev.to/siteypk/building-a-free-urdu-ai-voice-with-gemini-tts-three-bugs-we-hit-2ji4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a pet-only meme video page: what the sample needs to prove",
-        "link": "https://dev.to/nongyi531415/building-a-pet-only-meme-video-page-what-the-sample-needs-to-prove-2die",
+        "title": "A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page",
+        "link": "https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa",
         "source": "Dev.to React"
       },
       {
-        "title": "Deploy Static Next.js App to S3 Bucket",
-        "link": "https://dev.to/vladimirvovk/deploy-static-nextjs-app-to-s3-bucket-1984",
+        "title": "How we built streaming-safe Markdown for AI chat in React",
+        "link": "https://dev.to/anythic/how-we-built-streaming-safe-markdown-for-ai-chat-in-react-2hdm",
         "source": "Dev.to React"
       },
       {
-        "title": "SvelteKit vs React di 2026: Berhenti Membandingkan, Mulai Memilih Berdasarkan Kebutuhan",
-        "link": "https://dev.to/hellogung/sveltekit-vs-react-di-2026-berhenti-membandingkan-mulai-memilih-berdasarkan-kebutuhan-22o1",
+        "title": "Integrating Real-Time Email Validation into a Next.js Signup Flow",
+        "link": "https://dev.to/gamalogic_64e23/integrating-real-time-email-validation-into-a-nextjs-signup-flow-33kk",
         "source": "Dev.to React"
       },
       {
