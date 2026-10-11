@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 10, 2026)
+### Today's Updates (October 11, 2026)
+
+#### Dev.to JavaScript
+
+- [Calendar Math vs. Duration Math: Lessons From an Open-Source Bug](https://dev.to/h1manshu01/calendar-math-vs-duration-math-lessons-from-an-open-source-bug-1mpb)
+- [NanoScript Update: Traversal Methods Are Finally Here!](https://dev.to/codemaster_121482/nanoscript-update-traversal-methods-are-finally-here-55ck)
+- [Write a Docker Compose healthcheck that actually checks your app](https://dev.to/amorizz/write-a-docker-compose-healthcheck-that-actually-checks-your-app-b59)
+
+#### Dev.to React
+
+- [Building a pet-only meme video page: what the sample needs to prove](https://dev.to/nongyi531415/building-a-pet-only-meme-video-page-what-the-sample-needs-to-prove-2die)
+- [Deploy Static Next.js App to S3 Bucket](https://dev.to/vladimirvovk/deploy-static-nextjs-app-to-s3-bucket-1984)
+- [SvelteKit vs React di 2026: Berhenti Membandingkan, Mulai Memilih Berdasarkan Kebutuhan](https://dev.to/hellogung/sveltekit-vs-react-di-2026-berhenti-membandingkan-mulai-memilih-berdasarkan-kebutuhan-22o1)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 9, 2026)
+### 2 Days Ago (October 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The 30 lines of GLSL that make UI look printed, not rendered](https://dev.to/ashishgogula/the-30-lines-of-glsl-that-make-ui-look-printed-not-rendered-18o1)
 - [Why @next/bundle-analyzer wasn't enough for our team (So we built an automated PR bot)](https://dev.to/yash_khandelwal_10433a39f/why-nextbundle-analyzer-wasnt-enough-for-our-team-so-we-built-an-automated-pr-bot-3i2d)
 - [[FRONTEND] Tipos de Component/Libraries](https://dev.to/yuripeixinho/frontend-tipos-de-componentlibraries-iog)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 8, 2026)
-
-#### Dev.to JavaScript
-
-- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
-- [Why Your TypeScript Code Still Crashes in Production](https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4)
-- [Web Components did not fail!](https://dev.to/dannyengelman/web-components-did-not-fail-3a2b)
-
-#### Dev.to React
-
-- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
-- [I built a copy-paste JSON viewer for shadcn/ui](https://dev.to/mnove/i-built-a-copy-paste-json-viewer-for-shadcnui-1k15)
-- [Building a notes + whiteboard + graph app where losing data is not an option](https://dev.to/gordey_pro/building-a-notes-whiteboard-graph-app-where-losing-data-is-not-an-option-4nc4)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-11",
+    "formattedDate": "October 11, 2026",
+    "news": [
+      {
+        "title": "Calendar Math vs. Duration Math: Lessons From an Open-Source Bug",
+        "link": "https://dev.to/h1manshu01/calendar-math-vs-duration-math-lessons-from-an-open-source-bug-1mpb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "NanoScript Update: Traversal Methods Are Finally Here!",
+        "link": "https://dev.to/codemaster_121482/nanoscript-update-traversal-methods-are-finally-here-55ck",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Write a Docker Compose healthcheck that actually checks your app",
+        "link": "https://dev.to/amorizz/write-a-docker-compose-healthcheck-that-actually-checks-your-app-b59",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a pet-only meme video page: what the sample needs to prove",
+        "link": "https://dev.to/nongyi531415/building-a-pet-only-meme-video-page-what-the-sample-needs-to-prove-2die",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Deploy Static Next.js App to S3 Bucket",
+        "link": "https://dev.to/vladimirvovk/deploy-static-nextjs-app-to-s3-bucket-1984",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "SvelteKit vs React di 2026: Berhenti Membandingkan, Mulai Memilih Berdasarkan Kebutuhan",
+        "link": "https://dev.to/hellogung/sveltekit-vs-react-di-2026-berhenti-membandingkan-mulai-memilih-berdasarkan-kebutuhan-22o1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-10",
     "formattedDate": "October 10, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "[FRONTEND] Tipos de Component/Libraries",
         "link": "https://dev.to/yuripeixinho/frontend-tipos-de-componentlibraries-iog",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "formattedDate": "October 8, 2026",
-    "news": [
-      {
-        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
-        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Your TypeScript Code Still Crashes in Production",
-        "link": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Web Components did not fail!",
-        "link": "https://dev.to/dannyengelman/web-components-did-not-fail-3a2b",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
-        "link": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a copy-paste JSON viewer for shadcn/ui",
-        "link": "https://dev.to/mnove/i-built-a-copy-paste-json-viewer-for-shadcnui-1k15",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building a notes + whiteboard + graph app where losing data is not an option",
-        "link": "https://dev.to/gordey_pro/building-a-notes-whiteboard-graph-app-where-losing-data-is-not-an-option-4nc4",
         "source": "Dev.to React"
       },
       {
