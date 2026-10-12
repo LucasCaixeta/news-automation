@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 11, 2026)
+### Today's Updates (October 12, 2026)
+
+#### Dev.to JavaScript
+
+- [Your Nuxt layers are leaking, and your linter can't see it](https://dev.to/godofweb/your-nuxt-layers-are-leaking-and-your-linter-cant-see-it-57k4)
+- [kill-port 3000 kills port 30001 on Windows, and other things I found in a 2-million-downloads-a-week package](https://dev.to/rafay_adeel/kill-port-3000-kills-port-30001-on-windows-and-other-things-i-found-in-a-e9o)
+- [Compressing PDFs to an exact size in the browser with Ghostscript + WebAssembly](https://dev.to/roggertaipe/compressing-pdfs-to-an-exact-size-in-the-browser-with-ghostscript-webassembly-20hc)
+
+#### Dev.to React
+
+- [Budgeting apps kept asking for a subscription, so I built a free one](https://dev.to/cptmeowgi/budgeting-apps-kept-asking-for-a-subscription-so-i-built-a-free-one-4la0)
+- [Convertir un panel web en PWA con Vite (y que se actualice)](https://dev.to/stevencarvajal/convertir-un-panel-web-en-pwa-con-vite-y-que-se-actualice-i6)
+- [Telegram Mini App shop in Next.js fixing MainButton checkout and iOS viewport](https://dev.to/serhii_a9c08345ac360cf5c8/telegram-mini-app-shop-in-nextjs-fixing-mainbutton-checkout-and-ios-viewport-4llo)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 10, 2026)
+### 2 Days Ago (October 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Panel web con React y MQTT sobre AWS IoT Core](https://dev.to/stevencarvajal/panel-web-con-react-y-mqtt-sobre-aws-iot-core-1gn)
 - [State Lifting in React](https://dev.to/abimanyu_p_9e75124634d2a4/state-lifting-in-react-1027)
 - [The UI Said 'Saved.' Did the Audit Log Agree?](https://dev.to/raju_dandigam/the-ui-said-saved-did-the-audit-log-agree-46k2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 9, 2026)
-
-#### Dev.to JavaScript
-
-- [A user couldn't read my app. He was right.](https://dev.to/wafflehacker/a-user-couldnt-read-my-app-he-was-right-7i)
-- [I ported Meta's MMS forced aligner to TypeScript: word-level timestamps in Node.js, 42% faster than Python](https://dev.to/arhamsayyed/i-ported-metas-mms-forced-aligner-to-typescript-word-level-timestamps-in-nodejs-42-faster-than-34c5)
-- [Nikal Pado: An offline-first outdoor adventure planner for the Touch Grass challenge](https://dev.to/sachin_pal_b79db3f5f19592/nikal-pado-an-offline-first-outdoor-adventure-planner-for-the-touch-grass-challenge-1oc8)
-
-#### Dev.to React
-
-- [The 30 lines of GLSL that make UI look printed, not rendered](https://dev.to/ashishgogula/the-30-lines-of-glsl-that-make-ui-look-printed-not-rendered-18o1)
-- [Why @next/bundle-analyzer wasn't enough for our team (So we built an automated PR bot)](https://dev.to/yash_khandelwal_10433a39f/why-nextbundle-analyzer-wasnt-enough-for-our-team-so-we-built-an-automated-pr-bot-3i2d)
-- [[FRONTEND] Tipos de Component/Libraries](https://dev.to/yuripeixinho/frontend-tipos-de-componentlibraries-iog)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-12",
+    "formattedDate": "October 12, 2026",
+    "news": [
+      {
+        "title": "Your Nuxt layers are leaking, and your linter can't see it",
+        "link": "https://dev.to/godofweb/your-nuxt-layers-are-leaking-and-your-linter-cant-see-it-57k4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "kill-port 3000 kills port 30001 on Windows, and other things I found in a 2-million-downloads-a-week package",
+        "link": "https://dev.to/rafay_adeel/kill-port-3000-kills-port-30001-on-windows-and-other-things-i-found-in-a-e9o",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Compressing PDFs to an exact size in the browser with Ghostscript + WebAssembly",
+        "link": "https://dev.to/roggertaipe/compressing-pdfs-to-an-exact-size-in-the-browser-with-ghostscript-webassembly-20hc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Budgeting apps kept asking for a subscription, so I built a free one",
+        "link": "https://dev.to/cptmeowgi/budgeting-apps-kept-asking-for-a-subscription-so-i-built-a-free-one-4la0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Convertir un panel web en PWA con Vite (y que se actualice)",
+        "link": "https://dev.to/stevencarvajal/convertir-un-panel-web-en-pwa-con-vite-y-que-se-actualice-i6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Telegram Mini App shop in Next.js fixing MainButton checkout and iOS viewport",
+        "link": "https://dev.to/serhii_a9c08345ac360cf5c8/telegram-mini-app-shop-in-nextjs-fixing-mainbutton-checkout-and-ios-viewport-4llo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-11",
     "formattedDate": "October 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The UI Said 'Saved.' Did the Audit Log Agree?",
         "link": "https://dev.to/raju_dandigam/the-ui-said-saved-did-the-audit-log-agree-46k2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-09",
-    "formattedDate": "October 9, 2026",
-    "news": [
-      {
-        "title": "A user couldn't read my app. He was right.",
-        "link": "https://dev.to/wafflehacker/a-user-couldnt-read-my-app-he-was-right-7i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I ported Meta's MMS forced aligner to TypeScript: word-level timestamps in Node.js, 42% faster than Python",
-        "link": "https://dev.to/arhamsayyed/i-ported-metas-mms-forced-aligner-to-typescript-word-level-timestamps-in-nodejs-42-faster-than-34c5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Nikal Pado: An offline-first outdoor adventure planner for the Touch Grass challenge",
-        "link": "https://dev.to/sachin_pal_b79db3f5f19592/nikal-pado-an-offline-first-outdoor-adventure-planner-for-the-touch-grass-challenge-1oc8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The 30 lines of GLSL that make UI look printed, not rendered",
-        "link": "https://dev.to/ashishgogula/the-30-lines-of-glsl-that-make-ui-look-printed-not-rendered-18o1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why @next/bundle-analyzer wasn't enough for our team (So we built an automated PR bot)",
-        "link": "https://dev.to/yash_khandelwal_10433a39f/why-nextbundle-analyzer-wasnt-enough-for-our-team-so-we-built-an-automated-pr-bot-3i2d",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "[FRONTEND] Tipos de Component/Libraries",
-        "link": "https://dev.to/yuripeixinho/frontend-tipos-de-componentlibraries-iog",
         "source": "Dev.to React"
       },
       {
