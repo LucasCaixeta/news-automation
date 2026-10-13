@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?](https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp)
-- [TS + |> to hack JS](https://dev.to/pengeszikra/ts-to-hack-js-48pl)
+- [Prompt Paws: A Cozy 60 FPS AI Agent Bakery Game Teaching RAG, Guardrails & Context Caching](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek)
 - [Running OCR entirely in the browser (and making scanned PDFs editable)](https://dev.to/omarmdhi/running-ocr-entirely-in-the-browser-and-making-scanned-pdfs-editable-5bp2)
 
 #### Dev.to React
 
-- [I built a cell-less spreadsheet where you count by enclosing — free, runs in your browser](https://dev.to/cuculhart/i-built-a-cell-less-spreadsheet-where-you-count-by-enclosing-free-runs-in-your-browser-1g79)
-- [Next.js vs Laravel for a SaaS MVP: Which Should a Startup Pick?](https://dev.to/dharanidharan_d_tech/nextjs-vs-laravel-for-a-saas-mvp-which-should-a-startup-pick-3ec5)
-- [Build a React Support Desk with YunCMS: Roles, Relations and AI](https://dev.to/yunsoft/build-a-react-support-desk-with-yuncms-roles-relations-and-ai-2825)
+- [Architecting Static Comparison Micro-Sites with TypeScript and JSON-LD Schema](https://dev.to/andy2000/architecting-static-comparison-micro-sites-with-typescript-and-json-ld-schema-2a30)
+- [React modals: what's open is a value, not a boolean](https://dev.to/chacaponquin/react-modals-whats-open-is-a-value-not-a-boolean-1dl7)
+- [Modales en React: lo que está abierto es un valor, no un booleano](https://dev.to/chacaponquin/modales-en-react-lo-que-esta-abierto-es-un-valor-no-un-booleano-39m9)
 
 #### React Blog
 
@@ -94,8 +94,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TS + |> to hack JS",
-        "link": "https://dev.to/pengeszikra/ts-to-hack-js-48pl",
+        "title": "Prompt Paws: A Cozy 60 FPS AI Agent Bakery Game Teaching RAG, Guardrails & Context Caching",
+        "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a cell-less spreadsheet where you count by enclosing — free, runs in your browser",
-        "link": "https://dev.to/cuculhart/i-built-a-cell-less-spreadsheet-where-you-count-by-enclosing-free-runs-in-your-browser-1g79",
+        "title": "Architecting Static Comparison Micro-Sites with TypeScript and JSON-LD Schema",
+        "link": "https://dev.to/andy2000/architecting-static-comparison-micro-sites-with-typescript-and-json-ld-schema-2a30",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js vs Laravel for a SaaS MVP: Which Should a Startup Pick?",
-        "link": "https://dev.to/dharanidharan_d_tech/nextjs-vs-laravel-for-a-saas-mvp-which-should-a-startup-pick-3ec5",
+        "title": "React modals: what's open is a value, not a boolean",
+        "link": "https://dev.to/chacaponquin/react-modals-whats-open-is-a-value-not-a-boolean-1dl7",
         "source": "Dev.to React"
       },
       {
-        "title": "Build a React Support Desk with YunCMS: Roles, Relations and AI",
-        "link": "https://dev.to/yunsoft/build-a-react-support-desk-with-yuncms-roles-relations-and-ai-2825",
+        "title": "Modales en React: lo que está abierto es un valor, no un booleano",
+        "link": "https://dev.to/chacaponquin/modales-en-react-lo-que-esta-abierto-es-un-valor-no-un-booleano-39m9",
         "source": "Dev.to React"
       },
       {
