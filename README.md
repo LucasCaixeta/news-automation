@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 12, 2026)
+### Today's Updates (October 13, 2026)
+
+#### Dev.to JavaScript
+
+- [streamix + React: An Explosive Mix for Modern State Management](https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k)
+- [DSA Series: Add to Array-Form of Integer](https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d)
+- [Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)](https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d)
+
+#### Dev.to React
+
+- [streamix + React: An Explosive Mix for Modern State Management](https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k)
+- [useMemo, React.memo, useRef, and Custom Hooks — Real-World React Guide](https://dev.to/rakeshdaniel321/usememo-reactmemo-useref-and-custom-hooks-real-world-react-guide-36bi)
+- [The spinner that kills the auth flash: a loading gate before every protected route](https://dev.to/kamrankhandev/the-spinner-that-kills-the-auth-flash-a-loading-gate-before-every-protected-route-3gn)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 11, 2026)
+### 2 Days Ago (October 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page](https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa)
 - [How we built streaming-safe Markdown for AI chat in React](https://dev.to/anythic/how-we-built-streaming-safe-markdown-for-ai-chat-in-react-2hdm)
 - [Integrating Real-Time Email Validation into a Next.js Signup Flow](https://dev.to/gamalogic_64e23/integrating-real-time-email-validation-into-a-nextjs-signup-flow-33kk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 10, 2026)
-
-#### Dev.to JavaScript
-
-- [Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has](https://dev.to/alexgeorgiev17/nodejs-26s-default-temporal-api-fixes-a-one-hour-dst-drift-that-date-still-has-16ad)
-- [How to Make Playwright Autonomous (Without Letting an AI Agent Run Wild)](https://dev.to/orbitpickle307/how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild-3ck4)
-- [Deno Has One Year Left. Node Won Without a Fight.](https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp)
-
-#### Dev.to React
-
-- [Panel web con React y MQTT sobre AWS IoT Core](https://dev.to/stevencarvajal/panel-web-con-react-y-mqtt-sobre-aws-iot-core-1gn)
-- [State Lifting in React](https://dev.to/abimanyu_p_9e75124634d2a4/state-lifting-in-react-1027)
-- [The UI Said 'Saved.' Did the Audit Log Agree?](https://dev.to/raju_dandigam/the-ui-said-saved-did-the-audit-log-agree-46k2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-13",
+    "formattedDate": "October 13, 2026",
+    "news": [
+      {
+        "title": "streamix + React: An Explosive Mix for Modern State Management",
+        "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "DSA Series: Add to Array-Form of Integer",
+        "link": "https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)",
+        "link": "https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "streamix + React: An Explosive Mix for Modern State Management",
+        "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "useMemo, React.memo, useRef, and Custom Hooks — Real-World React Guide",
+        "link": "https://dev.to/rakeshdaniel321/usememo-reactmemo-useref-and-custom-hooks-real-world-react-guide-36bi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The spinner that kills the auth flash: a loading gate before every protected route",
+        "link": "https://dev.to/kamrankhandev/the-spinner-that-kills-the-auth-flash-a-loading-gate-before-every-protected-route-3gn",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-12",
     "formattedDate": "October 12, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Integrating Real-Time Email Validation into a Next.js Signup Flow",
         "link": "https://dev.to/gamalogic_64e23/integrating-real-time-email-validation-into-a-nextjs-signup-flow-33kk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "formattedDate": "October 10, 2026",
-    "news": [
-      {
-        "title": "Node.js 26's default Temporal API fixes a one-hour DST drift that Date still has",
-        "link": "https://dev.to/alexgeorgiev17/nodejs-26s-default-temporal-api-fixes-a-one-hour-dst-drift-that-date-still-has-16ad",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Make Playwright Autonomous (Without Letting an AI Agent Run Wild)",
-        "link": "https://dev.to/orbitpickle307/how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild-3ck4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Deno Has One Year Left. Node Won Without a Fight.",
-        "link": "https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Panel web con React y MQTT sobre AWS IoT Core",
-        "link": "https://dev.to/stevencarvajal/panel-web-con-react-y-mqtt-sobre-aws-iot-core-1gn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "State Lifting in React",
-        "link": "https://dev.to/abimanyu_p_9e75124634d2a4/state-lifting-in-react-1027",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The UI Said 'Saved.' Did the Audit Log Agree?",
-        "link": "https://dev.to/raju_dandigam/the-ui-said-saved-did-the-audit-log-agree-46k2",
         "source": "Dev.to React"
       },
       {
