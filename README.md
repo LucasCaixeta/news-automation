@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [streamix + React: An Explosive Mix for Modern State Management](https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k)
-- [DSA Series: Add to Array-Form of Integer](https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d)
-- [Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)](https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d)
+- [Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?](https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp)
+- [TS + |> to hack JS](https://dev.to/pengeszikra/ts-to-hack-js-48pl)
+- [Running OCR entirely in the browser (and making scanned PDFs editable)](https://dev.to/omarmdhi/running-ocr-entirely-in-the-browser-and-making-scanned-pdfs-editable-5bp2)
 
 #### Dev.to React
 
-- [streamix + React: An Explosive Mix for Modern State Management](https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k)
-- [useMemo, React.memo, useRef, and Custom Hooks — Real-World React Guide](https://dev.to/rakeshdaniel321/usememo-reactmemo-useref-and-custom-hooks-real-world-react-guide-36bi)
-- [The spinner that kills the auth flash: a loading gate before every protected route](https://dev.to/kamrankhandev/the-spinner-that-kills-the-auth-flash-a-loading-gate-before-every-protected-route-3gn)
+- [I built a cell-less spreadsheet where you count by enclosing — free, runs in your browser](https://dev.to/cuculhart/i-built-a-cell-less-spreadsheet-where-you-count-by-enclosing-free-runs-in-your-browser-1g79)
+- [Next.js vs Laravel for a SaaS MVP: Which Should a Startup Pick?](https://dev.to/dharanidharan_d_tech/nextjs-vs-laravel-for-a-saas-mvp-which-should-a-startup-pick-3ec5)
+- [Build a React Support Desk with YunCMS: Roles, Relations and AI](https://dev.to/yunsoft/build-a-react-support-desk-with-yuncms-roles-relations-and-ai-2825)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 13, 2026",
     "news": [
       {
-        "title": "streamix + React: An Explosive Mix for Modern State Management",
-        "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k",
+        "title": "Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?",
+        "link": "https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "DSA Series: Add to Array-Form of Integer",
-        "link": "https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d",
+        "title": "TS + |> to hack JS",
+        "link": "https://dev.to/pengeszikra/ts-to-hack-js-48pl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)",
-        "link": "https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d",
+        "title": "Running OCR entirely in the browser (and making scanned PDFs editable)",
+        "link": "https://dev.to/omarmdhi/running-ocr-entirely-in-the-browser-and-making-scanned-pdfs-editable-5bp2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "streamix + React: An Explosive Mix for Modern State Management",
-        "link": "https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k",
+        "title": "I built a cell-less spreadsheet where you count by enclosing — free, runs in your browser",
+        "link": "https://dev.to/cuculhart/i-built-a-cell-less-spreadsheet-where-you-count-by-enclosing-free-runs-in-your-browser-1g79",
         "source": "Dev.to React"
       },
       {
-        "title": "useMemo, React.memo, useRef, and Custom Hooks — Real-World React Guide",
-        "link": "https://dev.to/rakeshdaniel321/usememo-reactmemo-useref-and-custom-hooks-real-world-react-guide-36bi",
+        "title": "Next.js vs Laravel for a SaaS MVP: Which Should a Startup Pick?",
+        "link": "https://dev.to/dharanidharan_d_tech/nextjs-vs-laravel-for-a-saas-mvp-which-should-a-startup-pick-3ec5",
         "source": "Dev.to React"
       },
       {
-        "title": "The spinner that kills the auth flash: a loading gate before every protected route",
-        "link": "https://dev.to/kamrankhandev/the-spinner-that-kills-the-auth-flash-a-loading-gate-before-every-protected-route-3gn",
+        "title": "Build a React Support Desk with YunCMS: Roles, Relations and AI",
+        "link": "https://dev.to/yunsoft/build-a-react-support-desk-with-yuncms-roles-relations-and-ai-2825",
         "source": "Dev.to React"
       },
       {
