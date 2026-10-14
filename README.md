@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 13, 2026)
+### Today's Updates (October 14, 2026)
+
+#### Dev.to JavaScript
+
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [My OSS Projects: Picard.js](https://dev.to/florianrappl/my-oss-projects-picardjs-1f48)
+- [Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.](https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5)
+
+#### Dev.to React
+
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters](https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go)
+- [Most "WBS tools" are secretly Gantt editors — I built a board for real Work Breakdown Structures](https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 12, 2026)
+### 2 Days Ago (October 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Budgeting apps kept asking for a subscription, so I built a free one](https://dev.to/cptmeowgi/budgeting-apps-kept-asking-for-a-subscription-so-i-built-a-free-one-4la0)
 - [Convertir un panel web en PWA con Vite (y que se actualice)](https://dev.to/stevencarvajal/convertir-un-panel-web-en-pwa-con-vite-y-que-se-actualice-i6)
 - [Telegram Mini App shop in Next.js fixing MainButton checkout and iOS viewport](https://dev.to/serhii_a9c08345ac360cf5c8/telegram-mini-app-shop-in-nextjs-fixing-mainbutton-checkout-and-ios-viewport-4llo)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 11, 2026)
-
-#### Dev.to JavaScript
-
-- [A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page](https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa)
-- [NanoScript Update: Traversal Methods Are Finally Here!](https://dev.to/codemaster_121482/nanoscript-update-traversal-methods-are-finally-here-55ck)
-- [Building a free Urdu AI voice with Gemini TTS: three bugs we hit](https://dev.to/siteypk/building-a-free-urdu-ai-voice-with-gemini-tts-three-bugs-we-hit-2ji4)
-
-#### Dev.to React
-
-- [A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page](https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa)
-- [How we built streaming-safe Markdown for AI chat in React](https://dev.to/anythic/how-we-built-streaming-safe-markdown-for-ai-chat-in-react-2hdm)
-- [Integrating Real-Time Email Validation into a Next.js Signup Flow](https://dev.to/gamalogic_64e23/integrating-real-time-email-validation-into-a-nextjs-signup-flow-33kk)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-14",
+    "formattedDate": "October 14, 2026",
+    "news": [
+      {
+        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My OSS Projects: Picard.js",
+        "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.",
+        "link": "https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
+        "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
+        "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-13",
     "formattedDate": "October 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Telegram Mini App shop in Next.js fixing MainButton checkout and iOS viewport",
         "link": "https://dev.to/serhii_a9c08345ac360cf5c8/telegram-mini-app-shop-in-nextjs-fixing-mainbutton-checkout-and-ios-viewport-4llo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "formattedDate": "October 11, 2026",
-    "news": [
-      {
-        "title": "A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page",
-        "link": "https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "NanoScript Update: Traversal Methods Are Finally Here!",
-        "link": "https://dev.to/codemaster_121482/nanoscript-update-traversal-methods-are-finally-here-55ck",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Building a free Urdu AI voice with Gemini TTS: three bugs we hit",
-        "link": "https://dev.to/siteypk/building-a-free-urdu-ai-voice-with-gemini-tts-three-bugs-we-hit-2ji4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A pivot table your users can drag, on a million rows, and how to tell whether it freezes the page",
-        "link": "https://dev.to/kanunilabs/a-pivot-table-your-users-can-drag-on-a-million-rows-and-how-to-tell-whether-it-freezes-the-page-1daa",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How we built streaming-safe Markdown for AI chat in React",
-        "link": "https://dev.to/anythic/how-we-built-streaming-safe-markdown-for-ai-chat-in-react-2hdm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Integrating Real-Time Email Validation into a Next.js Signup Flow",
-        "link": "https://dev.to/gamalogic_64e23/integrating-real-time-email-validation-into-a-nextjs-signup-flow-33kk",
         "source": "Dev.to React"
       },
       {
