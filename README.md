@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [My OSS Projects: Picard.js](https://dev.to/florianrappl/my-oss-projects-picardjs-1f48)
 - [Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.](https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5)
+- [I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek)
 
 #### Dev.to React
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters](https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go)
-- [Most "WBS tools" are secretly Gantt editors — I built a board for real Work Breakdown Structures](https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id)
+- [How to Keep Client-Side Animation From Taking Over Your Next.js Architecture](https://dev.to/jyotipathak__/how-to-keep-client-side-animation-from-taking-over-your-nextjs-architecture-26bj)
+- [Separate release from deploy: feature flags in Next.js without a vendor](https://dev.to/redliolabs/separate-release-from-deploy-feature-flags-in-nextjs-without-a-vendor-3i3i)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My OSS Projects: Picard.js",
-        "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
+        "title": "Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.",
+        "link": "https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.",
-        "link": "https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5",
+        "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+        "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-        "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
+        "title": "How to Keep Client-Side Animation From Taking Over Your Next.js Architecture",
+        "link": "https://dev.to/jyotipathak__/how-to-keep-client-side-animation-from-taking-over-your-nextjs-architecture-26bj",
         "source": "Dev.to React"
       },
       {
-        "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
-        "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
+        "title": "Separate release from deploy: feature flags in Next.js without a vendor",
+        "link": "https://dev.to/redliolabs/separate-release-from-deploy-feature-flags-in-nextjs-without-a-vendor-3i3i",
         "source": "Dev.to React"
       },
       {
