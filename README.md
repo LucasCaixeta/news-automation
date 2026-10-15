@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek)
-- [Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.](https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5)
+- [CrumbDesk: AI Can Read the Cake Order. It Doesn’t Get to Run the Bakery](https://dev.to/ri_rii/crumbdesk-ai-can-read-the-cake-order-it-doesnt-get-to-run-the-bakery-3ig0)
+- [Node 26 Ships Temporal by Default. A Carbon User's Guide to Dates in TypeScript](https://dev.to/gabrielanhaia/node-26-ships-temporal-by-default-a-carbon-users-guide-to-dates-in-typescript-26m)
 
 #### Dev.to React
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [How to add a like animation in React (and play it in reverse)](https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k)
-- [Interactive SVG Maps in React: Clickable Regions Without a Map Library](https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8)
+- [Simple Icons alternative with full-color brand logos | theSVG](https://dev.to/thegdsks/simple-icons-alternative-with-full-color-brand-logos-4212)
+- [Predict the Output: 4 JavaScript and React Quiz Questions That Test Understanding, Not Memory](https://dev.to/web_dev_f8cc17f0bd281ad18/predict-the-output-4-javascript-and-react-quiz-questions-that-test-understanding-not-memory-4l1j)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
-        "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+        "title": "CrumbDesk: AI Can Read the Cake Order. It Doesn’t Get to Run the Bakery",
+        "link": "https://dev.to/ri_rii/crumbdesk-ai-can-read-the-cake-order-it-doesnt-get-to-run-the-bakery-3ig0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.",
-        "link": "https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5",
+        "title": "Node 26 Ships Temporal by Default. A Carbon User's Guide to Dates in TypeScript",
+        "link": "https://dev.to/gabrielanhaia/node-26-ships-temporal-by-default-a-carbon-users-guide-to-dates-in-typescript-26m",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How to add a like animation in React (and play it in reverse)",
-        "link": "https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k",
+        "title": "Simple Icons alternative with full-color brand logos | theSVG",
+        "link": "https://dev.to/thegdsks/simple-icons-alternative-with-full-color-brand-logos-4212",
         "source": "Dev.to React"
       },
       {
-        "title": "Interactive SVG Maps in React: Clickable Regions Without a Map Library",
-        "link": "https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8",
+        "title": "Predict the Output: 4 JavaScript and React Quiz Questions That Test Understanding, Not Memory",
+        "link": "https://dev.to/web_dev_f8cc17f0bd281ad18/predict-the-output-4-javascript-and-react-quiz-questions-that-test-understanding-not-memory-4l1j",
         "source": "Dev.to React"
       },
       {
