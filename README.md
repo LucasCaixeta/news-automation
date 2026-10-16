@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 15, 2026)
+### Today's Updates (October 16, 2026)
+
+#### Dev.to JavaScript
+
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [Free Online Image Tools Are Not Free. Here Are the Receipts.](https://dev.to/akhourianmolkumar/free-online-image-tools-are-not-free-here-are-the-receipts-3nnm)
+- [Everything You Need to Know About Bubble Sort 🫧](https://dev.to/codemaster_121482/how-to-safely-implement-bubble-sort-a-full-guide-47kj)
+
+#### Dev.to React
+
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [This Week In React #301 : TanStack Start, React Aria, Base UI, Next.js | RN Web, Tamagui, One, Skia | Deno, Bun, TS, JPEG XL](https://dev.to/sebastienlorber/this-week-in-react-301-tanstack-start-react-aria-base-ui-nextjs-rn-web-tamagui-one-skia-55jm)
+- [The Unclickable Hamburger Button: Three Wrong Fixes Before I Found the CSS Bundle Order Bug](https://dev.to/pythona/the-unclickable-hamburger-button-three-wrong-fixes-before-i-found-the-css-bundle-order-bug-39b9)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 14, 2026)
+### 2 Days Ago (October 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
 - [How to Keep Client-Side Animation From Taking Over Your Next.js Architecture](https://dev.to/jyotipathak__/how-to-keep-client-side-animation-from-taking-over-your-nextjs-architecture-26bj)
 - [Separate release from deploy: feature flags in Next.js without a vendor](https://dev.to/redliolabs/separate-release-from-deploy-feature-flags-in-nextjs-without-a-vendor-3i3i)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 13, 2026)
-
-#### Dev.to JavaScript
-
-- [Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?](https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp)
-- [Prompt Paws: A Cozy 60 FPS AI Agent Bakery Game Teaching RAG, Guardrails & Context Caching](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek)
-- [Running OCR entirely in the browser (and making scanned PDFs editable)](https://dev.to/omarmdhi/running-ocr-entirely-in-the-browser-and-making-scanned-pdfs-editable-5bp2)
-
-#### Dev.to React
-
-- [Architecting Static Comparison Micro-Sites with TypeScript and JSON-LD Schema](https://dev.to/andy2000/architecting-static-comparison-micro-sites-with-typescript-and-json-ld-schema-2a30)
-- [React modals: what's open is a value, not a boolean](https://dev.to/chacaponquin/react-modals-whats-open-is-a-value-not-a-boolean-1dl7)
-- [Modales en React: lo que está abierto es un valor, no un booleano](https://dev.to/chacaponquin/modales-en-react-lo-que-esta-abierto-es-un-valor-no-un-booleano-39m9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-16",
+    "formattedDate": "October 16, 2026",
+    "news": [
+      {
+        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Free Online Image Tools Are Not Free. Here Are the Receipts.",
+        "link": "https://dev.to/akhourianmolkumar/free-online-image-tools-are-not-free-here-are-the-receipts-3nnm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Everything You Need to Know About Bubble Sort 🫧",
+        "link": "https://dev.to/codemaster_121482/how-to-safely-implement-bubble-sort-a-full-guide-47kj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This Week In React #301 : TanStack Start, React Aria, Base UI, Next.js | RN Web, Tamagui, One, Skia | Deno, Bun, TS, JPEG XL",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-301-tanstack-start-react-aria-base-ui-nextjs-rn-web-tamagui-one-skia-55jm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Unclickable Hamburger Button: Three Wrong Fixes Before I Found the CSS Bundle Order Bug",
+        "link": "https://dev.to/pythona/the-unclickable-hamburger-button-three-wrong-fixes-before-i-found-the-css-bundle-order-bug-39b9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-15",
     "formattedDate": "October 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Separate release from deploy: feature flags in Next.js without a vendor",
         "link": "https://dev.to/redliolabs/separate-release-from-deploy-feature-flags-in-nextjs-without-a-vendor-3i3i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "formattedDate": "October 13, 2026",
-    "news": [
-      {
-        "title": "Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?",
-        "link": "https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Prompt Paws: A Cozy 60 FPS AI Agent Bakery Game Teaching RAG, Guardrails & Context Caching",
-        "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Running OCR entirely in the browser (and making scanned PDFs editable)",
-        "link": "https://dev.to/omarmdhi/running-ocr-entirely-in-the-browser-and-making-scanned-pdfs-editable-5bp2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Architecting Static Comparison Micro-Sites with TypeScript and JSON-LD Schema",
-        "link": "https://dev.to/andy2000/architecting-static-comparison-micro-sites-with-typescript-and-json-ld-schema-2a30",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React modals: what's open is a value, not a boolean",
-        "link": "https://dev.to/chacaponquin/react-modals-whats-open-is-a-value-not-a-boolean-1dl7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Modales en React: lo que está abierto es un valor, no un booleano",
-        "link": "https://dev.to/chacaponquin/modales-en-react-lo-que-esta-abierto-es-un-valor-no-un-booleano-39m9",
         "source": "Dev.to React"
       },
       {
