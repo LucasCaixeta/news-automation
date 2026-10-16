@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
 - [Free Online Image Tools Are Not Free. Here Are the Receipts.](https://dev.to/akhourianmolkumar/free-online-image-tools-are-not-free-here-are-the-receipts-3nnm)
-- [Everything You Need to Know About Bubble Sort 🫧](https://dev.to/codemaster_121482/how-to-safely-implement-bubble-sort-a-full-guide-47kj)
+- [Building a candlestick chart engine on raw Canvas2D (no chart library)](https://dev.to/hacikan39622p/building-a-candlestick-chart-engine-on-raw-canvas2d-no-chart-library-34a2)
 
 #### Dev.to React
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [This Week In React #301 : TanStack Start, React Aria, Base UI, Next.js | RN Web, Tamagui, One, Skia | Deno, Bun, TS, JPEG XL](https://dev.to/sebastienlorber/this-week-in-react-301-tanstack-start-react-aria-base-ui-nextjs-rn-web-tamagui-one-skia-55jm)
-- [The Unclickable Hamburger Button: Three Wrong Fixes Before I Found the CSS Bundle Order Bug](https://dev.to/pythona/the-unclickable-hamburger-button-three-wrong-fixes-before-i-found-the-css-bundle-order-bug-39b9)
+- [Why We Built 2 Local-First B2B Mobile Apps Using Flutter and React 19 + Capacitor 8](https://dev.to/vanza_labs_500b63e1a4b943/why-we-built-2-local-first-b2b-mobile-apps-using-flutter-and-react-19-capacitor-8-3cij)
+- [I Turned My GitHub Commit Graph Into Art You Can Frame](https://dev.to/pawanhirumina/i-turned-my-github-commit-graph-into-art-you-can-frame-26kk)
 
 #### React Blog
 
@@ -99,8 +99,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Everything You Need to Know About Bubble Sort 🫧",
-        "link": "https://dev.to/codemaster_121482/how-to-safely-implement-bubble-sort-a-full-guide-47kj",
+        "title": "Building a candlestick chart engine on raw Canvas2D (no chart library)",
+        "link": "https://dev.to/hacikan39622p/building-a-candlestick-chart-engine-on-raw-canvas2d-no-chart-library-34a2",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "This Week In React #301 : TanStack Start, React Aria, Base UI, Next.js | RN Web, Tamagui, One, Skia | Deno, Bun, TS, JPEG XL",
-        "link": "https://dev.to/sebastienlorber/this-week-in-react-301-tanstack-start-react-aria-base-ui-nextjs-rn-web-tamagui-one-skia-55jm",
+        "title": "Why We Built 2 Local-First B2B Mobile Apps Using Flutter and React 19 + Capacitor 8",
+        "link": "https://dev.to/vanza_labs_500b63e1a4b943/why-we-built-2-local-first-b2b-mobile-apps-using-flutter-and-react-19-capacitor-8-3cij",
         "source": "Dev.to React"
       },
       {
-        "title": "The Unclickable Hamburger Button: Three Wrong Fixes Before I Found the CSS Bundle Order Bug",
-        "link": "https://dev.to/pythona/the-unclickable-hamburger-button-three-wrong-fixes-before-i-found-the-css-bundle-order-bug-39b9",
+        "title": "I Turned My GitHub Commit Graph Into Art You Can Frame",
+        "link": "https://dev.to/pawanhirumina/i-turned-my-github-commit-graph-into-art-you-can-frame-26kk",
         "source": "Dev.to React"
       },
       {
