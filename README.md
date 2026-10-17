@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 16, 2026)
+### Today's Updates (October 17, 2026)
+
+#### Dev.to JavaScript
+
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It](https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh)
+- [A 33-hour Office.js rollout that changed four bytes](https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001)
+
+#### Dev.to React
+
+- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [Building a Client-Side Batch QR Code Generator (No Backend Required)](https://dev.to/rahalune-qr-studio/building-a-client-side-batch-qr-code-generator-no-backend-required-5dmf)
+- [OfflineIQ: Building an Offline-First Interview Preparation Platform](https://dev.to/bobbadi_ramesh_3bf2792acc/offlineiq-building-an-offline-first-interview-preparation-platform-271i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 15, 2026)
+### 2 Days Ago (October 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
 - [Simple Icons alternative with full-color brand logos | theSVG](https://dev.to/thegdsks/simple-icons-alternative-with-full-color-brand-logos-4212)
 - [Predict the Output: 4 JavaScript and React Quiz Questions That Test Understanding, Not Memory](https://dev.to/web_dev_f8cc17f0bd281ad18/predict-the-output-4-javascript-and-react-quiz-questions-that-test-understanding-not-memory-4l1j)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 14, 2026)
-
-#### Dev.to JavaScript
-
-- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.](https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5)
-- [I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek)
-
-#### Dev.to React
-
-- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [How to Keep Client-Side Animation From Taking Over Your Next.js Architecture](https://dev.to/jyotipathak__/how-to-keep-client-side-animation-from-taking-over-your-nextjs-architecture-26bj)
-- [Separate release from deploy: feature flags in Next.js without a vendor](https://dev.to/redliolabs/separate-release-from-deploy-feature-flags-in-nextjs-without-a-vendor-3i3i)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-17",
+    "formattedDate": "October 17, 2026",
+    "news": [
+      {
+        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It",
+        "link": "https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A 33-hour Office.js rollout that changed four bytes",
+        "link": "https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Client-Side Batch QR Code Generator (No Backend Required)",
+        "link": "https://dev.to/rahalune-qr-studio/building-a-client-side-batch-qr-code-generator-no-backend-required-5dmf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "OfflineIQ: Building an Offline-First Interview Preparation Platform",
+        "link": "https://dev.to/bobbadi_ramesh_3bf2792acc/offlineiq-building-an-offline-first-interview-preparation-platform-271i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-16",
     "formattedDate": "October 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Predict the Output: 4 JavaScript and React Quiz Questions That Test Understanding, Not Memory",
         "link": "https://dev.to/web_dev_f8cc17f0bd281ad18/predict-the-output-4-javascript-and-react-quiz-questions-that-test-understanding-not-memory-4l1j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "formattedDate": "October 14, 2026",
-    "news": [
-      {
-        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Zone.js Hijacked Your Browser for 8 Years. Here's What Replaced It.",
-        "link": "https://dev.to/smtahosin/zonejs-hijacked-your-browser-for-8-years-heres-what-replaced-it-20i5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
-        "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Keep Client-Side Animation From Taking Over Your Next.js Architecture",
-        "link": "https://dev.to/jyotipathak__/how-to-keep-client-side-animation-from-taking-over-your-nextjs-architecture-26bj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Separate release from deploy: feature flags in Next.js without a vendor",
-        "link": "https://dev.to/redliolabs/separate-release-from-deploy-feature-flags-in-nextjs-without-a-vendor-3i3i",
         "source": "Dev.to React"
       },
       {
