@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+- [How to encrypt user data in the browser with the Web Crypto API](https://dev.to/_aniruddha_d/how-to-encrypt-user-data-in-the-browser-with-the-web-crypto-api-47m5)
 - [Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It](https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh)
-- [A 33-hour Office.js rollout that changed four bytes](https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001)
 
 #### Dev.to React
 
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [Building a Client-Side Batch QR Code Generator (No Backend Required)](https://dev.to/rahalune-qr-studio/building-a-client-side-batch-qr-code-generator-no-backend-required-5dmf)
-- [OfflineIQ: Building an Offline-First Interview Preparation Platform](https://dev.to/bobbadi_ramesh_3bf2792acc/offlineiq-building-an-offline-first-interview-preparation-platform-271i)
+- [Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review](https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i)
+- [Fixing the Silent Killer: How Improper Server Actions Leak Secrets in Next.js 15](https://dev.to/elena_rostova/fixing-the-silent-killer-how-improper-server-actions-leak-secrets-in-nextjs-15-51ba)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It",
-        "link": "https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh",
+        "title": "How to encrypt user data in the browser with the Web Crypto API",
+        "link": "https://dev.to/_aniruddha_d/how-to-encrypt-user-data-in-the-browser-with-the-web-crypto-api-47m5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A 33-hour Office.js rollout that changed four bytes",
-        "link": "https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001",
+        "title": "Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It",
+        "link": "https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Client-Side Batch QR Code Generator (No Backend Required)",
-        "link": "https://dev.to/rahalune-qr-studio/building-a-client-side-batch-qr-code-generator-no-backend-required-5dmf",
+        "title": "Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review",
+        "link": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
         "source": "Dev.to React"
       },
       {
-        "title": "OfflineIQ: Building an Offline-First Interview Preparation Platform",
-        "link": "https://dev.to/bobbadi_ramesh_3bf2792acc/offlineiq-building-an-offline-first-interview-preparation-platform-271i",
+        "title": "Fixing the Silent Killer: How Improper Server Actions Leak Secrets in Next.js 15",
+        "link": "https://dev.to/elena_rostova/fixing-the-silent-killer-how-improper-server-actions-leak-secrets-in-nextjs-15-51ba",
         "source": "Dev.to React"
       },
       {
