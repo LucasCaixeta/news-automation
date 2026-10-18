@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 17, 2026)
+### Today's Updates (October 18, 2026)
+
+#### Dev.to JavaScript
+
+- [Claude Code Parallel Subagent Patterns: Fan-Out, Fan-In, and Synchronization Strategies That Actually Work](https://dev.to/jsmanifest/claude-code-parallel-subagent-patterns-fan-out-fan-in-and-synchronization-strategies-that-4gni)
+- [How I built morphing dot animations with plain canvas (no libraries, 5 KB)](https://dev.to/shazmoghaddam/how-i-built-morphing-dot-animations-with-plain-canvas-no-libraries-5-kb-127h)
+- [Syncing a browser extension's settings without a server: three reviews, three ways to lose data](https://dev.to/protemir/syncing-a-browser-extensions-settings-without-a-server-three-reviews-three-ways-to-lose-data-16a4)
+
+#### Dev.to React
+
+- [Building a chart editor with no backend: storing charts in the browser and exporting a PNG](https://dev.to/guluhehe/building-a-chart-editor-with-no-backend-storing-charts-in-the-browser-and-exporting-a-png-30k0)
+- [I Built an AI Architectural Blueprint & Civil Feasibility Engine with $0 Paid APIs (Here's How)](https://dev.to/rolan_r_n_r/i-built-an-ai-architectural-blueprint-civil-feasibility-engine-with-0-paid-apis-heres-how-2gal)
+- [How Was State Managed in Frontend Development in the Old Days and Its Evolution?](https://dev.to/shreysaraswatweb/how-was-state-managed-in-frontend-development-in-the-old-days-and-its-evolution-2mfl)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 16, 2026)
+### 2 Days Ago (October 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
 - [Why We Built 2 Local-First B2B Mobile Apps Using Flutter and React 19 + Capacitor 8](https://dev.to/vanza_labs_500b63e1a4b943/why-we-built-2-local-first-b2b-mobile-apps-using-flutter-and-react-19-capacitor-8-3cij)
 - [I Turned My GitHub Commit Graph Into Art You Can Frame](https://dev.to/pawanhirumina/i-turned-my-github-commit-graph-into-art-you-can-frame-26kk)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 15, 2026)
-
-#### Dev.to JavaScript
-
-- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [CrumbDesk: AI Can Read the Cake Order. It Doesn’t Get to Run the Bakery](https://dev.to/ri_rii/crumbdesk-ai-can-read-the-cake-order-it-doesnt-get-to-run-the-bakery-3ig0)
-- [Node 26 Ships Temporal by Default. A Carbon User's Guide to Dates in TypeScript](https://dev.to/gabrielanhaia/node-26-ships-temporal-by-default-a-carbon-users-guide-to-dates-in-typescript-26m)
-
-#### Dev.to React
-
-- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [Simple Icons alternative with full-color brand logos | theSVG](https://dev.to/thegdsks/simple-icons-alternative-with-full-color-brand-logos-4212)
-- [Predict the Output: 4 JavaScript and React Quiz Questions That Test Understanding, Not Memory](https://dev.to/web_dev_f8cc17f0bd281ad18/predict-the-output-4-javascript-and-react-quiz-questions-that-test-understanding-not-memory-4l1j)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-18",
+    "formattedDate": "October 18, 2026",
+    "news": [
+      {
+        "title": "Claude Code Parallel Subagent Patterns: Fan-Out, Fan-In, and Synchronization Strategies That Actually Work",
+        "link": "https://dev.to/jsmanifest/claude-code-parallel-subagent-patterns-fan-out-fan-in-and-synchronization-strategies-that-4gni",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built morphing dot animations with plain canvas (no libraries, 5 KB)",
+        "link": "https://dev.to/shazmoghaddam/how-i-built-morphing-dot-animations-with-plain-canvas-no-libraries-5-kb-127h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Syncing a browser extension's settings without a server: three reviews, three ways to lose data",
+        "link": "https://dev.to/protemir/syncing-a-browser-extensions-settings-without-a-server-three-reviews-three-ways-to-lose-data-16a4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a chart editor with no backend: storing charts in the browser and exporting a PNG",
+        "link": "https://dev.to/guluhehe/building-a-chart-editor-with-no-backend-storing-charts-in-the-browser-and-exporting-a-png-30k0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an AI Architectural Blueprint & Civil Feasibility Engine with $0 Paid APIs (Here's How)",
+        "link": "https://dev.to/rolan_r_n_r/i-built-an-ai-architectural-blueprint-civil-feasibility-engine-with-0-paid-apis-heres-how-2gal",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How Was State Managed in Frontend Development in the Old Days and Its Evolution?",
+        "link": "https://dev.to/shreysaraswatweb/how-was-state-managed-in-frontend-development-in-the-old-days-and-its-evolution-2mfl",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-17",
     "formattedDate": "October 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I Turned My GitHub Commit Graph Into Art You Can Frame",
         "link": "https://dev.to/pawanhirumina/i-turned-my-github-commit-graph-into-art-you-can-frame-26kk",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "formattedDate": "October 15, 2026",
-    "news": [
-      {
-        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "CrumbDesk: AI Can Read the Cake Order. It Doesn’t Get to Run the Bakery",
-        "link": "https://dev.to/ri_rii/crumbdesk-ai-can-read-the-cake-order-it-doesnt-get-to-run-the-bakery-3ig0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Node 26 Ships Temporal by Default. A Carbon User's Guide to Dates in TypeScript",
-        "link": "https://dev.to/gabrielanhaia/node-26-ships-temporal-by-default-a-carbon-users-guide-to-dates-in-typescript-26m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Simple Icons alternative with full-color brand logos | theSVG",
-        "link": "https://dev.to/thegdsks/simple-icons-alternative-with-full-color-brand-logos-4212",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Predict the Output: 4 JavaScript and React Quiz Questions That Test Understanding, Not Memory",
-        "link": "https://dev.to/web_dev_f8cc17f0bd281ad18/predict-the-output-4-javascript-and-react-quiz-questions-that-test-understanding-not-memory-4l1j",
         "source": "Dev.to React"
       },
       {
