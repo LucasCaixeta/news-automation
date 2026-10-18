@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Claude Code Parallel Subagent Patterns: Fan-Out, Fan-In, and Synchronization Strategies That Actually Work](https://dev.to/jsmanifest/claude-code-parallel-subagent-patterns-fan-out-fan-in-and-synchronization-strategies-that-4gni)
-- [How I built morphing dot animations with plain canvas (no libraries, 5 KB)](https://dev.to/shazmoghaddam/how-i-built-morphing-dot-animations-with-plain-canvas-no-libraries-5-kb-127h)
-- [Syncing a browser extension's settings without a server: three reviews, three ways to lose data](https://dev.to/protemir/syncing-a-browser-extensions-settings-without-a-server-three-reviews-three-ways-to-lose-data-16a4)
+- [I Built a New Tab Extension for DEV](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm)
+- [Making a 166,000-neuron brain bit-exact on any GPU](https://dev.to/alexandros_titonis_43d6ea/making-a-166000-neuron-brain-bit-exact-on-any-gpu-59p2)
+- [One Request, Many Callers: Coalescing Duplicate fetch() Calls in JavaScript](https://dev.to/zainalsaadi/one-request-many-callers-coalescing-duplicate-fetch-calls-in-javascript-13k2)
 
 #### Dev.to React
 
-- [Building a chart editor with no backend: storing charts in the browser and exporting a PNG](https://dev.to/guluhehe/building-a-chart-editor-with-no-backend-storing-charts-in-the-browser-and-exporting-a-png-30k0)
-- [I Built an AI Architectural Blueprint & Civil Feasibility Engine with $0 Paid APIs (Here's How)](https://dev.to/rolan_r_n_r/i-built-an-ai-architectural-blueprint-civil-feasibility-engine-with-0-paid-apis-heres-how-2gal)
-- [How Was State Managed in Frontend Development in the Old Days and Its Evolution?](https://dev.to/shreysaraswatweb/how-was-state-managed-in-frontend-development-in-the-old-days-and-its-evolution-2mfl)
+- [Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load](https://dev.to/elena_rostova/benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-2bap)
+- [Why my Electron renderer can't change anything itself](https://dev.to/nicholasflemmer/why-my-electron-renderer-cant-change-anything-itself-1ea1)
+- [I worked like the company was mine. Here is what two and a half years at a Silicon Valley startup taught me.](https://dev.to/raythurnevoid/i-worked-like-the-company-was-mine-here-is-what-two-and-a-half-years-at-a-silicon-valley-startup-3088)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 18, 2026",
     "news": [
       {
-        "title": "Claude Code Parallel Subagent Patterns: Fan-Out, Fan-In, and Synchronization Strategies That Actually Work",
-        "link": "https://dev.to/jsmanifest/claude-code-parallel-subagent-patterns-fan-out-fan-in-and-synchronization-strategies-that-4gni",
+        "title": "I Built a New Tab Extension for DEV",
+        "link": "https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I built morphing dot animations with plain canvas (no libraries, 5 KB)",
-        "link": "https://dev.to/shazmoghaddam/how-i-built-morphing-dot-animations-with-plain-canvas-no-libraries-5-kb-127h",
+        "title": "Making a 166,000-neuron brain bit-exact on any GPU",
+        "link": "https://dev.to/alexandros_titonis_43d6ea/making-a-166000-neuron-brain-bit-exact-on-any-gpu-59p2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Syncing a browser extension's settings without a server: three reviews, three ways to lose data",
-        "link": "https://dev.to/protemir/syncing-a-browser-extensions-settings-without-a-server-three-reviews-three-ways-to-lose-data-16a4",
+        "title": "One Request, Many Callers: Coalescing Duplicate fetch() Calls in JavaScript",
+        "link": "https://dev.to/zainalsaadi/one-request-many-callers-coalescing-duplicate-fetch-calls-in-javascript-13k2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a chart editor with no backend: storing charts in the browser and exporting a PNG",
-        "link": "https://dev.to/guluhehe/building-a-chart-editor-with-no-backend-storing-charts-in-the-browser-and-exporting-a-png-30k0",
+        "title": "Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load",
+        "link": "https://dev.to/elena_rostova/benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-2bap",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built an AI Architectural Blueprint & Civil Feasibility Engine with $0 Paid APIs (Here's How)",
-        "link": "https://dev.to/rolan_r_n_r/i-built-an-ai-architectural-blueprint-civil-feasibility-engine-with-0-paid-apis-heres-how-2gal",
+        "title": "Why my Electron renderer can't change anything itself",
+        "link": "https://dev.to/nicholasflemmer/why-my-electron-renderer-cant-change-anything-itself-1ea1",
         "source": "Dev.to React"
       },
       {
-        "title": "How Was State Managed in Frontend Development in the Old Days and Its Evolution?",
-        "link": "https://dev.to/shreysaraswatweb/how-was-state-managed-in-frontend-development-in-the-old-days-and-its-evolution-2mfl",
+        "title": "I worked like the company was mine. Here is what two and a half years at a Silicon Valley startup taught me.",
+        "link": "https://dev.to/raythurnevoid/i-worked-like-the-company-was-mine-here-is-what-two-and-a-half-years-at-a-silicon-valley-startup-3088",
         "source": "Dev.to React"
       },
       {
