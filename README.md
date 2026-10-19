@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Browser Already Has a Priority System. Your debounce(300) Does Not.](https://dev.to/varshithvhegde/the-browser-already-has-a-priority-system-your-debounce300-does-not-e28)
-- [I Built a New Tab Extension for DEV](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm)
-- [Sending transactional email from Node.js in Ghana (and paying with mobile money)](https://dev.to/danielbyiringiro/sending-transactional-email-from-nodejs-in-ghana-and-paying-with-mobile-money-3gcj)
+- [They Charge Me to Export My Own WhatsApp Contacts. I Shipped a Free Alternative in One Day 🔓](https://dev.to/md8_habibullah/they-charge-mr-to-export-my-own-whatsapp-contacts-i-shipped-a-free-alternative-in-one-day-4n9g)
+- [Type-Safe Model Routing in a Turborepo: Integrating LobeHub Without Blowing Up tsc](https://dev.to/ryan_gallagher/type-safe-model-routing-in-a-turborepo-integrating-lobehub-without-blowing-up-tsc-3gg4)
+- [I deleted my Rust helper and moved zip extraction into the browser. Here's what it cost.](https://dev.to/constantin_alex_05c9c24b7/i-deleted-my-rust-helper-and-moved-zip-extraction-into-the-browser-heres-what-it-cost-51l8)
 
 #### Dev.to React
 
-- [I built a one-question feedback tool because research tools cost more than my app makes](https://dev.to/kaezee/i-built-a-one-question-feedback-tool-because-research-tools-cost-more-than-my-app-makes-2h3k)
-- [The 83 MB JavaScript bundle was not a dependency problem](https://dev.to/melisawrites/the-83-mb-javascript-bundle-was-not-a-dependency-problem-5d0e)
-- [I finally rebuilt my portfolio website (and added a terminal theme)](https://dev.to/m_ahmad/i-finally-rebuilt-my-portfolio-website-and-added-a-terminal-theme-20ag)
+- [Expose a React Workflow to AI Agents with WebMCP](https://dev.to/raju_dandigam/expose-a-react-workflow-to-ai-agents-with-webmcp-2ba9)
+- [Why Your Modern Next.js/React Site is Invisible to Perplexity & GPTBot (And How to Fix It)](https://dev.to/tarikmostafa/why-your-modern-nextjsreact-site-is-invisible-to-perplexity-gptbot-and-how-to-fix-it-19h1)
+- [Aureform UI: an open-source Next.js kit with an appearance studio](https://dev.to/terrizoaguimor/aureform-ui-an-open-source-nextjs-kit-with-an-appearance-studio-3ld)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 19, 2026",
     "news": [
       {
-        "title": "The Browser Already Has a Priority System. Your debounce(300) Does Not.",
-        "link": "https://dev.to/varshithvhegde/the-browser-already-has-a-priority-system-your-debounce300-does-not-e28",
+        "title": "They Charge Me to Export My Own WhatsApp Contacts. I Shipped a Free Alternative in One Day 🔓",
+        "link": "https://dev.to/md8_habibullah/they-charge-mr-to-export-my-own-whatsapp-contacts-i-shipped-a-free-alternative-in-one-day-4n9g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built a New Tab Extension for DEV",
-        "link": "https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm",
+        "title": "Type-Safe Model Routing in a Turborepo: Integrating LobeHub Without Blowing Up tsc",
+        "link": "https://dev.to/ryan_gallagher/type-safe-model-routing-in-a-turborepo-integrating-lobehub-without-blowing-up-tsc-3gg4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Sending transactional email from Node.js in Ghana (and paying with mobile money)",
-        "link": "https://dev.to/danielbyiringiro/sending-transactional-email-from-nodejs-in-ghana-and-paying-with-mobile-money-3gcj",
+        "title": "I deleted my Rust helper and moved zip extraction into the browser. Here's what it cost.",
+        "link": "https://dev.to/constantin_alex_05c9c24b7/i-deleted-my-rust-helper-and-moved-zip-extraction-into-the-browser-heres-what-it-cost-51l8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a one-question feedback tool because research tools cost more than my app makes",
-        "link": "https://dev.to/kaezee/i-built-a-one-question-feedback-tool-because-research-tools-cost-more-than-my-app-makes-2h3k",
+        "title": "Expose a React Workflow to AI Agents with WebMCP",
+        "link": "https://dev.to/raju_dandigam/expose-a-react-workflow-to-ai-agents-with-webmcp-2ba9",
         "source": "Dev.to React"
       },
       {
-        "title": "The 83 MB JavaScript bundle was not a dependency problem",
-        "link": "https://dev.to/melisawrites/the-83-mb-javascript-bundle-was-not-a-dependency-problem-5d0e",
+        "title": "Why Your Modern Next.js/React Site is Invisible to Perplexity & GPTBot (And How to Fix It)",
+        "link": "https://dev.to/tarikmostafa/why-your-modern-nextjsreact-site-is-invisible-to-perplexity-gptbot-and-how-to-fix-it-19h1",
         "source": "Dev.to React"
       },
       {
-        "title": "I finally rebuilt my portfolio website (and added a terminal theme)",
-        "link": "https://dev.to/m_ahmad/i-finally-rebuilt-my-portfolio-website-and-added-a-terminal-theme-20ag",
+        "title": "Aureform UI: an open-source Next.js kit with an appearance studio",
+        "link": "https://dev.to/terrizoaguimor/aureform-ui-an-open-source-nextjs-kit-with-an-appearance-studio-3ld",
         "source": "Dev.to React"
       },
       {
