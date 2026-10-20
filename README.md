@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 19, 2026)
+### Today's Updates (October 20, 2026)
+
+#### Dev.to JavaScript
+
+- [I'm 12. I Built an Ephemeral Cloud Platform on a $150 Phone (And Fought 10 Bugs to Win)](https://dev.to/koda2026/im-12-i-built-an-ephemeral-cloud-platform-on-a-150-phone-and-fought-10-bugs-to-win-1337)
+- [I Tried Hono v5 RC: What Changed from v4, and What Breaks?](https://dev.to/tanahiro2010/i-tried-hono-v5-rc-what-changed-from-v4-and-what-breaks-2fl4)
+- [I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.](https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc)
+
+#### Dev.to React
+
+- [I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.](https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc)
+- [Persistent Agent Context with claude-mem: Solving the Cold-Start Problem in Multi-Session Workflows](https://dev.to/elena_rostova/persistent-agent-context-with-claude-mem-solving-the-cold-start-problem-in-multi-session-workflows-73f)
+- [Your Next.js Dates Are Wrong for Half Your Users (and the Hydration Warning Is Only the Start)](https://dev.to/anas_sheikh_2/your-nextjs-dates-are-wrong-for-half-your-users-and-the-hydration-warning-is-only-the-start-356g)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 18, 2026)
+### 2 Days Ago (October 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load](https://dev.to/elena_rostova/benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-2bap)
 - [Why my Electron renderer can't change anything itself](https://dev.to/nicholasflemmer/why-my-electron-renderer-cant-change-anything-itself-1ea1)
 - [I worked like the company was mine. Here is what two and a half years at a Silicon Valley startup taught me.](https://dev.to/raythurnevoid/i-worked-like-the-company-was-mine-here-is-what-two-and-a-half-years-at-a-silicon-valley-startup-3088)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 17, 2026)
-
-#### Dev.to JavaScript
-
-- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [How to encrypt user data in the browser with the Web Crypto API](https://dev.to/_aniruddha_d/how-to-encrypt-user-data-in-the-browser-with-the-web-crypto-api-47m5)
-- [Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It](https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh)
-
-#### Dev.to React
-
-- [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-- [Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review](https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i)
-- [Fixing the Silent Killer: How Improper Server Actions Leak Secrets in Next.js 15](https://dev.to/elena_rostova/fixing-the-silent-killer-how-improper-server-actions-leak-secrets-in-nextjs-15-51ba)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-20",
+    "formattedDate": "October 20, 2026",
+    "news": [
+      {
+        "title": "I'm 12. I Built an Ephemeral Cloud Platform on a $150 Phone (And Fought 10 Bugs to Win)",
+        "link": "https://dev.to/koda2026/im-12-i-built-an-ephemeral-cloud-platform-on-a-150-phone-and-fought-10-bugs-to-win-1337",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Tried Hono v5 RC: What Changed from v4, and What Breaks?",
+        "link": "https://dev.to/tanahiro2010/i-tried-hono-v5-rc-what-changed-from-v4-and-what-breaks-2fl4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.",
+        "link": "https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.",
+        "link": "https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Persistent Agent Context with claude-mem: Solving the Cold-Start Problem in Multi-Session Workflows",
+        "link": "https://dev.to/elena_rostova/persistent-agent-context-with-claude-mem-solving-the-cold-start-problem-in-multi-session-workflows-73f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your Next.js Dates Are Wrong for Half Your Users (and the Hydration Warning Is Only the Start)",
+        "link": "https://dev.to/anas_sheikh_2/your-nextjs-dates-are-wrong-for-half-your-users-and-the-hydration-warning-is-only-the-start-356g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-19",
     "formattedDate": "October 19, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "I worked like the company was mine. Here is what two and a half years at a Silicon Valley startup taught me.",
         "link": "https://dev.to/raythurnevoid/i-worked-like-the-company-was-mine-here-is-what-two-and-a-half-years-at-a-silicon-valley-startup-3088",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-17",
-    "formattedDate": "October 17, 2026",
-    "news": [
-      {
-        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to encrypt user data in the browser with the Web Crypto API",
-        "link": "https://dev.to/_aniruddha_d/how-to-encrypt-user-data-in-the-browser-with-the-web-crypto-api-47m5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It",
-        "link": "https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-        "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review",
-        "link": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Fixing the Silent Killer: How Improper Server Actions Leak Secrets in Next.js 15",
-        "link": "https://dev.to/elena_rostova/fixing-the-silent-killer-how-improper-server-actions-leak-secrets-in-nextjs-15-51ba",
         "source": "Dev.to React"
       },
       {
