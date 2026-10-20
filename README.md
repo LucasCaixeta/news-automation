@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I'm 12. I Built an Ephemeral Cloud Platform on a $150 Phone (And Fought 10 Bugs to Win)](https://dev.to/koda2026/im-12-i-built-an-ephemeral-cloud-platform-on-a-150-phone-and-fought-10-bugs-to-win-1337)
-- [I Tried Hono v5 RC: What Changed from v4, and What Breaks?](https://dev.to/tanahiro2010/i-tried-hono-v5-rc-what-changed-from-v4-and-what-breaks-2fl4)
-- [I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.](https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc)
+- [TypeScript Is Unsound on Purpose: 7 Programs That Type-Check, Then Crash](https://dev.to/gabrielanhaia/typescript-is-unsound-on-purpose-7-programs-that-type-check-then-crash-9go)
+- [UX Icons JS : les icônes de Symfony UX, enfin en JavaScript, React et Vue](https://dev.to/guillaume_sainthillier/ux-icons-js-les-icones-de-symfony-ux-enfin-en-javascript-react-et-vue-c0h)
+- [Turn a list of company names into hiring signals (8 ATS platforms, no scraping of HTML)](https://dev.to/kunnu_data/turn-a-list-of-company-names-into-hiring-signals-8-ats-platforms-no-scraping-of-html-1cf1)
 
 #### Dev.to React
 
-- [I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.](https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc)
-- [Persistent Agent Context with claude-mem: Solving the Cold-Start Problem in Multi-Session Workflows](https://dev.to/elena_rostova/persistent-agent-context-with-claude-mem-solving-the-cold-start-problem-in-multi-session-workflows-73f)
-- [Your Next.js Dates Are Wrong for Half Your Users (and the Hydration Warning Is Only the Start)](https://dev.to/anas_sheikh_2/your-nextjs-dates-are-wrong-for-half-your-users-and-the-hydration-warning-is-only-the-start-356g)
+- [Make your v0 or Cursor app stop looking AI-built in 10 minutes](https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg)
+- [A liquid glass tab bar: the magnifying lens is a scaled copy of the bar](https://dev.to/teodoravadani/a-liquid-glass-tab-bar-the-magnifying-lens-is-a-scaled-copy-of-the-bar-2g65)
+- [How I keep a living system map of Mầm Văn — every change, before & after](https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 20, 2026",
     "news": [
       {
-        "title": "I'm 12. I Built an Ephemeral Cloud Platform on a $150 Phone (And Fought 10 Bugs to Win)",
-        "link": "https://dev.to/koda2026/im-12-i-built-an-ephemeral-cloud-platform-on-a-150-phone-and-fought-10-bugs-to-win-1337",
+        "title": "TypeScript Is Unsound on Purpose: 7 Programs That Type-Check, Then Crash",
+        "link": "https://dev.to/gabrielanhaia/typescript-is-unsound-on-purpose-7-programs-that-type-check-then-crash-9go",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Tried Hono v5 RC: What Changed from v4, and What Breaks?",
-        "link": "https://dev.to/tanahiro2010/i-tried-hono-v5-rc-what-changed-from-v4-and-what-breaks-2fl4",
+        "title": "UX Icons JS : les icônes de Symfony UX, enfin en JavaScript, React et Vue",
+        "link": "https://dev.to/guillaume_sainthillier/ux-icons-js-les-icones-de-symfony-ux-enfin-en-javascript-react-et-vue-c0h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.",
-        "link": "https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc",
+        "title": "Turn a list of company names into hiring signals (8 ATS platforms, no scraping of HTML)",
+        "link": "https://dev.to/kunnu_data/turn-a-list-of-company-names-into-hiring-signals-8-ats-platforms-no-scraping-of-html-1cf1",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a tool that reverse-engineers any website into React in one command. Here's how the capture actually works.",
-        "link": "https://dev.to/eklavya_pandey_163f26590b/i-built-a-tool-that-reverse-engineers-any-website-into-react-in-one-command-heres-how-the-capture-35bc",
+        "title": "Make your v0 or Cursor app stop looking AI-built in 10 minutes",
+        "link": "https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg",
         "source": "Dev.to React"
       },
       {
-        "title": "Persistent Agent Context with claude-mem: Solving the Cold-Start Problem in Multi-Session Workflows",
-        "link": "https://dev.to/elena_rostova/persistent-agent-context-with-claude-mem-solving-the-cold-start-problem-in-multi-session-workflows-73f",
+        "title": "A liquid glass tab bar: the magnifying lens is a scaled copy of the bar",
+        "link": "https://dev.to/teodoravadani/a-liquid-glass-tab-bar-the-magnifying-lens-is-a-scaled-copy-of-the-bar-2g65",
         "source": "Dev.to React"
       },
       {
-        "title": "Your Next.js Dates Are Wrong for Half Your Users (and the Hydration Warning Is Only the Start)",
-        "link": "https://dev.to/anas_sheikh_2/your-nextjs-dates-are-wrong-for-half-your-users-and-the-hydration-warning-is-only-the-start-356g",
+        "title": "How I keep a living system map of Mầm Văn — every change, before & after",
+        "link": "https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79",
         "source": "Dev.to React"
       },
       {
