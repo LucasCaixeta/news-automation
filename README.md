@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
 - [My OSS Projects: dets](https://dev.to/florianrappl/my-oss-projects-dets-1gjk)
-- [I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff](https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5)
+- [How I Convert PDF to Markdown in the Browser](https://dev.to/lanxk/how-i-convert-pdf-to-markdown-in-the-browser-2hff)
 
 #### Dev.to React
 
-- [Four small problems from shipping a local-first task app](https://dev.to/pixari/four-small-problems-from-shipping-a-local-first-task-app-3kpe)
-- [🚀 New React Challenge: Live dashboard](https://dev.to/reactchallenges/new-react-challenge-live-dashboard-73n)
-- [The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto](https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257)
+- [Turning a Cheap Android Photo Frame into an Ambient Family Dashboard](https://dev.to/vitorstick/turning-a-cheap-android-photo-frame-into-an-ambient-family-dashboard-4l15)
+- [🦥 Solace: Productivity That Adapts to Your Energy](https://dev.to/sakshidb/solace-productivity-that-adapts-to-your-energy-3mi8)
+- [Notes from a 2 AM On-Call: Supabase Realtime Connection Reset Under Next.js SSR Load](https://dev.to/elena_rostova/notes-from-a-2-am-on-call-supabase-realtime-connection-reset-under-nextjs-ssr-load-1dj3)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
-        "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
+        "title": "How I Convert PDF to Markdown in the Browser",
+        "link": "https://dev.to/lanxk/how-i-convert-pdf-to-markdown-in-the-browser-2hff",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Four small problems from shipping a local-first task app",
-        "link": "https://dev.to/pixari/four-small-problems-from-shipping-a-local-first-task-app-3kpe",
+        "title": "Turning a Cheap Android Photo Frame into an Ambient Family Dashboard",
+        "link": "https://dev.to/vitorstick/turning-a-cheap-android-photo-frame-into-an-ambient-family-dashboard-4l15",
         "source": "Dev.to React"
       },
       {
-        "title": "🚀 New React Challenge: Live dashboard",
-        "link": "https://dev.to/reactchallenges/new-react-challenge-live-dashboard-73n",
+        "title": "🦥 Solace: Productivity That Adapts to Your Energy",
+        "link": "https://dev.to/sakshidb/solace-productivity-that-adapts-to-your-energy-3mi8",
         "source": "Dev.to React"
       },
       {
-        "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
-        "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+        "title": "Notes from a 2 AM On-Call: Supabase Realtime Connection Reset Under Next.js SSR Load",
+        "link": "https://dev.to/elena_rostova/notes-from-a-2-am-on-call-supabase-realtime-connection-reset-under-nextjs-ssr-load-1dj3",
         "source": "Dev.to React"
       },
       {
