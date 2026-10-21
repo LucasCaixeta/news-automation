@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 20, 2026)
+### Today's Updates (October 21, 2026)
+
+#### Dev.to JavaScript
+
+- [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
+- [My OSS Projects: dets](https://dev.to/florianrappl/my-oss-projects-dets-1gjk)
+- [I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff](https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5)
+
+#### Dev.to React
+
+- [Four small problems from shipping a local-first task app](https://dev.to/pixari/four-small-problems-from-shipping-a-local-first-task-app-3kpe)
+- [🚀 New React Challenge: Live dashboard](https://dev.to/reactchallenges/new-react-challenge-live-dashboard-73n)
+- [The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto](https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 19, 2026)
+### 2 Days Ago (October 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Expose a React Workflow to AI Agents with WebMCP](https://dev.to/raju_dandigam/expose-a-react-workflow-to-ai-agents-with-webmcp-2ba9)
 - [Why Your Modern Next.js/React Site is Invisible to Perplexity & GPTBot (And How to Fix It)](https://dev.to/tarikmostafa/why-your-modern-nextjsreact-site-is-invisible-to-perplexity-gptbot-and-how-to-fix-it-19h1)
 - [Aureform UI: an open-source Next.js kit with an appearance studio](https://dev.to/terrizoaguimor/aureform-ui-an-open-source-nextjs-kit-with-an-appearance-studio-3ld)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 18, 2026)
-
-#### Dev.to JavaScript
-
-- [I Built a New Tab Extension for DEV](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm)
-- [Making a 166,000-neuron brain bit-exact on any GPU](https://dev.to/alexandros_titonis_43d6ea/making-a-166000-neuron-brain-bit-exact-on-any-gpu-59p2)
-- [One Request, Many Callers: Coalescing Duplicate fetch() Calls in JavaScript](https://dev.to/zainalsaadi/one-request-many-callers-coalescing-duplicate-fetch-calls-in-javascript-13k2)
-
-#### Dev.to React
-
-- [Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load](https://dev.to/elena_rostova/benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-2bap)
-- [Why my Electron renderer can't change anything itself](https://dev.to/nicholasflemmer/why-my-electron-renderer-cant-change-anything-itself-1ea1)
-- [I worked like the company was mine. Here is what two and a half years at a Silicon Valley startup taught me.](https://dev.to/raythurnevoid/i-worked-like-the-company-was-mine-here-is-what-two-and-a-half-years-at-a-silicon-valley-startup-3088)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-21",
+    "formattedDate": "October 21, 2026",
+    "news": [
+      {
+        "title": "Stuck in the same dev.to topics? An open model fixed it.",
+        "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My OSS Projects: dets",
+        "link": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
+        "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Four small problems from shipping a local-first task app",
+        "link": "https://dev.to/pixari/four-small-problems-from-shipping-a-local-first-task-app-3kpe",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🚀 New React Challenge: Live dashboard",
+        "link": "https://dev.to/reactchallenges/new-react-challenge-live-dashboard-73n",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
+        "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-20",
     "formattedDate": "October 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Aureform UI: an open-source Next.js kit with an appearance studio",
         "link": "https://dev.to/terrizoaguimor/aureform-ui-an-open-source-nextjs-kit-with-an-appearance-studio-3ld",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-18",
-    "formattedDate": "October 18, 2026",
-    "news": [
-      {
-        "title": "I Built a New Tab Extension for DEV",
-        "link": "https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Making a 166,000-neuron brain bit-exact on any GPU",
-        "link": "https://dev.to/alexandros_titonis_43d6ea/making-a-166000-neuron-brain-bit-exact-on-any-gpu-59p2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "One Request, Many Callers: Coalescing Duplicate fetch() Calls in JavaScript",
-        "link": "https://dev.to/zainalsaadi/one-request-many-callers-coalescing-duplicate-fetch-calls-in-javascript-13k2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load",
-        "link": "https://dev.to/elena_rostova/benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-2bap",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why my Electron renderer can't change anything itself",
-        "link": "https://dev.to/nicholasflemmer/why-my-electron-renderer-cant-change-anything-itself-1ea1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I worked like the company was mine. Here is what two and a half years at a Silicon Valley startup taught me.",
-        "link": "https://dev.to/raythurnevoid/i-worked-like-the-company-was-mine-here-is-what-two-and-a-half-years-at-a-silicon-valley-startup-3088",
         "source": "Dev.to React"
       },
       {
