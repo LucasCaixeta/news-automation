@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 21, 2026)
+### Today's Updates (October 22, 2026)
+
+#### Dev.to JavaScript
+
+- [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
+- [Your Tab Was Discarded, and Nothing in Your Code Was Told](https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm)
+- [Let's learn React 19.3 by building a Bug Zoo](https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c)
+
+#### Dev.to React
+
+- [Building a Live UI Schema Playground for OpenEverest (LFX Mentorship 2026)](https://dev.to/denyme24/building-a-live-ui-schema-playground-for-openeverest-lfx-mentorship-2026-58m6)
+- [Let's learn React 19.3 by building a Bug Zoo](https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c)
+- [Context Into the useContext React Hook](https://dev.to/ekomjah/context-into-the-usecontext-react-hook-6ap)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 20, 2026)
+### 2 Days Ago (October 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Make your v0 or Cursor app stop looking AI-built in 10 minutes](https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg)
 - [A liquid glass tab bar: the magnifying lens is a scaled copy of the bar](https://dev.to/teodoravadani/a-liquid-glass-tab-bar-the-magnifying-lens-is-a-scaled-copy-of-the-bar-2g65)
 - [How I keep a living system map of Mầm Văn — every change, before & after](https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 19, 2026)
-
-#### Dev.to JavaScript
-
-- [They Charge Me to Export My Own WhatsApp Contacts. I Shipped a Free Alternative in One Day 🔓](https://dev.to/md8_habibullah/they-charge-mr-to-export-my-own-whatsapp-contacts-i-shipped-a-free-alternative-in-one-day-4n9g)
-- [Type-Safe Model Routing in a Turborepo: Integrating LobeHub Without Blowing Up tsc](https://dev.to/ryan_gallagher/type-safe-model-routing-in-a-turborepo-integrating-lobehub-without-blowing-up-tsc-3gg4)
-- [I deleted my Rust helper and moved zip extraction into the browser. Here's what it cost.](https://dev.to/constantin_alex_05c9c24b7/i-deleted-my-rust-helper-and-moved-zip-extraction-into-the-browser-heres-what-it-cost-51l8)
-
-#### Dev.to React
-
-- [Expose a React Workflow to AI Agents with WebMCP](https://dev.to/raju_dandigam/expose-a-react-workflow-to-ai-agents-with-webmcp-2ba9)
-- [Why Your Modern Next.js/React Site is Invisible to Perplexity & GPTBot (And How to Fix It)](https://dev.to/tarikmostafa/why-your-modern-nextjsreact-site-is-invisible-to-perplexity-gptbot-and-how-to-fix-it-19h1)
-- [Aureform UI: an open-source Next.js kit with an appearance studio](https://dev.to/terrizoaguimor/aureform-ui-an-open-source-nextjs-kit-with-an-appearance-studio-3ld)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-22",
+    "formattedDate": "October 22, 2026",
+    "news": [
+      {
+        "title": "Stuck in the same dev.to topics? An open model fixed it.",
+        "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
+        "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Let's learn React 19.3 by building a Bug Zoo",
+        "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Live UI Schema Playground for OpenEverest (LFX Mentorship 2026)",
+        "link": "https://dev.to/denyme24/building-a-live-ui-schema-playground-for-openeverest-lfx-mentorship-2026-58m6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Let's learn React 19.3 by building a Bug Zoo",
+        "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Context Into the useContext React Hook",
+        "link": "https://dev.to/ekomjah/context-into-the-usecontext-react-hook-6ap",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-21",
     "formattedDate": "October 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I keep a living system map of Mầm Văn — every change, before & after",
         "link": "https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-19",
-    "formattedDate": "October 19, 2026",
-    "news": [
-      {
-        "title": "They Charge Me to Export My Own WhatsApp Contacts. I Shipped a Free Alternative in One Day 🔓",
-        "link": "https://dev.to/md8_habibullah/they-charge-mr-to-export-my-own-whatsapp-contacts-i-shipped-a-free-alternative-in-one-day-4n9g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Type-Safe Model Routing in a Turborepo: Integrating LobeHub Without Blowing Up tsc",
-        "link": "https://dev.to/ryan_gallagher/type-safe-model-routing-in-a-turborepo-integrating-lobehub-without-blowing-up-tsc-3gg4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I deleted my Rust helper and moved zip extraction into the browser. Here's what it cost.",
-        "link": "https://dev.to/constantin_alex_05c9c24b7/i-deleted-my-rust-helper-and-moved-zip-extraction-into-the-browser-heres-what-it-cost-51l8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Expose a React Workflow to AI Agents with WebMCP",
-        "link": "https://dev.to/raju_dandigam/expose-a-react-workflow-to-ai-agents-with-webmcp-2ba9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why Your Modern Next.js/React Site is Invisible to Perplexity & GPTBot (And How to Fix It)",
-        "link": "https://dev.to/tarikmostafa/why-your-modern-nextjsreact-site-is-invisible-to-perplexity-gptbot-and-how-to-fix-it-19h1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Aureform UI: an open-source Next.js kit with an appearance studio",
-        "link": "https://dev.to/terrizoaguimor/aureform-ui-an-open-source-nextjs-kit-with-an-appearance-studio-3ld",
         "source": "Dev.to React"
       },
       {
