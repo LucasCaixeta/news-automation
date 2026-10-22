@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
-- [Your Tab Was Discarded, and Nothing in Your Code Was Told](https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm)
-- [Let's learn React 19.3 by building a Bug Zoo](https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c)
+- [I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself.](https://dev.to/anzerayoob/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself-34aj)
+- [Why Your React Animations Feel Slow Even at 60 FPS](https://dev.to/jyotipathak__/why-your-react-animations-feel-slow-even-at-60-fps-171m)
 
 #### Dev.to React
 
-- [Building a Live UI Schema Playground for OpenEverest (LFX Mentorship 2026)](https://dev.to/denyme24/building-a-live-ui-schema-playground-for-openeverest-lfx-mentorship-2026-58m6)
-- [Let's learn React 19.3 by building a Bug Zoo](https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c)
-- [Context Into the useContext React Hook](https://dev.to/ekomjah/context-into-the-usecontext-react-hook-6ap)
+- [Why Your React Animations Feel Slow Even at 60 FPS](https://dev.to/jyotipathak__/why-your-react-animations-feel-slow-even-at-60-fps-171m)
+- [The 129 elements that only existed once JavaScript loaded](https://dev.to/samuelfmedeiros/the-129-elements-that-only-existed-once-javascript-loaded-k23)
+- [Add a drag and drop email builder to your React app (full tutorial)](https://dev.to/mailkaro/add-a-drag-and-drop-email-builder-to-your-react-app-full-tutorial-p92)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
-        "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+        "title": "I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself.",
+        "link": "https://dev.to/anzerayoob/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself-34aj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Let's learn React 19.3 by building a Bug Zoo",
-        "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+        "title": "Why Your React Animations Feel Slow Even at 60 FPS",
+        "link": "https://dev.to/jyotipathak__/why-your-react-animations-feel-slow-even-at-60-fps-171m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Live UI Schema Playground for OpenEverest (LFX Mentorship 2026)",
-        "link": "https://dev.to/denyme24/building-a-live-ui-schema-playground-for-openeverest-lfx-mentorship-2026-58m6",
+        "title": "Why Your React Animations Feel Slow Even at 60 FPS",
+        "link": "https://dev.to/jyotipathak__/why-your-react-animations-feel-slow-even-at-60-fps-171m",
         "source": "Dev.to React"
       },
       {
-        "title": "Let's learn React 19.3 by building a Bug Zoo",
-        "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+        "title": "The 129 elements that only existed once JavaScript loaded",
+        "link": "https://dev.to/samuelfmedeiros/the-129-elements-that-only-existed-once-javascript-loaded-k23",
         "source": "Dev.to React"
       },
       {
-        "title": "Context Into the useContext React Hook",
-        "link": "https://dev.to/ekomjah/context-into-the-usecontext-react-hook-6ap",
+        "title": "Add a drag and drop email builder to your React app (full tutorial)",
+        "link": "https://dev.to/mailkaro/add-a-drag-and-drop-email-builder-to-your-react-app-full-tutorial-p92",
         "source": "Dev.to React"
       },
       {
