@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
-- [Your Autoplay Works Because Chrome Has Learned to Trust You](https://dev.to/session_replay/your-autoplay-works-because-chrome-has-learned-to-trust-you-1dof)
-- [I Built 50 PDF Tools That Never Upload Your Files — Here's How They Run Entirely in the Browser](https://dev.to/mohsinakram91/i-built-50-pdf-tools-that-never-upload-your-files-heres-how-they-run-entirely-in-the-browser-41o7)
+- [🔢 The JSON Numbers JavaScript Quietly Corrupts](https://dev.to/alexi_be3/the-json-numbers-javascript-quietly-corrupts-m2k)
+- [New challenge: Build a gamer sign-up form](https://dev.to/frontendmentor/new-challenge-build-a-gamer-sign-up-form-5fl)
 
 #### Dev.to React
 
-- [Best Open Source React Calendar Libraries for Scheduling in 2026](https://dev.to/hadil/best-open-source-react-calendar-libraries-for-scheduling-in-2026-4h11)
-- [How I built MetroNow Chennai: live train tracking for Chennai Metro](https://dev.to/niranjan_4407/how-i-built-metronow-chennai-live-train-tracking-for-chennai-metro-21p7)
-- [An OTP input that feels native: autofill, paste across six boxes, and a shake on error](https://dev.to/teodoravadani/an-otp-input-that-feels-native-autofill-paste-across-six-boxes-and-a-shake-on-error-3noj)
+- [84% of abandoned v0 apps run a known-exploited Next.js](https://dev.to/macrocyber/84-of-abandoned-v0-apps-run-a-known-exploited-nextjs-5hm6)
+- [Matita 0.4.0: 60 new icons, and one number from sketchy to exact](https://dev.to/matita/matita-040-60-new-icons-and-one-number-from-sketchy-to-exact-3di4)
+- [We Built an AI Screenshot-to-Report System. The Hard Part Was Knowing When Not to Trust the AI.](https://dev.to/axon-osint/we-built-an-ai-screenshot-to-report-system-the-hard-part-was-knowing-when-not-to-trust-the-ai-35p5)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Your Autoplay Works Because Chrome Has Learned to Trust You",
-        "link": "https://dev.to/session_replay/your-autoplay-works-because-chrome-has-learned-to-trust-you-1dof",
+        "title": "🔢 The JSON Numbers JavaScript Quietly Corrupts",
+        "link": "https://dev.to/alexi_be3/the-json-numbers-javascript-quietly-corrupts-m2k",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Built 50 PDF Tools That Never Upload Your Files — Here's How They Run Entirely in the Browser",
-        "link": "https://dev.to/mohsinakram91/i-built-50-pdf-tools-that-never-upload-your-files-heres-how-they-run-entirely-in-the-browser-41o7",
+        "title": "New challenge: Build a gamer sign-up form",
+        "link": "https://dev.to/frontendmentor/new-challenge-build-a-gamer-sign-up-form-5fl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Best Open Source React Calendar Libraries for Scheduling in 2026",
-        "link": "https://dev.to/hadil/best-open-source-react-calendar-libraries-for-scheduling-in-2026-4h11",
+        "title": "84% of abandoned v0 apps run a known-exploited Next.js",
+        "link": "https://dev.to/macrocyber/84-of-abandoned-v0-apps-run-a-known-exploited-nextjs-5hm6",
         "source": "Dev.to React"
       },
       {
-        "title": "How I built MetroNow Chennai: live train tracking for Chennai Metro",
-        "link": "https://dev.to/niranjan_4407/how-i-built-metronow-chennai-live-train-tracking-for-chennai-metro-21p7",
+        "title": "Matita 0.4.0: 60 new icons, and one number from sketchy to exact",
+        "link": "https://dev.to/matita/matita-040-60-new-icons-and-one-number-from-sketchy-to-exact-3di4",
         "source": "Dev.to React"
       },
       {
-        "title": "An OTP input that feels native: autofill, paste across six boxes, and a shake on error",
-        "link": "https://dev.to/teodoravadani/an-otp-input-that-feels-native-autofill-paste-across-six-boxes-and-a-shake-on-error-3noj",
+        "title": "We Built an AI Screenshot-to-Report System. The Hard Part Was Knowing When Not to Trust the AI.",
+        "link": "https://dev.to/axon-osint/we-built-an-ai-screenshot-to-report-system-the-hard-part-was-knowing-when-not-to-trust-the-ai-35p5",
         "source": "Dev.to React"
       },
       {
