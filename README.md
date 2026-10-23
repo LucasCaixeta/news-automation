@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 22, 2026)
+### Today's Updates (October 23, 2026)
+
+#### Dev.to JavaScript
+
+- [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
+- [Your Autoplay Works Because Chrome Has Learned to Trust You](https://dev.to/session_replay/your-autoplay-works-because-chrome-has-learned-to-trust-you-1dof)
+- [I Built 50 PDF Tools That Never Upload Your Files — Here's How They Run Entirely in the Browser](https://dev.to/mohsinakram91/i-built-50-pdf-tools-that-never-upload-your-files-heres-how-they-run-entirely-in-the-browser-41o7)
+
+#### Dev.to React
+
+- [Best Open Source React Calendar Libraries for Scheduling in 2026](https://dev.to/hadil/best-open-source-react-calendar-libraries-for-scheduling-in-2026-4h11)
+- [How I built MetroNow Chennai: live train tracking for Chennai Metro](https://dev.to/niranjan_4407/how-i-built-metronow-chennai-live-train-tracking-for-chennai-metro-21p7)
+- [An OTP input that feels native: autofill, paste across six boxes, and a shake on error](https://dev.to/teodoravadani/an-otp-input-that-feels-native-autofill-paste-across-six-boxes-and-a-shake-on-error-3noj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 21, 2026)
+### 2 Days Ago (October 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Turning a Cheap Android Photo Frame into an Ambient Family Dashboard](https://dev.to/vitorstick/turning-a-cheap-android-photo-frame-into-an-ambient-family-dashboard-4l15)
 - [🦥 Solace: Productivity That Adapts to Your Energy](https://dev.to/sakshidb/solace-productivity-that-adapts-to-your-energy-3mi8)
 - [Notes from a 2 AM On-Call: Supabase Realtime Connection Reset Under Next.js SSR Load](https://dev.to/elena_rostova/notes-from-a-2-am-on-call-supabase-realtime-connection-reset-under-nextjs-ssr-load-1dj3)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 20, 2026)
-
-#### Dev.to JavaScript
-
-- [TypeScript Is Unsound on Purpose: 7 Programs That Type-Check, Then Crash](https://dev.to/gabrielanhaia/typescript-is-unsound-on-purpose-7-programs-that-type-check-then-crash-9go)
-- [UX Icons JS : les icônes de Symfony UX, enfin en JavaScript, React et Vue](https://dev.to/guillaume_sainthillier/ux-icons-js-les-icones-de-symfony-ux-enfin-en-javascript-react-et-vue-c0h)
-- [Turn a list of company names into hiring signals (8 ATS platforms, no scraping of HTML)](https://dev.to/kunnu_data/turn-a-list-of-company-names-into-hiring-signals-8-ats-platforms-no-scraping-of-html-1cf1)
-
-#### Dev.to React
-
-- [Make your v0 or Cursor app stop looking AI-built in 10 minutes](https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg)
-- [A liquid glass tab bar: the magnifying lens is a scaled copy of the bar](https://dev.to/teodoravadani/a-liquid-glass-tab-bar-the-magnifying-lens-is-a-scaled-copy-of-the-bar-2g65)
-- [How I keep a living system map of Mầm Văn — every change, before & after](https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-23",
+    "formattedDate": "October 23, 2026",
+    "news": [
+      {
+        "title": "Stuck in the same dev.to topics? An open model fixed it.",
+        "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your Autoplay Works Because Chrome Has Learned to Trust You",
+        "link": "https://dev.to/session_replay/your-autoplay-works-because-chrome-has-learned-to-trust-you-1dof",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built 50 PDF Tools That Never Upload Your Files — Here's How They Run Entirely in the Browser",
+        "link": "https://dev.to/mohsinakram91/i-built-50-pdf-tools-that-never-upload-your-files-heres-how-they-run-entirely-in-the-browser-41o7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Best Open Source React Calendar Libraries for Scheduling in 2026",
+        "link": "https://dev.to/hadil/best-open-source-react-calendar-libraries-for-scheduling-in-2026-4h11",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I built MetroNow Chennai: live train tracking for Chennai Metro",
+        "link": "https://dev.to/niranjan_4407/how-i-built-metronow-chennai-live-train-tracking-for-chennai-metro-21p7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "An OTP input that feels native: autofill, paste across six boxes, and a shake on error",
+        "link": "https://dev.to/teodoravadani/an-otp-input-that-feels-native-autofill-paste-across-six-boxes-and-a-shake-on-error-3noj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-22",
     "formattedDate": "October 22, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Notes from a 2 AM On-Call: Supabase Realtime Connection Reset Under Next.js SSR Load",
         "link": "https://dev.to/elena_rostova/notes-from-a-2-am-on-call-supabase-realtime-connection-reset-under-nextjs-ssr-load-1dj3",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-20",
-    "formattedDate": "October 20, 2026",
-    "news": [
-      {
-        "title": "TypeScript Is Unsound on Purpose: 7 Programs That Type-Check, Then Crash",
-        "link": "https://dev.to/gabrielanhaia/typescript-is-unsound-on-purpose-7-programs-that-type-check-then-crash-9go",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "UX Icons JS : les icônes de Symfony UX, enfin en JavaScript, React et Vue",
-        "link": "https://dev.to/guillaume_sainthillier/ux-icons-js-les-icones-de-symfony-ux-enfin-en-javascript-react-et-vue-c0h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Turn a list of company names into hiring signals (8 ATS platforms, no scraping of HTML)",
-        "link": "https://dev.to/kunnu_data/turn-a-list-of-company-names-into-hiring-signals-8-ats-platforms-no-scraping-of-html-1cf1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Make your v0 or Cursor app stop looking AI-built in 10 minutes",
-        "link": "https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "A liquid glass tab bar: the magnifying lens is a scaled copy of the bar",
-        "link": "https://dev.to/teodoravadani/a-liquid-glass-tab-bar-the-magnifying-lens-is-a-scaled-copy-of-the-bar-2g65",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I keep a living system map of Mầm Văn — every change, before & after",
-        "link": "https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79",
         "source": "Dev.to React"
       },
       {
