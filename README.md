@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
-- [Animations without GSAP: what 111 free components use instead](https://dev.to/commonlayer/animations-without-gsap-what-111-free-components-use-instead-1364)
-- [I gave my AI chat a face in two lines of HTML (and built the 3D engine behind it)](https://dev.to/pouryaak/i-gave-my-ai-chat-a-face-in-two-lines-of-html-and-built-the-3d-engine-behind-it-4de0)
+- [AI agents were told my inputs were optional, then rejected for leaving them out 🤖](https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4)
+- [Harness Engineering for AI Agents: Hands On Tutorial](https://dev.to/vishalmysore/harness-engineering-for-ai-agents-hands-on-tutorial-556i)
 
 #### Dev.to React
 
-- [From Vibe Coding to Demo-Ready: Hardening a React Application with the Twelve-Factor App Methodology](https://dev.to/sandeep_chakravartty_219e/from-vibe-coding-to-demo-ready-hardening-a-react-application-with-the-twelve-factor-app-methodology-3ghe)
-- [The best UI component libraries for vibe coding in 2026](https://dev.to/escape_fromrussia/the-best-ui-component-libraries-for-vibe-coding-in-2026-37oi)
-- [Redux Refactoring Playbook: From Action-Types Soup to RTK Query — Without Rewriting the App](https://dev.to/veaceslav/redux-refactoring-playbook-from-action-types-soup-to-rtk-query-without-rewriting-the-app-5374)
+- [I turned my portfolio into a playground (plug a theme into a display to open it)](https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6)
+- [Add On-Device Summarization to React with Chrome's Summarizer API](https://dev.to/raju_dandigam/add-on-device-summarization-to-react-with-chromes-summarizer-api-1bkn)
+- [The AI Code Review: Catching Fragile Deep CSS Selectors Before They Ship](https://dev.to/maximlogunov/the-ai-code-review-catching-fragile-deep-css-selectors-before-they-ship-4g2h)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Animations without GSAP: what 111 free components use instead",
-        "link": "https://dev.to/commonlayer/animations-without-gsap-what-111-free-components-use-instead-1364",
+        "title": "AI agents were told my inputs were optional, then rejected for leaving them out 🤖",
+        "link": "https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I gave my AI chat a face in two lines of HTML (and built the 3D engine behind it)",
-        "link": "https://dev.to/pouryaak/i-gave-my-ai-chat-a-face-in-two-lines-of-html-and-built-the-3d-engine-behind-it-4de0",
+        "title": "Harness Engineering for AI Agents: Hands On Tutorial",
+        "link": "https://dev.to/vishalmysore/harness-engineering-for-ai-agents-hands-on-tutorial-556i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "From Vibe Coding to Demo-Ready: Hardening a React Application with the Twelve-Factor App Methodology",
-        "link": "https://dev.to/sandeep_chakravartty_219e/from-vibe-coding-to-demo-ready-hardening-a-react-application-with-the-twelve-factor-app-methodology-3ghe",
+        "title": "I turned my portfolio into a playground (plug a theme into a display to open it)",
+        "link": "https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6",
         "source": "Dev.to React"
       },
       {
-        "title": "The best UI component libraries for vibe coding in 2026",
-        "link": "https://dev.to/escape_fromrussia/the-best-ui-component-libraries-for-vibe-coding-in-2026-37oi",
+        "title": "Add On-Device Summarization to React with Chrome's Summarizer API",
+        "link": "https://dev.to/raju_dandigam/add-on-device-summarization-to-react-with-chromes-summarizer-api-1bkn",
         "source": "Dev.to React"
       },
       {
-        "title": "Redux Refactoring Playbook: From Action-Types Soup to RTK Query — Without Rewriting the App",
-        "link": "https://dev.to/veaceslav/redux-refactoring-playbook-from-action-types-soup-to-rtk-query-without-rewriting-the-app-5374",
+        "title": "The AI Code Review: Catching Fragile Deep CSS Selectors Before They Ship",
+        "link": "https://dev.to/maximlogunov/the-ai-code-review-catching-fragile-deep-css-selectors-before-they-ship-4g2h",
         "source": "Dev.to React"
       },
       {
