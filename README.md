@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Which Programming Language Is the Best Overall? Python vs JavaScript vs Java vs C++ vs Rust](https://dev.to/akhourianmolkumar/which-programming-language-is-the-best-overall-python-vs-javascript-vs-java-vs-c-vs-rust-1md1)
-- [My Vue Library Had 99% Line Coverage. Mutation Testing Found Two Bugs Anyway.](https://dev.to/navidjaberi/my-vue-library-had-99-line-coverage-mutation-testing-found-two-bugs-anyway-d5b)
-- [GCS Write Errors Ran for 12.5 Hours in us-central1. Spool Uploads to Disk, Drain Later](https://dev.to/gabrielanhaia/gcs-write-errors-ran-for-125-hours-in-us-central1-spool-uploads-to-disk-drain-later-2php)
+- [My Reducer's Switch Stopped Being Exhaustive. `as const` Fixed It.](https://dev.to/parsajiravand/my-reducers-switch-stopped-being-exhaustive-as-const-fixed-it-4aa4)
+- [Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012](https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn)
+- [Spoofing the camera in Google Meet Zoom Teams and more](https://dev.to/restyvod/spoofing-the-camera-in-google-meet-zoom-teams-and-more-23ea)
 
 #### Dev.to React
 
 - [I turned my portfolio into a playground (plug a theme into a display to open it)](https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6)
-- [Bear UI 1.3.5 — charts, AI, code, maps, and kanban now have their own packages](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-135-charts-ai-code-maps-and-kanban-now-have-their-own-packages-1ofo)
-- [Next.js vs Remix in 2026: Which Should You Choose for Your SaaS?](https://dev.to/mrshivamtiwari/nextjs-vs-remix-in-2026-which-should-you-choose-for-your-saas-nfb)
+- [I built an OpenAPI client generator where you only ship the endpoints you import](https://dev.to/alirezxi/i-built-an-openapi-client-generator-where-you-only-ship-the-endpoints-you-import-2k50)
+- [Mastering Advanced Features and Techniques of JEST React Testing Library](https://dev.to/sufiyan_akbani/mastering-advanced-features-and-techniques-of-jest-react-testing-library-gia)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 25, 2026",
     "news": [
       {
-        "title": "Which Programming Language Is the Best Overall? Python vs JavaScript vs Java vs C++ vs Rust",
-        "link": "https://dev.to/akhourianmolkumar/which-programming-language-is-the-best-overall-python-vs-javascript-vs-java-vs-c-vs-rust-1md1",
+        "title": "My Reducer's Switch Stopped Being Exhaustive. `as const` Fixed It.",
+        "link": "https://dev.to/parsajiravand/my-reducers-switch-stopped-being-exhaustive-as-const-fixed-it-4aa4",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My Vue Library Had 99% Line Coverage. Mutation Testing Found Two Bugs Anyway.",
-        "link": "https://dev.to/navidjaberi/my-vue-library-had-99-line-coverage-mutation-testing-found-two-bugs-anyway-d5b",
+        "title": "Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012",
+        "link": "https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "GCS Write Errors Ran for 12.5 Hours in us-central1. Spool Uploads to Disk, Drain Later",
-        "link": "https://dev.to/gabrielanhaia/gcs-write-errors-ran-for-125-hours-in-us-central1-spool-uploads-to-disk-drain-later-2php",
+        "title": "Spoofing the camera in Google Meet Zoom Teams and more",
+        "link": "https://dev.to/restyvod/spoofing-the-camera-in-google-meet-zoom-teams-and-more-23ea",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Bear UI 1.3.5 — charts, AI, code, maps, and kanban now have their own packages",
-        "link": "https://dev.to/john_yaghobieh_8f294091f6/bear-ui-135-charts-ai-code-maps-and-kanban-now-have-their-own-packages-1ofo",
+        "title": "I built an OpenAPI client generator where you only ship the endpoints you import",
+        "link": "https://dev.to/alirezxi/i-built-an-openapi-client-generator-where-you-only-ship-the-endpoints-you-import-2k50",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js vs Remix in 2026: Which Should You Choose for Your SaaS?",
-        "link": "https://dev.to/mrshivamtiwari/nextjs-vs-remix-in-2026-which-should-you-choose-for-your-saas-nfb",
+        "title": "Mastering Advanced Features and Techniques of JEST React Testing Library",
+        "link": "https://dev.to/sufiyan_akbani/mastering-advanced-features-and-techniques-of-jest-react-testing-library-gia",
         "source": "Dev.to React"
       },
       {
