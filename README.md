@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.](https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460)
-- [What is props reactivity loss in Vue and how to avoid it?](https://dev.to/jacobandrewsky/what-is-props-reactivity-loss-in-vue-and-how-to-avoid-it-52dl)
-- [In a Background Tab, setInterval(fn, 1000) Runs Once a Minute](https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5)
+- [A free AI chat + translation API on Cloudflare Workers AI (no credit card, ~5 minutes)](https://dev.to/falingbot/a-free-ai-chat-translation-api-on-cloudflare-workers-ai-no-credit-card-5-minutes-5807)
+- [FableCut Gets its Own Studio Which Agents Can Actually Use](https://dev.to/ronak_parmar_033c50d168b5/i-built-a-video-editor-that-ai-agents-can-actually-use-1kcd)
+- [How to Divide Work Across Threads in JavaScript: CPU Cores, Workload, and Smart Scheduling](https://dev.to/nishikantaray/how-to-divide-work-across-threads-in-javascript-cpu-cores-workload-and-smart-scheduling-45jb)
 
 #### Dev.to React
 
-- [AI-built waitlist forms in Next.js 16: 6 traps to check before launch (and the prompts that fix them)](https://dev.to/shipinanhour/ai-built-waitlist-forms-in-nextjs-16-6-traps-to-check-before-launch-and-the-prompts-that-fix-57dn)
-- [Browser Avatar Ingestion: Presigned Object Storage and Private Bucket Boundaries](https://dev.to/emersonprice3718/browser-avatar-ingestion-presigned-object-storage-and-private-bucket-boundaries-5eca)
-- [React Native vs React.js: Key Differences, Examples, and When to Use Each](https://dev.to/ansh_sheladiya/react-native-vs-reactjs-key-differences-examples-and-when-to-use-each-kf1)
+- [Our React App Worked Perfectly—Until Someone Closed Their Laptop](https://dev.to/axon-osint/our-react-app-worked-perfectly-until-someone-closed-their-laptop-3628)
+- [I asked Claude to explain an API request as a tiny machine](https://dev.to/m_ahmad/i-asked-claude-to-explain-an-api-request-as-a-tiny-machine-59op)
+- [Google saw 1 word on my Next.js homepage. A Suspense boundary was hiding everything else.](https://dev.to/101stand/google-saw-1-word-on-my-nextjs-homepage-a-suspense-boundary-was-hiding-everything-else-4ohe)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 26, 2026",
     "news": [
       {
-        "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
-        "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
+        "title": "A free AI chat + translation API on Cloudflare Workers AI (no credit card, ~5 minutes)",
+        "link": "https://dev.to/falingbot/a-free-ai-chat-translation-api-on-cloudflare-workers-ai-no-credit-card-5-minutes-5807",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "What is props reactivity loss in Vue and how to avoid it?",
-        "link": "https://dev.to/jacobandrewsky/what-is-props-reactivity-loss-in-vue-and-how-to-avoid-it-52dl",
+        "title": "FableCut Gets its Own Studio Which Agents Can Actually Use",
+        "link": "https://dev.to/ronak_parmar_033c50d168b5/i-built-a-video-editor-that-ai-agents-can-actually-use-1kcd",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "In a Background Tab, setInterval(fn, 1000) Runs Once a Minute",
-        "link": "https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5",
+        "title": "How to Divide Work Across Threads in JavaScript: CPU Cores, Workload, and Smart Scheduling",
+        "link": "https://dev.to/nishikantaray/how-to-divide-work-across-threads-in-javascript-cpu-cores-workload-and-smart-scheduling-45jb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AI-built waitlist forms in Next.js 16: 6 traps to check before launch (and the prompts that fix them)",
-        "link": "https://dev.to/shipinanhour/ai-built-waitlist-forms-in-nextjs-16-6-traps-to-check-before-launch-and-the-prompts-that-fix-57dn",
+        "title": "Our React App Worked Perfectly—Until Someone Closed Their Laptop",
+        "link": "https://dev.to/axon-osint/our-react-app-worked-perfectly-until-someone-closed-their-laptop-3628",
         "source": "Dev.to React"
       },
       {
-        "title": "Browser Avatar Ingestion: Presigned Object Storage and Private Bucket Boundaries",
-        "link": "https://dev.to/emersonprice3718/browser-avatar-ingestion-presigned-object-storage-and-private-bucket-boundaries-5eca",
+        "title": "I asked Claude to explain an API request as a tiny machine",
+        "link": "https://dev.to/m_ahmad/i-asked-claude-to-explain-an-api-request-as-a-tiny-machine-59op",
         "source": "Dev.to React"
       },
       {
-        "title": "React Native vs React.js: Key Differences, Examples, and When to Use Each",
-        "link": "https://dev.to/ansh_sheladiya/react-native-vs-reactjs-key-differences-examples-and-when-to-use-each-kf1",
+        "title": "Google saw 1 word on my Next.js homepage. A Suspense boundary was hiding everything else.",
+        "link": "https://dev.to/101stand/google-saw-1-word-on-my-nextjs-homepage-a-suspense-boundary-was-hiding-everything-else-4ohe",
         "source": "Dev.to React"
       },
       {
