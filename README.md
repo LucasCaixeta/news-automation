@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 26, 2026)
+### Today's Updates (October 27, 2026)
+
+#### Dev.to JavaScript
+
+- [Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.](https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460)
+- [TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again](https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp)
+- [O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML](https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30)
+
+#### Dev.to React
+
+- [TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again](https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp)
+- [Two Next.js traps: missing previews and missing server content](https://dev.to/radarmakers/two-nextjs-traps-missing-previews-and-missing-server-content-2blo)
+- [The v0 dashboard look: 5 things I change first in Next.js + Tailwind](https://dev.to/teodoravadani/the-v0-dashboard-look-5-things-i-change-first-in-nextjs-tailwind-502i)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 25, 2026)
+### 2 Days Ago (October 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I turned my portfolio into a playground (plug a theme into a display to open it)](https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6)
 - [I built an OpenAPI client generator where you only ship the endpoints you import](https://dev.to/alirezxi/i-built-an-openapi-client-generator-where-you-only-ship-the-endpoints-you-import-2k50)
 - [Mastering Advanced Features and Techniques of JEST React Testing Library](https://dev.to/sufiyan_akbani/mastering-advanced-features-and-techniques-of-jest-react-testing-library-gia)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 24, 2026)
-
-#### Dev.to JavaScript
-
-- [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
-- [AI agents were told my inputs were optional, then rejected for leaving them out 🤖](https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4)
-- [Harness Engineering for AI Agents: Hands On Tutorial](https://dev.to/vishalmysore/harness-engineering-for-ai-agents-hands-on-tutorial-556i)
-
-#### Dev.to React
-
-- [I turned my portfolio into a playground (plug a theme into a display to open it)](https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6)
-- [Add On-Device Summarization to React with Chrome's Summarizer API](https://dev.to/raju_dandigam/add-on-device-summarization-to-react-with-chromes-summarizer-api-1bkn)
-- [The AI Code Review: Catching Fragile Deep CSS Selectors Before They Ship](https://dev.to/maximlogunov/the-ai-code-review-catching-fragile-deep-css-selectors-before-they-ship-4g2h)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-27",
+    "formattedDate": "October 27, 2026",
+    "news": [
+      {
+        "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
+        "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+        "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
+        "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+        "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Two Next.js traps: missing previews and missing server content",
+        "link": "https://dev.to/radarmakers/two-nextjs-traps-missing-previews-and-missing-server-content-2blo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "The v0 dashboard look: 5 things I change first in Next.js + Tailwind",
+        "link": "https://dev.to/teodoravadani/the-v0-dashboard-look-5-things-i-change-first-in-nextjs-tailwind-502i",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-26",
     "formattedDate": "October 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Mastering Advanced Features and Techniques of JEST React Testing Library",
         "link": "https://dev.to/sufiyan_akbani/mastering-advanced-features-and-techniques-of-jest-react-testing-library-gia",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-24",
-    "formattedDate": "October 24, 2026",
-    "news": [
-      {
-        "title": "Stuck in the same dev.to topics? An open model fixed it.",
-        "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "AI agents were told my inputs were optional, then rejected for leaving them out 🤖",
-        "link": "https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Harness Engineering for AI Agents: Hands On Tutorial",
-        "link": "https://dev.to/vishalmysore/harness-engineering-for-ai-agents-hands-on-tutorial-556i",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I turned my portfolio into a playground (plug a theme into a display to open it)",
-        "link": "https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Add On-Device Summarization to React with Chrome's Summarizer API",
-        "link": "https://dev.to/raju_dandigam/add-on-device-summarization-to-react-with-chromes-summarizer-api-1bkn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The AI Code Review: Catching Fragile Deep CSS Selectors Before They Ship",
-        "link": "https://dev.to/maximlogunov/the-ai-code-review-catching-fragile-deep-css-selectors-before-they-ship-4g2h",
         "source": "Dev.to React"
       },
       {
