@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Your "use server" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)](https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib)
 - [Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.](https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460)
-- [TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again](https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp)
-- [O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML](https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30)
+- [console.log is a legitimate debugging tool](https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp)
 
 #### Dev.to React
 
+- [Your "use server" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)](https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib)
 - [TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again](https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp)
-- [Two Next.js traps: missing previews and missing server content](https://dev.to/radarmakers/two-nextjs-traps-missing-previews-and-missing-server-content-2blo)
-- [The v0 dashboard look: 5 things I change first in Next.js + Tailwind](https://dev.to/teodoravadani/the-v0-dashboard-look-5-things-i-change-first-in-nextjs-tailwind-502i)
+- [Things That Bit Me Wrapping the YouTube IFrame API for a Kids' App](https://dev.to/ystasyuk/things-that-bit-me-wrapping-the-youtube-iframe-api-for-a-kids-app-2n91)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 27, 2026",
     "news": [
       {
+        "title": "Your \"use server\" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)",
+        "link": "https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
         "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
-        "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+        "title": "console.log is a legitimate debugging tool",
+        "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
-        "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
-        "source": "Dev.to JavaScript"
+        "title": "Your \"use server\" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)",
+        "link": "https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib",
+        "source": "Dev.to React"
       },
       {
         "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Two Next.js traps: missing previews and missing server content",
-        "link": "https://dev.to/radarmakers/two-nextjs-traps-missing-previews-and-missing-server-content-2blo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The v0 dashboard look: 5 things I change first in Next.js + Tailwind",
-        "link": "https://dev.to/teodoravadani/the-v0-dashboard-look-5-things-i-change-first-in-nextjs-tailwind-502i",
+        "title": "Things That Bit Me Wrapping the YouTube IFrame API for a Kids' App",
+        "link": "https://dev.to/ystasyuk/things-that-bit-me-wrapping-the-youtube-iframe-api-for-a-kids-app-2n91",
         "source": "Dev.to React"
       },
       {
