@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 27, 2026)
+### Today's Updates (October 28, 2026)
+
+#### Dev.to JavaScript
+
+- [What Hermes is fast at, and what it isn't](https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn)
+- [From Code to Culture: Building 101 Indian Monuments in 3D](https://dev.to/amananandrai/101-indian-monuments-modelled-in-the-browser-g4f)
+- [My OSS Projects: Codegen](https://dev.to/florianrappl/my-oss-projects-codegen-2cai)
+
+#### Dev.to React
+
+- [TypeScript Tuples in 2026: Labeled Elements, Variadic Spreads, and When a Tuple Beats an Interface](https://dev.to/jsmanifest/typescript-tuples-in-2026-labeled-elements-variadic-spreads-and-when-a-tuple-beats-an-interface-29i6)
+- [Notes from a 2 AM On-Call: Next.js Server Actions Silently Swallowing Zod Errors in Production](https://dev.to/elena_rostova/notes-from-a-2-am-on-call-nextjs-server-actions-silently-swallowing-zod-errors-in-production-4o69)
+- [useSearchNavigate: Type-Safe URL State Without the Drift](https://dev.to/saiful7778/usesearchnavigate-type-safe-url-state-without-the-drift-b0h)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 26, 2026)
+### 2 Days Ago (October 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Our React App Worked Perfectly—Until Someone Closed Their Laptop](https://dev.to/axon-osint/our-react-app-worked-perfectly-until-someone-closed-their-laptop-3628)
 - [I asked Claude to explain an API request as a tiny machine](https://dev.to/m_ahmad/i-asked-claude-to-explain-an-api-request-as-a-tiny-machine-59op)
 - [Google saw 1 word on my Next.js homepage. A Suspense boundary was hiding everything else.](https://dev.to/101stand/google-saw-1-word-on-my-nextjs-homepage-a-suspense-boundary-was-hiding-everything-else-4ohe)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 25, 2026)
-
-#### Dev.to JavaScript
-
-- [My Reducer's Switch Stopped Being Exhaustive. `as const` Fixed It.](https://dev.to/parsajiravand/my-reducers-switch-stopped-being-exhaustive-as-const-fixed-it-4aa4)
-- [Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012](https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn)
-- [Spoofing the camera in Google Meet Zoom Teams and more](https://dev.to/restyvod/spoofing-the-camera-in-google-meet-zoom-teams-and-more-23ea)
-
-#### Dev.to React
-
-- [I turned my portfolio into a playground (plug a theme into a display to open it)](https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6)
-- [I built an OpenAPI client generator where you only ship the endpoints you import](https://dev.to/alirezxi/i-built-an-openapi-client-generator-where-you-only-ship-the-endpoints-you-import-2k50)
-- [Mastering Advanced Features and Techniques of JEST React Testing Library](https://dev.to/sufiyan_akbani/mastering-advanced-features-and-techniques-of-jest-react-testing-library-gia)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-28",
+    "formattedDate": "October 28, 2026",
+    "news": [
+      {
+        "title": "What Hermes is fast at, and what it isn't",
+        "link": "https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "From Code to Culture: Building 101 Indian Monuments in 3D",
+        "link": "https://dev.to/amananandrai/101-indian-monuments-modelled-in-the-browser-g4f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My OSS Projects: Codegen",
+        "link": "https://dev.to/florianrappl/my-oss-projects-codegen-2cai",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript Tuples in 2026: Labeled Elements, Variadic Spreads, and When a Tuple Beats an Interface",
+        "link": "https://dev.to/jsmanifest/typescript-tuples-in-2026-labeled-elements-variadic-spreads-and-when-a-tuple-beats-an-interface-29i6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Notes from a 2 AM On-Call: Next.js Server Actions Silently Swallowing Zod Errors in Production",
+        "link": "https://dev.to/elena_rostova/notes-from-a-2-am-on-call-nextjs-server-actions-silently-swallowing-zod-errors-in-production-4o69",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "useSearchNavigate: Type-Safe URL State Without the Drift",
+        "link": "https://dev.to/saiful7778/usesearchnavigate-type-safe-url-state-without-the-drift-b0h",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-27",
     "formattedDate": "October 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Google saw 1 word on my Next.js homepage. A Suspense boundary was hiding everything else.",
         "link": "https://dev.to/101stand/google-saw-1-word-on-my-nextjs-homepage-a-suspense-boundary-was-hiding-everything-else-4ohe",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-25",
-    "formattedDate": "October 25, 2026",
-    "news": [
-      {
-        "title": "My Reducer's Switch Stopped Being Exhaustive. `as const` Fixed It.",
-        "link": "https://dev.to/parsajiravand/my-reducers-switch-stopped-being-exhaustive-as-const-fixed-it-4aa4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012",
-        "link": "https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Spoofing the camera in Google Meet Zoom Teams and more",
-        "link": "https://dev.to/restyvod/spoofing-the-camera-in-google-meet-zoom-teams-and-more-23ea",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I turned my portfolio into a playground (plug a theme into a display to open it)",
-        "link": "https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built an OpenAPI client generator where you only ship the endpoints you import",
-        "link": "https://dev.to/alirezxi/i-built-an-openapi-client-generator-where-you-only-ship-the-endpoints-you-import-2k50",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Mastering Advanced Features and Techniques of JEST React Testing Library",
-        "link": "https://dev.to/sufiyan_akbani/mastering-advanced-features-and-techniques-of-jest-react-testing-library-gia",
         "source": "Dev.to React"
       },
       {
