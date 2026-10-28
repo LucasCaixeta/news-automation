@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Vite+ 1.0 Is Out. You Don't Need ESLint or Prettier Anymore](https://dev.to/erikch/vite-10-is-out-you-dont-need-eslint-or-prettier-anymore-3iko)
 - [What Hermes is fast at, and what it isn't](https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn)
-- [From Code to Culture: Building 101 Indian Monuments in 3D](https://dev.to/amananandrai/101-indian-monuments-modelled-in-the-browser-g4f)
 - [My OSS Projects: Codegen](https://dev.to/florianrappl/my-oss-projects-codegen-2cai)
 
 #### Dev.to React
 
-- [TypeScript Tuples in 2026: Labeled Elements, Variadic Spreads, and When a Tuple Beats an Interface](https://dev.to/jsmanifest/typescript-tuples-in-2026-labeled-elements-variadic-spreads-and-when-a-tuple-beats-an-interface-29i6)
+- [Why Building a Reliable Calendar UI Is Harder Than It Looks](https://dev.to/nehamangla/why-building-a-reliable-calendar-ui-is-harder-than-it-looks-5e2c)
 - [Notes from a 2 AM On-Call: Next.js Server Actions Silently Swallowing Zod Errors in Production](https://dev.to/elena_rostova/notes-from-a-2-am-on-call-nextjs-server-actions-silently-swallowing-zod-errors-in-production-4o69)
-- [useSearchNavigate: Type-Safe URL State Without the Drift](https://dev.to/saiful7778/usesearchnavigate-type-safe-url-state-without-the-drift-b0h)
+- [There are countless i18n tools. I built another one anyway.](https://dev.to/signorbusi/there-are-countless-i18n-tools-i-built-another-one-anyway-2eih)
 
 #### React Blog
 
@@ -89,13 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 28, 2026",
     "news": [
       {
-        "title": "What Hermes is fast at, and what it isn't",
-        "link": "https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn",
+        "title": "Vite+ 1.0 Is Out. You Don't Need ESLint or Prettier Anymore",
+        "link": "https://dev.to/erikch/vite-10-is-out-you-dont-need-eslint-or-prettier-anymore-3iko",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "From Code to Culture: Building 101 Indian Monuments in 3D",
-        "link": "https://dev.to/amananandrai/101-indian-monuments-modelled-in-the-browser-g4f",
+        "title": "What Hermes is fast at, and what it isn't",
+        "link": "https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,8 +104,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript Tuples in 2026: Labeled Elements, Variadic Spreads, and When a Tuple Beats an Interface",
-        "link": "https://dev.to/jsmanifest/typescript-tuples-in-2026-labeled-elements-variadic-spreads-and-when-a-tuple-beats-an-interface-29i6",
+        "title": "Why Building a Reliable Calendar UI Is Harder Than It Looks",
+        "link": "https://dev.to/nehamangla/why-building-a-reliable-calendar-ui-is-harder-than-it-looks-5e2c",
         "source": "Dev.to React"
       },
       {
@@ -114,8 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "useSearchNavigate: Type-Safe URL State Without the Drift",
-        "link": "https://dev.to/saiful7778/usesearchnavigate-type-safe-url-state-without-the-drift-b0h",
+        "title": "There are countless i18n tools. I built another one anyway.",
+        "link": "https://dev.to/signorbusi/there-are-countless-i18n-tools-i-built-another-one-anyway-2eih",
         "source": "Dev.to React"
       },
       {
