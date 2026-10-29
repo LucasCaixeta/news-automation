@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- [Stop Using Default Node.js fetch() in Production Without These Two Fixes](https://dev.to/johnnylemonny/stop-using-default-nodejs-fetch-in-production-without-these-two-fixes-4o5)
 - [Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)
-- [Cookie-Dependent Content and SEO: Test the Page Without Yesterday's State](https://dev.to/urielbitton/cookie-dependent-content-and-seo-test-the-page-without-yesterdays-state-2coh)
-- [Stop Storing JWTs in localStorage. Here's Why.](https://dev.to/ihssmaheel/stop-storing-jwts-in-localstorage-heres-why-3l7e)
 
 #### Dev.to React
 
-- [I Built a Real App With Zero Servers and Zero Cost](https://dev.to/vishnu_venkat/i-built-a-real-app-with-zero-servers-and-zero-cost-27m1)
-- [Your AI-built Next.js app stores everything in localStorage? 6 ways it quietly loses data](https://dev.to/shipinanhour/your-ai-built-nextjs-app-stores-everything-in-localstorage-6-ways-it-quietly-loses-data-53np)
-- [Your Next.js redirect() Silently Does Nothing Because It's Inside a try/catch](https://dev.to/anas_sheikh_2/your-nextjs-redirect-silently-does-nothing-because-its-inside-a-trycatch-5b8m)
+- [Prefetch on intent, not on sight: a <Link> wrapper for Next.js](https://dev.to/jonasjavier/prefetch-on-intent-not-on-sight-a-wrapper-for-nextjs-3kb6)
+- [BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana](https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce)
+- [TeamFlow: La plataforma que construí para organizar a mi equipo de desarrollo (con integración GitHub)](https://dev.to/juan_esteban_ce50a6cbccd5/teamflow-la-plataforma-que-construi-para-organizar-a-mi-equipo-de-desarrollo-con-integracion-341p)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "October 29, 2026",
     "news": [
       {
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Using Default Node.js fetch() in Production Without These Two Fixes",
+        "link": "https://dev.to/johnnylemonny/stop-using-default-nodejs-fetch-in-production-without-these-two-fixes-4o5",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip",
         "link": "https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Cookie-Dependent Content and SEO: Test the Page Without Yesterday's State",
-        "link": "https://dev.to/urielbitton/cookie-dependent-content-and-seo-test-the-page-without-yesterdays-state-2coh",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Storing JWTs in localStorage. Here's Why.",
-        "link": "https://dev.to/ihssmaheel/stop-storing-jwts-in-localstorage-heres-why-3l7e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built a Real App With Zero Servers and Zero Cost",
-        "link": "https://dev.to/vishnu_venkat/i-built-a-real-app-with-zero-servers-and-zero-cost-27m1",
+        "title": "Prefetch on intent, not on sight: a <Link> wrapper for Next.js",
+        "link": "https://dev.to/jonasjavier/prefetch-on-intent-not-on-sight-a-wrapper-for-nextjs-3kb6",
         "source": "Dev.to React"
       },
       {
-        "title": "Your AI-built Next.js app stores everything in localStorage? 6 ways it quietly loses data",
-        "link": "https://dev.to/shipinanhour/your-ai-built-nextjs-app-stores-everything-in-localstorage-6-ways-it-quietly-loses-data-53np",
+        "title": "BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana",
+        "link": "https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce",
         "source": "Dev.to React"
       },
       {
-        "title": "Your Next.js redirect() Silently Does Nothing Because It's Inside a try/catch",
-        "link": "https://dev.to/anas_sheikh_2/your-nextjs-redirect-silently-does-nothing-because-its-inside-a-trycatch-5b8m",
+        "title": "TeamFlow: La plataforma que construí para organizar a mi equipo de desarrollo (con integración GitHub)",
+        "link": "https://dev.to/juan_esteban_ce50a6cbccd5/teamflow-la-plataforma-que-construi-para-organizar-a-mi-equipo-de-desarrollo-con-integracion-341p",
         "source": "Dev.to React"
       },
       {
