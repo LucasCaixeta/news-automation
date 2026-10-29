@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 28, 2026)
+### Today's Updates (October 29, 2026)
+
+#### Dev.to JavaScript
+
+- [Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)
+- [Cookie-Dependent Content and SEO: Test the Page Without Yesterday's State](https://dev.to/urielbitton/cookie-dependent-content-and-seo-test-the-page-without-yesterdays-state-2coh)
+- [Stop Storing JWTs in localStorage. Here's Why.](https://dev.to/ihssmaheel/stop-storing-jwts-in-localstorage-heres-why-3l7e)
+
+#### Dev.to React
+
+- [I Built a Real App With Zero Servers and Zero Cost](https://dev.to/vishnu_venkat/i-built-a-real-app-with-zero-servers-and-zero-cost-27m1)
+- [Your AI-built Next.js app stores everything in localStorage? 6 ways it quietly loses data](https://dev.to/shipinanhour/your-ai-built-nextjs-app-stores-everything-in-localstorage-6-ways-it-quietly-loses-data-53np)
+- [Your Next.js redirect() Silently Does Nothing Because It's Inside a try/catch](https://dev.to/anas_sheikh_2/your-nextjs-redirect-silently-does-nothing-because-its-inside-a-trycatch-5b8m)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 27, 2026)
+### 2 Days Ago (October 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Your "use server" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)](https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib)
 - [TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again](https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp)
 - [Things That Bit Me Wrapping the YouTube IFrame API for a Kids' App](https://dev.to/ystasyuk/things-that-bit-me-wrapping-the-youtube-iframe-api-for-a-kids-app-2n91)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 26, 2026)
-
-#### Dev.to JavaScript
-
-- [A free AI chat + translation API on Cloudflare Workers AI (no credit card, ~5 minutes)](https://dev.to/falingbot/a-free-ai-chat-translation-api-on-cloudflare-workers-ai-no-credit-card-5-minutes-5807)
-- [FableCut Gets its Own Studio Which Agents Can Actually Use](https://dev.to/ronak_parmar_033c50d168b5/i-built-a-video-editor-that-ai-agents-can-actually-use-1kcd)
-- [How to Divide Work Across Threads in JavaScript: CPU Cores, Workload, and Smart Scheduling](https://dev.to/nishikantaray/how-to-divide-work-across-threads-in-javascript-cpu-cores-workload-and-smart-scheduling-45jb)
-
-#### Dev.to React
-
-- [Our React App Worked Perfectly—Until Someone Closed Their Laptop](https://dev.to/axon-osint/our-react-app-worked-perfectly-until-someone-closed-their-laptop-3628)
-- [I asked Claude to explain an API request as a tiny machine](https://dev.to/m_ahmad/i-asked-claude-to-explain-an-api-request-as-a-tiny-machine-59op)
-- [Google saw 1 word on my Next.js homepage. A Suspense boundary was hiding everything else.](https://dev.to/101stand/google-saw-1-word-on-my-nextjs-homepage-a-suspense-boundary-was-hiding-everything-else-4ohe)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-29",
+    "formattedDate": "October 29, 2026",
+    "news": [
+      {
+        "title": "Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip",
+        "link": "https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cookie-Dependent Content and SEO: Test the Page Without Yesterday's State",
+        "link": "https://dev.to/urielbitton/cookie-dependent-content-and-seo-test-the-page-without-yesterdays-state-2coh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stop Storing JWTs in localStorage. Here's Why.",
+        "link": "https://dev.to/ihssmaheel/stop-storing-jwts-in-localstorage-heres-why-3l7e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Built a Real App With Zero Servers and Zero Cost",
+        "link": "https://dev.to/vishnu_venkat/i-built-a-real-app-with-zero-servers-and-zero-cost-27m1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your AI-built Next.js app stores everything in localStorage? 6 ways it quietly loses data",
+        "link": "https://dev.to/shipinanhour/your-ai-built-nextjs-app-stores-everything-in-localstorage-6-ways-it-quietly-loses-data-53np",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Your Next.js redirect() Silently Does Nothing Because It's Inside a try/catch",
+        "link": "https://dev.to/anas_sheikh_2/your-nextjs-redirect-silently-does-nothing-because-its-inside-a-trycatch-5b8m",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-28",
     "formattedDate": "October 28, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Things That Bit Me Wrapping the YouTube IFrame API for a Kids' App",
         "link": "https://dev.to/ystasyuk/things-that-bit-me-wrapping-the-youtube-iframe-api-for-a-kids-app-2n91",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-26",
-    "formattedDate": "October 26, 2026",
-    "news": [
-      {
-        "title": "A free AI chat + translation API on Cloudflare Workers AI (no credit card, ~5 minutes)",
-        "link": "https://dev.to/falingbot/a-free-ai-chat-translation-api-on-cloudflare-workers-ai-no-credit-card-5-minutes-5807",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "FableCut Gets its Own Studio Which Agents Can Actually Use",
-        "link": "https://dev.to/ronak_parmar_033c50d168b5/i-built-a-video-editor-that-ai-agents-can-actually-use-1kcd",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Divide Work Across Threads in JavaScript: CPU Cores, Workload, and Smart Scheduling",
-        "link": "https://dev.to/nishikantaray/how-to-divide-work-across-threads-in-javascript-cpu-cores-workload-and-smart-scheduling-45jb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Our React App Worked Perfectly—Until Someone Closed Their Laptop",
-        "link": "https://dev.to/axon-osint/our-react-app-worked-perfectly-until-someone-closed-their-laptop-3628",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I asked Claude to explain an API request as a tiny machine",
-        "link": "https://dev.to/m_ahmad/i-asked-claude-to-explain-an-api-request-as-a-tiny-machine-59op",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Google saw 1 word on my Next.js homepage. A Suspense boundary was hiding everything else.",
-        "link": "https://dev.to/101stand/google-saw-1-word-on-my-nextjs-homepage-a-suspense-boundary-was-hiding-everything-else-4ohe",
         "source": "Dev.to React"
       },
       {
