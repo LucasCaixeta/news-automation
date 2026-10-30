@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 29, 2026)
+### Today's Updates (October 30, 2026)
+
+#### Dev.to JavaScript
+
+- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- [Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier](https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj)
+- [Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack](https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g)
+
+#### Dev.to React
+
+- [Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack](https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g)
+- [How I built 14 accessible Next.js apps with Claude Code](https://dev.to/greedy_reader/how-i-built-14-accessible-nextjs-apps-with-claude-code-1m2a)
+- [Keeping Hyperframes Render Requests Behind a Secure Next.js Boundary](https://dev.to/elena_rostova/keeping-hyperframes-render-requests-behind-a-secure-nextjs-boundary-49p2)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 28, 2026)
+### 2 Days Ago (October 28, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Why Building a Reliable Calendar UI Is Harder Than It Looks](https://dev.to/nehamangla/why-building-a-reliable-calendar-ui-is-harder-than-it-looks-5e2c)
 - [Notes from a 2 AM On-Call: Next.js Server Actions Silently Swallowing Zod Errors in Production](https://dev.to/elena_rostova/notes-from-a-2-am-on-call-nextjs-server-actions-silently-swallowing-zod-errors-in-production-4o69)
 - [There are countless i18n tools. I built another one anyway.](https://dev.to/signorbusi/there-are-countless-i18n-tools-i-built-another-one-anyway-2eih)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 27, 2026)
-
-#### Dev.to JavaScript
-
-- [Your "use server" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)](https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib)
-- [Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.](https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460)
-- [console.log is a legitimate debugging tool](https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp)
-
-#### Dev.to React
-
-- [Your "use server" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)](https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib)
-- [TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again](https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp)
-- [Things That Bit Me Wrapping the YouTube IFrame API for a Kids' App](https://dev.to/ystasyuk/things-that-bit-me-wrapping-the-youtube-iframe-api-for-a-kids-app-2n91)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-30",
+    "formattedDate": "October 30, 2026",
+    "news": [
+      {
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier",
+        "link": "https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack",
+        "link": "https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack",
+        "link": "https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I built 14 accessible Next.js apps with Claude Code",
+        "link": "https://dev.to/greedy_reader/how-i-built-14-accessible-nextjs-apps-with-claude-code-1m2a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Keeping Hyperframes Render Requests Behind a Secure Next.js Boundary",
+        "link": "https://dev.to/elena_rostova/keeping-hyperframes-render-requests-behind-a-secure-nextjs-boundary-49p2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-29",
     "formattedDate": "October 29, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "There are countless i18n tools. I built another one anyway.",
         "link": "https://dev.to/signorbusi/there-are-countless-i18n-tools-i-built-another-one-anyway-2eih",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-27",
-    "formattedDate": "October 27, 2026",
-    "news": [
-      {
-        "title": "Your \"use server\" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)",
-        "link": "https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
-        "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "console.log is a legitimate debugging tool",
-        "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Your \"use server\" Functions Are Public HTTP Endpoints (And Middleware Won't Save You)",
-        "link": "https://dev.to/johnnylemonny/your-use-server-functions-are-public-http-endpoints-and-middleware-wont-save-you-18ib",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
-        "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Things That Bit Me Wrapping the YouTube IFrame API for a Kids' App",
-        "link": "https://dev.to/ystasyuk/things-that-bit-me-wrapping-the-youtube-iframe-api-for-a-kids-app-2n91",
         "source": "Dev.to React"
       },
       {
