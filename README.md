@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- [I Built 101 Indian Monuments in the Browser Using Only Code (No 3D Models)](https://dev.to/amananandrai/i-built-101-indian-monuments-in-the-browser-using-only-code-no-3d-models-3000)
 - [Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier](https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj)
-- [Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack](https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g)
 
 #### Dev.to React
 
-- [Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack](https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g)
-- [How I built 14 accessible Next.js apps with Claude Code](https://dev.to/greedy_reader/how-i-built-14-accessible-nextjs-apps-with-claude-code-1m2a)
-- [Keeping Hyperframes Render Requests Behind a Secure Next.js Boundary](https://dev.to/elena_rostova/keeping-hyperframes-render-requests-behind-a-secure-nextjs-boundary-49p2)
+- [When an AI Integration Guide and Its Recommended SDK Installation Don't Align](https://dev.to/nwajichukwu_goodness_audit/when-an-ai-integration-guide-and-its-recommended-sdk-installation-dont-align-4kg4)
+- [Recent Updates to Galaxy Movies](https://dev.to/nickfasulo/recent-updates-to-galaxy-movies-2o81)
+- [TanStack Query in React](https://dev.to/abimanyu_p_9e75124634d2a4/tanstack-query-in-react-4o6j)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
+        "title": "I Built 101 Indian Monuments in the Browser Using Only Code (No 3D Models)",
+        "link": "https://dev.to/amananandrai/i-built-101-indian-monuments-in-the-browser-using-only-code-no-3d-models-3000",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier",
         "link": "https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack",
-        "link": "https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Next.js Turbopack Module Federation in 2026: Sharing Code Across Micro-Frontends Without Webpack",
-        "link": "https://dev.to/jsmanifest/nextjs-turbopack-module-federation-in-2026-sharing-code-across-micro-frontends-without-webpack-266g",
+        "title": "When an AI Integration Guide and Its Recommended SDK Installation Don't Align",
+        "link": "https://dev.to/nwajichukwu_goodness_audit/when-an-ai-integration-guide-and-its-recommended-sdk-installation-dont-align-4kg4",
         "source": "Dev.to React"
       },
       {
-        "title": "How I built 14 accessible Next.js apps with Claude Code",
-        "link": "https://dev.to/greedy_reader/how-i-built-14-accessible-nextjs-apps-with-claude-code-1m2a",
+        "title": "Recent Updates to Galaxy Movies",
+        "link": "https://dev.to/nickfasulo/recent-updates-to-galaxy-movies-2o81",
         "source": "Dev.to React"
       },
       {
-        "title": "Keeping Hyperframes Render Requests Behind a Secure Next.js Boundary",
-        "link": "https://dev.to/elena_rostova/keeping-hyperframes-render-requests-behind-a-secure-nextjs-boundary-49p2",
+        "title": "TanStack Query in React",
+        "link": "https://dev.to/abimanyu_p_9e75124634d2a4/tanstack-query-in-react-4o6j",
         "source": "Dev.to React"
       },
       {
