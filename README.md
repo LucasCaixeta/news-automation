@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
 - [TypeScript 7.1 beta's native compiler checks a 353,000-line project in 2.8 seconds instead of 12.4](https://dev.to/alexgeorgiev17/typescript-71-betas-native-compiler-checks-a-353000-line-project-in-28-seconds-instead-of-124-3h91)
-- [We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own listeners](https://dev.to/slabb/we-took-over-chatgpt-accounts-the-mathlive-postmessage-chain-and-the-20-line-audit-for-your-own-442c)
+- [A free, beginner-friendly TypeScript course for JavaScript developers: 33 written sessions, from your first type to a complete Node.js API.](https://dev.to/mohinsheikh/a-free-beginner-friendly-typescript-course-for-javascript-developers-33-written-sessions-from-2foa)
 
 #### Dev.to React
 
-- [Build a Streaming AI Chat UI in React with shadcn/ui (2026 Guide)](https://dev.to/cuelark/build-a-streaming-ai-chat-ui-in-react-with-shadcnui-2026-guide-2p42)
-- [Next.js 16 `use cache` Directive: Granular Caching at the Function Level and What It Replaces](https://dev.to/jsmanifest/nextjs-16-use-cache-directive-granular-caching-at-the-function-level-and-what-it-replaces-5d2o)
-- [I Optimized a Button From O(n) to O(1). The Speed Didn't Matter.](https://dev.to/mohsenfallahnjd/i-optimized-a-button-from-on-to-o1-the-speed-didnt-matter-43o7)
+- [I Built PosterPilot: A Cloudinary-Powered Tool to Adapt University Event Posters Without Cropping Important Details](https://dev.to/shahmurad_ali_3f4d2503d33/i-built-posterpilot-a-cloudinary-powered-tool-to-adapt-university-event-posters-without-cropping-2881)
+- [Why We Built PaperTrail: Moving from AI Paper Summaries to Continuous Scientific Intelligence](https://dev.to/umeshlab/why-we-built-papertrail-moving-from-ai-paper-summaries-to-continuous-scientific-intelligence-pg5)
+- [5 Sites I Use So My Vibe-Coded Apps Don't Look AI-Generated](https://dev.to/kdjayakody_lk/5-sites-i-use-so-my-vibe-coded-apps-dont-look-ai-generated-c28)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own listeners",
-        "link": "https://dev.to/slabb/we-took-over-chatgpt-accounts-the-mathlive-postmessage-chain-and-the-20-line-audit-for-your-own-442c",
+        "title": "A free, beginner-friendly TypeScript course for JavaScript developers: 33 written sessions, from your first type to a complete Node.js API.",
+        "link": "https://dev.to/mohinsheikh/a-free-beginner-friendly-typescript-course-for-javascript-developers-33-written-sessions-from-2foa",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build a Streaming AI Chat UI in React with shadcn/ui (2026 Guide)",
-        "link": "https://dev.to/cuelark/build-a-streaming-ai-chat-ui-in-react-with-shadcnui-2026-guide-2p42",
+        "title": "I Built PosterPilot: A Cloudinary-Powered Tool to Adapt University Event Posters Without Cropping Important Details",
+        "link": "https://dev.to/shahmurad_ali_3f4d2503d33/i-built-posterpilot-a-cloudinary-powered-tool-to-adapt-university-event-posters-without-cropping-2881",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js 16 `use cache` Directive: Granular Caching at the Function Level and What It Replaces",
-        "link": "https://dev.to/jsmanifest/nextjs-16-use-cache-directive-granular-caching-at-the-function-level-and-what-it-replaces-5d2o",
+        "title": "Why We Built PaperTrail: Moving from AI Paper Summaries to Continuous Scientific Intelligence",
+        "link": "https://dev.to/umeshlab/why-we-built-papertrail-moving-from-ai-paper-summaries-to-continuous-scientific-intelligence-pg5",
         "source": "Dev.to React"
       },
       {
-        "title": "I Optimized a Button From O(n) to O(1). The Speed Didn't Matter.",
-        "link": "https://dev.to/mohsenfallahnjd/i-optimized-a-button-from-on-to-o1-the-speed-didnt-matter-43o7",
+        "title": "5 Sites I Use So My Vibe-Coded Apps Don't Look AI-Generated",
+        "link": "https://dev.to/kdjayakody_lk/5-sites-i-use-so-my-vibe-coded-apps-dont-look-ai-generated-c28",
         "source": "Dev.to React"
       },
       {
