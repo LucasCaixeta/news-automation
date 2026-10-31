@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 30, 2026)
+### Today's Updates (October 31, 2026)
+
+#### Dev.to JavaScript
+
+- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- [TypeScript 7.1 beta's native compiler checks a 353,000-line project in 2.8 seconds instead of 12.4](https://dev.to/alexgeorgiev17/typescript-71-betas-native-compiler-checks-a-353000-line-project-in-28-seconds-instead-of-124-3h91)
+- [We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own listeners](https://dev.to/slabb/we-took-over-chatgpt-accounts-the-mathlive-postmessage-chain-and-the-20-line-audit-for-your-own-442c)
+
+#### Dev.to React
+
+- [Build a Streaming AI Chat UI in React with shadcn/ui (2026 Guide)](https://dev.to/cuelark/build-a-streaming-ai-chat-ui-in-react-with-shadcnui-2026-guide-2p42)
+- [Next.js 16 `use cache` Directive: Granular Caching at the Function Level and What It Replaces](https://dev.to/jsmanifest/nextjs-16-use-cache-directive-granular-caching-at-the-function-level-and-what-it-replaces-5d2o)
+- [I Optimized a Button From O(n) to O(1). The Speed Didn't Matter.](https://dev.to/mohsenfallahnjd/i-optimized-a-button-from-on-to-o1-the-speed-didnt-matter-43o7)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 29, 2026)
+### 2 Days Ago (October 29, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Prefetch on intent, not on sight: a <Link> wrapper for Next.js](https://dev.to/jonasjavier/prefetch-on-intent-not-on-sight-a-wrapper-for-nextjs-3kb6)
 - [BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana](https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce)
 - [TeamFlow: La plataforma que construí para organizar a mi equipo de desarrollo (con integración GitHub)](https://dev.to/juan_esteban_ce50a6cbccd5/teamflow-la-plataforma-que-construi-para-organizar-a-mi-equipo-de-desarrollo-con-integracion-341p)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 28, 2026)
-
-#### Dev.to JavaScript
-
-- [Vite+ 1.0 Is Out. You Don't Need ESLint or Prettier Anymore](https://dev.to/erikch/vite-10-is-out-you-dont-need-eslint-or-prettier-anymore-3iko)
-- [What Hermes is fast at, and what it isn't](https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn)
-- [My OSS Projects: Codegen](https://dev.to/florianrappl/my-oss-projects-codegen-2cai)
-
-#### Dev.to React
-
-- [Why Building a Reliable Calendar UI Is Harder Than It Looks](https://dev.to/nehamangla/why-building-a-reliable-calendar-ui-is-harder-than-it-looks-5e2c)
-- [Notes from a 2 AM On-Call: Next.js Server Actions Silently Swallowing Zod Errors in Production](https://dev.to/elena_rostova/notes-from-a-2-am-on-call-nextjs-server-actions-silently-swallowing-zod-errors-in-production-4o69)
-- [There are countless i18n tools. I built another one anyway.](https://dev.to/signorbusi/there-are-countless-i18n-tools-i-built-another-one-anyway-2eih)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-10-31",
+    "formattedDate": "October 31, 2026",
+    "news": [
+      {
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript 7.1 beta's native compiler checks a 353,000-line project in 2.8 seconds instead of 12.4",
+        "link": "https://dev.to/alexgeorgiev17/typescript-71-betas-native-compiler-checks-a-353000-line-project-in-28-seconds-instead-of-124-3h91",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "We took over ChatGPT accounts: the MathLive postMessage chain, and the 20-line audit for your own listeners",
+        "link": "https://dev.to/slabb/we-took-over-chatgpt-accounts-the-mathlive-postmessage-chain-and-the-20-line-audit-for-your-own-442c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build a Streaming AI Chat UI in React with shadcn/ui (2026 Guide)",
+        "link": "https://dev.to/cuelark/build-a-streaming-ai-chat-ui-in-react-with-shadcnui-2026-guide-2p42",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js 16 `use cache` Directive: Granular Caching at the Function Level and What It Replaces",
+        "link": "https://dev.to/jsmanifest/nextjs-16-use-cache-directive-granular-caching-at-the-function-level-and-what-it-replaces-5d2o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Optimized a Button From O(n) to O(1). The Speed Didn't Matter.",
+        "link": "https://dev.to/mohsenfallahnjd/i-optimized-a-button-from-on-to-o1-the-speed-didnt-matter-43o7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-30",
     "formattedDate": "October 30, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "TeamFlow: La plataforma que construí para organizar a mi equipo de desarrollo (con integración GitHub)",
         "link": "https://dev.to/juan_esteban_ce50a6cbccd5/teamflow-la-plataforma-que-construi-para-organizar-a-mi-equipo-de-desarrollo-con-integracion-341p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "formattedDate": "October 28, 2026",
-    "news": [
-      {
-        "title": "Vite+ 1.0 Is Out. You Don't Need ESLint or Prettier Anymore",
-        "link": "https://dev.to/erikch/vite-10-is-out-you-dont-need-eslint-or-prettier-anymore-3iko",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What Hermes is fast at, and what it isn't",
-        "link": "https://dev.to/remdore/what-hermes-is-fast-at-and-what-it-isnt-39gn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My OSS Projects: Codegen",
-        "link": "https://dev.to/florianrappl/my-oss-projects-codegen-2cai",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Why Building a Reliable Calendar UI Is Harder Than It Looks",
-        "link": "https://dev.to/nehamangla/why-building-a-reliable-calendar-ui-is-harder-than-it-looks-5e2c",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Notes from a 2 AM On-Call: Next.js Server Actions Silently Swallowing Zod Errors in Production",
-        "link": "https://dev.to/elena_rostova/notes-from-a-2-am-on-call-nextjs-server-actions-silently-swallowing-zod-errors-in-production-4o69",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "There are countless i18n tools. I built another one anyway.",
-        "link": "https://dev.to/signorbusi/there-are-countless-i18n-tools-i-built-another-one-anyway-2eih",
         "source": "Dev.to React"
       },
       {
