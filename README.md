@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (October 31, 2026)
+### Today's Updates (November 1, 2026)
+
+#### Dev.to JavaScript
+
+- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
+- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- [Hidden Objects: an escape room where the narrator would rather you stayed](https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65)
+
+#### Dev.to React
+
+- [Why Most Directories Fail Developers with 14-Day Queues (And How We Engineered an Instant-Live Launchpad)](https://dev.to/astrodiscover/why-most-directories-fail-developers-with-14-day-queues-and-how-we-engineered-an-instant-live-10p5)
+- [Next.js Prefetching in App Router: How `<Link>` Partial Prefetch Works and Why Your Pages Still Feel Slow](https://dev.to/jsmanifest/nextjs-prefetching-in-app-router-how-partial-prefetch-works-and-why-your-pages-still-5bfa)
+- [Case Converter: Batch-Renaming PascalCase React Components to kebab-case Without Breaking Imports](https://dev.to/meng_meng_56f17e28e55f140/case-converter-batch-renaming-pascalcase-react-components-to-kebab-case-without-breaking-imports-14ii)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (October 31, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (October 30, 2026)
+### 2 Days Ago (October 30, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [When an AI Integration Guide and Its Recommended SDK Installation Don't Align](https://dev.to/nwajichukwu_goodness_audit/when-an-ai-integration-guide-and-its-recommended-sdk-installation-dont-align-4kg4)
 - [Recent Updates to Galaxy Movies](https://dev.to/nickfasulo/recent-updates-to-galaxy-movies-2o81)
 - [TanStack Query in React](https://dev.to/abimanyu_p_9e75124634d2a4/tanstack-query-in-react-4o6j)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 29, 2026)
-
-#### Dev.to JavaScript
-
-- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
-- [Stop Using Default Node.js fetch() in Production Without These Two Fixes](https://dev.to/johnnylemonny/stop-using-default-nodejs-fetch-in-production-without-these-two-fixes-4o5)
-- [Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)
-
-#### Dev.to React
-
-- [Prefetch on intent, not on sight: a <Link> wrapper for Next.js](https://dev.to/jonasjavier/prefetch-on-intent-not-on-sight-a-wrapper-for-nextjs-3kb6)
-- [BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana](https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce)
-- [TeamFlow: La plataforma que construí para organizar a mi equipo de desarrollo (con integración GitHub)](https://dev.to/juan_esteban_ce50a6cbccd5/teamflow-la-plataforma-que-construi-para-organizar-a-mi-equipo-de-desarrollo-con-integracion-341p)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-01",
+    "formattedDate": "November 1, 2026",
+    "news": [
+      {
+        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
+        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Hidden Objects: an escape room where the narrator would rather you stayed",
+        "link": "https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why Most Directories Fail Developers with 14-Day Queues (And How We Engineered an Instant-Live Launchpad)",
+        "link": "https://dev.to/astrodiscover/why-most-directories-fail-developers-with-14-day-queues-and-how-we-engineered-an-instant-live-10p5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js Prefetching in App Router: How `<Link>` Partial Prefetch Works and Why Your Pages Still Feel Slow",
+        "link": "https://dev.to/jsmanifest/nextjs-prefetching-in-app-router-how-partial-prefetch-works-and-why-your-pages-still-5bfa",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Case Converter: Batch-Renaming PascalCase React Components to kebab-case Without Breaking Imports",
+        "link": "https://dev.to/meng_meng_56f17e28e55f140/case-converter-batch-renaming-pascalcase-react-components-to-kebab-case-without-breaking-imports-14ii",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-10-31",
     "formattedDate": "October 31, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "TanStack Query in React",
         "link": "https://dev.to/abimanyu_p_9e75124634d2a4/tanstack-query-in-react-4o6j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-29",
-    "formattedDate": "October 29, 2026",
-    "news": [
-      {
-        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
-        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Using Default Node.js fetch() in Production Without These Two Fixes",
-        "link": "https://dev.to/johnnylemonny/stop-using-default-nodejs-fetch-in-production-without-these-two-fixes-4o5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip",
-        "link": "https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Prefetch on intent, not on sight: a <Link> wrapper for Next.js",
-        "link": "https://dev.to/jonasjavier/prefetch-on-intent-not-on-sight-a-wrapper-for-nextjs-3kb6",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "BioSmart: Construí un motor de IA en Go con pipeline cognitivo de 15 fases para agricultura urbana",
-        "link": "https://dev.to/juan_esteban_ce50a6cbccd5/biosmart-construi-un-motor-de-ia-en-go-con-pipeline-cognitivo-de-15-fases-para-agricultura-urbana-4oce",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TeamFlow: La plataforma que construí para organizar a mi equipo de desarrollo (con integración GitHub)",
-        "link": "https://dev.to/juan_esteban_ce50a6cbccd5/teamflow-la-plataforma-que-construi-para-organizar-a-mi-equipo-de-desarrollo-con-integracion-341p",
         "source": "Dev.to React"
       },
       {
