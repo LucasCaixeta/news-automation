@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
 - [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
+- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
 - [Hidden Objects: an escape room where the narrator would rather you stayed](https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65)
 
 #### Dev.to React
 
-- [Why Most Directories Fail Developers with 14-Day Queues (And How We Engineered an Instant-Live Launchpad)](https://dev.to/astrodiscover/why-most-directories-fail-developers-with-14-day-queues-and-how-we-engineered-an-instant-live-10p5)
-- [Next.js Prefetching in App Router: How `<Link>` Partial Prefetch Works and Why Your Pages Still Feel Slow](https://dev.to/jsmanifest/nextjs-prefetching-in-app-router-how-partial-prefetch-works-and-why-your-pages-still-5bfa)
-- [Case Converter: Batch-Renaming PascalCase React Components to kebab-case Without Breaking Imports](https://dev.to/meng_meng_56f17e28e55f140/case-converter-batch-renaming-pascalcase-react-components-to-kebab-case-without-breaking-imports-14ii)
+- [Criando um chat inteligente com React, .NET e Microsoft Foundry](https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj)
+- [React Activity Component: The State Between Render and Remount](https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p)
+- [Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI](https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03)
 
 #### React Blog
 
@@ -89,13 +89,13 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 1, 2026",
     "news": [
       {
-        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
-        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
-        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
+        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
         "source": "Dev.to JavaScript"
       },
       {
@@ -104,18 +104,18 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why Most Directories Fail Developers with 14-Day Queues (And How We Engineered an Instant-Live Launchpad)",
-        "link": "https://dev.to/astrodiscover/why-most-directories-fail-developers-with-14-day-queues-and-how-we-engineered-an-instant-live-10p5",
+        "title": "Criando um chat inteligente com React, .NET e Microsoft Foundry",
+        "link": "https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js Prefetching in App Router: How `<Link>` Partial Prefetch Works and Why Your Pages Still Feel Slow",
-        "link": "https://dev.to/jsmanifest/nextjs-prefetching-in-app-router-how-partial-prefetch-works-and-why-your-pages-still-5bfa",
+        "title": "React Activity Component: The State Between Render and Remount",
+        "link": "https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p",
         "source": "Dev.to React"
       },
       {
-        "title": "Case Converter: Batch-Renaming PascalCase React Components to kebab-case Without Breaking Imports",
-        "link": "https://dev.to/meng_meng_56f17e28e55f140/case-converter-batch-renaming-pascalcase-react-components-to-kebab-case-without-breaking-imports-14ii",
+        "title": "Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI",
+        "link": "https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03",
         "source": "Dev.to React"
       },
       {
