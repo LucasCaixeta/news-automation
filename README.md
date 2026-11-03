@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
-- [How I built a music companion that plays in your own culture](https://dev.to/soroor_f1685d04da42cfc0fd/how-i-built-a-music-companion-that-plays-in-your-own-culture-28pa)
-- [TypeScript 7 upgrade: the two silent default changes and the missing compiler API](https://dev.to/boranfurkan/typescript-7-upgrade-the-two-silent-default-changes-and-the-missing-compiler-api-hie)
+- [My Harness Reported 0 Findings on 100 Files. All 100 Were Ignored.](https://dev.to/ofri-peretz/my-harness-reported-0-findings-on-100-files-all-100-were-ignored-1okn)
+- [Web Locks and draft recovery: which browser edge cases am I missing?](https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324)
+- [A remote MCP server in ~100 lines, no SDK (on Cloudflare Pages)](https://dev.to/fazal_bhinder/a-remote-mcp-server-in-100-lines-no-sdk-on-cloudflare-pages-4a5f)
 
 #### Dev.to React
 
-- [gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb)
-- [Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij)
-- [Beyond 1,000 Rows: Building a TypeScript Data Grid That Actually Scales Across React, Vue, and Angular](https://dev.to/tamizuddin/beyond-1000-rows-building-a-typescript-data-grid-that-actually-scales-across-react-vue-and-345g)
+- [A free React frontend roadmap: what to learn, in what order](https://dev.to/omergulcicek/a-free-react-frontend-roadmap-what-to-learn-in-what-order-5b59)
+- [Stop trusting your AGENTS.md: the drift-check that makes it a contract](https://dev.to/veaceslav/stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract-47pc)
+- [Stop adapting axios to TanStack Query: a fetch client built for queryFn](https://dev.to/mwmdgmb/stop-adapting-axios-to-tanstack-query-a-fetch-client-built-for-queryfn-3g8k)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 3, 2026",
     "news": [
       {
-        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
-        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
+        "title": "My Harness Reported 0 Findings on 100 Files. All 100 Were Ignored.",
+        "link": "https://dev.to/ofri-peretz/my-harness-reported-0-findings-on-100-files-all-100-were-ignored-1okn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I built a music companion that plays in your own culture",
-        "link": "https://dev.to/soroor_f1685d04da42cfc0fd/how-i-built-a-music-companion-that-plays-in-your-own-culture-28pa",
+        "title": "Web Locks and draft recovery: which browser edge cases am I missing?",
+        "link": "https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript 7 upgrade: the two silent default changes and the missing compiler API",
-        "link": "https://dev.to/boranfurkan/typescript-7-upgrade-the-two-silent-default-changes-and-the-missing-compiler-api-hie",
+        "title": "A remote MCP server in ~100 lines, no SDK (on Cloudflare Pages)",
+        "link": "https://dev.to/fazal_bhinder/a-remote-mcp-server-in-100-lines-no-sdk-on-cloudflare-pages-4a5f",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)",
-        "link": "https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb",
+        "title": "A free React frontend roadmap: what to learn, in what order",
+        "link": "https://dev.to/omergulcicek/a-free-react-frontend-roadmap-what-to-learn-in-what-order-5b59",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.",
-        "link": "https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij",
+        "title": "Stop trusting your AGENTS.md: the drift-check that makes it a contract",
+        "link": "https://dev.to/veaceslav/stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract-47pc",
         "source": "Dev.to React"
       },
       {
-        "title": "Beyond 1,000 Rows: Building a TypeScript Data Grid That Actually Scales Across React, Vue, and Angular",
-        "link": "https://dev.to/tamizuddin/beyond-1000-rows-building-a-typescript-data-grid-that-actually-scales-across-react-vue-and-345g",
+        "title": "Stop adapting axios to TanStack Query: a fetch client built for queryFn",
+        "link": "https://dev.to/mwmdgmb/stop-adapting-axios-to-tanstack-query-a-fetch-client-built-for-queryfn-3g8k",
         "source": "Dev.to React"
       },
       {
