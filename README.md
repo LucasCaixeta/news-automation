@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 2, 2026)
+### Today's Updates (November 3, 2026)
+
+#### Dev.to JavaScript
+
+- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
+- [How I built a music companion that plays in your own culture](https://dev.to/soroor_f1685d04da42cfc0fd/how-i-built-a-music-companion-that-plays-in-your-own-culture-28pa)
+- [TypeScript 7 upgrade: the two silent default changes and the missing compiler API](https://dev.to/boranfurkan/typescript-7-upgrade-the-two-silent-default-changes-and-the-missing-compiler-api-hie)
+
+#### Dev.to React
+
+- [gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb)
+- [Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij)
+- [Beyond 1,000 Rows: Building a TypeScript Data Grid That Actually Scales Across React, Vue, and Angular](https://dev.to/tamizuddin/beyond-1000-rows-building-a-typescript-data-grid-that-actually-scales-across-react-vue-and-345g)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 1, 2026)
+### 2 Days Ago (November 1, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Criando um chat inteligente com React, .NET e Microsoft Foundry](https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj)
 - [React Activity Component: The State Between Render and Remount](https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p)
 - [Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI](https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (October 31, 2026)
-
-#### Dev.to JavaScript
-
-- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
-- [TypeScript 7.1 beta's native compiler checks a 353,000-line project in 2.8 seconds instead of 12.4](https://dev.to/alexgeorgiev17/typescript-71-betas-native-compiler-checks-a-353000-line-project-in-28-seconds-instead-of-124-3h91)
-- [A free, beginner-friendly TypeScript course for JavaScript developers: 33 written sessions, from your first type to a complete Node.js API.](https://dev.to/mohinsheikh/a-free-beginner-friendly-typescript-course-for-javascript-developers-33-written-sessions-from-2foa)
-
-#### Dev.to React
-
-- [I Built PosterPilot: A Cloudinary-Powered Tool to Adapt University Event Posters Without Cropping Important Details](https://dev.to/shahmurad_ali_3f4d2503d33/i-built-posterpilot-a-cloudinary-powered-tool-to-adapt-university-event-posters-without-cropping-2881)
-- [Why We Built PaperTrail: Moving from AI Paper Summaries to Continuous Scientific Intelligence](https://dev.to/umeshlab/why-we-built-papertrail-moving-from-ai-paper-summaries-to-continuous-scientific-intelligence-pg5)
-- [5 Sites I Use So My Vibe-Coded Apps Don't Look AI-Generated](https://dev.to/kdjayakody_lk/5-sites-i-use-so-my-vibe-coded-apps-dont-look-ai-generated-c28)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-03",
+    "formattedDate": "November 3, 2026",
+    "news": [
+      {
+        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
+        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built a music companion that plays in your own culture",
+        "link": "https://dev.to/soroor_f1685d04da42cfc0fd/how-i-built-a-music-companion-that-plays-in-your-own-culture-28pa",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript 7 upgrade: the two silent default changes and the missing compiler API",
+        "link": "https://dev.to/boranfurkan/typescript-7-upgrade-the-two-silent-default-changes-and-the-missing-compiler-api-hie",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)",
+        "link": "https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.",
+        "link": "https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Beyond 1,000 Rows: Building a TypeScript Data Grid That Actually Scales Across React, Vue, and Angular",
+        "link": "https://dev.to/tamizuddin/beyond-1000-rows-building-a-typescript-data-grid-that-actually-scales-across-react-vue-and-345g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-02",
     "formattedDate": "November 2, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI",
         "link": "https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-31",
-    "formattedDate": "October 31, 2026",
-    "news": [
-      {
-        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
-        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript 7.1 beta's native compiler checks a 353,000-line project in 2.8 seconds instead of 12.4",
-        "link": "https://dev.to/alexgeorgiev17/typescript-71-betas-native-compiler-checks-a-353000-line-project-in-28-seconds-instead-of-124-3h91",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A free, beginner-friendly TypeScript course for JavaScript developers: 33 written sessions, from your first type to a complete Node.js API.",
-        "link": "https://dev.to/mohinsheikh/a-free-beginner-friendly-typescript-course-for-javascript-developers-33-written-sessions-from-2foa",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Built PosterPilot: A Cloudinary-Powered Tool to Adapt University Event Posters Without Cropping Important Details",
-        "link": "https://dev.to/shahmurad_ali_3f4d2503d33/i-built-posterpilot-a-cloudinary-powered-tool-to-adapt-university-event-posters-without-cropping-2881",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why We Built PaperTrail: Moving from AI Paper Summaries to Continuous Scientific Intelligence",
-        "link": "https://dev.to/umeshlab/why-we-built-papertrail-moving-from-ai-paper-summaries-to-continuous-scientific-intelligence-pg5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "5 Sites I Use So My Vibe-Coded Apps Don't Look AI-Generated",
-        "link": "https://dev.to/kdjayakody_lk/5-sites-i-use-so-my-vibe-coded-apps-dont-look-ai-generated-c28",
         "source": "Dev.to React"
       },
       {
