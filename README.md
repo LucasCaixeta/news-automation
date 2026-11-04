@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 3, 2026)
+### Today's Updates (November 4, 2026)
+
+#### Dev.to JavaScript
+
+- [Why freezing completed Markdown blocks reduces streaming rendering work](https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck)
+- [How to safely run a take-home coding test (fake recruiter red flags after the Binance case)](https://dev.to/renandlsantos_ai/how-to-safely-run-a-take-home-coding-test-fake-recruiter-red-flags-after-the-binance-case-577b)
+- [Why We Ditched Low-Code Routers for Bare-Metal Node.js Edge Ingestion (~0.4ms Latency)](https://dev.to/kallowaythayer/why-we-ditched-low-code-routers-for-bare-metal-nodejs-edge-ingestion-04ms-latency-3441)
+
+#### Dev.to React
+
+- [Why freezing completed Markdown blocks reduces streaming rendering work](https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck)
+- [Beyond Upvote Rings: How We Engineered a Real-Time 24-Hour Launch Engine with React and Firestore](https://dev.to/astrodiscover/beyond-upvote-rings-how-we-engineered-a-real-time-24-hour-launch-engine-with-react-and-firestore-3g08)
+- [Durable Execution for AI Agents: State, Checkpointing, Retries and Human-in-the-Loop](https://dev.to/serifcolakel/durable-execution-for-ai-agents-state-checkpointing-retries-and-human-in-the-loop-99f)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 2, 2026)
+### 2 Days Ago (November 2, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb)
 - [Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij)
 - [The Anatomy of a Fair Launchpad: How We Killed the 14-Day Queue and Timezone Lottery for Indie Developers](https://dev.to/astrodiscover/the-anatomy-of-a-fair-launchpad-how-we-killed-the-14-day-queue-and-timezone-lottery-for-indie-i4e)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 1, 2026)
-
-#### Dev.to JavaScript
-
-- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
-- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
-- [Hidden Objects: an escape room where the narrator would rather you stayed](https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65)
-
-#### Dev.to React
-
-- [Criando um chat inteligente com React, .NET e Microsoft Foundry](https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj)
-- [React Activity Component: The State Between Render and Remount](https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p)
-- [Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI](https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-04",
+    "formattedDate": "November 4, 2026",
+    "news": [
+      {
+        "title": "Why freezing completed Markdown blocks reduces streaming rendering work",
+        "link": "https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How to safely run a take-home coding test (fake recruiter red flags after the Binance case)",
+        "link": "https://dev.to/renandlsantos_ai/how-to-safely-run-a-take-home-coding-test-fake-recruiter-red-flags-after-the-binance-case-577b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why We Ditched Low-Code Routers for Bare-Metal Node.js Edge Ingestion (~0.4ms Latency)",
+        "link": "https://dev.to/kallowaythayer/why-we-ditched-low-code-routers-for-bare-metal-nodejs-edge-ingestion-04ms-latency-3441",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why freezing completed Markdown blocks reduces streaming rendering work",
+        "link": "https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Beyond Upvote Rings: How We Engineered a Real-Time 24-Hour Launch Engine with React and Firestore",
+        "link": "https://dev.to/astrodiscover/beyond-upvote-rings-how-we-engineered-a-real-time-24-hour-launch-engine-with-react-and-firestore-3g08",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Durable Execution for AI Agents: State, Checkpointing, Retries and Human-in-the-Loop",
+        "link": "https://dev.to/serifcolakel/durable-execution-for-ai-agents-state-checkpointing-retries-and-human-in-the-loop-99f",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-03",
     "formattedDate": "November 3, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "The Anatomy of a Fair Launchpad: How We Killed the 14-Day Queue and Timezone Lottery for Indie Developers",
         "link": "https://dev.to/astrodiscover/the-anatomy-of-a-fair-launchpad-how-we-killed-the-14-day-queue-and-timezone-lottery-for-indie-i4e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-01",
-    "formattedDate": "November 1, 2026",
-    "news": [
-      {
-        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
-        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
-        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Hidden Objects: an escape room where the narrator would rather you stayed",
-        "link": "https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Criando um chat inteligente com React, .NET e Microsoft Foundry",
-        "link": "https://dev.to/hgmauri/criando-um-chat-inteligente-com-react-net-e-microsoft-foundry-52nj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React Activity Component: The State Between Render and Remount",
-        "link": "https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Breaking WidgetKit Limits: Multi-Threaded Vector Animation in Pure SwiftUI",
-        "link": "https://dev.to/limooonik/breaking-widgetkit-limits-multi-threaded-vector-animation-in-pure-swiftui-a03",
         "source": "Dev.to React"
       },
       {
