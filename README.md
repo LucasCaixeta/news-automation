@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Why freezing completed Markdown blocks reduces streaming rendering work](https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck)
-- [How to safely run a take-home coding test (fake recruiter red flags after the Binance case)](https://dev.to/renandlsantos_ai/how-to-safely-run-a-take-home-coding-test-fake-recruiter-red-flags-after-the-binance-case-577b)
-- [Why We Ditched Low-Code Routers for Bare-Metal Node.js Edge Ingestion (~0.4ms Latency)](https://dev.to/kallowaythayer/why-we-ditched-low-code-routers-for-bare-metal-nodejs-edge-ingestion-04ms-latency-3441)
+- [Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3)
+- [Postman approved its own hook. Newman approves its own collection.](https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk)
+- [Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App](https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p)
 
 #### Dev.to React
 
-- [Why freezing completed Markdown blocks reduces streaming rendering work](https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck)
-- [Beyond Upvote Rings: How We Engineered a Real-Time 24-Hour Launch Engine with React and Firestore](https://dev.to/astrodiscover/beyond-upvote-rings-how-we-engineered-a-real-time-24-hour-launch-engine-with-react-and-firestore-3g08)
-- [Durable Execution for AI Agents: State, Checkpointing, Retries and Human-in-the-Loop](https://dev.to/serifcolakel/durable-execution-for-ai-agents-state-checkpointing-retries-and-human-in-the-loop-99f)
+- [After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf)
+- [How to architect a Next.js CRM that handles real sales workflows](https://dev.to/greedy_reader/how-to-architect-a-nextjs-crm-that-handles-real-sales-workflows-1lmp)
+- [Is your Lovable or Bolt app invisible to ChatGPT? Check what AI crawlers actually see](https://dev.to/atalaya_ai/is-your-lovable-or-bolt-app-invisible-to-chatgpt-check-what-ai-crawlers-actually-see-4imp)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 4, 2026",
     "news": [
       {
-        "title": "Why freezing completed Markdown blocks reduces streaming rendering work",
-        "link": "https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck",
+        "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
+        "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How to safely run a take-home coding test (fake recruiter red flags after the Binance case)",
-        "link": "https://dev.to/renandlsantos_ai/how-to-safely-run-a-take-home-coding-test-fake-recruiter-red-flags-after-the-binance-case-577b",
+        "title": "Postman approved its own hook. Newman approves its own collection.",
+        "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why We Ditched Low-Code Routers for Bare-Metal Node.js Edge Ingestion (~0.4ms Latency)",
-        "link": "https://dev.to/kallowaythayer/why-we-ditched-low-code-routers-for-bare-metal-nodejs-edge-ingestion-04ms-latency-3441",
+        "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
+        "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why freezing completed Markdown blocks reduces streaming rendering work",
-        "link": "https://dev.to/fyz_lemo_b8ceb29692820e58/why-freezing-completed-markdown-blocks-reduces-streaming-rendering-work-1gck",
+        "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework",
+        "link": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf",
         "source": "Dev.to React"
       },
       {
-        "title": "Beyond Upvote Rings: How We Engineered a Real-Time 24-Hour Launch Engine with React and Firestore",
-        "link": "https://dev.to/astrodiscover/beyond-upvote-rings-how-we-engineered-a-real-time-24-hour-launch-engine-with-react-and-firestore-3g08",
+        "title": "How to architect a Next.js CRM that handles real sales workflows",
+        "link": "https://dev.to/greedy_reader/how-to-architect-a-nextjs-crm-that-handles-real-sales-workflows-1lmp",
         "source": "Dev.to React"
       },
       {
-        "title": "Durable Execution for AI Agents: State, Checkpointing, Retries and Human-in-the-Loop",
-        "link": "https://dev.to/serifcolakel/durable-execution-for-ai-agents-state-checkpointing-retries-and-human-in-the-loop-99f",
+        "title": "Is your Lovable or Bolt app invisible to ChatGPT? Check what AI crawlers actually see",
+        "link": "https://dev.to/atalaya_ai/is-your-lovable-or-bolt-app-invisible-to-chatgpt-check-what-ai-crawlers-actually-see-4imp",
         "source": "Dev.to React"
       },
       {
