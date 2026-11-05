@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3)
-- [Trimming video in the browser with FFmpeg.wasm: 6 things I had to figure out](https://dev.to/webdevs2/trimming-video-in-the-browser-with-ffmpegwasm-6-things-i-had-to-figure-out-30a1)
-- [Building SP Layers: Exploring São Paulo Through Photography and Cloudinary](https://dev.to/victormoni/building-sp-layers-exploring-sao-paulo-through-photography-and-cloudinary-19ik)
+- [The Fibonacci Spiral Is Secretly a Straight Line](https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p)
+- [How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)](https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn)
 
 #### Dev.to React
 
-- [After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf)
-- [Before and after slider in React, accessible and draggable](https://dev.to/marcoschulz123/before-and-after-slider-in-react-accessible-and-draggable-3ghi)
-- [Horror color palettes and grading for animated Shorts (hex codes and code)](https://dev.to/mohd_yusufkhan_6c2088c04/horror-color-palettes-and-grading-for-animated-shorts-hex-codes-and-code-552g)
+- [How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)](https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn)
+- [Building PurpleWallet: a full-stack fintech app with a real ledger, AI, and ₦0 hosting](https://dev.to/tochi27/building-purplewallet-a-full-stack-fintech-app-with-a-real-ledger-ai-and-n0-hosting-2ec9)
+- [Automating the AWS Console with an AI Agent: Everything Worked Except Four Save Buttons](https://dev.to/pythona/automating-the-aws-console-with-an-ai-agent-everything-worked-except-four-save-buttons-2e2f)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Trimming video in the browser with FFmpeg.wasm: 6 things I had to figure out",
-        "link": "https://dev.to/webdevs2/trimming-video-in-the-browser-with-ffmpegwasm-6-things-i-had-to-figure-out-30a1",
+        "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+        "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building SP Layers: Exploring São Paulo Through Photography and Cloudinary",
-        "link": "https://dev.to/victormoni/building-sp-layers-exploring-sao-paulo-through-photography-and-cloudinary-19ik",
+        "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+        "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework",
-        "link": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf",
+        "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+        "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
         "source": "Dev.to React"
       },
       {
-        "title": "Before and after slider in React, accessible and draggable",
-        "link": "https://dev.to/marcoschulz123/before-and-after-slider-in-react-accessible-and-draggable-3ghi",
+        "title": "Building PurpleWallet: a full-stack fintech app with a real ledger, AI, and ₦0 hosting",
+        "link": "https://dev.to/tochi27/building-purplewallet-a-full-stack-fintech-app-with-a-real-ledger-ai-and-n0-hosting-2ec9",
         "source": "Dev.to React"
       },
       {
-        "title": "Horror color palettes and grading for animated Shorts (hex codes and code)",
-        "link": "https://dev.to/mohd_yusufkhan_6c2088c04/horror-color-palettes-and-grading-for-animated-shorts-hex-codes-and-code-552g",
+        "title": "Automating the AWS Console with an AI Agent: Everything Worked Except Four Save Buttons",
+        "link": "https://dev.to/pythona/automating-the-aws-console-with-an-ai-agent-everything-worked-except-four-save-buttons-2e2f",
         "source": "Dev.to React"
       },
       {
