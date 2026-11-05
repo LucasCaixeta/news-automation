@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 4, 2026)
+### Today's Updates (November 5, 2026)
+
+#### Dev.to JavaScript
+
+- [Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3)
+- [Trimming video in the browser with FFmpeg.wasm: 6 things I had to figure out](https://dev.to/webdevs2/trimming-video-in-the-browser-with-ffmpegwasm-6-things-i-had-to-figure-out-30a1)
+- [Building SP Layers: Exploring São Paulo Through Photography and Cloudinary](https://dev.to/victormoni/building-sp-layers-exploring-sao-paulo-through-photography-and-cloudinary-19ik)
+
+#### Dev.to React
+
+- [After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf)
+- [Before and after slider in React, accessible and draggable](https://dev.to/marcoschulz123/before-and-after-slider-in-react-accessible-and-draggable-3ghi)
+- [Horror color palettes and grading for animated Shorts (hex codes and code)](https://dev.to/mohd_yusufkhan_6c2088c04/horror-color-palettes-and-grading-for-animated-shorts-hex-codes-and-code-552g)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 3, 2026)
+### 2 Days Ago (November 3, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [A free React frontend roadmap: what to learn, in what order](https://dev.to/omergulcicek/a-free-react-frontend-roadmap-what-to-learn-in-what-order-5b59)
 - [Stop trusting your AGENTS.md: the drift-check that makes it a contract](https://dev.to/veaceslav/stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract-47pc)
 - [Stop adapting axios to TanStack Query: a fetch client built for queryFn](https://dev.to/mwmdgmb/stop-adapting-axios-to-tanstack-query-a-fetch-client-built-for-queryfn-3g8k)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 2, 2026)
-
-#### Dev.to JavaScript
-
-- [Yes, {} + [] = 0. No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob)
-- [Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos](https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97)
-- [Locus Earth: Building an Open-Source 3D Globe That Runs Directly in Your Browser 🌍](https://dev.to/zhunemo/locus-earth-building-an-open-source-3d-globe-that-runs-directly-in-your-browser-2d70)
-
-#### Dev.to React
-
-- [gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)](https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb)
-- [Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij)
-- [The Anatomy of a Fair Launchpad: How We Killed the 14-Day Queue and Timezone Lottery for Indie Developers](https://dev.to/astrodiscover/the-anatomy-of-a-fair-launchpad-how-we-killed-the-14-day-queue-and-timezone-lottery-for-indie-i4e)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-05",
+    "formattedDate": "November 5, 2026",
+    "news": [
+      {
+        "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
+        "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Trimming video in the browser with FFmpeg.wasm: 6 things I had to figure out",
+        "link": "https://dev.to/webdevs2/trimming-video-in-the-browser-with-ffmpegwasm-6-things-i-had-to-figure-out-30a1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building SP Layers: Exploring São Paulo Through Photography and Cloudinary",
+        "link": "https://dev.to/victormoni/building-sp-layers-exploring-sao-paulo-through-photography-and-cloudinary-19ik",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework",
+        "link": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Before and after slider in React, accessible and draggable",
+        "link": "https://dev.to/marcoschulz123/before-and-after-slider-in-react-accessible-and-draggable-3ghi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Horror color palettes and grading for animated Shorts (hex codes and code)",
+        "link": "https://dev.to/mohd_yusufkhan_6c2088c04/horror-color-palettes-and-grading-for-animated-shorts-hex-codes-and-code-552g",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-04",
     "formattedDate": "November 4, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Stop adapting axios to TanStack Query: a fetch client built for queryFn",
         "link": "https://dev.to/mwmdgmb/stop-adapting-axios-to-tanstack-query-a-fetch-client-built-for-queryfn-3g8k",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-02",
-    "formattedDate": "November 2, 2026",
-    "news": [
-      {
-        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
-        "link": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
-        "link": "https://dev.to/akhourianmolkumar/are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-2j97",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Locus Earth: Building an Open-Source 3D Globe That Runs Directly in Your Browser 🌍",
-        "link": "https://dev.to/zhunemo/locus-earth-building-an-open-source-3d-globe-that-runs-directly-in-your-browser-2d70",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)",
-        "link": "https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.",
-        "link": "https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "The Anatomy of a Fair Launchpad: How We Killed the 14-Day Queue and Timezone Lottery for Indie Developers",
-        "link": "https://dev.to/astrodiscover/the-anatomy-of-a-fair-launchpad-how-we-killed-the-14-day-queue-and-timezone-lottery-for-indie-i4e",
         "source": "Dev.to React"
       },
       {
