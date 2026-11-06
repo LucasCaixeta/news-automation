@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
+- [Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters](https://dev.to/xbill/retro-techno-generator-your-pulse-plays-90s-acid-techno-your-dancing-plays-the-filters-1a6g)
 - [Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts](https://dev.to/alexgeorgiev17/prisma-orm-7s-rust-free-query-engine-speeds-up-queries-and-slows-down-cold-starts-1ac0)
-- [TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call](https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56)
-- [I built a private, offline AI chat you can run with one command: npx unmuzzled](https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl)
+- [4 money bugs that bite AI agents (and how I fixed them in PurseString)](https://dev.to/suseendaran_nair_88f71da1/4-money-bugs-that-bite-ai-agents-and-how-i-fixed-them-in-pursestring-2ofm)
 
 #### Dev.to React
 
-- [TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call](https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56)
-- [Stop hand-timing captions: word-by-word Remotion captions from ElevenLabs timestamps](https://dev.to/heynstudio/stop-hand-timing-captions-word-by-word-remotion-captions-from-elevenlabs-timestamps-1ell)
-- [Keep AI-suggested loading skeletons matched to real content height](https://dev.to/sherotree/keep-ai-suggested-loading-skeletons-matched-to-real-content-height-ahn)
+- [Excepciones de dominio entre NestJS y React: un identificador con datos, no una frase](https://dev.to/hgomezrobaina/excepciones-de-dominio-entre-nestjs-y-react-un-identificador-con-datos-no-una-frase-1nlm)
+- [Six React chart libraries against hand-written SVG: what I found](https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib)
+- [Prevent Spoofed Orders in Next.js Telegram Mini Apps using Server-Validated MainButton Checkout](https://dev.to/serhii_a9c08345ac360cf5c8/prevent-spoofed-orders-in-nextjs-telegram-mini-apps-using-server-validated-mainbutton-checkout-3jfn)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 6, 2026",
     "news": [
       {
+        "title": "Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters",
+        "link": "https://dev.to/xbill/retro-techno-generator-your-pulse-plays-90s-acid-techno-your-dancing-plays-the-filters-1a6g",
+        "source": "Dev.to JavaScript"
+      },
+      {
         "title": "Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts",
         "link": "https://dev.to/alexgeorgiev17/prisma-orm-7s-rust-free-query-engine-speeds-up-queries-and-slows-down-cold-starts-1ac0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call",
-        "link": "https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56",
+        "title": "4 money bugs that bite AI agents (and how I fixed them in PurseString)",
+        "link": "https://dev.to/suseendaran_nair_88f71da1/4-money-bugs-that-bite-ai-agents-and-how-i-fixed-them-in-pursestring-2ofm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a private, offline AI chat you can run with one command: npx unmuzzled",
-        "link": "https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call",
-        "link": "https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56",
+        "title": "Excepciones de dominio entre NestJS y React: un identificador con datos, no una frase",
+        "link": "https://dev.to/hgomezrobaina/excepciones-de-dominio-entre-nestjs-y-react-un-identificador-con-datos-no-una-frase-1nlm",
         "source": "Dev.to React"
       },
       {
-        "title": "Stop hand-timing captions: word-by-word Remotion captions from ElevenLabs timestamps",
-        "link": "https://dev.to/heynstudio/stop-hand-timing-captions-word-by-word-remotion-captions-from-elevenlabs-timestamps-1ell",
+        "title": "Six React chart libraries against hand-written SVG: what I found",
+        "link": "https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib",
         "source": "Dev.to React"
       },
       {
-        "title": "Keep AI-suggested loading skeletons matched to real content height",
-        "link": "https://dev.to/sherotree/keep-ai-suggested-loading-skeletons-matched-to-real-content-height-ahn",
+        "title": "Prevent Spoofed Orders in Next.js Telegram Mini Apps using Server-Validated MainButton Checkout",
+        "link": "https://dev.to/serhii_a9c08345ac360cf5c8/prevent-spoofed-orders-in-nextjs-telegram-mini-apps-using-server-validated-mainbutton-checkout-3jfn",
         "source": "Dev.to React"
       },
       {
