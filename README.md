@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The Fibonacci Spiral Is Secretly a Straight Line](https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p)
-- [100 people bought a mug. The stock went from 100 to 99.](https://dev.to/haiduc0147/100-people-bought-a-mug-the-stock-went-from-100-to-99-494d)
-- [Isometric architecture diagrams as code: cloud diagrams in SVG from YAML](https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d)
+- [Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts](https://dev.to/alexgeorgiev17/prisma-orm-7s-rust-free-query-engine-speeds-up-queries-and-slows-down-cold-starts-1ac0)
+- [TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call](https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56)
+- [I built a private, offline AI chat you can run with one command: npx unmuzzled](https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl)
 
 #### Dev.to React
 
-- [Auditing 687 React & Tailwind Files for "Vibecoded" UI Tells (and Catching Two False-Positive Traps)](https://dev.to/princejain756/auditing-687-react-tailwind-files-for-vibecoded-ui-tells-and-catching-two-false-positive-traps-4jj7)
-- [Building a browser metronome that stays in time at 1000 BPM](https://dev.to/m16averick/building-a-browser-metronome-that-stays-in-time-at-1000-bpm-28mf)
-- [Building a Role-Based Dashboard in React with Just Context API and localStorage (No Backend)](https://dev.to/faheeem/building-a-role-based-dashboard-in-react-with-just-context-api-and-localstorage-no-backend-559l)
+- [TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call](https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56)
+- [Stop hand-timing captions: word-by-word Remotion captions from ElevenLabs timestamps](https://dev.to/heynstudio/stop-hand-timing-captions-word-by-word-remotion-captions-from-elevenlabs-timestamps-1ell)
+- [Keep AI-suggested loading skeletons matched to real content height](https://dev.to/sherotree/keep-ai-suggested-loading-skeletons-matched-to-real-content-height-ahn)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 6, 2026",
     "news": [
       {
-        "title": "The Fibonacci Spiral Is Secretly a Straight Line",
-        "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+        "title": "Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts",
+        "link": "https://dev.to/alexgeorgiev17/prisma-orm-7s-rust-free-query-engine-speeds-up-queries-and-slows-down-cold-starts-1ac0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "100 people bought a mug. The stock went from 100 to 99.",
-        "link": "https://dev.to/haiduc0147/100-people-bought-a-mug-the-stock-went-from-100-to-99-494d",
+        "title": "TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call",
+        "link": "https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Isometric architecture diagrams as code: cloud diagrams in SVG from YAML",
-        "link": "https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d",
+        "title": "I built a private, offline AI chat you can run with one command: npx unmuzzled",
+        "link": "https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Auditing 687 React & Tailwind Files for \"Vibecoded\" UI Tells (and Catching Two False-Positive Traps)",
-        "link": "https://dev.to/princejain756/auditing-687-react-tailwind-files-for-vibecoded-ui-tells-and-catching-two-false-positive-traps-4jj7",
+        "title": "TypeScript `const` Enums Are Deprecated: What to Migrate to and Why the Compiler Team Made the Call",
+        "link": "https://dev.to/jsmanifest/typescript-const-enums-are-deprecated-what-to-migrate-to-and-why-the-compiler-team-made-the-call-2m56",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a browser metronome that stays in time at 1000 BPM",
-        "link": "https://dev.to/m16averick/building-a-browser-metronome-that-stays-in-time-at-1000-bpm-28mf",
+        "title": "Stop hand-timing captions: word-by-word Remotion captions from ElevenLabs timestamps",
+        "link": "https://dev.to/heynstudio/stop-hand-timing-captions-word-by-word-remotion-captions-from-elevenlabs-timestamps-1ell",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Role-Based Dashboard in React with Just Context API and localStorage (No Backend)",
-        "link": "https://dev.to/faheeem/building-a-role-based-dashboard-in-react-with-just-context-api-and-localstorage-no-backend-559l",
+        "title": "Keep AI-suggested loading skeletons matched to real content height",
+        "link": "https://dev.to/sherotree/keep-ai-suggested-loading-skeletons-matched-to-real-content-height-ahn",
         "source": "Dev.to React"
       },
       {
