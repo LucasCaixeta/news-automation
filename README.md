@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 5, 2026)
+### Today's Updates (November 6, 2026)
+
+#### Dev.to JavaScript
+
+- [The Fibonacci Spiral Is Secretly a Straight Line](https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p)
+- [100 people bought a mug. The stock went from 100 to 99.](https://dev.to/haiduc0147/100-people-bought-a-mug-the-stock-went-from-100-to-99-494d)
+- [Isometric architecture diagrams as code: cloud diagrams in SVG from YAML](https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d)
+
+#### Dev.to React
+
+- [Auditing 687 React & Tailwind Files for "Vibecoded" UI Tells (and Catching Two False-Positive Traps)](https://dev.to/princejain756/auditing-687-react-tailwind-files-for-vibecoded-ui-tells-and-catching-two-false-positive-traps-4jj7)
+- [Building a browser metronome that stays in time at 1000 BPM](https://dev.to/m16averick/building-a-browser-metronome-that-stays-in-time-at-1000-bpm-28mf)
+- [Building a Role-Based Dashboard in React with Just Context API and localStorage (No Backend)](https://dev.to/faheeem/building-a-role-based-dashboard-in-react-with-just-context-api-and-localstorage-no-backend-559l)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 4, 2026)
+### 2 Days Ago (November 4, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf)
 - [How to architect a Next.js CRM that handles real sales workflows](https://dev.to/greedy_reader/how-to-architect-a-nextjs-crm-that-handles-real-sales-workflows-1lmp)
 - [Is your Lovable or Bolt app invisible to ChatGPT? Check what AI crawlers actually see](https://dev.to/atalaya_ai/is-your-lovable-or-bolt-app-invisible-to-chatgpt-check-what-ai-crawlers-actually-see-4imp)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 3, 2026)
-
-#### Dev.to JavaScript
-
-- [My Harness Reported 0 Findings on 100 Files. All 100 Were Ignored.](https://dev.to/ofri-peretz/my-harness-reported-0-findings-on-100-files-all-100-were-ignored-1okn)
-- [Web Locks and draft recovery: which browser edge cases am I missing?](https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324)
-- [A remote MCP server in ~100 lines, no SDK (on Cloudflare Pages)](https://dev.to/fazal_bhinder/a-remote-mcp-server-in-100-lines-no-sdk-on-cloudflare-pages-4a5f)
-
-#### Dev.to React
-
-- [A free React frontend roadmap: what to learn, in what order](https://dev.to/omergulcicek/a-free-react-frontend-roadmap-what-to-learn-in-what-order-5b59)
-- [Stop trusting your AGENTS.md: the drift-check that makes it a contract](https://dev.to/veaceslav/stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract-47pc)
-- [Stop adapting axios to TanStack Query: a fetch client built for queryFn](https://dev.to/mwmdgmb/stop-adapting-axios-to-tanstack-query-a-fetch-client-built-for-queryfn-3g8k)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-06",
+    "formattedDate": "November 6, 2026",
+    "news": [
+      {
+        "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+        "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "100 people bought a mug. The stock went from 100 to 99.",
+        "link": "https://dev.to/haiduc0147/100-people-bought-a-mug-the-stock-went-from-100-to-99-494d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Isometric architecture diagrams as code: cloud diagrams in SVG from YAML",
+        "link": "https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Auditing 687 React & Tailwind Files for \"Vibecoded\" UI Tells (and Catching Two False-Positive Traps)",
+        "link": "https://dev.to/princejain756/auditing-687-react-tailwind-files-for-vibecoded-ui-tells-and-catching-two-false-positive-traps-4jj7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a browser metronome that stays in time at 1000 BPM",
+        "link": "https://dev.to/m16averick/building-a-browser-metronome-that-stays-in-time-at-1000-bpm-28mf",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Role-Based Dashboard in React with Just Context API and localStorage (No Backend)",
+        "link": "https://dev.to/faheeem/building-a-role-based-dashboard-in-react-with-just-context-api-and-localstorage-no-backend-559l",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-05",
     "formattedDate": "November 5, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Is your Lovable or Bolt app invisible to ChatGPT? Check what AI crawlers actually see",
         "link": "https://dev.to/atalaya_ai/is-your-lovable-or-bolt-app-invisible-to-chatgpt-check-what-ai-crawlers-actually-see-4imp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-03",
-    "formattedDate": "November 3, 2026",
-    "news": [
-      {
-        "title": "My Harness Reported 0 Findings on 100 Files. All 100 Were Ignored.",
-        "link": "https://dev.to/ofri-peretz/my-harness-reported-0-findings-on-100-files-all-100-were-ignored-1okn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Web Locks and draft recovery: which browser edge cases am I missing?",
-        "link": "https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A remote MCP server in ~100 lines, no SDK (on Cloudflare Pages)",
-        "link": "https://dev.to/fazal_bhinder/a-remote-mcp-server-in-100-lines-no-sdk-on-cloudflare-pages-4a5f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A free React frontend roadmap: what to learn, in what order",
-        "link": "https://dev.to/omergulcicek/a-free-react-frontend-roadmap-what-to-learn-in-what-order-5b59",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop trusting your AGENTS.md: the drift-check that makes it a contract",
-        "link": "https://dev.to/veaceslav/stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract-47pc",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Stop adapting axios to TanStack Query: a fetch client built for queryFn",
-        "link": "https://dev.to/mwmdgmb/stop-adapting-axios-to-tanstack-query-a-fetch-client-built-for-queryfn-3g8k",
         "source": "Dev.to React"
       },
       {
