@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Playwright fullPage screenshots return one viewport when the page scrolls inside a container](https://dev.to/curlshot/playwright-fullpage-screenshots-return-one-viewport-when-the-page-scrolls-inside-a-container-2nm5)
-- [I Intercepted Network Traffic From 10 Popular Online JWT Decoders. 4 Of Them Secretly Uploaded My Bearer Tokens to Remote Servers.](https://dev.to/devomnitools/i-intercepted-network-traffic-from-10-popular-online-jwt-decoders-4-of-them-secretly-uploaded-my-10gd)
-- [Claude Code Diff Verification in 2026: How to Make Your Agent Assert Its Own Edits Did Not Break the Build](https://dev.to/jsmanifest/claude-code-diff-verification-in-2026-how-to-make-your-agent-assert-its-own-edits-did-not-break-bci)
+- [The pagehide listener that never ran](https://dev.to/adityareddy_dev/the-pagehide-listener-that-never-ran-3k3e)
+- [Save the moment in UTC, save the place by name: a beginner's guide to dates and timezones](https://dev.to/payyavula_balanagaraju_6d/save-the-moment-in-utc-save-the-place-by-name-a-beginners-guide-to-dates-and-timezones-1a1g)
+- [I Spent 8 PRs Fixing My AI Fact-Checker. Then I Deleted All 12,852 Lines.](https://dev.to/roylevy/i-spent-8-prs-fixing-my-ai-fact-checker-then-i-deleted-all-12852-lines-a1a)
 
 #### Dev.to React
 
-- [How I made SVG avatars byte-identical on server and client](https://dev.to/marvelous_dev_79adb65f2cc/how-i-made-svg-avatars-byte-identical-on-server-and-client-hmb)
-- [WeWeb or React: Which One Should You Start With?](https://dev.to/abdelmoula_bilel/weweb-or-react-which-one-should-you-start-with-17c9)
-- [I Built an AI Support Agent That Never Repeats a Failed Fix Using Hindsight](https://dev.to/nikhil_a58b128f6ace9e1771/i-built-an-ai-support-agent-that-never-repeats-a-failed-fix-using-hindsight-2nab)
+- [A Lightweight Real-Time Notification System with FastAPI, Redis Pub/Sub, SSE, and React Query](https://dev.to/decodeme007/a-lightweight-real-time-notification-system-with-fastapi-redis-pubsub-sse-and-react-query-1mfh)
+- [How I prevent double bookings in Postgres (advisory locks + Supabase)](https://dev.to/yassine_khattari_3cb9d27d/how-i-prevent-double-bookings-in-postgres-advisory-locks-supabase-11dl)
+- [One codebase, two renderers: live previews in the browser, final renders in the cloud](https://dev.to/mattiamaggioni/one-codebase-two-renderers-live-previews-in-the-browser-final-renders-in-the-cloud-52in)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 7, 2026",
     "news": [
       {
-        "title": "Playwright fullPage screenshots return one viewport when the page scrolls inside a container",
-        "link": "https://dev.to/curlshot/playwright-fullpage-screenshots-return-one-viewport-when-the-page-scrolls-inside-a-container-2nm5",
+        "title": "The pagehide listener that never ran",
+        "link": "https://dev.to/adityareddy_dev/the-pagehide-listener-that-never-ran-3k3e",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Intercepted Network Traffic From 10 Popular Online JWT Decoders. 4 Of Them Secretly Uploaded My Bearer Tokens to Remote Servers.",
-        "link": "https://dev.to/devomnitools/i-intercepted-network-traffic-from-10-popular-online-jwt-decoders-4-of-them-secretly-uploaded-my-10gd",
+        "title": "Save the moment in UTC, save the place by name: a beginner's guide to dates and timezones",
+        "link": "https://dev.to/payyavula_balanagaraju_6d/save-the-moment-in-utc-save-the-place-by-name-a-beginners-guide-to-dates-and-timezones-1a1g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Claude Code Diff Verification in 2026: How to Make Your Agent Assert Its Own Edits Did Not Break the Build",
-        "link": "https://dev.to/jsmanifest/claude-code-diff-verification-in-2026-how-to-make-your-agent-assert-its-own-edits-did-not-break-bci",
+        "title": "I Spent 8 PRs Fixing My AI Fact-Checker. Then I Deleted All 12,852 Lines.",
+        "link": "https://dev.to/roylevy/i-spent-8-prs-fixing-my-ai-fact-checker-then-i-deleted-all-12852-lines-a1a",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I made SVG avatars byte-identical on server and client",
-        "link": "https://dev.to/marvelous_dev_79adb65f2cc/how-i-made-svg-avatars-byte-identical-on-server-and-client-hmb",
+        "title": "A Lightweight Real-Time Notification System with FastAPI, Redis Pub/Sub, SSE, and React Query",
+        "link": "https://dev.to/decodeme007/a-lightweight-real-time-notification-system-with-fastapi-redis-pubsub-sse-and-react-query-1mfh",
         "source": "Dev.to React"
       },
       {
-        "title": "WeWeb or React: Which One Should You Start With?",
-        "link": "https://dev.to/abdelmoula_bilel/weweb-or-react-which-one-should-you-start-with-17c9",
+        "title": "How I prevent double bookings in Postgres (advisory locks + Supabase)",
+        "link": "https://dev.to/yassine_khattari_3cb9d27d/how-i-prevent-double-bookings-in-postgres-advisory-locks-supabase-11dl",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built an AI Support Agent That Never Repeats a Failed Fix Using Hindsight",
-        "link": "https://dev.to/nikhil_a58b128f6ace9e1771/i-built-an-ai-support-agent-that-never-repeats-a-failed-fix-using-hindsight-2nab",
+        "title": "One codebase, two renderers: live previews in the browser, final renders in the cloud",
+        "link": "https://dev.to/mattiamaggioni/one-codebase-two-renderers-live-previews-in-the-browser-final-renders-in-the-cloud-52in",
         "source": "Dev.to React"
       },
       {
