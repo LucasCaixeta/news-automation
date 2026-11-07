@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 6, 2026)
+### Today's Updates (November 7, 2026)
+
+#### Dev.to JavaScript
+
+- [Playwright fullPage screenshots return one viewport when the page scrolls inside a container](https://dev.to/curlshot/playwright-fullpage-screenshots-return-one-viewport-when-the-page-scrolls-inside-a-container-2nm5)
+- [I Intercepted Network Traffic From 10 Popular Online JWT Decoders. 4 Of Them Secretly Uploaded My Bearer Tokens to Remote Servers.](https://dev.to/devomnitools/i-intercepted-network-traffic-from-10-popular-online-jwt-decoders-4-of-them-secretly-uploaded-my-10gd)
+- [Claude Code Diff Verification in 2026: How to Make Your Agent Assert Its Own Edits Did Not Break the Build](https://dev.to/jsmanifest/claude-code-diff-verification-in-2026-how-to-make-your-agent-assert-its-own-edits-did-not-break-bci)
+
+#### Dev.to React
+
+- [How I made SVG avatars byte-identical on server and client](https://dev.to/marvelous_dev_79adb65f2cc/how-i-made-svg-avatars-byte-identical-on-server-and-client-hmb)
+- [WeWeb or React: Which One Should You Start With?](https://dev.to/abdelmoula_bilel/weweb-or-react-which-one-should-you-start-with-17c9)
+- [I Built an AI Support Agent That Never Repeats a Failed Fix Using Hindsight](https://dev.to/nikhil_a58b128f6ace9e1771/i-built-an-ai-support-agent-that-never-repeats-a-failed-fix-using-hindsight-2nab)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 5, 2026)
+### 2 Days Ago (November 5, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)](https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn)
 - [Building PurpleWallet: a full-stack fintech app with a real ledger, AI, and ₦0 hosting](https://dev.to/tochi27/building-purplewallet-a-full-stack-fintech-app-with-a-real-ledger-ai-and-n0-hosting-2ec9)
 - [Automating the AWS Console with an AI Agent: Everything Worked Except Four Save Buttons](https://dev.to/pythona/automating-the-aws-console-with-an-ai-agent-everything-worked-except-four-save-buttons-2e2f)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 4, 2026)
-
-#### Dev.to JavaScript
-
-- [Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3)
-- [Postman approved its own hook. Newman approves its own collection.](https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk)
-- [Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App](https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p)
-
-#### Dev.to React
-
-- [After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework](https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf)
-- [How to architect a Next.js CRM that handles real sales workflows](https://dev.to/greedy_reader/how-to-architect-a-nextjs-crm-that-handles-real-sales-workflows-1lmp)
-- [Is your Lovable or Bolt app invisible to ChatGPT? Check what AI crawlers actually see](https://dev.to/atalaya_ai/is-your-lovable-or-bolt-app-invisible-to-chatgpt-check-what-ai-crawlers-actually-see-4imp)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-07",
+    "formattedDate": "November 7, 2026",
+    "news": [
+      {
+        "title": "Playwright fullPage screenshots return one viewport when the page scrolls inside a container",
+        "link": "https://dev.to/curlshot/playwright-fullpage-screenshots-return-one-viewport-when-the-page-scrolls-inside-a-container-2nm5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I Intercepted Network Traffic From 10 Popular Online JWT Decoders. 4 Of Them Secretly Uploaded My Bearer Tokens to Remote Servers.",
+        "link": "https://dev.to/devomnitools/i-intercepted-network-traffic-from-10-popular-online-jwt-decoders-4-of-them-secretly-uploaded-my-10gd",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Claude Code Diff Verification in 2026: How to Make Your Agent Assert Its Own Edits Did Not Break the Build",
+        "link": "https://dev.to/jsmanifest/claude-code-diff-verification-in-2026-how-to-make-your-agent-assert-its-own-edits-did-not-break-bci",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I made SVG avatars byte-identical on server and client",
+        "link": "https://dev.to/marvelous_dev_79adb65f2cc/how-i-made-svg-avatars-byte-identical-on-server-and-client-hmb",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "WeWeb or React: Which One Should You Start With?",
+        "link": "https://dev.to/abdelmoula_bilel/weweb-or-react-which-one-should-you-start-with-17c9",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built an AI Support Agent That Never Repeats a Failed Fix Using Hindsight",
+        "link": "https://dev.to/nikhil_a58b128f6ace9e1771/i-built-an-ai-support-agent-that-never-repeats-a-failed-fix-using-hindsight-2nab",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-06",
     "formattedDate": "November 6, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Automating the AWS Console with an AI Agent: Everything Worked Except Four Save Buttons",
         "link": "https://dev.to/pythona/automating-the-aws-console-with-an-ai-agent-everything-worked-except-four-save-buttons-2e2f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-04",
-    "formattedDate": "November 4, 2026",
-    "news": [
-      {
-        "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
-        "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Postman approved its own hook. Newman approves its own collection.",
-        "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
-        "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "After 5 years, Wasp 1.0 is coming: a 6-month plan for our full-stack JS framework",
-        "link": "https://dev.to/wasp/after-5-years-wasp-10-is-coming-a-6-month-plan-for-our-full-stack-js-framework-4hlf",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to architect a Next.js CRM that handles real sales workflows",
-        "link": "https://dev.to/greedy_reader/how-to-architect-a-nextjs-crm-that-handles-real-sales-workflows-1lmp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Is your Lovable or Bolt app invisible to ChatGPT? Check what AI crawlers actually see",
-        "link": "https://dev.to/atalaya_ai/is-your-lovable-or-bolt-app-invisible-to-chatgpt-check-what-ai-crawlers-actually-see-4imp",
         "source": "Dev.to React"
       },
       {
