@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
-- [React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading](https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk)
-- [A PDF Writer in 40 Lines: Turning Photos Into PDFs in the Browser, No Library](https://dev.to/webnaa/a-pdf-writer-in-40-lines-turning-photos-into-pdfs-in-the-browser-no-library-4e7g)
+- [Building a free AI UI builder on Cloudflare: what small models taught me](https://dev.to/timofeus_248d45d3902a91a3/building-a-free-ai-ui-builder-on-cloudflare-what-small-models-taught-me-1p8c)
+- [Production Problems in RAG and How to Solve Them](https://dev.to/vishalmysore/production-problems-in-rag-and-how-to-solve-them-429n)
 
 #### Dev.to React
 
-- [React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading](https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk)
-- [November 2–8, 2026: Next.js 16.4.5, AI SDK 7.0.165, TanStack AI 1.2](https://dev.to/sushilmagare10/november-2-8-2026-nextjs-1645-ai-sdk-70165-tanstack-ai-12-6b3)
-- [From a Simple Tic-Tac-Toe to a Multi-Mode Gaming Platform: The Evolution of MMA Guess](https://dev.to/jebolwski/from-a-simple-tic-tac-toe-to-a-multi-mode-gaming-platform-the-evolution-of-mma-guess-2e5o)
+- [I Built an Interactive 3D Camera You Can Take Apart in Your Browser 📷](https://dev.to/jude_safe/i-built-an-interactive-3d-camera-you-can-take-apart-in-your-browser-5g0k)
+- [I audited AI-built Supabase apps. These are the security bugs I keep finding](https://dev.to/larissadourado27/i-audited-ai-built-supabase-apps-these-are-the-security-bugs-i-keep-finding-g5d)
+- [412 frontend interview questions, with answers that explain the why (JavaScript, TypeScript, React, CSS, browser)](https://dev.to/maurya-sachin/412-frontend-interview-questions-with-answers-that-explain-the-why-javascript-typescript-react-7f8)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading",
-        "link": "https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk",
+        "title": "Building a free AI UI builder on Cloudflare: what small models taught me",
+        "link": "https://dev.to/timofeus_248d45d3902a91a3/building-a-free-ai-ui-builder-on-cloudflare-what-small-models-taught-me-1p8c",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "A PDF Writer in 40 Lines: Turning Photos Into PDFs in the Browser, No Library",
-        "link": "https://dev.to/webnaa/a-pdf-writer-in-40-lines-turning-photos-into-pdfs-in-the-browser-no-library-4e7g",
+        "title": "Production Problems in RAG and How to Solve Them",
+        "link": "https://dev.to/vishalmysore/production-problems-in-rag-and-how-to-solve-them-429n",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading",
-        "link": "https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk",
+        "title": "I Built an Interactive 3D Camera You Can Take Apart in Your Browser 📷",
+        "link": "https://dev.to/jude_safe/i-built-an-interactive-3d-camera-you-can-take-apart-in-your-browser-5g0k",
         "source": "Dev.to React"
       },
       {
-        "title": "November 2–8, 2026: Next.js 16.4.5, AI SDK 7.0.165, TanStack AI 1.2",
-        "link": "https://dev.to/sushilmagare10/november-2-8-2026-nextjs-1645-ai-sdk-70165-tanstack-ai-12-6b3",
+        "title": "I audited AI-built Supabase apps. These are the security bugs I keep finding",
+        "link": "https://dev.to/larissadourado27/i-audited-ai-built-supabase-apps-these-are-the-security-bugs-i-keep-finding-g5d",
         "source": "Dev.to React"
       },
       {
-        "title": "From a Simple Tic-Tac-Toe to a Multi-Mode Gaming Platform: The Evolution of MMA Guess",
-        "link": "https://dev.to/jebolwski/from-a-simple-tic-tac-toe-to-a-multi-mode-gaming-platform-the-evolution-of-mma-guess-2e5o",
+        "title": "412 frontend interview questions, with answers that explain the why (JavaScript, TypeScript, React, CSS, browser)",
+        "link": "https://dev.to/maurya-sachin/412-frontend-interview-questions-with-answers-that-explain-the-why-javascript-typescript-react-7f8",
         "source": "Dev.to React"
       },
       {
