@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 7, 2026)
+### Today's Updates (November 8, 2026)
+
+#### Dev.to JavaScript
+
+- [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
+- [React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading](https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk)
+- [A PDF Writer in 40 Lines: Turning Photos Into PDFs in the Browser, No Library](https://dev.to/webnaa/a-pdf-writer-in-40-lines-turning-photos-into-pdfs-in-the-browser-no-library-4e7g)
+
+#### Dev.to React
+
+- [React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading](https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk)
+- [November 2–8, 2026: Next.js 16.4.5, AI SDK 7.0.165, TanStack AI 1.2](https://dev.to/sushilmagare10/november-2-8-2026-nextjs-1645-ai-sdk-70165-tanstack-ai-12-6b3)
+- [From a Simple Tic-Tac-Toe to a Multi-Mode Gaming Platform: The Evolution of MMA Guess](https://dev.to/jebolwski/from-a-simple-tic-tac-toe-to-a-multi-mode-gaming-platform-the-evolution-of-mma-guess-2e5o)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 6, 2026)
+### 2 Days Ago (November 6, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Excepciones de dominio entre NestJS y React: un identificador con datos, no una frase](https://dev.to/hgomezrobaina/excepciones-de-dominio-entre-nestjs-y-react-un-identificador-con-datos-no-una-frase-1nlm)
 - [Six React chart libraries against hand-written SVG: what I found](https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib)
 - [Prevent Spoofed Orders in Next.js Telegram Mini Apps using Server-Validated MainButton Checkout](https://dev.to/serhii_a9c08345ac360cf5c8/prevent-spoofed-orders-in-nextjs-telegram-mini-apps-using-server-validated-mainbutton-checkout-3jfn)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 5, 2026)
-
-#### Dev.to JavaScript
-
-- [Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3)
-- [The Fibonacci Spiral Is Secretly a Straight Line](https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p)
-- [How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)](https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn)
-
-#### Dev.to React
-
-- [How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)](https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn)
-- [Building PurpleWallet: a full-stack fintech app with a real ledger, AI, and ₦0 hosting](https://dev.to/tochi27/building-purplewallet-a-full-stack-fintech-app-with-a-real-ledger-ai-and-n0-hosting-2ec9)
-- [Automating the AWS Console with an AI Agent: Everything Worked Except Four Save Buttons](https://dev.to/pythona/automating-the-aws-console-with-an-ai-agent-everything-worked-except-four-save-buttons-2e2f)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-08",
+    "formattedDate": "November 8, 2026",
+    "news": [
+      {
+        "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg",
+        "link": "https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading",
+        "link": "https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "A PDF Writer in 40 Lines: Turning Photos Into PDFs in the Browser, No Library",
+        "link": "https://dev.to/webnaa/a-pdf-writer-in-40-lines-turning-photos-into-pdfs-in-the-browser-no-library-4e7g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React 20 Compiler: Which Hooks It Eliminates, Which It Cannot, and How to Audit Your Codebase Before Upgrading",
+        "link": "https://dev.to/jsmanifest/react-20-compiler-which-hooks-it-eliminates-which-it-cannot-and-how-to-audit-your-codebase-16gk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "November 2–8, 2026: Next.js 16.4.5, AI SDK 7.0.165, TanStack AI 1.2",
+        "link": "https://dev.to/sushilmagare10/november-2-8-2026-nextjs-1645-ai-sdk-70165-tanstack-ai-12-6b3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "From a Simple Tic-Tac-Toe to a Multi-Mode Gaming Platform: The Evolution of MMA Guess",
+        "link": "https://dev.to/jebolwski/from-a-simple-tic-tac-toe-to-a-multi-mode-gaming-platform-the-evolution-of-mma-guess-2e5o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-07",
     "formattedDate": "November 7, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Prevent Spoofed Orders in Next.js Telegram Mini Apps using Server-Validated MainButton Checkout",
         "link": "https://dev.to/serhii_a9c08345ac360cf5c8/prevent-spoofed-orders-in-nextjs-telegram-mini-apps-using-server-validated-mainbutton-checkout-3jfn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-05",
-    "formattedDate": "November 5, 2026",
-    "news": [
-      {
-        "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
-        "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Fibonacci Spiral Is Secretly a Straight Line",
-        "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
-        "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
-        "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Building PurpleWallet: a full-stack fintech app with a real ledger, AI, and ₦0 hosting",
-        "link": "https://dev.to/tochi27/building-purplewallet-a-full-stack-fintech-app-with-a-real-ledger-ai-and-n0-hosting-2ec9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Automating the AWS Console with an AI Agent: Everything Worked Except Four Save Buttons",
-        "link": "https://dev.to/pythona/automating-the-aws-console-with-an-ai-agent-everything-worked-except-four-save-buttons-2e2f",
         "source": "Dev.to React"
       },
       {
