@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 8, 2026)
+### Today's Updates (November 9, 2026)
+
+#### Dev.to JavaScript
+
+- [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
+- [TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds](https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj)
+- [Stale JavaScript in Google’s Render? Check the Asset Fingerprint](https://dev.to/urielbitton/stale-javascript-in-googles-render-check-the-asset-fingerprint-217f)
+
+#### Dev.to React
+
+- [TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds](https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj)
+- [How We Tracked a Silent Checkout Failure Using Hindsight](https://dev.to/sakcham_goyal_25560609b41/how-we-tracked-a-silent-checkout-failure-using-hindsight-45fh)
+- [How We Tracked a Silent Checkout Failure Using Hindsight](https://dev.to/luckyjakhar/how-we-tracked-a-silent-checkout-failure-using-hindsight-57ed)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 7, 2026)
+### 2 Days Ago (November 7, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [A Lightweight Real-Time Notification System with FastAPI, Redis Pub/Sub, SSE, and React Query](https://dev.to/decodeme007/a-lightweight-real-time-notification-system-with-fastapi-redis-pubsub-sse-and-react-query-1mfh)
 - [How I prevent double bookings in Postgres (advisory locks + Supabase)](https://dev.to/yassine_khattari_3cb9d27d/how-i-prevent-double-bookings-in-postgres-advisory-locks-supabase-11dl)
 - [One codebase, two renderers: live previews in the browser, final renders in the cloud](https://dev.to/mattiamaggioni/one-codebase-two-renderers-live-previews-in-the-browser-final-renders-in-the-cloud-52in)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 6, 2026)
-
-#### Dev.to JavaScript
-
-- [Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters](https://dev.to/xbill/retro-techno-generator-your-pulse-plays-90s-acid-techno-your-dancing-plays-the-filters-1a6g)
-- [Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts](https://dev.to/alexgeorgiev17/prisma-orm-7s-rust-free-query-engine-speeds-up-queries-and-slows-down-cold-starts-1ac0)
-- [4 money bugs that bite AI agents (and how I fixed them in PurseString)](https://dev.to/suseendaran_nair_88f71da1/4-money-bugs-that-bite-ai-agents-and-how-i-fixed-them-in-pursestring-2ofm)
-
-#### Dev.to React
-
-- [Excepciones de dominio entre NestJS y React: un identificador con datos, no una frase](https://dev.to/hgomezrobaina/excepciones-de-dominio-entre-nestjs-y-react-un-identificador-con-datos-no-una-frase-1nlm)
-- [Six React chart libraries against hand-written SVG: what I found](https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib)
-- [Prevent Spoofed Orders in Next.js Telegram Mini Apps using Server-Validated MainButton Checkout](https://dev.to/serhii_a9c08345ac360cf5c8/prevent-spoofed-orders-in-nextjs-telegram-mini-apps-using-server-validated-mainbutton-checkout-3jfn)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-09",
+    "formattedDate": "November 9, 2026",
+    "news": [
+      {
+        "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg",
+        "link": "https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds",
+        "link": "https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Stale JavaScript in Google’s Render? Check the Asset Fingerprint",
+        "link": "https://dev.to/urielbitton/stale-javascript-in-googles-render-check-the-asset-fingerprint-217f",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds",
+        "link": "https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How We Tracked a Silent Checkout Failure Using Hindsight",
+        "link": "https://dev.to/sakcham_goyal_25560609b41/how-we-tracked-a-silent-checkout-failure-using-hindsight-45fh",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How We Tracked a Silent Checkout Failure Using Hindsight",
+        "link": "https://dev.to/luckyjakhar/how-we-tracked-a-silent-checkout-failure-using-hindsight-57ed",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-08",
     "formattedDate": "November 8, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "One codebase, two renderers: live previews in the browser, final renders in the cloud",
         "link": "https://dev.to/mattiamaggioni/one-codebase-two-renderers-live-previews-in-the-browser-final-renders-in-the-cloud-52in",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-06",
-    "formattedDate": "November 6, 2026",
-    "news": [
-      {
-        "title": "Retro Techno Generator: Your Pulse Plays 90s Acid Techno, Your Dancing Plays the Filters",
-        "link": "https://dev.to/xbill/retro-techno-generator-your-pulse-plays-90s-acid-techno-your-dancing-plays-the-filters-1a6g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Prisma ORM 7's Rust-free query engine speeds up queries and slows down cold starts",
-        "link": "https://dev.to/alexgeorgiev17/prisma-orm-7s-rust-free-query-engine-speeds-up-queries-and-slows-down-cold-starts-1ac0",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "4 money bugs that bite AI agents (and how I fixed them in PurseString)",
-        "link": "https://dev.to/suseendaran_nair_88f71da1/4-money-bugs-that-bite-ai-agents-and-how-i-fixed-them-in-pursestring-2ofm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Excepciones de dominio entre NestJS y React: un identificador con datos, no una frase",
-        "link": "https://dev.to/hgomezrobaina/excepciones-de-dominio-entre-nestjs-y-react-un-identificador-con-datos-no-una-frase-1nlm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Six React chart libraries against hand-written SVG: what I found",
-        "link": "https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Prevent Spoofed Orders in Next.js Telegram Mini Apps using Server-Validated MainButton Checkout",
-        "link": "https://dev.to/serhii_a9c08345ac360cf5c8/prevent-spoofed-orders-in-nextjs-telegram-mini-apps-using-server-validated-mainbutton-checkout-3jfn",
         "source": "Dev.to React"
       },
       {
