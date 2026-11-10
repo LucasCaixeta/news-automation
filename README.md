@@ -12,13 +12,13 @@ This repository contains an automated newsletter that updates daily with the lat
 
 - [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
 - [Darkroom Heist: turning a darkroom timer into a daily safe-cracking game](https://dev.to/freddy_haug_d75c053adc9d2/darkroom-heist-turning-a-darkroom-timer-into-a-daily-safe-cracking-game-3g11)
-- [My AI Tests Passed While Half the Mutants Went Undetected](https://dev.to/moondaeseung/my-ai-tests-passed-while-half-the-mutants-went-undetected-31p)
+- [Node.js 26's Map.getOrInsertComputed is slower than the get-and-set it replaces](https://dev.to/alexgeorgiev17/nodejs-26s-mapgetorinsertcomputed-is-slower-than-the-get-and-set-it-replaces-2i35)
 
 #### Dev.to React
 
-- [Why am I building one more UI component lib in AI age?](https://dev.to/kumakint/why-am-i-building-one-more-ui-component-lib-in-ai-age-5eai)
-- [I added a CSV contact importer to a shadcn registry](https://dev.to/aimodels-fyi/i-added-a-csv-contact-importer-to-a-shadcn-registry-34nj)
-- [Why Next.js Navigation Feels Slow Even When the Server Is Fast](https://dev.to/moondaeseung/why-nextjs-navigation-feels-slow-even-when-the-server-is-fast-4kop)
+- [I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features](https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22)
+- [Managing document metadata in React 19](https://dev.to/lucastonelli/managing-document-metadata-in-react-19-gc6)
+- [Building Keeva: Client-Side Encryption and Persistent Vault State with Tatum and Walrus Memory](https://dev.to/notg0d/building-keeva-client-side-encryption-and-persistent-vault-state-with-tatum-and-walrus-memory-2i2f)
 
 #### React Blog
 
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My AI Tests Passed While Half the Mutants Went Undetected",
-        "link": "https://dev.to/moondaeseung/my-ai-tests-passed-while-half-the-mutants-went-undetected-31p",
+        "title": "Node.js 26's Map.getOrInsertComputed is slower than the get-and-set it replaces",
+        "link": "https://dev.to/alexgeorgiev17/nodejs-26s-mapgetorinsertcomputed-is-slower-than-the-get-and-set-it-replaces-2i35",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why am I building one more UI component lib in AI age?",
-        "link": "https://dev.to/kumakint/why-am-i-building-one-more-ui-component-lib-in-ai-age-5eai",
+        "title": "I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features",
+        "link": "https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22",
         "source": "Dev.to React"
       },
       {
-        "title": "I added a CSV contact importer to a shadcn registry",
-        "link": "https://dev.to/aimodels-fyi/i-added-a-csv-contact-importer-to-a-shadcn-registry-34nj",
+        "title": "Managing document metadata in React 19",
+        "link": "https://dev.to/lucastonelli/managing-document-metadata-in-react-19-gc6",
         "source": "Dev.to React"
       },
       {
-        "title": "Why Next.js Navigation Feels Slow Even When the Server Is Fast",
-        "link": "https://dev.to/moondaeseung/why-nextjs-navigation-feels-slow-even-when-the-server-is-fast-4kop",
+        "title": "Building Keeva: Client-Side Encryption and Persistent Vault State with Tatum and Walrus Memory",
+        "link": "https://dev.to/notg0d/building-keeva-client-side-encryption-and-persistent-vault-state-with-tatum-and-walrus-memory-2i2f",
         "source": "Dev.to React"
       },
       {
