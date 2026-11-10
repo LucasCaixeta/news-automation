@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 9, 2026)
+### Today's Updates (November 10, 2026)
+
+#### Dev.to JavaScript
+
+- [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
+- [Darkroom Heist: turning a darkroom timer into a daily safe-cracking game](https://dev.to/freddy_haug_d75c053adc9d2/darkroom-heist-turning-a-darkroom-timer-into-a-daily-safe-cracking-game-3g11)
+- [My AI Tests Passed While Half the Mutants Went Undetected](https://dev.to/moondaeseung/my-ai-tests-passed-while-half-the-mutants-went-undetected-31p)
+
+#### Dev.to React
+
+- [Why am I building one more UI component lib in AI age?](https://dev.to/kumakint/why-am-i-building-one-more-ui-component-lib-in-ai-age-5eai)
+- [I added a CSV contact importer to a shadcn registry](https://dev.to/aimodels-fyi/i-added-a-csv-contact-importer-to-a-shadcn-registry-34nj)
+- [Why Next.js Navigation Feels Slow Even When the Server Is Fast](https://dev.to/moondaeseung/why-nextjs-navigation-feels-slow-even-when-the-server-is-fast-4kop)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 9, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 8, 2026)
+### 2 Days Ago (November 8, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Built an Interactive 3D Camera You Can Take Apart in Your Browser 📷](https://dev.to/jude_safe/i-built-an-interactive-3d-camera-you-can-take-apart-in-your-browser-5g0k)
 - [I audited AI-built Supabase apps. These are the security bugs I keep finding](https://dev.to/larissadourado27/i-audited-ai-built-supabase-apps-these-are-the-security-bugs-i-keep-finding-g5d)
 - [412 frontend interview questions, with answers that explain the why (JavaScript, TypeScript, React, CSS, browser)](https://dev.to/maurya-sachin/412-frontend-interview-questions-with-answers-that-explain-the-why-javascript-typescript-react-7f8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 7, 2026)
-
-#### Dev.to JavaScript
-
-- [The pagehide listener that never ran](https://dev.to/adityareddy_dev/the-pagehide-listener-that-never-ran-3k3e)
-- [Save the moment in UTC, save the place by name: a beginner's guide to dates and timezones](https://dev.to/payyavula_balanagaraju_6d/save-the-moment-in-utc-save-the-place-by-name-a-beginners-guide-to-dates-and-timezones-1a1g)
-- [I Spent 8 PRs Fixing My AI Fact-Checker. Then I Deleted All 12,852 Lines.](https://dev.to/roylevy/i-spent-8-prs-fixing-my-ai-fact-checker-then-i-deleted-all-12852-lines-a1a)
-
-#### Dev.to React
-
-- [A Lightweight Real-Time Notification System with FastAPI, Redis Pub/Sub, SSE, and React Query](https://dev.to/decodeme007/a-lightweight-real-time-notification-system-with-fastapi-redis-pubsub-sse-and-react-query-1mfh)
-- [How I prevent double bookings in Postgres (advisory locks + Supabase)](https://dev.to/yassine_khattari_3cb9d27d/how-i-prevent-double-bookings-in-postgres-advisory-locks-supabase-11dl)
-- [One codebase, two renderers: live previews in the browser, final renders in the cloud](https://dev.to/mattiamaggioni/one-codebase-two-renderers-live-previews-in-the-browser-final-renders-in-the-cloud-52in)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-10",
+    "formattedDate": "November 10, 2026",
+    "news": [
+      {
+        "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg",
+        "link": "https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Darkroom Heist: turning a darkroom timer into a daily safe-cracking game",
+        "link": "https://dev.to/freddy_haug_d75c053adc9d2/darkroom-heist-turning-a-darkroom-timer-into-a-daily-safe-cracking-game-3g11",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My AI Tests Passed While Half the Mutants Went Undetected",
+        "link": "https://dev.to/moondaeseung/my-ai-tests-passed-while-half-the-mutants-went-undetected-31p",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why am I building one more UI component lib in AI age?",
+        "link": "https://dev.to/kumakint/why-am-i-building-one-more-ui-component-lib-in-ai-age-5eai",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I added a CSV contact importer to a shadcn registry",
+        "link": "https://dev.to/aimodels-fyi/i-added-a-csv-contact-importer-to-a-shadcn-registry-34nj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why Next.js Navigation Feels Slow Even When the Server Is Fast",
+        "link": "https://dev.to/moondaeseung/why-nextjs-navigation-feels-slow-even-when-the-server-is-fast-4kop",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-09",
     "formattedDate": "November 9, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "412 frontend interview questions, with answers that explain the why (JavaScript, TypeScript, React, CSS, browser)",
         "link": "https://dev.to/maurya-sachin/412-frontend-interview-questions-with-answers-that-explain-the-why-javascript-typescript-react-7f8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-07",
-    "formattedDate": "November 7, 2026",
-    "news": [
-      {
-        "title": "The pagehide listener that never ran",
-        "link": "https://dev.to/adityareddy_dev/the-pagehide-listener-that-never-ran-3k3e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Save the moment in UTC, save the place by name: a beginner's guide to dates and timezones",
-        "link": "https://dev.to/payyavula_balanagaraju_6d/save-the-moment-in-utc-save-the-place-by-name-a-beginners-guide-to-dates-and-timezones-1a1g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I Spent 8 PRs Fixing My AI Fact-Checker. Then I Deleted All 12,852 Lines.",
-        "link": "https://dev.to/roylevy/i-spent-8-prs-fixing-my-ai-fact-checker-then-i-deleted-all-12852-lines-a1a",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "A Lightweight Real-Time Notification System with FastAPI, Redis Pub/Sub, SSE, and React Query",
-        "link": "https://dev.to/decodeme007/a-lightweight-real-time-notification-system-with-fastapi-redis-pubsub-sse-and-react-query-1mfh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I prevent double bookings in Postgres (advisory locks + Supabase)",
-        "link": "https://dev.to/yassine_khattari_3cb9d27d/how-i-prevent-double-bookings-in-postgres-advisory-locks-supabase-11dl",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "One codebase, two renderers: live previews in the browser, final renders in the cloud",
-        "link": "https://dev.to/mattiamaggioni/one-codebase-two-renderers-live-previews-in-the-browser-final-renders-in-the-cloud-52in",
         "source": "Dev.to React"
       },
       {
