@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
+- [AI can write code, but the magic of a first project is unmatched! 🗽](https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4)
 - [You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1)
-- [Show Dev: We Reverse-Engineered 11 Restaurant POS & Ordering Pricing Models into a 1.6 KB Vanilla JS Calculator](https://dev.to/maptosite/show-dev-we-reverse-engineered-11-restaurant-pos-ordering-pricing-models-into-a-16-kb-vanilla-cch)
+- [0.1 + 0.2 Is Not a Bug. It's Arithmetic in a Costume.](https://dev.to/aheadkit/01-02-is-not-a-bug-its-arithmetic-in-a-costume-1h46)
 
 #### Dev.to React
 
-- [I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features](https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22)
-- [Your CSV import works on your laptop. Then a customer in Germany uploads a file.](https://dev.to/_dev_kevin_xiao/your-csv-import-works-on-your-laptop-then-a-customer-in-germany-uploads-a-file-10m3)
-- [Managing document metadata in React 19](https://dev.to/lucastonelli/managing-document-metadata-in-react-19-gc6)
+- [I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you](https://dev.to/manojthegeek/i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-3icm)
+- [Why map() inside map() is how grouped lists work](https://dev.to/nayemalam/why-map-inside-map-is-how-grouped-lists-work-1fa0)
+- [GitHub's new PR overview puts the merge answer first](https://dev.to/nayemalam/githubs-new-pr-overview-puts-the-merge-answer-first-502e)
 
 #### React Blog
 
@@ -89,8 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 11, 2026",
     "news": [
       {
-        "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg",
-        "link": "https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89",
+        "title": "AI can write code, but the magic of a first project is unmatched! 🗽",
+        "link": "https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Show Dev: We Reverse-Engineered 11 Restaurant POS & Ordering Pricing Models into a 1.6 KB Vanilla JS Calculator",
-        "link": "https://dev.to/maptosite/show-dev-we-reverse-engineered-11-restaurant-pos-ordering-pricing-models-into-a-16-kb-vanilla-cch",
+        "title": "0.1 + 0.2 Is Not a Bug. It's Arithmetic in a Costume.",
+        "link": "https://dev.to/aheadkit/01-02-is-not-a-bug-its-arithmetic-in-a-costume-1h46",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features",
-        "link": "https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22",
+        "title": "I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you",
+        "link": "https://dev.to/manojthegeek/i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-3icm",
         "source": "Dev.to React"
       },
       {
-        "title": "Your CSV import works on your laptop. Then a customer in Germany uploads a file.",
-        "link": "https://dev.to/_dev_kevin_xiao/your-csv-import-works-on-your-laptop-then-a-customer-in-germany-uploads-a-file-10m3",
+        "title": "Why map() inside map() is how grouped lists work",
+        "link": "https://dev.to/nayemalam/why-map-inside-map-is-how-grouped-lists-work-1fa0",
         "source": "Dev.to React"
       },
       {
-        "title": "Managing document metadata in React 19",
-        "link": "https://dev.to/lucastonelli/managing-document-metadata-in-react-19-gc6",
+        "title": "GitHub's new PR overview puts the merge answer first",
+        "link": "https://dev.to/nayemalam/githubs-new-pr-overview-puts-the-merge-answer-first-502e",
         "source": "Dev.to React"
       },
       {
