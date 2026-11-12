@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [AI can write code, but the magic of a first project is unmatched! 🗽](https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4)
+- [Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js](https://dev.to/amananandrai/what-got-more-real-in-101-indian-monuments-built-from-code-3edn)
 - [You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1)
-- [bug.ai.dev: writing docs at night made me find 11 real bugs in my own library](https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c)
+- [What the Sentry SDK drops after a 429 quota response](https://dev.to/amorizz/what-the-sentry-sdk-drops-after-a-429-quota-response-36n2)
 
 #### Dev.to React
 
-- [Cutting a Next.js page from 854 KB to 459 KB of HTML by weighing the RSC payload](https://dev.to/mohamedgado/cutting-a-nextjs-page-from-854-kb-to-459-kb-of-html-by-weighing-the-rsc-payload-5g87)
-- [Moving my portfolio from a Vite SPA to Next.js](https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o)
-- [Cómo configurar Microsoft Entra External ID para el login de tu app web](https://dev.to/basiliok/como-configurar-microsoft-entra-external-id-para-el-login-de-tu-app-web-idd)
+- [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo)
+- [Reduced motion in Framer Motion: what I learned adding it to 150+ files](https://dev.to/saurra3h/reduced-motion-in-framer-motion-what-i-learned-adding-it-to-150-files-4go1)
+- [Next.js prefetches got me rate-limited on my own site. Googlebot had been fetching them by the thousand](https://dev.to/alex_iolan/nextjs-prefetches-got-me-rate-limited-on-my-own-site-googlebot-had-been-fetching-them-by-the-280)
 
 #### React Blog
 
@@ -89,8 +89,8 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 12, 2026",
     "news": [
       {
-        "title": "AI can write code, but the magic of a first project is unmatched! 🗽",
-        "link": "https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4",
+        "title": "Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js",
+        "link": "https://dev.to/amananandrai/what-got-more-real-in-101-indian-monuments-built-from-code-3edn",
         "source": "Dev.to JavaScript"
       },
       {
@@ -99,23 +99,23 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "bug.ai.dev: writing docs at night made me find 11 real bugs in my own library",
-        "link": "https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c",
+        "title": "What the Sentry SDK drops after a 429 quota response",
+        "link": "https://dev.to/amorizz/what-the-sentry-sdk-drops-after-a-429-quota-response-36n2",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Cutting a Next.js page from 854 KB to 459 KB of HTML by weighing the RSC payload",
-        "link": "https://dev.to/mohamedgado/cutting-a-nextjs-page-from-854-kb-to-459-kb-of-html-by-weighing-the-rsc-payload-5g87",
+        "title": "What Changes With the A2UI 1.0 Release",
+        "link": "https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo",
         "source": "Dev.to React"
       },
       {
-        "title": "Moving my portfolio from a Vite SPA to Next.js",
-        "link": "https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o",
+        "title": "Reduced motion in Framer Motion: what I learned adding it to 150+ files",
+        "link": "https://dev.to/saurra3h/reduced-motion-in-framer-motion-what-i-learned-adding-it-to-150-files-4go1",
         "source": "Dev.to React"
       },
       {
-        "title": "Cómo configurar Microsoft Entra External ID para el login de tu app web",
-        "link": "https://dev.to/basiliok/como-configurar-microsoft-entra-external-id-para-el-login-de-tu-app-web-idd",
+        "title": "Next.js prefetches got me rate-limited on my own site. Googlebot had been fetching them by the thousand",
+        "link": "https://dev.to/alex_iolan/nextjs-prefetches-got-me-rate-limited-on-my-own-site-googlebot-had-been-fetching-them-by-the-280",
         "source": "Dev.to React"
       },
       {
