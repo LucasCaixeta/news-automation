@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 11, 2026)
+### Today's Updates (November 12, 2026)
+
+#### Dev.to JavaScript
+
+- [AI can write code, but the magic of a first project is unmatched! 🗽](https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4)
+- [You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1)
+- [bug.ai.dev: writing docs at night made me find 11 real bugs in my own library](https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c)
+
+#### Dev.to React
+
+- [Cutting a Next.js page from 854 KB to 459 KB of HTML by weighing the RSC payload](https://dev.to/mohamedgado/cutting-a-nextjs-page-from-854-kb-to-459-kb-of-html-by-weighing-the-rsc-payload-5g87)
+- [Moving my portfolio from a Vite SPA to Next.js](https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o)
+- [Cómo configurar Microsoft Entra External ID para el login de tu app web](https://dev.to/basiliok/como-configurar-microsoft-entra-external-id-para-el-login-de-tu-app-web-idd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 11, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 10, 2026)
+### 2 Days Ago (November 10, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features](https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22)
 - [Managing document metadata in React 19](https://dev.to/lucastonelli/managing-document-metadata-in-react-19-gc6)
 - [Building Keeva: Client-Side Encryption and Persistent Vault State with Tatum and Walrus Memory](https://dev.to/notg0d/building-keeva-client-side-encryption-and-persistent-vault-state-with-tatum-and-walrus-memory-2i2f)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 9, 2026)
-
-#### Dev.to JavaScript
-
-- [I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg](https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89)
-- [TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds](https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj)
-- [Stale JavaScript in Google’s Render? Check the Asset Fingerprint](https://dev.to/urielbitton/stale-javascript-in-googles-render-check-the-asset-fingerprint-217f)
-
-#### Dev.to React
-
-- [TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds](https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj)
-- [How We Tracked a Silent Checkout Failure Using Hindsight](https://dev.to/sakcham_goyal_25560609b41/how-we-tracked-a-silent-checkout-failure-using-hindsight-45fh)
-- [How We Tracked a Silent Checkout Failure Using Hindsight](https://dev.to/luckyjakhar/how-we-tracked-a-silent-checkout-failure-using-hindsight-57ed)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-12",
+    "formattedDate": "November 12, 2026",
+    "news": [
+      {
+        "title": "AI can write code, but the magic of a first project is unmatched! 🗽",
+        "link": "https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM",
+        "link": "https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "bug.ai.dev: writing docs at night made me find 11 real bugs in my own library",
+        "link": "https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Cutting a Next.js page from 854 KB to 459 KB of HTML by weighing the RSC payload",
+        "link": "https://dev.to/mohamedgado/cutting-a-nextjs-page-from-854-kb-to-459-kb-of-html-by-weighing-the-rsc-payload-5g87",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Moving my portfolio from a Vite SPA to Next.js",
+        "link": "https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Cómo configurar Microsoft Entra External ID para el login de tu app web",
+        "link": "https://dev.to/basiliok/como-configurar-microsoft-entra-external-id-para-el-login-de-tu-app-web-idd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-11",
     "formattedDate": "November 11, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Building Keeva: Client-Side Encryption and Persistent Vault State with Tatum and Walrus Memory",
         "link": "https://dev.to/notg0d/building-keeva-client-side-encryption-and-persistent-vault-state-with-tatum-and-walrus-memory-2i2f",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-09",
-    "formattedDate": "November 9, 2026",
-    "news": [
-      {
-        "title": "I'm 13 and Built a Private, On-Device Photo Editor: APIC vs Canva, Adobe Express, Photopea & remove.bg",
-        "link": "https://dev.to/akhourianmolkumar/im-13-and-built-a-private-on-device-photo-editor-apic-vs-canva-adobe-express-photopea--5h89",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds",
-        "link": "https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stale JavaScript in Google’s Render? Check the Asset Fingerprint",
-        "link": "https://dev.to/urielbitton/stale-javascript-in-googles-render-check-the-asset-fingerprint-217f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "TypeScript `Map` and `Set` Iteration in 2026: Why `downlevelIteration` Still Breaks Production Builds",
-        "link": "https://dev.to/jsmanifest/typescript-map-and-set-iteration-in-2026-why-downleveliteration-still-breaks-production-44hj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How We Tracked a Silent Checkout Failure Using Hindsight",
-        "link": "https://dev.to/sakcham_goyal_25560609b41/how-we-tracked-a-silent-checkout-failure-using-hindsight-45fh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How We Tracked a Silent Checkout Failure Using Hindsight",
-        "link": "https://dev.to/luckyjakhar/how-we-tracked-a-silent-checkout-failure-using-hindsight-57ed",
         "source": "Dev.to React"
       },
       {
