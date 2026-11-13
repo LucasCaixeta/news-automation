@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [The job scanner that marked postings "done" without reading them](https://dev.to/houssain_elmarouni_09942/the-job-scanner-that-marked-postings-done-without-reading-them-ip0)
-- [I built a whole action game in one HTML file](https://dev.to/maciahtohmas/i-built-a-whole-action-game-in-one-html-file-3dbh)
-- [Inside a 2.2 KB Signals Runtime: One Graph, One Stack, No Recursion](https://dev.to/volynetstyle/inside-a-22-kb-signals-runtime-one-graph-one-stack-no-recursion-4dme)
+- [Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)](https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio)
+- [React `useId` in 2026: Why It Beats `Math.random()` for Accessibility and SSR Hydration](https://dev.to/jsmanifest/react-useid-in-2026-why-it-beats-mathrandom-for-accessibility-and-ssr-hydration-1ami)
+- [I put a real LLM in my portfolio. It runs on your GPU, not my server.](https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8)
 
 #### Dev.to React
 
 - [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo)
-- [I built a Theme Studio where you plug a theme into a display and watch it stream in ⚡](https://dev.to/m_ahmad/i-built-a-theme-studio-where-you-plug-a-theme-into-a-display-and-watch-it-stream-in-3m9c)
-- [TechInventory: cómo modelar un inventario con documentos y revisiones de Apache CouchDB](https://dev.to/codexvex/techinventory-como-modelar-un-inventario-con-documentos-y-revisiones-de-apache-couchdb-5e4g)
+- [How I built true background step counting in React 19.2 + Capacitor on Android 14/15 (without Google Fit, which is shutting down)](https://dev.to/support_euexia/how-i-built-true-background-step-counting-in-react-192-capacitor-on-android-1415-without-5bnm)
+- [Why React Needs key: The Bug That Moves Your Input to the Wrong Row](https://dev.to/mohsenfallahnjd/why-react-needs-key-the-bug-that-moves-your-input-to-the-wrong-row-4la8)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 13, 2026",
     "news": [
       {
-        "title": "The job scanner that marked postings \"done\" without reading them",
-        "link": "https://dev.to/houssain_elmarouni_09942/the-job-scanner-that-marked-postings-done-without-reading-them-ip0",
+        "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
+        "link": "https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a whole action game in one HTML file",
-        "link": "https://dev.to/maciahtohmas/i-built-a-whole-action-game-in-one-html-file-3dbh",
+        "title": "React `useId` in 2026: Why It Beats `Math.random()` for Accessibility and SSR Hydration",
+        "link": "https://dev.to/jsmanifest/react-useid-in-2026-why-it-beats-mathrandom-for-accessibility-and-ssr-hydration-1ami",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Inside a 2.2 KB Signals Runtime: One Graph, One Stack, No Recursion",
-        "link": "https://dev.to/volynetstyle/inside-a-22-kb-signals-runtime-one-graph-one-stack-no-recursion-4dme",
+        "title": "I put a real LLM in my portfolio. It runs on your GPU, not my server.",
+        "link": "https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "I built a Theme Studio where you plug a theme into a display and watch it stream in ⚡",
-        "link": "https://dev.to/m_ahmad/i-built-a-theme-studio-where-you-plug-a-theme-into-a-display-and-watch-it-stream-in-3m9c",
+        "title": "How I built true background step counting in React 19.2 + Capacitor on Android 14/15 (without Google Fit, which is shutting down)",
+        "link": "https://dev.to/support_euexia/how-i-built-true-background-step-counting-in-react-192-capacitor-on-android-1415-without-5bnm",
         "source": "Dev.to React"
       },
       {
-        "title": "TechInventory: cómo modelar un inventario con documentos y revisiones de Apache CouchDB",
-        "link": "https://dev.to/codexvex/techinventory-como-modelar-un-inventario-con-documentos-y-revisiones-de-apache-couchdb-5e4g",
+        "title": "Why React Needs key: The Bug That Moves Your Input to the Wrong Row",
+        "link": "https://dev.to/mohsenfallahnjd/why-react-needs-key-the-bug-that-moves-your-input-to-the-wrong-row-4la8",
         "source": "Dev.to React"
       },
       {
