@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
-- [TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript](https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h)
-- [Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)](https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio)
+- [Body Radar: a game where you guess your breath and pulse before the camera does](https://dev.to/itxashancode/body-radar-a-game-where-you-guess-your-breath-and-pulse-before-the-camera-does-31lb)
+- [I built interview prep games where you write real CSS and JavaScript](https://dev.to/muhammadminhaj786/i-built-interview-prep-games-where-you-write-real-css-and-javascript-5bif)
 
 #### Dev.to React
 
 - [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o)
-- [TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript](https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h)
-- [One engine, two render layers: how I built the same data grid for Angular and React](https://dev.to/kaya2m/one-engine-two-render-layers-how-i-built-the-same-data-grid-for-angular-and-react-32c5)
+- [Prepare a WebMCP Review Without Submitting the Request](https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n)
+- [Story of a Component and a Developer’s Adventure using Bit](https://dev.to/chidume_kenneth_36237b684/story-of-a-component-and-a-developers-adventure-using-bit-4fm9)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript",
-        "link": "https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h",
+        "title": "Body Radar: a game where you guess your breath and pulse before the camera does",
+        "link": "https://dev.to/itxashancode/body-radar-a-game-where-you-guess-your-breath-and-pulse-before-the-camera-does-31lb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
-        "link": "https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio",
+        "title": "I built interview prep games where you write real CSS and JavaScript",
+        "link": "https://dev.to/muhammadminhaj786/i-built-interview-prep-games-where-you-write-real-css-and-javascript-5bif",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript",
-        "link": "https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h",
+        "title": "Prepare a WebMCP Review Without Submitting the Request",
+        "link": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n",
         "source": "Dev.to React"
       },
       {
-        "title": "One engine, two render layers: how I built the same data grid for Angular and React",
-        "link": "https://dev.to/kaya2m/one-engine-two-render-layers-how-i-built-the-same-data-grid-for-angular-and-react-32c5",
+        "title": "Story of a Component and a Developer’s Adventure using Bit",
+        "link": "https://dev.to/chidume_kenneth_36237b684/story-of-a-component-and-a-developers-adventure-using-bit-4fm9",
         "source": "Dev.to React"
       },
       {
