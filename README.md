@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 13, 2026)
+### Today's Updates (November 14, 2026)
+
+#### Dev.to JavaScript
+
+- [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
+- [Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)](https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio)
+- [Japanese Text Breaks Your App in 7 Quiet Ways (With Code)](https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g)
+
+#### Dev.to React
+
+- [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o)
+- [How to Scroll Between Separate Components in React](https://dev.to/amelia2802/how-to-scroll-between-separate-components-in-react-gf2)
+- [Why a2ui's JSON-Driven Layout Schema Breaks Down in Production Modal Stacks](https://dev.to/chloe_chen/why-a2uis-json-driven-layout-schema-breaks-down-in-production-modal-stacks-2fee)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 12, 2026)
+### 2 Days Ago (November 12, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo)
 - [Reduced motion in Framer Motion: what I learned adding it to 150+ files](https://dev.to/saurra3h/reduced-motion-in-framer-motion-what-i-learned-adding-it-to-150-files-4go1)
 - [Next.js prefetches got me rate-limited on my own site. Googlebot had been fetching them by the thousand](https://dev.to/alex_iolan/nextjs-prefetches-got-me-rate-limited-on-my-own-site-googlebot-had-been-fetching-them-by-the-280)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 11, 2026)
-
-#### Dev.to JavaScript
-
-- [AI can write code, but the magic of a first project is unmatched! 🗽](https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4)
-- [You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1)
-- [0.1 + 0.2 Is Not a Bug. It's Arithmetic in a Costume.](https://dev.to/aheadkit/01-02-is-not-a-bug-its-arithmetic-in-a-costume-1h46)
-
-#### Dev.to React
-
-- [I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you](https://dev.to/manojthegeek/i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-3icm)
-- [Why map() inside map() is how grouped lists work](https://dev.to/nayemalam/why-map-inside-map-is-how-grouped-lists-work-1fa0)
-- [GitHub's new PR overview puts the merge answer first](https://dev.to/nayemalam/githubs-new-pr-overview-puts-the-merge-answer-first-502e)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-14",
+    "formattedDate": "November 14, 2026",
+    "news": [
+      {
+        "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
+        "link": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
+        "link": "https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Japanese Text Breaks Your App in 7 Quiet Ways (With Code)",
+        "link": "https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Scope WebMCP Tools to the Open React Workflow",
+        "link": "https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Scroll Between Separate Components in React",
+        "link": "https://dev.to/amelia2802/how-to-scroll-between-separate-components-in-react-gf2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Why a2ui's JSON-Driven Layout Schema Breaks Down in Production Modal Stacks",
+        "link": "https://dev.to/chloe_chen/why-a2uis-json-driven-layout-schema-breaks-down-in-production-modal-stacks-2fee",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-13",
     "formattedDate": "November 13, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Next.js prefetches got me rate-limited on my own site. Googlebot had been fetching them by the thousand",
         "link": "https://dev.to/alex_iolan/nextjs-prefetches-got-me-rate-limited-on-my-own-site-googlebot-had-been-fetching-them-by-the-280",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-11",
-    "formattedDate": "November 11, 2026",
-    "news": [
-      {
-        "title": "AI can write code, but the magic of a first project is unmatched! 🗽",
-        "link": "https://dev.to/necoz/ai-can-write-code-but-the-magic-of-a-first-project-is-unmatched-30c4",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM",
-        "link": "https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "0.1 + 0.2 Is Not a Bug. It's Arithmetic in a Costume.",
-        "link": "https://dev.to/aheadkit/01-02-is-not-a-bug-its-arithmetic-in-a-costume-1h46",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you",
-        "link": "https://dev.to/manojthegeek/i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-3icm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why map() inside map() is how grouped lists work",
-        "link": "https://dev.to/nayemalam/why-map-inside-map-is-how-grouped-lists-work-1fa0",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "GitHub's new PR overview puts the merge answer first",
-        "link": "https://dev.to/nayemalam/githubs-new-pr-overview-puts-the-merge-answer-first-502e",
         "source": "Dev.to React"
       },
       {
