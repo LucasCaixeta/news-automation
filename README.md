@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
+- [TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript](https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h)
 - [Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)](https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio)
-- [Japanese Text Breaks Your App in 7 Quiet Ways (With Code)](https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g)
 
 #### Dev.to React
 
 - [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o)
-- [How to Scroll Between Separate Components in React](https://dev.to/amelia2802/how-to-scroll-between-separate-components-in-react-gf2)
-- [Why a2ui's JSON-Driven Layout Schema Breaks Down in Production Modal Stacks](https://dev.to/chloe_chen/why-a2uis-json-driven-layout-schema-breaks-down-in-production-modal-stacks-2fee)
+- [TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript](https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h)
+- [One engine, two render layers: how I built the same data grid for Angular and React](https://dev.to/kaya2m/one-engine-two-render-layers-how-i-built-the-same-data-grid-for-angular-and-react-32c5)
 
 #### React Blog
 
@@ -94,13 +94,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
-        "link": "https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio",
+        "title": "TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript",
+        "link": "https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Japanese Text Breaks Your App in 7 Quiet Ways (With Code)",
-        "link": "https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g",
+        "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
+        "link": "https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "How to Scroll Between Separate Components in React",
-        "link": "https://dev.to/amelia2802/how-to-scroll-between-separate-components-in-react-gf2",
+        "title": "TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript",
+        "link": "https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h",
         "source": "Dev.to React"
       },
       {
-        "title": "Why a2ui's JSON-Driven Layout Schema Breaks Down in Production Modal Stacks",
-        "link": "https://dev.to/chloe_chen/why-a2uis-json-driven-layout-schema-breaks-down-in-production-modal-stacks-2fee",
+        "title": "One engine, two render layers: how I built the same data grid for Angular and React",
+        "link": "https://dev.to/kaya2m/one-engine-two-render-layers-how-i-built-the-same-data-grid-for-angular-and-react-32c5",
         "source": "Dev.to React"
       },
       {
