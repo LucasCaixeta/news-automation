@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
-- [TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type](https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5)
-- [i refused to build another boring portfolio](https://dev.to/iamovi/i-refused-to-build-another-boring-portfolio-1kac)
+- [I made Claude and Cursor build the same app. Then I put them on trial.](https://dev.to/connabyss/i-made-claude-and-cursor-build-the-same-app-then-i-put-them-on-trial-lbf)
+- [How I keep a multiplayer browser city alive with zero players online](https://dev.to/balakcity/how-i-keep-a-multiplayer-browser-city-alive-with-zero-players-online-5073)
+- [My AI page builder couldn't see its own pages. Here's how I gave it eyes (and free GPT-6.1 Sol)](https://dev.to/timofeus_248d45d3902a91a3/my-ai-page-builder-couldnt-see-its-own-pages-heres-how-i-gave-it-eyes-and-free-gpt-61-sol-16e7)
 
 #### Dev.to React
 
+- [Recover a WebMCP Update After Its Response Disappears](https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp)
 - [TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type](https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5)
-- [Debugging 404 URLs That Weren't Links: A React Breadcrumb Case](https://dev.to/salestudia/debugging-404-urls-that-werent-links-a-react-breadcrumb-case-47am)
-- [Turning Coding Practice into Real-Time 1v1 PvP Duels](https://dev.to/julius_3831ac1d72bae74b8d/turning-coding-practice-into-real-time-1v1-pvp-duels-15ob)
+- [How I Built a Fast Book Search & Cataloging System in React 19 Using Redux Toolkit](https://dev.to/ayoubrechouk/how-i-built-a-fast-book-search-cataloging-system-in-react-19-using-redux-toolkit-31o8)
 
 #### React Blog
 
@@ -89,19 +89,24 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 15, 2026",
     "news": [
       {
-        "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
-        "link": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h",
+        "title": "I made Claude and Cursor build the same app. Then I put them on trial.",
+        "link": "https://dev.to/connabyss/i-made-claude-and-cursor-build-the-same-app-then-i-put-them-on-trial-lbf",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type",
-        "link": "https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5",
+        "title": "How I keep a multiplayer browser city alive with zero players online",
+        "link": "https://dev.to/balakcity/how-i-keep-a-multiplayer-browser-city-alive-with-zero-players-online-5073",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "i refused to build another boring portfolio",
-        "link": "https://dev.to/iamovi/i-refused-to-build-another-boring-portfolio-1kac",
+        "title": "My AI page builder couldn't see its own pages. Here's how I gave it eyes (and free GPT-6.1 Sol)",
+        "link": "https://dev.to/timofeus_248d45d3902a91a3/my-ai-page-builder-couldnt-see-its-own-pages-heres-how-i-gave-it-eyes-and-free-gpt-61-sol-16e7",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Recover a WebMCP Update After Its Response Disappears",
+        "link": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp",
+        "source": "Dev.to React"
       },
       {
         "title": "TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type",
@@ -109,13 +114,8 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "Debugging 404 URLs That Weren't Links: A React Breadcrumb Case",
-        "link": "https://dev.to/salestudia/debugging-404-urls-that-werent-links-a-react-breadcrumb-case-47am",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Turning Coding Practice into Real-Time 1v1 PvP Duels",
-        "link": "https://dev.to/julius_3831ac1d72bae74b8d/turning-coding-practice-into-real-time-1v1-pvp-duels-15ob",
+        "title": "How I Built a Fast Book Search & Cataloging System in React 19 Using Redux Toolkit",
+        "link": "https://dev.to/ayoubrechouk/how-i-built-a-fast-book-search-cataloging-system-in-react-19-using-redux-toolkit-31o8",
         "source": "Dev.to React"
       },
       {
