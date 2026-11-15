@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 14, 2026)
+### Today's Updates (November 15, 2026)
+
+#### Dev.to JavaScript
+
+- [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
+- [TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type](https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5)
+- [i refused to build another boring portfolio](https://dev.to/iamovi/i-refused-to-build-another-boring-portfolio-1kac)
+
+#### Dev.to React
+
+- [TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type](https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5)
+- [Debugging 404 URLs That Weren't Links: A React Breadcrumb Case](https://dev.to/salestudia/debugging-404-urls-that-werent-links-a-react-breadcrumb-case-47am)
+- [Turning Coding Practice into Real-Time 1v1 PvP Duels](https://dev.to/julius_3831ac1d72bae74b8d/turning-coding-practice-into-real-time-1v1-pvp-duels-15ob)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 13, 2026)
+### 2 Days Ago (November 13, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo)
 - [How I built true background step counting in React 19.2 + Capacitor on Android 14/15 (without Google Fit, which is shutting down)](https://dev.to/support_euexia/how-i-built-true-background-step-counting-in-react-192-capacitor-on-android-1415-without-5bnm)
 - [Why React Needs key: The Bug That Moves Your Input to the Wrong Row](https://dev.to/mohsenfallahnjd/why-react-needs-key-the-bug-that-moves-your-input-to-the-wrong-row-4la8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 12, 2026)
-
-#### Dev.to JavaScript
-
-- [Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js](https://dev.to/amananandrai/what-got-more-real-in-101-indian-monuments-built-from-code-3edn)
-- [You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1)
-- [What the Sentry SDK drops after a 429 quota response](https://dev.to/amorizz/what-the-sentry-sdk-drops-after-a-429-quota-response-36n2)
-
-#### Dev.to React
-
-- [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo)
-- [Reduced motion in Framer Motion: what I learned adding it to 150+ files](https://dev.to/saurra3h/reduced-motion-in-framer-motion-what-i-learned-adding-it-to-150-files-4go1)
-- [Next.js prefetches got me rate-limited on my own site. Googlebot had been fetching them by the thousand](https://dev.to/alex_iolan/nextjs-prefetches-got-me-rate-limited-on-my-own-site-googlebot-had-been-fetching-them-by-the-280)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-15",
+    "formattedDate": "November 15, 2026",
+    "news": [
+      {
+        "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
+        "link": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type",
+        "link": "https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "i refused to build another boring portfolio",
+        "link": "https://dev.to/iamovi/i-refused-to-build-another-boring-portfolio-1kac",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type",
+        "link": "https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Debugging 404 URLs That Weren't Links: A React Breadcrumb Case",
+        "link": "https://dev.to/salestudia/debugging-404-urls-that-werent-links-a-react-breadcrumb-case-47am",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Turning Coding Practice into Real-Time 1v1 PvP Duels",
+        "link": "https://dev.to/julius_3831ac1d72bae74b8d/turning-coding-practice-into-real-time-1v1-pvp-duels-15ob",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-14",
     "formattedDate": "November 14, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Why React Needs key: The Bug That Moves Your Input to the Wrong Row",
         "link": "https://dev.to/mohsenfallahnjd/why-react-needs-key-the-bug-that-moves-your-input-to-the-wrong-row-4la8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-12",
-    "formattedDate": "November 12, 2026",
-    "news": [
-      {
-        "title": "Monuments of India, Part 2: Domes, Arches, Realistic Stone and Finer Details in three.js",
-        "link": "https://dev.to/amananandrai/what-got-more-real-in-101-indian-monuments-built-from-code-3edn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You're Still Optimizing Re-Renders Wrong: The Vue 3 Architecture That Outsmarted the Virtual DOM",
-        "link": "https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What the Sentry SDK drops after a 429 quota response",
-        "link": "https://dev.to/amorizz/what-the-sentry-sdk-drops-after-a-429-quota-response-36n2",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What Changes With the A2UI 1.0 Release",
-        "link": "https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Reduced motion in Framer Motion: what I learned adding it to 150+ files",
-        "link": "https://dev.to/saurra3h/reduced-motion-in-framer-motion-what-i-learned-adding-it-to-150-files-4go1",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Next.js prefetches got me rate-limited on my own site. Googlebot had been fetching them by the thousand",
-        "link": "https://dev.to/alex_iolan/nextjs-prefetches-got-me-rate-limited-on-my-own-site-googlebot-had-been-fetching-them-by-the-280",
         "source": "Dev.to React"
       },
       {
