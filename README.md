@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 15, 2026)
+### Today's Updates (November 16, 2026)
+
+#### Dev.to JavaScript
+
+- [🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet](https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp)
+- [How I built Bezel Charts: sixteen SVG charts for the web and Python, with zero dependencies](https://dev.to/shazmoghaddam/how-i-built-bezel-charts-sixteen-svg-charts-for-the-web-and-python-with-zero-dependencies-6gj)
+- [How I keep bots out of my own analytics, with no cookies and no third-party scripts](https://dev.to/hanzala_rasool_6d069eeab1/how-i-keep-bots-out-of-my-own-analytics-with-no-cookies-and-no-third-party-scripts-40k6)
+
+#### Dev.to React
+
+- [Recover a WebMCP Update After Its Response Disappears](https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp)
+- [When an import becomes a zip bomb: bundle regressions in Next.js](https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj)
+- [React developer learning Next.js: what carries over, what's new, 30-day plan](https://dev.to/switchbyskill/react-developer-learning-nextjs-what-carries-over-whats-new-30-day-plan-57la)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 14, 2026)
+### 2 Days Ago (November 14, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o)
 - [Prepare a WebMCP Review Without Submitting the Request](https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n)
 - [Story of a Component and a Developer’s Adventure using Bit](https://dev.to/chidume_kenneth_36237b684/story-of-a-component-and-a-developers-adventure-using-bit-4fm9)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 13, 2026)
-
-#### Dev.to JavaScript
-
-- [Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)](https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio)
-- [React `useId` in 2026: Why It Beats `Math.random()` for Accessibility and SSR Hydration](https://dev.to/jsmanifest/react-useid-in-2026-why-it-beats-mathrandom-for-accessibility-and-ssr-hydration-1ami)
-- [I put a real LLM in my portfolio. It runs on your GPU, not my server.](https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8)
-
-#### Dev.to React
-
-- [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo)
-- [How I built true background step counting in React 19.2 + Capacitor on Android 14/15 (without Google Fit, which is shutting down)](https://dev.to/support_euexia/how-i-built-true-background-step-counting-in-react-192-capacitor-on-android-1415-without-5bnm)
-- [Why React Needs key: The Bug That Moves Your Input to the Wrong Row](https://dev.to/mohsenfallahnjd/why-react-needs-key-the-bug-that-moves-your-input-to-the-wrong-row-4la8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-16",
+    "formattedDate": "November 16, 2026",
+    "news": [
+      {
+        "title": "🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet",
+        "link": "https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I built Bezel Charts: sixteen SVG charts for the web and Python, with zero dependencies",
+        "link": "https://dev.to/shazmoghaddam/how-i-built-bezel-charts-sixteen-svg-charts-for-the-web-and-python-with-zero-dependencies-6gj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I keep bots out of my own analytics, with no cookies and no third-party scripts",
+        "link": "https://dev.to/hanzala_rasool_6d069eeab1/how-i-keep-bots-out-of-my-own-analytics-with-no-cookies-and-no-third-party-scripts-40k6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Recover a WebMCP Update After Its Response Disappears",
+        "link": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "When an import becomes a zip bomb: bundle regressions in Next.js",
+        "link": "https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "React developer learning Next.js: what carries over, what's new, 30-day plan",
+        "link": "https://dev.to/switchbyskill/react-developer-learning-nextjs-what-carries-over-whats-new-30-day-plan-57la",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-15",
     "formattedDate": "November 15, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Story of a Component and a Developer’s Adventure using Bit",
         "link": "https://dev.to/chidume_kenneth_36237b684/story-of-a-component-and-a-developers-adventure-using-bit-4fm9",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-13",
-    "formattedDate": "November 13, 2026",
-    "news": [
-      {
-        "title": "Build an Offline AI Study App with Local Models (Liquid AI LFM3-1.7B)",
-        "link": "https://dev.to/debs_obrien/build-an-offline-ai-study-app-with-local-models-liquid-ai-lfm3-17b-1lio",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "React `useId` in 2026: Why It Beats `Math.random()` for Accessibility and SSR Hydration",
-        "link": "https://dev.to/jsmanifest/react-useid-in-2026-why-it-beats-mathrandom-for-accessibility-and-ssr-hydration-1ami",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I put a real LLM in my portfolio. It runs on your GPU, not my server.",
-        "link": "https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "What Changes With the A2UI 1.0 Release",
-        "link": "https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I built true background step counting in React 19.2 + Capacitor on Android 14/15 (without Google Fit, which is shutting down)",
-        "link": "https://dev.to/support_euexia/how-i-built-true-background-step-counting-in-react-192-capacitor-on-android-1415-without-5bnm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Why React Needs key: The Bug That Moves Your Input to the Wrong Row",
-        "link": "https://dev.to/mohsenfallahnjd/why-react-needs-key-the-bug-that-moves-your-input-to-the-wrong-row-4la8",
         "source": "Dev.to React"
       },
       {
