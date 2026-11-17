@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 16, 2026)
+### Today's Updates (November 17, 2026)
+
+#### Dev.to JavaScript
+
+- [🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet](https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp)
+- [Our cutouts had the right alpha and the wrong colors: a 0.5154 fringe score, and the fix](https://dev.to/szp2005/our-cutouts-had-the-right-alpha-and-the-wrong-colors-a-05154-fringe-score-and-the-fix-57gh)
+- [Why You Can’t Invert a Tax Bracket Formula (And How a 54-Step Binary Search Solves Contractor Break-Even Rates)](https://dev.to/muhammadahmadsandhu01/why-you-cant-invert-a-tax-bracket-formula-and-how-a-54-step-binary-search-solves-contractor-5412)
+
+#### Dev.to React
+
+- [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
+- [🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet](https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp)
+- [When an import becomes a zip bomb: bundle regressions in Next.js](https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 15, 2026)
+### 2 Days Ago (November 15, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Recover a WebMCP Update After Its Response Disappears](https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp)
 - [TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type](https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5)
 - [How I Built a Fast Book Search & Cataloging System in React 19 Using Redux Toolkit](https://dev.to/ayoubrechouk/how-i-built-a-fast-book-search-cataloging-system-in-react-19-using-redux-toolkit-31o8)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 14, 2026)
-
-#### Dev.to JavaScript
-
-- [One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)](https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h)
-- [Body Radar: a game where you guess your breath and pulse before the camera does](https://dev.to/itxashancode/body-radar-a-game-where-you-guess-your-breath-and-pulse-before-the-camera-does-31lb)
-- [I built interview prep games where you write real CSS and JavaScript](https://dev.to/muhammadminhaj786/i-built-interview-prep-games-where-you-write-real-css-and-javascript-5bif)
-
-#### Dev.to React
-
-- [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o)
-- [Prepare a WebMCP Review Without Submitting the Request](https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n)
-- [Story of a Component and a Developer’s Adventure using Bit](https://dev.to/chidume_kenneth_36237b684/story-of-a-component-and-a-developers-adventure-using-bit-4fm9)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-17",
+    "formattedDate": "November 17, 2026",
+    "news": [
+      {
+        "title": "🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet",
+        "link": "https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Our cutouts had the right alpha and the wrong colors: a 0.5154 fringe score, and the fix",
+        "link": "https://dev.to/szp2005/our-cutouts-had-the-right-alpha-and-the-wrong-colors-a-05154-fringe-score-and-the-fix-57gh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Why You Can’t Invert a Tax Bracket Formula (And How a 54-Step Binary Search Solves Contractor Break-Even Rates)",
+        "link": "https://dev.to/muhammadahmadsandhu01/why-you-cant-invert-a-tax-bracket-formula-and-how-a-54-step-binary-search-solves-contractor-5412",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)",
+        "link": "https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet",
+        "link": "https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "When an import becomes a zip bomb: bundle regressions in Next.js",
+        "link": "https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-16",
     "formattedDate": "November 16, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Built a Fast Book Search & Cataloging System in React 19 Using Redux Toolkit",
         "link": "https://dev.to/ayoubrechouk/how-i-built-a-fast-book-search-cataloging-system-in-react-19-using-redux-toolkit-31o8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-14",
-    "formattedDate": "November 14, 2026",
-    "news": [
-      {
-        "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
-        "link": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Body Radar: a game where you guess your breath and pulse before the camera does",
-        "link": "https://dev.to/itxashancode/body-radar-a-game-where-you-guess-your-breath-and-pulse-before-the-camera-does-31lb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built interview prep games where you write real CSS and JavaScript",
-        "link": "https://dev.to/muhammadminhaj786/i-built-interview-prep-games-where-you-write-real-css-and-javascript-5bif",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Scope WebMCP Tools to the Open React Workflow",
-        "link": "https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Prepare a WebMCP Review Without Submitting the Request",
-        "link": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Story of a Component and a Developer’s Adventure using Bit",
-        "link": "https://dev.to/chidume_kenneth_36237b684/story-of-a-component-and-a-developers-adventure-using-bit-4fm9",
         "source": "Dev.to React"
       },
       {
