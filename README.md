@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet](https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp)
-- [Our cutouts had the right alpha and the wrong colors: a 0.5154 fringe score, and the fix](https://dev.to/szp2005/our-cutouts-had-the-right-alpha-and-the-wrong-colors-a-05154-fringe-score-and-the-fix-57gh)
-- [Why You Can’t Invert a Tax Bracket Formula (And How a 54-Step Binary Search Solves Contractor Break-Even Rates)](https://dev.to/muhammadahmadsandhu01/why-you-cant-invert-a-tax-bracket-formula-and-how-a-54-step-binary-search-solves-contractor-5412)
+- [A Third-Party Script Can Rewrite Your Deposit Address](https://dev.to/azaleakuts/a-third-party-script-can-rewrite-your-deposit-address-35g5)
+- [File System Access API in a Chrome extension: 8 things that broke](https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m)
+- [Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection](https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg)
 
 #### Dev.to React
 
 - [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
-- [🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet](https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp)
-- [When an import becomes a zip bomb: bundle regressions in Next.js](https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj)
+- [I built a live SMM panel on Cloudflare's free tier — Workers, D1, and a wallet that can't double-spend](https://dev.to/atrx07/i-built-a-live-smm-panel-on-cloudflares-free-tier-workers-d1-and-a-wallet-that-cant-1pag)
+- [Your React accordion may be hiding answers from Google (and forceMount alone won't fix it)](https://dev.to/luca151/your-react-accordion-may-be-hiding-answers-from-google-and-forcemount-alone-wont-fix-it-1ne2)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 17, 2026",
     "news": [
       {
-        "title": "🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet",
-        "link": "https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp",
+        "title": "A Third-Party Script Can Rewrite Your Deposit Address",
+        "link": "https://dev.to/azaleakuts/a-third-party-script-can-rewrite-your-deposit-address-35g5",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Our cutouts had the right alpha and the wrong colors: a 0.5154 fringe score, and the fix",
-        "link": "https://dev.to/szp2005/our-cutouts-had-the-right-alpha-and-the-wrong-colors-a-05154-fringe-score-and-the-fix-57gh",
+        "title": "File System Access API in a Chrome extension: 8 things that broke",
+        "link": "https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Why You Can’t Invert a Tax Bracket Formula (And How a 54-Step Binary Search Solves Contractor Break-Even Rates)",
-        "link": "https://dev.to/muhammadahmadsandhu01/why-you-cant-invert-a-tax-bracket-formula-and-how-a-54-step-binary-search-solves-contractor-5412",
+        "title": "Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection",
+        "link": "https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet",
-        "link": "https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp",
+        "title": "I built a live SMM panel on Cloudflare's free tier — Workers, D1, and a wallet that can't double-spend",
+        "link": "https://dev.to/atrx07/i-built-a-live-smm-panel-on-cloudflares-free-tier-workers-d1-and-a-wallet-that-cant-1pag",
         "source": "Dev.to React"
       },
       {
-        "title": "When an import becomes a zip bomb: bundle regressions in Next.js",
-        "link": "https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj",
+        "title": "Your React accordion may be hiding answers from Google (and forceMount alone won't fix it)",
+        "link": "https://dev.to/luca151/your-react-accordion-may-be-hiding-answers-from-google-and-forcemount-alone-wont-fix-it-1ne2",
         "source": "Dev.to React"
       },
       {
