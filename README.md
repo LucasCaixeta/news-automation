@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [File System Access API in a Chrome extension: 8 things that broke](https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m)
-- [Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection](https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg)
-- [I built a 3D graveyard for my abandoned GitHub repos (18 of 22 are dead)](https://dev.to/selimyalinkilic/i-built-a-3d-graveyard-for-my-abandoned-github-repos-18-of-22-are-dead-5bbc)
+- [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
+- [Running GPT-6.2 Astra or Gemini 4 Argon to format a JSON file? I built a local tracker to see what that actually costs](https://dev.to/ib2mofficial/running-gpt-62-astra-or-gemini-4-argon-to-format-a-json-file-i-built-a-local-tracker-to-see-what-2cpn)
+- [Claude Code forgets your sessions after 30 days. I found my year anyway.](https://dev.to/thihodev/claude-code-forgets-your-sessions-after-30-days-i-found-my-year-anyway-5ege)
 
 #### Dev.to React
 
 - [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
-- [My Dashboard Synced Itself Only While You Watched. Background Tabs Broke That.](https://dev.to/nabeelbaghoor/my-dashboard-synced-itself-only-while-you-watched-background-tabs-broke-that-1c3o)
-- [Building a Resume Editor That Exports Real Text: A4 Layout, Vector PDFs and DOCX](https://dev.to/sadguruchenu/building-a-resume-editor-that-exports-real-text-a4-layout-vector-pdfs-and-docx-f7a)
+- [gpucanvas: 5,000 Live React Screens on a WebGPU Infinite Canvas](https://dev.to/berkantay/gpucanvas-5000-live-react-screens-on-a-webgpu-infinite-canvas-2h6l)
+- [How to Build a SaaS Landing Page with Next.js 16 and Tailwind CSS 4](https://dev.to/nandot12/how-to-build-a-saas-landing-page-with-nextjs-16-and-tailwind-css-4-759)
 
 #### React Blog
 
@@ -89,18 +89,18 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 18, 2026",
     "news": [
       {
-        "title": "File System Access API in a Chrome extension: 8 things that broke",
-        "link": "https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m",
+        "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
+        "link": "https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection",
-        "link": "https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg",
+        "title": "Running GPT-6.2 Astra or Gemini 4 Argon to format a JSON file? I built a local tracker to see what that actually costs",
+        "link": "https://dev.to/ib2mofficial/running-gpt-62-astra-or-gemini-4-argon-to-format-a-json-file-i-built-a-local-tracker-to-see-what-2cpn",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a 3D graveyard for my abandoned GitHub repos (18 of 22 are dead)",
-        "link": "https://dev.to/selimyalinkilic/i-built-a-3d-graveyard-for-my-abandoned-github-repos-18-of-22-are-dead-5bbc",
+        "title": "Claude Code forgets your sessions after 30 days. I found my year anyway.",
+        "link": "https://dev.to/thihodev/claude-code-forgets-your-sessions-after-30-days-i-found-my-year-anyway-5ege",
         "source": "Dev.to JavaScript"
       },
       {
@@ -109,13 +109,13 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to React"
       },
       {
-        "title": "My Dashboard Synced Itself Only While You Watched. Background Tabs Broke That.",
-        "link": "https://dev.to/nabeelbaghoor/my-dashboard-synced-itself-only-while-you-watched-background-tabs-broke-that-1c3o",
+        "title": "gpucanvas: 5,000 Live React Screens on a WebGPU Infinite Canvas",
+        "link": "https://dev.to/berkantay/gpucanvas-5000-live-react-screens-on-a-webgpu-infinite-canvas-2h6l",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Resume Editor That Exports Real Text: A4 Layout, Vector PDFs and DOCX",
-        "link": "https://dev.to/sadguruchenu/building-a-resume-editor-that-exports-real-text-a4-layout-vector-pdfs-and-docx-f7a",
+        "title": "How to Build a SaaS Landing Page with Next.js 16 and Tailwind CSS 4",
+        "link": "https://dev.to/nandot12/how-to-build-a-saas-landing-page-with-nextjs-16-and-tailwind-css-4-759",
         "source": "Dev.to React"
       },
       {
