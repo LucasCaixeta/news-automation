@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 17, 2026)
+### Today's Updates (November 18, 2026)
+
+#### Dev.to JavaScript
+
+- [File System Access API in a Chrome extension: 8 things that broke](https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m)
+- [Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection](https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg)
+- [I built a 3D graveyard for my abandoned GitHub repos (18 of 22 are dead)](https://dev.to/selimyalinkilic/i-built-a-3d-graveyard-for-my-abandoned-github-repos-18-of-22-are-dead-5bbc)
+
+#### Dev.to React
+
+- [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
+- [My Dashboard Synced Itself Only While You Watched. Background Tabs Broke That.](https://dev.to/nabeelbaghoor/my-dashboard-synced-itself-only-while-you-watched-background-tabs-broke-that-1c3o)
+- [Building a Resume Editor That Exports Real Text: A4 Layout, Vector PDFs and DOCX](https://dev.to/sadguruchenu/building-a-resume-editor-that-exports-real-text-a4-layout-vector-pdfs-and-docx-f7a)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 16, 2026)
+### 2 Days Ago (November 16, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Recover a WebMCP Update After Its Response Disappears](https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp)
 - [When an import becomes a zip bomb: bundle regressions in Next.js](https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj)
 - [React developer learning Next.js: what carries over, what's new, 30-day plan](https://dev.to/switchbyskill/react-developer-learning-nextjs-what-carries-over-whats-new-30-day-plan-57la)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 15, 2026)
-
-#### Dev.to JavaScript
-
-- [I made Claude and Cursor build the same app. Then I put them on trial.](https://dev.to/connabyss/i-made-claude-and-cursor-build-the-same-app-then-i-put-them-on-trial-lbf)
-- [How I keep a multiplayer browser city alive with zero players online](https://dev.to/balakcity/how-i-keep-a-multiplayer-browser-city-alive-with-zero-players-online-5073)
-- [My AI page builder couldn't see its own pages. Here's how I gave it eyes (and free GPT-6.1 Sol)](https://dev.to/timofeus_248d45d3902a91a3/my-ai-page-builder-couldnt-see-its-own-pages-heres-how-i-gave-it-eyes-and-free-gpt-61-sol-16e7)
-
-#### Dev.to React
-
-- [Recover a WebMCP Update After Its Response Disappears](https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp)
-- [TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type](https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5)
-- [How I Built a Fast Book Search & Cataloging System in React 19 Using Redux Toolkit](https://dev.to/ayoubrechouk/how-i-built-a-fast-book-search-cataloging-system-in-react-19-using-redux-toolkit-31o8)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-18",
+    "formattedDate": "November 18, 2026",
+    "news": [
+      {
+        "title": "File System Access API in a Chrome extension: 8 things that broke",
+        "link": "https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection",
+        "link": "https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a 3D graveyard for my abandoned GitHub repos (18 of 22 are dead)",
+        "link": "https://dev.to/selimyalinkilic/i-built-a-3d-graveyard-for-my-abandoned-github-repos-18-of-22-are-dead-5bbc",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)",
+        "link": "https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "My Dashboard Synced Itself Only While You Watched. Background Tabs Broke That.",
+        "link": "https://dev.to/nabeelbaghoor/my-dashboard-synced-itself-only-while-you-watched-background-tabs-broke-that-1c3o",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Resume Editor That Exports Real Text: A4 Layout, Vector PDFs and DOCX",
+        "link": "https://dev.to/sadguruchenu/building-a-resume-editor-that-exports-real-text-a4-layout-vector-pdfs-and-docx-f7a",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-17",
     "formattedDate": "November 17, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "React developer learning Next.js: what carries over, what's new, 30-day plan",
         "link": "https://dev.to/switchbyskill/react-developer-learning-nextjs-what-carries-over-whats-new-30-day-plan-57la",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-15",
-    "formattedDate": "November 15, 2026",
-    "news": [
-      {
-        "title": "I made Claude and Cursor build the same app. Then I put them on trial.",
-        "link": "https://dev.to/connabyss/i-made-claude-and-cursor-build-the-same-app-then-i-put-them-on-trial-lbf",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I keep a multiplayer browser city alive with zero players online",
-        "link": "https://dev.to/balakcity/how-i-keep-a-multiplayer-browser-city-alive-with-zero-players-online-5073",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "My AI page builder couldn't see its own pages. Here's how I gave it eyes (and free GPT-6.1 Sol)",
-        "link": "https://dev.to/timofeus_248d45d3902a91a3/my-ai-page-builder-couldnt-see-its-own-pages-heres-how-i-gave-it-eyes-and-free-gpt-61-sol-16e7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Recover a WebMCP Update After Its Response Disappears",
-        "link": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "TypeScript `Type Predicates` on Arrays: Writing `filter` Calls That Actually Narrow the Element Type",
-        "link": "https://dev.to/jsmanifest/typescript-type-predicates-on-arrays-writing-filter-calls-that-actually-narrow-the-element-type-30c5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I Built a Fast Book Search & Cataloging System in React 19 Using Redux Toolkit",
-        "link": "https://dev.to/ayoubrechouk/how-i-built-a-fast-book-search-cataloging-system-in-react-19-using-redux-toolkit-31o8",
         "source": "Dev.to React"
       },
       {
