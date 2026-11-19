@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 18, 2026)
+### Today's Updates (November 19, 2026)
+
+#### Dev.to JavaScript
+
+- [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
+- [I built a sandbox to win a security test and Deno tied me](https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95)
+- [Japanese PII detection that never leaves the browser (Transformers.js + a small ONNX model)](https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6)
+
+#### Dev.to React
+
+- [Google indexed 30 of my 547 pages. Here's what was wrong with my React SPA.](https://dev.to/waseem_khan_d39ebce9da161/google-indexed-30-of-my-547-pages-heres-what-was-wrong-with-my-react-spa-538j)
+- [HireSense is open source and looking for contributors — good first issues inside](https://dev.to/khizzcr7/hiresense-is-open-source-and-looking-for-contributors-good-first-issues-inside-3peo)
+- [Building Resilient Web Applications: Beyond Offline Loading (Part 2)](https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 17, 2026)
+### 2 Days Ago (November 17, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
 - [I built a live SMM panel on Cloudflare's free tier — Workers, D1, and a wallet that can't double-spend](https://dev.to/atrx07/i-built-a-live-smm-panel-on-cloudflares-free-tier-workers-d1-and-a-wallet-that-cant-1pag)
 - [Your React accordion may be hiding answers from Google (and forceMount alone won't fix it)](https://dev.to/luca151/your-react-accordion-may-be-hiding-answers-from-google-and-forcemount-alone-wont-fix-it-1ne2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 16, 2026)
-
-#### Dev.to JavaScript
-
-- [🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet](https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp)
-- [How I built Bezel Charts: sixteen SVG charts for the web and Python, with zero dependencies](https://dev.to/shazmoghaddam/how-i-built-bezel-charts-sixteen-svg-charts-for-the-web-and-python-with-zero-dependencies-6gj)
-- [How I keep bots out of my own analytics, with no cookies and no third-party scripts](https://dev.to/hanzala_rasool_6d069eeab1/how-i-keep-bots-out-of-my-own-analytics-with-no-cookies-and-no-third-party-scripts-40k6)
-
-#### Dev.to React
-
-- [Recover a WebMCP Update After Its Response Disappears](https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp)
-- [When an import becomes a zip bomb: bundle regressions in Next.js](https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj)
-- [React developer learning Next.js: what carries over, what's new, 30-day plan](https://dev.to/switchbyskill/react-developer-learning-nextjs-what-carries-over-whats-new-30-day-plan-57la)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-19",
+    "formattedDate": "November 19, 2026",
+    "news": [
+      {
+        "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
+        "link": "https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built a sandbox to win a security test and Deno tied me",
+        "link": "https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Japanese PII detection that never leaves the browser (Transformers.js + a small ONNX model)",
+        "link": "https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Google indexed 30 of my 547 pages. Here's what was wrong with my React SPA.",
+        "link": "https://dev.to/waseem_khan_d39ebce9da161/google-indexed-30-of-my-547-pages-heres-what-was-wrong-with-my-react-spa-538j",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "HireSense is open source and looking for contributors — good first issues inside",
+        "link": "https://dev.to/khizzcr7/hiresense-is-open-source-and-looking-for-contributors-good-first-issues-inside-3peo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building Resilient Web Applications: Beyond Offline Loading (Part 2)",
+        "link": "https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-18",
     "formattedDate": "November 18, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Your React accordion may be hiding answers from Google (and forceMount alone won't fix it)",
         "link": "https://dev.to/luca151/your-react-accordion-may-be-hiding-answers-from-google-and-forcemount-alone-wont-fix-it-1ne2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-16",
-    "formattedDate": "November 16, 2026",
-    "news": [
-      {
-        "title": "🌐 I Built an Interactive Digital Museum to Explore the Entire History of the Internet",
-        "link": "https://dev.to/dmsmenula/i-built-an-interactive-digital-museum-to-explore-the-entire-history-of-the-internet-39lp",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I built Bezel Charts: sixteen SVG charts for the web and Python, with zero dependencies",
-        "link": "https://dev.to/shazmoghaddam/how-i-built-bezel-charts-sixteen-svg-charts-for-the-web-and-python-with-zero-dependencies-6gj",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "How I keep bots out of my own analytics, with no cookies and no third-party scripts",
-        "link": "https://dev.to/hanzala_rasool_6d069eeab1/how-i-keep-bots-out-of-my-own-analytics-with-no-cookies-and-no-third-party-scripts-40k6",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Recover a WebMCP Update After Its Response Disappears",
-        "link": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "When an import becomes a zip bomb: bundle regressions in Next.js",
-        "link": "https://dev.to/bra31k/the-import-was-7-kib-the-regression-was-153-kib-4jbj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React developer learning Next.js: what carries over, what's new, 30-day plan",
-        "link": "https://dev.to/switchbyskill/react-developer-learning-nextjs-what-carries-over-whats-new-30-day-plan-57la",
         "source": "Dev.to React"
       },
       {
