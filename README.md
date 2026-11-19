@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
-- [I built a sandbox to win a security test and Deno tied me](https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95)
-- [Japanese PII detection that never leaves the browser (Transformers.js + a small ONNX model)](https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6)
+- [Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs](https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol)
+- [Making a sledding game feel like sledding: one engine, three physics configs](https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op)
 
 #### Dev.to React
 
-- [Google indexed 30 of my 547 pages. Here's what was wrong with my React SPA.](https://dev.to/waseem_khan_d39ebce9da161/google-indexed-30-of-my-547-pages-heres-what-was-wrong-with-my-react-spa-538j)
-- [HireSense is open source and looking for contributors — good first issues inside](https://dev.to/khizzcr7/hiresense-is-open-source-and-looking-for-contributors-good-first-issues-inside-3peo)
-- [Building Resilient Web Applications: Beyond Offline Loading (Part 2)](https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk)
+- [The Rive Handoff Checklist: 10 Things Developers and Animators Should Agree On Before the First Keyframe](https://dev.to/hireriveanimator/the-rive-handoff-checklist-10-things-developers-and-animators-should-agree-on-before-the-first-lj8)
+- [JSON-LD in the Next.js App Router: typed, safe, in the initial HTML, and in sync with the page](https://dev.to/liaxim/json-ld-in-the-nextjs-app-router-typed-safe-in-the-initial-html-and-in-sync-with-the-page-42jm)
+- [Make the agent use the existing Link component, not a raw <a>, for internal routes](https://dev.to/sherotree/make-the-agent-use-the-existing-link-component-not-a-raw-for-internal-routes-54db)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "I built a sandbox to win a security test and Deno tied me",
-        "link": "https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95",
+        "title": "Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs",
+        "link": "https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Japanese PII detection that never leaves the browser (Transformers.js + a small ONNX model)",
-        "link": "https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6",
+        "title": "Making a sledding game feel like sledding: one engine, three physics configs",
+        "link": "https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Google indexed 30 of my 547 pages. Here's what was wrong with my React SPA.",
-        "link": "https://dev.to/waseem_khan_d39ebce9da161/google-indexed-30-of-my-547-pages-heres-what-was-wrong-with-my-react-spa-538j",
+        "title": "The Rive Handoff Checklist: 10 Things Developers and Animators Should Agree On Before the First Keyframe",
+        "link": "https://dev.to/hireriveanimator/the-rive-handoff-checklist-10-things-developers-and-animators-should-agree-on-before-the-first-lj8",
         "source": "Dev.to React"
       },
       {
-        "title": "HireSense is open source and looking for contributors — good first issues inside",
-        "link": "https://dev.to/khizzcr7/hiresense-is-open-source-and-looking-for-contributors-good-first-issues-inside-3peo",
+        "title": "JSON-LD in the Next.js App Router: typed, safe, in the initial HTML, and in sync with the page",
+        "link": "https://dev.to/liaxim/json-ld-in-the-nextjs-app-router-typed-safe-in-the-initial-html-and-in-sync-with-the-page-42jm",
         "source": "Dev.to React"
       },
       {
-        "title": "Building Resilient Web Applications: Beyond Offline Loading (Part 2)",
-        "link": "https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk",
+        "title": "Make the agent use the existing Link component, not a raw <a>, for internal routes",
+        "link": "https://dev.to/sherotree/make-the-agent-use-the-existing-link-component-not-a-raw-for-internal-routes-54db",
         "source": "Dev.to React"
       },
       {
