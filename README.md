@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 19, 2026)
+### Today's Updates (November 20, 2026)
+
+#### Dev.to JavaScript
+
+- [Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs](https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol)
+- [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
+- [TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint](https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm)
+
+#### Dev.to React
+
+- [TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint](https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm)
+- [I built a free YouTube growth tool for Hindi creators on a ₹0 hosting stack](https://dev.to/makeitviral_owner/i-built-a-free-youtube-growth-tool-for-hindi-creators-on-a-0-hosting-stack-1l79)
+- [Building a Zero-Signup Rule 46 GST Tax Invoice Generator in React with A4 Vector PDFs](https://dev.to/amtechsci/building-a-zero-signup-rule-46-gst-tax-invoice-generator-in-react-with-a4-vector-pdfs-58j8)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 18, 2026)
+### 2 Days Ago (November 18, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
 - [gpucanvas: 5,000 Live React Screens on a WebGPU Infinite Canvas](https://dev.to/berkantay/gpucanvas-5000-live-react-screens-on-a-webgpu-infinite-canvas-2h6l)
 - [How to Build a SaaS Landing Page with Next.js 16 and Tailwind CSS 4](https://dev.to/nandot12/how-to-build-a-saas-landing-page-with-nextjs-16-and-tailwind-css-4-759)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 17, 2026)
-
-#### Dev.to JavaScript
-
-- [A Third-Party Script Can Rewrite Your Deposit Address](https://dev.to/azaleakuts/a-third-party-script-can-rewrite-your-deposit-address-35g5)
-- [File System Access API in a Chrome extension: 8 things that broke](https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m)
-- [Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection](https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg)
-
-#### Dev.to React
-
-- [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
-- [I built a live SMM panel on Cloudflare's free tier — Workers, D1, and a wallet that can't double-spend](https://dev.to/atrx07/i-built-a-live-smm-panel-on-cloudflares-free-tier-workers-d1-and-a-wallet-that-cant-1pag)
-- [Your React accordion may be hiding answers from Google (and forceMount alone won't fix it)](https://dev.to/luca151/your-react-accordion-may-be-hiding-answers-from-google-and-forcemount-alone-wont-fix-it-1ne2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-20",
+    "formattedDate": "November 20, 2026",
+    "news": [
+      {
+        "title": "Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs",
+        "link": "https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
+        "link": "https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint",
+        "link": "https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint",
+        "link": "https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a free YouTube growth tool for Hindi creators on a ₹0 hosting stack",
+        "link": "https://dev.to/makeitviral_owner/i-built-a-free-youtube-growth-tool-for-hindi-creators-on-a-0-hosting-stack-1l79",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building a Zero-Signup Rule 46 GST Tax Invoice Generator in React with A4 Vector PDFs",
+        "link": "https://dev.to/amtechsci/building-a-zero-signup-rule-46-gst-tax-invoice-generator-in-react-with-a4-vector-pdfs-58j8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-19",
     "formattedDate": "November 19, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How to Build a SaaS Landing Page with Next.js 16 and Tailwind CSS 4",
         "link": "https://dev.to/nandot12/how-to-build-a-saas-landing-page-with-nextjs-16-and-tailwind-css-4-759",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-17",
-    "formattedDate": "November 17, 2026",
-    "news": [
-      {
-        "title": "A Third-Party Script Can Rewrite Your Deposit Address",
-        "link": "https://dev.to/azaleakuts/a-third-party-script-can-rewrite-your-deposit-address-35g5",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "File System Access API in a Chrome extension: 8 things that broke",
-        "link": "https://dev.to/ashimanski/file-system-access-api-in-a-chrome-extension-8-things-that-broke-326m",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Optimizely Web malware (16 Nov 2026): is your snippet clean? A read-only checker with base64 detection",
-        "link": "https://dev.to/aikahub/optimizely-web-malware-16-nov-2026-is-your-snippet-clean-a-read-only-checker-with-base64-57eg",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)",
-        "link": "https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "I built a live SMM panel on Cloudflare's free tier — Workers, D1, and a wallet that can't double-spend",
-        "link": "https://dev.to/atrx07/i-built-a-live-smm-panel-on-cloudflares-free-tier-workers-d1-and-a-wallet-that-cant-1pag",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Your React accordion may be hiding answers from Google (and forceMount alone won't fix it)",
-        "link": "https://dev.to/luca151/your-react-accordion-may-be-hiding-answers-from-google-and-forcemount-alone-wont-fix-it-1ne2",
         "source": "Dev.to React"
       },
       {
