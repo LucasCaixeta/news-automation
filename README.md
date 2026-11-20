@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs](https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol)
-- [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
-- [TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint](https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm)
+- [Offline phone games the server can still trust: we replay every game on the backend](https://dev.to/pavel_kleschenok_6548f96a/offline-phone-games-the-server-can-still-trust-we-replay-every-game-on-the-backend-2oem)
+- [`npm config get` Knows Which Layer Won. It Just Won't Tell You.](https://dev.to/aheadkit/npm-config-get-knows-which-layer-won-it-just-wont-tell-you-140i)
 
 #### Dev.to React
 
-- [TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint](https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm)
-- [I built a free YouTube growth tool for Hindi creators on a ₹0 hosting stack](https://dev.to/makeitviral_owner/i-built-a-free-youtube-growth-tool-for-hindi-creators-on-a-0-hosting-stack-1l79)
-- [Building a Zero-Signup Rule 46 GST Tax Invoice Generator in React with A4 Vector PDFs](https://dev.to/amtechsci/building-a-zero-signup-rule-46-gst-tax-invoice-generator-in-react-with-a4-vector-pdfs-58j8)
+- [This Week In React #306 : UI SDK, Fate, RSC, Next.js, Dragology, Helmet | Expo Simulators, Exact, Bottom Sheet | Solid, webpack, Node.js](https://dev.to/sebastienlorber/this-week-in-react-306-ui-sdk-fate-rsc-nextjs-dragology-helmet-expo-simulators-exact-kl1)
+- [I turned my Excel expense tracker into a full-stack app with React, Node, PostgreSQL and Docker](https://dev.to/mubeen780/i-turned-my-excel-expense-tracker-into-a-full-stack-app-with-react-node-postgresql-and-docker-1l8j)
+- [Underlining the spoken word without touching the book's HTML](https://dev.to/listenelsewhere/underlining-the-spoken-word-without-touching-the-books-html-2kmh)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
-        "link": "https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g",
+        "title": "Offline phone games the server can still trust: we replay every game on the backend",
+        "link": "https://dev.to/pavel_kleschenok_6548f96a/offline-phone-games-the-server-can-still-trust-we-replay-every-game-on-the-backend-2oem",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint",
-        "link": "https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm",
+        "title": "`npm config get` Knows Which Layer Won. It Just Won't Tell You.",
+        "link": "https://dev.to/aheadkit/npm-config-get-knows-which-layer-won-it-just-wont-tell-you-140i",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "TypeScript `Const` Assertions on Function Arguments in 2026: When Inline `as const` Beats a Generic Constraint",
-        "link": "https://dev.to/jsmanifest/typescript-const-assertions-on-function-arguments-in-2026-when-inline-as-const-beats-a-generic-1bmm",
+        "title": "This Week In React #306 : UI SDK, Fate, RSC, Next.js, Dragology, Helmet | Expo Simulators, Exact, Bottom Sheet | Solid, webpack, Node.js",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-306-ui-sdk-fate-rsc-nextjs-dragology-helmet-expo-simulators-exact-kl1",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a free YouTube growth tool for Hindi creators on a ₹0 hosting stack",
-        "link": "https://dev.to/makeitviral_owner/i-built-a-free-youtube-growth-tool-for-hindi-creators-on-a-0-hosting-stack-1l79",
+        "title": "I turned my Excel expense tracker into a full-stack app with React, Node, PostgreSQL and Docker",
+        "link": "https://dev.to/mubeen780/i-turned-my-excel-expense-tracker-into-a-full-stack-app-with-react-node-postgresql-and-docker-1l8j",
         "source": "Dev.to React"
       },
       {
-        "title": "Building a Zero-Signup Rule 46 GST Tax Invoice Generator in React with A4 Vector PDFs",
-        "link": "https://dev.to/amtechsci/building-a-zero-signup-rule-46-gst-tax-invoice-generator-in-react-with-a4-vector-pdfs-58j8",
+        "title": "Underlining the spoken word without touching the book's HTML",
+        "link": "https://dev.to/listenelsewhere/underlining-the-spoken-word-without-touching-the-books-html-2kmh",
         "source": "Dev.to React"
       },
       {
