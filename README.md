@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [How a web page can measure your mouse's polling rate](https://dev.to/myklez/how-a-web-page-can-measure-your-mouses-polling-rate-3e9c)
-- [My 3D people looked like zombies. Here's every fix it took to make them talk.](https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj)
-- [JavaScript's \b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages](https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5)
+- [Cometflow Do: Rethinking AI Assistants as Task Execution Engines](https://dev.to/pratyush_ranjan_roul/cometflow-do-rethinking-ai-assistants-as-task-execution-engines-4l14)
+- [i built a gta 6 cheat site you can use from the ps5 browser with a controller](https://dev.to/bro_explains_943984275ed7/i-built-a-gta-6-cheat-site-you-can-use-from-the-ps5-browser-with-a-controller-1nm0)
+- [My search box scored 1.00 on a query it understood nothing about](https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8)
 
 #### Dev.to React
 
-- [Building a transit map editor in the browser: 45 routing, rounded corners and parallel line bundling](https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1)
-- [Benchmarking lbjlaq/Antigravity-Manager: Throughput, Memory Overhead, and p99 Latency](https://dev.to/chloe_chen/benchmarking-lbjlaqantigravity-manager-throughput-memory-overhead-and-p99-latency-60c)
-- [I built an ML signal platform for the Colombo Stock Exchange. The model was the easy part.](https://dev.to/jkchinthaka/i-built-an-ml-signal-platform-for-the-colombo-stock-exchange-the-model-was-the-easy-part-23c2)
+- [React or Next.js Site Not Indexed by Google? Here's the Fix](https://dev.to/abdullah_razzaq_648d1a98f/react-or-nextjs-site-not-indexed-by-google-heres-the-fix-3a51)
+- [Headless UI for Beginners: Accessible Components Without the Styling](https://dev.to/arhan_khan/headless-ui-for-beginners-accessible-components-without-the-styling-170e)
+- [MobX for Beginners: State Management That Just Works](https://dev.to/arhan_khan/mobx-for-beginners-state-management-that-just-works-2mh2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 21, 2026",
     "news": [
       {
-        "title": "How a web page can measure your mouse's polling rate",
-        "link": "https://dev.to/myklez/how-a-web-page-can-measure-your-mouses-polling-rate-3e9c",
+        "title": "Cometflow Do: Rethinking AI Assistants as Task Execution Engines",
+        "link": "https://dev.to/pratyush_ranjan_roul/cometflow-do-rethinking-ai-assistants-as-task-execution-engines-4l14",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My 3D people looked like zombies. Here's every fix it took to make them talk.",
-        "link": "https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj",
+        "title": "i built a gta 6 cheat site you can use from the ps5 browser with a controller",
+        "link": "https://dev.to/bro_explains_943984275ed7/i-built-a-gta-6-cheat-site-you-can-use-from-the-ps5-browser-with-a-controller-1nm0",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "JavaScript's \\b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages",
-        "link": "https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5",
+        "title": "My search box scored 1.00 on a query it understood nothing about",
+        "link": "https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a transit map editor in the browser: 45 routing, rounded corners and parallel line bundling",
-        "link": "https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1",
+        "title": "React or Next.js Site Not Indexed by Google? Here's the Fix",
+        "link": "https://dev.to/abdullah_razzaq_648d1a98f/react-or-nextjs-site-not-indexed-by-google-heres-the-fix-3a51",
         "source": "Dev.to React"
       },
       {
-        "title": "Benchmarking lbjlaq/Antigravity-Manager: Throughput, Memory Overhead, and p99 Latency",
-        "link": "https://dev.to/chloe_chen/benchmarking-lbjlaqantigravity-manager-throughput-memory-overhead-and-p99-latency-60c",
+        "title": "Headless UI for Beginners: Accessible Components Without the Styling",
+        "link": "https://dev.to/arhan_khan/headless-ui-for-beginners-accessible-components-without-the-styling-170e",
         "source": "Dev.to React"
       },
       {
-        "title": "I built an ML signal platform for the Colombo Stock Exchange. The model was the easy part.",
-        "link": "https://dev.to/jkchinthaka/i-built-an-ml-signal-platform-for-the-colombo-stock-exchange-the-model-was-the-easy-part-23c2",
+        "title": "MobX for Beginners: State Management That Just Works",
+        "link": "https://dev.to/arhan_khan/mobx-for-beginners-state-management-that-just-works-2mh2",
         "source": "Dev.to React"
       },
       {
