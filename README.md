@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Cometflow Do: Rethinking AI Assistants as Task Execution Engines](https://dev.to/pratyush_ranjan_roul/cometflow-do-rethinking-ai-assistants-as-task-execution-engines-4l14)
-- [i built a gta 6 cheat site you can use from the ps5 browser with a controller](https://dev.to/bro_explains_943984275ed7/i-built-a-gta-6-cheat-site-you-can-use-from-the-ps5-browser-with-a-controller-1nm0)
-- [My search box scored 1.00 on a query it understood nothing about](https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8)
+- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
+- [I built a 3D open-world mythology game in the browser with just Three.js](https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic)
+- [Architecting Mixel Engine: Building a 60 FPS 2D Canvas Rendering Pipeline for the Web](https://dev.to/alhossainrifat/architecting-mixel-engine-building-a-60-fps-2d-canvas-rendering-pipeline-for-the-web-1d5f)
 
 #### Dev.to React
 
+- [You Don't Need That useEffect: Derived State in React](https://dev.to/mohsenfallahnjd/you-dont-need-that-useeffect-derived-state-in-react-32c8)
+- [What Runs First in a Next.js Page: Server Components, Render, Effects](https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2)
 - [React or Next.js Site Not Indexed by Google? Here's the Fix](https://dev.to/abdullah_razzaq_648d1a98f/react-or-nextjs-site-not-indexed-by-google-heres-the-fix-3a51)
-- [Headless UI for Beginners: Accessible Components Without the Styling](https://dev.to/arhan_khan/headless-ui-for-beginners-accessible-components-without-the-styling-170e)
-- [MobX for Beginners: State Management That Just Works](https://dev.to/arhan_khan/mobx-for-beginners-state-management-that-just-works-2mh2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 21, 2026",
     "news": [
       {
-        "title": "Cometflow Do: Rethinking AI Assistants as Task Execution Engines",
-        "link": "https://dev.to/pratyush_ranjan_roul/cometflow-do-rethinking-ai-assistants-as-task-execution-engines-4l14",
+        "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
+        "link": "https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "i built a gta 6 cheat site you can use from the ps5 browser with a controller",
-        "link": "https://dev.to/bro_explains_943984275ed7/i-built-a-gta-6-cheat-site-you-can-use-from-the-ps5-browser-with-a-controller-1nm0",
+        "title": "I built a 3D open-world mythology game in the browser with just Three.js",
+        "link": "https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "My search box scored 1.00 on a query it understood nothing about",
-        "link": "https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8",
+        "title": "Architecting Mixel Engine: Building a 60 FPS 2D Canvas Rendering Pipeline for the Web",
+        "link": "https://dev.to/alhossainrifat/architecting-mixel-engine-building-a-60-fps-2d-canvas-rendering-pipeline-for-the-web-1d5f",
         "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "You Don't Need That useEffect: Derived State in React",
+        "link": "https://dev.to/mohsenfallahnjd/you-dont-need-that-useeffect-derived-state-in-react-32c8",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "What Runs First in a Next.js Page: Server Components, Render, Effects",
+        "link": "https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2",
+        "source": "Dev.to React"
       },
       {
         "title": "React or Next.js Site Not Indexed by Google? Here's the Fix",
         "link": "https://dev.to/abdullah_razzaq_648d1a98f/react-or-nextjs-site-not-indexed-by-google-heres-the-fix-3a51",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Headless UI for Beginners: Accessible Components Without the Styling",
-        "link": "https://dev.to/arhan_khan/headless-ui-for-beginners-accessible-components-without-the-styling-170e",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "MobX for Beginners: State Management That Just Works",
-        "link": "https://dev.to/arhan_khan/mobx-for-beginners-state-management-that-just-works-2mh2",
         "source": "Dev.to React"
       },
       {
