@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 20, 2026)
+### Today's Updates (November 21, 2026)
+
+#### Dev.to JavaScript
+
+- [How a web page can measure your mouse's polling rate](https://dev.to/myklez/how-a-web-page-can-measure-your-mouses-polling-rate-3e9c)
+- [My 3D people looked like zombies. Here's every fix it took to make them talk.](https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj)
+- [JavaScript's \b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages](https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5)
+
+#### Dev.to React
+
+- [Building a transit map editor in the browser: 45 routing, rounded corners and parallel line bundling](https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1)
+- [Benchmarking lbjlaq/Antigravity-Manager: Throughput, Memory Overhead, and p99 Latency](https://dev.to/chloe_chen/benchmarking-lbjlaqantigravity-manager-throughput-memory-overhead-and-p99-latency-60c)
+- [I built an ML signal platform for the Colombo Stock Exchange. The model was the easy part.](https://dev.to/jkchinthaka/i-built-an-ml-signal-platform-for-the-colombo-stock-exchange-the-model-was-the-easy-part-23c2)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 19, 2026)
+### 2 Days Ago (November 19, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [The Rive Handoff Checklist: 10 Things Developers and Animators Should Agree On Before the First Keyframe](https://dev.to/hireriveanimator/the-rive-handoff-checklist-10-things-developers-and-animators-should-agree-on-before-the-first-lj8)
 - [JSON-LD in the Next.js App Router: typed, safe, in the initial HTML, and in sync with the page](https://dev.to/liaxim/json-ld-in-the-nextjs-app-router-typed-safe-in-the-initial-html-and-in-sync-with-the-page-42jm)
 - [Make the agent use the existing Link component, not a raw <a>, for internal routes](https://dev.to/sherotree/make-the-agent-use-the-existing-link-component-not-a-raw-for-internal-routes-54db)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 18, 2026)
-
-#### Dev.to JavaScript
-
-- [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
-- [Running GPT-6.2 Astra or Gemini 4 Argon to format a JSON file? I built a local tracker to see what that actually costs](https://dev.to/ib2mofficial/running-gpt-62-astra-or-gemini-4-argon-to-format-a-json-file-i-built-a-local-tracker-to-see-what-2cpn)
-- [Claude Code forgets your sessions after 30 days. I found my year anyway.](https://dev.to/thihodev/claude-code-forgets-your-sessions-after-30-days-i-found-my-year-anyway-5ege)
-
-#### Dev.to React
-
-- [PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)](https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387)
-- [gpucanvas: 5,000 Live React Screens on a WebGPU Infinite Canvas](https://dev.to/berkantay/gpucanvas-5000-live-react-screens-on-a-webgpu-infinite-canvas-2h6l)
-- [How to Build a SaaS Landing Page with Next.js 16 and Tailwind CSS 4](https://dev.to/nandot12/how-to-build-a-saas-landing-page-with-nextjs-16-and-tailwind-css-4-759)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-21",
+    "formattedDate": "November 21, 2026",
+    "news": [
+      {
+        "title": "How a web page can measure your mouse's polling rate",
+        "link": "https://dev.to/myklez/how-a-web-page-can-measure-your-mouses-polling-rate-3e9c",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "My 3D people looked like zombies. Here's every fix it took to make them talk.",
+        "link": "https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript's \\b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages",
+        "link": "https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a transit map editor in the browser: 45 routing, rounded corners and parallel line bundling",
+        "link": "https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Benchmarking lbjlaq/Antigravity-Manager: Throughput, Memory Overhead, and p99 Latency",
+        "link": "https://dev.to/chloe_chen/benchmarking-lbjlaqantigravity-manager-throughput-memory-overhead-and-p99-latency-60c",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built an ML signal platform for the Colombo Stock Exchange. The model was the easy part.",
+        "link": "https://dev.to/jkchinthaka/i-built-an-ml-signal-platform-for-the-colombo-stock-exchange-the-model-was-the-easy-part-23c2",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-20",
     "formattedDate": "November 20, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Make the agent use the existing Link component, not a raw <a>, for internal routes",
         "link": "https://dev.to/sherotree/make-the-agent-use-the-existing-link-component-not-a-raw-for-internal-routes-54db",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-18",
-    "formattedDate": "November 18, 2026",
-    "news": [
-      {
-        "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
-        "link": "https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Running GPT-6.2 Astra or Gemini 4 Argon to format a JSON file? I built a local tracker to see what that actually costs",
-        "link": "https://dev.to/ib2mofficial/running-gpt-62-astra-or-gemini-4-argon-to-format-a-json-file-i-built-a-local-tracker-to-see-what-2cpn",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Claude Code forgets your sessions after 30 days. I found my year anyway.",
-        "link": "https://dev.to/thihodev/claude-code-forgets-your-sessions-after-30-days-i-found-my-year-anyway-5ege",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)",
-        "link": "https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "gpucanvas: 5,000 Live React Screens on a WebGPU Infinite Canvas",
-        "link": "https://dev.to/berkantay/gpucanvas-5000-live-react-screens-on-a-webgpu-infinite-canvas-2h6l",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How to Build a SaaS Landing Page with Next.js 16 and Tailwind CSS 4",
-        "link": "https://dev.to/nandot12/how-to-build-a-saas-landing-page-with-nextjs-16-and-tailwind-css-4-759",
         "source": "Dev.to React"
       },
       {
