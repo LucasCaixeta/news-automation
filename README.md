@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 21, 2026)
+### Today's Updates (November 22, 2026)
+
+#### Dev.to JavaScript
+
+- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
+- [Three date bugs in a 10-line age calculator (and the TZ= trick that exposes them)](https://dev.to/sikandar_bro_0db8c99c4a7c/three-date-bugs-in-a-10-line-age-calculator-and-the-tz-trick-that-exposes-them-366e)
+- [Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.](https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm)
+
+#### Dev.to React
+
+- [885 of our 1,522 functions take exactly one argument, and the widest one is seven numbers that draw a shrub](https://dev.to/daniel_pertu/885-of-our-1522-functions-take-exactly-one-argument-and-the-widest-one-is-seven-numbers-that-draw-cp5)
+- [Two thirds of every page we serve is the React payload, and one key prop is 16 per cent of our bytes](https://dev.to/daniel_pertu/two-thirds-of-every-page-we-serve-is-the-react-payload-and-one-key-prop-is-16-per-cent-of-our-bytes-3ggi)
+- [52 attribute names hold our 76 public pages together, and React spells eleven of them with a capital letter](https://dev.to/daniel_pertu/52-attribute-names-hold-our-76-public-pages-together-and-react-spells-eleven-of-them-with-a-45gi)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 21, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 20, 2026)
+### 2 Days Ago (November 20, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [This Week In React #306 : UI SDK, Fate, RSC, Next.js, Dragology, Helmet | Expo Simulators, Exact, Bottom Sheet | Solid, webpack, Node.js](https://dev.to/sebastienlorber/this-week-in-react-306-ui-sdk-fate-rsc-nextjs-dragology-helmet-expo-simulators-exact-kl1)
 - [I turned my Excel expense tracker into a full-stack app with React, Node, PostgreSQL and Docker](https://dev.to/mubeen780/i-turned-my-excel-expense-tracker-into-a-full-stack-app-with-react-node-postgresql-and-docker-1l8j)
 - [Underlining the spoken word without touching the book's HTML](https://dev.to/listenelsewhere/underlining-the-spoken-word-without-touching-the-books-html-2kmh)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 19, 2026)
-
-#### Dev.to JavaScript
-
-- [Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5](https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g)
-- [Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs](https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol)
-- [Making a sledding game feel like sledding: one engine, three physics configs](https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op)
-
-#### Dev.to React
-
-- [The Rive Handoff Checklist: 10 Things Developers and Animators Should Agree On Before the First Keyframe](https://dev.to/hireriveanimator/the-rive-handoff-checklist-10-things-developers-and-animators-should-agree-on-before-the-first-lj8)
-- [JSON-LD in the Next.js App Router: typed, safe, in the initial HTML, and in sync with the page](https://dev.to/liaxim/json-ld-in-the-nextjs-app-router-typed-safe-in-the-initial-html-and-in-sync-with-the-page-42jm)
-- [Make the agent use the existing Link component, not a raw <a>, for internal routes](https://dev.to/sherotree/make-the-agent-use-the-existing-link-component-not-a-raw-for-internal-routes-54db)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-22",
+    "formattedDate": "November 22, 2026",
+    "news": [
+      {
+        "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
+        "link": "https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Three date bugs in a 10-line age calculator (and the TZ= trick that exposes them)",
+        "link": "https://dev.to/sikandar_bro_0db8c99c4a7c/three-date-bugs-in-a-10-line-age-calculator-and-the-tz-trick-that-exposes-them-366e",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.",
+        "link": "https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "885 of our 1,522 functions take exactly one argument, and the widest one is seven numbers that draw a shrub",
+        "link": "https://dev.to/daniel_pertu/885-of-our-1522-functions-take-exactly-one-argument-and-the-widest-one-is-seven-numbers-that-draw-cp5",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Two thirds of every page we serve is the React payload, and one key prop is 16 per cent of our bytes",
+        "link": "https://dev.to/daniel_pertu/two-thirds-of-every-page-we-serve-is-the-react-payload-and-one-key-prop-is-16-per-cent-of-our-bytes-3ggi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "52 attribute names hold our 76 public pages together, and React spells eleven of them with a capital letter",
+        "link": "https://dev.to/daniel_pertu/52-attribute-names-hold-our-76-public-pages-together-and-react-spells-eleven-of-them-with-a-45gi",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-21",
     "formattedDate": "November 21, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Underlining the spoken word without touching the book's HTML",
         "link": "https://dev.to/listenelsewhere/underlining-the-spoken-word-without-touching-the-books-html-2kmh",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-19",
-    "formattedDate": "November 19, 2026",
-    "news": [
-      {
-        "title": "Next.js use cache Reused the Same Cache Entry for Different Files Before 16.4.5",
-        "link": "https://dev.to/shubhradev/nextjs-use-cache-reused-the-same-cache-entry-for-different-files-before-1645-598g",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop Wrapping Everything in Promise.all: How Unbounded Concurrency Crashes APIs",
-        "link": "https://dev.to/johnnylemonny/stop-wrapping-everything-in-promiseall-how-unbounded-concurrency-crashes-apis-11ol",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Making a sledding game feel like sledding: one engine, three physics configs",
-        "link": "https://dev.to/chaoticarray516/making-a-sledding-game-feel-like-sledding-one-engine-three-physics-configs-1op",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Rive Handoff Checklist: 10 Things Developers and Animators Should Agree On Before the First Keyframe",
-        "link": "https://dev.to/hireriveanimator/the-rive-handoff-checklist-10-things-developers-and-animators-should-agree-on-before-the-first-lj8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "JSON-LD in the Next.js App Router: typed, safe, in the initial HTML, and in sync with the page",
-        "link": "https://dev.to/liaxim/json-ld-in-the-nextjs-app-router-typed-safe-in-the-initial-html-and-in-sync-with-the-page-42jm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Make the agent use the existing Link component, not a raw <a>, for internal routes",
-        "link": "https://dev.to/sherotree/make-the-agent-use-the-existing-link-component-not-a-raw-for-internal-routes-54db",
         "source": "Dev.to React"
       },
       {
