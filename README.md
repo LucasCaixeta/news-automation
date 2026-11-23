@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge](https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p)
-- [Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.](https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm)
-- [Measure web performance before you optimise](https://dev.to/mohammad_khalifeh/measure-web-performance-before-you-optimise-dch)
+- [Keyboard Accessibility Testing with Playwright: Modals, Menus, Tabs and the Bugs axe-core Misses](https://dev.to/mick_michaels_b9eb/keyboard-accessibility-testing-with-playwright-modals-menus-tabs-and-the-bugs-axe-core-misses-12km)
+- [Stop using /\d{6}/ to read verification codes in your tests](https://dev.to/rfoel/stop-using-d6-to-read-verification-codes-in-your-tests-2nio)
+- [The Dirac Equation Is Geometry — From Two Arrows to Antimatter (Interactive)](https://dev.to/ki-mathias/the-dirac-equation-is-geometry-from-two-arrows-to-antimatter-interactive-2oij)
 
 #### Dev.to React
 
-- [AFTERIMAGE: a five-scene memory essay you cut by blinking, framed by where you look and how evenly you breathe](https://dev.to/emarc99/afterimage-a-five-scene-memory-essay-you-cut-by-blinking-framed-by-where-you-look-and-how-evenly-5bjl)
-- [How We Rebuilt a WordPress LMS Front End with React and Cloudflare Pages, without leaving WordPress](https://dev.to/eniolaomotee/how-we-rebuilt-a-wordpress-lms-front-end-with-react-and-cloudflare-pages-without-leaving-wordpress-3fh2)
-- ["Ask a friend" with no backend: comparing two people's ratings through a URL](https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie)
+- [De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi](https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j)
+- [Build an Offline-First Zakat & Nisab Calculator in React Using a JSON API](https://dev.to/sunnahsource/build-an-offline-first-zakat-nisab-calculator-in-react-using-a-json-api-20cj)
+- [Make your React/Vite SPA readable by AI crawlers without rewriting it](https://dev.to/xwickz/make-your-reactvite-spa-readable-by-ai-crawlers-without-rewriting-it-gpm)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 23, 2026",
     "news": [
       {
-        "title": "Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge",
-        "link": "https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p",
+        "title": "Keyboard Accessibility Testing with Playwright: Modals, Menus, Tabs and the Bugs axe-core Misses",
+        "link": "https://dev.to/mick_michaels_b9eb/keyboard-accessibility-testing-with-playwright-modals-menus-tabs-and-the-bugs-axe-core-misses-12km",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.",
-        "link": "https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm",
+        "title": "Stop using /\\d{6}/ to read verification codes in your tests",
+        "link": "https://dev.to/rfoel/stop-using-d6-to-read-verification-codes-in-your-tests-2nio",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Measure web performance before you optimise",
-        "link": "https://dev.to/mohammad_khalifeh/measure-web-performance-before-you-optimise-dch",
+        "title": "The Dirac Equation Is Geometry — From Two Arrows to Antimatter (Interactive)",
+        "link": "https://dev.to/ki-mathias/the-dirac-equation-is-geometry-from-two-arrows-to-antimatter-interactive-2oij",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "AFTERIMAGE: a five-scene memory essay you cut by blinking, framed by where you look and how evenly you breathe",
-        "link": "https://dev.to/emarc99/afterimage-a-five-scene-memory-essay-you-cut-by-blinking-framed-by-where-you-look-and-how-evenly-5bjl",
+        "title": "De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi",
+        "link": "https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j",
         "source": "Dev.to React"
       },
       {
-        "title": "How We Rebuilt a WordPress LMS Front End with React and Cloudflare Pages, without leaving WordPress",
-        "link": "https://dev.to/eniolaomotee/how-we-rebuilt-a-wordpress-lms-front-end-with-react-and-cloudflare-pages-without-leaving-wordpress-3fh2",
+        "title": "Build an Offline-First Zakat & Nisab Calculator in React Using a JSON API",
+        "link": "https://dev.to/sunnahsource/build-an-offline-first-zakat-nisab-calculator-in-react-using-a-json-api-20cj",
         "source": "Dev.to React"
       },
       {
-        "title": "\"Ask a friend\" with no backend: comparing two people's ratings through a URL",
-        "link": "https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie",
+        "title": "Make your React/Vite SPA readable by AI crawlers without rewriting it",
+        "link": "https://dev.to/xwickz/make-your-reactvite-spa-readable-by-ai-crawlers-without-rewriting-it-gpm",
         "source": "Dev.to React"
       },
       {
