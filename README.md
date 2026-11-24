@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [React in Action: State, Events, Inputs & Forms](https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361)
-- [Keep stale API search responses out of your interface](https://dev.to/expertsits/keep-stale-api-search-responses-out-of-your-interface-597h)
-- [NULLPOINT: Christmas Edition — Festive Synth Music, Smarter Enemy Spawning, and a Replay System](https://dev.to/kehinde_owolabi_e2e54567a/nullpoint-christmas-edition-festive-synth-music-smarter-enemy-spawning-and-a-replay-system-l)
+- [One Script, Four Documents](https://dev.to/kenwalger/one-script-four-documents-2lb)
+- [JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking](https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7)
+- [I built a smart file assistant that never uploads your files. Here's how it works](https://dev.to/dockflip/i-built-image-pdf-tools-that-never-upload-your-files-heres-how-it-works-in-the-browser-1ema)
 
 #### Dev.to React
 
-- [React in Action: State, Events, Inputs & Forms](https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361)
-- [I Built My First Real Website With React From Scratch](https://dev.to/wahib_el_khadiri_0/i-built-my-first-real-website-with-react-from-scratch-9el)
-- [I Turned a Single-Page React Site Into a Real Multi-Page App With React Router](https://dev.to/wahib_el_khadiri_0/i-turned-a-single-page-react-site-into-a-real-multi-page-app-with-react-router-1n6b)
+- [JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking](https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7)
+- [Which JavaScript table library? We built the same table nine times so you don't have to](https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2)
+- [Cube.js + SQL Injection: Just Because It's an Analytics Layer Doesn't Mean Hackers Can't Do Math! 😂](https://dev.to/shantih_palani/cubejs-sql-injection-just-because-its-an-analytics-layer-doesnt-mean-hackers-cant-do-math-51k2)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 24, 2026",
     "news": [
       {
-        "title": "React in Action: State, Events, Inputs & Forms",
-        "link": "https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361",
+        "title": "One Script, Four Documents",
+        "link": "https://dev.to/kenwalger/one-script-four-documents-2lb",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Keep stale API search responses out of your interface",
-        "link": "https://dev.to/expertsits/keep-stale-api-search-responses-out-of-your-interface-597h",
+        "title": "JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking",
+        "link": "https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "NULLPOINT: Christmas Edition — Festive Synth Music, Smarter Enemy Spawning, and a Replay System",
-        "link": "https://dev.to/kehinde_owolabi_e2e54567a/nullpoint-christmas-edition-festive-synth-music-smarter-enemy-spawning-and-a-replay-system-l",
+        "title": "I built a smart file assistant that never uploads your files. Here's how it works",
+        "link": "https://dev.to/dockflip/i-built-image-pdf-tools-that-never-upload-your-files-heres-how-it-works-in-the-browser-1ema",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "React in Action: State, Events, Inputs & Forms",
-        "link": "https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361",
+        "title": "JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking",
+        "link": "https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7",
         "source": "Dev.to React"
       },
       {
-        "title": "I Built My First Real Website With React From Scratch",
-        "link": "https://dev.to/wahib_el_khadiri_0/i-built-my-first-real-website-with-react-from-scratch-9el",
+        "title": "Which JavaScript table library? We built the same table nine times so you don't have to",
+        "link": "https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2",
         "source": "Dev.to React"
       },
       {
-        "title": "I Turned a Single-Page React Site Into a Real Multi-Page App With React Router",
-        "link": "https://dev.to/wahib_el_khadiri_0/i-turned-a-single-page-react-site-into-a-real-multi-page-app-with-react-router-1n6b",
+        "title": "Cube.js + SQL Injection: Just Because It's an Analytics Layer Doesn't Mean Hackers Can't Do Math! 😂",
+        "link": "https://dev.to/shantih_palani/cubejs-sql-injection-just-because-its-an-analytics-layer-doesnt-mean-hackers-cant-do-math-51k2",
         "source": "Dev.to React"
       },
       {
