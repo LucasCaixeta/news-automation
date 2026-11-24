@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 23, 2026)
+### Today's Updates (November 24, 2026)
+
+#### Dev.to JavaScript
+
+- [React in Action: State, Events, Inputs & Forms](https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361)
+- [Keep stale API search responses out of your interface](https://dev.to/expertsits/keep-stale-api-search-responses-out-of-your-interface-597h)
+- [NULLPOINT: Christmas Edition — Festive Synth Music, Smarter Enemy Spawning, and a Replay System](https://dev.to/kehinde_owolabi_e2e54567a/nullpoint-christmas-edition-festive-synth-music-smarter-enemy-spawning-and-a-replay-system-l)
+
+#### Dev.to React
+
+- [React in Action: State, Events, Inputs & Forms](https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361)
+- [I Built My First Real Website With React From Scratch](https://dev.to/wahib_el_khadiri_0/i-built-my-first-real-website-with-react-from-scratch-9el)
+- [I Turned a Single-Page React Site Into a Real Multi-Page App With React Router](https://dev.to/wahib_el_khadiri_0/i-turned-a-single-page-react-site-into-a-real-multi-page-app-with-react-router-1n6b)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 22, 2026)
+### 2 Days Ago (November 22, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [885 of our 1,522 functions take exactly one argument, and the widest one is seven numbers that draw a shrub](https://dev.to/daniel_pertu/885-of-our-1522-functions-take-exactly-one-argument-and-the-widest-one-is-seven-numbers-that-draw-cp5)
 - [Two thirds of every page we serve is the React payload, and one key prop is 16 per cent of our bytes](https://dev.to/daniel_pertu/two-thirds-of-every-page-we-serve-is-the-react-payload-and-one-key-prop-is-16-per-cent-of-our-bytes-3ggi)
 - [52 attribute names hold our 76 public pages together, and React spells eleven of them with a capital letter](https://dev.to/daniel_pertu/52-attribute-names-hold-our-76-public-pages-together-and-react-spells-eleven-of-them-with-a-45gi)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 21, 2026)
-
-#### Dev.to JavaScript
-
-- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
-- [I built a 3D open-world mythology game in the browser with just Three.js](https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic)
-- [Architecting Mixel Engine: Building a 60 FPS 2D Canvas Rendering Pipeline for the Web](https://dev.to/alhossainrifat/architecting-mixel-engine-building-a-60-fps-2d-canvas-rendering-pipeline-for-the-web-1d5f)
-
-#### Dev.to React
-
-- [You Don't Need That useEffect: Derived State in React](https://dev.to/mohsenfallahnjd/you-dont-need-that-useeffect-derived-state-in-react-32c8)
-- [What Runs First in a Next.js Page: Server Components, Render, Effects](https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2)
-- [React or Next.js Site Not Indexed by Google? Here's the Fix](https://dev.to/abdullah_razzaq_648d1a98f/react-or-nextjs-site-not-indexed-by-google-heres-the-fix-3a51)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-24",
+    "formattedDate": "November 24, 2026",
+    "news": [
+      {
+        "title": "React in Action: State, Events, Inputs & Forms",
+        "link": "https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Keep stale API search responses out of your interface",
+        "link": "https://dev.to/expertsits/keep-stale-api-search-responses-out-of-your-interface-597h",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "NULLPOINT: Christmas Edition — Festive Synth Music, Smarter Enemy Spawning, and a Replay System",
+        "link": "https://dev.to/kehinde_owolabi_e2e54567a/nullpoint-christmas-edition-festive-synth-music-smarter-enemy-spawning-and-a-replay-system-l",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "React in Action: State, Events, Inputs & Forms",
+        "link": "https://dev.to/sowntharya/react-in-action-state-events-inputs-forms-3361",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Built My First Real Website With React From Scratch",
+        "link": "https://dev.to/wahib_el_khadiri_0/i-built-my-first-real-website-with-react-from-scratch-9el",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I Turned a Single-Page React Site Into a Real Multi-Page App With React Router",
+        "link": "https://dev.to/wahib_el_khadiri_0/i-turned-a-single-page-react-site-into-a-real-multi-page-app-with-react-router-1n6b",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-23",
     "formattedDate": "November 23, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "52 attribute names hold our 76 public pages together, and React spells eleven of them with a capital letter",
         "link": "https://dev.to/daniel_pertu/52-attribute-names-hold-our-76-public-pages-together-and-react-spells-eleven-of-them-with-a-45gi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-21",
-    "formattedDate": "November 21, 2026",
-    "news": [
-      {
-        "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
-        "link": "https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a 3D open-world mythology game in the browser with just Three.js",
-        "link": "https://dev.to/yashdatir/i-built-a-3d-open-world-mythology-game-in-the-browser-with-just-threejs-3mic",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Architecting Mixel Engine: Building a 60 FPS 2D Canvas Rendering Pipeline for the Web",
-        "link": "https://dev.to/alhossainrifat/architecting-mixel-engine-building-a-60-fps-2d-canvas-rendering-pipeline-for-the-web-1d5f",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "You Don't Need That useEffect: Derived State in React",
-        "link": "https://dev.to/mohsenfallahnjd/you-dont-need-that-useeffect-derived-state-in-react-32c8",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "What Runs First in a Next.js Page: Server Components, Render, Effects",
-        "link": "https://dev.to/mohsenfallahnjd/what-runs-first-in-a-nextjs-page-server-components-render-effects-3k2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "React or Next.js Site Not Indexed by Google? Here's the Fix",
-        "link": "https://dev.to/abdullah_razzaq_648d1a98f/react-or-nextjs-site-not-indexed-by-google-heres-the-fix-3a51",
         "source": "Dev.to React"
       },
       {
