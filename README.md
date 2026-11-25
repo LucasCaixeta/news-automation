@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 24, 2026)
+### Today's Updates (November 25, 2026)
+
+#### Dev.to JavaScript
+
+- [One Script, Four Documents](https://dev.to/kenwalger/one-script-four-documents-2lb)
+- [Three hours, one small extension, and Firefox Add-ons](https://dev.to/necoz/three-hours-one-small-extension-and-firefox-add-ons-27d4)
+- [Building a Fair Random Name Picker Wheel for Any Browser](https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3)
+
+#### Dev.to React
+
+- [Building a Fair Random Name Picker Wheel for Any Browser](https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3)
+- [Tailwind Emails That Survive the Inbox: React Email Without the Guesswork](https://dev.to/saiful7778/tailwind-emails-that-survive-the-inbox-react-email-without-the-guesswork-3c70)
+- [Next.js "Hydration Failed Because the Server Rendered HTML Didn't Match the Client": Find the Cause, Then Pick the Fix](https://dev.to/libme/nextjs-hydration-failed-because-the-server-rendered-html-didnt-match-the-client-find-the-3ap6)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 23, 2026)
+### 2 Days Ago (November 23, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi](https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j)
 - [Build an Offline-First Zakat & Nisab Calculator in React Using a JSON API](https://dev.to/sunnahsource/build-an-offline-first-zakat-nisab-calculator-in-react-using-a-json-api-20cj)
 - [Make your React/Vite SPA readable by AI crawlers without rewriting it](https://dev.to/xwickz/make-your-reactvite-spa-readable-by-ai-crawlers-without-rewriting-it-gpm)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 22, 2026)
-
-#### Dev.to JavaScript
-
-- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
-- [Three date bugs in a 10-line age calculator (and the TZ= trick that exposes them)](https://dev.to/sikandar_bro_0db8c99c4a7c/three-date-bugs-in-a-10-line-age-calculator-and-the-tz-trick-that-exposes-them-366e)
-- [Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.](https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm)
-
-#### Dev.to React
-
-- [885 of our 1,522 functions take exactly one argument, and the widest one is seven numbers that draw a shrub](https://dev.to/daniel_pertu/885-of-our-1522-functions-take-exactly-one-argument-and-the-widest-one-is-seven-numbers-that-draw-cp5)
-- [Two thirds of every page we serve is the React payload, and one key prop is 16 per cent of our bytes](https://dev.to/daniel_pertu/two-thirds-of-every-page-we-serve-is-the-react-payload-and-one-key-prop-is-16-per-cent-of-our-bytes-3ggi)
-- [52 attribute names hold our 76 public pages together, and React spells eleven of them with a capital letter](https://dev.to/daniel_pertu/52-attribute-names-hold-our-76-public-pages-together-and-react-spells-eleven-of-them-with-a-45gi)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-25",
+    "formattedDate": "November 25, 2026",
+    "news": [
+      {
+        "title": "One Script, Four Documents",
+        "link": "https://dev.to/kenwalger/one-script-four-documents-2lb",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Three hours, one small extension, and Firefox Add-ons",
+        "link": "https://dev.to/necoz/three-hours-one-small-extension-and-firefox-add-ons-27d4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Fair Random Name Picker Wheel for Any Browser",
+        "link": "https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Building a Fair Random Name Picker Wheel for Any Browser",
+        "link": "https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Tailwind Emails That Survive the Inbox: React Email Without the Guesswork",
+        "link": "https://dev.to/saiful7778/tailwind-emails-that-survive-the-inbox-react-email-without-the-guesswork-3c70",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Next.js \"Hydration Failed Because the Server Rendered HTML Didn't Match the Client\": Find the Cause, Then Pick the Fix",
+        "link": "https://dev.to/libme/nextjs-hydration-failed-because-the-server-rendered-html-didnt-match-the-client-find-the-3ap6",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-24",
     "formattedDate": "November 24, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Make your React/Vite SPA readable by AI crawlers without rewriting it",
         "link": "https://dev.to/xwickz/make-your-reactvite-spa-readable-by-ai-crawlers-without-rewriting-it-gpm",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-22",
-    "formattedDate": "November 22, 2026",
-    "news": [
-      {
-        "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
-        "link": "https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Three date bugs in a 10-line age calculator (and the TZ= trick that exposes them)",
-        "link": "https://dev.to/sikandar_bro_0db8c99c4a7c/three-date-bugs-in-a-10-line-age-calculator-and-the-tz-trick-that-exposes-them-366e",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Pre-Fill Your Skipped Slots. Just Don't Believe What They Say.",
-        "link": "https://dev.to/aheadkit/pre-fill-your-skipped-slots-just-dont-believe-what-they-say-3nfm",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "885 of our 1,522 functions take exactly one argument, and the widest one is seven numbers that draw a shrub",
-        "link": "https://dev.to/daniel_pertu/885-of-our-1522-functions-take-exactly-one-argument-and-the-widest-one-is-seven-numbers-that-draw-cp5",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Two thirds of every page we serve is the React payload, and one key prop is 16 per cent of our bytes",
-        "link": "https://dev.to/daniel_pertu/two-thirds-of-every-page-we-serve-is-the-react-payload-and-one-key-prop-is-16-per-cent-of-our-bytes-3ggi",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "52 attribute names hold our 76 public pages together, and React spells eleven of them with a capital letter",
-        "link": "https://dev.to/daniel_pertu/52-attribute-names-hold-our-76-public-pages-together-and-react-spells-eleven-of-them-with-a-45gi",
         "source": "Dev.to React"
       },
       {
