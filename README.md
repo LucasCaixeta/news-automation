@@ -11,14 +11,14 @@ This repository contains an automated newsletter that updates daily with the lat
 #### Dev.to JavaScript
 
 - [One Script, Four Documents](https://dev.to/kenwalger/one-script-four-documents-2lb)
-- [Three hours, one small extension, and Firefox Add-ons](https://dev.to/necoz/three-hours-one-small-extension-and-firefox-add-ons-27d4)
-- [Building a Fair Random Name Picker Wheel for Any Browser](https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3)
+- [Claude Code Automated Refactoring Pipelines in 2026: Running AST Transforms and Letting the Agent Verify Its Own Output](https://dev.to/jsmanifest/claude-code-automated-refactoring-pipelines-in-2026-running-ast-transforms-and-letting-the-agent-31ol)
+- [Structured Output na prática: do "responda apenas JSON" ao schema validado](https://dev.to/lucasharosa/structured-output-na-pratica-do-responda-apenas-json-ao-schema-validado-2cde)
 
 #### Dev.to React
 
-- [Building a Fair Random Name Picker Wheel for Any Browser](https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3)
-- [Tailwind Emails That Survive the Inbox: React Email Without the Guesswork](https://dev.to/saiful7778/tailwind-emails-that-survive-the-inbox-react-email-without-the-guesswork-3c70)
-- [Next.js "Hydration Failed Because the Server Rendered HTML Didn't Match the Client": Find the Cause, Then Pick the Fix](https://dev.to/libme/nextjs-hydration-failed-because-the-server-rendered-html-didnt-match-the-client-find-the-3ap6)
+- [Gating an Agent Reverse-Engineering Runner Behind Next.js Server Actions](https://dev.to/elena_rostova/gating-an-agent-reverse-engineering-runner-behind-nextjs-server-actions-1i29)
+- [How I reduced Chromatic snapshot usage for 500 generated icons](https://dev.to/dmytroshyshko/how-i-reduced-chromatic-snapshot-usage-for-500-generated-icons-7po)
+- [Is React bad for SEO? What crawlers actually get from your app](https://dev.to/xodiaai/is-react-bad-for-seo-what-crawlers-actually-get-from-your-app-23e7)
 
 #### React Blog
 
@@ -94,28 +94,28 @@ Contributions to improve the newsletter format or sources are welcome!
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Three hours, one small extension, and Firefox Add-ons",
-        "link": "https://dev.to/necoz/three-hours-one-small-extension-and-firefox-add-ons-27d4",
+        "title": "Claude Code Automated Refactoring Pipelines in 2026: Running AST Transforms and Letting the Agent Verify Its Own Output",
+        "link": "https://dev.to/jsmanifest/claude-code-automated-refactoring-pipelines-in-2026-running-ast-transforms-and-letting-the-agent-31ol",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Fair Random Name Picker Wheel for Any Browser",
-        "link": "https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3",
+        "title": "Structured Output na prática: do \"responda apenas JSON\" ao schema validado",
+        "link": "https://dev.to/lucasharosa/structured-output-na-pratica-do-responda-apenas-json-ao-schema-validado-2cde",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Building a Fair Random Name Picker Wheel for Any Browser",
-        "link": "https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3",
+        "title": "Gating an Agent Reverse-Engineering Runner Behind Next.js Server Actions",
+        "link": "https://dev.to/elena_rostova/gating-an-agent-reverse-engineering-runner-behind-nextjs-server-actions-1i29",
         "source": "Dev.to React"
       },
       {
-        "title": "Tailwind Emails That Survive the Inbox: React Email Without the Guesswork",
-        "link": "https://dev.to/saiful7778/tailwind-emails-that-survive-the-inbox-react-email-without-the-guesswork-3c70",
+        "title": "How I reduced Chromatic snapshot usage for 500 generated icons",
+        "link": "https://dev.to/dmytroshyshko/how-i-reduced-chromatic-snapshot-usage-for-500-generated-icons-7po",
         "source": "Dev.to React"
       },
       {
-        "title": "Next.js \"Hydration Failed Because the Server Rendered HTML Didn't Match the Client\": Find the Cause, Then Pick the Fix",
-        "link": "https://dev.to/libme/nextjs-hydration-failed-because-the-server-rendered-html-didnt-match-the-client-find-the-3ap6",
+        "title": "Is React bad for SEO? What crawlers actually get from your app",
+        "link": "https://dev.to/xodiaai/is-react-bad-for-seo-what-crawlers-actually-get-from-your-app-23e7",
         "source": "Dev.to React"
       },
       {
