@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 25, 2026)
+### Today's Updates (November 26, 2026)
+
+#### Dev.to JavaScript
+
+- [Test Email Address Deliverability in Node.js: MX Records, Null MX and the Retry Trap](https://dev.to/emaildigit/test-email-address-deliverability-in-nodejs-mx-records-null-mx-and-the-retry-trap-19ei)
+- [Before Switching to P2P, I Measured Whether WebRTC Would Even Connect](https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d)
+- [How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)](https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7)
+
+#### Dev.to React
+
+- [5 production-only bugs I hit shipping my first Android app as a solo founder](https://dev.to/mahmoodali_duvello/5-production-only-bugs-i-hit-shipping-my-first-android-app-as-a-solo-founder-22g1)
+- [How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)](https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7)
+- [Building and Adapting Next.js Templates with Lovable: A Practical Guide](https://dev.to/promptedsite/building-and-adapting-nextjs-templates-with-lovable-a-practical-guide-45cd)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 24, 2026)
+### 2 Days Ago (November 24, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking](https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7)
 - [Which JavaScript table library? We built the same table nine times so you don't have to](https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2)
 - [Cube.js + SQL Injection: Just Because It's an Analytics Layer Doesn't Mean Hackers Can't Do Math! 😂](https://dev.to/shantih_palani/cubejs-sql-injection-just-because-its-an-analytics-layer-doesnt-mean-hackers-cant-do-math-51k2)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 23, 2026)
-
-#### Dev.to JavaScript
-
-- [Keyboard Accessibility Testing with Playwright: Modals, Menus, Tabs and the Bugs axe-core Misses](https://dev.to/mick_michaels_b9eb/keyboard-accessibility-testing-with-playwright-modals-menus-tabs-and-the-bugs-axe-core-misses-12km)
-- [Stop using /\d{6}/ to read verification codes in your tests](https://dev.to/rfoel/stop-using-d6-to-read-verification-codes-in-your-tests-2nio)
-- [The Dirac Equation Is Geometry — From Two Arrows to Antimatter (Interactive)](https://dev.to/ki-mathias/the-dirac-equation-is-geometry-from-two-arrows-to-antimatter-interactive-2oij)
-
-#### Dev.to React
-
-- [De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi](https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j)
-- [Build an Offline-First Zakat & Nisab Calculator in React Using a JSON API](https://dev.to/sunnahsource/build-an-offline-first-zakat-nisab-calculator-in-react-using-a-json-api-20cj)
-- [Make your React/Vite SPA readable by AI crawlers without rewriting it](https://dev.to/xwickz/make-your-reactvite-spa-readable-by-ai-crawlers-without-rewriting-it-gpm)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-26",
+    "formattedDate": "November 26, 2026",
+    "news": [
+      {
+        "title": "Test Email Address Deliverability in Node.js: MX Records, Null MX and the Retry Trap",
+        "link": "https://dev.to/emaildigit/test-email-address-deliverability-in-nodejs-mx-records-null-mx-and-the-retry-trap-19ei",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Before Switching to P2P, I Measured Whether WebRTC Would Even Connect",
+        "link": "https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)",
+        "link": "https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "5 production-only bugs I hit shipping my first Android app as a solo founder",
+        "link": "https://dev.to/mahmoodali_duvello/5-production-only-bugs-i-hit-shipping-my-first-android-app-as-a-solo-founder-22g1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)",
+        "link": "https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Building and Adapting Next.js Templates with Lovable: A Practical Guide",
+        "link": "https://dev.to/promptedsite/building-and-adapting-nextjs-templates-with-lovable-a-practical-guide-45cd",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-25",
     "formattedDate": "November 25, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Cube.js + SQL Injection: Just Because It's an Analytics Layer Doesn't Mean Hackers Can't Do Math! 😂",
         "link": "https://dev.to/shantih_palani/cubejs-sql-injection-just-because-its-an-analytics-layer-doesnt-mean-hackers-cant-do-math-51k2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-23",
-    "formattedDate": "November 23, 2026",
-    "news": [
-      {
-        "title": "Keyboard Accessibility Testing with Playwright: Modals, Menus, Tabs and the Bugs axe-core Misses",
-        "link": "https://dev.to/mick_michaels_b9eb/keyboard-accessibility-testing-with-playwright-modals-menus-tabs-and-the-bugs-axe-core-misses-12km",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Stop using /\\d{6}/ to read verification codes in your tests",
-        "link": "https://dev.to/rfoel/stop-using-d6-to-read-verification-codes-in-your-tests-2nio",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "The Dirac Equation Is Geometry — From Two Arrows to Antimatter (Interactive)",
-        "link": "https://dev.to/ki-mathias/the-dirac-equation-is-geometry-from-two-arrows-to-antimatter-interactive-2oij",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "De planilhas estáticas a Agent Skills: como estruturar BI e monetizar engenharia na Agensi",
-        "link": "https://dev.to/rafaeltozato/de-planilhas-estaticas-a-agent-skills-como-estruturar-bi-e-monetizar-engenharia-na-agensi-79j",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Build an Offline-First Zakat & Nisab Calculator in React Using a JSON API",
-        "link": "https://dev.to/sunnahsource/build-an-offline-first-zakat-nisab-calculator-in-react-using-a-json-api-20cj",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Make your React/Vite SPA readable by AI crawlers without rewriting it",
-        "link": "https://dev.to/xwickz/make-your-reactvite-spa-readable-by-ai-crawlers-without-rewriting-it-gpm",
         "source": "Dev.to React"
       },
       {
