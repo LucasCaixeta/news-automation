@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Test Email Address Deliverability in Node.js: MX Records, Null MX and the Retry Trap](https://dev.to/emaildigit/test-email-address-deliverability-in-nodejs-mx-records-null-mx-and-the-retry-trap-19ei)
-- [Before Switching to P2P, I Measured Whether WebRTC Would Even Connect](https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d)
-- [How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)](https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7)
+- [Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)](https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj)
+- [JavaScript told me to buy 8 bags of concrete. I needed 7.](https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh)
+- [What I learned building real-time 8D audio in the browser with the Web Audio API](https://dev.to/harshmittal1750/what-i-learned-building-real-time-8d-audio-in-the-browser-with-the-web-audio-api-3e27)
 
 #### Dev.to React
 
-- [5 production-only bugs I hit shipping my first Android app as a solo founder](https://dev.to/mahmoodali_duvello/5-production-only-bugs-i-hit-shipping-my-first-android-app-as-a-solo-founder-22g1)
-- [How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)](https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7)
-- [Building and Adapting Next.js Templates with Lovable: A Practical Guide](https://dev.to/promptedsite/building-and-adapting-nextjs-templates-with-lovable-a-practical-guide-45cd)
+- [Remotion vs. CoAnimator When Your Product Demo Needs an Update](https://dev.to/ruixiao/remotion-vs-coanimator-when-your-product-demo-needs-an-update-3ikb)
+- [I built a fortune wheel that decides the winner before it starts spinning published: true](https://dev.to/usa_beam_13f4125e3530d8a6/i-built-a-fortune-wheel-that-decides-the-winner-before-it-starts-spinningpublished-true-3n2e)
+- [How I Found the 13 Customers Behind 19% of a Shop's Sales](https://dev.to/jayantbansal900/how-i-found-the-13-customers-behind-19-of-a-shops-sales-mme)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 26, 2026",
     "news": [
       {
-        "title": "Test Email Address Deliverability in Node.js: MX Records, Null MX and the Retry Trap",
-        "link": "https://dev.to/emaildigit/test-email-address-deliverability-in-nodejs-mx-records-null-mx-and-the-retry-trap-19ei",
+        "title": "Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)",
+        "link": "https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Before Switching to P2P, I Measured Whether WebRTC Would Even Connect",
-        "link": "https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d",
+        "title": "JavaScript told me to buy 8 bags of concrete. I needed 7.",
+        "link": "https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)",
-        "link": "https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7",
+        "title": "What I learned building real-time 8D audio in the browser with the Web Audio API",
+        "link": "https://dev.to/harshmittal1750/what-i-learned-building-real-time-8d-audio-in-the-browser-with-the-web-audio-api-3e27",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "5 production-only bugs I hit shipping my first Android app as a solo founder",
-        "link": "https://dev.to/mahmoodali_duvello/5-production-only-bugs-i-hit-shipping-my-first-android-app-as-a-solo-founder-22g1",
+        "title": "Remotion vs. CoAnimator When Your Product Demo Needs an Update",
+        "link": "https://dev.to/ruixiao/remotion-vs-coanimator-when-your-product-demo-needs-an-update-3ikb",
         "source": "Dev.to React"
       },
       {
-        "title": "How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)",
-        "link": "https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7",
+        "title": "I built a fortune wheel that decides the winner before it starts spinning published: true",
+        "link": "https://dev.to/usa_beam_13f4125e3530d8a6/i-built-a-fortune-wheel-that-decides-the-winner-before-it-starts-spinningpublished-true-3n2e",
         "source": "Dev.to React"
       },
       {
-        "title": "Building and Adapting Next.js Templates with Lovable: A Practical Guide",
-        "link": "https://dev.to/promptedsite/building-and-adapting-nextjs-templates-with-lovable-a-practical-guide-45cd",
+        "title": "How I Found the 13 Customers Behind 19% of a Shop's Sales",
+        "link": "https://dev.to/jayantbansal900/how-i-found-the-13-customers-behind-19-of-a-shops-sales-mme",
         "source": "Dev.to React"
       },
       {
