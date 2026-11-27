@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 26, 2026)
+### Today's Updates (November 27, 2026)
+
+#### Dev.to JavaScript
+
+- [Claude Code `--resume` and Session Persistence in 2026: Picking Up Long Refactors Where You Left Off](https://dev.to/jsmanifest/claude-code-resume-and-session-persistence-in-2026-picking-up-long-refactors-where-you-left-off-5fei)
+- [Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)](https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj)
+- [JavaScript told me to buy 8 bags of concrete. I needed 7.](https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh)
+
+#### Dev.to React
+
+- [Fixing a 6-second LCP caused by a hero fade-in animation](https://dev.to/salehahmed10/fixing-a-6-second-lcp-caused-by-a-hero-fade-in-animation-5469)
+- [How to Evaluate, Structure, and Customize Next.js Templates](https://dev.to/promptedsite/how-to-evaluate-structure-and-customize-nextjs-templates-7h1)
+- [I built a cartoon talk show where 6 AIs roast each other about money. Here's the pipeline.](https://dev.to/kinzarra/i-built-a-cartoon-talk-show-where-6-ais-roast-each-other-about-money-heres-the-pipeline-8dm)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 25, 2026)
+### 2 Days Ago (November 25, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Gating an Agent Reverse-Engineering Runner Behind Next.js Server Actions](https://dev.to/elena_rostova/gating-an-agent-reverse-engineering-runner-behind-nextjs-server-actions-1i29)
 - [How I reduced Chromatic snapshot usage for 500 generated icons](https://dev.to/dmytroshyshko/how-i-reduced-chromatic-snapshot-usage-for-500-generated-icons-7po)
 - [Is React bad for SEO? What crawlers actually get from your app](https://dev.to/xodiaai/is-react-bad-for-seo-what-crawlers-actually-get-from-your-app-23e7)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 24, 2026)
-
-#### Dev.to JavaScript
-
-- [One Script, Four Documents](https://dev.to/kenwalger/one-script-four-documents-2lb)
-- [JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking](https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7)
-- [I built a smart file assistant that never uploads your files. Here's how it works](https://dev.to/dockflip/i-built-image-pdf-tools-that-never-upload-your-files-heres-how-it-works-in-the-browser-1ema)
-
-#### Dev.to React
-
-- [JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking](https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7)
-- [Which JavaScript table library? We built the same table nine times so you don't have to](https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2)
-- [Cube.js + SQL Injection: Just Because It's an Analytics Layer Doesn't Mean Hackers Can't Do Math! 😂](https://dev.to/shantih_palani/cubejs-sql-injection-just-because-its-an-analytics-layer-doesnt-mean-hackers-cant-do-math-51k2)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-27",
+    "formattedDate": "November 27, 2026",
+    "news": [
+      {
+        "title": "Claude Code `--resume` and Session Persistence in 2026: Picking Up Long Refactors Where You Left Off",
+        "link": "https://dev.to/jsmanifest/claude-code-resume-and-session-persistence-in-2026-picking-up-long-refactors-where-you-left-off-5fei",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)",
+        "link": "https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "JavaScript told me to buy 8 bags of concrete. I needed 7.",
+        "link": "https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Fixing a 6-second LCP caused by a hero fade-in animation",
+        "link": "https://dev.to/salehahmed10/fixing-a-6-second-lcp-caused-by-a-hero-fade-in-animation-5469",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "How to Evaluate, Structure, and Customize Next.js Templates",
+        "link": "https://dev.to/promptedsite/how-to-evaluate-structure-and-customize-nextjs-templates-7h1",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "I built a cartoon talk show where 6 AIs roast each other about money. Here's the pipeline.",
+        "link": "https://dev.to/kinzarra/i-built-a-cartoon-talk-show-where-6-ais-roast-each-other-about-money-heres-the-pipeline-8dm",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-26",
     "formattedDate": "November 26, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "Is React bad for SEO? What crawlers actually get from your app",
         "link": "https://dev.to/xodiaai/is-react-bad-for-seo-what-crawlers-actually-get-from-your-app-23e7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-24",
-    "formattedDate": "November 24, 2026",
-    "news": [
-      {
-        "title": "One Script, Four Documents",
-        "link": "https://dev.to/kenwalger/one-script-four-documents-2lb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking",
-        "link": "https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "I built a smart file assistant that never uploads your files. Here's how it works",
-        "link": "https://dev.to/dockflip/i-built-image-pdf-tools-that-never-upload-your-files-heres-how-it-works-in-the-browser-1ema",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "JavaScript `Error.isError()` Is Coming to V8: What the TC39 Proposal Means for Cross-Realm Error Checking",
-        "link": "https://dev.to/jsmanifest/javascript-erroriserror-is-coming-to-v8-what-the-tc39-proposal-means-for-cross-realm-error-4am7",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Which JavaScript table library? We built the same table nine times so you don't have to",
-        "link": "https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Cube.js + SQL Injection: Just Because It's an Analytics Layer Doesn't Mean Hackers Can't Do Math! 😂",
-        "link": "https://dev.to/shantih_palani/cubejs-sql-injection-just-because-its-an-analytics-layer-doesnt-mean-hackers-cant-do-math-51k2",
         "source": "Dev.to React"
       },
       {
