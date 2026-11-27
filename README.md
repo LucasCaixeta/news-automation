@@ -10,15 +10,15 @@ This repository contains an automated newsletter that updates daily with the lat
 
 #### Dev.to JavaScript
 
-- [Claude Code `--resume` and Session Persistence in 2026: Picking Up Long Refactors Where You Left Off](https://dev.to/jsmanifest/claude-code-resume-and-session-persistence-in-2026-picking-up-long-refactors-where-you-left-off-5fei)
-- [Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)](https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj)
-- [JavaScript told me to buy 8 bags of concrete. I needed 7.](https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh)
+- [An electricity bill isn't price times kWh: 81 JCP&L tariff revisions and a 3,000-case PHP/JS parity test](https://dev.to/jeremiah_say/an-electricity-bill-isnt-price-times-kwh-81-jcpl-tariff-revisions-and-a-3000-case-phpjs-parity-5c92)
+- [setCustomValidity() Explained: Native Form Error Messages](https://dev.to/parsajiravand/setcustomvalidity-explained-native-form-error-messages-fog)
+- [Your Framework's Decorators Still Need `experimentalDecorators`](https://dev.to/parsajiravand/your-frameworks-decorators-still-need-experimentaldecorators-56f9)
 
 #### Dev.to React
 
-- [Fixing a 6-second LCP caused by a hero fade-in animation](https://dev.to/salehahmed10/fixing-a-6-second-lcp-caused-by-a-hero-fade-in-animation-5469)
-- [How to Evaluate, Structure, and Customize Next.js Templates](https://dev.to/promptedsite/how-to-evaluate-structure-and-customize-nextjs-templates-7h1)
-- [I built a cartoon talk show where 6 AIs roast each other about money. Here's the pipeline.](https://dev.to/kinzarra/i-built-a-cartoon-talk-show-where-6-ais-roast-each-other-about-money-heres-the-pipeline-8dm)
+- [This Week In React #307 : Security, React Router, Next.js, TanStack Query, RTL, RTK | Reanimated, Worklets, Expo, Skia | TC39, Node.js, Parcel](https://dev.to/sebastienlorber/this-week-in-react-307-security-react-router-nextjs-tanstack-query-rtl-rtk-reanimated-523e)
+- [Next.js 16.3 error.js: retry vs reset Aren't Interchangeable](https://dev.to/parsajiravand/nextjs-163-errorjs-retry-vs-reset-arent-interchangeable-1d4c)
+- [Rewriting an Open Source Library: Awesome Reveal](https://dev.to/morellodev/rewriting-an-open-source-library-awesome-reveal-bgh)
 
 #### React Blog
 
@@ -89,33 +89,33 @@ Contributions to improve the newsletter format or sources are welcome!
     "formattedDate": "November 27, 2026",
     "news": [
       {
-        "title": "Claude Code `--resume` and Session Persistence in 2026: Picking Up Long Refactors Where You Left Off",
-        "link": "https://dev.to/jsmanifest/claude-code-resume-and-session-persistence-in-2026-picking-up-long-refactors-where-you-left-off-5fei",
+        "title": "An electricity bill isn't price times kWh: 81 JCP&L tariff revisions and a 3,000-case PHP/JS parity test",
+        "link": "https://dev.to/jeremiah_say/an-electricity-bill-isnt-price-times-kwh-81-jcpl-tariff-revisions-and-a-3000-case-phpjs-parity-5c92",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Show DEV: Beating the Browser Memory Ceiling — Streaming 50GB WebRTC Files Direct-to-Disk with OPFS (Part 3)",
-        "link": "https://dev.to/quantumtechcoder/show-dev-beating-the-browser-memory-ceiling-streaming-50gb-webrtc-files-direct-to-disk-with-opfs-10bj",
+        "title": "setCustomValidity() Explained: Native Form Error Messages",
+        "link": "https://dev.to/parsajiravand/setcustomvalidity-explained-native-form-error-messages-fog",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "JavaScript told me to buy 8 bags of concrete. I needed 7.",
-        "link": "https://dev.to/saurabh_sharma_7a9a61107d/javascript-told-me-to-buy-8-bags-of-concrete-i-needed-7-5oh",
+        "title": "Your Framework's Decorators Still Need `experimentalDecorators`",
+        "link": "https://dev.to/parsajiravand/your-frameworks-decorators-still-need-experimentaldecorators-56f9",
         "source": "Dev.to JavaScript"
       },
       {
-        "title": "Fixing a 6-second LCP caused by a hero fade-in animation",
-        "link": "https://dev.to/salehahmed10/fixing-a-6-second-lcp-caused-by-a-hero-fade-in-animation-5469",
+        "title": "This Week In React #307 : Security, React Router, Next.js, TanStack Query, RTL, RTK | Reanimated, Worklets, Expo, Skia | TC39, Node.js, Parcel",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-307-security-react-router-nextjs-tanstack-query-rtl-rtk-reanimated-523e",
         "source": "Dev.to React"
       },
       {
-        "title": "How to Evaluate, Structure, and Customize Next.js Templates",
-        "link": "https://dev.to/promptedsite/how-to-evaluate-structure-and-customize-nextjs-templates-7h1",
+        "title": "Next.js 16.3 error.js: retry vs reset Aren't Interchangeable",
+        "link": "https://dev.to/parsajiravand/nextjs-163-errorjs-retry-vs-reset-arent-interchangeable-1d4c",
         "source": "Dev.to React"
       },
       {
-        "title": "I built a cartoon talk show where 6 AIs roast each other about money. Here's the pipeline.",
-        "link": "https://dev.to/kinzarra/i-built-a-cartoon-talk-show-where-6-ais-roast-each-other-about-money-heres-the-pipeline-8dm",
+        "title": "Rewriting an Open Source Library: Awesome Reveal",
+        "link": "https://dev.to/morellodev/rewriting-an-open-source-library-awesome-reveal-bgh",
         "source": "Dev.to React"
       },
       {
