@@ -6,7 +6,26 @@ This repository contains an automated newsletter that updates daily with the lat
 
 *This section is automatically updated with the latest JavaScript and React news.*
 
-### Today's Updates (November 27, 2026)
+### Today's Updates (November 28, 2026)
+
+#### Dev.to JavaScript
+
+- [Your cookie banner says "Reject". Here's how to check if anything listens](https://dev.to/immsch/your-cookie-banner-says-reject-heres-how-to-check-if-anything-listens-f9b)
+- [Your On-Device AI Works Offline. Does Your Web App?](https://dev.to/gde/your-on-device-ai-works-offline-does-your-web-app-38kj)
+- [Parsing ZIP Playable Ads in Browser Memory with Native DecompressionStream & Validating 6 Mobile Ad Networks](https://dev.to/kaiyilu/parsing-zip-playable-ads-in-browser-memory-with-native-decompressionstream-validating-6-mobile-ad-27m4)
+
+#### Dev.to React
+
+- [I built an AI resume builder for Indian freshers with Laravel + Inertia React. Here's what I learned](https://dev.to/deepak_upadhyay_f56d36567/i-built-an-ai-resume-builder-for-indian-freshers-with-laravel-inertia-react-heres-what-i-learned-3ff0)
+- [This Week In React #307 : Security, React Router, Next.js, TanStack Query, RTL, RTK | Reanimated, Worklets, Expo, Skia | TC39, Node.js, Parcel](https://dev.to/sebastienlorber/this-week-in-react-307-security-react-router-nextjs-tanstack-query-rtl-rtk-reanimated-523e)
+- [Rendering for enterprise apps: CSR, SSR or both?](https://dev.to/adilbenmoussa/rendering-for-enterprise-apps-csr-ssr-or-both-54fo)
+
+#### React Blog
+
+- [Blog](https://react.dev/blog)
+- [@react.dev](https://bsky.app/profile/react.dev)
+
+### Yesterday's Updates (November 27, 2026)
 
 #### Dev.to JavaScript
 
@@ -25,7 +44,7 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Blog](https://react.dev/blog)
 - [@react.dev](https://bsky.app/profile/react.dev)
 
-### Yesterday's Updates (November 26, 2026)
+### 2 Days Ago (November 26, 2026)
 
 #### Dev.to JavaScript
 
@@ -38,25 +57,6 @@ This repository contains an automated newsletter that updates daily with the lat
 - [Remotion vs. CoAnimator When Your Product Demo Needs an Update](https://dev.to/ruixiao/remotion-vs-coanimator-when-your-product-demo-needs-an-update-3ikb)
 - [I built a fortune wheel that decides the winner before it starts spinning published: true](https://dev.to/usa_beam_13f4125e3530d8a6/i-built-a-fortune-wheel-that-decides-the-winner-before-it-starts-spinningpublished-true-3n2e)
 - [How I Found the 13 Customers Behind 19% of a Shop's Sales](https://dev.to/jayantbansal900/how-i-found-the-13-customers-behind-19-of-a-shops-sales-mme)
-
-#### React Blog
-
-- [Blog](https://react.dev/blog)
-- [@react.dev](https://bsky.app/profile/react.dev)
-
-### 2 Days Ago (November 25, 2026)
-
-#### Dev.to JavaScript
-
-- [One Script, Four Documents](https://dev.to/kenwalger/one-script-four-documents-2lb)
-- [Claude Code Automated Refactoring Pipelines in 2026: Running AST Transforms and Letting the Agent Verify Its Own Output](https://dev.to/jsmanifest/claude-code-automated-refactoring-pipelines-in-2026-running-ast-transforms-and-letting-the-agent-31ol)
-- [Structured Output na prática: do "responda apenas JSON" ao schema validado](https://dev.to/lucasharosa/structured-output-na-pratica-do-responda-apenas-json-ao-schema-validado-2cde)
-
-#### Dev.to React
-
-- [Gating an Agent Reverse-Engineering Runner Behind Next.js Server Actions](https://dev.to/elena_rostova/gating-an-agent-reverse-engineering-runner-behind-nextjs-server-actions-1i29)
-- [How I reduced Chromatic snapshot usage for 500 generated icons](https://dev.to/dmytroshyshko/how-i-reduced-chromatic-snapshot-usage-for-500-generated-icons-7po)
-- [Is React bad for SEO? What crawlers actually get from your app](https://dev.to/xodiaai/is-react-bad-for-seo-what-crawlers-actually-get-from-your-app-23e7)
 
 #### React Blog
 
@@ -84,6 +84,52 @@ Contributions to improve the newsletter format or sources are welcome!
 
 <!-- NEWS_DATA_START -->
 [
+  {
+    "date": "2026-11-28",
+    "formattedDate": "November 28, 2026",
+    "news": [
+      {
+        "title": "Your cookie banner says \"Reject\". Here's how to check if anything listens",
+        "link": "https://dev.to/immsch/your-cookie-banner-says-reject-heres-how-to-check-if-anything-listens-f9b",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Your On-Device AI Works Offline. Does Your Web App?",
+        "link": "https://dev.to/gde/your-on-device-ai-works-offline-does-your-web-app-38kj",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "Parsing ZIP Playable Ads in Browser Memory with Native DecompressionStream & Validating 6 Mobile Ad Networks",
+        "link": "https://dev.to/kaiyilu/parsing-zip-playable-ads-in-browser-memory-with-native-decompressionstream-validating-6-mobile-ad-27m4",
+        "source": "Dev.to JavaScript"
+      },
+      {
+        "title": "I built an AI resume builder for Indian freshers with Laravel + Inertia React. Here's what I learned",
+        "link": "https://dev.to/deepak_upadhyay_f56d36567/i-built-an-ai-resume-builder-for-indian-freshers-with-laravel-inertia-react-heres-what-i-learned-3ff0",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "This Week In React #307 : Security, React Router, Next.js, TanStack Query, RTL, RTK | Reanimated, Worklets, Expo, Skia | TC39, Node.js, Parcel",
+        "link": "https://dev.to/sebastienlorber/this-week-in-react-307-security-react-router-nextjs-tanstack-query-rtl-rtk-reanimated-523e",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Rendering for enterprise apps: CSR, SSR or both?",
+        "link": "https://dev.to/adilbenmoussa/rendering-for-enterprise-apps-csr-ssr-or-both-54fo",
+        "source": "Dev.to React"
+      },
+      {
+        "title": "Blog",
+        "link": "https://react.dev/blog",
+        "source": "React Blog"
+      },
+      {
+        "title": "@react.dev",
+        "link": "https://bsky.app/profile/react.dev",
+        "source": "React Blog"
+      }
+    ]
+  },
   {
     "date": "2026-11-27",
     "formattedDate": "November 27, 2026",
@@ -162,52 +208,6 @@ Contributions to improve the newsletter format or sources are welcome!
       {
         "title": "How I Found the 13 Customers Behind 19% of a Shop's Sales",
         "link": "https://dev.to/jayantbansal900/how-i-found-the-13-customers-behind-19-of-a-shops-sales-mme",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Blog",
-        "link": "https://react.dev/blog",
-        "source": "React Blog"
-      },
-      {
-        "title": "@react.dev",
-        "link": "https://bsky.app/profile/react.dev",
-        "source": "React Blog"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-25",
-    "formattedDate": "November 25, 2026",
-    "news": [
-      {
-        "title": "One Script, Four Documents",
-        "link": "https://dev.to/kenwalger/one-script-four-documents-2lb",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Claude Code Automated Refactoring Pipelines in 2026: Running AST Transforms and Letting the Agent Verify Its Own Output",
-        "link": "https://dev.to/jsmanifest/claude-code-automated-refactoring-pipelines-in-2026-running-ast-transforms-and-letting-the-agent-31ol",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Structured Output na prática: do \"responda apenas JSON\" ao schema validado",
-        "link": "https://dev.to/lucasharosa/structured-output-na-pratica-do-responda-apenas-json-ao-schema-validado-2cde",
-        "source": "Dev.to JavaScript"
-      },
-      {
-        "title": "Gating an Agent Reverse-Engineering Runner Behind Next.js Server Actions",
-        "link": "https://dev.to/elena_rostova/gating-an-agent-reverse-engineering-runner-behind-nextjs-server-actions-1i29",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "How I reduced Chromatic snapshot usage for 500 generated icons",
-        "link": "https://dev.to/dmytroshyshko/how-i-reduced-chromatic-snapshot-usage-for-500-generated-icons-7po",
-        "source": "Dev.to React"
-      },
-      {
-        "title": "Is React bad for SEO? What crawlers actually get from your app",
-        "link": "https://dev.to/xodiaai/is-react-bad-for-seo-what-crawlers-actually-get-from-your-app-23e7",
         "source": "Dev.to React"
       },
       {
